@@ -1,40 +1,40 @@
 {
-  "criteria": "cpe:2.3:a:vmware:spring_security:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4D9F6758-989F-4F7B-A119-D6D415205FA1",
-  "versionStartIncluding": "5.5.0",
-  "versionEndIncluding": "5.5.6",
-  "created": "2022-06-02T16:30:31.007",
-  "lastModified": "2022-06-02T16:30:31.007",
-  "cpeLastModified": "2021-07-01T00:02:00.597",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:vmware:spring_security:5.5.0:-:*:*:*:*:*:*",
-      "cpeNameId": "ECC58FE7-15D3-47C0-AA8B-88ABF9860E30"
-    },
-    {
-      "cpeName": "cpe:2.3:a:vmware:spring_security:5.5.0:milestone1:*:*:*:*:*:*",
-      "cpeNameId": "8798E863-DF75-46F1-B23F-ACE421A84024"
-    },
-    {
-      "cpeName": "cpe:2.3:a:vmware:spring_security:5.5.0:milestone2:*:*:*:*:*:*",
-      "cpeNameId": "7FB9998D-FC17-42F7-B6CD-CB352D9759C2"
-    },
-    {
-      "cpeName": "cpe:2.3:a:vmware:spring_security:5.5.0:milestone3:*:*:*:*:*:*",
-      "cpeNameId": "F19D364C-5B82-4266-801F-CF6BE5E03BDF"
-    },
-    {
-      "cpeName": "cpe:2.3:a:vmware:spring_security:5.5.0:rc1:*:*:*:*:*:*",
-      "cpeNameId": "E08B5D12-41F7-4776-AAF6-7E326FC45A33"
-    },
-    {
-      "cpeName": "cpe:2.3:a:vmware:spring_security:5.5.0:rc2:*:*:*:*:*:*",
-      "cpeNameId": "E15505DA-6B2D-404A-AE30-EBF55C7948ED"
-    },
-    {
-      "cpeName": "cpe:2.3:a:vmware:spring_security:5.5.1:*:*:*:*:*:*:*",
-      "cpeNameId": "2214451F-7897-4997-BAD3-9B54C2B50843"
-    }
-  ]
+	"criteria": "cpe:2.3:a:vmware:spring_security:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4D9F6758-989F-4F7B-A119-D6D415205FA1",
+	"versionStartIncluding": "5.5.0",
+	"versionEndIncluding": "5.5.6",
+	"created": "2022-06-02T16:30:31.007",
+	"lastModified": "2022-06-02T16:30:31.007",
+	"cpeLastModified": "2021-07-01T00:02:00.597",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:vmware:spring_security:5.5.0:-:*:*:*:*:*:*",
+			"cpeNameId": "ECC58FE7-15D3-47C0-AA8B-88ABF9860E30"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vmware:spring_security:5.5.0:milestone1:*:*:*:*:*:*",
+			"cpeNameId": "8798E863-DF75-46F1-B23F-ACE421A84024"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vmware:spring_security:5.5.0:milestone2:*:*:*:*:*:*",
+			"cpeNameId": "7FB9998D-FC17-42F7-B6CD-CB352D9759C2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vmware:spring_security:5.5.0:milestone3:*:*:*:*:*:*",
+			"cpeNameId": "F19D364C-5B82-4266-801F-CF6BE5E03BDF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vmware:spring_security:5.5.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "E08B5D12-41F7-4776-AAF6-7E326FC45A33"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vmware:spring_security:5.5.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "E15505DA-6B2D-404A-AE30-EBF55C7948ED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vmware:spring_security:5.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "2214451F-7897-4997-BAD3-9B54C2B50843"
+		}
+	]
 }

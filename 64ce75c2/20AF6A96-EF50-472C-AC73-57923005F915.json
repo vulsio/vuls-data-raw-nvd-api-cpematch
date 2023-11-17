@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:pagewide_352dw_j6u57a_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "20AF6A96-EF50-472C-AC73-57923005F915",
-  "versionEndExcluding": "2205d",
-  "created": "2022-03-29T15:25:18.493",
-  "lastModified": "2022-03-29T15:25:18.493",
-  "cpeLastModified": "2022-12-14T20:30:59.897",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:pagewide_352dw_j6u57a_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "850BDBF5-0FBF-43E2-B00F-F8030BC616C6"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:pagewide_352dw_j6u57a_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "20AF6A96-EF50-472C-AC73-57923005F915",
+	"versionEndExcluding": "2205d",
+	"created": "2022-03-29T15:25:18.493",
+	"lastModified": "2022-03-29T15:25:18.493",
+	"cpeLastModified": "2022-12-14T20:30:59.897",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:pagewide_352dw_j6u57a_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "850BDBF5-0FBF-43E2-B00F-F8030BC616C6"
+		}
+	]
 }

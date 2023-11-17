@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:systrace_project:systrace:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6DEA0183-AE4B-4579-8CFA-F34F99145C35",
-  "versionEndExcluding": "1.6.0",
-  "created": "2020-01-17T14:55:24.643",
-  "lastModified": "2020-01-17T14:55:24.643",
-  "cpeLastModified": "2020-01-24T18:28:29.067",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:systrace_project:systrace:-:*:*:*:*:*:*:*",
-      "cpeNameId": "19B2BAF8-9679-426F-BE54-E72ED55BFFF9"
-    }
-  ]
+	"criteria": "cpe:2.3:a:systrace_project:systrace:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6DEA0183-AE4B-4579-8CFA-F34F99145C35",
+	"versionEndExcluding": "1.6.0",
+	"created": "2020-01-17T14:55:24.643",
+	"lastModified": "2020-01-17T14:55:24.643",
+	"cpeLastModified": "2020-01-24T18:28:29.067",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:systrace_project:systrace:-:*:*:*:*:*:*:*",
+			"cpeNameId": "19B2BAF8-9679-426F-BE54-E72ED55BFFF9"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:supermicro:x11ssh-tf:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FDF932E7-ABDF-4541-B032-D013D881A25D",
-  "created": "2019-09-23T13:44:30.997",
-  "lastModified": "2019-09-23T13:44:30.997",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:supermicro:x11ssh-tf:-:*:*:*:*:*:*:*",
-      "cpeNameId": "5247735E-583C-42D0-A52F-F47656C3B1DB"
-    }
-  ]
+	"criteria": "cpe:2.3:h:supermicro:x11ssh-tf:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FDF932E7-ABDF-4541-B032-D013D881A25D",
+	"created": "2019-09-23T13:44:30.997",
+	"lastModified": "2019-09-23T13:44:30.997",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:supermicro:x11ssh-tf:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5247735E-583C-42D0-A52F-F47656C3B1DB"
+		}
+	]
 }

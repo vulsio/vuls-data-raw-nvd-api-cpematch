@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:electronjs:electron:21.0.0:alpha5:*:*:*:node.js:*:*",
-  "matchCriteriaId": "BCE9B3DE-2959-4BC5-81D4-8ACC7C974D0D",
-  "created": "2022-11-08T14:58:16.690",
-  "lastModified": "2022-11-08T14:58:16.690",
-  "cpeLastModified": "2022-11-08T14:58:16.690",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:electronjs:electron:21.0.0:alpha5:*:*:*:node.js:*:*",
-      "cpeNameId": "3E4CE6FD-873B-4387-B7EB-29C156989630"
-    }
-  ]
+	"criteria": "cpe:2.3:a:electronjs:electron:21.0.0:alpha5:*:*:*:node.js:*:*",
+	"matchCriteriaId": "BCE9B3DE-2959-4BC5-81D4-8ACC7C974D0D",
+	"created": "2022-11-08T14:58:16.690",
+	"lastModified": "2022-11-08T14:58:16.690",
+	"cpeLastModified": "2022-11-08T14:58:16.690",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:electronjs:electron:21.0.0:alpha5:*:*:*:node.js:*:*",
+			"cpeNameId": "3E4CE6FD-873B-4387-B7EB-29C156989630"
+		}
+	]
 }

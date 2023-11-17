@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:f5:big-iq_centralized_management:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FEF0C18C-F4D6-457C-BA08-28F218A658BB",
-  "versionStartIncluding": "7.0.0",
-  "versionEndExcluding": "7.1.0",
-  "created": "2020-04-27T14:40:54.367",
-  "lastModified": "2020-04-27T14:40:54.367",
-  "cpeLastModified": "2020-04-27T14:40:54.400",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:f5:big-iq_centralized_management:7.0.0:*:*:*:*:*:*:*",
-      "cpeNameId": "BA152417-DEF9-401C-9DD8-01EFF32BC4AC"
-    }
-  ]
+	"criteria": "cpe:2.3:a:f5:big-iq_centralized_management:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FEF0C18C-F4D6-457C-BA08-28F218A658BB",
+	"versionStartIncluding": "7.0.0",
+	"versionEndExcluding": "7.1.0",
+	"created": "2020-04-27T14:40:54.367",
+	"lastModified": "2020-04-27T14:40:54.367",
+	"cpeLastModified": "2020-04-27T14:40:54.400",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:f5:big-iq_centralized_management:7.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "BA152417-DEF9-401C-9DD8-01EFF32BC4AC"
+		}
+	]
 }

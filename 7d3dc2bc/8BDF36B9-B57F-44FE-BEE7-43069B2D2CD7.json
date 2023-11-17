@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:amd:ryzen_7_pro_5845_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8BDF36B9-B57F-44FE-BEE7-43069B2D2CD7",
-  "versionEndExcluding": "comboam4v2pi_1.2.0.b",
-  "created": "2023-08-21T14:09:06.113",
-  "lastModified": "2023-08-21T18:35:07.823",
-  "cpeLastModified": "2023-08-21T18:35:07.823",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:amd:ryzen_7_pro_5845_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E58A77F7-71BD-42D3-A614-21B802AB2389"
-    },
-    {
-      "cpeName": "cpe:2.3:o:amd:ryzen_7_pro_5845_firmware:comboam4_v2_pi_1.2.0.a:*:*:*:*:*:*:*",
-      "cpeNameId": "FA622812-E4D6-4861-8787-5F1FB8A76368"
-    }
-  ]
+	"criteria": "cpe:2.3:o:amd:ryzen_7_pro_5845_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8BDF36B9-B57F-44FE-BEE7-43069B2D2CD7",
+	"versionEndExcluding": "comboam4v2pi_1.2.0.b",
+	"created": "2023-08-21T14:09:06.113",
+	"lastModified": "2023-08-21T18:35:07.823",
+	"cpeLastModified": "2023-08-21T18:35:07.823",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_7_pro_5845_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E58A77F7-71BD-42D3-A614-21B802AB2389"
+		},
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_7_pro_5845_firmware:comboam4_v2_pi_1.2.0.a:*:*:*:*:*:*:*",
+			"cpeNameId": "FA622812-E4D6-4861-8787-5F1FB8A76368"
+		}
+	]
 }

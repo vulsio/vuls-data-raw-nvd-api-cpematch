@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:youtube_shortcode_project:youtube_shortcode:*:*:*:*:*:wordpress:*:*",
-  "matchCriteriaId": "B1A6A0E1-3958-4655-83DE-432528CA4A33",
-  "versionEndIncluding": "1.8.5",
-  "created": "2023-01-31T00:02:19.437",
-  "lastModified": "2023-01-31T00:02:19.437",
-  "cpeLastModified": "2023-03-03T16:05:27.843",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:youtube_shortcode_project:youtube_shortcode:1.8.5:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "0F437DE3-FC87-4C24-824B-30677C329A39"
-    }
-  ]
+	"criteria": "cpe:2.3:a:youtube_shortcode_project:youtube_shortcode:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "B1A6A0E1-3958-4655-83DE-432528CA4A33",
+	"versionEndIncluding": "1.8.5",
+	"created": "2023-01-31T00:02:19.437",
+	"lastModified": "2023-01-31T00:02:19.437",
+	"cpeLastModified": "2023-03-03T16:05:27.843",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:youtube_shortcode_project:youtube_shortcode:1.8.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0F437DE3-FC87-4C24-824B-30677C329A39"
+		}
+	]
 }

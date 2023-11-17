@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:dexp:bl250_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "564F8FD4-840C-4D50-96EC-6D6D44887092",
-  "created": "2019-11-25T19:12:30.413",
-  "lastModified": "2019-11-25T19:12:30.413",
-  "cpeLastModified": "2019-11-27T17:29:57.493",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dexp:bl250_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "131660F9-E624-4BAF-850B-E1946D529FBA"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dexp:bl250_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "564F8FD4-840C-4D50-96EC-6D6D44887092",
+	"created": "2019-11-25T19:12:30.413",
+	"lastModified": "2019-11-25T19:12:30.413",
+	"cpeLastModified": "2019-11-27T17:29:57.493",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dexp:bl250_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "131660F9-E624-4BAF-850B-E1946D529FBA"
+		}
+	]
 }

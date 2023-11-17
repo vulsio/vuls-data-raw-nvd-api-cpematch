@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:atom_x5-a3940_firmware:*:*:*:*:*:windows:*:*",
-  "matchCriteriaId": "C72C6F2A-4B69-4CA4-A167-75002D233C3C",
-  "versionEndExcluding": "26.20.100.6859",
-  "created": "2019-11-26T14:37:18.223",
-  "lastModified": "2019-11-26T14:37:18.223",
-  "cpeLastModified": "2020-01-13T14:14:17.253",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:atom_x5-a3940_firmware:-:*:*:*:*:windows:*:*",
-      "cpeNameId": "6E449FFF-F8AE-47BC-8686-A9B3FF52CDDA"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:atom_x5-a3940_firmware:*:*:*:*:*:windows:*:*",
+	"matchCriteriaId": "C72C6F2A-4B69-4CA4-A167-75002D233C3C",
+	"versionEndExcluding": "26.20.100.6859",
+	"created": "2019-11-26T14:37:18.223",
+	"lastModified": "2019-11-26T14:37:18.223",
+	"cpeLastModified": "2020-01-13T14:14:17.253",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:atom_x5-a3940_firmware:-:*:*:*:*:windows:*:*",
+			"cpeNameId": "6E449FFF-F8AE-47BC-8686-A9B3FF52CDDA"
+		}
+	]
 }

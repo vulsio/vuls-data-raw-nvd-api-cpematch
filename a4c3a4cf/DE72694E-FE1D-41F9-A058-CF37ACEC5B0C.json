@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:envy_5000_m2u94b_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "DE72694E-FE1D-41F9-A058-CF37ACEC5B0C",
-  "versionEndExcluding": "003.1925a",
-  "created": "2020-01-16T14:33:56.140",
-  "lastModified": "2020-01-16T14:33:56.140",
-  "cpeLastModified": "2020-02-28T16:05:57.590",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:envy_5000_m2u94b_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "7CA53138-B6BD-4158-8E13-571C5E70EEF8"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:envy_5000_m2u94b_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DE72694E-FE1D-41F9-A058-CF37ACEC5B0C",
+	"versionEndExcluding": "003.1925a",
+	"created": "2020-01-16T14:33:56.140",
+	"lastModified": "2020-01-16T14:33:56.140",
+	"cpeLastModified": "2020-02-28T16:05:57.590",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:envy_5000_m2u94b_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7CA53138-B6BD-4158-8E13-571C5E70EEF8"
+		}
+	]
 }

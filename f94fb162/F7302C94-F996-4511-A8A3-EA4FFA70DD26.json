@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:paloaltonetworks:prisma_cloud:19.11:-:*:*:compute:*:*:*",
-  "matchCriteriaId": "F7302C94-F996-4511-A8A3-EA4FFA70DD26",
-  "created": "2021-02-11T18:24:10.980",
-  "lastModified": "2021-02-11T18:24:10.980",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:paloaltonetworks:prisma_cloud:19.11:-:*:*:compute:*:*:*",
-      "cpeNameId": "068F7367-2D43-4530-9641-7D52407CD65B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:paloaltonetworks:prisma_cloud:19.11:-:*:*:compute:*:*:*",
+	"matchCriteriaId": "F7302C94-F996-4511-A8A3-EA4FFA70DD26",
+	"created": "2021-02-11T18:24:10.980",
+	"lastModified": "2021-02-11T18:24:10.980",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:paloaltonetworks:prisma_cloud:19.11:-:*:*:compute:*:*:*",
+			"cpeNameId": "068F7367-2D43-4530-9641-7D52407CD65B"
+		}
+	]
 }

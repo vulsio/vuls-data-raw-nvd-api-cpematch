@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:plone:volto:14.0.0:alpha39:*:*:*:node.js:*:*",
-  "matchCriteriaId": "1F7327CD-E127-44C5-A458-5EF227D154D6",
-  "created": "2022-03-21T14:21:42.263",
-  "lastModified": "2022-03-21T14:21:42.263",
-  "cpeLastModified": "2022-03-22T15:10:48.747",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:plone:volto:14.0.0:alpha39:*:*:*:node.js:*:*",
-      "cpeNameId": "060B8453-A3F0-4F1C-B30C-FC1093499437"
-    }
-  ]
+	"criteria": "cpe:2.3:a:plone:volto:14.0.0:alpha39:*:*:*:node.js:*:*",
+	"matchCriteriaId": "1F7327CD-E127-44C5-A458-5EF227D154D6",
+	"created": "2022-03-21T14:21:42.263",
+	"lastModified": "2022-03-21T14:21:42.263",
+	"cpeLastModified": "2022-03-22T15:10:48.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:plone:volto:14.0.0:alpha39:*:*:*:node.js:*:*",
+			"cpeNameId": "060B8453-A3F0-4F1C-B30C-FC1093499437"
+		}
+	]
 }

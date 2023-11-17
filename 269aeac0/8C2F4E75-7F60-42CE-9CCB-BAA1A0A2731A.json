@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:mitsubishi:melsec_l02cpu\\(-p\\)_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8C2F4E75-7F60-42CE-9CCB-BAA1A0A2731A",
-  "created": "2021-12-03T20:23:50.513",
-  "lastModified": "2021-12-03T20:23:50.513",
-  "cpeLastModified": "2021-12-03T20:28:51.267",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:mitsubishi:melsec_l02cpu\\(-p\\)_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "194BABF2-7457-4368-A4A9-4ECB8FE60EA8"
-    }
-  ]
+	"criteria": "cpe:2.3:o:mitsubishi:melsec_l02cpu\\(-p\\)_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8C2F4E75-7F60-42CE-9CCB-BAA1A0A2731A",
+	"created": "2021-12-03T20:23:50.513",
+	"lastModified": "2021-12-03T20:23:50.513",
+	"cpeLastModified": "2021-12-03T20:28:51.267",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:mitsubishi:melsec_l02cpu\\(-p\\)_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "194BABF2-7457-4368-A4A9-4ECB8FE60EA8"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:trendmicro:serverprotect:5.8:*:*:*:*:emc:*:*",
-  "matchCriteriaId": "0BD9FEA3-46A4-4CEF-97B5-27BC2120B082",
-  "created": "2020-03-02T13:40:42.440",
-  "lastModified": "2020-03-02T13:40:42.440",
-  "cpeLastModified": "2020-04-03T11:29:00.017",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:trendmicro:serverprotect:5.8:*:*:*:*:emc:*:*",
-      "cpeNameId": "80D8A977-E3CF-474A-A1B4-069FB1497A2C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:trendmicro:serverprotect:5.8:*:*:*:*:emc:*:*",
+	"matchCriteriaId": "0BD9FEA3-46A4-4CEF-97B5-27BC2120B082",
+	"created": "2020-03-02T13:40:42.440",
+	"lastModified": "2020-03-02T13:40:42.440",
+	"cpeLastModified": "2020-04-03T11:29:00.017",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:trendmicro:serverprotect:5.8:*:*:*:*:emc:*:*",
+			"cpeNameId": "80D8A977-E3CF-474A-A1B4-069FB1497A2C"
+		}
+	]
 }

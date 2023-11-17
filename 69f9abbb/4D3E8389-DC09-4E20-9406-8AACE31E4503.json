@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:o:siemens:desigo_pxc100-e.d_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4D3E8389-DC09-4E20-9406-8AACE31E4503",
-  "versionStartIncluding": "2.3",
-  "versionEndExcluding": "6.30.016",
-  "created": "2022-05-24T17:36:44.820",
-  "lastModified": "2022-05-24T17:36:44.820",
-  "cpeLastModified": "2022-05-24T18:02:08.463",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:desigo_pxc100-e.d_firmware:2.3:*:*:*:*:*:*:*",
-      "cpeNameId": "E3F8A8DF-26D5-4EE8-B54A-071BE72F8729"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:desigo_pxc100-e.d_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4D3E8389-DC09-4E20-9406-8AACE31E4503",
+	"versionStartIncluding": "2.3",
+	"versionEndExcluding": "6.30.016",
+	"created": "2022-05-24T17:36:44.820",
+	"lastModified": "2022-05-24T17:36:44.820",
+	"cpeLastModified": "2022-05-24T18:02:08.463",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:desigo_pxc100-e.d_firmware:2.3:*:*:*:*:*:*:*",
+			"cpeNameId": "E3F8A8DF-26D5-4EE8-B54A-071BE72F8729"
+		}
+	]
 }

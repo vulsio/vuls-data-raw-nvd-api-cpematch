@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:realtek:rtl8111fp-cg_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "798F35FF-351C-43B2-A7EF-828F2A4946D7",
-  "versionEndIncluding": "3.0.0.2019090",
-  "created": "2022-11-29T15:47:04.300",
-  "lastModified": "2022-11-29T15:48:54.733",
-  "cpeLastModified": "2022-11-29T15:48:54.733",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:realtek:rtl8111fp-cg_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "94D72BB7-0F4C-42C3-9E6E-AA87A59C761A"
-    },
-    {
-      "cpeName": "cpe:2.3:o:realtek:rtl8111fp-cg_firmware:3.0.0.2019090:*:*:*:*:*:*:*",
-      "cpeNameId": "989DAE3B-2414-4369-A643-D6D3BDFCE195"
-    }
-  ]
+	"criteria": "cpe:2.3:o:realtek:rtl8111fp-cg_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "798F35FF-351C-43B2-A7EF-828F2A4946D7",
+	"versionEndIncluding": "3.0.0.2019090",
+	"created": "2022-11-29T15:47:04.300",
+	"lastModified": "2022-11-29T15:48:54.733",
+	"cpeLastModified": "2022-11-29T15:48:54.733",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:realtek:rtl8111fp-cg_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "94D72BB7-0F4C-42C3-9E6E-AA87A59C761A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:realtek:rtl8111fp-cg_firmware:3.0.0.2019090:*:*:*:*:*:*:*",
+			"cpeNameId": "989DAE3B-2414-4369-A643-D6D3BDFCE195"
+		}
+	]
 }

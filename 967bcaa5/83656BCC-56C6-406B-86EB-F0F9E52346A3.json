@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:vivotek:fd9365-htvl_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "83656BCC-56C6-406B-86EB-F0F9E52346A3",
-  "versionEndIncluding": "0222g",
-  "created": "2020-05-29T14:56:16.783",
-  "lastModified": "2020-05-29T14:56:16.783",
-  "cpeLastModified": "2020-08-20T15:10:07.227",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:vivotek:fd9365-htvl_firmware:0121d:*:*:*:*:*:*:*",
-      "cpeNameId": "DC41739C-4CE4-4F74-B1F9-05CA938890FD"
-    }
-  ]
+	"criteria": "cpe:2.3:o:vivotek:fd9365-htvl_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "83656BCC-56C6-406B-86EB-F0F9E52346A3",
+	"versionEndIncluding": "0222g",
+	"created": "2020-05-29T14:56:16.783",
+	"lastModified": "2020-05-29T14:56:16.783",
+	"cpeLastModified": "2020-08-20T15:10:07.227",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:vivotek:fd9365-htvl_firmware:0121d:*:*:*:*:*:*:*",
+			"cpeNameId": "DC41739C-4CE4-4F74-B1F9-05CA938890FD"
+		}
+	]
 }

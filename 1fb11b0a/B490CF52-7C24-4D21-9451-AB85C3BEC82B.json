@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:nexans:gigaswitch_v5_tp_sfp-2vi_54vdc_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B490CF52-7C24-4D21-9451-AB85C3BEC82B",
-  "versionEndExcluding": "6.02n",
-  "created": "2022-07-21T15:37:13.717",
-  "lastModified": "2022-07-21T15:37:13.717",
-  "cpeLastModified": "2022-07-21T16:00:51.013",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:nexans:gigaswitch_v5_tp_sfp-2vi_54vdc_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "A4214BFE-5AC4-4589-AB5D-ECD2066CA5E6"
-    }
-  ]
+	"criteria": "cpe:2.3:o:nexans:gigaswitch_v5_tp_sfp-2vi_54vdc_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B490CF52-7C24-4D21-9451-AB85C3BEC82B",
+	"versionEndExcluding": "6.02n",
+	"created": "2022-07-21T15:37:13.717",
+	"lastModified": "2022-07-21T15:37:13.717",
+	"cpeLastModified": "2022-07-21T16:00:51.013",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:nexans:gigaswitch_v5_tp_sfp-2vi_54vdc_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A4214BFE-5AC4-4589-AB5D-ECD2066CA5E6"
+		}
+	]
 }

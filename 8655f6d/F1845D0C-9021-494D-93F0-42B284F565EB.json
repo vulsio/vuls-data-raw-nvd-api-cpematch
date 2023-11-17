@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:core_i5-8365u_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F1845D0C-9021-494D-93F0-42B284F565EB",
-  "versionEndExcluding": "11.8.92",
-  "created": "2022-06-09T14:34:38.640",
-  "lastModified": "2022-06-09T14:34:38.640",
-  "cpeLastModified": "2019-12-02T17:29:11.270",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:core_i5-8365u_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "9C765D95-A00B-4A94-9338-3BC8F87E1F22"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:core_i5-8365u_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F1845D0C-9021-494D-93F0-42B284F565EB",
+	"versionEndExcluding": "11.8.92",
+	"created": "2022-06-09T14:34:38.640",
+	"lastModified": "2022-06-09T14:34:38.640",
+	"cpeLastModified": "2019-12-02T17:29:11.270",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:core_i5-8365u_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9C765D95-A00B-4A94-9338-3BC8F87E1F22"
+		}
+	]
 }

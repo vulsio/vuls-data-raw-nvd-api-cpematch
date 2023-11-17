@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:g3_3500_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F6AD313B-2DC0-48C7-ABD1-F75FC3EA3370",
-  "versionEndExcluding": "1.12.0",
-  "created": "2022-02-10T16:17:50.267",
-  "lastModified": "2022-09-13T14:46:24.833",
-  "cpeLastModified": "2022-02-16T15:26:01.320",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:g3_3500_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "FA433D58-F730-4A7E-A500-A830C6BAB8BB"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:g3_3500_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F6AD313B-2DC0-48C7-ABD1-F75FC3EA3370",
+	"versionEndExcluding": "1.12.0",
+	"created": "2022-02-10T16:17:50.267",
+	"lastModified": "2022-09-13T14:46:24.833",
+	"cpeLastModified": "2022-02-16T15:26:01.320",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:g3_3500_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FA433D58-F730-4A7E-A500-A830C6BAB8BB"
+		}
+	]
 }

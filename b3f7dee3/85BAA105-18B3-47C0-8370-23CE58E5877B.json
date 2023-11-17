@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:unraid:unraid:6.8.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "85BAA105-18B3-47C0-8370-23CE58E5877B",
-  "created": "2020-03-18T13:19:30.330",
-  "lastModified": "2020-03-18T13:19:30.330",
-  "cpeLastModified": "2020-03-20T18:38:42.180",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:unraid:unraid:6.8.0:*:*:*:*:*:*:*",
-      "cpeNameId": "2FEA9758-EDEC-4D34-A284-5DC3E0978292"
-    }
-  ]
+	"criteria": "cpe:2.3:a:unraid:unraid:6.8.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "85BAA105-18B3-47C0-8370-23CE58E5877B",
+	"created": "2020-03-18T13:19:30.330",
+	"lastModified": "2020-03-18T13:19:30.330",
+	"cpeLastModified": "2020-03-20T18:38:42.180",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:unraid:unraid:6.8.0:*:*:*:*:*:*:*",
+			"cpeNameId": "2FEA9758-EDEC-4D34-A284-5DC3E0978292"
+		}
+	]
 }

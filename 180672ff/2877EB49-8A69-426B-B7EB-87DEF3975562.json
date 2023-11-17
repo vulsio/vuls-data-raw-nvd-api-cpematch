@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:mitsubishielectric:fr_configurator2:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "2877EB49-8A69-426B-B7EB-87DEF3975562",
-  "versionEndExcluding": "1.23z",
-  "created": "2022-06-06T13:23:59.090",
-  "lastModified": "2022-06-06T13:23:59.090",
-  "cpeLastModified": "2022-02-22T15:49:59.723",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:mitsubishielectric:fr_configurator2:-:*:*:*:*:*:*:*",
-      "cpeNameId": "A6276F7A-0054-4508-A398-07C2F00A40DE"
-    },
-    {
-      "cpeName": "cpe:2.3:a:mitsubishielectric:fr_configurator2:1.22y:*:*:*:*:*:*:*",
-      "cpeNameId": "C417A991-70E2-4ECB-A6AF-AA58771AAD15"
-    }
-  ]
+	"criteria": "cpe:2.3:a:mitsubishielectric:fr_configurator2:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2877EB49-8A69-426B-B7EB-87DEF3975562",
+	"versionEndExcluding": "1.23z",
+	"created": "2022-06-06T13:23:59.090",
+	"lastModified": "2022-06-06T13:23:59.090",
+	"cpeLastModified": "2022-02-22T15:49:59.723",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:mitsubishielectric:fr_configurator2:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A6276F7A-0054-4508-A398-07C2F00A40DE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mitsubishielectric:fr_configurator2:1.22y:*:*:*:*:*:*:*",
+			"cpeNameId": "C417A991-70E2-4ECB-A6AF-AA58771AAD15"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:opendesign:drawings_software_development_kit:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FAC3A54F-2161-4A7B-8DF4-A2F396B7FE02",
-  "versionEndExcluding": "2022.8",
-  "created": "2021-11-17T19:02:11.360",
-  "lastModified": "2021-11-17T19:02:11.360",
-  "cpeLastModified": "2021-11-17T19:02:21.653",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:opendesign:drawings_software_development_kit:2021.11:*:*:*:*:*:*:*",
-      "cpeNameId": "DFEB1097-28CF-42DA-BA18-EA6625C0C270"
-    },
-    {
-      "cpeName": "cpe:2.3:a:opendesign:drawings_software_development_kit:2021.12:*:*:*:*:*:*:*",
-      "cpeNameId": "3592E6F6-3DB1-4988-A355-6640A2583884"
-    }
-  ]
+	"criteria": "cpe:2.3:a:opendesign:drawings_software_development_kit:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FAC3A54F-2161-4A7B-8DF4-A2F396B7FE02",
+	"versionEndExcluding": "2022.8",
+	"created": "2021-11-17T19:02:11.360",
+	"lastModified": "2021-11-17T19:02:11.360",
+	"cpeLastModified": "2021-11-17T19:02:21.653",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:opendesign:drawings_software_development_kit:2021.11:*:*:*:*:*:*:*",
+			"cpeNameId": "DFEB1097-28CF-42DA-BA18-EA6625C0C270"
+		},
+		{
+			"cpeName": "cpe:2.3:a:opendesign:drawings_software_development_kit:2021.12:*:*:*:*:*:*:*",
+			"cpeNameId": "3592E6F6-3DB1-4988-A355-6640A2583884"
+		}
+	]
 }

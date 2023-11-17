@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:couchbase:couchbase_server:7.0.3:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1E22A4AD-8DB7-467E-B1A5-6B6B491D3E77",
-  "created": "2022-06-15T15:14:39.687",
-  "lastModified": "2022-06-15T17:16:07.387",
-  "cpeLastModified": "2022-06-15T17:15:28.463",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:couchbase:couchbase_server:7.0.3:*:*:*:*:*:*:*",
-      "cpeNameId": "4BC67AB3-11B8-42F1-B084-2A1A78BB878D"
-    }
-  ]
+	"criteria": "cpe:2.3:a:couchbase:couchbase_server:7.0.3:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1E22A4AD-8DB7-467E-B1A5-6B6B491D3E77",
+	"created": "2022-06-15T15:14:39.687",
+	"lastModified": "2022-06-15T17:16:07.387",
+	"cpeLastModified": "2022-06-15T17:15:28.463",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:couchbase:couchbase_server:7.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "4BC67AB3-11B8-42F1-B084-2A1A78BB878D"
+		}
+	]
 }

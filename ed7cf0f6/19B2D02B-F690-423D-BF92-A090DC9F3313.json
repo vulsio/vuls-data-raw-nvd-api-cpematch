@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:xeon_l3014_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "19B2D02B-F690-423D-BF92-A090DC9F3313",
-  "created": "2019-11-18T16:39:15.110",
-  "lastModified": "2019-11-18T16:39:15.110",
-  "cpeLastModified": "2020-03-23T17:32:39.000",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:xeon_l3014_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "24FE4D49-34C7-4E56-8992-9872D5680AB5"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:xeon_l3014_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "19B2D02B-F690-423D-BF92-A090DC9F3313",
+	"created": "2019-11-18T16:39:15.110",
+	"lastModified": "2019-11-18T16:39:15.110",
+	"cpeLastModified": "2020-03-23T17:32:39.000",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:xeon_l3014_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "24FE4D49-34C7-4E56-8992-9872D5680AB5"
+		}
+	]
 }

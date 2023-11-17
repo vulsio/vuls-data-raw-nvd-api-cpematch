@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:siemens:opcenter_execution_discrete:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F33BF89C-F36E-4C8F-ABB9-579E2022DDA6",
-  "versionEndExcluding": "3.2",
-  "created": "2020-07-15T15:11:18.637",
-  "lastModified": "2020-07-15T15:11:18.637",
-  "cpeLastModified": "2020-09-24T11:10:00.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:siemens:opcenter_execution_discrete:-:*:*:*:*:*:*:*",
-      "cpeNameId": "C6DFB580-DFF9-4152-A317-4EF04BFE4B36"
-    }
-  ]
+	"criteria": "cpe:2.3:a:siemens:opcenter_execution_discrete:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F33BF89C-F36E-4C8F-ABB9-579E2022DDA6",
+	"versionEndExcluding": "3.2",
+	"created": "2020-07-15T15:11:18.637",
+	"lastModified": "2020-07-15T15:11:18.637",
+	"cpeLastModified": "2020-09-24T11:10:00.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:siemens:opcenter_execution_discrete:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C6DFB580-DFF9-4152-A317-4EF04BFE4B36"
+		}
+	]
 }

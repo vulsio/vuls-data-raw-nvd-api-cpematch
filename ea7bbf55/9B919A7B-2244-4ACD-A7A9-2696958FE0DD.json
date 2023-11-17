@@ -1,52 +1,52 @@
 {
-  "criteria": "cpe:2.3:a:1password:1password:*:*:*:*:*:macos:*:*",
-  "matchCriteriaId": "9B919A7B-2244-4ACD-A7A9-2696958FE0DD",
-  "versionStartIncluding": "7.0",
-  "versionEndExcluding": "7.9.5",
-  "created": "2022-06-24T14:03:10.453",
-  "lastModified": "2022-06-24T14:03:10.453",
-  "cpeLastModified": "2022-05-17T14:32:39.240",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.2.3:beta0:*:*:*:macos:*:*",
-      "cpeNameId": "10158279-35AE-4F96-A8BF-C58D094A7917"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.2.3:beta1:*:*:*:macos:*:*",
-      "cpeNameId": "1A45514D-AB16-4E0C-B102-91554B92B276"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.2.3:beta2:*:*:*:macos:*:*",
-      "cpeNameId": "4B989149-F009-4DDB-9DFE-C7B18B3B509F"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.2.3:beta3:*:*:*:macos:*:*",
-      "cpeNameId": "54948DFE-F4F0-4862-B657-6F7D764C1153"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.2.3:beta4:*:*:*:macos:*:*",
-      "cpeNameId": "EDA27F22-1B94-49C7-B54D-836C1FE404A6"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.2.4:*:*:*:*:macos:*:*",
-      "cpeNameId": "9D581FCE-45E9-4E55-9BE8-3073E1E10E90"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.7.0:*:*:*:*:macos:*:*",
-      "cpeNameId": "0A26E59D-EBCD-46DC-A54C-05AE172272E9"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.8.7:*:*:*:*:macos:*:*",
-      "cpeNameId": "F3006204-E509-4765-8C7D-2DFC8F0BCAD2"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.9.2:*:*:*:*:macos:*:*",
-      "cpeNameId": "0D01E993-6A76-4C66-8A80-8E77AAD89A6A"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.9.3:*:*:*:*:macos:*:*",
-      "cpeNameId": "4E76806C-99C0-4DB0-AAA7-E40DAB477845"
-    }
-  ]
+	"criteria": "cpe:2.3:a:1password:1password:*:*:*:*:*:macos:*:*",
+	"matchCriteriaId": "9B919A7B-2244-4ACD-A7A9-2696958FE0DD",
+	"versionStartIncluding": "7.0",
+	"versionEndExcluding": "7.9.5",
+	"created": "2022-06-24T14:03:10.453",
+	"lastModified": "2022-06-24T14:03:10.453",
+	"cpeLastModified": "2022-05-17T14:32:39.240",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.2.3:beta0:*:*:*:macos:*:*",
+			"cpeNameId": "10158279-35AE-4F96-A8BF-C58D094A7917"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.2.3:beta1:*:*:*:macos:*:*",
+			"cpeNameId": "1A45514D-AB16-4E0C-B102-91554B92B276"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.2.3:beta2:*:*:*:macos:*:*",
+			"cpeNameId": "4B989149-F009-4DDB-9DFE-C7B18B3B509F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.2.3:beta3:*:*:*:macos:*:*",
+			"cpeNameId": "54948DFE-F4F0-4862-B657-6F7D764C1153"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.2.3:beta4:*:*:*:macos:*:*",
+			"cpeNameId": "EDA27F22-1B94-49C7-B54D-836C1FE404A6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.2.4:*:*:*:*:macos:*:*",
+			"cpeNameId": "9D581FCE-45E9-4E55-9BE8-3073E1E10E90"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.7.0:*:*:*:*:macos:*:*",
+			"cpeNameId": "0A26E59D-EBCD-46DC-A54C-05AE172272E9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.8.7:*:*:*:*:macos:*:*",
+			"cpeNameId": "F3006204-E509-4765-8C7D-2DFC8F0BCAD2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.9.2:*:*:*:*:macos:*:*",
+			"cpeNameId": "0D01E993-6A76-4C66-8A80-8E77AAD89A6A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.9.3:*:*:*:*:macos:*:*",
+			"cpeNameId": "4E76806C-99C0-4DB0-AAA7-E40DAB477845"
+		}
+	]
 }

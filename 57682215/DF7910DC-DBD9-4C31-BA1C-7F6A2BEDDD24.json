@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:huawei:ngfw_module_firmware:v500r002c30:*:*:*:*:*:*:*",
-  "matchCriteriaId": "DF7910DC-DBD9-4C31-BA1C-7F6A2BEDDD24",
-  "created": "2020-06-10T17:49:44.303",
-  "lastModified": "2020-06-10T17:49:44.303",
-  "cpeLastModified": "2020-07-23T15:44:48.533",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:huawei:ngfw_module_firmware:v500r002c30:*:*:*:*:*:*:*",
-      "cpeNameId": "7F0D1C89-F0AD-412A-929C-D3582CBCCDF2"
-    }
-  ]
+	"criteria": "cpe:2.3:o:huawei:ngfw_module_firmware:v500r002c30:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DF7910DC-DBD9-4C31-BA1C-7F6A2BEDDD24",
+	"created": "2020-06-10T17:49:44.303",
+	"lastModified": "2020-06-10T17:49:44.303",
+	"cpeLastModified": "2020-07-23T15:44:48.533",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:huawei:ngfw_module_firmware:v500r002c30:*:*:*:*:*:*:*",
+			"cpeNameId": "7F0D1C89-F0AD-412A-929C-D3582CBCCDF2"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:bosch:divar_ip_7000:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "10D23E90-110B-4ADC-8417-CD0149D126D2",
-  "created": "2020-02-11T14:59:23.773",
-  "lastModified": "2020-02-11T14:59:23.773",
-  "cpeLastModified": "2020-02-24T15:23:34.510",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:bosch:divar_ip_7000:-:*:*:*:*:*:*:*",
-      "cpeNameId": "CD8C47C0-7A45-4BFA-96B7-9A3010454A1D"
-    }
-  ]
+	"criteria": "cpe:2.3:h:bosch:divar_ip_7000:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "10D23E90-110B-4ADC-8417-CD0149D126D2",
+	"created": "2020-02-11T14:59:23.773",
+	"lastModified": "2020-02-11T14:59:23.773",
+	"cpeLastModified": "2020-02-24T15:23:34.510",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:bosch:divar_ip_7000:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CD8C47C0-7A45-4BFA-96B7-9A3010454A1D"
+		}
+	]
 }

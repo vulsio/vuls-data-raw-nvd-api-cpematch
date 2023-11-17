@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:ithemes:invoices:*:*:*:*:*:wordpress:*:*",
-  "matchCriteriaId": "056A1A66-CEF5-49F1-BDED-84C9578A580A",
-  "versionEndExcluding": "1.4.0",
-  "created": "2019-08-30T15:38:41.180",
-  "lastModified": "2019-08-30T15:38:41.180",
-  "cpeLastModified": "2019-08-30T15:58:05.407",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ithemes:invoices:-:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "0FB56DB8-1CE0-4EB5-867F-287BA18BBCC6"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ithemes:invoices:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "056A1A66-CEF5-49F1-BDED-84C9578A580A",
+	"versionEndExcluding": "1.4.0",
+	"created": "2019-08-30T15:38:41.180",
+	"lastModified": "2019-08-30T15:38:41.180",
+	"cpeLastModified": "2019-08-30T15:58:05.407",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ithemes:invoices:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0FB56DB8-1CE0-4EB5-867F-287BA18BBCC6"
+		}
+	]
 }

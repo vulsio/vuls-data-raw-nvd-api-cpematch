@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:g5_5090_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "613C955C-C02C-472A-A238-B49C04AE9CFB",
-  "versionEndExcluding": "1.3.0",
-  "created": "2020-06-19T12:53:34.163",
-  "lastModified": "2020-06-19T12:53:34.163",
-  "cpeLastModified": "2020-06-19T12:53:34.177",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:g5_5090_firmware:1.1.2:*:*:*:*:*:*:*",
-      "cpeNameId": "563C6AD0-F4EA-418E-B346-6549BEB8B277"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:g5_5090_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "613C955C-C02C-472A-A238-B49C04AE9CFB",
+	"versionEndExcluding": "1.3.0",
+	"created": "2020-06-19T12:53:34.163",
+	"lastModified": "2020-06-19T12:53:34.163",
+	"cpeLastModified": "2020-06-19T12:53:34.177",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:g5_5090_firmware:1.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "563C6AD0-F4EA-418E-B346-6549BEB8B277"
+		}
+	]
 }

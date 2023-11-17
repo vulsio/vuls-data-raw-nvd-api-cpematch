@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:siemens:simit:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CE96110F-4874-42C5-A891-FD9022FE7803",
-  "versionEndIncluding": "10.0",
-  "created": "2021-11-17T18:38:10.193",
-  "lastModified": "2021-11-17T18:38:10.193",
-  "cpeLastModified": "2021-11-17T18:49:15.883",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:siemens:simit:9.0:*:*:*:*:*:*:*",
-      "cpeNameId": "9177C863-11CA-43E3-8A50-785AD0E86C36"
-    }
-  ]
+	"criteria": "cpe:2.3:a:siemens:simit:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CE96110F-4874-42C5-A891-FD9022FE7803",
+	"versionEndIncluding": "10.0",
+	"created": "2021-11-17T18:38:10.193",
+	"lastModified": "2021-11-17T18:38:10.193",
+	"cpeLastModified": "2021-11-17T18:49:15.883",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:siemens:simit:9.0:*:*:*:*:*:*:*",
+			"cpeNameId": "9177C863-11CA-43E3-8A50-785AD0E86C36"
+		}
+	]
 }

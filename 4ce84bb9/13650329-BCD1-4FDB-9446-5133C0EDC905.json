@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:nextcloud:nextcloud_server:27.0.0:*:*:*:-:*:*:*",
-  "matchCriteriaId": "13650329-BCD1-4FDB-9446-5133C0EDC905",
-  "created": "2023-08-15T17:00:06.390",
-  "lastModified": "2023-08-15T20:43:21.543",
-  "cpeLastModified": "2023-08-15T20:43:21.543",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:nextcloud:nextcloud_server:27.0.0:*:*:*:-:*:*:*",
-      "cpeNameId": "178E4538-6803-4E67-906B-2DB39F8620F6"
-    }
-  ]
+	"criteria": "cpe:2.3:a:nextcloud:nextcloud_server:27.0.0:*:*:*:-:*:*:*",
+	"matchCriteriaId": "13650329-BCD1-4FDB-9446-5133C0EDC905",
+	"created": "2023-08-15T17:00:06.390",
+	"lastModified": "2023-08-15T20:43:21.543",
+	"cpeLastModified": "2023-08-15T20:43:21.543",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:nextcloud_server:27.0.0:*:*:*:-:*:*:*",
+			"cpeNameId": "178E4538-6803-4E67-906B-2DB39F8620F6"
+		}
+	]
 }

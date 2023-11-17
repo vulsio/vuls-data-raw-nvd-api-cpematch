@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:netapp:e-series_santricity_storage_manager:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1FC01AF8-4A4B-4FC4-B07F-1193FEFF5A47",
-  "versionEndExcluding": "11.53",
-  "created": "2022-03-03T18:59:10.220",
-  "lastModified": "2022-03-03T18:59:10.220",
-  "cpeLastModified": "2022-04-25T14:09:28.593",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:netapp:e-series_santricity_storage_manager:-:*:*:*:*:*:*:*",
-      "cpeNameId": "1C5FF833-DBEC-4966-BAD3-6E84826A019E"
-    }
-  ]
+	"criteria": "cpe:2.3:a:netapp:e-series_santricity_storage_manager:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1FC01AF8-4A4B-4FC4-B07F-1193FEFF5A47",
+	"versionEndExcluding": "11.53",
+	"created": "2022-03-03T18:59:10.220",
+	"lastModified": "2022-03-03T18:59:10.220",
+	"cpeLastModified": "2022-04-25T14:09:28.593",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:netapp:e-series_santricity_storage_manager:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1C5FF833-DBEC-4966-BAD3-6E84826A019E"
+		}
+	]
 }

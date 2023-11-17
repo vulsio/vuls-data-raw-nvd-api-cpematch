@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:a:git-scm:git:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "823D7473-2511-4C8E-AE94-C0341EC87507",
-  "versionStartIncluding": "2.32.1",
-  "versionEndExcluding": "2.32.3",
-  "created": "2022-07-19T11:11:39.953",
-  "lastModified": "2022-07-19T11:11:39.953",
-  "cpeLastModified": "2022-07-19T17:49:32.020",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:git-scm:git:2.32.1:*:*:*:*:*:*:*",
-      "cpeNameId": "2473A2BC-C70A-42FE-9206-627E383A24FA"
-    },
-    {
-      "cpeName": "cpe:2.3:a:git-scm:git:2.32.2:*:*:*:*:*:*:*",
-      "cpeNameId": "F1235E28-5720-42A7-B7D4-5DDC172BEBE4"
-    }
-  ]
+	"criteria": "cpe:2.3:a:git-scm:git:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "823D7473-2511-4C8E-AE94-C0341EC87507",
+	"versionStartIncluding": "2.32.1",
+	"versionEndExcluding": "2.32.3",
+	"created": "2022-07-19T11:11:39.953",
+	"lastModified": "2022-07-19T11:11:39.953",
+	"cpeLastModified": "2022-07-19T17:49:32.020",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:git-scm:git:2.32.1:*:*:*:*:*:*:*",
+			"cpeNameId": "2473A2BC-C70A-42FE-9206-627E383A24FA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:git-scm:git:2.32.2:*:*:*:*:*:*:*",
+			"cpeNameId": "F1235E28-5720-42A7-B7D4-5DDC172BEBE4"
+		}
+	]
 }

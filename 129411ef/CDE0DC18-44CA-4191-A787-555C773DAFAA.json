@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:elitebook_x360_830_g8_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CDE0DC18-44CA-4191-A787-555C773DAFAA",
-  "versionEndExcluding": "01.08.00",
-  "created": "2022-03-07T15:07:45.507",
-  "lastModified": "2022-03-07T15:07:45.507",
-  "cpeLastModified": "2022-03-07T20:53:56.317",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:elitebook_x360_830_g8_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "6A738B19-BD48-4789-9D88-A48F252E27A3"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:elitebook_x360_830_g8_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CDE0DC18-44CA-4191-A787-555C773DAFAA",
+	"versionEndExcluding": "01.08.00",
+	"created": "2022-03-07T15:07:45.507",
+	"lastModified": "2022-03-07T15:07:45.507",
+	"cpeLastModified": "2022-03-07T20:53:56.317",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:elitebook_x360_830_g8_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6A738B19-BD48-4789-9D88-A48F252E27A3"
+		}
+	]
 }

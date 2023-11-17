@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:google:chrome:7.0.498.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9F4CBB0D-8B80-45BE-A2A6-C74686C41F8C",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:google:chrome:7.0.498.0:*:*:*:*:*:*:*",
-      "cpeNameId": "A4CFA85E-E420-473C-8A62-8688A1AE170E"
-    }
-  ]
+	"criteria": "cpe:2.3:a:google:chrome:7.0.498.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9F4CBB0D-8B80-45BE-A2A6-C74686C41F8C",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:google:chrome:7.0.498.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A4CFA85E-E420-473C-8A62-8688A1AE170E"
+		}
+	]
 }

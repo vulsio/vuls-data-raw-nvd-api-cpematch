@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:oracle:graalvm:20.3.1.2:*:*:*:enterprise:*:*:*",
-  "matchCriteriaId": "0F0434A5-F2A1-4973-917C-A95F2ABE97D1",
-  "created": "2021-04-30T14:04:12.337",
-  "lastModified": "2023-07-24T19:52:31.487",
-  "cpeLastModified": "2021-04-30T14:04:34.913",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:oracle:graalvm:20.3.1.2:*:*:*:enterprise:*:*:*",
-      "cpeNameId": "6676CC18-E4D3-4E30-918E-C9EF740FE04D"
-    }
-  ]
+	"criteria": "cpe:2.3:a:oracle:graalvm:20.3.1.2:*:*:*:enterprise:*:*:*",
+	"matchCriteriaId": "0F0434A5-F2A1-4973-917C-A95F2ABE97D1",
+	"created": "2021-04-30T14:04:12.337",
+	"lastModified": "2023-07-24T19:52:31.487",
+	"cpeLastModified": "2021-04-30T14:04:34.913",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:graalvm:20.3.1.2:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "6676CC18-E4D3-4E30-918E-C9EF740FE04D"
+		}
+	]
 }

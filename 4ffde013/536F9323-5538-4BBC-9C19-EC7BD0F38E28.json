@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lexmark:xs548_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "536F9323-5538-4BBC-9C19-EC7BD0F38E28",
-  "versionEndExcluding": "lhs60.vk.p683",
-  "created": "2020-03-18T15:55:44.263",
-  "lastModified": "2020-03-18T15:55:44.263",
-  "cpeLastModified": "2020-03-18T15:55:44.310",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lexmark:xs548_firmware:lhs60.vk.p682:*:*:*:*:*:*:*",
-      "cpeNameId": "FFCE0BD5-5877-440C-8686-C24D510FC555"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lexmark:xs548_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "536F9323-5538-4BBC-9C19-EC7BD0F38E28",
+	"versionEndExcluding": "lhs60.vk.p683",
+	"created": "2020-03-18T15:55:44.263",
+	"lastModified": "2020-03-18T15:55:44.263",
+	"cpeLastModified": "2020-03-18T15:55:44.310",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lexmark:xs548_firmware:lhs60.vk.p682:*:*:*:*:*:*:*",
+			"cpeNameId": "FFCE0BD5-5877-440C-8686-C24D510FC555"
+		}
+	]
 }

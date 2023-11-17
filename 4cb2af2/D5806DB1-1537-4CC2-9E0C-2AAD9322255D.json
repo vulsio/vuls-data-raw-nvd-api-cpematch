@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:cisco:ip_phone_7811_firmware:9.3\\(3\\):*:*:*:*:*:*:*",
-  "matchCriteriaId": "D5806DB1-1537-4CC2-9E0C-2AAD9322255D",
-  "created": "2022-12-12T17:29:56.830",
-  "lastModified": "2022-12-12T18:24:57.593",
-  "cpeLastModified": "2022-12-12T18:24:57.593",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:ip_phone_7811_firmware:9.3\\(3\\):*:*:*:*:*:*:*",
-      "cpeNameId": "55252831-88C8-4665-BD29-B61D18A11115"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:ip_phone_7811_firmware:9.3\\(3\\):*:*:*:*:*:*:*",
+	"matchCriteriaId": "D5806DB1-1537-4CC2-9E0C-2AAD9322255D",
+	"created": "2022-12-12T17:29:56.830",
+	"lastModified": "2022-12-12T18:24:57.593",
+	"cpeLastModified": "2022-12-12T18:24:57.593",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:ip_phone_7811_firmware:9.3\\(3\\):*:*:*:*:*:*:*",
+			"cpeNameId": "55252831-88C8-4665-BD29-B61D18A11115"
+		}
+	]
 }

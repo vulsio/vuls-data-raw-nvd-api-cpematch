@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:ibm:data_risk_manager:2.0.2:*:*:*:*:*:*:*",
-  "matchCriteriaId": "22F3EF7A-0645-4821-9D75-87B500478A7E",
-  "created": "2020-05-07T22:42:47.497",
-  "lastModified": "2020-05-07T22:42:47.497",
-  "cpeLastModified": "2020-05-11T11:24:48.170",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ibm:data_risk_manager:2.0.2:*:*:*:*:*:*:*",
-      "cpeNameId": "8E3F7B02-01DB-4A14-9CB8-0704ABE6600A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ibm:data_risk_manager:2.0.2:*:*:*:*:*:*:*",
+	"matchCriteriaId": "22F3EF7A-0645-4821-9D75-87B500478A7E",
+	"created": "2020-05-07T22:42:47.497",
+	"lastModified": "2020-05-07T22:42:47.497",
+	"cpeLastModified": "2020-05-11T11:24:48.170",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ibm:data_risk_manager:2.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "8E3F7B02-01DB-4A14-9CB8-0704ABE6600A"
+		}
+	]
 }

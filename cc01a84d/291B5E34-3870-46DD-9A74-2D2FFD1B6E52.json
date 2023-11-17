@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:zyxel:vmg3927-b50a_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "291B5E34-3870-46DD-9A74-2D2FFD1B6E52",
-  "versionEndExcluding": "5.17\\(abmt.6\\)c0",
-  "created": "2022-04-14T15:21:25.667",
-  "lastModified": "2022-04-14T15:21:25.667",
-  "cpeLastModified": "2022-04-15T03:34:52.453",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:zyxel:vmg3927-b50a_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "0CA6830E-BDE8-41F0-8100-79ABF05AC632"
-    }
-  ]
+	"criteria": "cpe:2.3:o:zyxel:vmg3927-b50a_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "291B5E34-3870-46DD-9A74-2D2FFD1B6E52",
+	"versionEndExcluding": "5.17\\(abmt.6\\)c0",
+	"created": "2022-04-14T15:21:25.667",
+	"lastModified": "2022-04-14T15:21:25.667",
+	"cpeLastModified": "2022-04-15T03:34:52.453",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:zyxel:vmg3927-b50a_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0CA6830E-BDE8-41F0-8100-79ABF05AC632"
+		}
+	]
 }

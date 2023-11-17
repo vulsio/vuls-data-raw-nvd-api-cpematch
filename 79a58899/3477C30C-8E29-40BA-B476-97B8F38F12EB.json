@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:magento:magento:*:*:*:*:community:*:*:*",
-  "matchCriteriaId": "3477C30C-8E29-40BA-B476-97B8F38F12EB",
-  "versionEndExcluding": "1.9.2.1",
-  "created": "2020-01-17T14:06:45.103",
-  "lastModified": "2020-01-17T14:06:45.103",
-  "cpeLastModified": "2020-01-17T14:06:45.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:magento:magento:1.9.1.0:*:*:*:community:*:*:*",
-      "cpeNameId": "A64A95DA-B9B2-41D2-AD70-0C557BAC3E34"
-    }
-  ]
+	"criteria": "cpe:2.3:a:magento:magento:*:*:*:*:community:*:*:*",
+	"matchCriteriaId": "3477C30C-8E29-40BA-B476-97B8F38F12EB",
+	"versionEndExcluding": "1.9.2.1",
+	"created": "2020-01-17T14:06:45.103",
+	"lastModified": "2020-01-17T14:06:45.103",
+	"cpeLastModified": "2020-01-17T14:06:45.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:magento:magento:1.9.1.0:*:*:*:community:*:*:*",
+			"cpeNameId": "A64A95DA-B9B2-41D2-AD70-0C557BAC3E34"
+		}
+	]
 }

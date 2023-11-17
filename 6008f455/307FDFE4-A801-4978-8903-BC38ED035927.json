@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:siemens:jt2go:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "307FDFE4-A801-4978-8903-BC38ED035927",
-  "versionEndExcluding": "13.1.0",
-  "created": "2021-01-13T16:01:23.040",
-  "lastModified": "2021-01-13T16:01:23.040",
-  "cpeLastModified": "2021-02-02T19:01:59.103",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:siemens:jt2go:-:*:*:*:*:*:*:*",
-      "cpeNameId": "3017C97D-E3B6-42C0-A33E-A76D87295EE3"
-    }
-  ]
+	"criteria": "cpe:2.3:a:siemens:jt2go:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "307FDFE4-A801-4978-8903-BC38ED035927",
+	"versionEndExcluding": "13.1.0",
+	"created": "2021-01-13T16:01:23.040",
+	"lastModified": "2021-01-13T16:01:23.040",
+	"cpeLastModified": "2021-02-02T19:01:59.103",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:siemens:jt2go:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3017C97D-E3B6-42C0-A33E-A76D87295EE3"
+		}
+	]
 }

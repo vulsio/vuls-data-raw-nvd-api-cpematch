@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:siemens:simatic_automation_tool:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5306C1B1-5944-49F1-8BEC-5F811C891BED",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T22:53:51.837",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:siemens:simatic_automation_tool:-:*:*:*:*:*:*:*",
-      "cpeNameId": "87DB55F0-5F99-40BD-B32C-BC6F8328E203"
-    }
-  ]
+	"criteria": "cpe:2.3:a:siemens:simatic_automation_tool:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5306C1B1-5944-49F1-8BEC-5F811C891BED",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T22:53:51.837",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:siemens:simatic_automation_tool:-:*:*:*:*:*:*:*",
+			"cpeNameId": "87DB55F0-5F99-40BD-B32C-BC6F8328E203"
+		}
+	]
 }

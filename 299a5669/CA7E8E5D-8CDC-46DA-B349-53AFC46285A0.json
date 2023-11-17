@@ -1,27 +1,27 @@
 {
-  "criteria": "cpe:2.3:a:plainblack:webgui:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CA7E8E5D-8CDC-46DA-B349-53AFC46285A0",
-  "versionEndIncluding": "7.10.29",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:plainblack:webgui:6.8.8:*:*:*:*:*:*:*",
-      "cpeNameId": "8775C0C7-981F-473E-90E4-4AD0D63D17C7"
-    },
-    {
-      "cpeName": "cpe:2.3:a:plainblack:webgui:7.0.6:*:*:*:*:*:*:*",
-      "cpeNameId": "CE2FB582-9140-4C34-B03B-B9EDE755B1B5"
-    },
-    {
-      "cpeName": "cpe:2.3:a:plainblack:webgui:7.3.17:*:*:*:*:*:*:*",
-      "cpeNameId": "9A0494ED-8FED-4404-B76D-D10867AEAA5C"
-    },
-    {
-      "cpeName": "cpe:2.3:a:plainblack:webgui:7.10.29:*:*:*:*:*:*:*",
-      "cpeNameId": "860C916C-63D1-4466-BADA-1D74DF3E334A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:plainblack:webgui:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CA7E8E5D-8CDC-46DA-B349-53AFC46285A0",
+	"versionEndIncluding": "7.10.29",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:plainblack:webgui:6.8.8:*:*:*:*:*:*:*",
+			"cpeNameId": "8775C0C7-981F-473E-90E4-4AD0D63D17C7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:plainblack:webgui:7.0.6:*:*:*:*:*:*:*",
+			"cpeNameId": "CE2FB582-9140-4C34-B03B-B9EDE755B1B5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:plainblack:webgui:7.3.17:*:*:*:*:*:*:*",
+			"cpeNameId": "9A0494ED-8FED-4404-B76D-D10867AEAA5C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:plainblack:webgui:7.10.29:*:*:*:*:*:*:*",
+			"cpeNameId": "860C916C-63D1-4466-BADA-1D74DF3E334A"
+		}
+	]
 }

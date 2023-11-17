@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:hitachi:cosminexus_server:04-00:-:web:*:*:*:*:*",
-  "matchCriteriaId": "666053A9-93E5-4B82-8A83-617A681EBADB",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:hitachi:cosminexus_server:04-00:-:web:*:*:*:*:*",
-      "cpeNameId": "8B5420A4-0F28-4A06-8A65-7F65509E2583"
-    }
-  ]
+	"criteria": "cpe:2.3:a:hitachi:cosminexus_server:04-00:-:web:*:*:*:*:*",
+	"matchCriteriaId": "666053A9-93E5-4B82-8A83-617A681EBADB",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:hitachi:cosminexus_server:04-00:-:web:*:*:*:*:*",
+			"cpeNameId": "8B5420A4-0F28-4A06-8A65-7F65509E2583"
+		}
+	]
 }

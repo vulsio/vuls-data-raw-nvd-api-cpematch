@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:o:arubanetworks:2930_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5C9C1C8A-31D3-40D9-BB14-923F7EC97C10",
-  "versionStartIncluding": "16.08.0",
-  "versionEndExcluding": "16.08.0009",
-  "created": "2020-02-21T14:13:43.757",
-  "lastModified": "2020-02-21T14:13:43.757",
-  "cpeLastModified": "2020-04-15T12:40:41.413",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:arubanetworks:2930_firmware:16.08.0:*:*:*:*:*:*:*",
-      "cpeNameId": "584886D3-031D-4A93-90B0-308168E9FDFA"
-    }
-  ]
+	"criteria": "cpe:2.3:o:arubanetworks:2930_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5C9C1C8A-31D3-40D9-BB14-923F7EC97C10",
+	"versionStartIncluding": "16.08.0",
+	"versionEndExcluding": "16.08.0009",
+	"created": "2020-02-21T14:13:43.757",
+	"lastModified": "2020-02-21T14:13:43.757",
+	"cpeLastModified": "2020-04-15T12:40:41.413",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:arubanetworks:2930_firmware:16.08.0:*:*:*:*:*:*:*",
+			"cpeNameId": "584886D3-031D-4A93-90B0-308168E9FDFA"
+		}
+	]
 }

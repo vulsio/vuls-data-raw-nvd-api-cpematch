@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:nagvis:nagvis:*:*:*:*:*:nagios_xi:*:*",
-  "matchCriteriaId": "148B535E-DDBC-4486-B813-6BE0A67C79E1",
-  "versionEndExcluding": "2.0.9",
-  "created": "2021-10-21T14:17:02.080",
-  "lastModified": "2021-10-21T14:17:02.080",
-  "cpeLastModified": "2021-10-21T14:31:22.190",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:nagvis:nagvis:-:*:*:*:*:nagios_xi:*:*",
-      "cpeNameId": "902C3AF8-CD01-44C9-84C5-44C3FE3B3300"
-    }
-  ]
+	"criteria": "cpe:2.3:a:nagvis:nagvis:*:*:*:*:*:nagios_xi:*:*",
+	"matchCriteriaId": "148B535E-DDBC-4486-B813-6BE0A67C79E1",
+	"versionEndExcluding": "2.0.9",
+	"created": "2021-10-21T14:17:02.080",
+	"lastModified": "2021-10-21T14:17:02.080",
+	"cpeLastModified": "2021-10-21T14:31:22.190",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:nagvis:nagvis:-:*:*:*:*:nagios_xi:*:*",
+			"cpeNameId": "902C3AF8-CD01-44C9-84C5-44C3FE3B3300"
+		}
+	]
 }

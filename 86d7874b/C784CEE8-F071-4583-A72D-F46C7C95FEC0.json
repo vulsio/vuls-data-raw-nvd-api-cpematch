@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:oracle:application_testing_suite:13.3:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C784CEE8-F071-4583-A72D-F46C7C95FEC0",
-  "created": "2019-07-25T13:13:10.067",
-  "lastModified": "2019-07-25T13:13:10.067",
-  "cpeLastModified": "2019-07-25T14:00:40.320",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:oracle:application_testing_suite:13.3:*:*:*:*:*:*:*",
-      "cpeNameId": "EBC28C7F-47D3-4227-B82E-02F05D7403EF"
-    }
-  ]
+	"criteria": "cpe:2.3:a:oracle:application_testing_suite:13.3:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C784CEE8-F071-4583-A72D-F46C7C95FEC0",
+	"created": "2019-07-25T13:13:10.067",
+	"lastModified": "2019-07-25T13:13:10.067",
+	"cpeLastModified": "2019-07-25T14:00:40.320",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:application_testing_suite:13.3:*:*:*:*:*:*:*",
+			"cpeNameId": "EBC28C7F-47D3-4227-B82E-02F05D7403EF"
+		}
+	]
 }

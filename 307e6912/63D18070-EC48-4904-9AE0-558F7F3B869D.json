@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:microsoft:internet_explorer:7.0:beta2:*:*:*:*:*:*",
-  "matchCriteriaId": "63D18070-EC48-4904-9AE0-558F7F3B869D",
-  "created": "2021-07-23T15:06:29.523",
-  "lastModified": "2021-07-23T15:06:29.523",
-  "cpeLastModified": "2021-07-23T15:06:29.523",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:microsoft:internet_explorer:7.0:beta2:*:*:*:*:*:*",
-      "cpeNameId": "4ADE082A-F72B-4E22-8A67-8D018BAAB578"
-    }
-  ]
+	"criteria": "cpe:2.3:a:microsoft:internet_explorer:7.0:beta2:*:*:*:*:*:*",
+	"matchCriteriaId": "63D18070-EC48-4904-9AE0-558F7F3B869D",
+	"created": "2021-07-23T15:06:29.523",
+	"lastModified": "2021-07-23T15:06:29.523",
+	"cpeLastModified": "2021-07-23T15:06:29.523",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:internet_explorer:7.0:beta2:*:*:*:*:*:*",
+			"cpeNameId": "4ADE082A-F72B-4E22-8A67-8D018BAAB578"
+		}
+	]
 }

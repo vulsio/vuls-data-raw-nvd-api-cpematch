@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:archlinux:arch_linux:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4824AE2D-462B-477D-9206-3E2090A32146",
-  "created": "2020-04-01T13:45:20.400",
-  "lastModified": "2020-04-01T13:45:20.400",
-  "cpeLastModified": "2020-04-09T20:00:44.603",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:archlinux:arch_linux:-:*:*:*:*:*:*:*",
-      "cpeNameId": "3A810EFF-7734-418F-9698-DD977C111CBC"
-    }
-  ]
+	"criteria": "cpe:2.3:o:archlinux:arch_linux:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4824AE2D-462B-477D-9206-3E2090A32146",
+	"created": "2020-04-01T13:45:20.400",
+	"lastModified": "2020-04-01T13:45:20.400",
+	"cpeLastModified": "2020-04-09T20:00:44.603",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:archlinux:arch_linux:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3A810EFF-7734-418F-9698-DD977C111CBC"
+		}
+	]
 }

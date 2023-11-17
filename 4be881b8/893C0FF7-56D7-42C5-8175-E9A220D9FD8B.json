@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:siemens:simatic_hmi_ktp700_basic_firmware:17.0:udpate1:*:*:*:*:*:*",
-  "matchCriteriaId": "893C0FF7-56D7-42C5-8175-E9A220D9FD8B",
-  "created": "2022-10-14T13:26:39.023",
-  "lastModified": "2022-10-14T22:00:24.337",
-  "cpeLastModified": "2022-10-14T22:00:24.337",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:simatic_hmi_ktp700_basic_firmware:17.0:udpate1:*:*:*:*:*:*",
-      "cpeNameId": "34B0E409-D923-4C86-A7AD-7D1217DAF302"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:simatic_hmi_ktp700_basic_firmware:17.0:udpate1:*:*:*:*:*:*",
+	"matchCriteriaId": "893C0FF7-56D7-42C5-8175-E9A220D9FD8B",
+	"created": "2022-10-14T13:26:39.023",
+	"lastModified": "2022-10-14T22:00:24.337",
+	"cpeLastModified": "2022-10-14T22:00:24.337",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:simatic_hmi_ktp700_basic_firmware:17.0:udpate1:*:*:*:*:*:*",
+			"cpeNameId": "34B0E409-D923-4C86-A7AD-7D1217DAF302"
+		}
+	]
 }

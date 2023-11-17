@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:cisco:catalyst_3750x-24p-e:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "05BA9762-0C59-4841-820C-4D30EB30E04F",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2020-10-08T12:07:37.647",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:cisco:catalyst_3750x-24p-e:-:*:*:*:*:*:*:*",
-      "cpeNameId": "D2E5AA3E-824C-4652-A9D8-BAEAC7254903"
-    }
-  ]
+	"criteria": "cpe:2.3:h:cisco:catalyst_3750x-24p-e:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "05BA9762-0C59-4841-820C-4D30EB30E04F",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2020-10-08T12:07:37.647",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:cisco:catalyst_3750x-24p-e:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D2E5AA3E-824C-4652-A9D8-BAEAC7254903"
+		}
+	]
 }

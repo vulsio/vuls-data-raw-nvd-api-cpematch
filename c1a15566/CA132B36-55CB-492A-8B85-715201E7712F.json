@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:cisco:ie_2000-8tc-g_industrial_ethernet_switch:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CA132B36-55CB-492A-8B85-715201E7712F",
-  "created": "2020-08-04T13:22:24.730",
-  "lastModified": "2020-08-04T13:22:24.730",
-  "cpeLastModified": "2020-09-11T15:24:43.843",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:cisco:ie_2000-8tc-g_industrial_ethernet_switch:-:*:*:*:*:*:*:*",
-      "cpeNameId": "6217884A-04C0-45C1-AD30-5FBE6EF2C5B1"
-    }
-  ]
+	"criteria": "cpe:2.3:h:cisco:ie_2000-8tc-g_industrial_ethernet_switch:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CA132B36-55CB-492A-8B85-715201E7712F",
+	"created": "2020-08-04T13:22:24.730",
+	"lastModified": "2020-08-04T13:22:24.730",
+	"cpeLastModified": "2020-09-11T15:24:43.843",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:cisco:ie_2000-8tc-g_industrial_ethernet_switch:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6217884A-04C0-45C1-AD30-5FBE6EF2C5B1"
+		}
+	]
 }

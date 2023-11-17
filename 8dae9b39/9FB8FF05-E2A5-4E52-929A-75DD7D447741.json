@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:tibco:bpm_enterprise:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9FB8FF05-E2A5-4E52-929A-75DD7D447741",
-  "versionEndIncluding": "4.3.0",
-  "created": "2021-02-02T14:58:22.170",
-  "lastModified": "2021-02-02T14:58:22.170",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:tibco:bpm_enterprise:-:*:*:*:*:*:*:*",
-      "cpeNameId": "0FB1B476-A592-494E-BCFD-B83700EF49B8"
-    },
-    {
-      "cpeName": "cpe:2.3:a:tibco:bpm_enterprise:4.3.0:*:*:*:*:*:*:*",
-      "cpeNameId": "2F5EAD1C-87C6-44C0-9A84-CE4DE57D1AE2"
-    }
-  ]
+	"criteria": "cpe:2.3:a:tibco:bpm_enterprise:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9FB8FF05-E2A5-4E52-929A-75DD7D447741",
+	"versionEndIncluding": "4.3.0",
+	"created": "2021-02-02T14:58:22.170",
+	"lastModified": "2021-02-02T14:58:22.170",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:tibco:bpm_enterprise:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0FB1B476-A592-494E-BCFD-B83700EF49B8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tibco:bpm_enterprise:4.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "2F5EAD1C-87C6-44C0-9A84-CE4DE57D1AE2"
+		}
+	]
 }

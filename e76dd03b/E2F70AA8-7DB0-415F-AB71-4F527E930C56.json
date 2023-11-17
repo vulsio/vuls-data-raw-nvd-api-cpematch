@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:omron:nx102-1020_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E2F70AA8-7DB0-415F-AB71-4F527E930C56",
-  "versionEndIncluding": "1.48",
-  "created": "2022-07-14T18:21:48.083",
-  "lastModified": "2022-07-14T18:21:48.083",
-  "cpeLastModified": "2022-07-14T19:11:34.233",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:omron:nx102-1020_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "BFF34877-6D62-4254-8096-B1AEF5C3ABC7"
-    }
-  ]
+	"criteria": "cpe:2.3:o:omron:nx102-1020_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E2F70AA8-7DB0-415F-AB71-4F527E930C56",
+	"versionEndIncluding": "1.48",
+	"created": "2022-07-14T18:21:48.083",
+	"lastModified": "2022-07-14T18:21:48.083",
+	"cpeLastModified": "2022-07-14T19:11:34.233",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:omron:nx102-1020_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BFF34877-6D62-4254-8096-B1AEF5C3ABC7"
+		}
+	]
 }

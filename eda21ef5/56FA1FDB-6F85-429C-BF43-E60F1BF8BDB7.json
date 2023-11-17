@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:asuswrt-merlin:new_gen:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "56FA1FDB-6F85-429C-BF43-E60F1BF8BDB7",
-  "versionEndExcluding": "386.7",
-  "created": "2022-08-10T12:22:31.900",
-  "lastModified": "2022-08-10T12:22:31.900",
-  "cpeLastModified": "2022-08-12T20:46:00.243",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:asuswrt-merlin:new_gen:-:*:*:*:*:*:*:*",
-      "cpeNameId": "32BC3AE8-C0A9-43B7-8D11-E76950D7082F"
-    }
-  ]
+	"criteria": "cpe:2.3:o:asuswrt-merlin:new_gen:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "56FA1FDB-6F85-429C-BF43-E60F1BF8BDB7",
+	"versionEndExcluding": "386.7",
+	"created": "2022-08-10T12:22:31.900",
+	"lastModified": "2022-08-10T12:22:31.900",
+	"cpeLastModified": "2022-08-12T20:46:00.243",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:asuswrt-merlin:new_gen:-:*:*:*:*:*:*:*",
+			"cpeNameId": "32BC3AE8-C0A9-43B7-8D11-E76950D7082F"
+		}
+	]
 }

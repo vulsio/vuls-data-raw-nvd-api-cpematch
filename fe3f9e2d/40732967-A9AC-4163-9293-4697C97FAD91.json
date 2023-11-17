@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:core_i5_10210y_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "40732967-A9AC-4163-9293-4697C97FAD91",
-  "created": "2020-02-24T13:32:10.423",
-  "lastModified": "2022-05-11T16:21:02.897",
-  "cpeLastModified": "2020-04-10T19:58:48.143",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:core_i5_10210y_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E9476D9C-FE32-4309-BD46-8A0EA2D1B0B3"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:core_i5_10210y_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "40732967-A9AC-4163-9293-4697C97FAD91",
+	"created": "2020-02-24T13:32:10.423",
+	"lastModified": "2022-05-11T16:21:02.897",
+	"cpeLastModified": "2020-04-10T19:58:48.143",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:core_i5_10210y_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E9476D9C-FE32-4309-BD46-8A0EA2D1B0B3"
+		}
+	]
 }

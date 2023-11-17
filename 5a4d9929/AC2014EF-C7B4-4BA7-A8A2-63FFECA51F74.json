@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:rockwellautomation:controllogix_5550_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AC2014EF-C7B4-4BA7-A8A2-63FFECA51F74",
-  "created": "2022-04-18T14:13:19.107",
-  "lastModified": "2022-04-18T14:13:19.107",
-  "cpeLastModified": "2022-04-18T14:23:56.830",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:rockwellautomation:controllogix_5550_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "D3B5EBA4-CBAB-4C69-8A01-ECD9123E79BB"
-    }
-  ]
+	"criteria": "cpe:2.3:o:rockwellautomation:controllogix_5550_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AC2014EF-C7B4-4BA7-A8A2-63FFECA51F74",
+	"created": "2022-04-18T14:13:19.107",
+	"lastModified": "2022-04-18T14:13:19.107",
+	"cpeLastModified": "2022-04-18T14:23:56.830",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:rockwellautomation:controllogix_5550_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D3B5EBA4-CBAB-4C69-8A01-ECD9123E79BB"
+		}
+	]
 }

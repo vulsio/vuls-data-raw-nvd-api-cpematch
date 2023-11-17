@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:broadcom:ca_harvest_software_change_manager:13.0.4:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A272EF3D-691D-43D2-BFCD-1D88CD7D220C",
-  "created": "2022-02-08T14:38:45.377",
-  "lastModified": "2022-02-08T14:38:45.377",
-  "cpeLastModified": "2022-02-10T06:54:55.700",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:broadcom:ca_harvest_software_change_manager:13.0.4:*:*:*:*:*:*:*",
-      "cpeNameId": "69976E81-8342-44F5-A446-CCDC28491C04"
-    }
-  ]
+	"criteria": "cpe:2.3:a:broadcom:ca_harvest_software_change_manager:13.0.4:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A272EF3D-691D-43D2-BFCD-1D88CD7D220C",
+	"created": "2022-02-08T14:38:45.377",
+	"lastModified": "2022-02-08T14:38:45.377",
+	"cpeLastModified": "2022-02-10T06:54:55.700",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:broadcom:ca_harvest_software_change_manager:13.0.4:*:*:*:*:*:*:*",
+			"cpeNameId": "69976E81-8342-44F5-A446-CCDC28491C04"
+		}
+	]
 }

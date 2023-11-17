@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:simplejobscript:simplejobscript:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CD8EF221-6FAC-49F7-9589-168A8294E29A",
-  "versionEndIncluding": "1.66",
-  "created": "2020-02-04T17:57:11.720",
-  "lastModified": "2020-02-04T17:57:11.720",
-  "cpeLastModified": "2020-02-04T21:14:13.533",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:simplejobscript:simplejobscript:1.65:*:*:*:*:*:*:*",
-      "cpeNameId": "7EF7A1EB-157A-4697-A05A-2F7EAEB1D8B2"
-    },
-    {
-      "cpeName": "cpe:2.3:a:simplejobscript:simplejobscript:1.66:*:*:*:*:*:*:*",
-      "cpeNameId": "9D263B57-9B13-4E90-B7B2-9E480CE856EF"
-    }
-  ]
+	"criteria": "cpe:2.3:a:simplejobscript:simplejobscript:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CD8EF221-6FAC-49F7-9589-168A8294E29A",
+	"versionEndIncluding": "1.66",
+	"created": "2020-02-04T17:57:11.720",
+	"lastModified": "2020-02-04T17:57:11.720",
+	"cpeLastModified": "2020-02-04T21:14:13.533",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:simplejobscript:simplejobscript:1.65:*:*:*:*:*:*:*",
+			"cpeNameId": "7EF7A1EB-157A-4697-A05A-2F7EAEB1D8B2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:simplejobscript:simplejobscript:1.66:*:*:*:*:*:*:*",
+			"cpeNameId": "9D263B57-9B13-4E90-B7B2-9E480CE856EF"
+		}
+	]
 }

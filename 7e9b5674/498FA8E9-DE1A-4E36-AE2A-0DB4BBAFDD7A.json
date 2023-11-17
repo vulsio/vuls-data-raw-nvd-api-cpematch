@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:paloaltonetworks:traps:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "498FA8E9-DE1A-4E36-AE2A-0DB4BBAFDD7A",
-  "versionStartIncluding": "6.1",
-  "versionEndExcluding": "6.1.4",
-  "created": "2020-04-10T12:24:18.980",
-  "lastModified": "2020-04-10T12:24:18.980",
-  "cpeLastModified": "2020-04-10T16:41:10.593",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:paloaltonetworks:traps:6.1:*:*:*:*:*:*:*",
-      "cpeNameId": "D64A0053-451B-4E16-889D-23D515AD547B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:paloaltonetworks:traps:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "498FA8E9-DE1A-4E36-AE2A-0DB4BBAFDD7A",
+	"versionStartIncluding": "6.1",
+	"versionEndExcluding": "6.1.4",
+	"created": "2020-04-10T12:24:18.980",
+	"lastModified": "2020-04-10T12:24:18.980",
+	"cpeLastModified": "2020-04-10T16:41:10.593",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:paloaltonetworks:traps:6.1:*:*:*:*:*:*:*",
+			"cpeNameId": "D64A0053-451B-4E16-889D-23D515AD547B"
+		}
+	]
 }

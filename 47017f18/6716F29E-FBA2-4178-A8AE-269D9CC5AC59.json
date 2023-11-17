@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:autodesk:autocad_mechanical:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6716F29E-FBA2-4178-A8AE-269D9CC5AC59",
-  "versionStartIncluding": "2022",
-  "versionEndExcluding": "2022.0.1",
-  "created": "2022-03-24T16:05:36.447",
-  "lastModified": "2022-03-24T16:05:36.447",
-  "cpeLastModified": "2022-05-13T17:31:45.983",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:autodesk:autocad_mechanical:2022:*:*:*:*:*:*:*",
-      "cpeNameId": "9D61F760-F24D-4465-A2AE-A21E0ECE7742"
-    }
-  ]
+	"criteria": "cpe:2.3:a:autodesk:autocad_mechanical:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6716F29E-FBA2-4178-A8AE-269D9CC5AC59",
+	"versionStartIncluding": "2022",
+	"versionEndExcluding": "2022.0.1",
+	"created": "2022-03-24T16:05:36.447",
+	"lastModified": "2022-03-24T16:05:36.447",
+	"cpeLastModified": "2022-05-13T17:31:45.983",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:autodesk:autocad_mechanical:2022:*:*:*:*:*:*:*",
+			"cpeNameId": "9D61F760-F24D-4465-A2AE-A21E0ECE7742"
+		}
+	]
 }

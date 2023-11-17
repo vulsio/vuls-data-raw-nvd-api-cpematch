@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:oracle:opensolaris:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A8F39E8E-4ADE-48A9-AFB6-67FB99BF2CB8",
-  "versionEndExcluding": "snv_109",
-  "created": "2021-11-15T19:30:11.853",
-  "lastModified": "2021-11-15T19:30:11.853",
-  "cpeLastModified": "2021-11-15T19:50:07.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:oracle:opensolaris:snv_01:*:*:*:*:*:*:*",
-      "cpeNameId": "1471A10E-183C-4DFE-BC44-1FD464176F96"
-    },
-    {
-      "cpeName": "cpe:2.3:o:oracle:opensolaris:snv_98:*:*:*:*:*:*:*",
-      "cpeNameId": "CB2B6D63-4B31-4DEC-BF9A-2BB0A9D79C33"
-    }
-  ]
+	"criteria": "cpe:2.3:o:oracle:opensolaris:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A8F39E8E-4ADE-48A9-AFB6-67FB99BF2CB8",
+	"versionEndExcluding": "snv_109",
+	"created": "2021-11-15T19:30:11.853",
+	"lastModified": "2021-11-15T19:30:11.853",
+	"cpeLastModified": "2021-11-15T19:50:07.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:oracle:opensolaris:snv_01:*:*:*:*:*:*:*",
+			"cpeNameId": "1471A10E-183C-4DFE-BC44-1FD464176F96"
+		},
+		{
+			"cpeName": "cpe:2.3:o:oracle:opensolaris:snv_98:*:*:*:*:*:*:*",
+			"cpeNameId": "CB2B6D63-4B31-4DEC-BF9A-2BB0A9D79C33"
+		}
+	]
 }

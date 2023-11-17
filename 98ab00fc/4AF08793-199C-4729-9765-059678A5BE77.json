@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:cisco:unified_intelligence_center:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4AF08793-199C-4729-9765-059678A5BE77",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2020-04-24T15:09:27.047",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:unified_intelligence_center:-:*:*:*:*:*:*:*",
-      "cpeNameId": "20298E1D-9896-4FD0-90CD-C8CAAAF63622"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:unified_intelligence_center:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4AF08793-199C-4729-9765-059678A5BE77",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2020-04-24T15:09:27.047",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:unified_intelligence_center:-:*:*:*:*:*:*:*",
+			"cpeNameId": "20298E1D-9896-4FD0-90CD-C8CAAAF63622"
+		}
+	]
 }

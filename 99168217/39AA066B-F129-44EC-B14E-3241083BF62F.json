@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:trezor:one:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "39AA066B-F129-44EC-B14E-3241083BF62F",
-  "created": "2019-08-16T15:04:34.610",
-  "lastModified": "2019-08-16T15:04:34.610",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:trezor:one:-:*:*:*:*:*:*:*",
-      "cpeNameId": "BA53E503-448D-49E7-83EB-D185AC17B977"
-    }
-  ]
+	"criteria": "cpe:2.3:h:trezor:one:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "39AA066B-F129-44EC-B14E-3241083BF62F",
+	"created": "2019-08-16T15:04:34.610",
+	"lastModified": "2019-08-16T15:04:34.610",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:trezor:one:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BA53E503-448D-49E7-83EB-D185AC17B977"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:bakerhughes:bently_nevada_3701\\/44_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "DE58522B-45F7-43DE-B30C-803238E24CF6",
-  "versionEndExcluding": "4.1",
-  "created": "2022-08-02T16:25:46.870",
-  "lastModified": "2022-08-02T16:25:46.870",
-  "cpeLastModified": "2022-08-02T16:35:44.600",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:bakerhughes:bently_nevada_3701\\/44_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "DF269103-2ED1-4679-96FA-B1773FEC5BED"
-    }
-  ]
+	"criteria": "cpe:2.3:o:bakerhughes:bently_nevada_3701\\/44_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DE58522B-45F7-43DE-B30C-803238E24CF6",
+	"versionEndExcluding": "4.1",
+	"created": "2022-08-02T16:25:46.870",
+	"lastModified": "2022-08-02T16:25:46.870",
+	"cpeLastModified": "2022-08-02T16:35:44.600",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:bakerhughes:bently_nevada_3701\\/44_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DF269103-2ED1-4679-96FA-B1773FEC5BED"
+		}
+	]
 }

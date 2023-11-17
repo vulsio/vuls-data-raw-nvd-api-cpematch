@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:schneider-electric:power_manager:1.2:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CE9A1DF0-42B8-4123-8276-1D4BED156034",
-  "created": "2020-12-02T18:17:37.063",
-  "lastModified": "2020-12-02T18:17:37.063",
-  "cpeLastModified": "2021-01-04T14:43:51.207",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:schneider-electric:power_manager:1.2:*:*:*:*:*:*:*",
-      "cpeNameId": "EF56DDEE-BE04-44CE-89A9-8E26E67EDDE4"
-    }
-  ]
+	"criteria": "cpe:2.3:a:schneider-electric:power_manager:1.2:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CE9A1DF0-42B8-4123-8276-1D4BED156034",
+	"created": "2020-12-02T18:17:37.063",
+	"lastModified": "2020-12-02T18:17:37.063",
+	"cpeLastModified": "2021-01-04T14:43:51.207",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:schneider-electric:power_manager:1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "EF56DDEE-BE04-44CE-89A9-8E26E67EDDE4"
+		}
+	]
 }

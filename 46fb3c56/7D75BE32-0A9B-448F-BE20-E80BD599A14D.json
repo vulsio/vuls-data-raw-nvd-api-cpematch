@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:ibm:websphere:7.2.0.3:*:*:*:lombardi:*:*:*",
-  "matchCriteriaId": "7D75BE32-0A9B-448F-BE20-E80BD599A14D",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-10-28T19:34:35.810",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ibm:websphere:7.2.0.3:*:*:*:lombardi:*:*:*",
-      "cpeNameId": "5C1515E8-0811-4DBB-AA72-7899215D0629"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ibm:websphere:7.2.0.3:*:*:*:lombardi:*:*:*",
+	"matchCriteriaId": "7D75BE32-0A9B-448F-BE20-E80BD599A14D",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-10-28T19:34:35.810",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ibm:websphere:7.2.0.3:*:*:*:lombardi:*:*:*",
+			"cpeNameId": "5C1515E8-0811-4DBB-AA72-7899215D0629"
+		}
+	]
 }

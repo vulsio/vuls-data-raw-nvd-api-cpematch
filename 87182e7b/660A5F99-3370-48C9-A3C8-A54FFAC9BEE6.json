@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:schneider-electric:smt_series_1040_ups_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "660A5F99-3370-48C9-A3C8-A54FFAC9BEE6",
-  "versionEndIncluding": "01.2",
-  "created": "2022-03-17T14:54:14.210",
-  "lastModified": "2022-03-17T14:54:14.210",
-  "cpeLastModified": "2022-03-18T15:48:31.337",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:schneider-electric:smt_series_1040_ups_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "4473994E-C639-4480-BA2E-88F474DBDE03"
-    }
-  ]
+	"criteria": "cpe:2.3:o:schneider-electric:smt_series_1040_ups_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "660A5F99-3370-48C9-A3C8-A54FFAC9BEE6",
+	"versionEndIncluding": "01.2",
+	"created": "2022-03-17T14:54:14.210",
+	"lastModified": "2022-03-17T14:54:14.210",
+	"cpeLastModified": "2022-03-18T15:48:31.337",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:schneider-electric:smt_series_1040_ups_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4473994E-C639-4480-BA2E-88F474DBDE03"
+		}
+	]
 }

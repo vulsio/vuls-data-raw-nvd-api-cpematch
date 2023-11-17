@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:kaspersky:security_cloud:2019:-:*:*:*:*:*:*",
-  "matchCriteriaId": "00FFDD70-CB8F-47ED-B8E8-D0CCA55E98DC",
-  "created": "2019-12-16T18:36:50.653",
-  "lastModified": "2019-12-16T18:36:50.653",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:kaspersky:security_cloud:2019:-:*:*:*:*:*:*",
-      "cpeNameId": "1D8EC21C-CB98-4F2E-A2BE-DB1F111C1CDC"
-    }
-  ]
+	"criteria": "cpe:2.3:a:kaspersky:security_cloud:2019:-:*:*:*:*:*:*",
+	"matchCriteriaId": "00FFDD70-CB8F-47ED-B8E8-D0CCA55E98DC",
+	"created": "2019-12-16T18:36:50.653",
+	"lastModified": "2019-12-16T18:36:50.653",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:kaspersky:security_cloud:2019:-:*:*:*:*:*:*",
+			"cpeNameId": "1D8EC21C-CB98-4F2E-A2BE-DB1F111C1CDC"
+		}
+	]
 }

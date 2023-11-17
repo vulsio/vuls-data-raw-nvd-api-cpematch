@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:huawei:toronto-al00a_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1FC8D826-432B-47A2-B315-53067A2CCA1F",
-  "versionEndExcluding": "toronto-al00ac00b225",
-  "created": "2020-09-11T16:45:33.860",
-  "lastModified": "2020-09-11T16:45:33.860",
-  "cpeLastModified": "2020-09-11T16:45:33.873",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:huawei:toronto-al00a_firmware:toronto-al00ac00b223:*:*:*:*:*:*:*",
-      "cpeNameId": "AD3CBDDF-37CE-4D1D-88F5-336CC3B54FA3"
-    }
-  ]
+	"criteria": "cpe:2.3:o:huawei:toronto-al00a_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1FC8D826-432B-47A2-B315-53067A2CCA1F",
+	"versionEndExcluding": "toronto-al00ac00b225",
+	"created": "2020-09-11T16:45:33.860",
+	"lastModified": "2020-09-11T16:45:33.860",
+	"cpeLastModified": "2020-09-11T16:45:33.873",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:huawei:toronto-al00a_firmware:toronto-al00ac00b223:*:*:*:*:*:*:*",
+			"cpeNameId": "AD3CBDDF-37CE-4D1D-88F5-336CC3B54FA3"
+		}
+	]
 }

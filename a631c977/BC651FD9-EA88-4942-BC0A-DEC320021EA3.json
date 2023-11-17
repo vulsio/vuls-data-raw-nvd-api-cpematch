@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:narou_project:narou:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "BC651FD9-EA88-4942-BC0A-DEC320021EA3",
-  "versionEndExcluding": "3.8.0",
-  "created": "2021-06-30T18:50:59.717",
-  "lastModified": "2021-06-30T18:50:59.717",
-  "cpeLastModified": "2021-06-30T18:56:44.983",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:narou_project:narou:-:*:*:*:*:*:*:*",
-      "cpeNameId": "6727EF55-7BA8-45BB-860C-A8BBD358F79F"
-    }
-  ]
+	"criteria": "cpe:2.3:a:narou_project:narou:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BC651FD9-EA88-4942-BC0A-DEC320021EA3",
+	"versionEndExcluding": "3.8.0",
+	"created": "2021-06-30T18:50:59.717",
+	"lastModified": "2021-06-30T18:50:59.717",
+	"cpeLastModified": "2021-06-30T18:56:44.983",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:narou_project:narou:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6727EF55-7BA8-45BB-860C-A8BBD358F79F"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:tenefit:kaazing_websocket_gateway:4.0.3:*:*:*:jms:*:*:*",
-  "matchCriteriaId": "FBE04E79-EE8A-4CDE-94B5-A04074D5CEE6",
-  "created": "2021-04-19T17:39:08.413",
-  "lastModified": "2021-04-19T17:39:08.413",
-  "cpeLastModified": "2021-04-19T17:39:08.413",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:tenefit:kaazing_websocket_gateway:4.0.3:*:*:*:jms:*:*:*",
-      "cpeNameId": "EBD8BE9D-1D9D-4170-89F8-88F001BC4B32"
-    }
-  ]
+	"criteria": "cpe:2.3:a:tenefit:kaazing_websocket_gateway:4.0.3:*:*:*:jms:*:*:*",
+	"matchCriteriaId": "FBE04E79-EE8A-4CDE-94B5-A04074D5CEE6",
+	"created": "2021-04-19T17:39:08.413",
+	"lastModified": "2021-04-19T17:39:08.413",
+	"cpeLastModified": "2021-04-19T17:39:08.413",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:tenefit:kaazing_websocket_gateway:4.0.3:*:*:*:jms:*:*:*",
+			"cpeNameId": "EBD8BE9D-1D9D-4170-89F8-88F001BC4B32"
+		}
+	]
 }

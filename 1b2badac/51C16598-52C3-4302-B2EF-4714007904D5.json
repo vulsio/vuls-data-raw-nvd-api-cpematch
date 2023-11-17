@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:draytek:vigor2866vac_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "51C16598-52C3-4302-B2EF-4714007904D5",
-  "versionEndExcluding": "4.4.0",
-  "created": "2022-08-30T17:52:37.600",
-  "lastModified": "2022-08-30T17:52:37.600",
-  "cpeLastModified": "2022-08-31T12:51:25.280",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:draytek:vigor2866vac_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "DC506FFF-30A0-47BC-BE89-7538EDE5539E"
-    }
-  ]
+	"criteria": "cpe:2.3:o:draytek:vigor2866vac_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "51C16598-52C3-4302-B2EF-4714007904D5",
+	"versionEndExcluding": "4.4.0",
+	"created": "2022-08-30T17:52:37.600",
+	"lastModified": "2022-08-30T17:52:37.600",
+	"cpeLastModified": "2022-08-31T12:51:25.280",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:draytek:vigor2866vac_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DC506FFF-30A0-47BC-BE89-7538EDE5539E"
+		}
+	]
 }

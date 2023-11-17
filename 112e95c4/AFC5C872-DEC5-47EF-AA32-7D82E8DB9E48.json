@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:netgear:wnap210_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AFC5C872-DEC5-47EF-AA32-7D82E8DB9E48",
-  "versionEndExcluding": "3.7.4.0",
-  "created": "2020-04-22T16:21:30.090",
-  "lastModified": "2020-04-22T16:21:30.090",
-  "cpeLastModified": "2020-05-07T10:54:08.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:netgear:wnap210_firmware:3.5.20.0:*:*:*:*:*:*:*",
-      "cpeNameId": "BA152736-91CF-495F-9BF4-397F6F0385A7"
-    }
-  ]
+	"criteria": "cpe:2.3:o:netgear:wnap210_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AFC5C872-DEC5-47EF-AA32-7D82E8DB9E48",
+	"versionEndExcluding": "3.7.4.0",
+	"created": "2020-04-22T16:21:30.090",
+	"lastModified": "2020-04-22T16:21:30.090",
+	"cpeLastModified": "2020-05-07T10:54:08.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netgear:wnap210_firmware:3.5.20.0:*:*:*:*:*:*:*",
+			"cpeNameId": "BA152736-91CF-495F-9BF4-397F6F0385A7"
+		}
+	]
 }

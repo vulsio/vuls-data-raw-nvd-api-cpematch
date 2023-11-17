@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:rockwellautomation:arena_simulation:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D908D4F6-51AE-4101-8814-393535F3BC6D",
-  "versionEndIncluding": "16.00.00",
-  "created": "2020-01-31T00:24:03.840",
-  "lastModified": "2020-01-31T00:24:03.840",
-  "cpeLastModified": "2020-02-07T18:04:02.377",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:rockwellautomation:arena_simulation:-:*:*:*:*:*:*:*",
-      "cpeNameId": "FCC9D57C-8DFD-4D18-A7B3-D077F6640949"
-    },
-    {
-      "cpeName": "cpe:2.3:a:rockwellautomation:arena_simulation:16.00.00:*:*:*:*:*:*:*",
-      "cpeNameId": "B6087CB8-F352-406A-BC9E-38A7E3AACA50"
-    }
-  ]
+	"criteria": "cpe:2.3:a:rockwellautomation:arena_simulation:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D908D4F6-51AE-4101-8814-393535F3BC6D",
+	"versionEndIncluding": "16.00.00",
+	"created": "2020-01-31T00:24:03.840",
+	"lastModified": "2020-01-31T00:24:03.840",
+	"cpeLastModified": "2020-02-07T18:04:02.377",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:rockwellautomation:arena_simulation:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FCC9D57C-8DFD-4D18-A7B3-D077F6640949"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rockwellautomation:arena_simulation:16.00.00:*:*:*:*:*:*:*",
+			"cpeNameId": "B6087CB8-F352-406A-BC9E-38A7E3AACA50"
+		}
+	]
 }

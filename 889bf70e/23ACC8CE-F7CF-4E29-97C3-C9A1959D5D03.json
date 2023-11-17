@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:codesys:profinet:4.2.0.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "23ACC8CE-F7CF-4E29-97C3-C9A1959D5D03",
-  "created": "2022-02-03T17:15:15.000",
-  "lastModified": "2022-02-03T17:15:15.000",
-  "cpeLastModified": "2022-02-04T21:45:11.743",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:codesys:profinet:4.2.0.0:*:*:*:*:*:*:*",
-      "cpeNameId": "F222D63A-23AA-46FC-9D88-EF10C63B3943"
-    }
-  ]
+	"criteria": "cpe:2.3:a:codesys:profinet:4.2.0.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "23ACC8CE-F7CF-4E29-97C3-C9A1959D5D03",
+	"created": "2022-02-03T17:15:15.000",
+	"lastModified": "2022-02-03T17:15:15.000",
+	"cpeLastModified": "2022-02-04T21:45:11.743",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:codesys:profinet:4.2.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F222D63A-23AA-46FC-9D88-EF10C63B3943"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:microfocus:access_manager:4.5:sp3_hotfix1:*:*:*:*:*:*",
-  "matchCriteriaId": "C4692C49-419C-440A-B418-92BA7ACCBC11",
-  "created": "2022-05-19T18:24:56.513",
-  "lastModified": "2022-05-19T18:24:56.513",
-  "cpeLastModified": "2022-05-20T19:46:14.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:microfocus:access_manager:4.5:sp3_hotfix1:*:*:*:*:*:*",
-      "cpeNameId": "969356A4-0AAF-47A5-8091-0B8603F7D183"
-    }
-  ]
+	"criteria": "cpe:2.3:a:microfocus:access_manager:4.5:sp3_hotfix1:*:*:*:*:*:*",
+	"matchCriteriaId": "C4692C49-419C-440A-B418-92BA7ACCBC11",
+	"created": "2022-05-19T18:24:56.513",
+	"lastModified": "2022-05-19T18:24:56.513",
+	"cpeLastModified": "2022-05-20T19:46:14.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microfocus:access_manager:4.5:sp3_hotfix1:*:*:*:*:*:*",
+			"cpeNameId": "969356A4-0AAF-47A5-8091-0B8603F7D183"
+		}
+	]
 }

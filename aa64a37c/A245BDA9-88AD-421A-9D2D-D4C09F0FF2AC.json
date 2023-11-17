@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:amazon:firecracker:0.19.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A245BDA9-88AD-421A-9D2D-D4C09F0FF2AC",
-  "created": "2019-12-19T13:35:06.883",
-  "lastModified": "2019-12-19T13:35:06.883",
-  "cpeLastModified": "2019-12-19T13:35:06.883",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:amazon:firecracker:0.19.0:*:*:*:*:*:*:*",
-      "cpeNameId": "960AB98B-CF8E-48AC-B039-ED50AA73180A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:amazon:firecracker:0.19.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A245BDA9-88AD-421A-9D2D-D4C09F0FF2AC",
+	"created": "2019-12-19T13:35:06.883",
+	"lastModified": "2019-12-19T13:35:06.883",
+	"cpeLastModified": "2019-12-19T13:35:06.883",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:amazon:firecracker:0.19.0:*:*:*:*:*:*:*",
+			"cpeNameId": "960AB98B-CF8E-48AC-B039-ED50AA73180A"
+		}
+	]
 }

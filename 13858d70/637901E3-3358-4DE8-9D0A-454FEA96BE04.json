@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:lenovo:20ga:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "637901E3-3358-4DE8-9D0A-454FEA96BE04",
-  "created": "2019-08-26T18:44:48.267",
-  "lastModified": "2019-08-26T18:44:48.267",
-  "cpeLastModified": "2020-04-06T19:25:55.410",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:lenovo:20ga:-:*:*:*:*:*:*:*",
-      "cpeNameId": "EA958780-D387-4A99-90BA-76425AE92C09"
-    }
-  ]
+	"criteria": "cpe:2.3:h:lenovo:20ga:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "637901E3-3358-4DE8-9D0A-454FEA96BE04",
+	"created": "2019-08-26T18:44:48.267",
+	"lastModified": "2019-08-26T18:44:48.267",
+	"cpeLastModified": "2020-04-06T19:25:55.410",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:lenovo:20ga:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EA958780-D387-4A99-90BA-76425AE92C09"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:mitsubishielectric:melsec_iq-fx5uj-60mt\\/es_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "602128A8-5850-4C9C-A321-7F83CE243FFC",
-  "versionEndExcluding": "1.030",
-  "created": "2022-06-06T12:42:12.613",
-  "lastModified": "2022-06-06T12:42:12.613",
-  "cpeLastModified": "2022-06-06T13:18:35.390",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:mitsubishielectric:melsec_iq-fx5uj-60mt\\/es_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "EB08B9F9-5C95-400C-A89D-B37C9DD34E59"
-    }
-  ]
+	"criteria": "cpe:2.3:o:mitsubishielectric:melsec_iq-fx5uj-60mt\\/es_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "602128A8-5850-4C9C-A321-7F83CE243FFC",
+	"versionEndExcluding": "1.030",
+	"created": "2022-06-06T12:42:12.613",
+	"lastModified": "2022-06-06T12:42:12.613",
+	"cpeLastModified": "2022-06-06T13:18:35.390",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:mitsubishielectric:melsec_iq-fx5uj-60mt\\/es_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EB08B9F9-5C95-400C-A89D-B37C9DD34E59"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:elastic:apm_agent:*:*:*:*:*:go:*:*",
-  "matchCriteriaId": "8220CFD2-D742-4E7B-9B2E-26A5FD413453",
-  "versionEndExcluding": "1.11.0",
-  "created": "2021-02-11T14:01:14.640",
-  "lastModified": "2021-02-11T14:01:14.640",
-  "cpeLastModified": "2021-02-12T18:07:11.000",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:elastic:apm_agent:-:*:*:*:*:go:*:*",
-      "cpeNameId": "387C21BB-6238-4D69-AD05-E9A78088338A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:elastic:apm_agent:*:*:*:*:*:go:*:*",
+	"matchCriteriaId": "8220CFD2-D742-4E7B-9B2E-26A5FD413453",
+	"versionEndExcluding": "1.11.0",
+	"created": "2021-02-11T14:01:14.640",
+	"lastModified": "2021-02-11T14:01:14.640",
+	"cpeLastModified": "2021-02-12T18:07:11.000",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:elastic:apm_agent:-:*:*:*:*:go:*:*",
+			"cpeNameId": "387C21BB-6238-4D69-AD05-E9A78088338A"
+		}
+	]
 }

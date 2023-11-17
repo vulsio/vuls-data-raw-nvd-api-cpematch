@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:igniterealtime:openfire:4.6.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4D147E66-BDF7-4567-B2DF-697D4342F5F1",
-  "created": "2020-12-11T15:10:44.987",
-  "lastModified": "2020-12-11T15:10:44.987",
-  "cpeLastModified": "2020-12-11T15:18:08.253",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:igniterealtime:openfire:4.6.0:*:*:*:*:*:*:*",
-      "cpeNameId": "3C35877C-C597-4531-8979-5907827640CF"
-    }
-  ]
+	"criteria": "cpe:2.3:a:igniterealtime:openfire:4.6.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4D147E66-BDF7-4567-B2DF-697D4342F5F1",
+	"created": "2020-12-11T15:10:44.987",
+	"lastModified": "2020-12-11T15:10:44.987",
+	"cpeLastModified": "2020-12-11T15:18:08.253",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "3C35877C-C597-4531-8979-5907827640CF"
+		}
+	]
 }

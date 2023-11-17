@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:pulsesecure:pulse_connect_secure:8.2:r8.2:*:*:*:*:*:*",
-  "matchCriteriaId": "24BE16DE-2056-45B4-A684-B342F9C4DC00",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:pulsesecure:pulse_connect_secure:8.2:r8.2:*:*:*:*:*:*",
-      "cpeNameId": "0DA17625-1FEC-4F12-99E1-3F626FCDC697"
-    }
-  ]
+	"criteria": "cpe:2.3:a:pulsesecure:pulse_connect_secure:8.2:r8.2:*:*:*:*:*:*",
+	"matchCriteriaId": "24BE16DE-2056-45B4-A684-B342F9C4DC00",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:pulsesecure:pulse_connect_secure:8.2:r8.2:*:*:*:*:*:*",
+			"cpeNameId": "0DA17625-1FEC-4F12-99E1-3F626FCDC697"
+		}
+	]
 }

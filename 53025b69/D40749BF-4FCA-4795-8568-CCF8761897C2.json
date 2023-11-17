@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:100w_gen_3_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D40749BF-4FCA-4795-8568-CCF8761897C2",
-  "versionEndExcluding": "gacn38ww",
-  "created": "2023-02-02T16:15:26.780",
-  "lastModified": "2023-02-02T16:15:26.780",
-  "cpeLastModified": "2023-02-02T19:33:35.350",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:100w_gen_3_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "823E7239-2C3E-4539-BF1A-5DBD97343343"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:100w_gen_3_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D40749BF-4FCA-4795-8568-CCF8761897C2",
+	"versionEndExcluding": "gacn38ww",
+	"created": "2023-02-02T16:15:26.780",
+	"lastModified": "2023-02-02T16:15:26.780",
+	"cpeLastModified": "2023-02-02T19:33:35.350",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:100w_gen_3_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "823E7239-2C3E-4539-BF1A-5DBD97343343"
+		}
+	]
 }

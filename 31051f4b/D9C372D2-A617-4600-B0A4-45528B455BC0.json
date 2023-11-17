@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:latitude_5289_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D9C372D2-A617-4600-B0A4-45528B455BC0",
-  "versionEndExcluding": "1.17.1",
-  "created": "2019-08-09T17:59:01.877",
-  "lastModified": "2019-08-09T17:59:01.877",
-  "cpeLastModified": "2020-03-06T19:58:42.473",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:latitude_5289_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E12F13B0-0BB6-4542-AA19-1A693F1FF7C3"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:latitude_5289_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D9C372D2-A617-4600-B0A4-45528B455BC0",
+	"versionEndExcluding": "1.17.1",
+	"created": "2019-08-09T17:59:01.877",
+	"lastModified": "2019-08-09T17:59:01.877",
+	"cpeLastModified": "2020-03-06T19:58:42.473",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_5289_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E12F13B0-0BB6-4542-AA19-1A693F1FF7C3"
+		}
+	]
 }

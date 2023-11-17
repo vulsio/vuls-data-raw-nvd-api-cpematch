@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:z640_workstation_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "BF68DA67-8AC9-44DF-AC62-224D630E348C",
-  "versionEndIncluding": "2.61",
-  "created": "2023-06-28T15:19:36.153",
-  "lastModified": "2023-06-28T15:19:36.153",
-  "cpeLastModified": "2023-07-17T19:01:19.680",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:z640_workstation_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "656248FA-89B4-473E-A65E-56CAF47880DA"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:z640_workstation_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BF68DA67-8AC9-44DF-AC62-224D630E348C",
+	"versionEndIncluding": "2.61",
+	"created": "2023-06-28T15:19:36.153",
+	"lastModified": "2023-06-28T15:19:36.153",
+	"cpeLastModified": "2023-07-17T19:01:19.680",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:z640_workstation_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "656248FA-89B4-473E-A65E-56CAF47880DA"
+		}
+	]
 }

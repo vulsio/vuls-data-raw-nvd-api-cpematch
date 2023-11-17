@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:ssd_dc_d4512_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "955545E4-F800-4628-AACA-EC16A6A8C9CF",
-  "versionEndExcluding": "et10",
-  "created": "2021-11-22T13:48:29.673",
-  "lastModified": "2021-11-22T13:48:29.673",
-  "cpeLastModified": "2021-11-22T19:59:34.387",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:ssd_dc_d4512_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "342E79CB-0187-499C-9BB9-4BEDCE7AEEAA"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:ssd_dc_d4512_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "955545E4-F800-4628-AACA-EC16A6A8C9CF",
+	"versionEndExcluding": "et10",
+	"created": "2021-11-22T13:48:29.673",
+	"lastModified": "2021-11-22T13:48:29.673",
+	"cpeLastModified": "2021-11-22T19:59:34.387",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:ssd_dc_d4512_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "342E79CB-0187-499C-9BB9-4BEDCE7AEEAA"
+		}
+	]
 }

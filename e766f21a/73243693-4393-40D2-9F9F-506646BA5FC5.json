@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:color_laserjet_enterprise_flow_mfp_m680_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "73243693-4393-40D2-9F9F-506646BA5FC5",
-  "versionEndExcluding": "2309010_581416",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:color_laserjet_enterprise_flow_mfp_m680_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "6E70D193-2ACC-4A8A-B5F7-C558F309291D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:color_laserjet_enterprise_flow_mfp_m680_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "73243693-4393-40D2-9F9F-506646BA5FC5",
+	"versionEndExcluding": "2309010_581416",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:color_laserjet_enterprise_flow_mfp_m680_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6E70D193-2ACC-4A8A-B5F7-C558F309291D"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:nexans:gigaswitch_v5_tp_sfp-2vi_54vdc_med_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "3B6720C6-3BFA-4990-B285-F3B56C452274",
-  "versionEndExcluding": "6.02n",
-  "created": "2022-07-21T15:37:13.717",
-  "lastModified": "2022-07-21T15:37:13.717",
-  "cpeLastModified": "2022-07-21T16:00:51.013",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:nexans:gigaswitch_v5_tp_sfp-2vi_54vdc_med_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "85AC4E5E-8B08-4A52-8AC0-EC41493D961F"
-    }
-  ]
+	"criteria": "cpe:2.3:o:nexans:gigaswitch_v5_tp_sfp-2vi_54vdc_med_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3B6720C6-3BFA-4990-B285-F3B56C452274",
+	"versionEndExcluding": "6.02n",
+	"created": "2022-07-21T15:37:13.717",
+	"lastModified": "2022-07-21T15:37:13.717",
+	"cpeLastModified": "2022-07-21T16:00:51.013",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:nexans:gigaswitch_v5_tp_sfp-2vi_54vdc_med_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "85AC4E5E-8B08-4A52-8AC0-EC41493D961F"
+		}
+	]
 }

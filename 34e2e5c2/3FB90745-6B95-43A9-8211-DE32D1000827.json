@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:siemens:scalance_xf204_irt_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "3FB90745-6B95-43A9-8211-DE32D1000827",
-  "versionEndExcluding": "5.5.1",
-  "created": "2021-04-29T12:09:49.960",
-  "lastModified": "2021-04-29T12:09:49.960",
-  "cpeLastModified": "2021-04-29T12:59:45.040",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:scalance_xf204_irt_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "BD5B8070-04E4-46B4-A964-4E0992E8AC97"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:scalance_xf204_irt_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3FB90745-6B95-43A9-8211-DE32D1000827",
+	"versionEndExcluding": "5.5.1",
+	"created": "2021-04-29T12:09:49.960",
+	"lastModified": "2021-04-29T12:09:49.960",
+	"cpeLastModified": "2021-04-29T12:59:45.040",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:scalance_xf204_irt_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BD5B8070-04E4-46B4-A964-4E0992E8AC97"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:juniper:junos_e:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "048CCA1B-569A-4FFC-9982-4568E2711080",
-  "versionEndIncluding": "13.3.2",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:juniper:junos_e:-:*:*:*:*:*:*:*",
-      "cpeNameId": "644A3AF5-3330-4825-B92D-877C5230CBD4"
-    },
-    {
-      "cpeName": "cpe:2.3:o:juniper:junos_e:7.0.0:*:*:*:*:*:*:*",
-      "cpeNameId": "D0D081C1-571A-49DD-9EF9-91E5DBBE4D8E"
-    }
-  ]
+	"criteria": "cpe:2.3:o:juniper:junos_e:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "048CCA1B-569A-4FFC-9982-4568E2711080",
+	"versionEndIncluding": "13.3.2",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos_e:-:*:*:*:*:*:*:*",
+			"cpeNameId": "644A3AF5-3330-4825-B92D-877C5230CBD4"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos_e:7.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D0D081C1-571A-49DD-9EF9-91E5DBBE4D8E"
+		}
+	]
 }

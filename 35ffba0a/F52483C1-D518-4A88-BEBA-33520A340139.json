@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:sick:rfu630-04101_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F52483C1-D518-4A88-BEBA-33520A340139",
-  "versionEndExcluding": "2.21",
-  "created": "2022-12-14T20:55:02.013",
-  "lastModified": "2022-12-15T15:40:24.940",
-  "cpeLastModified": "2022-12-15T15:40:24.940",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:sick:rfu630-04101_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "12860353-FB7B-4C8F-B84D-4DDEC4DB7D10"
-    }
-  ]
+	"criteria": "cpe:2.3:o:sick:rfu630-04101_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F52483C1-D518-4A88-BEBA-33520A340139",
+	"versionEndExcluding": "2.21",
+	"created": "2022-12-14T20:55:02.013",
+	"lastModified": "2022-12-15T15:40:24.940",
+	"cpeLastModified": "2022-12-15T15:40:24.940",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:sick:rfu630-04101_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "12860353-FB7B-4C8F-B84D-4DDEC4DB7D10"
+		}
+	]
 }

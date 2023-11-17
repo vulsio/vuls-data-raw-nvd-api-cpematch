@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:thinkcentre_m4600t_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7EA0ECA4-4E85-46DA-AFDE-93FD5B09C66A",
-  "versionEndExcluding": "m05kt88a",
-  "created": "2020-02-28T04:03:57.377",
-  "lastModified": "2020-02-28T04:03:57.377",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:thinkcentre_m4600t_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "46EC77CA-18AC-49B9-A623-D9B29C460BB6"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:thinkcentre_m4600t_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7EA0ECA4-4E85-46DA-AFDE-93FD5B09C66A",
+	"versionEndExcluding": "m05kt88a",
+	"created": "2020-02-28T04:03:57.377",
+	"lastModified": "2020-02-28T04:03:57.377",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:thinkcentre_m4600t_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "46EC77CA-18AC-49B9-A623-D9B29C460BB6"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:ibm:business_automation_workflow:21.0.3:if009:*:*:containers:*:*:*",
-  "matchCriteriaId": "19586E74-8802-4C09-A240-D698EE30C570",
-  "created": "2022-11-07T14:50:10.687",
-  "lastModified": "2022-11-07T19:08:34.203",
-  "cpeLastModified": "2022-11-07T19:08:34.203",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ibm:business_automation_workflow:21.0.3:if009:*:*:containers:*:*:*",
-      "cpeNameId": "861A8D3F-23F2-4C99-BF60-643BEFAC6A8B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ibm:business_automation_workflow:21.0.3:if009:*:*:containers:*:*:*",
+	"matchCriteriaId": "19586E74-8802-4C09-A240-D698EE30C570",
+	"created": "2022-11-07T14:50:10.687",
+	"lastModified": "2022-11-07T19:08:34.203",
+	"cpeLastModified": "2022-11-07T19:08:34.203",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ibm:business_automation_workflow:21.0.3:if009:*:*:containers:*:*:*",
+			"cpeNameId": "861A8D3F-23F2-4C99-BF60-643BEFAC6A8B"
+		}
+	]
 }

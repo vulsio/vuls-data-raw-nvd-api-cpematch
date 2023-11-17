@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:soy_inquiry_project:soy_inquiry:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FAA3B455-2406-454F-B81C-2A660D48E01A",
-  "versionEndExcluding": "2.0.0.4",
-  "created": "2020-09-18T10:47:55.570",
-  "lastModified": "2020-09-18T10:47:55.570",
-  "cpeLastModified": "2021-01-29T19:32:59.520",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:soy_inquiry_project:soy_inquiry:-:*:*:*:*:*:*:*",
-      "cpeNameId": "921A074C-669B-4406-9493-613ADA65B7FB"
-    }
-  ]
+	"criteria": "cpe:2.3:a:soy_inquiry_project:soy_inquiry:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FAA3B455-2406-454F-B81C-2A660D48E01A",
+	"versionEndExcluding": "2.0.0.4",
+	"created": "2020-09-18T10:47:55.570",
+	"lastModified": "2020-09-18T10:47:55.570",
+	"cpeLastModified": "2021-01-29T19:32:59.520",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:soy_inquiry_project:soy_inquiry:-:*:*:*:*:*:*:*",
+			"cpeNameId": "921A074C-669B-4406-9493-613ADA65B7FB"
+		}
+	]
 }

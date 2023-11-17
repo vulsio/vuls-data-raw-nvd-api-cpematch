@@ -1,515 +1,515 @@
 {
-  "criteria": "cpe:2.3:a:github:enterprise_server:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "3F285BC4-24DC-4C68-A057-1DD6B2394747",
-  "versionEndExcluding": "3.2.20",
-  "created": "2022-12-02T16:15:55.770",
-  "lastModified": "2022-12-02T16:15:55.770",
-  "cpeLastModified": "2022-12-02T16:15:55.770",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:-:*:*:*:*:*:*:*",
-      "cpeNameId": "B67B5876-BE3B-47C3-B576-9CC16854AD01"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.20.0:*:*:*:*:*:*:*",
-      "cpeNameId": "B7215436-342E-4991-8058-27358E18C3C6"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.20.1:*:*:*:*:*:*:*",
-      "cpeNameId": "5FFB4CA5-18EC-4C2D-B4E8-BFC2F8F745D6"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.20.2:*:*:*:*:*:*:*",
-      "cpeNameId": "EB5D249A-3766-439B-BE52-DF1FB70A07C4"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.20.3:*:*:*:*:*:*:*",
-      "cpeNameId": "F92FF029-6E0F-4FE3-8F65-90E48722F948"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.20.4:*:*:*:*:*:*:*",
-      "cpeNameId": "871EB648-7CC0-4346-8F3B-78BD7CDEEBE1"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.20.5:*:*:*:*:*:*:*",
-      "cpeNameId": "E7ACB746-43DD-4462-B48C-7122D6169415"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.20.6:*:*:*:*:*:*:*",
-      "cpeNameId": "E0401CB3-DB83-4450-A7AE-4A1C9BE98E5A"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.20.7:*:*:*:*:*:*:*",
-      "cpeNameId": "03D97F67-69D4-4059-A532-F556CCD8AC46"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.20.8:*:*:*:*:*:*:*",
-      "cpeNameId": "FDB09EB3-CAFE-4783-8F41-6D033373585F"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.20.9:*:*:*:*:*:*:*",
-      "cpeNameId": "87DF9926-C470-47F1-81AD-E23AB46E4485"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.20.10:*:*:*:*:*:*:*",
-      "cpeNameId": "1C5286DC-8BD4-47EB-A4AB-82DF0439AC9B"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.20.11:*:*:*:*:*:*:*",
-      "cpeNameId": "926324D2-9464-490A-BCB0-E45FDE9E0CEF"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.20.12:*:*:*:*:*:*:*",
-      "cpeNameId": "1F6C96A4-8461-4828-94AC-B46B766A1F55"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.20.13:*:*:*:*:*:*:*",
-      "cpeNameId": "E4D53F9E-DB18-4F8C-B3D9-0BFD07BBDE97"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.20.14:*:*:*:*:*:*:*",
-      "cpeNameId": "22D37FBC-6412-498C-98A2-6550EDE467D4"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.20.15:*:*:*:*:*:*:*",
-      "cpeNameId": "E9CE84BF-6A90-4FB9-85EF-445F311A50F5"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.20.16:*:*:*:*:*:*:*",
-      "cpeNameId": "7D6F1871-F38B-4853-8E90-B7FF63CB2212"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.20.17:*:*:*:*:*:*:*",
-      "cpeNameId": "5ECAF595-5436-4750-95B3-70B31B231C3F"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.20.18:*:*:*:*:*:*:*",
-      "cpeNameId": "553BEC73-3F57-4F77-AA51-F2F5AE6BAC9E"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.20.19:*:*:*:*:*:*:*",
-      "cpeNameId": "F387B4A6-ADE6-4869-AB56-19E3C76EE0D5"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.20.20:*:*:*:*:*:*:*",
-      "cpeNameId": "87697DED-8105-42EF-B60E-4DDF861C2FE4"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.20.21:*:*:*:*:*:*:*",
-      "cpeNameId": "BCC14E54-3034-491D-A09B-071B57A519B4"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.20.22:*:*:*:*:*:*:*",
-      "cpeNameId": "D13FECE9-CD48-4CE7-B6E3-AD973DB8F5A9"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.20.23:*:*:*:*:*:*:*",
-      "cpeNameId": "BD5B90EC-918A-433E-8CAC-6CF52FB4BE20"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.20.24:*:*:*:*:*:*:*",
-      "cpeNameId": "16557511-B724-4F28-8F0A-845C8A701863"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.21.0:*:*:*:*:*:*:*",
-      "cpeNameId": "5BC14B29-9363-4E91-9E46-C26FA1C0FED3"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.21.1:*:*:*:*:*:*:*",
-      "cpeNameId": "66DE55EA-40E3-4A59-A1C9-9AF99CCDC214"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.21.2:*:*:*:*:*:*:*",
-      "cpeNameId": "07AF2AD4-2899-4166-914B-059385813A20"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.21.3:*:*:*:*:*:*:*",
-      "cpeNameId": "11135A23-A0E7-46C2-AA8F-FD93C24C7F6D"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.21.4:*:*:*:*:*:*:*",
-      "cpeNameId": "E112F4EB-DE23-497C-824F-958ED7ABABC9"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.21.5:*:*:*:*:*:*:*",
-      "cpeNameId": "97CE1A3B-C648-4496-A214-99633C3CD12E"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.21.6:*:*:*:*:*:*:*",
-      "cpeNameId": "5E9B9A82-26B0-45BC-ABE7-3AF51B1E88D1"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.21.7:*:*:*:*:*:*:*",
-      "cpeNameId": "07C70F72-9245-42B2-AC64-5CA455DC3FE4"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.21.8:*:*:*:*:*:*:*",
-      "cpeNameId": "C6F85140-36B2-47FC-B9E0-268DCDDD638C"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.21.9:*:*:*:*:*:*:*",
-      "cpeNameId": "9A7AFA75-E5C8-4486-A4F0-85D35914B57E"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.21.10:*:*:*:*:*:*:*",
-      "cpeNameId": "C5973243-0F00-4F00-9903-35E9AC7F61C4"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.21.11:*:*:*:*:*:*:*",
-      "cpeNameId": "9F848887-236B-482D-83F3-9397A8E216DE"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.21.12:*:*:*:*:*:*:*",
-      "cpeNameId": "8C9EF237-5060-46C7-BDD2-D11A205D0A31"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.21.13:*:*:*:*:*:*:*",
-      "cpeNameId": "0B6A9590-4AA3-4D2E-A8DF-FDC0AFA6DE57"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.21.14:*:*:*:*:*:*:*",
-      "cpeNameId": "4EBC2BC8-32D0-405E-97D3-822B8724E275"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.21.15:*:*:*:*:*:*:*",
-      "cpeNameId": "6ED8D822-54D8-4783-95D0-7AC601A76A55"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.21.16:*:*:*:*:*:*:*",
-      "cpeNameId": "9AE93FAC-A0E1-449F-8EDD-4F43DA71D145"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.21.17:*:*:*:*:*:*:*",
-      "cpeNameId": "C6C56928-3015-4413-8C14-50CCC1C74B48"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.21.18:*:*:*:*:*:*:*",
-      "cpeNameId": "CF9CEE42-3645-43A7-972A-BCAF59A638A2"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.21.19:*:*:*:*:*:*:*",
-      "cpeNameId": "A2C03933-77E5-436B-BFDB-C7646C7507C3"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.21.20:*:*:*:*:*:*:*",
-      "cpeNameId": "579B3DE2-1508-4DA5-9E6A-3C124C3B655E"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.21.21:*:*:*:*:*:*:*",
-      "cpeNameId": "A6EEAFD6-D262-4CA8-BDDF-057FE59390D4"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.21.22:*:*:*:*:*:*:*",
-      "cpeNameId": "928268FD-C905-4E92-AB99-C6E9AA8C7F8D"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.21.23:*:*:*:*:*:*:*",
-      "cpeNameId": "5FC8E1A5-B754-4AA9-A71C-DEC391C29D00"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.22.0:*:*:*:*:*:*:*",
-      "cpeNameId": "92395755-BB6A-4660-9765-EA5CADD8ADF5"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.22.1:*:*:*:*:*:*:*",
-      "cpeNameId": "4A85812D-1612-49F9-ABDE-DA409A48257C"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.22.2:*:*:*:*:*:*:*",
-      "cpeNameId": "4ADE5C10-8771-4E83-B180-93C38C678EE6"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.22.3:*:*:*:*:*:*:*",
-      "cpeNameId": "0A0F8FDE-C584-4AC2-8F3C-8BBCBA5BBF88"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.22.4:*:*:*:*:*:*:*",
-      "cpeNameId": "C454A9FE-5447-46CB-84B4-7E1EDDF53289"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.22.5:*:*:*:*:*:*:*",
-      "cpeNameId": "AACD1290-37AF-4166-AEF2-CDCF7BE3FFED"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.22.6:*:*:*:*:*:*:*",
-      "cpeNameId": "41B78BBF-5C23-4433-9173-1D1334FCAFB2"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.22.7:*:*:*:*:*:*:*",
-      "cpeNameId": "63455AE4-92A3-4396-A3ED-A396FF363A93"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.22.8:*:*:*:*:*:*:*",
-      "cpeNameId": "08A4365C-02BE-4FEC-B297-36612E56C49B"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.22.9:*:*:*:*:*:*:*",
-      "cpeNameId": "38333E92-945C-4A71-AB22-9E0515D33B64"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.22.10:*:*:*:*:*:*:*",
-      "cpeNameId": "879D60B1-FAF2-4DF4-B80E-3D7CCB2616B2"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.22.11:*:*:*:*:*:*:*",
-      "cpeNameId": "80C85666-9CF3-4429-B233-256028D8C055"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.22.12:*:*:*:*:*:*:*",
-      "cpeNameId": "82118096-F91E-4CC7-B403-FED0B3090383"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.22.13:*:*:*:*:*:*:*",
-      "cpeNameId": "3C72712B-92AC-4AD1-8DBC-6AC94858FB94"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.22.14:*:*:*:*:*:*:*",
-      "cpeNameId": "5B88DE04-C99A-4ECD-9939-68512ECA0E74"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.22.15:*:*:*:*:*:*:*",
-      "cpeNameId": "CB96B12A-E08F-477B-AFD3-09B2B4140BBA"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.22.16:*:*:*:*:*:*:*",
-      "cpeNameId": "4D6111A4-E2B2-4DBD-AD93-C18F8B60D947"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.22.17:*:*:*:*:*:*:*",
-      "cpeNameId": "7895554F-CD01-485D-B6C4-C66F97EF5E5A"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.22.18:*:*:*:*:*:*:*",
-      "cpeNameId": "E7020F15-0C31-479A-8C25-FA8C2B045E30"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.22.19:*:*:*:*:*:*:*",
-      "cpeNameId": "74B127E7-1A1C-4130-BC39-EAC5F4FA25C3"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.22.20:*:*:*:*:*:*:*",
-      "cpeNameId": "D699304E-5CD2-4531-9C5C-F99E7DE0B6DE"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.22.21:*:*:*:*:*:*:*",
-      "cpeNameId": "4972BA16-44D9-4807-B20E-7800A4B96D92"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:2.22.22:*:*:*:*:*:*:*",
-      "cpeNameId": "A5AEE9B0-0218-49A0-AB3E-E42D09D4CB75"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.0.0:*:*:*:*:*:*:*",
-      "cpeNameId": "E70CC9AD-0212-4191-8965-343250850881"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.0.1:*:*:*:*:*:*:*",
-      "cpeNameId": "7CFC909A-CD98-451D-8282-4E8913C89B3E"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.0.2:*:*:*:*:*:*:*",
-      "cpeNameId": "56FAEA30-DF0B-4C92-BDB4-497D56036DE0"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.0.3:*:*:*:*:*:*:*",
-      "cpeNameId": "E36979DF-CA62-4911-A5B7-1BFECF58F678"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.0.4:*:*:*:*:*:*:*",
-      "cpeNameId": "C553788D-9FDA-4F4E-802F-A9A5FF617EF7"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.0.5:*:*:*:*:*:*:*",
-      "cpeNameId": "91692633-0EFA-45F6-A672-E5036E8534E2"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.0.6:*:*:*:*:*:*:*",
-      "cpeNameId": "F6139EB6-92D1-4B21-A94A-CB0208C0BF23"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.0.7:*:*:*:*:*:*:*",
-      "cpeNameId": "1FD58479-D581-4AC2-908E-A02ADCF790E1"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.0.8:*:*:*:*:*:*:*",
-      "cpeNameId": "BD1E752B-BB57-4814-A51D-DB66CD364F11"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.0.9:*:*:*:*:*:*:*",
-      "cpeNameId": "BECAACC8-FAD7-4CA2-9494-7D366F0F936A"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.0.10:*:*:*:*:*:*:*",
-      "cpeNameId": "2208A7D5-CE40-4CA5-95AA-60F5FD2ECC53"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.0.11:*:*:*:*:*:*:*",
-      "cpeNameId": "DAB21EB9-8EC9-48DB-A75B-9A7112CBAC74"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.0.12:*:*:*:*:*:*:*",
-      "cpeNameId": "1D3EAE15-929A-41F7-B2C1-79D6093BDB2E"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.0.13:*:*:*:*:*:*:*",
-      "cpeNameId": "53508730-6D8B-4502-A6D0-A93D9E8863C7"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.0.14:*:*:*:*:*:*:*",
-      "cpeNameId": "0C6C57F3-50F8-4245-B2A4-ED154E62801B"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.0.15:*:*:*:*:*:*:*",
-      "cpeNameId": "85CC0A40-874F-442F-A20A-187ED4C22A9A"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.0.16:*:*:*:*:*:*:*",
-      "cpeNameId": "6A45F3C3-67B7-44C4-BAE8-FEB0A37CC84B"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.0.17:*:*:*:*:*:*:*",
-      "cpeNameId": "A3E0B002-2668-48F0-908D-AF9772136D99"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.0.18:*:*:*:*:*:*:*",
-      "cpeNameId": "E630A274-502D-4A2A-A11B-74BF75F25856"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.0.19:*:*:*:*:*:*:*",
-      "cpeNameId": "5A544EEE-8926-40C8-90DD-F7B3EFF17D75"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.0.20:*:*:*:*:*:*:*",
-      "cpeNameId": "C77F8869-DC94-49B7-B380-C72BA11438FC"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.0.21:*:*:*:*:*:*:*",
-      "cpeNameId": "8B5066C8-EF67-44F2-A65C-98F1268B9506"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.1.0:*:*:*:*:*:*:*",
-      "cpeNameId": "0F43BEDF-756A-4BD1-832B-CF061326EE30"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.1.1:*:*:*:*:*:*:*",
-      "cpeNameId": "F56A2F47-4B3F-487E-9693-B1A65C53A3BE"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.1.2:*:*:*:*:*:*:*",
-      "cpeNameId": "30CAA7F4-7DC9-4869-9BC4-168A5AFF6378"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.1.3:*:*:*:*:*:*:*",
-      "cpeNameId": "959A50A5-29EA-4E4A-A11E-E0B3980FBB02"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.1.4:*:*:*:*:*:*:*",
-      "cpeNameId": "70D95B6C-7B6E-4358-A62E-585D3B21D894"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.1.5:*:*:*:*:*:*:*",
-      "cpeNameId": "B4008D8C-05BA-4C2C-85EF-E77B17006CA3"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.1.6:*:*:*:*:*:*:*",
-      "cpeNameId": "D4D06DAD-DC9A-4B2E-8387-B0599E9BB3E1"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.1.7:*:*:*:*:*:*:*",
-      "cpeNameId": "151896BF-5BA6-446B-905E-BF5FC7952AC2"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.1.8:*:*:*:*:*:*:*",
-      "cpeNameId": "4CEF7A51-21FE-45F5-B826-218CAC655F46"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.1.9:*:*:*:*:*:*:*",
-      "cpeNameId": "E7838F7E-F468-434A-A64E-C1C8A41A84E7"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.1.10:*:*:*:*:*:*:*",
-      "cpeNameId": "02D53AF7-6E72-4E77-AB73-697388553D82"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.1.11:*:*:*:*:*:*:*",
-      "cpeNameId": "52496247-D967-4AF2-9D2A-F6F4FF146BEA"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.1.12:*:*:*:*:*:*:*",
-      "cpeNameId": "ABE0F99C-27B8-4557-88D0-5CB1E1ECF7CD"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.1.13:*:*:*:*:*:*:*",
-      "cpeNameId": "4E2084A5-BDC1-4394-B0EF-A78CBEF2A43C"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.2.0:*:*:*:*:*:*:*",
-      "cpeNameId": "85E55F57-66B6-4039-9D0F-7CBAC5C5C9F8"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.2.1:*:*:*:*:*:*:*",
-      "cpeNameId": "EE2C74F2-090F-4986-B78D-68631D9F5E64"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.2.2:*:*:*:*:*:*:*",
-      "cpeNameId": "84196706-2B7F-48F2-B19B-84625E7FCF94"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.2.3:*:*:*:*:*:*:*",
-      "cpeNameId": "4E48EF72-6600-46A2-A85C-9FFB8BA9D31A"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.2.4:*:*:*:*:*:*:*",
-      "cpeNameId": "60665678-128C-4FB8-BBF3-C94D61E095F9"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.2.5:*:*:*:*:*:*:*",
-      "cpeNameId": "57B75DE1-B07B-44F7-B909-2035508279B3"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.2.6:*:*:*:*:*:*:*",
-      "cpeNameId": "6675FFCA-7125-4C5D-A7A4-A1CB93D37271"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.2.7:*:*:*:*:*:*:*",
-      "cpeNameId": "5348AAB7-C215-4E34-9629-6AC571B5D7CD"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.2.8:*:*:*:*:*:*:*",
-      "cpeNameId": "EE254E4B-8A98-4394-85E7-F7BACC04FEFA"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.2.9:*:*:*:*:*:*:*",
-      "cpeNameId": "9D9BEF19-7AA3-489B-A643-CC1BD9C72938"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.2.10:*:*:*:*:*:*:*",
-      "cpeNameId": "B5828EA9-F0D6-4A46-AC97-FDFB9FC4BD8A"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.2.11:*:*:*:*:*:*:*",
-      "cpeNameId": "29E767B6-5CFA-4C79-9942-7875392479AE"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.2.12:*:*:*:*:*:*:*",
-      "cpeNameId": "9BC4F801-4ACA-4BF0-A91D-159C471D10D5"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.2.13:*:*:*:*:*:*:*",
-      "cpeNameId": "746BC959-8A0E-4433-BA3D-B6536DA5D82E"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.2.14:*:*:*:*:*:*:*",
-      "cpeNameId": "7FECB42C-5BE4-46D8-8685-3ECB14599E2C"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.2.15:*:*:*:*:*:*:*",
-      "cpeNameId": "4D3B95A9-FDF4-4742-B8F0-40076F81088B"
-    },
-    {
-      "cpeName": "cpe:2.3:a:github:enterprise_server:3.2.16:*:*:*:*:*:*:*",
-      "cpeNameId": "59AB4B4D-9717-4B08-BE37-AF5612A85FE1"
-    }
-  ]
+	"criteria": "cpe:2.3:a:github:enterprise_server:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3F285BC4-24DC-4C68-A057-1DD6B2394747",
+	"versionEndExcluding": "3.2.20",
+	"created": "2022-12-02T16:15:55.770",
+	"lastModified": "2022-12-02T16:15:55.770",
+	"cpeLastModified": "2022-12-02T16:15:55.770",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B67B5876-BE3B-47C3-B576-9CC16854AD01"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.20.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B7215436-342E-4991-8058-27358E18C3C6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.20.1:*:*:*:*:*:*:*",
+			"cpeNameId": "5FFB4CA5-18EC-4C2D-B4E8-BFC2F8F745D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.20.2:*:*:*:*:*:*:*",
+			"cpeNameId": "EB5D249A-3766-439B-BE52-DF1FB70A07C4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.20.3:*:*:*:*:*:*:*",
+			"cpeNameId": "F92FF029-6E0F-4FE3-8F65-90E48722F948"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.20.4:*:*:*:*:*:*:*",
+			"cpeNameId": "871EB648-7CC0-4346-8F3B-78BD7CDEEBE1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.20.5:*:*:*:*:*:*:*",
+			"cpeNameId": "E7ACB746-43DD-4462-B48C-7122D6169415"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.20.6:*:*:*:*:*:*:*",
+			"cpeNameId": "E0401CB3-DB83-4450-A7AE-4A1C9BE98E5A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.20.7:*:*:*:*:*:*:*",
+			"cpeNameId": "03D97F67-69D4-4059-A532-F556CCD8AC46"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.20.8:*:*:*:*:*:*:*",
+			"cpeNameId": "FDB09EB3-CAFE-4783-8F41-6D033373585F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.20.9:*:*:*:*:*:*:*",
+			"cpeNameId": "87DF9926-C470-47F1-81AD-E23AB46E4485"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.20.10:*:*:*:*:*:*:*",
+			"cpeNameId": "1C5286DC-8BD4-47EB-A4AB-82DF0439AC9B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.20.11:*:*:*:*:*:*:*",
+			"cpeNameId": "926324D2-9464-490A-BCB0-E45FDE9E0CEF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.20.12:*:*:*:*:*:*:*",
+			"cpeNameId": "1F6C96A4-8461-4828-94AC-B46B766A1F55"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.20.13:*:*:*:*:*:*:*",
+			"cpeNameId": "E4D53F9E-DB18-4F8C-B3D9-0BFD07BBDE97"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.20.14:*:*:*:*:*:*:*",
+			"cpeNameId": "22D37FBC-6412-498C-98A2-6550EDE467D4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.20.15:*:*:*:*:*:*:*",
+			"cpeNameId": "E9CE84BF-6A90-4FB9-85EF-445F311A50F5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.20.16:*:*:*:*:*:*:*",
+			"cpeNameId": "7D6F1871-F38B-4853-8E90-B7FF63CB2212"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.20.17:*:*:*:*:*:*:*",
+			"cpeNameId": "5ECAF595-5436-4750-95B3-70B31B231C3F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.20.18:*:*:*:*:*:*:*",
+			"cpeNameId": "553BEC73-3F57-4F77-AA51-F2F5AE6BAC9E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.20.19:*:*:*:*:*:*:*",
+			"cpeNameId": "F387B4A6-ADE6-4869-AB56-19E3C76EE0D5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.20.20:*:*:*:*:*:*:*",
+			"cpeNameId": "87697DED-8105-42EF-B60E-4DDF861C2FE4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.20.21:*:*:*:*:*:*:*",
+			"cpeNameId": "BCC14E54-3034-491D-A09B-071B57A519B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.20.22:*:*:*:*:*:*:*",
+			"cpeNameId": "D13FECE9-CD48-4CE7-B6E3-AD973DB8F5A9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.20.23:*:*:*:*:*:*:*",
+			"cpeNameId": "BD5B90EC-918A-433E-8CAC-6CF52FB4BE20"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.20.24:*:*:*:*:*:*:*",
+			"cpeNameId": "16557511-B724-4F28-8F0A-845C8A701863"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.21.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5BC14B29-9363-4E91-9E46-C26FA1C0FED3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.21.1:*:*:*:*:*:*:*",
+			"cpeNameId": "66DE55EA-40E3-4A59-A1C9-9AF99CCDC214"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.21.2:*:*:*:*:*:*:*",
+			"cpeNameId": "07AF2AD4-2899-4166-914B-059385813A20"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.21.3:*:*:*:*:*:*:*",
+			"cpeNameId": "11135A23-A0E7-46C2-AA8F-FD93C24C7F6D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.21.4:*:*:*:*:*:*:*",
+			"cpeNameId": "E112F4EB-DE23-497C-824F-958ED7ABABC9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.21.5:*:*:*:*:*:*:*",
+			"cpeNameId": "97CE1A3B-C648-4496-A214-99633C3CD12E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.21.6:*:*:*:*:*:*:*",
+			"cpeNameId": "5E9B9A82-26B0-45BC-ABE7-3AF51B1E88D1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.21.7:*:*:*:*:*:*:*",
+			"cpeNameId": "07C70F72-9245-42B2-AC64-5CA455DC3FE4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.21.8:*:*:*:*:*:*:*",
+			"cpeNameId": "C6F85140-36B2-47FC-B9E0-268DCDDD638C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.21.9:*:*:*:*:*:*:*",
+			"cpeNameId": "9A7AFA75-E5C8-4486-A4F0-85D35914B57E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.21.10:*:*:*:*:*:*:*",
+			"cpeNameId": "C5973243-0F00-4F00-9903-35E9AC7F61C4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.21.11:*:*:*:*:*:*:*",
+			"cpeNameId": "9F848887-236B-482D-83F3-9397A8E216DE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.21.12:*:*:*:*:*:*:*",
+			"cpeNameId": "8C9EF237-5060-46C7-BDD2-D11A205D0A31"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.21.13:*:*:*:*:*:*:*",
+			"cpeNameId": "0B6A9590-4AA3-4D2E-A8DF-FDC0AFA6DE57"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.21.14:*:*:*:*:*:*:*",
+			"cpeNameId": "4EBC2BC8-32D0-405E-97D3-822B8724E275"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.21.15:*:*:*:*:*:*:*",
+			"cpeNameId": "6ED8D822-54D8-4783-95D0-7AC601A76A55"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.21.16:*:*:*:*:*:*:*",
+			"cpeNameId": "9AE93FAC-A0E1-449F-8EDD-4F43DA71D145"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.21.17:*:*:*:*:*:*:*",
+			"cpeNameId": "C6C56928-3015-4413-8C14-50CCC1C74B48"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.21.18:*:*:*:*:*:*:*",
+			"cpeNameId": "CF9CEE42-3645-43A7-972A-BCAF59A638A2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.21.19:*:*:*:*:*:*:*",
+			"cpeNameId": "A2C03933-77E5-436B-BFDB-C7646C7507C3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.21.20:*:*:*:*:*:*:*",
+			"cpeNameId": "579B3DE2-1508-4DA5-9E6A-3C124C3B655E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.21.21:*:*:*:*:*:*:*",
+			"cpeNameId": "A6EEAFD6-D262-4CA8-BDDF-057FE59390D4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.21.22:*:*:*:*:*:*:*",
+			"cpeNameId": "928268FD-C905-4E92-AB99-C6E9AA8C7F8D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.21.23:*:*:*:*:*:*:*",
+			"cpeNameId": "5FC8E1A5-B754-4AA9-A71C-DEC391C29D00"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.22.0:*:*:*:*:*:*:*",
+			"cpeNameId": "92395755-BB6A-4660-9765-EA5CADD8ADF5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.22.1:*:*:*:*:*:*:*",
+			"cpeNameId": "4A85812D-1612-49F9-ABDE-DA409A48257C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.22.2:*:*:*:*:*:*:*",
+			"cpeNameId": "4ADE5C10-8771-4E83-B180-93C38C678EE6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.22.3:*:*:*:*:*:*:*",
+			"cpeNameId": "0A0F8FDE-C584-4AC2-8F3C-8BBCBA5BBF88"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.22.4:*:*:*:*:*:*:*",
+			"cpeNameId": "C454A9FE-5447-46CB-84B4-7E1EDDF53289"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.22.5:*:*:*:*:*:*:*",
+			"cpeNameId": "AACD1290-37AF-4166-AEF2-CDCF7BE3FFED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.22.6:*:*:*:*:*:*:*",
+			"cpeNameId": "41B78BBF-5C23-4433-9173-1D1334FCAFB2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.22.7:*:*:*:*:*:*:*",
+			"cpeNameId": "63455AE4-92A3-4396-A3ED-A396FF363A93"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.22.8:*:*:*:*:*:*:*",
+			"cpeNameId": "08A4365C-02BE-4FEC-B297-36612E56C49B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.22.9:*:*:*:*:*:*:*",
+			"cpeNameId": "38333E92-945C-4A71-AB22-9E0515D33B64"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.22.10:*:*:*:*:*:*:*",
+			"cpeNameId": "879D60B1-FAF2-4DF4-B80E-3D7CCB2616B2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.22.11:*:*:*:*:*:*:*",
+			"cpeNameId": "80C85666-9CF3-4429-B233-256028D8C055"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.22.12:*:*:*:*:*:*:*",
+			"cpeNameId": "82118096-F91E-4CC7-B403-FED0B3090383"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.22.13:*:*:*:*:*:*:*",
+			"cpeNameId": "3C72712B-92AC-4AD1-8DBC-6AC94858FB94"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.22.14:*:*:*:*:*:*:*",
+			"cpeNameId": "5B88DE04-C99A-4ECD-9939-68512ECA0E74"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.22.15:*:*:*:*:*:*:*",
+			"cpeNameId": "CB96B12A-E08F-477B-AFD3-09B2B4140BBA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.22.16:*:*:*:*:*:*:*",
+			"cpeNameId": "4D6111A4-E2B2-4DBD-AD93-C18F8B60D947"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.22.17:*:*:*:*:*:*:*",
+			"cpeNameId": "7895554F-CD01-485D-B6C4-C66F97EF5E5A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.22.18:*:*:*:*:*:*:*",
+			"cpeNameId": "E7020F15-0C31-479A-8C25-FA8C2B045E30"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.22.19:*:*:*:*:*:*:*",
+			"cpeNameId": "74B127E7-1A1C-4130-BC39-EAC5F4FA25C3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.22.20:*:*:*:*:*:*:*",
+			"cpeNameId": "D699304E-5CD2-4531-9C5C-F99E7DE0B6DE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.22.21:*:*:*:*:*:*:*",
+			"cpeNameId": "4972BA16-44D9-4807-B20E-7800A4B96D92"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:2.22.22:*:*:*:*:*:*:*",
+			"cpeNameId": "A5AEE9B0-0218-49A0-AB3E-E42D09D4CB75"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E70CC9AD-0212-4191-8965-343250850881"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "7CFC909A-CD98-451D-8282-4E8913C89B3E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "56FAEA30-DF0B-4C92-BDB4-497D56036DE0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "E36979DF-CA62-4911-A5B7-1BFECF58F678"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.0.4:*:*:*:*:*:*:*",
+			"cpeNameId": "C553788D-9FDA-4F4E-802F-A9A5FF617EF7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.0.5:*:*:*:*:*:*:*",
+			"cpeNameId": "91692633-0EFA-45F6-A672-E5036E8534E2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.0.6:*:*:*:*:*:*:*",
+			"cpeNameId": "F6139EB6-92D1-4B21-A94A-CB0208C0BF23"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.0.7:*:*:*:*:*:*:*",
+			"cpeNameId": "1FD58479-D581-4AC2-908E-A02ADCF790E1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.0.8:*:*:*:*:*:*:*",
+			"cpeNameId": "BD1E752B-BB57-4814-A51D-DB66CD364F11"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.0.9:*:*:*:*:*:*:*",
+			"cpeNameId": "BECAACC8-FAD7-4CA2-9494-7D366F0F936A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.0.10:*:*:*:*:*:*:*",
+			"cpeNameId": "2208A7D5-CE40-4CA5-95AA-60F5FD2ECC53"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.0.11:*:*:*:*:*:*:*",
+			"cpeNameId": "DAB21EB9-8EC9-48DB-A75B-9A7112CBAC74"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.0.12:*:*:*:*:*:*:*",
+			"cpeNameId": "1D3EAE15-929A-41F7-B2C1-79D6093BDB2E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.0.13:*:*:*:*:*:*:*",
+			"cpeNameId": "53508730-6D8B-4502-A6D0-A93D9E8863C7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.0.14:*:*:*:*:*:*:*",
+			"cpeNameId": "0C6C57F3-50F8-4245-B2A4-ED154E62801B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.0.15:*:*:*:*:*:*:*",
+			"cpeNameId": "85CC0A40-874F-442F-A20A-187ED4C22A9A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.0.16:*:*:*:*:*:*:*",
+			"cpeNameId": "6A45F3C3-67B7-44C4-BAE8-FEB0A37CC84B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.0.17:*:*:*:*:*:*:*",
+			"cpeNameId": "A3E0B002-2668-48F0-908D-AF9772136D99"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.0.18:*:*:*:*:*:*:*",
+			"cpeNameId": "E630A274-502D-4A2A-A11B-74BF75F25856"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.0.19:*:*:*:*:*:*:*",
+			"cpeNameId": "5A544EEE-8926-40C8-90DD-F7B3EFF17D75"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.0.20:*:*:*:*:*:*:*",
+			"cpeNameId": "C77F8869-DC94-49B7-B380-C72BA11438FC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.0.21:*:*:*:*:*:*:*",
+			"cpeNameId": "8B5066C8-EF67-44F2-A65C-98F1268B9506"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "0F43BEDF-756A-4BD1-832B-CF061326EE30"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "F56A2F47-4B3F-487E-9693-B1A65C53A3BE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "30CAA7F4-7DC9-4869-9BC4-168A5AFF6378"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.1.3:*:*:*:*:*:*:*",
+			"cpeNameId": "959A50A5-29EA-4E4A-A11E-E0B3980FBB02"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.1.4:*:*:*:*:*:*:*",
+			"cpeNameId": "70D95B6C-7B6E-4358-A62E-585D3B21D894"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.1.5:*:*:*:*:*:*:*",
+			"cpeNameId": "B4008D8C-05BA-4C2C-85EF-E77B17006CA3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.1.6:*:*:*:*:*:*:*",
+			"cpeNameId": "D4D06DAD-DC9A-4B2E-8387-B0599E9BB3E1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.1.7:*:*:*:*:*:*:*",
+			"cpeNameId": "151896BF-5BA6-446B-905E-BF5FC7952AC2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.1.8:*:*:*:*:*:*:*",
+			"cpeNameId": "4CEF7A51-21FE-45F5-B826-218CAC655F46"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.1.9:*:*:*:*:*:*:*",
+			"cpeNameId": "E7838F7E-F468-434A-A64E-C1C8A41A84E7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.1.10:*:*:*:*:*:*:*",
+			"cpeNameId": "02D53AF7-6E72-4E77-AB73-697388553D82"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.1.11:*:*:*:*:*:*:*",
+			"cpeNameId": "52496247-D967-4AF2-9D2A-F6F4FF146BEA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.1.12:*:*:*:*:*:*:*",
+			"cpeNameId": "ABE0F99C-27B8-4557-88D0-5CB1E1ECF7CD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.1.13:*:*:*:*:*:*:*",
+			"cpeNameId": "4E2084A5-BDC1-4394-B0EF-A78CBEF2A43C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "85E55F57-66B6-4039-9D0F-7CBAC5C5C9F8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "EE2C74F2-090F-4986-B78D-68631D9F5E64"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "84196706-2B7F-48F2-B19B-84625E7FCF94"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.2.3:*:*:*:*:*:*:*",
+			"cpeNameId": "4E48EF72-6600-46A2-A85C-9FFB8BA9D31A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.2.4:*:*:*:*:*:*:*",
+			"cpeNameId": "60665678-128C-4FB8-BBF3-C94D61E095F9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.2.5:*:*:*:*:*:*:*",
+			"cpeNameId": "57B75DE1-B07B-44F7-B909-2035508279B3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.2.6:*:*:*:*:*:*:*",
+			"cpeNameId": "6675FFCA-7125-4C5D-A7A4-A1CB93D37271"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.2.7:*:*:*:*:*:*:*",
+			"cpeNameId": "5348AAB7-C215-4E34-9629-6AC571B5D7CD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.2.8:*:*:*:*:*:*:*",
+			"cpeNameId": "EE254E4B-8A98-4394-85E7-F7BACC04FEFA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.2.9:*:*:*:*:*:*:*",
+			"cpeNameId": "9D9BEF19-7AA3-489B-A643-CC1BD9C72938"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.2.10:*:*:*:*:*:*:*",
+			"cpeNameId": "B5828EA9-F0D6-4A46-AC97-FDFB9FC4BD8A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.2.11:*:*:*:*:*:*:*",
+			"cpeNameId": "29E767B6-5CFA-4C79-9942-7875392479AE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.2.12:*:*:*:*:*:*:*",
+			"cpeNameId": "9BC4F801-4ACA-4BF0-A91D-159C471D10D5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.2.13:*:*:*:*:*:*:*",
+			"cpeNameId": "746BC959-8A0E-4433-BA3D-B6536DA5D82E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.2.14:*:*:*:*:*:*:*",
+			"cpeNameId": "7FECB42C-5BE4-46D8-8685-3ECB14599E2C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.2.15:*:*:*:*:*:*:*",
+			"cpeNameId": "4D3B95A9-FDF4-4742-B8F0-40076F81088B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.2.16:*:*:*:*:*:*:*",
+			"cpeNameId": "59AB4B4D-9717-4B08-BE37-AF5612A85FE1"
+		}
+	]
 }

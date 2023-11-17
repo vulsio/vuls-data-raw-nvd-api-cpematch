@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:siemens:simatic_mv440_sr:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "370D346E-9FD9-4BFC-A450-97F0903F7241",
-  "created": "2021-03-15T23:40:23.373",
-  "lastModified": "2021-03-15T23:40:23.373",
-  "cpeLastModified": "2021-03-15T23:40:35.733",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:siemens:simatic_mv440_sr:-:*:*:*:*:*:*:*",
-      "cpeNameId": "F827BE53-D7B3-4271-A7C2-404CD9912B96"
-    }
-  ]
+	"criteria": "cpe:2.3:h:siemens:simatic_mv440_sr:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "370D346E-9FD9-4BFC-A450-97F0903F7241",
+	"created": "2021-03-15T23:40:23.373",
+	"lastModified": "2021-03-15T23:40:23.373",
+	"cpeLastModified": "2021-03-15T23:40:35.733",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:siemens:simatic_mv440_sr:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F827BE53-D7B3-4271-A7C2-404CD9912B96"
+		}
+	]
 }

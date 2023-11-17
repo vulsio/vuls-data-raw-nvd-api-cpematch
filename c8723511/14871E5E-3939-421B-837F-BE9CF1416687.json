@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:eset:smart_tv_security:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "14871E5E-3939-421B-837F-BE9CF1416687",
-  "versionEndExcluding": "1294",
-  "created": "2020-03-06T18:40:32.083",
-  "lastModified": "2020-03-06T18:40:32.083",
-  "cpeLastModified": "2020-03-06T18:40:32.100",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:eset:smart_tv_security:-:*:*:*:*:*:*:*",
-      "cpeNameId": "8753F7CB-8837-4AF2-AC76-40EC351D0267"
-    }
-  ]
+	"criteria": "cpe:2.3:a:eset:smart_tv_security:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "14871E5E-3939-421B-837F-BE9CF1416687",
+	"versionEndExcluding": "1294",
+	"created": "2020-03-06T18:40:32.083",
+	"lastModified": "2020-03-06T18:40:32.083",
+	"cpeLastModified": "2020-03-06T18:40:32.100",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:eset:smart_tv_security:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8753F7CB-8837-4AF2-AC76-40EC351D0267"
+		}
+	]
 }

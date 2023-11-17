@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:microsoft:dynamics_365_sales:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9C2775E0-D3AC-40AD-82E7-28BCC3F90907",
-  "created": "2022-01-19T14:12:31.907",
-  "lastModified": "2022-09-28T19:55:50.857",
-  "cpeLastModified": "2022-09-28T19:55:50.857",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:microsoft:dynamics_365_sales:-:*:*:*:*:*:*:*",
-      "cpeNameId": "1B91BA93-6F88-4EB0-900C-CD991D7025EF"
-    }
-  ]
+	"criteria": "cpe:2.3:a:microsoft:dynamics_365_sales:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9C2775E0-D3AC-40AD-82E7-28BCC3F90907",
+	"created": "2022-01-19T14:12:31.907",
+	"lastModified": "2022-09-28T19:55:50.857",
+	"cpeLastModified": "2022-09-28T19:55:50.857",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:dynamics_365_sales:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1B91BA93-6F88-4EB0-900C-CD991D7025EF"
+		}
+	]
 }

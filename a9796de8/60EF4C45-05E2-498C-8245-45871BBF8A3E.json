@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:apple:mac_os_x:10.12.6:security_update_2018-004:*:*:*:*:*:*",
-  "matchCriteriaId": "60EF4C45-05E2-498C-8245-45871BBF8A3E",
-  "created": "2022-01-03T16:40:52.767",
-  "lastModified": "2022-05-31T20:08:28.887",
-  "cpeLastModified": "2022-01-05T20:47:36.660",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:apple:mac_os_x:10.12.6:security_update_2018-004:*:*:*:*:*:*",
-      "cpeNameId": "97AAD4B0-DA9C-481F-94F3-614DF5FC34EE"
-    }
-  ]
+	"criteria": "cpe:2.3:o:apple:mac_os_x:10.12.6:security_update_2018-004:*:*:*:*:*:*",
+	"matchCriteriaId": "60EF4C45-05E2-498C-8245-45871BBF8A3E",
+	"created": "2022-01-03T16:40:52.767",
+	"lastModified": "2022-05-31T20:08:28.887",
+	"cpeLastModified": "2022-01-05T20:47:36.660",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:apple:mac_os_x:10.12.6:security_update_2018-004:*:*:*:*:*:*",
+			"cpeNameId": "97AAD4B0-DA9C-481F-94F3-614DF5FC34EE"
+		}
+	]
 }

@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:o:atoptechnology:se5908_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FD9F05F1-E912-4886-9FE8-B41D7B2D9329",
-  "versionStartIncluding": "1.18",
-  "versionEndIncluding": "1.40",
-  "created": "2020-09-10T19:50:36.817",
-  "lastModified": "2020-09-10T19:50:36.817",
-  "cpeLastModified": "2021-01-29T14:34:00.700",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:atoptechnology:se5908_firmware:1.18:*:*:*:*:*:*:*",
-      "cpeNameId": "23882EB9-A3DB-4A0C-B458-261727F970ED"
-    },
-    {
-      "cpeName": "cpe:2.3:o:atoptechnology:se5908_firmware:1.40:*:*:*:*:*:*:*",
-      "cpeNameId": "AF9F3B28-895F-4877-AA42-AB2BE011DC37"
-    }
-  ]
+	"criteria": "cpe:2.3:o:atoptechnology:se5908_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FD9F05F1-E912-4886-9FE8-B41D7B2D9329",
+	"versionStartIncluding": "1.18",
+	"versionEndIncluding": "1.40",
+	"created": "2020-09-10T19:50:36.817",
+	"lastModified": "2020-09-10T19:50:36.817",
+	"cpeLastModified": "2021-01-29T14:34:00.700",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:atoptechnology:se5908_firmware:1.18:*:*:*:*:*:*:*",
+			"cpeNameId": "23882EB9-A3DB-4A0C-B458-261727F970ED"
+		},
+		{
+			"cpeName": "cpe:2.3:o:atoptechnology:se5908_firmware:1.40:*:*:*:*:*:*:*",
+			"cpeNameId": "AF9F3B28-895F-4877-AA42-AB2BE011DC37"
+		}
+	]
 }

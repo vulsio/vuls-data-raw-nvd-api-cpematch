@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:jtekt:pc10pe_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B6233EC3-DCB8-4791-B8F1-1F5A4CE21A41",
-  "versionEndExcluding": "1.02",
-  "created": "2021-07-08T18:46:55.867",
-  "lastModified": "2021-07-08T18:46:55.867",
-  "cpeLastModified": "2021-07-08T18:46:55.867",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:jtekt:pc10pe_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "C2776E2C-1FEF-43D7-A0F8-325FA6144491"
-    }
-  ]
+	"criteria": "cpe:2.3:o:jtekt:pc10pe_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B6233EC3-DCB8-4791-B8F1-1F5A4CE21A41",
+	"versionEndExcluding": "1.02",
+	"created": "2021-07-08T18:46:55.867",
+	"lastModified": "2021-07-08T18:46:55.867",
+	"cpeLastModified": "2021-07-08T18:46:55.867",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:jtekt:pc10pe_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C2776E2C-1FEF-43D7-A0F8-325FA6144491"
+		}
+	]
 }

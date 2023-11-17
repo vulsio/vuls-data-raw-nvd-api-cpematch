@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:thinkpad_t460_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "065A6E61-B7D4-4BBA-BEDC-D9A9CE00F432",
-  "versionEndExcluding": "6.0.8924.1",
-  "created": "2023-01-04T13:35:41.033",
-  "lastModified": "2023-01-23T15:40:03.730",
-  "cpeLastModified": "2023-01-04T13:35:41.033",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:thinkpad_t460_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "B61E56BC-72EC-4DEB-A9E5-8E70173B0A3D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:thinkpad_t460_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "065A6E61-B7D4-4BBA-BEDC-D9A9CE00F432",
+	"versionEndExcluding": "6.0.8924.1",
+	"created": "2023-01-04T13:35:41.033",
+	"lastModified": "2023-01-23T15:40:03.730",
+	"cpeLastModified": "2023-01-04T13:35:41.033",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:thinkpad_t460_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B61E56BC-72EC-4DEB-A9E5-8E70173B0A3D"
+		}
+	]
 }

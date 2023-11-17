@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:celeron_g1840_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "26096550-52F7-47F8-AB60-0BAD6D027A27",
-  "created": "2019-11-18T14:48:59.033",
-  "lastModified": "2019-11-18T14:48:59.033",
-  "cpeLastModified": "2020-03-23T18:33:34.170",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:celeron_g1840_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "B3CE43CD-E72A-419E-9A62-427035EB2B68"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:celeron_g1840_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "26096550-52F7-47F8-AB60-0BAD6D027A27",
+	"created": "2019-11-18T14:48:59.033",
+	"lastModified": "2019-11-18T14:48:59.033",
+	"cpeLastModified": "2020-03-23T18:33:34.170",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:celeron_g1840_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B3CE43CD-E72A-419E-9A62-427035EB2B68"
+		}
+	]
 }

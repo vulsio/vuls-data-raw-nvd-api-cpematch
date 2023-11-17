@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:core_i3-8121u_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C3781D1B-CB84-4C40-BC19-926E47585EAA",
-  "versionEndExcluding": "11.8.92",
-  "created": "2022-06-09T14:34:38.640",
-  "lastModified": "2022-06-09T14:34:38.640",
-  "cpeLastModified": "2022-05-26T00:01:33.617",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:core_i3-8121u_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "A578DBF1-02AE-4E97-A0F8-19473E6C3F04"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:core_i3-8121u_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C3781D1B-CB84-4C40-BC19-926E47585EAA",
+	"versionEndExcluding": "11.8.92",
+	"created": "2022-06-09T14:34:38.640",
+	"lastModified": "2022-06-09T14:34:38.640",
+	"cpeLastModified": "2022-05-26T00:01:33.617",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:core_i3-8121u_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A578DBF1-02AE-4E97-A0F8-19473E6C3F04"
+		}
+	]
 }

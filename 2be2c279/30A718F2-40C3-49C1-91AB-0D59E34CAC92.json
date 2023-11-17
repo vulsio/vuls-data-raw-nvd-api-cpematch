@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:optiplex_7460_aio_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "30A718F2-40C3-49C1-91AB-0D59E34CAC92",
-  "versionEndExcluding": "1.6.4",
-  "created": "2019-08-09T18:45:09.280",
-  "lastModified": "2019-08-09T18:45:09.280",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:optiplex_7460_aio_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "B719EDCB-8196-4BD0-A976-CD72E5065E54"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:optiplex_7460_aio_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "30A718F2-40C3-49C1-91AB-0D59E34CAC92",
+	"versionEndExcluding": "1.6.4",
+	"created": "2019-08-09T18:45:09.280",
+	"lastModified": "2019-08-09T18:45:09.280",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:optiplex_7460_aio_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B719EDCB-8196-4BD0-A976-CD72E5065E54"
+		}
+	]
 }

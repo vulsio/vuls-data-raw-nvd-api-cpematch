@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:atom_z3735e_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9A0704E3-EAFE-4980-B1AA-E25C7387B17D",
-  "created": "2020-02-14T00:07:31.980",
-  "lastModified": "2020-02-14T00:07:31.980",
-  "cpeLastModified": "2020-02-25T15:52:19.290",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:atom_z3735e_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "3C690994-1B0C-493E-A881-EF98362D32BA"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:atom_z3735e_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9A0704E3-EAFE-4980-B1AA-E25C7387B17D",
+	"created": "2020-02-14T00:07:31.980",
+	"lastModified": "2020-02-14T00:07:31.980",
+	"cpeLastModified": "2020-02-25T15:52:19.290",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:atom_z3735e_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3C690994-1B0C-493E-A881-EF98362D32BA"
+		}
+	]
 }

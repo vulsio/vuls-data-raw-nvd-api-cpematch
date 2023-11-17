@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:dell:poweredge_r340:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "3335BF65-71A1-4045-902B-CD5C69336D8A",
-  "created": "2021-06-22T12:48:28.340",
-  "lastModified": "2021-06-22T12:48:28.340",
-  "cpeLastModified": "2021-06-22T12:48:59.297",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:dell:poweredge_r340:-:*:*:*:*:*:*:*",
-      "cpeNameId": "A324A182-E377-4268-850A-AA75630C3F80"
-    }
-  ]
+	"criteria": "cpe:2.3:h:dell:poweredge_r340:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3335BF65-71A1-4045-902B-CD5C69336D8A",
+	"created": "2021-06-22T12:48:28.340",
+	"lastModified": "2021-06-22T12:48:28.340",
+	"cpeLastModified": "2021-06-22T12:48:59.297",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:dell:poweredge_r340:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A324A182-E377-4268-850A-AA75630C3F80"
+		}
+	]
 }

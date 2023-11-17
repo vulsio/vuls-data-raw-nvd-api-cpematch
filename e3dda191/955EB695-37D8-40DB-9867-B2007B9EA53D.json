@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:siemens:teamcenter:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "955EB695-37D8-40DB-9867-B2007B9EA53D",
-  "versionEndExcluding": "12.4.0.13",
-  "created": "2022-05-26T15:39:55.407",
-  "lastModified": "2022-05-26T15:39:55.407",
-  "cpeLastModified": "2022-07-06T14:54:51.093",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:siemens:teamcenter:12.4:*:*:*:*:*:*:*",
-      "cpeNameId": "B666D0AB-5631-4D3C-8804-FA2005AA3386"
-    }
-  ]
+	"criteria": "cpe:2.3:a:siemens:teamcenter:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "955EB695-37D8-40DB-9867-B2007B9EA53D",
+	"versionEndExcluding": "12.4.0.13",
+	"created": "2022-05-26T15:39:55.407",
+	"lastModified": "2022-05-26T15:39:55.407",
+	"cpeLastModified": "2022-07-06T14:54:51.093",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:siemens:teamcenter:12.4:*:*:*:*:*:*:*",
+			"cpeNameId": "B666D0AB-5631-4D3C-8804-FA2005AA3386"
+		}
+	]
 }

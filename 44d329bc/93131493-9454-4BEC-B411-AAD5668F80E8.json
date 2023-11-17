@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:vivotek:ib9389-ht_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "93131493-9454-4BEC-B411-AAD5668F80E8",
-  "versionEndIncluding": "0222g",
-  "created": "2020-05-29T14:56:16.347",
-  "lastModified": "2020-05-29T14:56:16.347",
-  "cpeLastModified": "2020-08-20T15:10:23.833",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:vivotek:ib9389-ht_firmware:0121d:*:*:*:*:*:*:*",
-      "cpeNameId": "2C91AD99-F3EB-424D-9791-465364CACA09"
-    }
-  ]
+	"criteria": "cpe:2.3:o:vivotek:ib9389-ht_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "93131493-9454-4BEC-B411-AAD5668F80E8",
+	"versionEndIncluding": "0222g",
+	"created": "2020-05-29T14:56:16.347",
+	"lastModified": "2020-05-29T14:56:16.347",
+	"cpeLastModified": "2020-08-20T15:10:23.833",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:vivotek:ib9389-ht_firmware:0121d:*:*:*:*:*:*:*",
+			"cpeNameId": "2C91AD99-F3EB-424D-9791-465364CACA09"
+		}
+	]
 }

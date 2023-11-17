@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:apache:kylin:3.1.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "608FB148-4EED-4AC9-A0C4-BC9B3E18BE69",
-  "created": "2020-10-23T17:54:44.960",
-  "lastModified": "2020-10-23T17:54:44.960",
-  "cpeLastModified": "2020-10-23T17:54:44.977",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:apache:kylin:3.1.0:*:*:*:*:*:*:*",
-      "cpeNameId": "B9B1AB58-BD04-490A-A28F-F20A7A814613"
-    }
-  ]
+	"criteria": "cpe:2.3:a:apache:kylin:3.1.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "608FB148-4EED-4AC9-A0C4-BC9B3E18BE69",
+	"created": "2020-10-23T17:54:44.960",
+	"lastModified": "2020-10-23T17:54:44.960",
+	"cpeLastModified": "2020-10-23T17:54:44.977",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apache:kylin:3.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B9B1AB58-BD04-490A-A28F-F20A7A814613"
+		}
+	]
 }

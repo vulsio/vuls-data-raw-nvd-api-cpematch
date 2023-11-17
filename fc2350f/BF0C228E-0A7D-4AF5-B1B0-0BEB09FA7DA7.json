@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:xeon_e-2234_firmware:*:*:*:*:*:windows:*:*",
-  "matchCriteriaId": "BF0C228E-0A7D-4AF5-B1B0-0BEB09FA7DA7",
-  "versionEndExcluding": "26.20.100.6859",
-  "created": "2019-11-26T17:40:52.533",
-  "lastModified": "2019-11-26T17:40:52.533",
-  "cpeLastModified": "2020-01-13T14:15:28.067",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:xeon_e-2234_firmware:-:*:*:*:*:windows:*:*",
-      "cpeNameId": "4CD9EF64-CE6E-4B84-AC34-9E5AA31D9A65"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:xeon_e-2234_firmware:*:*:*:*:*:windows:*:*",
+	"matchCriteriaId": "BF0C228E-0A7D-4AF5-B1B0-0BEB09FA7DA7",
+	"versionEndExcluding": "26.20.100.6859",
+	"created": "2019-11-26T17:40:52.533",
+	"lastModified": "2019-11-26T17:40:52.533",
+	"cpeLastModified": "2020-01-13T14:15:28.067",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:xeon_e-2234_firmware:-:*:*:*:*:windows:*:*",
+			"cpeNameId": "4CD9EF64-CE6E-4B84-AC34-9E5AA31D9A65"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:tesla:tesla:4.23:*:*:*:*:android:*:*",
-  "matchCriteriaId": "7E527C53-0160-462A-84F2-F237C85EDBC6",
-  "created": "2022-09-19T16:08:56.180",
-  "lastModified": "2022-10-05T14:00:34.840",
-  "cpeLastModified": "2022-10-05T14:00:34.840",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:tesla:tesla:4.23:*:*:*:*:android:*:*",
-      "cpeNameId": "3F76304C-4405-4A99-AEBC-95C5A388F131"
-    }
-  ]
+	"criteria": "cpe:2.3:a:tesla:tesla:4.23:*:*:*:*:android:*:*",
+	"matchCriteriaId": "7E527C53-0160-462A-84F2-F237C85EDBC6",
+	"created": "2022-09-19T16:08:56.180",
+	"lastModified": "2022-10-05T14:00:34.840",
+	"cpeLastModified": "2022-10-05T14:00:34.840",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:tesla:tesla:4.23:*:*:*:*:android:*:*",
+			"cpeNameId": "3F76304C-4405-4A99-AEBC-95C5A388F131"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:st:stm32_mw_usb_host:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1FB3C97F-2B84-4BD9-A983-04C5ED72E8F8",
-  "created": "2022-10-24T15:55:04.487",
-  "lastModified": "2022-10-24T17:00:14.867",
-  "cpeLastModified": "2022-10-24T17:00:14.867",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:st:stm32_mw_usb_host:-:*:*:*:*:*:*:*",
-      "cpeNameId": "EB88221E-F9E2-422B-95D8-34A5BB7D12DB"
-    }
-  ]
+	"criteria": "cpe:2.3:a:st:stm32_mw_usb_host:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1FB3C97F-2B84-4BD9-A983-04C5ED72E8F8",
+	"created": "2022-10-24T15:55:04.487",
+	"lastModified": "2022-10-24T17:00:14.867",
+	"cpeLastModified": "2022-10-24T17:00:14.867",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:st:stm32_mw_usb_host:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EB88221E-F9E2-422B-95D8-34A5BB7D12DB"
+		}
+	]
 }

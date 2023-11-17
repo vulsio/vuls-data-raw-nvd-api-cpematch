@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dataprobe:iboot-pdu4-n20_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "05060302-F6DE-4EAF-9356-8CD785ABDE7D",
-  "versionEndExcluding": "1.42.06162022",
-  "created": "2022-12-23T13:58:20.393",
-  "lastModified": "2022-12-28T18:21:42.800",
-  "cpeLastModified": "2022-12-28T18:21:42.800",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dataprobe:iboot-pdu4-n20_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "EF192A44-DAB6-4A0F-912B-38C7ABAC94BC"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dataprobe:iboot-pdu4-n20_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "05060302-F6DE-4EAF-9356-8CD785ABDE7D",
+	"versionEndExcluding": "1.42.06162022",
+	"created": "2022-12-23T13:58:20.393",
+	"lastModified": "2022-12-28T18:21:42.800",
+	"cpeLastModified": "2022-12-28T18:21:42.800",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dataprobe:iboot-pdu4-n20_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EF192A44-DAB6-4A0F-912B-38C7ABAC94BC"
+		}
+	]
 }

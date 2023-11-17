@@ -1,23 +1,23 @@
 {
-  "criteria": "cpe:2.3:a:taogogo:taocms:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7A9D5CD7-C9B3-44BD-9BE6-CEB7FDDCD031",
-  "versionEndIncluding": "2014-05-24",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:taogogo:taocms:3.0.1:*:*:*:*:*:*:*",
-      "cpeNameId": "7E023C7A-80D9-4E30-9BD2-CDC31D78B046"
-    },
-    {
-      "cpeName": "cpe:2.3:a:taogogo:taocms:3.0.2:*:*:*:*:*:*:*",
-      "cpeNameId": "143784E0-1F34-43AB-A197-962AAEF9F717"
-    },
-    {
-      "cpeName": "cpe:2.3:a:taogogo:taocms:2014-05-24:*:*:*:*:*:*:*",
-      "cpeNameId": "4836A084-3525-4243-8DE2-B55AFB0444BE"
-    }
-  ]
+	"criteria": "cpe:2.3:a:taogogo:taocms:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7A9D5CD7-C9B3-44BD-9BE6-CEB7FDDCD031",
+	"versionEndIncluding": "2014-05-24",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:taogogo:taocms:3.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "7E023C7A-80D9-4E30-9BD2-CDC31D78B046"
+		},
+		{
+			"cpeName": "cpe:2.3:a:taogogo:taocms:3.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "143784E0-1F34-43AB-A197-962AAEF9F717"
+		},
+		{
+			"cpeName": "cpe:2.3:a:taogogo:taocms:2014-05-24:*:*:*:*:*:*:*",
+			"cpeNameId": "4836A084-3525-4243-8DE2-B55AFB0444BE"
+		}
+	]
 }

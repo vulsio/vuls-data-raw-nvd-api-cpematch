@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:nvidia:titan_v:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8751F9FE-920A-4438-B0E3-F6F493B1B72C",
-  "created": "2021-11-23T20:58:03.457",
-  "lastModified": "2021-11-23T20:58:03.457",
-  "cpeLastModified": "2021-11-24T15:18:53.713",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:nvidia:titan_v:-:*:*:*:*:*:*:*",
-      "cpeNameId": "3068B978-069C-4265-9B40-1C18D4458C26"
-    }
-  ]
+	"criteria": "cpe:2.3:h:nvidia:titan_v:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8751F9FE-920A-4438-B0E3-F6F493B1B72C",
+	"created": "2021-11-23T20:58:03.457",
+	"lastModified": "2021-11-23T20:58:03.457",
+	"cpeLastModified": "2021-11-24T15:18:53.713",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:nvidia:titan_v:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3068B978-069C-4265-9B40-1C18D4458C26"
+		}
+	]
 }

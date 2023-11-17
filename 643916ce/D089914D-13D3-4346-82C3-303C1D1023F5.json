@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:siemens:simatic_s7-1500_software_controller:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D089914D-13D3-4346-82C3-303C1D1023F5",
-  "created": "2022-11-08T17:55:22.340",
-  "lastModified": "2022-11-08T17:55:22.340",
-  "cpeLastModified": "2022-11-08T17:55:22.340",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:siemens:simatic_s7-1500_software_controller:-:*:*:*:*:*:*:*",
-      "cpeNameId": "A7CDD289-8A32-4404-8E3E-BBA48985FF39"
-    }
-  ]
+	"criteria": "cpe:2.3:a:siemens:simatic_s7-1500_software_controller:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D089914D-13D3-4346-82C3-303C1D1023F5",
+	"created": "2022-11-08T17:55:22.340",
+	"lastModified": "2022-11-08T17:55:22.340",
+	"cpeLastModified": "2022-11-08T17:55:22.340",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:siemens:simatic_s7-1500_software_controller:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A7CDD289-8A32-4404-8E3E-BBA48985FF39"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:siemens:scalance_xc208g_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D51DCE8E-2E29-4969-A26B-A1A10220CA83",
-  "versionEndExcluding": "5.2.5",
-  "created": "2022-04-01T14:30:24.097",
-  "lastModified": "2022-04-01T14:30:24.097",
-  "cpeLastModified": "2022-07-01T18:53:39.423",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:scalance_xc208g_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "71359528-50DD-451A-8F9B-C72D44201695"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:scalance_xc208g_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D51DCE8E-2E29-4969-A26B-A1A10220CA83",
+	"versionEndExcluding": "5.2.5",
+	"created": "2022-04-01T14:30:24.097",
+	"lastModified": "2022-04-01T14:30:24.097",
+	"cpeLastModified": "2022-07-01T18:53:39.423",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:scalance_xc208g_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "71359528-50DD-451A-8F9B-C72D44201695"
+		}
+	]
 }

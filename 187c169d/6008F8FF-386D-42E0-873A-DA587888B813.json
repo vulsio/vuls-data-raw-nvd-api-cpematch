@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:cisco:catalyst_6880-x:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6008F8FF-386D-42E0-873A-DA587888B813",
-  "created": "2022-09-30T12:05:50.743",
-  "lastModified": "2022-10-02T21:00:01.310",
-  "cpeLastModified": "2022-10-02T21:00:01.310",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:cisco:catalyst_6880-x:-:*:*:*:*:*:*:*",
-      "cpeNameId": "8F9CBCEC-EB6B-4C8C-8490-C3D1621CA267"
-    }
-  ]
+	"criteria": "cpe:2.3:h:cisco:catalyst_6880-x:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6008F8FF-386D-42E0-873A-DA587888B813",
+	"created": "2022-09-30T12:05:50.743",
+	"lastModified": "2022-10-02T21:00:01.310",
+	"cpeLastModified": "2022-10-02T21:00:01.310",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:cisco:catalyst_6880-x:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8F9CBCEC-EB6B-4C8C-8490-C3D1621CA267"
+		}
+	]
 }

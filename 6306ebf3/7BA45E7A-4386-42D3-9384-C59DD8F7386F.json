@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:oracle:retail_order_broker_cloud_service:19.2:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7BA45E7A-4386-42D3-9384-C59DD8F7386F",
-  "created": "2020-12-23T19:12:52.500",
-  "lastModified": "2020-12-23T19:12:52.500",
-  "cpeLastModified": "2020-12-28T13:06:03.520",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:oracle:retail_order_broker_cloud_service:19.2:*:*:*:*:*:*:*",
-      "cpeNameId": "0FBD0B4D-D0C1-4E88-8F24-797FD06E9A9A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:oracle:retail_order_broker_cloud_service:19.2:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7BA45E7A-4386-42D3-9384-C59DD8F7386F",
+	"created": "2020-12-23T19:12:52.500",
+	"lastModified": "2020-12-23T19:12:52.500",
+	"cpeLastModified": "2020-12-28T13:06:03.520",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:retail_order_broker_cloud_service:19.2:*:*:*:*:*:*:*",
+			"cpeNameId": "0FBD0B4D-D0C1-4E88-8F24-797FD06E9A9A"
+		}
+	]
 }

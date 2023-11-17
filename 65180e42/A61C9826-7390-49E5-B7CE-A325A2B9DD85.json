@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:intel:server_system_r2208wttysr:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A61C9826-7390-49E5-B7CE-A325A2B9DD85",
-  "created": "2020-08-13T19:26:43.890",
-  "lastModified": "2020-08-13T19:26:43.890",
-  "cpeLastModified": "2021-03-09T18:20:22.880",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:intel:server_system_r2208wttysr:-:*:*:*:*:*:*:*",
-      "cpeNameId": "DB48EAD1-6D0C-411D-8010-FC03128C3C4C"
-    }
-  ]
+	"criteria": "cpe:2.3:h:intel:server_system_r2208wttysr:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A61C9826-7390-49E5-B7CE-A325A2B9DD85",
+	"created": "2020-08-13T19:26:43.890",
+	"lastModified": "2020-08-13T19:26:43.890",
+	"cpeLastModified": "2021-03-09T18:20:22.880",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:server_system_r2208wttysr:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DB48EAD1-6D0C-411D-8010-FC03128C3C4C"
+		}
+	]
 }

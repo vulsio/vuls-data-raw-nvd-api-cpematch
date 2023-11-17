@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:scorelab:openmf:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "DE5E2491-8B9E-492C-8CD1-C696BBBA7F0E",
-  "versionEndExcluding": "2022-05-03",
-  "created": "2022-07-14T16:28:28.783",
-  "lastModified": "2022-11-09T20:55:24.740",
-  "cpeLastModified": "2022-11-09T20:55:24.740",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:scorelab:openmf:-:*:*:*:*:*:*:*",
-      "cpeNameId": "6DEBE95E-ADEA-4224-8CC8-17170C919B1A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:scorelab:openmf:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DE5E2491-8B9E-492C-8CD1-C696BBBA7F0E",
+	"versionEndExcluding": "2022-05-03",
+	"created": "2022-07-14T16:28:28.783",
+	"lastModified": "2022-11-09T20:55:24.740",
+	"cpeLastModified": "2022-11-09T20:55:24.740",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:scorelab:openmf:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6DEBE95E-ADEA-4224-8CC8-17170C919B1A"
+		}
+	]
 }

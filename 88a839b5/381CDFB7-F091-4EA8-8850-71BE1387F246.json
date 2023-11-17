@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:amd:ryzen_5_6600hs_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "381CDFB7-F091-4EA8-8850-71BE1387F246",
-  "versionEndExcluding": "rembrandtpi-fp7_1.0.0.9a",
-  "created": "2023-08-21T14:13:13.130",
-  "lastModified": "2023-08-21T18:35:07.823",
-  "cpeLastModified": "2023-08-21T18:35:07.823",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:amd:ryzen_5_6600hs_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "8FC78024-0D7B-47F2-AD83-96973D0D21AE"
-    },
-    {
-      "cpeName": "cpe:2.3:o:amd:ryzen_5_6600hs_firmware:rembrandtpi-fp7_1.0.0.8:*:*:*:*:*:*:*",
-      "cpeNameId": "3E0FA1B8-436B-4A35-A8B0-95C008BFDF52"
-    }
-  ]
+	"criteria": "cpe:2.3:o:amd:ryzen_5_6600hs_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "381CDFB7-F091-4EA8-8850-71BE1387F246",
+	"versionEndExcluding": "rembrandtpi-fp7_1.0.0.9a",
+	"created": "2023-08-21T14:13:13.130",
+	"lastModified": "2023-08-21T18:35:07.823",
+	"cpeLastModified": "2023-08-21T18:35:07.823",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_5_6600hs_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8FC78024-0D7B-47F2-AD83-96973D0D21AE"
+		},
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_5_6600hs_firmware:rembrandtpi-fp7_1.0.0.8:*:*:*:*:*:*:*",
+			"cpeNameId": "3E0FA1B8-436B-4A35-A8B0-95C008BFDF52"
+		}
+	]
 }

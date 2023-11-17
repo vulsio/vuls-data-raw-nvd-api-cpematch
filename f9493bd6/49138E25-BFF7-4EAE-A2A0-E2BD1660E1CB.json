@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:schneider-electric:bmxp3420302cl_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "49138E25-BFF7-4EAE-A2A0-E2BD1660E1CB",
-  "versionEndExcluding": "3.30",
-  "created": "2020-12-14T14:41:11.123",
-  "lastModified": "2020-12-14T14:41:11.123",
-  "cpeLastModified": "2020-12-14T14:41:11.140",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:schneider-electric:bmxp3420302cl_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "41BFC9ED-AE44-4846-BA78-69671FEFF1BD"
-    }
-  ]
+	"criteria": "cpe:2.3:o:schneider-electric:bmxp3420302cl_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "49138E25-BFF7-4EAE-A2A0-E2BD1660E1CB",
+	"versionEndExcluding": "3.30",
+	"created": "2020-12-14T14:41:11.123",
+	"lastModified": "2020-12-14T14:41:11.123",
+	"cpeLastModified": "2020-12-14T14:41:11.140",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:schneider-electric:bmxp3420302cl_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "41BFC9ED-AE44-4846-BA78-69671FEFF1BD"
+		}
+	]
 }

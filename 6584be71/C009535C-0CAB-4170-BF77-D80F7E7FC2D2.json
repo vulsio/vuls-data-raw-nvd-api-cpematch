@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:ricoh:m_c250fwb_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C009535C-0CAB-4170-BF77-D80F7E7FC2D2",
-  "versionEndExcluding": "1.02",
-  "created": "2020-01-13T21:12:51.527",
-  "lastModified": "2020-01-13T21:12:51.527",
-  "cpeLastModified": "2022-03-24T01:21:30.627",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:ricoh:m_c250fwb_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "20B481B5-99A5-48E0-86D0-075AA6A33124"
-    }
-  ]
+	"criteria": "cpe:2.3:o:ricoh:m_c250fwb_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C009535C-0CAB-4170-BF77-D80F7E7FC2D2",
+	"versionEndExcluding": "1.02",
+	"created": "2020-01-13T21:12:51.527",
+	"lastModified": "2020-01-13T21:12:51.527",
+	"cpeLastModified": "2022-03-24T01:21:30.627",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:ricoh:m_c250fwb_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "20B481B5-99A5-48E0-86D0-075AA6A33124"
+		}
+	]
 }

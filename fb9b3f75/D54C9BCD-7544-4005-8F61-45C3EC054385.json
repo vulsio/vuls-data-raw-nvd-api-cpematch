@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:kde:kde:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D54C9BCD-7544-4005-8F61-45C3EC054385",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T22:41:34.363",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:kde:kde:17.04:*:*:*:*:*:*:*",
-      "cpeNameId": "1FCA4988-98A0-4EC4-83B2-BECE9E5C15BB"
-    }
-  ]
+	"criteria": "cpe:2.3:o:kde:kde:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D54C9BCD-7544-4005-8F61-45C3EC054385",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T22:41:34.363",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:kde:kde:17.04:*:*:*:*:*:*:*",
+			"cpeNameId": "1FCA4988-98A0-4EC4-83B2-BECE9E5C15BB"
+		}
+	]
 }

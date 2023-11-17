@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:jtekt:nano_cpu_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B5EA675C-9EEF-4CA6-9D06-EF4E20FBD4D5",
-  "versionEndExcluding": "2.08",
-  "created": "2021-07-08T18:47:02.093",
-  "lastModified": "2021-07-08T18:47:02.093",
-  "cpeLastModified": "2021-07-08T18:47:02.093",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:jtekt:nano_cpu_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "4384A99A-852C-406A-957D-C227EEC3E193"
-    }
-  ]
+	"criteria": "cpe:2.3:o:jtekt:nano_cpu_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B5EA675C-9EEF-4CA6-9D06-EF4E20FBD4D5",
+	"versionEndExcluding": "2.08",
+	"created": "2021-07-08T18:47:02.093",
+	"lastModified": "2021-07-08T18:47:02.093",
+	"cpeLastModified": "2021-07-08T18:47:02.093",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:jtekt:nano_cpu_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4384A99A-852C-406A-957D-C227EEC3E193"
+		}
+	]
 }

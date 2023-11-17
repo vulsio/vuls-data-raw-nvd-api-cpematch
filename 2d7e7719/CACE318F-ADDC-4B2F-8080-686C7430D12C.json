@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:avanquest:pdf_experte_ultimate:9.0.270:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CACE318F-ADDC-4B2F-8080-686C7430D12C",
-  "created": "2021-01-15T03:10:52.677",
-  "lastModified": "2021-01-15T03:10:52.677",
-  "cpeLastModified": "2021-02-26T17:07:54.957",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:avanquest:expert_pdf_ultimate:9.0.270:*:*:*:*:*:*:*",
-      "cpeNameId": "8FAF2B90-E0F4-41B7-A91F-F64CA3F5EF48"
-    }
-  ]
+	"criteria": "cpe:2.3:a:avanquest:pdf_experte_ultimate:9.0.270:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CACE318F-ADDC-4B2F-8080-686C7430D12C",
+	"created": "2021-01-15T03:10:52.677",
+	"lastModified": "2021-01-15T03:10:52.677",
+	"cpeLastModified": "2021-02-26T17:07:54.957",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:avanquest:expert_pdf_ultimate:9.0.270:*:*:*:*:*:*:*",
+			"cpeNameId": "8FAF2B90-E0F4-41B7-A91F-F64CA3F5EF48"
+		}
+	]
 }

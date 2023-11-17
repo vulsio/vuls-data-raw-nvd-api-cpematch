@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:intel:compute_module_hns2600bpb24r:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "BBAE24DF-2226-459C-9BCE-8A062577D6D9",
-  "created": "2020-08-13T19:57:11.370",
-  "lastModified": "2020-08-13T19:57:11.370",
-  "cpeLastModified": "2021-02-25T15:54:32.340",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:intel:compute_module_hns2600bpb24r:-:*:*:*:*:*:*:*",
-      "cpeNameId": "132FD155-140D-470A-894D-365D409FBA08"
-    }
-  ]
+	"criteria": "cpe:2.3:h:intel:compute_module_hns2600bpb24r:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BBAE24DF-2226-459C-9BCE-8A062577D6D9",
+	"created": "2020-08-13T19:57:11.370",
+	"lastModified": "2020-08-13T19:57:11.370",
+	"cpeLastModified": "2021-02-25T15:54:32.340",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:compute_module_hns2600bpb24r:-:*:*:*:*:*:*:*",
+			"cpeNameId": "132FD155-140D-470A-894D-365D409FBA08"
+		}
+	]
 }

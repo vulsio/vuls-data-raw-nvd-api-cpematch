@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:osisoft:pi_connector_relay:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "474D5BE5-759E-4760-A4CC-661019379A47",
-  "versionEndIncluding": "2.5.19.0",
-  "created": "2020-08-01T03:13:45.177",
-  "lastModified": "2020-08-01T03:13:45.177",
-  "cpeLastModified": "2020-09-11T14:40:08.587",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:osisoft:pi_connector_relay:2.5.19.0:*:*:*:*:*:*:*",
-      "cpeNameId": "BA8DC1CC-8451-4773-AEB5-7E881BC959F0"
-    }
-  ]
+	"criteria": "cpe:2.3:a:osisoft:pi_connector_relay:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "474D5BE5-759E-4760-A4CC-661019379A47",
+	"versionEndIncluding": "2.5.19.0",
+	"created": "2020-08-01T03:13:45.177",
+	"lastModified": "2020-08-01T03:13:45.177",
+	"cpeLastModified": "2020-09-11T14:40:08.587",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:osisoft:pi_connector_relay:2.5.19.0:*:*:*:*:*:*:*",
+			"cpeNameId": "BA8DC1CC-8451-4773-AEB5-7E881BC959F0"
+		}
+	]
 }

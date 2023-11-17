@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:broadcom:symantec_messaging_gateway:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "004337A0-22EE-412B-8AB3-12EFC3420CAE",
-  "versionEndExcluding": "10.7.4",
-  "created": "2020-12-11T16:04:54.770",
-  "lastModified": "2020-12-11T16:04:54.770",
-  "cpeLastModified": "2020-12-15T13:52:39.943",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:broadcom:symantec_messaging_gateway:-:*:*:*:*:*:*:*",
-      "cpeNameId": "BFB4C52F-17F7-402C-881B-1832B3261566"
-    },
-    {
-      "cpeName": "cpe:2.3:a:broadcom:symantec_messaging_gateway:10.7:*:*:*:*:*:*:*",
-      "cpeNameId": "0693D3FF-D4FF-4D50-8B27-2989834BF3A7"
-    }
-  ]
+	"criteria": "cpe:2.3:a:broadcom:symantec_messaging_gateway:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "004337A0-22EE-412B-8AB3-12EFC3420CAE",
+	"versionEndExcluding": "10.7.4",
+	"created": "2020-12-11T16:04:54.770",
+	"lastModified": "2020-12-11T16:04:54.770",
+	"cpeLastModified": "2020-12-15T13:52:39.943",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:broadcom:symantec_messaging_gateway:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BFB4C52F-17F7-402C-881B-1832B3261566"
+		},
+		{
+			"cpeName": "cpe:2.3:a:broadcom:symantec_messaging_gateway:10.7:*:*:*:*:*:*:*",
+			"cpeNameId": "0693D3FF-D4FF-4D50-8B27-2989834BF3A7"
+		}
+	]
 }

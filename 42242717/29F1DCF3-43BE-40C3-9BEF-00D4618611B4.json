@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:netgear:eax20_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "29F1DCF3-43BE-40C3-9BEF-00D4618611B4",
-  "versionEndExcluding": "1.0.0.32",
-  "created": "2022-01-05T16:11:10.217",
-  "lastModified": "2022-01-05T16:11:10.217",
-  "cpeLastModified": "2022-01-06T14:53:09.317",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:netgear:eax20_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "28790616-861B-4022-9647-1653EC37F734"
-    }
-  ]
+	"criteria": "cpe:2.3:o:netgear:eax20_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "29F1DCF3-43BE-40C3-9BEF-00D4618611B4",
+	"versionEndExcluding": "1.0.0.32",
+	"created": "2022-01-05T16:11:10.217",
+	"lastModified": "2022-01-05T16:11:10.217",
+	"cpeLastModified": "2022-01-06T14:53:09.317",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netgear:eax20_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "28790616-861B-4022-9647-1653EC37F734"
+		}
+	]
 }

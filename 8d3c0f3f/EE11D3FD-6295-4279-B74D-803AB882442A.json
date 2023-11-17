@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:facebook:instagram:*:*:*:*:*:android:*:*",
-  "matchCriteriaId": "EE11D3FD-6295-4279-B74D-803AB882442A",
-  "versionEndExcluding": "128.0.0.26.128",
-  "created": "2020-04-10T11:24:09.637",
-  "lastModified": "2020-04-10T11:24:09.637",
-  "cpeLastModified": "2020-04-10T15:32:19.353",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:facebook:instagram:-:*:*:*:*:android:*:*",
-      "cpeNameId": "63A8B1AD-E81A-4418-8C26-6B77C6345D6B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:facebook:instagram:*:*:*:*:*:android:*:*",
+	"matchCriteriaId": "EE11D3FD-6295-4279-B74D-803AB882442A",
+	"versionEndExcluding": "128.0.0.26.128",
+	"created": "2020-04-10T11:24:09.637",
+	"lastModified": "2020-04-10T11:24:09.637",
+	"cpeLastModified": "2020-04-10T15:32:19.353",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:facebook:instagram:-:*:*:*:*:android:*:*",
+			"cpeNameId": "63A8B1AD-E81A-4418-8C26-6B77C6345D6B"
+		}
+	]
 }

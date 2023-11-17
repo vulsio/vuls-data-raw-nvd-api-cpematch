@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:netgear:rbs750_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1E2FF118-6526-4F4E-B98A-2DEEE1BC3548",
-  "versionEndExcluding": "3.2.10.10",
-  "created": "2021-08-18T14:39:30.720",
-  "lastModified": "2021-08-18T14:39:30.720",
-  "cpeLastModified": "2021-08-18T14:39:30.720",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:netgear:rbs750_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "EF214C01-1CCC-451F-B962-9FC6886DBBCF"
-    }
-  ]
+	"criteria": "cpe:2.3:o:netgear:rbs750_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1E2FF118-6526-4F4E-B98A-2DEEE1BC3548",
+	"versionEndExcluding": "3.2.10.10",
+	"created": "2021-08-18T14:39:30.720",
+	"lastModified": "2021-08-18T14:39:30.720",
+	"cpeLastModified": "2021-08-18T14:39:30.720",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netgear:rbs750_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EF214C01-1CCC-451F-B962-9FC6886DBBCF"
+		}
+	]
 }

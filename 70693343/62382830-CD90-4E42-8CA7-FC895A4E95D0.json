@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:schneider-electric:hmibscea53d1l0t_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "62382830-CD90-4E42-8CA7-FC895A4E95D0",
-  "created": "2022-02-15T14:09:57.663",
-  "lastModified": "2022-02-15T14:09:57.663",
-  "cpeLastModified": "2022-02-16T16:57:54.860",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:schneider-electric:hmibscea53d1l0t_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "F4542EB5-F2E9-4E12-BBC6-4F87BBF0680E"
-    }
-  ]
+	"criteria": "cpe:2.3:o:schneider-electric:hmibscea53d1l0t_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "62382830-CD90-4E42-8CA7-FC895A4E95D0",
+	"created": "2022-02-15T14:09:57.663",
+	"lastModified": "2022-02-15T14:09:57.663",
+	"cpeLastModified": "2022-02-16T16:57:54.860",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:schneider-electric:hmibscea53d1l0t_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F4542EB5-F2E9-4E12-BBC6-4F87BBF0680E"
+		}
+	]
 }

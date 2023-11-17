@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:avira:exchange_security:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0B60B790-6B4B-431E-BD1A-1CAE80DCDF5C",
-  "versionEndExcluding": "8.2.12.58",
-  "created": "2020-02-18T16:01:27.103",
-  "lastModified": "2020-02-18T16:01:27.103",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:avira:exchange_security:-:*:*:*:*:*:*:*",
-      "cpeNameId": "2D77186B-7809-4AF6-A591-533E8E830D26"
-    }
-  ]
+	"criteria": "cpe:2.3:a:avira:exchange_security:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0B60B790-6B4B-431E-BD1A-1CAE80DCDF5C",
+	"versionEndExcluding": "8.2.12.58",
+	"created": "2020-02-18T16:01:27.103",
+	"lastModified": "2020-02-18T16:01:27.103",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:avira:exchange_security:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2D77186B-7809-4AF6-A591-533E8E830D26"
+		}
+	]
 }

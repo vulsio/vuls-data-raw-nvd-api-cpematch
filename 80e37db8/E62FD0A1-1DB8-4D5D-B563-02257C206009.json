@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:thinkpad_s540_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E62FD0A1-1DB8-4D5D-B563-02257C206009",
-  "versionEndExcluding": "gpet81ww",
-  "created": "2020-06-16T18:52:09.570",
-  "lastModified": "2020-06-16T18:52:09.570",
-  "cpeLastModified": "2020-06-16T18:52:09.617",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:thinkpad_s540_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "752C1B8B-5DF0-4F58-9D20-BF66467F3F29"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:thinkpad_s540_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E62FD0A1-1DB8-4D5D-B563-02257C206009",
+	"versionEndExcluding": "gpet81ww",
+	"created": "2020-06-16T18:52:09.570",
+	"lastModified": "2020-06-16T18:52:09.570",
+	"cpeLastModified": "2020-06-16T18:52:09.617",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:thinkpad_s540_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "752C1B8B-5DF0-4F58-9D20-BF66467F3F29"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:citrix:mpx_8920_fips:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AB83185D-DD6F-47CD-B500-499F9EF65093",
-  "created": "2021-06-23T13:43:19.200",
-  "lastModified": "2021-06-23T13:43:19.200",
-  "cpeLastModified": "2021-08-19T14:53:51.300",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:citrix:mpx_8920_fips:-:*:*:*:*:*:*:*",
-      "cpeNameId": "8D958E01-9A45-4467-B0DD-8FA56FA5AB65"
-    }
-  ]
+	"criteria": "cpe:2.3:h:citrix:mpx_8920_fips:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AB83185D-DD6F-47CD-B500-499F9EF65093",
+	"created": "2021-06-23T13:43:19.200",
+	"lastModified": "2021-06-23T13:43:19.200",
+	"cpeLastModified": "2021-08-19T14:53:51.300",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:citrix:mpx_8920_fips:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8D958E01-9A45-4467-B0DD-8FA56FA5AB65"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:ffmpeg:ffmpeg:4.2.3:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B065434E-291D-4EAE-82AC-B747F0E93EBF",
-  "created": "2020-06-09T05:13:02.763",
-  "lastModified": "2020-06-09T05:13:02.763",
-  "cpeLastModified": "2020-06-09T11:33:24.847",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ffmpeg:ffmpeg:4.2.3:*:*:*:*:*:*:*",
-      "cpeNameId": "B20838BB-282A-4D2A-B9C2-90BD605512AF"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ffmpeg:ffmpeg:4.2.3:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B065434E-291D-4EAE-82AC-B747F0E93EBF",
+	"created": "2020-06-09T05:13:02.763",
+	"lastModified": "2020-06-09T05:13:02.763",
+	"cpeLastModified": "2020-06-09T11:33:24.847",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ffmpeg:ffmpeg:4.2.3:*:*:*:*:*:*:*",
+			"cpeNameId": "B20838BB-282A-4D2A-B9C2-90BD605512AF"
+		}
+	]
 }

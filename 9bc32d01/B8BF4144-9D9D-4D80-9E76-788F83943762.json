@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:netgear:wpn824ext_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B8BF4144-9D9D-4D80-9E76-788F83943762",
-  "versionEndIncluding": "1.1.1_1.1.9",
-  "created": "2022-09-22T15:06:53.533",
-  "lastModified": "2022-09-22T15:06:53.533",
-  "cpeLastModified": "2022-12-28T16:10:47.463",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:netgear:wpn824ext_firmware:1.1.1_1.1.9:*:*:*:*:*:*:*",
-      "cpeNameId": "88256FE3-1559-424C-BD74-3A38BD65129F"
-    }
-  ]
+	"criteria": "cpe:2.3:o:netgear:wpn824ext_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B8BF4144-9D9D-4D80-9E76-788F83943762",
+	"versionEndIncluding": "1.1.1_1.1.9",
+	"created": "2022-09-22T15:06:53.533",
+	"lastModified": "2022-09-22T15:06:53.533",
+	"cpeLastModified": "2022-12-28T16:10:47.463",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netgear:wpn824ext_firmware:1.1.1_1.1.9:*:*:*:*:*:*:*",
+			"cpeNameId": "88256FE3-1559-424C-BD74-3A38BD65129F"
+		}
+	]
 }

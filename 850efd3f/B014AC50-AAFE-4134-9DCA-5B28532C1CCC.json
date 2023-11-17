@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:ibm:dashdb_local:1.2.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B014AC50-AAFE-4134-9DCA-5B28532C1CCC",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ibm:dashdb_local:1.2.0:*:*:*:*:*:*:*",
-      "cpeNameId": "E672513C-5E74-4D79-AEFC-DD30DE68F5E9"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ibm:dashdb_local:1.2.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B014AC50-AAFE-4134-9DCA-5B28532C1CCC",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ibm:dashdb_local:1.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E672513C-5E74-4D79-AEFC-DD30DE68F5E9"
+		}
+	]
 }

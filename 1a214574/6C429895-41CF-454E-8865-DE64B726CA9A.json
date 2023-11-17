@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:siemens:ruggedcom_ros_rs900:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6C429895-41CF-454E-8865-DE64B726CA9A",
-  "versionEndExcluding": "4.3.7",
-  "created": "2021-08-20T19:00:51.737",
-  "lastModified": "2021-08-20T19:00:51.737",
-  "cpeLastModified": "2021-08-24T14:42:42.743",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:ruggedcom_ros_rs900:-:*:*:*:*:*:*:*",
-      "cpeNameId": "FF0C651C-C7EA-4DB4-A7A9-9F1159F79FB5"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:ruggedcom_ros_rs900:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6C429895-41CF-454E-8865-DE64B726CA9A",
+	"versionEndExcluding": "4.3.7",
+	"created": "2021-08-20T19:00:51.737",
+	"lastModified": "2021-08-20T19:00:51.737",
+	"cpeLastModified": "2021-08-24T14:42:42.743",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:ruggedcom_ros_rs900:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FF0C651C-C7EA-4DB4-A7A9-9F1159F79FB5"
+		}
+	]
 }

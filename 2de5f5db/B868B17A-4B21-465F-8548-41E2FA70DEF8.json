@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:o:cisco:aironet_2800_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B868B17A-4B21-465F-8548-41E2FA70DEF8",
-  "versionStartIncluding": "8.6",
-  "versionEndExcluding": "8.8.120.0",
-  "created": "2019-10-21T16:27:54.190",
-  "lastModified": "2019-10-21T16:27:54.190",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:aironet_2800_firmware:8.6:*:*:*:*:*:*:*",
-      "cpeNameId": "B658C7D9-8E89-444D-9445-CD9076A6ADAE"
-    },
-    {
-      "cpeName": "cpe:2.3:o:cisco:aironet_2800_firmware:8.8:*:*:*:*:*:*:*",
-      "cpeNameId": "50FCA541-D91E-42D6-8E03-1E8BEB34C286"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:aironet_2800_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B868B17A-4B21-465F-8548-41E2FA70DEF8",
+	"versionStartIncluding": "8.6",
+	"versionEndExcluding": "8.8.120.0",
+	"created": "2019-10-21T16:27:54.190",
+	"lastModified": "2019-10-21T16:27:54.190",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:aironet_2800_firmware:8.6:*:*:*:*:*:*:*",
+			"cpeNameId": "B658C7D9-8E89-444D-9445-CD9076A6ADAE"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:aironet_2800_firmware:8.8:*:*:*:*:*:*:*",
+			"cpeNameId": "50FCA541-D91E-42D6-8E03-1E8BEB34C286"
+		}
+	]
 }

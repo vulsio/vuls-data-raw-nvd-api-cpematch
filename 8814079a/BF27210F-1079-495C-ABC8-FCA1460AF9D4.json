@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:a:dell:emc_appsync:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "BF27210F-1079-495C-ABC8-FCA1460AF9D4",
-  "versionStartIncluding": "3.9.0.0",
-  "versionEndExcluding": "4.4.0.0",
-  "created": "2022-05-02T17:30:13.957",
-  "lastModified": "2022-05-02T17:30:13.957",
-  "cpeLastModified": "2022-05-03T17:34:27.510",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:dell:emc_appsync:3.9.0.0:*:*:*:*:*:*:*",
-      "cpeNameId": "D568F4D1-D4D9-4AB1-BDC1-58322D266C50"
-    },
-    {
-      "cpeName": "cpe:2.3:a:dell:emc_appsync:4.3.0.0:*:*:*:*:*:*:*",
-      "cpeNameId": "52C85394-E204-45F7-8F15-2A45CC216AEA"
-    }
-  ]
+	"criteria": "cpe:2.3:a:dell:emc_appsync:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BF27210F-1079-495C-ABC8-FCA1460AF9D4",
+	"versionStartIncluding": "3.9.0.0",
+	"versionEndExcluding": "4.4.0.0",
+	"created": "2022-05-02T17:30:13.957",
+	"lastModified": "2022-05-02T17:30:13.957",
+	"cpeLastModified": "2022-05-03T17:34:27.510",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:dell:emc_appsync:3.9.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D568F4D1-D4D9-4AB1-BDC1-58322D266C50"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dell:emc_appsync:4.3.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "52C85394-E204-45F7-8F15-2A45CC216AEA"
+		}
+	]
 }

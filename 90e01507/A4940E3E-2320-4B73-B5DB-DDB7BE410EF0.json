@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:netgear:rax78_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A4940E3E-2320-4B73-B5DB-DDB7BE410EF0",
-  "versionEndExcluding": "1.0.10.110",
-  "created": "2022-01-06T18:33:18.270",
-  "lastModified": "2022-01-06T18:33:18.270",
-  "cpeLastModified": "2022-01-06T18:54:46.797",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:netgear:rax78_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "57639D07-8D42-4D46-B082-19A5BA431912"
-    }
-  ]
+	"criteria": "cpe:2.3:o:netgear:rax78_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A4940E3E-2320-4B73-B5DB-DDB7BE410EF0",
+	"versionEndExcluding": "1.0.10.110",
+	"created": "2022-01-06T18:33:18.270",
+	"lastModified": "2022-01-06T18:33:18.270",
+	"cpeLastModified": "2022-01-06T18:54:46.797",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netgear:rax78_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "57639D07-8D42-4D46-B082-19A5BA431912"
+		}
+	]
 }

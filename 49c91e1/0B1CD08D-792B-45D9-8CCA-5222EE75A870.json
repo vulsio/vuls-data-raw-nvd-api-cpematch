@@ -1,28 +1,28 @@
 {
-  "criteria": "cpe:2.3:o:qnap:quts_hero:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0B1CD08D-792B-45D9-8CCA-5222EE75A870",
-  "versionStartIncluding": "h5.0.1",
-  "versionEndExcluding": "h5.0.1.2248",
-  "created": "2023-02-17T21:05:40.950",
-  "lastModified": "2023-02-17T21:05:40.950",
-  "cpeLastModified": "2023-11-16T21:09:03.457",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:qnap:quts_hero:h5.0.1.2045:*:*:*:*:*:*:*",
-      "cpeNameId": "3F3DF663-2B82-4D7A-A15D-712DB7EEE56D"
-    },
-    {
-      "cpeName": "cpe:2.3:o:qnap:quts_hero:h5.0.1.2045:build_20220526:*:*:*:*:*:*",
-      "cpeNameId": "1D734C18-079C-4872-8D29-946F846F649B"
-    },
-    {
-      "cpeName": "cpe:2.3:o:qnap:quts_hero:h5.0.1.2192:*:*:*:*:*:*:*",
-      "cpeNameId": "255502E1-F208-48E0-A2FC-36941FFD8F42"
-    },
-    {
-      "cpeName": "cpe:2.3:o:qnap:quts_hero:h5.0.1.2192:build_20221020:*:*:*:*:*:*",
-      "cpeNameId": "16B26748-2ADC-4E9C-9CFA-5BD9CDB95430"
-    }
-  ]
+	"criteria": "cpe:2.3:o:qnap:quts_hero:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0B1CD08D-792B-45D9-8CCA-5222EE75A870",
+	"versionStartIncluding": "h5.0.1",
+	"versionEndExcluding": "h5.0.1.2248",
+	"created": "2023-02-17T21:05:40.950",
+	"lastModified": "2023-02-17T21:05:40.950",
+	"cpeLastModified": "2023-11-16T21:09:03.457",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:qnap:quts_hero:h5.0.1.2045:*:*:*:*:*:*:*",
+			"cpeNameId": "3F3DF663-2B82-4D7A-A15D-712DB7EEE56D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:quts_hero:h5.0.1.2045:build_20220526:*:*:*:*:*:*",
+			"cpeNameId": "1D734C18-079C-4872-8D29-946F846F649B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:quts_hero:h5.0.1.2192:*:*:*:*:*:*:*",
+			"cpeNameId": "255502E1-F208-48E0-A2FC-36941FFD8F42"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:quts_hero:h5.0.1.2192:build_20221020:*:*:*:*:*:*",
+			"cpeNameId": "16B26748-2ADC-4E9C-9CFA-5BD9CDB95430"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:cisco:asa_5585-x_firmware:96.4\\(0.42\\):*:*:*:*:*:*:*",
-  "matchCriteriaId": "CCAC6D10-D0F7-48C8-BC2F-A22F3CBF9B8A",
-  "created": "2020-05-11T15:16:01.960",
-  "lastModified": "2020-05-11T15:16:01.960",
-  "cpeLastModified": "2021-01-11T15:52:39.783",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:asa_5585-x_firmware:96.4\\(0.42\\):*:*:*:*:*:*:*",
-      "cpeNameId": "2C04D75E-1A4D-4244-AF98-8ECBF45EFD6C"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:asa_5585-x_firmware:96.4\\(0.42\\):*:*:*:*:*:*:*",
+	"matchCriteriaId": "CCAC6D10-D0F7-48C8-BC2F-A22F3CBF9B8A",
+	"created": "2020-05-11T15:16:01.960",
+	"lastModified": "2020-05-11T15:16:01.960",
+	"cpeLastModified": "2021-01-11T15:52:39.783",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:asa_5585-x_firmware:96.4\\(0.42\\):*:*:*:*:*:*:*",
+			"cpeNameId": "2C04D75E-1A4D-4244-AF98-8ECBF45EFD6C"
+		}
+	]
 }

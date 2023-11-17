@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:core_i5-11500h_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "73976FC0-F830-46E0-AAEA-82CE2F8F77CA",
-  "versionEndExcluding": "15.0.40",
-  "created": "2022-06-09T13:31:42.753",
-  "lastModified": "2022-06-09T13:31:42.753",
-  "cpeLastModified": "2021-12-01T18:46:41.243",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:core_i5-11500h_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "5FF353E1-2DCC-43F1-9BDD-41DA1B403943"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:core_i5-11500h_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "73976FC0-F830-46E0-AAEA-82CE2F8F77CA",
+	"versionEndExcluding": "15.0.40",
+	"created": "2022-06-09T13:31:42.753",
+	"lastModified": "2022-06-09T13:31:42.753",
+	"cpeLastModified": "2021-12-01T18:46:41.243",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:core_i5-11500h_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5FF353E1-2DCC-43F1-9BDD-41DA1B403943"
+		}
+	]
 }

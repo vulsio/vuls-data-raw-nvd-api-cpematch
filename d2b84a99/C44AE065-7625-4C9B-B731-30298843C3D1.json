@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:gdatasoftware:g_data:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C44AE065-7625-4C9B-B731-30298843C3D1",
-  "versionEndExcluding": "25.5.9.25",
-  "created": "2020-12-30T14:44:26.593",
-  "lastModified": "2020-12-30T14:44:26.593",
-  "cpeLastModified": "2021-01-04T14:41:57.360",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:gdatasoftware:g_data:-:*:*:*:*:*:*:*",
-      "cpeNameId": "B0B975EB-2249-4B8D-8548-BFCB57D0A9A8"
-    }
-  ]
+	"criteria": "cpe:2.3:a:gdatasoftware:g_data:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C44AE065-7625-4C9B-B731-30298843C3D1",
+	"versionEndExcluding": "25.5.9.25",
+	"created": "2020-12-30T14:44:26.593",
+	"lastModified": "2020-12-30T14:44:26.593",
+	"cpeLastModified": "2021-01-04T14:41:57.360",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:gdatasoftware:g_data:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B0B975EB-2249-4B8D-8548-BFCB57D0A9A8"
+		}
+	]
 }

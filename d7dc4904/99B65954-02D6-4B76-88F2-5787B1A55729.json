@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:draytek:vigorlte_200n_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "99B65954-02D6-4B76-88F2-5787B1A55729",
-  "versionEndExcluding": "3.9.8.1",
-  "created": "2022-08-30T17:52:37.600",
-  "lastModified": "2022-08-30T17:52:37.600",
-  "cpeLastModified": "2022-08-31T12:51:25.280",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:draytek:vigorlte_200n_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "25B33AFE-3CD4-4802-8BBC-9513C6511403"
-    }
-  ]
+	"criteria": "cpe:2.3:o:draytek:vigorlte_200n_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "99B65954-02D6-4B76-88F2-5787B1A55729",
+	"versionEndExcluding": "3.9.8.1",
+	"created": "2022-08-30T17:52:37.600",
+	"lastModified": "2022-08-30T17:52:37.600",
+	"cpeLastModified": "2022-08-31T12:51:25.280",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:draytek:vigorlte_200n_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "25B33AFE-3CD4-4802-8BBC-9513C6511403"
+		}
+	]
 }

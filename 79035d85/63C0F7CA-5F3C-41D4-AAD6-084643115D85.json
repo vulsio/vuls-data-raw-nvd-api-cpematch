@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:ibm:qradar_vulnerability_manager:7.2.8:p11:*:*:*:*:*:*",
-  "matchCriteriaId": "63C0F7CA-5F3C-41D4-AAD6-084643115D85",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-10-01T14:07:42.493",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ibm:qradar_vulnerability_manager:7.2.8:p11:*:*:*:*:*:*",
-      "cpeNameId": "73FE6AE7-6B89-4653-8582-CAD2FD208C89"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ibm:qradar_vulnerability_manager:7.2.8:p11:*:*:*:*:*:*",
+	"matchCriteriaId": "63C0F7CA-5F3C-41D4-AAD6-084643115D85",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-10-01T14:07:42.493",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ibm:qradar_vulnerability_manager:7.2.8:p11:*:*:*:*:*:*",
+			"cpeNameId": "73FE6AE7-6B89-4653-8582-CAD2FD208C89"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:hikvision:ds-a72048r-cvs_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0119D3D1-49BD-4A16-A7ED-C69F22EE48D5",
-  "versionEndIncluding": "1.1.4",
-  "created": "2022-07-06T15:51:26.993",
-  "lastModified": "2022-07-06T15:51:26.993",
-  "cpeLastModified": "2022-07-07T19:22:20.140",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hikvision:ds-a72048r-cvs_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "A347DB91-FBC5-44BB-969D-36692D76C381"
-    },
-    {
-      "cpeName": "cpe:2.3:o:hikvision:ds-a72048r-cvs_firmware:1.1.4:*:*:*:*:*:*:*",
-      "cpeNameId": "98F1FCCD-DB42-4C0B-9FDC-B3234A920435"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hikvision:ds-a72048r-cvs_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0119D3D1-49BD-4A16-A7ED-C69F22EE48D5",
+	"versionEndIncluding": "1.1.4",
+	"created": "2022-07-06T15:51:26.993",
+	"lastModified": "2022-07-06T15:51:26.993",
+	"cpeLastModified": "2022-07-07T19:22:20.140",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hikvision:ds-a72048r-cvs_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A347DB91-FBC5-44BB-969D-36692D76C381"
+		},
+		{
+			"cpeName": "cpe:2.3:o:hikvision:ds-a72048r-cvs_firmware:1.1.4:*:*:*:*:*:*:*",
+			"cpeNameId": "98F1FCCD-DB42-4C0B-9FDC-B3234A920435"
+		}
+	]
 }

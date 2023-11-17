@@ -1,18 +1,18 @@
 {
-  "criteria": "cpe:2.3:a:mozilla:firefox:3.6:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F3782354-7EB7-49D2-B240-1871F6CB84C7",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2020-08-26T22:42:52.667",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:mozilla:firefox:3.6:*:*:*:*:*:*:*",
-      "cpeNameId": "FFE1E11D-28E2-45CF-B6DD-FCD413ED4A84"
-    },
-    {
-      "cpeName": "cpe:2.3:a:mozilla:firefox:3.6:a1:*:*:*:*:*:*",
-      "cpeNameId": "2AF4D7D8-AE03-4C7F-BB9F-5EBDD3BCD99B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:mozilla:firefox:3.6:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F3782354-7EB7-49D2-B240-1871F6CB84C7",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2020-08-26T22:42:52.667",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:3.6:*:*:*:*:*:*:*",
+			"cpeNameId": "FFE1E11D-28E2-45CF-B6DD-FCD413ED4A84"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:3.6:a1:*:*:*:*:*:*",
+			"cpeNameId": "2AF4D7D8-AE03-4C7F-BB9F-5EBDD3BCD99B"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:digi:saros:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C98B5C59-8AF6-448B-AB76-BB3FAA7D4DD6",
-  "versionEndExcluding": "8.1.0.1",
-  "created": "2020-07-27T16:02:55.190",
-  "lastModified": "2020-07-27T16:02:55.190",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:digi:saros:-:*:*:*:*:*:*:*",
-      "cpeNameId": "626BCC9E-76A7-4B63-8E0B-05681BDFB5FC"
-    }
-  ]
+	"criteria": "cpe:2.3:o:digi:saros:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C98B5C59-8AF6-448B-AB76-BB3FAA7D4DD6",
+	"versionEndExcluding": "8.1.0.1",
+	"created": "2020-07-27T16:02:55.190",
+	"lastModified": "2020-07-27T16:02:55.190",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:digi:saros:-:*:*:*:*:*:*:*",
+			"cpeNameId": "626BCC9E-76A7-4B63-8E0B-05681BDFB5FC"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:cisco:ucs_c220_m3:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5368DBDD-B482-4705-A186-6D5B5B21B754",
-  "created": "2020-11-24T16:08:46.467",
-  "lastModified": "2020-11-24T16:08:46.467",
-  "cpeLastModified": "2020-12-08T16:45:32.737",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:cisco:ucs_c220_m3:-:*:*:*:*:*:*:*",
-      "cpeNameId": "6DD4D12A-FA29-462C-B511-EF62C568B60F"
-    }
-  ]
+	"criteria": "cpe:2.3:h:cisco:ucs_c220_m3:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5368DBDD-B482-4705-A186-6D5B5B21B754",
+	"created": "2020-11-24T16:08:46.467",
+	"lastModified": "2020-11-24T16:08:46.467",
+	"cpeLastModified": "2020-12-08T16:45:32.737",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:cisco:ucs_c220_m3:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6DD4D12A-FA29-462C-B511-EF62C568B60F"
+		}
+	]
 }

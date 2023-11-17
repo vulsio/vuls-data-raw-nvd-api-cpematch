@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:huawei:s7700_firmware:v100r003c00:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C306E48F-EE09-4C7D-9084-484245A1A9F4",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2020-02-21T22:28:10.320",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:huawei:s7700_firmware:v100r003c00:*:*:*:*:*:*:*",
-      "cpeNameId": "4B34483A-1012-4D73-B73B-25FCA443A340"
-    }
-  ]
+	"criteria": "cpe:2.3:o:huawei:s7700_firmware:v100r003c00:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C306E48F-EE09-4C7D-9084-484245A1A9F4",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2020-02-21T22:28:10.320",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:huawei:s7700_firmware:v100r003c00:*:*:*:*:*:*:*",
+			"cpeNameId": "4B34483A-1012-4D73-B73B-25FCA443A340"
+		}
+	]
 }

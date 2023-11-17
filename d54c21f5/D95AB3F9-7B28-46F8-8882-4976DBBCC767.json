@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:core_i5-9400h_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D95AB3F9-7B28-46F8-8882-4976DBBCC767",
-  "created": "2019-11-18T14:39:03.507",
-  "lastModified": "2022-11-18T14:40:21.500",
-  "cpeLastModified": "2020-03-23T18:34:31.380",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:core_i5-9400h_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "C28B6125-5960-406C-A1F4-F95E3496A98C"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:core_i5-9400h_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D95AB3F9-7B28-46F8-8882-4976DBBCC767",
+	"created": "2019-11-18T14:39:03.507",
+	"lastModified": "2022-11-18T14:40:21.500",
+	"cpeLastModified": "2020-03-23T18:34:31.380",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:core_i5-9400h_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C28B6125-5960-406C-A1F4-F95E3496A98C"
+		}
+	]
 }

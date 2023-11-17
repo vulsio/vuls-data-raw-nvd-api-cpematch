@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:nexans:gigaswitch_v5_sfp-2vi_230vac_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "254E133B-73D6-44F5-80FF-42292F0DC2E2",
-  "versionEndExcluding": "6.02n",
-  "created": "2022-07-21T15:37:13.717",
-  "lastModified": "2022-07-21T15:37:13.717",
-  "cpeLastModified": "2022-07-21T16:00:51.013",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:nexans:gigaswitch_v5_sfp-2vi_230vac_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "413A08C5-8219-4F52-8150-206BFE8E88A7"
-    }
-  ]
+	"criteria": "cpe:2.3:o:nexans:gigaswitch_v5_sfp-2vi_230vac_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "254E133B-73D6-44F5-80FF-42292F0DC2E2",
+	"versionEndExcluding": "6.02n",
+	"created": "2022-07-21T15:37:13.717",
+	"lastModified": "2022-07-21T15:37:13.717",
+	"cpeLastModified": "2022-07-21T16:00:51.013",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:nexans:gigaswitch_v5_sfp-2vi_230vac_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "413A08C5-8219-4F52-8150-206BFE8E88A7"
+		}
+	]
 }

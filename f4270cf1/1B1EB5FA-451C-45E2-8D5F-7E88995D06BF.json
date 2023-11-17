@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:secomea:gatemanager_9250_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1B1EB5FA-451C-45E2-8D5F-7E88995D06BF",
-  "versionEndExcluding": "9.0i",
-  "created": "2021-02-17T17:57:05.750",
-  "lastModified": "2021-02-17T17:57:05.750",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:secomea:gatemanager_9250_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "BFEC53D4-F516-4E57-BCAE-83016CAA75D7"
-    },
-    {
-      "cpeName": "cpe:2.3:o:secomea:gatemanager_9250_firmware:9.0g:*:*:*:*:*:*:*",
-      "cpeNameId": "19B5B3AB-69B4-4F62-B5D0-77D426940A5B"
-    }
-  ]
+	"criteria": "cpe:2.3:o:secomea:gatemanager_9250_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1B1EB5FA-451C-45E2-8D5F-7E88995D06BF",
+	"versionEndExcluding": "9.0i",
+	"created": "2021-02-17T17:57:05.750",
+	"lastModified": "2021-02-17T17:57:05.750",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:secomea:gatemanager_9250_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BFEC53D4-F516-4E57-BCAE-83016CAA75D7"
+		},
+		{
+			"cpeName": "cpe:2.3:o:secomea:gatemanager_9250_firmware:9.0g:*:*:*:*:*:*:*",
+			"cpeNameId": "19B5B3AB-69B4-4F62-B5D0-77D426940A5B"
+		}
+	]
 }

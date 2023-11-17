@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:cisco:sg250-26hp_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8E99E251-5F53-4968-85BC-A0EFA7891917",
-  "versionEndExcluding": "2.5.0.78",
-  "created": "2020-08-27T14:29:51.310",
-  "lastModified": "2020-08-27T14:29:51.310",
-  "cpeLastModified": "2020-08-27T14:29:51.340",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:sg250-26hp_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "AC1E1D69-DB52-4FD2-8C8E-DD8601B34350"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:sg250-26hp_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8E99E251-5F53-4968-85BC-A0EFA7891917",
+	"versionEndExcluding": "2.5.0.78",
+	"created": "2020-08-27T14:29:51.310",
+	"lastModified": "2020-08-27T14:29:51.310",
+	"cpeLastModified": "2020-08-27T14:29:51.340",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:sg250-26hp_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "AC1E1D69-DB52-4FD2-8C8E-DD8601B34350"
+		}
+	]
 }

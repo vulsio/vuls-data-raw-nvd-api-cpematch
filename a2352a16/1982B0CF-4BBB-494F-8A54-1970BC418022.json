@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:jtekt:pc10e_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1982B0CF-4BBB-494F-8A54-1970BC418022",
-  "versionEndExcluding": "1.02",
-  "created": "2021-07-08T18:46:57.953",
-  "lastModified": "2021-07-08T18:46:57.953",
-  "cpeLastModified": "2021-07-08T18:46:57.953",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:jtekt:pc10e_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "DF60F70C-1344-482B-BF92-3FB737199722"
-    }
-  ]
+	"criteria": "cpe:2.3:o:jtekt:pc10e_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1982B0CF-4BBB-494F-8A54-1970BC418022",
+	"versionEndExcluding": "1.02",
+	"created": "2021-07-08T18:46:57.953",
+	"lastModified": "2021-07-08T18:46:57.953",
+	"cpeLastModified": "2021-07-08T18:46:57.953",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:jtekt:pc10e_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DF60F70C-1344-482B-BF92-3FB737199722"
+		}
+	]
 }

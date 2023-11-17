@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:microsoft:windows_2000:-:sp2:*:*:professional:*:*:*",
-  "matchCriteriaId": "4F2339C6-3BAA-48DD-BE2C-EA4271F35772",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:microsoft:windows_2000:-:sp2:*:*:professional:*:*:*",
-      "cpeNameId": "CDA757C0-9B63-40BD-A1A5-E86F97557B93"
-    }
-  ]
+	"criteria": "cpe:2.3:o:microsoft:windows_2000:-:sp2:*:*:professional:*:*:*",
+	"matchCriteriaId": "4F2339C6-3BAA-48DD-BE2C-EA4271F35772",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_2000:-:sp2:*:*:professional:*:*:*",
+			"cpeNameId": "CDA757C0-9B63-40BD-A1A5-E86F97557B93"
+		}
+	]
 }

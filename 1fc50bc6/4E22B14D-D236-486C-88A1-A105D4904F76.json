@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:veritas:flex_appliance:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4E22B14D-D236-486C-88A1-A105D4904F76",
-  "versionEndIncluding": "1.2",
-  "created": "2019-11-14T16:42:12.520",
-  "lastModified": "2019-11-14T16:42:12.520",
-  "cpeLastModified": "2019-12-06T14:59:43.303",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:veritas:flex_appliance:1.2:*:*:*:*:*:*:*",
-      "cpeNameId": "92D3DCF4-2A56-43EA-95A6-4F844ACECEBF"
-    }
-  ]
+	"criteria": "cpe:2.3:a:veritas:flex_appliance:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4E22B14D-D236-486C-88A1-A105D4904F76",
+	"versionEndIncluding": "1.2",
+	"created": "2019-11-14T16:42:12.520",
+	"lastModified": "2019-11-14T16:42:12.520",
+	"cpeLastModified": "2019-12-06T14:59:43.303",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:veritas:flex_appliance:1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "92D3DCF4-2A56-43EA-95A6-4F844ACECEBF"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:bosch:b426_firmware:03.01.0004:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5D8D9DF7-C733-4455-A653-D78298D1FABD",
-  "created": "2021-06-24T13:20:57.910",
-  "lastModified": "2021-06-24T13:20:57.910",
-  "cpeLastModified": "2021-06-24T13:21:01.540",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:bosch:b426_firmware:03.01.0004:*:*:*:*:*:*:*",
-      "cpeNameId": "01D58A90-935B-495F-B8E0-7C0BD0C290AB"
-    }
-  ]
+	"criteria": "cpe:2.3:o:bosch:b426_firmware:03.01.0004:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5D8D9DF7-C733-4455-A653-D78298D1FABD",
+	"created": "2021-06-24T13:20:57.910",
+	"lastModified": "2021-06-24T13:20:57.910",
+	"cpeLastModified": "2021-06-24T13:21:01.540",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:bosch:b426_firmware:03.01.0004:*:*:*:*:*:*:*",
+			"cpeNameId": "01D58A90-935B-495F-B8E0-7C0BD0C290AB"
+		}
+	]
 }

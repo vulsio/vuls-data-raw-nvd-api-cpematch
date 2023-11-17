@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:intel:xeon_platinum_8160h:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6C355436-0E1A-402D-BC54-EC8BB5EE7D5D",
-  "created": "2021-06-15T15:59:20.277",
-  "lastModified": "2021-06-15T15:59:20.277",
-  "cpeLastModified": "2021-06-15T16:24:50.477",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:intel:xeon_platinum_8160h:-:*:*:*:*:*:*:*",
-      "cpeNameId": "1F8BB952-4B47-472C-9C5F-6DF4869B58EB"
-    }
-  ]
+	"criteria": "cpe:2.3:h:intel:xeon_platinum_8160h:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6C355436-0E1A-402D-BC54-EC8BB5EE7D5D",
+	"created": "2021-06-15T15:59:20.277",
+	"lastModified": "2021-06-15T15:59:20.277",
+	"cpeLastModified": "2021-06-15T16:24:50.477",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:xeon_platinum_8160h:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1F8BB952-4B47-472C-9C5F-6DF4869B58EB"
+		}
+	]
 }

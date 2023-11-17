@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:jhl8440_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A838AF23-EFF8-47AB-9D24-249E8D492D93",
-  "versionEndExcluding": "1.41.1054.0",
-  "created": "2021-12-01T13:46:52.393",
-  "lastModified": "2021-12-01T13:46:52.393",
-  "cpeLastModified": "2021-12-06T16:57:54.797",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:jhl8440_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "FCB71E20-FE04-4BB6-849E-153A694A1346"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:jhl8440_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A838AF23-EFF8-47AB-9D24-249E8D492D93",
+	"versionEndExcluding": "1.41.1054.0",
+	"created": "2021-12-01T13:46:52.393",
+	"lastModified": "2021-12-01T13:46:52.393",
+	"cpeLastModified": "2021-12-06T16:57:54.797",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:jhl8440_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FCB71E20-FE04-4BB6-849E-153A694A1346"
+		}
+	]
 }

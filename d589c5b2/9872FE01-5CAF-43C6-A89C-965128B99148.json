@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:ibm:8335-gca_firmware:op820:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9872FE01-5CAF-43C6-A89C-965128B99148",
-  "created": "2021-05-28T14:58:11.777",
-  "lastModified": "2021-05-28T14:58:11.777",
-  "cpeLastModified": "2021-05-28T14:58:15.017",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:ibm:8335-gca_firmware:op820:*:*:*:*:*:*:*",
-      "cpeNameId": "977FC813-00CF-4299-8588-87E05A3D72F9"
-    }
-  ]
+	"criteria": "cpe:2.3:o:ibm:8335-gca_firmware:op820:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9872FE01-5CAF-43C6-A89C-965128B99148",
+	"created": "2021-05-28T14:58:11.777",
+	"lastModified": "2021-05-28T14:58:11.777",
+	"cpeLastModified": "2021-05-28T14:58:15.017",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:ibm:8335-gca_firmware:op820:*:*:*:*:*:*:*",
+			"cpeNameId": "977FC813-00CF-4299-8588-87E05A3D72F9"
+		}
+	]
 }

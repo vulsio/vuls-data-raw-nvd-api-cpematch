@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:safensoft:softcontrol_tpsecure:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4029EEE9-8B44-462A-9695-4F278E34C4C7",
-  "versionEndExcluding": "4.4.12",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:safensoft:softcontrol_tpsecure:4.4.1:*:*:*:*:*:*:*",
-      "cpeNameId": "4430C796-D945-41DC-BDAC-5B6A7FEE6BED"
-    }
-  ]
+	"criteria": "cpe:2.3:a:safensoft:softcontrol_tpsecure:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4029EEE9-8B44-462A-9695-4F278E34C4C7",
+	"versionEndExcluding": "4.4.12",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:safensoft:softcontrol_tpsecure:4.4.1:*:*:*:*:*:*:*",
+			"cpeNameId": "4430C796-D945-41DC-BDAC-5B6A7FEE6BED"
+		}
+	]
 }

@@ -1,47 +1,47 @@
 {
-  "criteria": "cpe:2.3:a:crushftp:crushftp:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "EBDFEC55-59F8-4771-8BE6-1CB2B252F786",
-  "versionEndIncluding": "8.3.0",
-  "created": "2020-01-03T06:33:39.633",
-  "lastModified": "2020-01-03T06:33:39.633",
-  "cpeLastModified": "2020-01-09T15:45:31.380",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:crushftp:crushftp:7.5.0:*:*:*:*:*:*:*",
-      "cpeNameId": "D2594149-CFF1-491F-94D6-A699A3F13824"
-    },
-    {
-      "cpeName": "cpe:2.3:a:crushftp:crushftp:7.6.0:*:*:*:*:*:*:*",
-      "cpeNameId": "1CBA5843-9F46-4534-8122-CA11F70F461A"
-    },
-    {
-      "cpeName": "cpe:2.3:a:crushftp:crushftp:7.7.0:*:*:*:*:*:*:*",
-      "cpeNameId": "8C1E5971-64B1-4B6F-B2F4-7C275E703E08"
-    },
-    {
-      "cpeName": "cpe:2.3:a:crushftp:crushftp:7.8.0:*:*:*:*:*:*:*",
-      "cpeNameId": "2BA290D2-3BE5-4C96-A327-95E3ADA71A66"
-    },
-    {
-      "cpeName": "cpe:2.3:a:crushftp:crushftp:8.0.2:*:*:*:*:*:*:*",
-      "cpeNameId": "98BADA86-8193-4116-8633-A366B69337B1"
-    },
-    {
-      "cpeName": "cpe:2.3:a:crushftp:crushftp:8.0.3:*:*:*:*:*:*:*",
-      "cpeNameId": "BD758115-6DA0-407F-BCD2-6EDB5EF8FD0E"
-    },
-    {
-      "cpeName": "cpe:2.3:a:crushftp:crushftp:8.0.4:*:*:*:*:*:*:*",
-      "cpeNameId": "B9EBAC47-5BE1-42DC-8100-7E826D25ECBB"
-    },
-    {
-      "cpeName": "cpe:2.3:a:crushftp:crushftp:8.1.0:*:*:*:*:*:*:*",
-      "cpeNameId": "E54BF3C3-3F51-4CCE-A6DE-6EEA03B02A0D"
-    },
-    {
-      "cpeName": "cpe:2.3:a:crushftp:crushftp:8.3.0:*:*:*:*:*:*:*",
-      "cpeNameId": "FF388061-73FC-40D5-9EB1-8A216884CB04"
-    }
-  ]
+	"criteria": "cpe:2.3:a:crushftp:crushftp:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "EBDFEC55-59F8-4771-8BE6-1CB2B252F786",
+	"versionEndIncluding": "8.3.0",
+	"created": "2020-01-03T06:33:39.633",
+	"lastModified": "2020-01-03T06:33:39.633",
+	"cpeLastModified": "2020-01-09T15:45:31.380",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:crushftp:crushftp:7.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D2594149-CFF1-491F-94D6-A699A3F13824"
+		},
+		{
+			"cpeName": "cpe:2.3:a:crushftp:crushftp:7.6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "1CBA5843-9F46-4534-8122-CA11F70F461A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:crushftp:crushftp:7.7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "8C1E5971-64B1-4B6F-B2F4-7C275E703E08"
+		},
+		{
+			"cpeName": "cpe:2.3:a:crushftp:crushftp:7.8.0:*:*:*:*:*:*:*",
+			"cpeNameId": "2BA290D2-3BE5-4C96-A327-95E3ADA71A66"
+		},
+		{
+			"cpeName": "cpe:2.3:a:crushftp:crushftp:8.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "98BADA86-8193-4116-8633-A366B69337B1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:crushftp:crushftp:8.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "BD758115-6DA0-407F-BCD2-6EDB5EF8FD0E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:crushftp:crushftp:8.0.4:*:*:*:*:*:*:*",
+			"cpeNameId": "B9EBAC47-5BE1-42DC-8100-7E826D25ECBB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:crushftp:crushftp:8.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E54BF3C3-3F51-4CCE-A6DE-6EEA03B02A0D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:crushftp:crushftp:8.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "FF388061-73FC-40D5-9EB1-8A216884CB04"
+		}
+	]
 }

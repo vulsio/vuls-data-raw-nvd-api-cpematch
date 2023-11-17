@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:coolplugins:events_shortcodes_for_the_events_calendar:*:*:*:*:*:wordpress:*:*",
-  "matchCriteriaId": "5F1F3A5B-7EEC-4460-B969-8B23B8FED3BD",
-  "versionEndExcluding": "2.0",
-  "created": "2023-06-13T13:57:10.103",
-  "lastModified": "2023-06-21T16:37:46.480",
-  "cpeLastModified": "2023-06-21T16:37:46.480",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:coolplugins:events_shortcodes_for_the_events_calendar:-:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "F2E6BEF8-F90C-4A10-BA00-0BDAC77325B2"
-    },
-    {
-      "cpeName": "cpe:2.3:a:coolplugins:events_shortcodes_for_the_events_calendar:1.9.4:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "487FDF7C-728A-4C10-9A5D-01F52F7A3354"
-    }
-  ]
+	"criteria": "cpe:2.3:a:coolplugins:events_shortcodes_for_the_events_calendar:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "5F1F3A5B-7EEC-4460-B969-8B23B8FED3BD",
+	"versionEndExcluding": "2.0",
+	"created": "2023-06-13T13:57:10.103",
+	"lastModified": "2023-06-21T16:37:46.480",
+	"cpeLastModified": "2023-06-21T16:37:46.480",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:coolplugins:events_shortcodes_for_the_events_calendar:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F2E6BEF8-F90C-4A10-BA00-0BDAC77325B2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:coolplugins:events_shortcodes_for_the_events_calendar:1.9.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "487FDF7C-728A-4C10-9A5D-01F52F7A3354"
+		}
+	]
 }

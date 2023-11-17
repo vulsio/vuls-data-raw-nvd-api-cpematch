@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:dell:emc_powerscale_nodes_a100:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5B9FD630-B932-4C88-B57A-E0372FDC141E",
-  "created": "2021-11-16T18:27:08.337",
-  "lastModified": "2021-11-16T18:27:08.337",
-  "cpeLastModified": "2021-11-17T19:44:21.357",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:dell:emc_powerscale_nodes_a100:-:*:*:*:*:*:*:*",
-      "cpeNameId": "638C8555-3D8B-489E-81DA-FCA329C622C2"
-    }
-  ]
+	"criteria": "cpe:2.3:h:dell:emc_powerscale_nodes_a100:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5B9FD630-B932-4C88-B57A-E0372FDC141E",
+	"created": "2021-11-16T18:27:08.337",
+	"lastModified": "2021-11-16T18:27:08.337",
+	"cpeLastModified": "2021-11-17T19:44:21.357",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:dell:emc_powerscale_nodes_a100:-:*:*:*:*:*:*:*",
+			"cpeNameId": "638C8555-3D8B-489E-81DA-FCA329C622C2"
+		}
+	]
 }

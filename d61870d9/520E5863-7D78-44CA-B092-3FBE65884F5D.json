@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:core_i7-11375h_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "520E5863-7D78-44CA-B092-3FBE65884F5D",
-  "versionEndExcluding": "15.0.40",
-  "created": "2022-06-09T13:31:42.753",
-  "lastModified": "2022-06-09T13:31:42.753",
-  "cpeLastModified": "2021-12-01T18:46:41.243",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:core_i7-11375h_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "F12659D4-78F6-435A-8756-A86BA562EEBF"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:core_i7-11375h_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "520E5863-7D78-44CA-B092-3FBE65884F5D",
+	"versionEndExcluding": "15.0.40",
+	"created": "2022-06-09T13:31:42.753",
+	"lastModified": "2022-06-09T13:31:42.753",
+	"cpeLastModified": "2021-12-01T18:46:41.243",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:core_i7-11375h_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F12659D4-78F6-435A-8756-A86BA562EEBF"
+		}
+	]
 }

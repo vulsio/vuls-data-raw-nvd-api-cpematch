@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:cisco:firepower_management_center:7.0.1:*:*:*:*:*:*:*",
-  "matchCriteriaId": "387E34BD-913B-4CB7-9230-81B283E92A9B",
-  "created": "2022-11-17T15:58:49.977",
-  "lastModified": "2022-11-17T17:10:38.203",
-  "cpeLastModified": "2022-11-17T17:10:38.203",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:cisco:firepower_management_center:7.0.1:*:*:*:*:*:*:*",
-      "cpeNameId": "1AE71ED8-E37B-488D-AE4F-B68BE035FCA7"
-    }
-  ]
+	"criteria": "cpe:2.3:a:cisco:firepower_management_center:7.0.1:*:*:*:*:*:*:*",
+	"matchCriteriaId": "387E34BD-913B-4CB7-9230-81B283E92A9B",
+	"created": "2022-11-17T15:58:49.977",
+	"lastModified": "2022-11-17T17:10:38.203",
+	"cpeLastModified": "2022-11-17T17:10:38.203",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:firepower_management_center:7.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "1AE71ED8-E37B-488D-AE4F-B68BE035FCA7"
+		}
+	]
 }

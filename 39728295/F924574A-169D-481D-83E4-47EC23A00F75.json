@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:oracle:commerce_experience_manager:11.3.1.5:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F924574A-169D-481D-83E4-47EC23A00F75",
-  "created": "2021-07-22T12:01:52.310",
-  "lastModified": "2021-07-22T12:01:52.310",
-  "cpeLastModified": "2021-07-22T12:01:54.710",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:oracle:commerce_experience_manager:11.3.1.5:*:*:*:*:*:*:*",
-      "cpeNameId": "B0027A14-FC45-4973-B9F5-F6E0B4C79DB6"
-    }
-  ]
+	"criteria": "cpe:2.3:a:oracle:commerce_experience_manager:11.3.1.5:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F924574A-169D-481D-83E4-47EC23A00F75",
+	"created": "2021-07-22T12:01:52.310",
+	"lastModified": "2021-07-22T12:01:52.310",
+	"cpeLastModified": "2021-07-22T12:01:54.710",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:commerce_experience_manager:11.3.1.5:*:*:*:*:*:*:*",
+			"cpeNameId": "B0027A14-FC45-4973-B9F5-F6E0B4C79DB6"
+		}
+	]
 }

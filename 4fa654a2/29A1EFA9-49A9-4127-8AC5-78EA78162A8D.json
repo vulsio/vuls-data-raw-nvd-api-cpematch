@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:intel:core_i5-3475s:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "29A1EFA9-49A9-4127-8AC5-78EA78162A8D",
-  "created": "2020-03-20T17:56:30.357",
-  "lastModified": "2020-03-20T17:56:30.357",
-  "cpeLastModified": "2020-03-26T13:38:39.930",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:intel:core_i5-3475s:-:*:*:*:*:*:*:*",
-      "cpeNameId": "03E1D9E0-BD3F-4E76-ADDB-B22AC1E116DB"
-    }
-  ]
+	"criteria": "cpe:2.3:h:intel:core_i5-3475s:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "29A1EFA9-49A9-4127-8AC5-78EA78162A8D",
+	"created": "2020-03-20T17:56:30.357",
+	"lastModified": "2020-03-20T17:56:30.357",
+	"cpeLastModified": "2020-03-26T13:38:39.930",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:core_i5-3475s:-:*:*:*:*:*:*:*",
+			"cpeNameId": "03E1D9E0-BD3F-4E76-ADDB-B22AC1E116DB"
+		}
+	]
 }

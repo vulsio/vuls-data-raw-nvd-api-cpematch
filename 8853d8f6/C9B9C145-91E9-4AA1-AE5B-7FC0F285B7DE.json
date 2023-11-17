@@ -1,48 +1,48 @@
 {
-  "criteria": "cpe:2.3:a:oracle:database_server:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C9B9C145-91E9-4AA1-AE5B-7FC0F285B7DE",
-  "versionStartIncluding": "19.3",
-  "versionEndIncluding": "19.19",
-  "created": "2023-07-26T03:57:56.607",
-  "lastModified": "2023-07-26T03:57:56.607",
-  "cpeLastModified": "2023-11-06T19:39:22.500",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:oracle:database_server:19.3:*:*:*:*:*:*:*",
-      "cpeNameId": "4C9EF6DD-D916-4429-8631-F9D4DAFA4ED3"
-    },
-    {
-      "cpeName": "cpe:2.3:a:oracle:database_server:19.3:*:*:*:enterprise:*:*:*",
-      "cpeNameId": "F21511FC-9F48-4C8A-866D-4D0467547FE1"
-    },
-    {
-      "cpeName": "cpe:2.3:a:oracle:database_server:19.4:*:*:*:*:*:*:*",
-      "cpeNameId": "E206E5DC-037A-4BE1-8F67-49936E14459F"
-    },
-    {
-      "cpeName": "cpe:2.3:a:oracle:database_server:19.5:*:*:*:*:*:*:*",
-      "cpeNameId": "BEBEA053-1215-4012-83AA-F6AC92EEE153"
-    },
-    {
-      "cpeName": "cpe:2.3:a:oracle:database_server:19.6:*:*:*:*:*:*:*",
-      "cpeNameId": "32AD343B-032A-4D23-9EA2-BBA4FE24307A"
-    },
-    {
-      "cpeName": "cpe:2.3:a:oracle:database_server:19.7:*:*:*:*:*:*:*",
-      "cpeNameId": "5AE5AED8-8403-4BD0-AAE6-F54C271433DC"
-    },
-    {
-      "cpeName": "cpe:2.3:a:oracle:database_server:19.10:*:*:*:*:*:*:*",
-      "cpeNameId": "5C7FEE11-B55C-4216-A212-05D1BB9F4160"
-    },
-    {
-      "cpeName": "cpe:2.3:a:oracle:database_server:19.11:*:*:*:*:*:*:*",
-      "cpeNameId": "DB4B1C52-01C6-4789-86EA-60C652C1C4E0"
-    },
-    {
-      "cpeName": "cpe:2.3:a:oracle:database_server:19.13:*:*:*:*:*:*:*",
-      "cpeNameId": "32D982FD-ECC1-4841-8609-CC8E245EAA9B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:oracle:database_server:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C9B9C145-91E9-4AA1-AE5B-7FC0F285B7DE",
+	"versionStartIncluding": "19.3",
+	"versionEndIncluding": "19.19",
+	"created": "2023-07-26T03:57:56.607",
+	"lastModified": "2023-07-26T03:57:56.607",
+	"cpeLastModified": "2023-11-06T19:39:22.500",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:database_server:19.3:*:*:*:*:*:*:*",
+			"cpeNameId": "4C9EF6DD-D916-4429-8631-F9D4DAFA4ED3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:database_server:19.3:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "F21511FC-9F48-4C8A-866D-4D0467547FE1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:database_server:19.4:*:*:*:*:*:*:*",
+			"cpeNameId": "E206E5DC-037A-4BE1-8F67-49936E14459F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:database_server:19.5:*:*:*:*:*:*:*",
+			"cpeNameId": "BEBEA053-1215-4012-83AA-F6AC92EEE153"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:database_server:19.6:*:*:*:*:*:*:*",
+			"cpeNameId": "32AD343B-032A-4D23-9EA2-BBA4FE24307A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:database_server:19.7:*:*:*:*:*:*:*",
+			"cpeNameId": "5AE5AED8-8403-4BD0-AAE6-F54C271433DC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:database_server:19.10:*:*:*:*:*:*:*",
+			"cpeNameId": "5C7FEE11-B55C-4216-A212-05D1BB9F4160"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:database_server:19.11:*:*:*:*:*:*:*",
+			"cpeNameId": "DB4B1C52-01C6-4789-86EA-60C652C1C4E0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:database_server:19.13:*:*:*:*:*:*:*",
+			"cpeNameId": "32D982FD-ECC1-4841-8609-CC8E245EAA9B"
+		}
+	]
 }

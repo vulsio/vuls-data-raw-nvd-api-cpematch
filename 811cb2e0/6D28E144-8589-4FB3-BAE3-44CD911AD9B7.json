@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:346_g4_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6D28E144-8589-4FB3-BAE3-44CD911AD9B7",
-  "versionEndExcluding": "f.46",
-  "created": "2019-11-07T16:17:42.810",
-  "lastModified": "2019-11-07T16:17:42.810",
-  "cpeLastModified": "2019-12-06T18:46:15.310",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:346_g4_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "D2FEA8EF-DB02-46D5-84D3-4E51727ECF25"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:346_g4_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6D28E144-8589-4FB3-BAE3-44CD911AD9B7",
+	"versionEndExcluding": "f.46",
+	"created": "2019-11-07T16:17:42.810",
+	"lastModified": "2019-11-07T16:17:42.810",
+	"cpeLastModified": "2019-12-06T18:46:15.310",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:346_g4_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D2FEA8EF-DB02-46D5-84D3-4E51727ECF25"
+		}
+	]
 }

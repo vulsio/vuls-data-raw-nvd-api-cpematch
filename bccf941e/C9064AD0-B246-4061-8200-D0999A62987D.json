@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:broadcom:alert_notification_server:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C9064AD0-B246-4061-8200-D0999A62987D",
-  "created": "2021-04-07T17:54:10.717",
-  "lastModified": "2021-04-07T17:54:10.717",
-  "cpeLastModified": "2021-04-07T17:54:10.717",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:broadcom:alert_notification_server:-:*:*:*:*:*:*:*",
-      "cpeNameId": "994CBA5C-DCD6-4410-9E13-8E3C1CDDA422"
-    }
-  ]
+	"criteria": "cpe:2.3:a:broadcom:alert_notification_server:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C9064AD0-B246-4061-8200-D0999A62987D",
+	"created": "2021-04-07T17:54:10.717",
+	"lastModified": "2021-04-07T17:54:10.717",
+	"cpeLastModified": "2021-04-07T17:54:10.717",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:broadcom:alert_notification_server:-:*:*:*:*:*:*:*",
+			"cpeNameId": "994CBA5C-DCD6-4410-9E13-8E3C1CDDA422"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:ricoh:p_c300w_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E46DF1A5-0CD8-4E74-8DA2-829E2F0F0885",
-  "versionEndExcluding": "1.02",
-  "created": "2020-01-13T21:12:51.590",
-  "lastModified": "2020-01-13T21:12:51.590",
-  "cpeLastModified": "2022-03-24T01:21:30.627",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:ricoh:p_c300w_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "A0B0C75B-0E12-423D-8DC7-DEBB0EE49E71"
-    }
-  ]
+	"criteria": "cpe:2.3:o:ricoh:p_c300w_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E46DF1A5-0CD8-4E74-8DA2-829E2F0F0885",
+	"versionEndExcluding": "1.02",
+	"created": "2020-01-13T21:12:51.590",
+	"lastModified": "2020-01-13T21:12:51.590",
+	"cpeLastModified": "2022-03-24T01:21:30.627",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:ricoh:p_c300w_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A0B0C75B-0E12-423D-8DC7-DEBB0EE49E71"
+		}
+	]
 }

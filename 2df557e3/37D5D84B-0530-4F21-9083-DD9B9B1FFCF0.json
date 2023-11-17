@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:mitsubishielectric:melsec_iq-r32cpu_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "37D5D84B-0530-4F21-9083-DD9B9B1FFCF0",
-  "versionEndIncluding": "39",
-  "created": "2020-06-22T13:37:22.230",
-  "lastModified": "2020-06-22T13:37:22.230",
-  "cpeLastModified": "2020-09-24T13:14:41.520",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:mitsubishielectric:melsec_iq-r32cpu_firmware:39:*:*:*:*:*:*:*",
-      "cpeNameId": "E200C75D-7216-43D6-89A0-21FCEE122145"
-    }
-  ]
+	"criteria": "cpe:2.3:o:mitsubishielectric:melsec_iq-r32cpu_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "37D5D84B-0530-4F21-9083-DD9B9B1FFCF0",
+	"versionEndIncluding": "39",
+	"created": "2020-06-22T13:37:22.230",
+	"lastModified": "2020-06-22T13:37:22.230",
+	"cpeLastModified": "2020-09-24T13:14:41.520",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:mitsubishielectric:melsec_iq-r32cpu_firmware:39:*:*:*:*:*:*:*",
+			"cpeNameId": "E200C75D-7216-43D6-89A0-21FCEE122145"
+		}
+	]
 }

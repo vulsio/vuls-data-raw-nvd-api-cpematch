@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:juniper:netscreen_screenos:6.3.0r25:*:*:*:*:*:*:*",
-  "matchCriteriaId": "25C306B0-F3EF-4A01-A5DA-6386FCE0E59F",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-11-18T23:39:17.837",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:juniper:netscreen_screenos:6.3.0r25:*:*:*:*:*:*:*",
-      "cpeNameId": "2CDF24B7-9532-4DD2-85FD-64E7966D7E01"
-    }
-  ]
+	"criteria": "cpe:2.3:o:juniper:netscreen_screenos:6.3.0r25:*:*:*:*:*:*:*",
+	"matchCriteriaId": "25C306B0-F3EF-4A01-A5DA-6386FCE0E59F",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-11-18T23:39:17.837",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:juniper:netscreen_screenos:6.3.0r25:*:*:*:*:*:*:*",
+			"cpeNameId": "2CDF24B7-9532-4DD2-85FD-64E7966D7E01"
+		}
+	]
 }

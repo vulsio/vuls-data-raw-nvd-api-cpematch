@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:mitsubishielectric:ezsocket:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A9FFEA10-20FA-4B73-ACA5-AB7462820123",
-  "versionEndExcluding": "4.6",
-  "created": "2022-06-06T13:23:59.090",
-  "lastModified": "2022-06-06T13:23:59.090",
-  "cpeLastModified": "2022-07-07T19:22:20.140",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:mitsubishielectric:ezsocket:-:*:*:*:*:*:*:*",
-      "cpeNameId": "86B34726-1DC7-4398-9600-2AD8794D050A"
-    },
-    {
-      "cpeName": "cpe:2.3:a:mitsubishielectric:ezsocket:4.5:*:*:*:*:*:*:*",
-      "cpeNameId": "8656DEF0-7B1F-4D7F-810F-183C1E6B3024"
-    }
-  ]
+	"criteria": "cpe:2.3:a:mitsubishielectric:ezsocket:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A9FFEA10-20FA-4B73-ACA5-AB7462820123",
+	"versionEndExcluding": "4.6",
+	"created": "2022-06-06T13:23:59.090",
+	"lastModified": "2022-06-06T13:23:59.090",
+	"cpeLastModified": "2022-07-07T19:22:20.140",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:mitsubishielectric:ezsocket:-:*:*:*:*:*:*:*",
+			"cpeNameId": "86B34726-1DC7-4398-9600-2AD8794D050A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mitsubishielectric:ezsocket:4.5:*:*:*:*:*:*:*",
+			"cpeNameId": "8656DEF0-7B1F-4D7F-810F-183C1E6B3024"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:xeon_x5492_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "00CD0BD8-3932-4248-B2F3-989BF523DFC5",
-  "created": "2019-11-18T16:37:05.907",
-  "lastModified": "2019-11-18T16:37:05.907",
-  "cpeLastModified": "2020-03-23T17:34:21.600",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:xeon_x5492_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "47A5CF4D-2EA5-4D10-9CFB-6F77F1808BDD"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:xeon_x5492_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "00CD0BD8-3932-4248-B2F3-989BF523DFC5",
+	"created": "2019-11-18T16:37:05.907",
+	"lastModified": "2019-11-18T16:37:05.907",
+	"cpeLastModified": "2020-03-23T17:34:21.600",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:xeon_x5492_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "47A5CF4D-2EA5-4D10-9CFB-6F77F1808BDD"
+		}
+	]
 }

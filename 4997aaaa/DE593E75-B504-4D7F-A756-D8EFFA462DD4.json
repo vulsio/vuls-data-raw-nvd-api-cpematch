@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:vivotek:sd9362-ehl_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "DE593E75-B504-4D7F-A756-D8EFFA462DD4",
-  "versionEndIncluding": "0222g",
-  "created": "2020-05-29T14:56:12.300",
-  "lastModified": "2020-05-29T14:56:12.300",
-  "cpeLastModified": "2020-08-20T15:10:33.367",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:vivotek:sd9362-ehl_firmware:0114a:*:*:*:*:*:*:*",
-      "cpeNameId": "46AABAC4-C8F4-4D70-BF04-F5CAEB5EFAFC"
-    }
-  ]
+	"criteria": "cpe:2.3:o:vivotek:sd9362-ehl_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DE593E75-B504-4D7F-A756-D8EFFA462DD4",
+	"versionEndIncluding": "0222g",
+	"created": "2020-05-29T14:56:12.300",
+	"lastModified": "2020-05-29T14:56:12.300",
+	"cpeLastModified": "2020-08-20T15:10:33.367",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:vivotek:sd9362-ehl_firmware:0114a:*:*:*:*:*:*:*",
+			"cpeNameId": "46AABAC4-C8F4-4D70-BF04-F5CAEB5EFAFC"
+		}
+	]
 }

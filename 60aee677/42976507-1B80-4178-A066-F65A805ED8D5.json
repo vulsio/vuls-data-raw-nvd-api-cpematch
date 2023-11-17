@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:latitude_5520_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "42976507-1B80-4178-A066-F65A805ED8D5",
-  "versionEndExcluding": "1.27.0",
-  "created": "2023-06-27T15:14:47.573",
-  "lastModified": "2023-06-27T15:14:47.573",
-  "cpeLastModified": "2023-06-27T15:14:47.573",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:latitude_5520_firmware:1.25.1:*:*:*:*:*:*:*",
-      "cpeNameId": "E5BBD77B-DC60-4B7F-A458-2494C5AA592F"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:latitude_5520_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "42976507-1B80-4178-A066-F65A805ED8D5",
+	"versionEndExcluding": "1.27.0",
+	"created": "2023-06-27T15:14:47.573",
+	"lastModified": "2023-06-27T15:14:47.573",
+	"cpeLastModified": "2023-06-27T15:14:47.573",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_5520_firmware:1.25.1:*:*:*:*:*:*:*",
+			"cpeNameId": "E5BBD77B-DC60-4B7F-A458-2494C5AA592F"
+		}
+	]
 }

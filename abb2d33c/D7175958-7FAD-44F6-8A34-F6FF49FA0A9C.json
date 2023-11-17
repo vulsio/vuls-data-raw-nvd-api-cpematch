@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:core_i5-8600_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D7175958-7FAD-44F6-8A34-F6FF49FA0A9C",
-  "versionEndExcluding": "11.8.92",
-  "created": "2022-06-09T14:34:38.640",
-  "lastModified": "2022-06-09T14:34:38.640",
-  "cpeLastModified": "2019-12-02T17:29:13.303",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:core_i5-8600_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "73A3CBE5-0584-4552-96A2-64629B8CD580"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:core_i5-8600_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D7175958-7FAD-44F6-8A34-F6FF49FA0A9C",
+	"versionEndExcluding": "11.8.92",
+	"created": "2022-06-09T14:34:38.640",
+	"lastModified": "2022-06-09T14:34:38.640",
+	"cpeLastModified": "2019-12-02T17:29:13.303",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:core_i5-8600_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "73A3CBE5-0584-4552-96A2-64629B8CD580"
+		}
+	]
 }

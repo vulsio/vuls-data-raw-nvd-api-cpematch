@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:mitsubishielectric:r08pcpu_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "63442274-452B-4361-A2AD-2ACBD699B150",
-  "created": "2020-11-30T18:26:28.207",
-  "lastModified": "2020-11-30T18:26:28.207",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:mitsubishielectric:r08pcpu_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "825E2FD3-C17A-4B8A-A428-6C524AE93DAB"
-    }
-  ]
+	"criteria": "cpe:2.3:o:mitsubishielectric:r08pcpu_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "63442274-452B-4361-A2AD-2ACBD699B150",
+	"created": "2020-11-30T18:26:28.207",
+	"lastModified": "2020-11-30T18:26:28.207",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:mitsubishielectric:r08pcpu_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "825E2FD3-C17A-4B8A-A428-6C524AE93DAB"
+		}
+	]
 }

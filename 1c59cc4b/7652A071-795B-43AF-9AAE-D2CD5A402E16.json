@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:siemens:profinet_driver:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7652A071-795B-43AF-9AAE-D2CD5A402E16",
-  "versionEndExcluding": "2.1",
-  "created": "2020-02-18T17:04:42.170",
-  "lastModified": "2020-02-18T17:04:42.170",
-  "cpeLastModified": "2020-02-24T15:00:05.983",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:siemens:profinet_driver:-:*:*:*:*:*:*:*",
-      "cpeNameId": "2309AAE7-4960-45BF-BEAC-EAC9065A5205"
-    }
-  ]
+	"criteria": "cpe:2.3:a:siemens:profinet_driver:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7652A071-795B-43AF-9AAE-D2CD5A402E16",
+	"versionEndExcluding": "2.1",
+	"created": "2020-02-18T17:04:42.170",
+	"lastModified": "2020-02-18T17:04:42.170",
+	"cpeLastModified": "2020-02-24T15:00:05.983",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:siemens:profinet_driver:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2309AAE7-4960-45BF-BEAC-EAC9065A5205"
+		}
+	]
 }

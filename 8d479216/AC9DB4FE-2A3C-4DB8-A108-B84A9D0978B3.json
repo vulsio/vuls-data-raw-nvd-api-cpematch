@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:emerson:se4026_virtual_i\\/o_module_2_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AC9DB4FE-2A3C-4DB8-A108-B84A9D0978B3",
-  "versionEndExcluding": "14.3",
-  "created": "2023-01-03T16:28:20.703",
-  "lastModified": "2023-01-05T14:49:39.527",
-  "cpeLastModified": "2023-01-05T14:49:39.527",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:emerson:se4026_virtual_i\\/o_module_2_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "DF5F1F62-77FC-44CF-9B78-731C1F38940D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:emerson:se4026_virtual_i\\/o_module_2_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AC9DB4FE-2A3C-4DB8-A108-B84A9D0978B3",
+	"versionEndExcluding": "14.3",
+	"created": "2023-01-03T16:28:20.703",
+	"lastModified": "2023-01-05T14:49:39.527",
+	"cpeLastModified": "2023-01-05T14:49:39.527",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:emerson:se4026_virtual_i\\/o_module_2_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DF5F1F62-77FC-44CF-9B78-731C1F38940D"
+		}
+	]
 }

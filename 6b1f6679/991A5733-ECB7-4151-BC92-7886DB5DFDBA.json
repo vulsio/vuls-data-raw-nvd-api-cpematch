@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:xerox:altalink_c8035_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "991A5733-ECB7-4151-BC92-7886DB5DFDBA",
-  "versionEndExcluding": "101.001.099.28200",
-  "created": "2021-03-04T17:56:18.067",
-  "lastModified": "2021-03-04T17:56:18.067",
-  "cpeLastModified": "2021-03-04T17:56:18.083",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:xerox:altalink_c8035_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "204CEEB3-4B25-4518-95C3-1457EB4BE28D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:xerox:altalink_c8035_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "991A5733-ECB7-4151-BC92-7886DB5DFDBA",
+	"versionEndExcluding": "101.001.099.28200",
+	"created": "2021-03-04T17:56:18.067",
+	"lastModified": "2021-03-04T17:56:18.067",
+	"cpeLastModified": "2021-03-04T17:56:18.083",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:xerox:altalink_c8035_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "204CEEB3-4B25-4518-95C3-1457EB4BE28D"
+		}
+	]
 }

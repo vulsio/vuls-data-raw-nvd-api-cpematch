@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:swiftcrm:club-management-software:*:*:*:*:*:wordpress:*:*",
-  "matchCriteriaId": "B670617A-4B71-422D-8DAC-92BE6E071C60",
-  "versionEndIncluding": "1.0",
-  "created": "2021-09-08T14:10:40.703",
-  "lastModified": "2021-09-08T14:10:40.703",
-  "cpeLastModified": "2021-09-09T19:47:20.120",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:swiftcrm:club-management-software:1.0:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "C9601ACA-6DF4-482B-A8D3-A4425D930425"
-    }
-  ]
+	"criteria": "cpe:2.3:a:swiftcrm:club-management-software:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "B670617A-4B71-422D-8DAC-92BE6E071C60",
+	"versionEndIncluding": "1.0",
+	"created": "2021-09-08T14:10:40.703",
+	"lastModified": "2021-09-08T14:10:40.703",
+	"cpeLastModified": "2021-09-09T19:47:20.120",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:swiftcrm:club-management-software:1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C9601ACA-6DF4-482B-A8D3-A4425D930425"
+		}
+	]
 }

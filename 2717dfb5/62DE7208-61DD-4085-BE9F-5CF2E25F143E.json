@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:sick:sim2500_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "62DE7208-61DD-4085-BE9F-5CF2E25F143E",
-  "versionEndExcluding": "1.2.0",
-  "created": "2022-11-03T12:18:49.947",
-  "lastModified": "2022-11-03T18:57:21.193",
-  "cpeLastModified": "2022-11-03T18:57:21.193",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:sick:sim2500_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "233CCF24-9FB1-4A74-8801-937BDFE39D95"
-    }
-  ]
+	"criteria": "cpe:2.3:o:sick:sim2500_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "62DE7208-61DD-4085-BE9F-5CF2E25F143E",
+	"versionEndExcluding": "1.2.0",
+	"created": "2022-11-03T12:18:49.947",
+	"lastModified": "2022-11-03T18:57:21.193",
+	"cpeLastModified": "2022-11-03T18:57:21.193",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:sick:sim2500_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "233CCF24-9FB1-4A74-8801-937BDFE39D95"
+		}
+	]
 }

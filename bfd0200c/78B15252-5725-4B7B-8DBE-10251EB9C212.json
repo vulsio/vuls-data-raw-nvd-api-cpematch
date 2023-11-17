@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:cisco:meraki_mr42e_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "78B15252-5725-4B7B-8DBE-10251EB9C212",
-  "created": "2022-05-04T17:45:27.240",
-  "lastModified": "2022-07-12T15:45:40.327",
-  "cpeLastModified": "2022-06-09T13:02:00.890",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:meraki_mr42e_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "62EE198F-04A9-49CB-AA12-C2A703ACFF52"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:meraki_mr42e_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "78B15252-5725-4B7B-8DBE-10251EB9C212",
+	"created": "2022-05-04T17:45:27.240",
+	"lastModified": "2022-07-12T15:45:40.327",
+	"cpeLastModified": "2022-06-09T13:02:00.890",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:meraki_mr42e_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "62EE198F-04A9-49CB-AA12-C2A703ACFF52"
+		}
+	]
 }

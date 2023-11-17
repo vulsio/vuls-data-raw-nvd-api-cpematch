@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:cisco:sg500x-24_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FA293370-953C-42ED-BF25-4C439A8D986A",
-  "created": "2019-07-10T17:06:58.787",
-  "lastModified": "2019-07-10T17:06:58.787",
-  "cpeLastModified": "2020-02-26T12:58:08.830",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:sg500x-24_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "2621F6C3-6110-4EAF-BD3F-178801BC8341"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:sg500x-24_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FA293370-953C-42ED-BF25-4C439A8D986A",
+	"created": "2019-07-10T17:06:58.787",
+	"lastModified": "2019-07-10T17:06:58.787",
+	"cpeLastModified": "2020-02-26T12:58:08.830",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:sg500x-24_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2621F6C3-6110-4EAF-BD3F-178801BC8341"
+		}
+	]
 }

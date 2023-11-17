@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:avaya:octeldesigner:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6A2DED01-5279-45E6-B2F9-043AE42C2014",
-  "created": "2021-03-26T17:14:19.190",
-  "lastModified": "2021-03-26T17:14:19.190",
-  "cpeLastModified": "2021-03-26T17:38:05.313",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:avaya:octeldesigner:-:*:*:*:*:*:*:*",
-      "cpeNameId": "9CC466AC-D2EF-453C-B084-CA33792B3082"
-    }
-  ]
+	"criteria": "cpe:2.3:a:avaya:octeldesigner:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6A2DED01-5279-45E6-B2F9-043AE42C2014",
+	"created": "2021-03-26T17:14:19.190",
+	"lastModified": "2021-03-26T17:14:19.190",
+	"cpeLastModified": "2021-03-26T17:38:05.313",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:avaya:octeldesigner:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9CC466AC-D2EF-453C-B084-CA33792B3082"
+		}
+	]
 }

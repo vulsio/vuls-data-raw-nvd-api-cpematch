@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lexmark:xm7263_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "142DABA4-8FE8-425C-9B72-EB19FF3D5AD2",
-  "versionEndExcluding": "lw80.tu.p210",
-  "created": "2022-01-26T15:28:13.103",
-  "lastModified": "2022-01-26T15:28:13.103",
-  "cpeLastModified": "2022-01-27T15:31:13.463",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lexmark:xm7263_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "66B44E0D-8ABA-4842-B3F0-EA78806D015B"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lexmark:xm7263_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "142DABA4-8FE8-425C-9B72-EB19FF3D5AD2",
+	"versionEndExcluding": "lw80.tu.p210",
+	"created": "2022-01-26T15:28:13.103",
+	"lastModified": "2022-01-26T15:28:13.103",
+	"cpeLastModified": "2022-01-27T15:31:13.463",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lexmark:xm7263_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "66B44E0D-8ABA-4842-B3F0-EA78806D015B"
+		}
+	]
 }

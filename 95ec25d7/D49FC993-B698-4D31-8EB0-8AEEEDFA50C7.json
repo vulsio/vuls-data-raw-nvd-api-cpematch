@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:inspiron_7573_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D49FC993-B698-4D31-8EB0-8AEEEDFA50C7",
-  "versionEndExcluding": "1.13.1",
-  "created": "2019-08-09T17:39:02.503",
-  "lastModified": "2019-08-09T17:39:02.503",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:inspiron_7573_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "FBBFF9FA-AF30-4593-90A7-A54B947E0151"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:inspiron_7573_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D49FC993-B698-4D31-8EB0-8AEEEDFA50C7",
+	"versionEndExcluding": "1.13.1",
+	"created": "2019-08-09T17:39:02.503",
+	"lastModified": "2019-08-09T17:39:02.503",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_7573_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FBBFF9FA-AF30-4593-90A7-A54B947E0151"
+		}
+	]
 }

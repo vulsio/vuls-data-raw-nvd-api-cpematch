@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:openvpn:openvpn:2.3.3:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D15C3021-8F17-4869-ACFB-E567000ECE7A",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-10-31T17:20:08.823",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:openvpn:openvpn:2.3.3:*:*:*:*:*:*:*",
-      "cpeNameId": "BAF0BA91-5EF7-43FF-B05B-6F38C7A2B7CC"
-    }
-  ]
+	"criteria": "cpe:2.3:a:openvpn:openvpn:2.3.3:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D15C3021-8F17-4869-ACFB-E567000ECE7A",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-10-31T17:20:08.823",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:openvpn:openvpn:2.3.3:*:*:*:*:*:*:*",
+			"cpeNameId": "BAF0BA91-5EF7-43FF-B05B-6F38C7A2B7CC"
+		}
+	]
 }

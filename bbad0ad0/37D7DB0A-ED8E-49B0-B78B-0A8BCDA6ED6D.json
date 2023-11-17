@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:konicaminolta:bizhub_246i_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "37D7DB0A-ED8E-49B0-B78B-0A8BCDA6ED6D",
-  "versionEndExcluding": "2022-04-14",
-  "created": "2022-05-19T20:48:50.950",
-  "lastModified": "2022-05-26T15:24:13.153",
-  "cpeLastModified": "2022-01-11T17:05:46.560",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:konicaminolta:bizhub_246i_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "0F122C46-DE95-4686-9412-E69E3EF86597"
-    }
-  ]
+	"criteria": "cpe:2.3:o:konicaminolta:bizhub_246i_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "37D7DB0A-ED8E-49B0-B78B-0A8BCDA6ED6D",
+	"versionEndExcluding": "2022-04-14",
+	"created": "2022-05-19T20:48:50.950",
+	"lastModified": "2022-05-26T15:24:13.153",
+	"cpeLastModified": "2022-01-11T17:05:46.560",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:konicaminolta:bizhub_246i_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0F122C46-DE95-4686-9412-E69E3EF86597"
+		}
+	]
 }

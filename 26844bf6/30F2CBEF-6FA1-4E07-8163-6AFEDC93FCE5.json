@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:mit:kerberos_5:1.2.4:*:*:*:*:*:*:*",
-  "matchCriteriaId": "30F2CBEF-6FA1-4E07-8163-6AFEDC93FCE5",
-  "created": "2020-01-21T15:44:53.820",
-  "lastModified": "2020-01-21T15:44:53.820",
-  "cpeLastModified": "2020-01-21T15:44:53.820",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:mit:kerberos_5:1.2.4:*:*:*:*:*:*:*",
-      "cpeNameId": "040109E9-0402-4CA7-9168-D212B59FF74C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:mit:kerberos_5:1.2.4:*:*:*:*:*:*:*",
+	"matchCriteriaId": "30F2CBEF-6FA1-4E07-8163-6AFEDC93FCE5",
+	"created": "2020-01-21T15:44:53.820",
+	"lastModified": "2020-01-21T15:44:53.820",
+	"cpeLastModified": "2020-01-21T15:44:53.820",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:mit:kerberos_5:1.2.4:*:*:*:*:*:*:*",
+			"cpeNameId": "040109E9-0402-4CA7-9168-D212B59FF74C"
+		}
+	]
 }

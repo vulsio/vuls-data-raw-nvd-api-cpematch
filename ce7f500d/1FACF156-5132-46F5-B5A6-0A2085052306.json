@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:cisco:wireless_lan_controller_software:16.088.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1FACF156-5132-46F5-B5A6-0A2085052306",
-  "created": "2021-08-20T15:40:39.460",
-  "lastModified": "2021-08-20T15:40:39.460",
-  "cpeLastModified": "2021-08-20T15:40:40.900",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:wireless_lan_controller_software:16.088.0:*:*:*:*:*:*:*",
-      "cpeNameId": "7580F7C3-644E-450E-AE6D-F9B143FAC7AA"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:wireless_lan_controller_software:16.088.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1FACF156-5132-46F5-B5A6-0A2085052306",
+	"created": "2021-08-20T15:40:39.460",
+	"lastModified": "2021-08-20T15:40:39.460",
+	"cpeLastModified": "2021-08-20T15:40:40.900",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:wireless_lan_controller_software:16.088.0:*:*:*:*:*:*:*",
+			"cpeNameId": "7580F7C3-644E-450E-AE6D-F9B143FAC7AA"
+		}
+	]
 }

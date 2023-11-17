@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:wago:750-8202_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "03675DC5-0563-4742-90F1-85CCE629157E",
-  "versionEndExcluding": "03.06.19_\\(18\\)",
-  "created": "2021-05-27T14:10:47.033",
-  "lastModified": "2021-05-27T14:10:47.033",
-  "cpeLastModified": "2021-05-27T14:10:47.033",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:wago:750-8202_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "45FA9B57-2053-4BA3-93E2-A2E0EEA2283D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:wago:750-8202_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "03675DC5-0563-4742-90F1-85CCE629157E",
+	"versionEndExcluding": "03.06.19_\\(18\\)",
+	"created": "2021-05-27T14:10:47.033",
+	"lastModified": "2021-05-27T14:10:47.033",
+	"cpeLastModified": "2021-05-27T14:10:47.033",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:wago:750-8202_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "45FA9B57-2053-4BA3-93E2-A2E0EEA2283D"
+		}
+	]
 }

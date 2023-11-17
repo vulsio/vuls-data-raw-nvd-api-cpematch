@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:newnine:font_awesome_4_menus:*:*:*:*:*:wordpress:*:*",
-  "matchCriteriaId": "C72960B8-CAEB-4DF6-8FCA-76EA3847B8E9",
-  "versionEndIncluding": "4.7.0",
-  "created": "2023-09-05T18:07:57.960",
-  "lastModified": "2023-09-07T18:11:23.160",
-  "cpeLastModified": "2023-09-07T18:11:23.160",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:newnine:font_awesome_4_menus:-:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "6ADEE5CD-2A40-446A-A5F9-FCB97F79E155"
-    },
-    {
-      "cpeName": "cpe:2.3:a:newnine:font_awesome_4_menus:4.7.0:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "7D6FE25A-DA44-4EB2-A5CB-3E68E3A65909"
-    }
-  ]
+	"criteria": "cpe:2.3:a:newnine:font_awesome_4_menus:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "C72960B8-CAEB-4DF6-8FCA-76EA3847B8E9",
+	"versionEndIncluding": "4.7.0",
+	"created": "2023-09-05T18:07:57.960",
+	"lastModified": "2023-09-07T18:11:23.160",
+	"cpeLastModified": "2023-09-07T18:11:23.160",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:newnine:font_awesome_4_menus:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6ADEE5CD-2A40-446A-A5F9-FCB97F79E155"
+		},
+		{
+			"cpeName": "cpe:2.3:a:newnine:font_awesome_4_menus:4.7.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7D6FE25A-DA44-4EB2-A5CB-3E68E3A65909"
+		}
+	]
 }

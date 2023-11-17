@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:froxlor:froxlor:0.10.16:*:*:*:*:ubuntu:*:*",
-  "matchCriteriaId": "9CAF7A1C-4A23-4A24-BE4F-484B85F4590D",
-  "created": "2021-10-28T16:52:52.140",
-  "lastModified": "2021-10-28T16:52:52.140",
-  "cpeLastModified": "2021-10-28T17:02:43.620",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:froxlor:froxlor:0.10.16:*:*:*:*:ubuntu:*:*",
-      "cpeNameId": "B40CFF32-1662-405B-9C02-B166525D8639"
-    }
-  ]
+	"criteria": "cpe:2.3:a:froxlor:froxlor:0.10.16:*:*:*:*:ubuntu:*:*",
+	"matchCriteriaId": "9CAF7A1C-4A23-4A24-BE4F-484B85F4590D",
+	"created": "2021-10-28T16:52:52.140",
+	"lastModified": "2021-10-28T16:52:52.140",
+	"cpeLastModified": "2021-10-28T17:02:43.620",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:froxlor:froxlor:0.10.16:*:*:*:*:ubuntu:*:*",
+			"cpeNameId": "B40CFF32-1662-405B-9C02-B166525D8639"
+		}
+	]
 }

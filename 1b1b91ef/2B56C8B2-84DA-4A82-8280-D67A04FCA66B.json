@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:puppet:stdlib:2.1.1:*:*:*:*:puppet:*:*",
-  "matchCriteriaId": "2B56C8B2-84DA-4A82-8280-D67A04FCA66B",
-  "created": "2019-07-11T13:44:04.597",
-  "lastModified": "2019-07-11T13:44:04.597",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:puppet:stdlib:2.1.1:*:*:*:*:puppet:*:*",
-      "cpeNameId": "7864584C-97AE-489B-8F8C-2B4FA3D70C0A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:puppet:stdlib:2.1.1:*:*:*:*:puppet:*:*",
+	"matchCriteriaId": "2B56C8B2-84DA-4A82-8280-D67A04FCA66B",
+	"created": "2019-07-11T13:44:04.597",
+	"lastModified": "2019-07-11T13:44:04.597",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:puppet:stdlib:2.1.1:*:*:*:*:puppet:*:*",
+			"cpeNameId": "7864584C-97AE-489B-8F8C-2B4FA3D70C0A"
+		}
+	]
 }

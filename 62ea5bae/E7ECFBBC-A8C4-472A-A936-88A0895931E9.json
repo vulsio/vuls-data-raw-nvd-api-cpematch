@@ -1,30 +1,30 @@
 {
-  "criteria": "cpe:2.3:a:sap:gui_for_windows:7.70:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E7ECFBBC-A8C4-472A-A936-88A0895931E9",
-  "created": "2021-05-17T13:00:49.833",
-  "lastModified": "2021-05-17T13:00:49.833",
-  "cpeLastModified": "2021-06-29T17:26:00.310",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:sap:gui_for_windows:7.70:-:*:*:*:*:*:*",
-      "cpeNameId": "6FD891C4-3271-4A13-A308-CBDD7020652D"
-    },
-    {
-      "cpeName": "cpe:2.3:a:sap:gui_for_windows:7.70:patch_level1:*:*:*:*:*:*",
-      "cpeNameId": "7BE6745C-B679-4267-A109-7F09337ED9FC"
-    },
-    {
-      "cpeName": "cpe:2.3:a:sap:gui_for_windows:7.70:patch_level2:*:*:*:*:*:*",
-      "cpeNameId": "2D37632D-2F72-404B-AA44-1AEBA6B74E61"
-    },
-    {
-      "cpeName": "cpe:2.3:a:sap:gui_for_windows:7.70:patch_level3:*:*:*:*:*:*",
-      "cpeNameId": "4ADC320D-8678-4C24-98A6-7CAE09699E73"
-    },
-    {
-      "cpeName": "cpe:2.3:a:sap:gui_for_windows:7.70:patch_level4:*:*:*:*:*:*",
-      "cpeNameId": "A2B5637D-A99B-4D96-AD37-AA4E78DD4AD9"
-    }
-  ]
+	"criteria": "cpe:2.3:a:sap:gui_for_windows:7.70:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E7ECFBBC-A8C4-472A-A936-88A0895931E9",
+	"created": "2021-05-17T13:00:49.833",
+	"lastModified": "2021-05-17T13:00:49.833",
+	"cpeLastModified": "2021-06-29T17:26:00.310",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sap:gui_for_windows:7.70:-:*:*:*:*:*:*",
+			"cpeNameId": "6FD891C4-3271-4A13-A308-CBDD7020652D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sap:gui_for_windows:7.70:patch_level1:*:*:*:*:*:*",
+			"cpeNameId": "7BE6745C-B679-4267-A109-7F09337ED9FC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sap:gui_for_windows:7.70:patch_level2:*:*:*:*:*:*",
+			"cpeNameId": "2D37632D-2F72-404B-AA44-1AEBA6B74E61"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sap:gui_for_windows:7.70:patch_level3:*:*:*:*:*:*",
+			"cpeNameId": "4ADC320D-8678-4C24-98A6-7CAE09699E73"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sap:gui_for_windows:7.70:patch_level4:*:*:*:*:*:*",
+			"cpeNameId": "A2B5637D-A99B-4D96-AD37-AA4E78DD4AD9"
+		}
+	]
 }

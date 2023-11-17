@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:bad_behavior_project:bad_behavior:6.x-1.x:dev:*:*:*:drupal:*:*",
-  "matchCriteriaId": "139D9E10-90F2-43A0-95F4-FC812EC417CB",
-  "created": "2019-07-09T14:56:52.593",
-  "lastModified": "2019-07-09T14:56:52.593",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:bad_behavior_project:bad_behavior:6.x-1.x:dev:*:*:*:drupal:*:*",
-      "cpeNameId": "DE46A5D7-D1F5-4CCD-BEC3-5778D71D1519"
-    }
-  ]
+	"criteria": "cpe:2.3:a:bad_behavior_project:bad_behavior:6.x-1.x:dev:*:*:*:drupal:*:*",
+	"matchCriteriaId": "139D9E10-90F2-43A0-95F4-FC812EC417CB",
+	"created": "2019-07-09T14:56:52.593",
+	"lastModified": "2019-07-09T14:56:52.593",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:bad_behavior_project:bad_behavior:6.x-1.x:dev:*:*:*:drupal:*:*",
+			"cpeNameId": "DE46A5D7-D1F5-4CCD-BEC3-5778D71D1519"
+		}
+	]
 }

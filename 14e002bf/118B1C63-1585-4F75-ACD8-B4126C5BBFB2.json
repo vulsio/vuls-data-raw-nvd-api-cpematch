@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:stiltsoft:table_filter_and_charts_for_confluence_server:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "118B1C63-1585-4F75-ACD8-B4126C5BBFB2",
-  "versionEndExcluding": "5.3.25",
-  "created": "2020-08-31T16:57:22.763",
-  "lastModified": "2020-08-31T16:57:22.763",
-  "cpeLastModified": "2020-12-03T13:51:33.437",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:stiltsoft:table_filter_and_charts_for_confluence_server:-:*:*:*:*:*:*:*",
-      "cpeNameId": "CF534A34-41FE-417A-8C9F-A46DF6EBB50E"
-    }
-  ]
+	"criteria": "cpe:2.3:a:stiltsoft:table_filter_and_charts_for_confluence_server:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "118B1C63-1585-4F75-ACD8-B4126C5BBFB2",
+	"versionEndExcluding": "5.3.25",
+	"created": "2020-08-31T16:57:22.763",
+	"lastModified": "2020-08-31T16:57:22.763",
+	"cpeLastModified": "2020-12-03T13:51:33.437",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:stiltsoft:table_filter_and_charts_for_confluence_server:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CF534A34-41FE-417A-8C9F-A46DF6EBB50E"
+		}
+	]
 }

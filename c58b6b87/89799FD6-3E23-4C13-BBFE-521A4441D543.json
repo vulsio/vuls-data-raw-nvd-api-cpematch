@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:qualcomm:pmr735a:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "89799FD6-3E23-4C13-BBFE-521A4441D543",
-  "created": "2021-01-27T17:47:27.527",
-  "lastModified": "2021-01-27T17:47:27.527",
-  "cpeLastModified": "2021-01-28T18:55:32.047",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:qualcomm:pmr735a:-:*:*:*:*:*:*:*",
-      "cpeNameId": "6DD4A78C-541D-48FD-8283-AE90610EE416"
-    }
-  ]
+	"criteria": "cpe:2.3:h:qualcomm:pmr735a:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "89799FD6-3E23-4C13-BBFE-521A4441D543",
+	"created": "2021-01-27T17:47:27.527",
+	"lastModified": "2021-01-27T17:47:27.527",
+	"cpeLastModified": "2021-01-28T18:55:32.047",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:pmr735a:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6DD4A78C-541D-48FD-8283-AE90610EE416"
+		}
+	]
 }

@@ -1,22 +1,22 @@
 {
-  "criteria": "cpe:2.3:a:chamilo:chamilo_lms:1.9.4:*:*:*:*:*:*:*",
-  "matchCriteriaId": "09EE7E5D-4199-42B1-B05D-0ABAAEFB64E2",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.9.4:*:*:*:*:*:*:*",
-      "cpeNameId": "1D1D570E-22FF-4A71-B65D-2F5D98701F54"
-    },
-    {
-      "cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.9.4:alpha1:*:*:*:*:*:*",
-      "cpeNameId": "25B0C406-F5D3-414F-8E45-295791174B37"
-    },
-    {
-      "cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.9.4:rc1:*:*:*:*:*:*",
-      "cpeNameId": "6279C567-7458-4B41-ABF2-8684A636C675"
-    }
-  ]
+	"criteria": "cpe:2.3:a:chamilo:chamilo_lms:1.9.4:*:*:*:*:*:*:*",
+	"matchCriteriaId": "09EE7E5D-4199-42B1-B05D-0ABAAEFB64E2",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.9.4:*:*:*:*:*:*:*",
+			"cpeNameId": "1D1D570E-22FF-4A71-B65D-2F5D98701F54"
+		},
+		{
+			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.9.4:alpha1:*:*:*:*:*:*",
+			"cpeNameId": "25B0C406-F5D3-414F-8E45-295791174B37"
+		},
+		{
+			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.9.4:rc1:*:*:*:*:*:*",
+			"cpeNameId": "6279C567-7458-4B41-ABF2-8684A636C675"
+		}
+	]
 }

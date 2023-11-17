@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:ipswitch:imail_server:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D8FF3313-6C45-44C5-B093-E865AB16BAB9",
-  "versionEndIncluding": "8.2_hotfix_2",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ipswitch:imail_server:8.2:hotfix2:*:*:*:*:*:*",
-      "cpeNameId": "DCDE9E7B-35BC-478C-B408-20E469BE6B30"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ipswitch:imail_server:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D8FF3313-6C45-44C5-B093-E865AB16BAB9",
+	"versionEndIncluding": "8.2_hotfix_2",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ipswitch:imail_server:8.2:hotfix2:*:*:*:*:*:*",
+			"cpeNameId": "DCDE9E7B-35BC-478C-B408-20E469BE6B30"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:gnu:bison:3.7.1.1:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D569E0B0-03C0-4778-946E-1754F686D5FF",
-  "created": "2020-09-08T14:02:07.590",
-  "lastModified": "2020-09-08T14:02:07.590",
-  "cpeLastModified": "2020-09-08T14:46:58.700",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:gnu:bison:3.7.1.1:*:*:*:*:*:*:*",
-      "cpeNameId": "A90D6C55-AD1F-454E-862A-B05EFDB230ED"
-    }
-  ]
+	"criteria": "cpe:2.3:a:gnu:bison:3.7.1.1:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D569E0B0-03C0-4778-946E-1754F686D5FF",
+	"created": "2020-09-08T14:02:07.590",
+	"lastModified": "2020-09-08T14:02:07.590",
+	"cpeLastModified": "2020-09-08T14:46:58.700",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:gnu:bison:3.7.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "A90D6C55-AD1F-454E-862A-B05EFDB230ED"
+		}
+	]
 }

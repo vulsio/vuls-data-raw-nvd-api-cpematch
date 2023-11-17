@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:l340-15api_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9446692C-BE8F-4466-BCF8-D0EC609FBD14",
-  "created": "2020-06-16T15:31:05.663",
-  "lastModified": "2020-06-16T15:31:05.663",
-  "cpeLastModified": "2020-10-08T19:43:43.493",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:l340-15api_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "45A57BED-1271-4B08-A389-A9E20E9B9698"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:l340-15api_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9446692C-BE8F-4466-BCF8-D0EC609FBD14",
+	"created": "2020-06-16T15:31:05.663",
+	"lastModified": "2020-06-16T15:31:05.663",
+	"cpeLastModified": "2020-10-08T19:43:43.493",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:l340-15api_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "45A57BED-1271-4B08-A389-A9E20E9B9698"
+		}
+	]
 }

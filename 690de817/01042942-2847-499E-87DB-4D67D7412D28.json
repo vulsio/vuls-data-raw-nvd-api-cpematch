@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:intel:optane_ssd_900p_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "01042942-2847-499E-87DB-4D67D7412D28",
-  "versionEndExcluding": "fw600",
-  "created": "2022-05-18T19:14:53.763",
-  "lastModified": "2022-05-18T19:14:53.763",
-  "cpeLastModified": "2021-04-30T18:28:52.840",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:optane_ssd_900p_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "F203047E-D0D7-4C72-BECE-0331AFF6DF55"
-    },
-    {
-      "cpeName": "cpe:2.3:o:intel:optane_ssd_900p_firmware:e2010480:*:*:*:*:*:*:*",
-      "cpeNameId": "476DFE1A-00F3-4DC1-824B-ECFDFF4E05FC"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:optane_ssd_900p_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "01042942-2847-499E-87DB-4D67D7412D28",
+	"versionEndExcluding": "fw600",
+	"created": "2022-05-18T19:14:53.763",
+	"lastModified": "2022-05-18T19:14:53.763",
+	"cpeLastModified": "2021-04-30T18:28:52.840",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:optane_ssd_900p_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F203047E-D0D7-4C72-BECE-0331AFF6DF55"
+		},
+		{
+			"cpeName": "cpe:2.3:o:intel:optane_ssd_900p_firmware:e2010480:*:*:*:*:*:*:*",
+			"cpeNameId": "476DFE1A-00F3-4DC1-824B-ECFDFF4E05FC"
+		}
+	]
 }

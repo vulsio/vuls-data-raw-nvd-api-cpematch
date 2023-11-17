@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:o:cisco:email_security_appliance_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5B0124F5-3D1D-4A09-B5EB-4F1D9B5BF163",
-  "versionStartIncluding": "14.3",
-  "versionEndExcluding": "14.3.0-023",
-  "created": "2022-11-07T18:03:36.403",
-  "lastModified": "2022-11-07T18:03:36.403",
-  "cpeLastModified": "2022-11-14T14:20:00.427",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:email_security_appliance_firmware:14.3:*:*:*:*:*:*:*",
-      "cpeNameId": "532F6CAB-243F-4E27-B3C5-3B69A4864119"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:email_security_appliance_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5B0124F5-3D1D-4A09-B5EB-4F1D9B5BF163",
+	"versionStartIncluding": "14.3",
+	"versionEndExcluding": "14.3.0-023",
+	"created": "2022-11-07T18:03:36.403",
+	"lastModified": "2022-11-07T18:03:36.403",
+	"cpeLastModified": "2022-11-14T14:20:00.427",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:email_security_appliance_firmware:14.3:*:*:*:*:*:*:*",
+			"cpeNameId": "532F6CAB-243F-4E27-B3C5-3B69A4864119"
+		}
+	]
 }

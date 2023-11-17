@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:elecom:wmc-dlgst2-w_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "066EDB7C-F6DA-4579-8840-DA7C027006C3",
-  "versionEndIncluding": "1.24",
-  "created": "2022-04-06T14:18:18.313",
-  "lastModified": "2022-04-06T14:18:18.313",
-  "cpeLastModified": "2022-04-08T06:30:13.363",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:elecom:wmc-dlgst2-w_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E1D81FAD-5A6C-4116-A832-27F019574252"
-    },
-    {
-      "cpeName": "cpe:2.3:o:elecom:wmc-dlgst2-w_firmware:1.24:*:*:*:*:*:*:*",
-      "cpeNameId": "5AB567B7-0CC1-4145-8AE5-4E61A6BBEFB3"
-    }
-  ]
+	"criteria": "cpe:2.3:o:elecom:wmc-dlgst2-w_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "066EDB7C-F6DA-4579-8840-DA7C027006C3",
+	"versionEndIncluding": "1.24",
+	"created": "2022-04-06T14:18:18.313",
+	"lastModified": "2022-04-06T14:18:18.313",
+	"cpeLastModified": "2022-04-08T06:30:13.363",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:elecom:wmc-dlgst2-w_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E1D81FAD-5A6C-4116-A832-27F019574252"
+		},
+		{
+			"cpeName": "cpe:2.3:o:elecom:wmc-dlgst2-w_firmware:1.24:*:*:*:*:*:*:*",
+			"cpeNameId": "5AB567B7-0CC1-4145-8AE5-4E61A6BBEFB3"
+		}
+	]
 }

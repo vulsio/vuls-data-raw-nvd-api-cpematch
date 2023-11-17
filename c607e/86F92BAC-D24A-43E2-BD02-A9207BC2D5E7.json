@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:adobe:flash_player:23.0.0.207:*:*:*:*:edge:*:*",
-  "matchCriteriaId": "86F92BAC-D24A-43E2-BD02-A9207BC2D5E7",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:adobe:flash_player:23.0.0.207:*:*:*:*:edge:*:*",
-      "cpeNameId": "F89CEECE-8C68-40AF-AE44-052F26B73CFB"
-    }
-  ]
+	"criteria": "cpe:2.3:a:adobe:flash_player:23.0.0.207:*:*:*:*:edge:*:*",
+	"matchCriteriaId": "86F92BAC-D24A-43E2-BD02-A9207BC2D5E7",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:adobe:flash_player:23.0.0.207:*:*:*:*:edge:*:*",
+			"cpeNameId": "F89CEECE-8C68-40AF-AE44-052F26B73CFB"
+		}
+	]
 }

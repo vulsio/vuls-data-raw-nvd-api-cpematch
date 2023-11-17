@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:cisco:webex_meetings:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C2F028C6-5540-4C6C-B61A-714A9936B0A6",
-  "versionStartIncluding": "40.7.0",
-  "versionEndExcluding": "40.8.0",
-  "created": "2020-11-12T19:31:10.790",
-  "lastModified": "2020-11-12T19:31:10.790",
-  "cpeLastModified": "2020-12-21T13:20:33.737",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:40.7.0:*:*:*:*:*:*:*",
-      "cpeNameId": "5B37DF78-0BB8-468A-8406-BAB96D8AA400"
-    }
-  ]
+	"criteria": "cpe:2.3:a:cisco:webex_meetings:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C2F028C6-5540-4C6C-B61A-714A9936B0A6",
+	"versionStartIncluding": "40.7.0",
+	"versionEndExcluding": "40.8.0",
+	"created": "2020-11-12T19:31:10.790",
+	"lastModified": "2020-11-12T19:31:10.790",
+	"cpeLastModified": "2020-12-21T13:20:33.737",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:40.7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5B37DF78-0BB8-468A-8406-BAB96D8AA400"
+		}
+	]
 }

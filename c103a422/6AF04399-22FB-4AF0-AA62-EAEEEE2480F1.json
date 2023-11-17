@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lexmark:t65x_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6AF04399-22FB-4AF0-AA62-EAEEEE2480F1",
-  "versionEndIncluding": "lr.jp.p814",
-  "created": "2019-08-29T18:57:32.520",
-  "lastModified": "2019-08-29T18:57:32.520",
-  "cpeLastModified": "2019-11-21T21:08:57.757",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lexmark:t65x_firmware:lr.jp.p814:*:*:*:*:*:*:*",
-      "cpeNameId": "39BCDA8F-16B3-4098-AEB7-D12D5B0D4B7C"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lexmark:t65x_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6AF04399-22FB-4AF0-AA62-EAEEEE2480F1",
+	"versionEndIncluding": "lr.jp.p814",
+	"created": "2019-08-29T18:57:32.520",
+	"lastModified": "2019-08-29T18:57:32.520",
+	"cpeLastModified": "2019-11-21T21:08:57.757",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lexmark:t65x_firmware:lr.jp.p814:*:*:*:*:*:*:*",
+			"cpeNameId": "39BCDA8F-16B3-4098-AEB7-D12D5B0D4B7C"
+		}
+	]
 }

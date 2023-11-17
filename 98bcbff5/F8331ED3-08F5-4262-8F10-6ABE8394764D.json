@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:powertekpdus:pm_pdu_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F8331ED3-08F5-4262-8F10-6ABE8394764D",
-  "versionEndExcluding": "3.30.30",
-  "created": "2022-06-16T15:45:53.420",
-  "lastModified": "2022-06-16T15:45:53.420",
-  "cpeLastModified": "2022-07-27T16:21:20.713",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:powertekpdus:pm_pdu_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "906498F9-4533-4AE3-8CEC-A09B73214D9C"
-    }
-  ]
+	"criteria": "cpe:2.3:o:powertekpdus:pm_pdu_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F8331ED3-08F5-4262-8F10-6ABE8394764D",
+	"versionEndExcluding": "3.30.30",
+	"created": "2022-06-16T15:45:53.420",
+	"lastModified": "2022-06-16T15:45:53.420",
+	"cpeLastModified": "2022-07-27T16:21:20.713",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:powertekpdus:pm_pdu_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "906498F9-4533-4AE3-8CEC-A09B73214D9C"
+		}
+	]
 }

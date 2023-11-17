@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:wire:wire-ios-transport:*:*:*:*:*:iphone_os:*:*",
-  "matchCriteriaId": "4D57B655-B6AF-481B-8B58-425F1561722D",
-  "versionEndExcluding": "84.1.1",
-  "created": "2022-03-17T17:59:40.147",
-  "lastModified": "2022-03-17T17:59:40.147",
-  "cpeLastModified": "2022-03-18T20:16:38.643",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:wire:wire-ios-transport:-:*:*:*:*:iphone_os:*:*",
-      "cpeNameId": "40332322-3902-4ED2-91A6-37934A3859E0"
-    },
-    {
-      "cpeName": "cpe:2.3:a:wire:wire-ios-transport:84.1.0:*:*:*:*:iphone_os:*:*",
-      "cpeNameId": "862DEE6B-998A-441E-9E8F-1FA3DE7F862A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:wire:wire-ios-transport:*:*:*:*:*:iphone_os:*:*",
+	"matchCriteriaId": "4D57B655-B6AF-481B-8B58-425F1561722D",
+	"versionEndExcluding": "84.1.1",
+	"created": "2022-03-17T17:59:40.147",
+	"lastModified": "2022-03-17T17:59:40.147",
+	"cpeLastModified": "2022-03-18T20:16:38.643",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wire:wire-ios-transport:-:*:*:*:*:iphone_os:*:*",
+			"cpeNameId": "40332322-3902-4ED2-91A6-37934A3859E0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wire:wire-ios-transport:84.1.0:*:*:*:*:iphone_os:*:*",
+			"cpeNameId": "862DEE6B-998A-441E-9E8F-1FA3DE7F862A"
+		}
+	]
 }

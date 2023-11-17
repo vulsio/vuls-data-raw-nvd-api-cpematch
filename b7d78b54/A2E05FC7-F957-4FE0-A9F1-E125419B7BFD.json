@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:lenovo:thinkpad_x390:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A2E05FC7-F957-4FE0-A9F1-E125419B7BFD",
-  "created": "2019-11-15T17:23:21.950",
-  "lastModified": "2019-11-15T17:23:21.950",
-  "cpeLastModified": "2019-12-10T16:06:27.057",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:lenovo:thinkpad_x390:-:*:*:*:*:*:*:*",
-      "cpeNameId": "A37712B9-A0F0-4749-A967-44EA2C48DB98"
-    }
-  ]
+	"criteria": "cpe:2.3:h:lenovo:thinkpad_x390:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A2E05FC7-F957-4FE0-A9F1-E125419B7BFD",
+	"created": "2019-11-15T17:23:21.950",
+	"lastModified": "2019-11-15T17:23:21.950",
+	"cpeLastModified": "2019-12-10T16:06:27.057",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:lenovo:thinkpad_x390:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A37712B9-A0F0-4749-A967-44EA2C48DB98"
+		}
+	]
 }

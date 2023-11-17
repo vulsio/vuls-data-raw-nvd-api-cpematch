@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:cisco:unified_communications_manager:12.5\\(1\\)su4:*:*:*:session_management:*:*:*",
-  "matchCriteriaId": "15292BC9-7129-4BCF-BAED-E8EBDC27AFA4",
-  "created": "2022-01-05T13:32:46.117",
-  "lastModified": "2022-01-05T13:32:46.117",
-  "cpeLastModified": "2022-01-05T13:55:45.927",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:cisco:unified_communications_manager:12.5\\(1\\)su4:*:*:*:session_management:*:*:*",
-      "cpeNameId": "CCC00519-AFA8-415B-9FB8-9C3C7983B88A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:cisco:unified_communications_manager:12.5\\(1\\)su4:*:*:*:session_management:*:*:*",
+	"matchCriteriaId": "15292BC9-7129-4BCF-BAED-E8EBDC27AFA4",
+	"created": "2022-01-05T13:32:46.117",
+	"lastModified": "2022-01-05T13:32:46.117",
+	"cpeLastModified": "2022-01-05T13:55:45.927",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:unified_communications_manager:12.5\\(1\\)su4:*:*:*:session_management:*:*:*",
+			"cpeNameId": "CCC00519-AFA8-415B-9FB8-9C3C7983B88A"
+		}
+	]
 }

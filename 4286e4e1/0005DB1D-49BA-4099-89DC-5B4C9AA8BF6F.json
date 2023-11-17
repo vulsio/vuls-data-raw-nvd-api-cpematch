@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:netgear:jnr1010_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0005DB1D-49BA-4099-89DC-5B4C9AA8BF6F",
-  "versionEndExcluding": "1.1.0.42",
-  "created": "2020-04-23T13:57:16.920",
-  "lastModified": "2020-04-23T13:57:16.920",
-  "cpeLastModified": "2020-04-28T13:32:45.067",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:netgear:jnr1010_firmware:1.0.0.32:*:*:*:*:*:*:*",
-      "cpeNameId": "2B0E8E72-8558-4E9F-AC7A-DF238D41E9FD"
-    },
-    {
-      "cpeName": "cpe:2.3:o:netgear:jnr1010_firmware:1.1.0.40:*:*:*:*:*:*:*",
-      "cpeNameId": "2CB360F2-92AA-449F-9F30-77F0E017ADF4"
-    }
-  ]
+	"criteria": "cpe:2.3:o:netgear:jnr1010_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0005DB1D-49BA-4099-89DC-5B4C9AA8BF6F",
+	"versionEndExcluding": "1.1.0.42",
+	"created": "2020-04-23T13:57:16.920",
+	"lastModified": "2020-04-23T13:57:16.920",
+	"cpeLastModified": "2020-04-28T13:32:45.067",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netgear:jnr1010_firmware:1.0.0.32:*:*:*:*:*:*:*",
+			"cpeNameId": "2B0E8E72-8558-4E9F-AC7A-DF238D41E9FD"
+		},
+		{
+			"cpeName": "cpe:2.3:o:netgear:jnr1010_firmware:1.1.0.40:*:*:*:*:*:*:*",
+			"cpeNameId": "2CB360F2-92AA-449F-9F30-77F0E017ADF4"
+		}
+	]
 }

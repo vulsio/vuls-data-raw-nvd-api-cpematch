@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:paloaltonetworks:globalprotect:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4284E6A8-FF22-42FD-9EE1-920556EBBADF",
-  "versionEndIncluding": "1.1.6",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2020-01-15T18:35:05.270",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:paloaltonetworks:globalprotect:-:*:*:*:*:windows:*:*",
-      "cpeNameId": "E5DB29C8-8D2B-4671-A919-1CFBC961D095"
-    },
-    {
-      "cpeName": "cpe:2.3:a:paloaltonetworks:globalprotect:1.1.6:*:*:*:*:*:*:*",
-      "cpeNameId": "81B27246-29FF-497A-9BE5-D8EDBA68DA74"
-    }
-  ]
+	"criteria": "cpe:2.3:a:paloaltonetworks:globalprotect:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4284E6A8-FF22-42FD-9EE1-920556EBBADF",
+	"versionEndIncluding": "1.1.6",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2020-01-15T18:35:05.270",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:paloaltonetworks:globalprotect:-:*:*:*:*:windows:*:*",
+			"cpeNameId": "E5DB29C8-8D2B-4671-A919-1CFBC961D095"
+		},
+		{
+			"cpeName": "cpe:2.3:a:paloaltonetworks:globalprotect:1.1.6:*:*:*:*:*:*:*",
+			"cpeNameId": "81B27246-29FF-497A-9BE5-D8EDBA68DA74"
+		}
+	]
 }

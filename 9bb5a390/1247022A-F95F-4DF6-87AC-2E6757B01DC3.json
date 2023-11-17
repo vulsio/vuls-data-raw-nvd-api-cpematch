@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:f5:big-ip_advanced_firewall_manager:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1247022A-F95F-4DF6-87AC-2E6757B01DC3",
-  "versionStartIncluding": "16.0.0",
-  "versionEndExcluding": "16.0.1",
-  "created": "2020-11-06T12:09:30.837",
-  "lastModified": "2020-11-06T12:09:30.837",
-  "cpeLastModified": "2020-12-07T15:52:56.633",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:f5:big-ip_advanced_firewall_manager:16.0.0:*:*:*:*:*:*:*",
-      "cpeNameId": "1360C9DC-832B-495E-8B28-CDCCC23ACDC1"
-    }
-  ]
+	"criteria": "cpe:2.3:a:f5:big-ip_advanced_firewall_manager:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1247022A-F95F-4DF6-87AC-2E6757B01DC3",
+	"versionStartIncluding": "16.0.0",
+	"versionEndExcluding": "16.0.1",
+	"created": "2020-11-06T12:09:30.837",
+	"lastModified": "2020-11-06T12:09:30.837",
+	"cpeLastModified": "2020-12-07T15:52:56.633",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:f5:big-ip_advanced_firewall_manager:16.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "1360C9DC-832B-495E-8B28-CDCCC23ACDC1"
+		}
+	]
 }

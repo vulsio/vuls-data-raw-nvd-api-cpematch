@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:fortinet:fortiweb:6.1.2:*:*:*:*:*:*:*",
-  "matchCriteriaId": "415AF153-2A59-488B-A78B-D98B7F39B5AF",
-  "created": "2021-12-08T19:43:29.727",
-  "lastModified": "2021-12-08T19:43:29.727",
-  "cpeLastModified": "2021-12-09T19:49:54.227",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:fortinet:fortiweb:6.1.2:*:*:*:*:*:*:*",
-      "cpeNameId": "F84F195A-FAFC-4D4F-A555-E3267F3B420B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:fortinet:fortiweb:6.1.2:*:*:*:*:*:*:*",
+	"matchCriteriaId": "415AF153-2A59-488B-A78B-D98B7F39B5AF",
+	"created": "2021-12-08T19:43:29.727",
+	"lastModified": "2021-12-08T19:43:29.727",
+	"cpeLastModified": "2021-12-09T19:49:54.227",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiweb:6.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "F84F195A-FAFC-4D4F-A555-E3267F3B420B"
+		}
+	]
 }

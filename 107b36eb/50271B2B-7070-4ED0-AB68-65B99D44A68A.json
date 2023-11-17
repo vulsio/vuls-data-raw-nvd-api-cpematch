@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:gitlab:gitlab:*:*:*:*:community:*:*:*",
-  "matchCriteriaId": "50271B2B-7070-4ED0-AB68-65B99D44A68A",
-  "versionStartIncluding": "16.3.0",
-  "versionEndExcluding": "16.3.5",
-  "created": "2023-10-02T17:34:32.743",
-  "lastModified": "2023-10-02T17:34:32.743",
-  "cpeLastModified": "2023-10-02T17:34:32.743",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:gitlab:gitlab:16.3.0:*:*:*:community:*:*:*",
-      "cpeNameId": "D49277B9-33EE-4F73-A926-0EECB8A59036"
-    }
-  ]
+	"criteria": "cpe:2.3:a:gitlab:gitlab:*:*:*:*:community:*:*:*",
+	"matchCriteriaId": "50271B2B-7070-4ED0-AB68-65B99D44A68A",
+	"versionStartIncluding": "16.3.0",
+	"versionEndExcluding": "16.3.5",
+	"created": "2023-10-02T17:34:32.743",
+	"lastModified": "2023-10-02T17:34:32.743",
+	"cpeLastModified": "2023-10-02T17:34:32.743",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:gitlab:gitlab:16.3.0:*:*:*:community:*:*:*",
+			"cpeNameId": "D49277B9-33EE-4F73-A926-0EECB8A59036"
+		}
+	]
 }

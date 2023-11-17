@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:redhat:undertow:2.0.39:-:*:*:*:*:*:*",
-  "matchCriteriaId": "600AB6B3-6091-49DF-AA7D-E4400F69D61F",
-  "created": "2022-06-03T15:26:55.830",
-  "lastModified": "2022-06-03T15:55:55.130",
-  "cpeLastModified": "2022-06-06T13:54:14.217",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:redhat:undertow:2.0.39:-:*:*:*:*:*:*",
-      "cpeNameId": "850A507F-EF41-418B-BD65-CEE9716EB808"
-    }
-  ]
+	"criteria": "cpe:2.3:a:redhat:undertow:2.0.39:-:*:*:*:*:*:*",
+	"matchCriteriaId": "600AB6B3-6091-49DF-AA7D-E4400F69D61F",
+	"created": "2022-06-03T15:26:55.830",
+	"lastModified": "2022-06-03T15:55:55.130",
+	"cpeLastModified": "2022-06-06T13:54:14.217",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:redhat:undertow:2.0.39:-:*:*:*:*:*:*",
+			"cpeNameId": "850A507F-EF41-418B-BD65-CEE9716EB808"
+		}
+	]
 }

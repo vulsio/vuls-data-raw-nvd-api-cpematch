@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:intel:pentium_g5420t:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B8D28A52-5EE7-42D2-B942-7A341AB00AB1",
-  "created": "2020-02-24T13:45:51.100",
-  "lastModified": "2020-02-24T13:45:51.100",
-  "cpeLastModified": "2020-04-10T19:58:18.597",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:intel:pentium_g5420t:-:*:*:*:*:*:*:*",
-      "cpeNameId": "58707594-7B97-45E5-A9F4-A15820C2070C"
-    }
-  ]
+	"criteria": "cpe:2.3:h:intel:pentium_g5420t:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B8D28A52-5EE7-42D2-B942-7A341AB00AB1",
+	"created": "2020-02-24T13:45:51.100",
+	"lastModified": "2020-02-24T13:45:51.100",
+	"cpeLastModified": "2020-04-10T19:58:18.597",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:pentium_g5420t:-:*:*:*:*:*:*:*",
+			"cpeNameId": "58707594-7B97-45E5-A9F4-A15820C2070C"
+		}
+	]
 }

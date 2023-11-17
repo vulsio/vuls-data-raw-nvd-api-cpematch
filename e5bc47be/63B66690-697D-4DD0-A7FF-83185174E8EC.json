@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:moxa:pt-7528-12mst-12tx-4gsfp-wv-wv_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "63B66690-697D-4DD0-A7FF-83185174E8EC",
-  "versionEndIncluding": "4.0",
-  "created": "2020-03-26T13:39:01.180",
-  "lastModified": "2020-03-26T13:39:01.180",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:moxa:pt-7528-12mst-12tx-4gsfp-wv-wv_firmware:4.0:*:*:*:*:*:*:*",
-      "cpeNameId": "9F0101C4-1252-4583-BE89-5BB8FE2759F9"
-    }
-  ]
+	"criteria": "cpe:2.3:o:moxa:pt-7528-12mst-12tx-4gsfp-wv-wv_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "63B66690-697D-4DD0-A7FF-83185174E8EC",
+	"versionEndIncluding": "4.0",
+	"created": "2020-03-26T13:39:01.180",
+	"lastModified": "2020-03-26T13:39:01.180",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:moxa:pt-7528-12mst-12tx-4gsfp-wv-wv_firmware:4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "9F0101C4-1252-4583-BE89-5BB8FE2759F9"
+		}
+	]
 }

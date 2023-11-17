@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:jenkins:hpe_network_virtualization:1.0:*:*:*:*:jenkins:*:*",
-  "matchCriteriaId": "F0BF4331-46B9-4F4A-AC46-DA16F12C76CE",
-  "created": "2022-07-08T00:11:47.630",
-  "lastModified": "2022-07-08T00:11:47.630",
-  "cpeLastModified": "2022-07-12T13:08:10.930",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:jenkins:hpe_network_virtualization:1.0:*:*:*:*:jenkins:*:*",
-      "cpeNameId": "1AB2C837-353A-40EE-BA1D-AD01E381802A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:jenkins:hpe_network_virtualization:1.0:*:*:*:*:jenkins:*:*",
+	"matchCriteriaId": "F0BF4331-46B9-4F4A-AC46-DA16F12C76CE",
+	"created": "2022-07-08T00:11:47.630",
+	"lastModified": "2022-07-08T00:11:47.630",
+	"cpeLastModified": "2022-07-12T13:08:10.930",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:jenkins:hpe_network_virtualization:1.0:*:*:*:*:jenkins:*:*",
+			"cpeNameId": "1AB2C837-353A-40EE-BA1D-AD01E381802A"
+		}
+	]
 }

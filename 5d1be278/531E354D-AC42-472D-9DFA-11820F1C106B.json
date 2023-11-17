@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:redhat:servicemesh-operator:2.0.5.1:*:*:*:*:*:*:*",
-  "matchCriteriaId": "531E354D-AC42-472D-9DFA-11820F1C106B",
-  "created": "2022-08-25T14:45:51.367",
-  "lastModified": "2022-08-25T14:45:51.367",
-  "cpeLastModified": "2022-08-26T18:39:53.047",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:redhat:servicemesh-operator:2.0.5.1:*:*:*:*:*:*:*",
-      "cpeNameId": "3B96300B-7D6C-43AA-8F7D-0F728746219B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:redhat:servicemesh-operator:2.0.5.1:*:*:*:*:*:*:*",
+	"matchCriteriaId": "531E354D-AC42-472D-9DFA-11820F1C106B",
+	"created": "2022-08-25T14:45:51.367",
+	"lastModified": "2022-08-25T14:45:51.367",
+	"cpeLastModified": "2022-08-26T18:39:53.047",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:redhat:servicemesh-operator:2.0.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "3B96300B-7D6C-43AA-8F7D-0F728746219B"
+		}
+	]
 }

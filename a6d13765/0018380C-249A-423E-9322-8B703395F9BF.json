@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:vmware:airwatch_inbox:-:*:*:*:*:android:*:*",
-  "matchCriteriaId": "0018380C-249A-423E-9322-8B703395F9BF",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T22:53:51.837",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:vmware:airwatch_inbox:-:*:*:*:*:android:*:*",
-      "cpeNameId": "4EE868ED-FE51-4F15-9FA0-9971BFC7CC74"
-    }
-  ]
+	"criteria": "cpe:2.3:a:vmware:airwatch_inbox:-:*:*:*:*:android:*:*",
+	"matchCriteriaId": "0018380C-249A-423E-9322-8B703395F9BF",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T22:53:51.837",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:vmware:airwatch_inbox:-:*:*:*:*:android:*:*",
+			"cpeNameId": "4EE868ED-FE51-4F15-9FA0-9971BFC7CC74"
+		}
+	]
 }

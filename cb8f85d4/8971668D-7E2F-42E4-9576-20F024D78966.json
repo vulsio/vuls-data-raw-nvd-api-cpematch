@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:nec:sv9100_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8971668D-7E2F-42E4-9576-20F024D78966",
-  "versionStartIncluding": "6.0",
-  "created": "2020-08-04T13:09:12.683",
-  "lastModified": "2020-08-04T13:09:12.683",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:nec:sv9100_firmware:6.0:*:*:*:*:*:*:*",
-      "cpeNameId": "FDE42731-F2AB-494C-A70E-00F92773AC41"
-    },
-    {
-      "cpeName": "cpe:2.3:o:nec:sv9100_firmware:7.0:*:*:*:*:*:*:*",
-      "cpeNameId": "D00C5A85-B7FB-45D8-B48A-C369894DA39D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:nec:sv9100_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8971668D-7E2F-42E4-9576-20F024D78966",
+	"versionStartIncluding": "6.0",
+	"created": "2020-08-04T13:09:12.683",
+	"lastModified": "2020-08-04T13:09:12.683",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:nec:sv9100_firmware:6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "FDE42731-F2AB-494C-A70E-00F92773AC41"
+		},
+		{
+			"cpeName": "cpe:2.3:o:nec:sv9100_firmware:7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D00C5A85-B7FB-45D8-B48A-C369894DA39D"
+		}
+	]
 }

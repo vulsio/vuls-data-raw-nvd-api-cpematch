@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:cisco:telepresence_video_communication_server_software:x8.5.1:*:*:*:expressway:*:*:*",
-  "matchCriteriaId": "E66073CB-E4BF-458F-B645-5EFA5FB3067D",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2020-08-25T15:42:57.357",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server_software:x8.5.1:*:*:*:expressway:*:*:*",
-      "cpeNameId": "EE8A2C47-649B-4BCA-87FD-07B16C98D2D3"
-    }
-  ]
+	"criteria": "cpe:2.3:a:cisco:telepresence_video_communication_server_software:x8.5.1:*:*:*:expressway:*:*:*",
+	"matchCriteriaId": "E66073CB-E4BF-458F-B645-5EFA5FB3067D",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2020-08-25T15:42:57.357",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server_software:x8.5.1:*:*:*:expressway:*:*:*",
+			"cpeNameId": "EE8A2C47-649B-4BCA-87FD-07B16C98D2D3"
+		}
+	]
 }

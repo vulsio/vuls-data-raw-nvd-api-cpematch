@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:debian:postgresql-common:9:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4AEC0D7D-F2F6-4E65-97BF-A8980365DB6F",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-02-25T20:33:52.357",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:debian:postgresql-common:9:*:*:*:*:*:*:*",
-      "cpeNameId": "B00E02C2-B95D-482A-A710-8361B127E786"
-    }
-  ]
+	"criteria": "cpe:2.3:a:debian:postgresql-common:9:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4AEC0D7D-F2F6-4E65-97BF-A8980365DB6F",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-02-25T20:33:52.357",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:debian:postgresql-common:9:*:*:*:*:*:*:*",
+			"cpeNameId": "B00E02C2-B95D-482A-A710-8361B127E786"
+		}
+	]
 }

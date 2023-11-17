@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:mcafee:anti-malware_scan_engine:5800:*:*:*:*:freebsd:*:*",
-  "matchCriteriaId": "1A8E476F-161C-4D8A-8FE4-50349396145F",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T22:21:48.897",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:mcafee:anti-malware_scan_engine:5800:*:*:*:*:freebsd:*:*",
-      "cpeNameId": "D0C7158E-DDED-4941-943E-BA8F616E77AB"
-    }
-  ]
+	"criteria": "cpe:2.3:a:mcafee:anti-malware_scan_engine:5800:*:*:*:*:freebsd:*:*",
+	"matchCriteriaId": "1A8E476F-161C-4D8A-8FE4-50349396145F",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T22:21:48.897",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:mcafee:anti-malware_scan_engine:5800:*:*:*:*:freebsd:*:*",
+			"cpeNameId": "D0C7158E-DDED-4941-943E-BA8F616E77AB"
+		}
+	]
 }

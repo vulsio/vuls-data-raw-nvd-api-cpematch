@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:intel:celeron_j4105_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A804E673-20BE-449B-8566-516D053588A9",
-  "versionEndExcluding": "4.0.45",
-  "created": "2022-06-09T15:05:09.080",
-  "lastModified": "2022-06-09T15:05:09.080",
-  "cpeLastModified": "2020-09-30T19:36:21.267",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:celeron_j4105_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "14AD5A2A-2015-439F-82C2-7B7BD6FEDA63"
-    },
-    {
-      "cpeName": "cpe:2.3:o:intel:celeron_j4105_firmware:-:*:*:*:*:windows:*:*",
-      "cpeNameId": "9DB6A177-7492-45D0-9E50-554678BE9992"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:celeron_j4105_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A804E673-20BE-449B-8566-516D053588A9",
+	"versionEndExcluding": "4.0.45",
+	"created": "2022-06-09T15:05:09.080",
+	"lastModified": "2022-06-09T15:05:09.080",
+	"cpeLastModified": "2020-09-30T19:36:21.267",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:celeron_j4105_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "14AD5A2A-2015-439F-82C2-7B7BD6FEDA63"
+		},
+		{
+			"cpeName": "cpe:2.3:o:intel:celeron_j4105_firmware:-:*:*:*:*:windows:*:*",
+			"cpeNameId": "9DB6A177-7492-45D0-9E50-554678BE9992"
+		}
+	]
 }

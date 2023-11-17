@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:amd:ryzen_7_4800h_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "DC61EAFD-15EA-427B-8419-E6EB2BCD78CA",
-  "created": "2022-03-17T13:46:24.433",
-  "lastModified": "2022-07-25T18:13:21.980",
-  "cpeLastModified": "2022-03-18T20:01:21.257",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:amd:ryzen_7_4800h_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "12B04690-688B-4DFE-AA5C-903BD93DA46D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:amd:ryzen_7_4800h_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DC61EAFD-15EA-427B-8419-E6EB2BCD78CA",
+	"created": "2022-03-17T13:46:24.433",
+	"lastModified": "2022-07-25T18:13:21.980",
+	"cpeLastModified": "2022-03-18T20:01:21.257",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_7_4800h_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "12B04690-688B-4DFE-AA5C-903BD93DA46D"
+		}
+	]
 }

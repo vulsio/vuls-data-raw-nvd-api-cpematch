@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:330-14ikbr_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B45E1634-E62F-42D5-8711-FC7F830DBD17",
-  "versionEndExcluding": "6.0.1.8652",
-  "created": "2019-09-04T12:05:59.227",
-  "lastModified": "2019-09-04T12:05:59.227",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:330-14ikbr_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "F826BDD2-7C10-46D8-9EAB-31224FD639F7"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:330-14ikbr_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B45E1634-E62F-42D5-8711-FC7F830DBD17",
+	"versionEndExcluding": "6.0.1.8652",
+	"created": "2019-09-04T12:05:59.227",
+	"lastModified": "2019-09-04T12:05:59.227",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:330-14ikbr_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F826BDD2-7C10-46D8-9EAB-31224FD639F7"
+		}
+	]
 }

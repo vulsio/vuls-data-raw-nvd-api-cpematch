@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:core_i5-8700b_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CB660CB0-2406-4FB1-91DD-0DC6E0053176",
-  "versionEndExcluding": "11.8.92",
-  "created": "2022-06-09T14:34:38.640",
-  "lastModified": "2022-06-09T14:34:38.640",
-  "cpeLastModified": "2020-03-23T18:34:29.227",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:core_i5-8700b_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "8B58B6E2-DDE4-45C7-897C-5B4625F0C7EA"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:core_i5-8700b_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CB660CB0-2406-4FB1-91DD-0DC6E0053176",
+	"versionEndExcluding": "11.8.92",
+	"created": "2022-06-09T14:34:38.640",
+	"lastModified": "2022-06-09T14:34:38.640",
+	"cpeLastModified": "2020-03-23T18:34:29.227",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:core_i5-8700b_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8B58B6E2-DDE4-45C7-897C-5B4625F0C7EA"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:themerex:vapester:*:*:*:*:*:wordpress:*:*",
-  "matchCriteriaId": "23E53397-A8CB-480F-AE32-2D2092B7E382",
-  "versionEndExcluding": "1.1.2001",
-  "created": "2020-03-10T14:16:24.430",
-  "lastModified": "2020-03-10T14:16:24.430",
-  "cpeLastModified": "2020-09-23T13:35:26.310",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:themerex:vapester:-:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "5A37621A-7729-4EFF-AC2D-1DC5D855408A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:themerex:vapester:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "23E53397-A8CB-480F-AE32-2D2092B7E382",
+	"versionEndExcluding": "1.1.2001",
+	"created": "2020-03-10T14:16:24.430",
+	"lastModified": "2020-03-10T14:16:24.430",
+	"cpeLastModified": "2020-09-23T13:35:26.310",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:themerex:vapester:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5A37621A-7729-4EFF-AC2D-1DC5D855408A"
+		}
+	]
 }

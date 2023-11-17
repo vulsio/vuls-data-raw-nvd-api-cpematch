@@ -1,28 +1,28 @@
 {
-  "criteria": "cpe:2.3:a:novell:edirectory:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4CC8C64B-A5E6-4022-B55A-F2E80AB3D8F3",
-  "versionStartIncluding": "8.8",
-  "versionEndExcluding": "8.8.2",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:novell:edirectory:8.8:*:*:*:*:*:*:*",
-      "cpeNameId": "312327D7-E939-4094-8871-576710FB80B4"
-    },
-    {
-      "cpeName": "cpe:2.3:a:novell:edirectory:8.8:sp2:windows:*:*:*:*:*",
-      "cpeNameId": "A5FB054E-5AFC-4F81-B84D-C8DDCED2F2ED"
-    },
-    {
-      "cpeName": "cpe:2.3:a:novell:edirectory:8.8:sp8:*:*:*:*:*:*",
-      "cpeNameId": "75A4C9DD-AACC-4E7C-AA0F-2ADE954C4793"
-    },
-    {
-      "cpeName": "cpe:2.3:a:novell:edirectory:8.8.1:*:*:*:*:*:*:*",
-      "cpeNameId": "8353A937-7A56-41DB-AB38-EB177218FB66"
-    }
-  ]
+	"criteria": "cpe:2.3:a:novell:edirectory:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4CC8C64B-A5E6-4022-B55A-F2E80AB3D8F3",
+	"versionStartIncluding": "8.8",
+	"versionEndExcluding": "8.8.2",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:novell:edirectory:8.8:*:*:*:*:*:*:*",
+			"cpeNameId": "312327D7-E939-4094-8871-576710FB80B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:novell:edirectory:8.8:sp2:windows:*:*:*:*:*",
+			"cpeNameId": "A5FB054E-5AFC-4F81-B84D-C8DDCED2F2ED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:novell:edirectory:8.8:sp8:*:*:*:*:*:*",
+			"cpeNameId": "75A4C9DD-AACC-4E7C-AA0F-2ADE954C4793"
+		},
+		{
+			"cpeName": "cpe:2.3:a:novell:edirectory:8.8.1:*:*:*:*:*:*:*",
+			"cpeNameId": "8353A937-7A56-41DB-AB38-EB177218FB66"
+		}
+	]
 }

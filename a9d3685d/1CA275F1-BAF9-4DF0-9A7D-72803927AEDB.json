@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:softing:edgeconnector:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1CA275F1-BAF9-4DF0-9A7D-72803927AEDB",
-  "versionEndIncluding": "2.31",
-  "created": "2021-11-15T16:33:09.983",
-  "lastModified": "2021-11-15T16:33:09.983",
-  "cpeLastModified": "2021-11-16T14:57:57.200",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:softing:edgeconnector:-:*:*:*:*:*:*:*",
-      "cpeNameId": "8C3520A2-3C54-4DA3-B13D-4F7AAE8E37EB"
-    },
-    {
-      "cpeName": "cpe:2.3:a:softing:edgeconnector:2.31:*:*:*:*:*:*:*",
-      "cpeNameId": "A2E28F72-04AA-4930-8162-93CE7D55B40D"
-    }
-  ]
+	"criteria": "cpe:2.3:a:softing:edgeconnector:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1CA275F1-BAF9-4DF0-9A7D-72803927AEDB",
+	"versionEndIncluding": "2.31",
+	"created": "2021-11-15T16:33:09.983",
+	"lastModified": "2021-11-15T16:33:09.983",
+	"cpeLastModified": "2021-11-16T14:57:57.200",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:softing:edgeconnector:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8C3520A2-3C54-4DA3-B13D-4F7AAE8E37EB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:softing:edgeconnector:2.31:*:*:*:*:*:*:*",
+			"cpeNameId": "A2E28F72-04AA-4930-8162-93CE7D55B40D"
+		}
+	]
 }

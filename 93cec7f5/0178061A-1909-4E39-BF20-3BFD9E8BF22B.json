@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:docker:docker:17.06.2:19:*:*:enterprise:*:*:*",
-  "matchCriteriaId": "0178061A-1909-4E39-BF20-3BFD9E8BF22B",
-  "created": "2019-08-06T13:50:33.987",
-  "lastModified": "2019-08-06T13:50:33.987",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:docker:docker:17.06.2:19:*:*:enterprise:*:*:*",
-      "cpeNameId": "892B3D55-AED8-49CA-84BE-6B5A59B9ACAD"
-    }
-  ]
+	"criteria": "cpe:2.3:a:docker:docker:17.06.2:19:*:*:enterprise:*:*:*",
+	"matchCriteriaId": "0178061A-1909-4E39-BF20-3BFD9E8BF22B",
+	"created": "2019-08-06T13:50:33.987",
+	"lastModified": "2019-08-06T13:50:33.987",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:docker:docker:17.06.2:19:*:*:enterprise:*:*:*",
+			"cpeNameId": "892B3D55-AED8-49CA-84BE-6B5A59B9ACAD"
+		}
+	]
 }

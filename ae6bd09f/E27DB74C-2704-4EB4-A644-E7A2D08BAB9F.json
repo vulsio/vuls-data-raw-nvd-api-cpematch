@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:o:hom.ee:brain_cube_core:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E27DB74C-2704-4EB4-A644-E7A2D08BAB9F",
-  "versionStartIncluding": "2.0.0",
-  "versionEndIncluding": "2.23.0",
-  "created": "2021-06-03T16:28:24.687",
-  "lastModified": "2021-06-03T16:28:24.687",
-  "cpeLastModified": "2021-06-03T16:28:24.687",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hom.ee:brain_cube_core:2.23.0:*:*:*:*:*:*:*",
-      "cpeNameId": "560314BD-ACC9-4561-A3BC-C65AFB5977B8"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hom.ee:brain_cube_core:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E27DB74C-2704-4EB4-A644-E7A2D08BAB9F",
+	"versionStartIncluding": "2.0.0",
+	"versionEndIncluding": "2.23.0",
+	"created": "2021-06-03T16:28:24.687",
+	"lastModified": "2021-06-03T16:28:24.687",
+	"cpeLastModified": "2021-06-03T16:28:24.687",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hom.ee:brain_cube_core:2.23.0:*:*:*:*:*:*:*",
+			"cpeNameId": "560314BD-ACC9-4561-A3BC-C65AFB5977B8"
+		}
+	]
 }

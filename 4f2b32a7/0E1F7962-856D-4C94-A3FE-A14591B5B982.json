@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:omron:nx1w-cif11_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0E1F7962-856D-4C94-A3FE-A14591B5B982",
-  "versionEndIncluding": "1.48",
-  "created": "2022-07-14T18:21:48.083",
-  "lastModified": "2022-07-14T18:21:48.083",
-  "cpeLastModified": "2022-07-14T19:11:34.233",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:omron:nx1w-cif11_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "BAA13C93-259E-44FE-83A5-E5D409522D66"
-    }
-  ]
+	"criteria": "cpe:2.3:o:omron:nx1w-cif11_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0E1F7962-856D-4C94-A3FE-A14591B5B982",
+	"versionEndIncluding": "1.48",
+	"created": "2022-07-14T18:21:48.083",
+	"lastModified": "2022-07-14T18:21:48.083",
+	"cpeLastModified": "2022-07-14T19:11:34.233",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:omron:nx1w-cif11_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BAA13C93-259E-44FE-83A5-E5D409522D66"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:brainstormforce:ultimate_addons_for_wpbakery_page_builder:*:*:*:*:*:wordpress:*:*",
-  "matchCriteriaId": "FEB87CF2-FE9F-412F-B17D-625377354526",
-  "versionEndExcluding": "3.19.15",
-  "created": "2023-10-31T14:24:47.930",
-  "lastModified": "2023-11-15T23:10:28.820",
-  "cpeLastModified": "2023-11-15T23:10:28.820",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:brainstormforce:ultimate_addons_for_wpbakery_page_builder:-:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "0AB992B7-35D2-4113-8729-7A5B99755E5C"
-    },
-    {
-      "cpeName": "cpe:2.3:a:brainstormforce:ultimate_addons_for_wpbakery_page_builder:3.19.14:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "123F544E-E615-433C-9354-7FD6E1D142FF"
-    }
-  ]
+	"criteria": "cpe:2.3:a:brainstormforce:ultimate_addons_for_wpbakery_page_builder:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "FEB87CF2-FE9F-412F-B17D-625377354526",
+	"versionEndExcluding": "3.19.15",
+	"created": "2023-10-31T14:24:47.930",
+	"lastModified": "2023-11-15T23:10:28.820",
+	"cpeLastModified": "2023-11-15T23:10:28.820",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:brainstormforce:ultimate_addons_for_wpbakery_page_builder:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0AB992B7-35D2-4113-8729-7A5B99755E5C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:brainstormforce:ultimate_addons_for_wpbakery_page_builder:3.19.14:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "123F544E-E615-433C-9354-7FD6E1D142FF"
+		}
+	]
 }

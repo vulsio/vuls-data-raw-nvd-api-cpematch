@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:ssh.net_project:ssh.net:2020.0.0:beta1:*:*:*:.net:*:*",
-  "matchCriteriaId": "882F0E06-ED64-4064-9B0F-C26AC60245D2",
-  "created": "2022-06-08T15:10:40.063",
-  "lastModified": "2022-06-08T15:10:40.063",
-  "cpeLastModified": "2022-06-08T16:15:13.080",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ssh.net_project:ssh.net:2020.0.0:beta1:*:*:*:.net:*:*",
-      "cpeNameId": "424F4DB3-6B95-4236-BA00-C9E927741D0B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ssh.net_project:ssh.net:2020.0.0:beta1:*:*:*:.net:*:*",
+	"matchCriteriaId": "882F0E06-ED64-4064-9B0F-C26AC60245D2",
+	"created": "2022-06-08T15:10:40.063",
+	"lastModified": "2022-06-08T15:10:40.063",
+	"cpeLastModified": "2022-06-08T16:15:13.080",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ssh.net_project:ssh.net:2020.0.0:beta1:*:*:*:.net:*:*",
+			"cpeNameId": "424F4DB3-6B95-4236-BA00-C9E927741D0B"
+		}
+	]
 }

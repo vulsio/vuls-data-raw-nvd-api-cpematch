@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:apache:zookeeper:3.8.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B09F240E-7A38-41E2-80B5-F64633BC2CA6",
-  "created": "2021-09-02T14:44:56.290",
-  "lastModified": "2021-09-02T14:44:56.290",
-  "cpeLastModified": "2021-09-02T18:46:25.320",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:apache:zookeeper:3.8.0:*:*:*:*:*:*:*",
-      "cpeNameId": "0027C4E3-9ED3-48E0-8739-A1B7607E823A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:apache:zookeeper:3.8.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B09F240E-7A38-41E2-80B5-F64633BC2CA6",
+	"created": "2021-09-02T14:44:56.290",
+	"lastModified": "2021-09-02T14:44:56.290",
+	"cpeLastModified": "2021-09-02T18:46:25.320",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apache:zookeeper:3.8.0:*:*:*:*:*:*:*",
+			"cpeNameId": "0027C4E3-9ED3-48E0-8739-A1B7607E823A"
+		}
+	]
 }

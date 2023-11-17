@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:linux-ha:ha:0.999p\\+dfsg-5:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8FD65B38-348E-40BA-94FC-A06702A5551D",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T22:53:51.837",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:linux-ha:ha:0.999p\\+dfsg-5:*:*:*:*:*:*:*",
-      "cpeNameId": "D8924580-2A6A-4469-BD7D-57683BD7332D"
-    }
-  ]
+	"criteria": "cpe:2.3:a:linux-ha:ha:0.999p\\+dfsg-5:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8FD65B38-348E-40BA-94FC-A06702A5551D",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T22:53:51.837",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:linux-ha:ha:0.999p\\+dfsg-5:*:*:*:*:*:*:*",
+			"cpeNameId": "D8924580-2A6A-4469-BD7D-57683BD7332D"
+		}
+	]
 }

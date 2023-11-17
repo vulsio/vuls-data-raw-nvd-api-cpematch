@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:l340-17iwl_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F36BAD13-C472-4D21-9AC9-64CDDBB24D89",
-  "versionEndExcluding": "atcn46ww",
-  "created": "2022-05-02T16:41:07.710",
-  "lastModified": "2022-05-02T16:41:07.710",
-  "cpeLastModified": "2022-05-06T20:48:01.953",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:l340-17iwl_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "57019033-9D8D-4793-92DE-6E2B333D0707"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:l340-17iwl_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F36BAD13-C472-4D21-9AC9-64CDDBB24D89",
+	"versionEndExcluding": "atcn46ww",
+	"created": "2022-05-02T16:41:07.710",
+	"lastModified": "2022-05-02T16:41:07.710",
+	"cpeLastModified": "2022-05-06T20:48:01.953",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:l340-17iwl_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "57019033-9D8D-4793-92DE-6E2B333D0707"
+		}
+	]
 }

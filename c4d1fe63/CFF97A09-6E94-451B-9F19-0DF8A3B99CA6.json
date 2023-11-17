@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:marvell:qconvergeconsole:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CFF97A09-6E94-451B-9F19-0DF8A3B99CA6",
-  "versionEndExcluding": "5.5.00.73",
-  "created": "2020-08-26T14:03:16.693",
-  "lastModified": "2020-08-26T14:03:16.693",
-  "cpeLastModified": "2020-08-26T17:39:19.427",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:marvell:qconvergeconsole:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E81BDC88-3BED-4E0A-9188-C94A7AFF3FF9"
-    }
-  ]
+	"criteria": "cpe:2.3:a:marvell:qconvergeconsole:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CFF97A09-6E94-451B-9F19-0DF8A3B99CA6",
+	"versionEndExcluding": "5.5.00.73",
+	"created": "2020-08-26T14:03:16.693",
+	"lastModified": "2020-08-26T14:03:16.693",
+	"cpeLastModified": "2020-08-26T17:39:19.427",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:marvell:qconvergeconsole:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E81BDC88-3BED-4E0A-9188-C94A7AFF3FF9"
+		}
+	]
 }

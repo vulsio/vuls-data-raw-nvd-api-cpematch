@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:emerson:se4052s1t2b6_high_side_40-pin_mass_i\\/o_terminal_block_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "70828150-6345-4FFC-9FB8-1BEDDB0EBF06",
-  "versionEndExcluding": "14.3",
-  "created": "2023-01-03T16:28:20.703",
-  "lastModified": "2023-01-05T14:49:39.527",
-  "cpeLastModified": "2023-01-05T14:49:39.527",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:emerson:se4052s1t2b6_high_side_40-pin_mass_i\\/o_terminal_block_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "04A08F38-C4A2-4AD8-A29E-00A884FB50A3"
-    }
-  ]
+	"criteria": "cpe:2.3:o:emerson:se4052s1t2b6_high_side_40-pin_mass_i\\/o_terminal_block_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "70828150-6345-4FFC-9FB8-1BEDDB0EBF06",
+	"versionEndExcluding": "14.3",
+	"created": "2023-01-03T16:28:20.703",
+	"lastModified": "2023-01-05T14:49:39.527",
+	"cpeLastModified": "2023-01-05T14:49:39.527",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:emerson:se4052s1t2b6_high_side_40-pin_mass_i\\/o_terminal_block_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "04A08F38-C4A2-4AD8-A29E-00A884FB50A3"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:samsung:charm_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A261E8CE-5B3F-4BF5-BC15-B3B515409685",
-  "versionEndExcluding": "1.2.3",
-  "created": "2022-08-09T14:03:48.323",
-  "lastModified": "2022-08-09T15:09:32.130",
-  "cpeLastModified": "2022-08-09T14:57:54.193",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:samsung:charm_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "7F1FFA0D-AEC9-4ED1-B28E-CBC76D4C1DCF"
-    }
-  ]
+	"criteria": "cpe:2.3:o:samsung:charm_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A261E8CE-5B3F-4BF5-BC15-B3B515409685",
+	"versionEndExcluding": "1.2.3",
+	"created": "2022-08-09T14:03:48.323",
+	"lastModified": "2022-08-09T15:09:32.130",
+	"cpeLastModified": "2022-08-09T14:57:54.193",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:samsung:charm_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7F1FFA0D-AEC9-4ED1-B28E-CBC76D4C1DCF"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:intel:atom_x3:c3205rk:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F752A3C8-18ED-4765-B6EC-C664154EB701",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2023-09-25T19:50:28.567",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:intel:atom_x3:c3205rk:*:*:*:*:*:*:*",
-      "cpeNameId": "BEDC62AD-F043-497F-8D3D-1EE1DDD94BD9"
-    }
-  ]
+	"criteria": "cpe:2.3:h:intel:atom_x3:c3205rk:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F752A3C8-18ED-4765-B6EC-C664154EB701",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2023-09-25T19:50:28.567",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:atom_x3:c3205rk:*:*:*:*:*:*:*",
+			"cpeNameId": "BEDC62AD-F043-497F-8D3D-1EE1DDD94BD9"
+		}
+	]
 }

@@ -1,18 +1,18 @@
 {
-  "criteria": "cpe:2.3:a:liferay:liferay_portal:7.2.1:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B795544D-19A9-47A6-B464-CE738F30378B",
-  "created": "2021-01-13T04:36:40.533",
-  "lastModified": "2021-01-13T04:36:40.533",
-  "cpeLastModified": "2021-03-31T19:54:36.443",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:liferay:liferay_portal:7.2.1:*:*:*:community:*:*:*",
-      "cpeNameId": "2EF18590-E013-4D91-B114-4FBB31C717BE"
-    },
-    {
-      "cpeName": "cpe:2.3:a:liferay:liferay_portal:7.2.1:ga2:*:*:community:*:*:*",
-      "cpeNameId": "08288095-0390-4C3D-ACCC-8EC14BAD3721"
-    }
-  ]
+	"criteria": "cpe:2.3:a:liferay:liferay_portal:7.2.1:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B795544D-19A9-47A6-B464-CE738F30378B",
+	"created": "2021-01-13T04:36:40.533",
+	"lastModified": "2021-01-13T04:36:40.533",
+	"cpeLastModified": "2021-03-31T19:54:36.443",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:liferay:liferay_portal:7.2.1:*:*:*:community:*:*:*",
+			"cpeNameId": "2EF18590-E013-4D91-B114-4FBB31C717BE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:liferay:liferay_portal:7.2.1:ga2:*:*:community:*:*:*",
+			"cpeNameId": "08288095-0390-4C3D-ACCC-8EC14BAD3721"
+		}
+	]
 }

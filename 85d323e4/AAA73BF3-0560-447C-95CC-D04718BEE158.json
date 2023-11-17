@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:samsung:gear_s_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AAA73BF3-0560-447C-95CC-D04718BEE158",
-  "versionEndExcluding": "5.5",
-  "created": "2021-06-15T16:14:36.200",
-  "lastModified": "2021-06-15T16:14:36.200",
-  "cpeLastModified": "2021-06-15T16:14:36.200",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:samsung:gear_s_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "CD0FA2E0-2372-42BE-AE70-FECFD89C3505"
-    }
-  ]
+	"criteria": "cpe:2.3:o:samsung:gear_s_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AAA73BF3-0560-447C-95CC-D04718BEE158",
+	"versionEndExcluding": "5.5",
+	"created": "2021-06-15T16:14:36.200",
+	"lastModified": "2021-06-15T16:14:36.200",
+	"cpeLastModified": "2021-06-15T16:14:36.200",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:samsung:gear_s_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CD0FA2E0-2372-42BE-AE70-FECFD89C3505"
+		}
+	]
 }

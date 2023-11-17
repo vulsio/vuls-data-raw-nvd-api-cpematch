@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:oracle:helidon:1.4.7:*:*:*:*:*:*:*",
-  "matchCriteriaId": "34CB181A-803A-4C8D-BB6A-8B7CE65C5A7E",
-  "created": "2022-04-29T13:34:25.950",
-  "lastModified": "2023-07-24T19:52:31.487",
-  "cpeLastModified": "2022-05-12T14:05:32.003",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:oracle:helidon:1.4.7:*:*:*:*:*:*:*",
-      "cpeNameId": "B4BC3A3F-A3C1-4833-B035-4CC5758E4BDA"
-    }
-  ]
+	"criteria": "cpe:2.3:a:oracle:helidon:1.4.7:*:*:*:*:*:*:*",
+	"matchCriteriaId": "34CB181A-803A-4C8D-BB6A-8B7CE65C5A7E",
+	"created": "2022-04-29T13:34:25.950",
+	"lastModified": "2023-07-24T19:52:31.487",
+	"cpeLastModified": "2022-05-12T14:05:32.003",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:helidon:1.4.7:*:*:*:*:*:*:*",
+			"cpeNameId": "B4BC3A3F-A3C1-4833-B035-4CC5758E4BDA"
+		}
+	]
 }

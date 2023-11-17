@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:netapp:baseboard_management_controller_h500e:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B09AB46C-8B35-4085-AD86-56EC06F665CB",
-  "created": "2022-02-23T11:32:57.290",
-  "lastModified": "2022-10-04T21:16:16.687",
-  "cpeLastModified": "2023-11-09T13:57:19.497",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:netapp:baseboard_management_controller_h500e:-:*:*:*:*:*:*:*",
-      "cpeNameId": "65302607-1EF1-4231-8836-E233D2FC3099"
-    }
-  ]
+	"criteria": "cpe:2.3:h:netapp:baseboard_management_controller_h500e:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B09AB46C-8B35-4085-AD86-56EC06F665CB",
+	"created": "2022-02-23T11:32:57.290",
+	"lastModified": "2022-10-04T21:16:16.687",
+	"cpeLastModified": "2023-11-09T13:57:19.497",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:netapp:baseboard_management_controller_h500e:-:*:*:*:*:*:*:*",
+			"cpeNameId": "65302607-1EF1-4231-8836-E233D2FC3099"
+		}
+	]
 }

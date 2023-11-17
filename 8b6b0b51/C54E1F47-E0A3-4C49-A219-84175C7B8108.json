@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:mitsubishielectric:fx3u-enet-l_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C54E1F47-E0A3-4C49-A219-84175C7B8108",
-  "versionEndIncluding": "1.14",
-  "created": "2021-07-28T13:24:00.910",
-  "lastModified": "2021-07-28T13:24:00.910",
-  "cpeLastModified": "2021-07-28T13:24:00.910",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:mitsubishielectric:fx3u-enet-l_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "EB96332E-3244-4B34-ABD7-84AB84C28E0B"
-    }
-  ]
+	"criteria": "cpe:2.3:o:mitsubishielectric:fx3u-enet-l_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C54E1F47-E0A3-4C49-A219-84175C7B8108",
+	"versionEndIncluding": "1.14",
+	"created": "2021-07-28T13:24:00.910",
+	"lastModified": "2021-07-28T13:24:00.910",
+	"cpeLastModified": "2021-07-28T13:24:00.910",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:mitsubishielectric:fx3u-enet-l_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EB96332E-3244-4B34-ABD7-84AB84C28E0B"
+		}
+	]
 }

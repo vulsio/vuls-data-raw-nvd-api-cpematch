@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:rubyonrails:rails:3.0.7:rc2:*:*:*:*:*:*",
-  "matchCriteriaId": "FF34D8CB-2B6D-4CB8-A206-108293BCFFE7",
-  "created": "2019-08-08T15:41:52.880",
-  "lastModified": "2019-08-08T15:41:52.880",
-  "cpeLastModified": "2019-08-08T15:41:52.880",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:rubyonrails:rails:3.0.7:rc2:*:*:*:*:*:*",
-      "cpeNameId": "B1AC8925-B40B-493B-9B6A-0DC03E00ADF0"
-    }
-  ]
+	"criteria": "cpe:2.3:a:rubyonrails:rails:3.0.7:rc2:*:*:*:*:*:*",
+	"matchCriteriaId": "FF34D8CB-2B6D-4CB8-A206-108293BCFFE7",
+	"created": "2019-08-08T15:41:52.880",
+	"lastModified": "2019-08-08T15:41:52.880",
+	"cpeLastModified": "2019-08-08T15:41:52.880",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:rubyonrails:rails:3.0.7:rc2:*:*:*:*:*:*",
+			"cpeNameId": "B1AC8925-B40B-493B-9B6A-0DC03E00ADF0"
+		}
+	]
 }

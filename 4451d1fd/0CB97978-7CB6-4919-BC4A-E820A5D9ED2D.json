@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:ibm:partner_engagement_manager:*:*:*:*:essentials:*:*:*",
-  "matchCriteriaId": "0CB97978-7CB6-4919-BC4A-E820A5D9ED2D",
-  "versionStartIncluding": "6.1.2",
-  "versionEndExcluding": "6.1.2.5",
-  "created": "2022-07-21T15:16:19.527",
-  "lastModified": "2022-07-21T15:16:19.527",
-  "cpeLastModified": "2022-04-06T20:07:17.193",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ibm:partner_engagement_manager:6.1.2.1:*:*:*:essentials:*:*:*",
-      "cpeNameId": "0115013E-232A-48F7-8A55-C1C1BE17CBE8"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ibm:partner_engagement_manager:*:*:*:*:essentials:*:*:*",
+	"matchCriteriaId": "0CB97978-7CB6-4919-BC4A-E820A5D9ED2D",
+	"versionStartIncluding": "6.1.2",
+	"versionEndExcluding": "6.1.2.5",
+	"created": "2022-07-21T15:16:19.527",
+	"lastModified": "2022-07-21T15:16:19.527",
+	"cpeLastModified": "2022-04-06T20:07:17.193",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ibm:partner_engagement_manager:6.1.2.1:*:*:*:essentials:*:*:*",
+			"cpeNameId": "0115013E-232A-48F7-8A55-C1C1BE17CBE8"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:linux:linux_kernel:4.4.223:*:*:*:*:*:*:*",
-  "matchCriteriaId": "702D72F9-8C90-4514-B995-AD978ED38DCD",
-  "created": "2023-01-24T13:39:55.837",
-  "lastModified": "2023-01-24T13:39:55.837",
-  "cpeLastModified": "2023-01-24T13:39:55.837",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:linux:linux_kernel:4.4.223:*:*:*:*:*:*:*",
-      "cpeNameId": "B91D2396-F745-44E4-9794-8A7B191D0EBE"
-    }
-  ]
+	"criteria": "cpe:2.3:o:linux:linux_kernel:4.4.223:*:*:*:*:*:*:*",
+	"matchCriteriaId": "702D72F9-8C90-4514-B995-AD978ED38DCD",
+	"created": "2023-01-24T13:39:55.837",
+	"lastModified": "2023-01-24T13:39:55.837",
+	"cpeLastModified": "2023-01-24T13:39:55.837",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:4.4.223:*:*:*:*:*:*:*",
+			"cpeNameId": "B91D2396-F745-44E4-9794-8A7B191D0EBE"
+		}
+	]
 }

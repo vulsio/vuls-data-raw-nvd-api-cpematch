@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:schneider-electric:tsxp576634_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "3CB6318A-9AEF-4C9D-9678-05208026AC8A",
-  "versionEndExcluding": "6.1",
-  "created": "2020-12-02T17:48:06.487",
-  "lastModified": "2020-12-02T17:48:06.487",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:schneider-electric:tsxp576634_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "D8AF7ECF-304F-44FF-9DB4-4A66B4AAEC77"
-    }
-  ]
+	"criteria": "cpe:2.3:o:schneider-electric:tsxp576634_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3CB6318A-9AEF-4C9D-9678-05208026AC8A",
+	"versionEndExcluding": "6.1",
+	"created": "2020-12-02T17:48:06.487",
+	"lastModified": "2020-12-02T17:48:06.487",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:schneider-electric:tsxp576634_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D8AF7ECF-304F-44FF-9DB4-4A66B4AAEC77"
+		}
+	]
 }

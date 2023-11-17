@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:o:opensuse:opensuse:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9A8362BB-5717-4714-BD92-220DDB646D07",
-  "versionStartIncluding": "10.3",
-  "versionEndIncluding": "11.0",
-  "created": "2020-07-31T12:45:00.910",
-  "lastModified": "2020-07-31T12:45:00.910",
-  "cpeLastModified": "2020-07-31T12:45:00.940",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:opensuse:opensuse:10.3:*:*:*:*:*:*:*",
-      "cpeNameId": "97FE28D1-0A76-40D8-AA6B-90A08B0D3702"
-    },
-    {
-      "cpeName": "cpe:2.3:o:opensuse:opensuse:11.0:*:*:*:*:*:*:*",
-      "cpeNameId": "50CF6CC6-24FD-4F75-8B2C-EEBE9E726AB9"
-    }
-  ]
+	"criteria": "cpe:2.3:o:opensuse:opensuse:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9A8362BB-5717-4714-BD92-220DDB646D07",
+	"versionStartIncluding": "10.3",
+	"versionEndIncluding": "11.0",
+	"created": "2020-07-31T12:45:00.910",
+	"lastModified": "2020-07-31T12:45:00.910",
+	"cpeLastModified": "2020-07-31T12:45:00.940",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:opensuse:opensuse:10.3:*:*:*:*:*:*:*",
+			"cpeNameId": "97FE28D1-0A76-40D8-AA6B-90A08B0D3702"
+		},
+		{
+			"cpeName": "cpe:2.3:o:opensuse:opensuse:11.0:*:*:*:*:*:*:*",
+			"cpeNameId": "50CF6CC6-24FD-4F75-8B2C-EEBE9E726AB9"
+		}
+	]
 }

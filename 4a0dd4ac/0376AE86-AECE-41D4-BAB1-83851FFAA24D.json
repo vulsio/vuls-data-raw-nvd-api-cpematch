@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:intel:xeon_d-2141i:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0376AE86-AECE-41D4-BAB1-83851FFAA24D",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:intel:xeon_d-2141i:-:*:*:*:*:*:*:*",
-      "cpeNameId": "D75F08C1-7752-43B2-A60E-475599DD3A9B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:intel:xeon_d-2141i:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0376AE86-AECE-41D4-BAB1-83851FFAA24D",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:intel:xeon_d-2141i:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D75F08C1-7752-43B2-A60E-475599DD3A9B"
+		}
+	]
 }

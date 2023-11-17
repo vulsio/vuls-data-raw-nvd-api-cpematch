@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:bosch:video_streaming_gateway:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8CD3166A-2B9C-4641-803C-BC4EBEF035F1",
-  "versionStartIncluding": "6.45",
-  "versionEndExcluding": "6.45.0008",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:bosch:video_streaming_gateway:6.45:*:*:*:*:*:*:*",
-      "cpeNameId": "DC4493FA-363C-4141-A092-0BF7D30726E0"
-    }
-  ]
+	"criteria": "cpe:2.3:a:bosch:video_streaming_gateway:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8CD3166A-2B9C-4641-803C-BC4EBEF035F1",
+	"versionStartIncluding": "6.45",
+	"versionEndExcluding": "6.45.0008",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:bosch:video_streaming_gateway:6.45:*:*:*:*:*:*:*",
+			"cpeNameId": "DC4493FA-363C-4141-A092-0BF7D30726E0"
+		}
+	]
 }

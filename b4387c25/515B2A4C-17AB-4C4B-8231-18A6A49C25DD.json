@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:k3s:k3s:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "515B2A4C-17AB-4C4B-8231-18A6A49C25DD",
-  "versionStartIncluding": "1.28.0",
-  "versionEndExcluding": "1.28.1\\+k3s1",
-  "created": "2023-09-20T15:53:22.580",
-  "lastModified": "2023-09-20T15:53:22.580",
-  "cpeLastModified": "2023-09-29T18:25:25.483",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:k3s:k3s:1.28.0:*:*:*:*:*:*:*",
-      "cpeNameId": "343C300B-C3E4-43F3-850E-05E069A67B27"
-    }
-  ]
+	"criteria": "cpe:2.3:a:k3s:k3s:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "515B2A4C-17AB-4C4B-8231-18A6A49C25DD",
+	"versionStartIncluding": "1.28.0",
+	"versionEndExcluding": "1.28.1\\+k3s1",
+	"created": "2023-09-20T15:53:22.580",
+	"lastModified": "2023-09-20T15:53:22.580",
+	"cpeLastModified": "2023-09-29T18:25:25.483",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:k3s:k3s:1.28.0:*:*:*:*:*:*:*",
+			"cpeNameId": "343C300B-C3E4-43F3-850E-05E069A67B27"
+		}
+	]
 }

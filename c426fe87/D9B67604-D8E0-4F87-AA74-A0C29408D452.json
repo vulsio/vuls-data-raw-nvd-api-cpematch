@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:os4ed:opensis:*:*:*:*:community:*:*:*",
-  "matchCriteriaId": "D9B67604-D8E0-4F87-AA74-A0C29408D452",
-  "versionEndExcluding": "7.5",
-  "created": "2020-12-04T16:23:51.133",
-  "lastModified": "2020-12-04T16:23:51.133",
-  "cpeLastModified": "2020-12-04T16:23:51.167",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:os4ed:opensis:7.3:*:*:*:community:*:*:*",
-      "cpeNameId": "238C4C42-0DC6-427F-8D2B-3BE73B70A846"
-    }
-  ]
+	"criteria": "cpe:2.3:a:os4ed:opensis:*:*:*:*:community:*:*:*",
+	"matchCriteriaId": "D9B67604-D8E0-4F87-AA74-A0C29408D452",
+	"versionEndExcluding": "7.5",
+	"created": "2020-12-04T16:23:51.133",
+	"lastModified": "2020-12-04T16:23:51.133",
+	"cpeLastModified": "2020-12-04T16:23:51.167",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:os4ed:opensis:7.3:*:*:*:community:*:*:*",
+			"cpeNameId": "238C4C42-0DC6-427F-8D2B-3BE73B70A846"
+		}
+	]
 }

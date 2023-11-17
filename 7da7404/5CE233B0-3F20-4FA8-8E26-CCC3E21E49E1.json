@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:siemens:sppa-t3000_application_server:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5CE233B0-3F20-4FA8-8E26-CCC3E21E49E1",
-  "versionEndExcluding": "r8.2",
-  "created": "2022-02-23T19:06:18.347",
-  "lastModified": "2022-02-23T19:06:18.347",
-  "cpeLastModified": "2022-03-04T20:09:31.507",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:siemens:sppa-t3000_application_server:-:*:*:*:*:*:*:*",
-      "cpeNameId": "EAD3A7EA-B9EA-4E55-AEDA-F52718BC01C7"
-    }
-  ]
+	"criteria": "cpe:2.3:a:siemens:sppa-t3000_application_server:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5CE233B0-3F20-4FA8-8E26-CCC3E21E49E1",
+	"versionEndExcluding": "r8.2",
+	"created": "2022-02-23T19:06:18.347",
+	"lastModified": "2022-02-23T19:06:18.347",
+	"cpeLastModified": "2022-03-04T20:09:31.507",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:siemens:sppa-t3000_application_server:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EAD3A7EA-B9EA-4E55-AEDA-F52718BC01C7"
+		}
+	]
 }

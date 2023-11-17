@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:weave.works:gitops:0.9.0:rc1:*:*:enterprise:*:*:*",
-  "matchCriteriaId": "F66ECC59-69EA-4668-9D9A-F7001FE34034",
-  "created": "2022-09-07T14:34:39.627",
-  "lastModified": "2022-09-07T14:34:39.627",
-  "cpeLastModified": "2022-09-07T16:18:13.903",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:weave.works:gitops:0.9.0:rc1:*:*:enterprise:*:*:*",
-      "cpeNameId": "02D42ABA-60E0-4410-B238-EADA512E4BD9"
-    }
-  ]
+	"criteria": "cpe:2.3:a:weave.works:gitops:0.9.0:rc1:*:*:enterprise:*:*:*",
+	"matchCriteriaId": "F66ECC59-69EA-4668-9D9A-F7001FE34034",
+	"created": "2022-09-07T14:34:39.627",
+	"lastModified": "2022-09-07T14:34:39.627",
+	"cpeLastModified": "2022-09-07T16:18:13.903",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:weave.works:gitops:0.9.0:rc1:*:*:enterprise:*:*:*",
+			"cpeNameId": "02D42ABA-60E0-4410-B238-EADA512E4BD9"
+		}
+	]
 }

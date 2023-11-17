@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:mitsubishi:ae-200a_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "70AC9C1D-4AE3-430F-98F0-6A4944725B58",
-  "versionEndIncluding": "7.93",
-  "created": "2021-07-30T17:56:38.310",
-  "lastModified": "2021-07-30T17:56:38.310",
-  "cpeLastModified": "2022-06-13T17:32:14.953",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:mitsubishi:ae-200a_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "5F6DB8E9-1ADD-4708-8898-B4FDEF7E0006"
-    }
-  ]
+	"criteria": "cpe:2.3:o:mitsubishi:ae-200a_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "70AC9C1D-4AE3-430F-98F0-6A4944725B58",
+	"versionEndIncluding": "7.93",
+	"created": "2021-07-30T17:56:38.310",
+	"lastModified": "2021-07-30T17:56:38.310",
+	"cpeLastModified": "2022-06-13T17:32:14.953",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:mitsubishi:ae-200a_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5F6DB8E9-1ADD-4708-8898-B4FDEF7E0006"
+		}
+	]
 }

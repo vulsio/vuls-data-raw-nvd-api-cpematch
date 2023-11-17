@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:acer:veriton_e430_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "3DF01945-D1B8-46FB-ADB1-E6961CD62304",
-  "versionEndExcluding": "p11.a4",
-  "created": "2022-09-26T12:26:35.150",
-  "lastModified": "2022-09-26T12:26:35.150",
-  "cpeLastModified": "2022-09-26T15:45:52.243",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:acer:veriton_e430_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "7BB6A504-CD9E-4F37-A9BE-2F74EDB0DC8C"
-    }
-  ]
+	"criteria": "cpe:2.3:o:acer:veriton_e430_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3DF01945-D1B8-46FB-ADB1-E6961CD62304",
+	"versionEndExcluding": "p11.a4",
+	"created": "2022-09-26T12:26:35.150",
+	"lastModified": "2022-09-26T12:26:35.150",
+	"cpeLastModified": "2022-09-26T15:45:52.243",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:acer:veriton_e430_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7BB6A504-CD9E-4F37-A9BE-2F74EDB0DC8C"
+		}
+	]
 }

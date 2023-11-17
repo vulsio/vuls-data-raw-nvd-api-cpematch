@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:automattic:woocommerce_payments:5.3.0:*:*:*:*:wordpress:*:*",
-  "matchCriteriaId": "6E5B3312-7F9A-46AE-B023-40005330E699",
-  "created": "2023-04-18T14:50:50.230",
-  "lastModified": "2023-04-18T15:28:05.487",
-  "cpeLastModified": "2023-04-18T15:28:05.487",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:automattic:woocommerce_payments:5.3.0:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "334EAEE3-6DA6-49D8-A2FD-7E5CE6BDA402"
-    }
-  ]
+	"criteria": "cpe:2.3:a:automattic:woocommerce_payments:5.3.0:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "6E5B3312-7F9A-46AE-B023-40005330E699",
+	"created": "2023-04-18T14:50:50.230",
+	"lastModified": "2023-04-18T15:28:05.487",
+	"cpeLastModified": "2023-04-18T15:28:05.487",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:automattic:woocommerce_payments:5.3.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "334EAEE3-6DA6-49D8-A2FD-7E5CE6BDA402"
+		}
+	]
 }

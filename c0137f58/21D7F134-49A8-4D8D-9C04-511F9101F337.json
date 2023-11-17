@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:cisco:a99-rsp-se:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "21D7F134-49A8-4D8D-9C04-511F9101F337",
-  "created": "2020-11-13T18:29:37.230",
-  "lastModified": "2020-11-13T18:29:37.230",
-  "cpeLastModified": "2020-12-18T14:16:52.123",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:cisco:a99-rsp-se:-:*:*:*:*:*:*:*",
-      "cpeNameId": "082940DD-11A4-4A1F-9E36-939982E3F94E"
-    }
-  ]
+	"criteria": "cpe:2.3:h:cisco:a99-rsp-se:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "21D7F134-49A8-4D8D-9C04-511F9101F337",
+	"created": "2020-11-13T18:29:37.230",
+	"lastModified": "2020-11-13T18:29:37.230",
+	"cpeLastModified": "2020-12-18T14:16:52.123",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:cisco:a99-rsp-se:-:*:*:*:*:*:*:*",
+			"cpeNameId": "082940DD-11A4-4A1F-9E36-939982E3F94E"
+		}
+	]
 }

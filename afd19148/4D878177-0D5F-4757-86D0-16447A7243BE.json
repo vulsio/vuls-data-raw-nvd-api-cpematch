@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:ellucian:banner_enterprise_identity_services:8.3:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4D878177-0D5F-4757-86D0-16447A7243BE",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ellucian:banner_enterprise_identity_services:8.3:*:*:*:*:*:*:*",
-      "cpeNameId": "CCECA927-882D-4CBC-85F0-C8F825180E53"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ellucian:banner_enterprise_identity_services:8.3:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4D878177-0D5F-4757-86D0-16447A7243BE",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ellucian:banner_enterprise_identity_services:8.3:*:*:*:*:*:*:*",
+			"cpeNameId": "CCECA927-882D-4CBC-85F0-C8F825180E53"
+		}
+	]
 }

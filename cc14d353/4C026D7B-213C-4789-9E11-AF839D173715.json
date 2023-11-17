@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:oracle:application_express_survey_builder:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4C026D7B-213C-4789-9E11-AF839D173715",
-  "versionEndExcluding": "20.2",
-  "created": "2021-01-25T15:11:11.690",
-  "lastModified": "2021-01-25T15:11:11.690",
-  "cpeLastModified": "2021-01-25T15:37:08.483",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:oracle:application_express_survey_builder:-:*:*:*:*:*:*:*",
-      "cpeNameId": "4D61224B-3715-41B6-B0EF-D6A9A04D4D5E"
-    }
-  ]
+	"criteria": "cpe:2.3:a:oracle:application_express_survey_builder:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4C026D7B-213C-4789-9E11-AF839D173715",
+	"versionEndExcluding": "20.2",
+	"created": "2021-01-25T15:11:11.690",
+	"lastModified": "2021-01-25T15:11:11.690",
+	"cpeLastModified": "2021-01-25T15:37:08.483",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:application_express_survey_builder:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4D61224B-3715-41B6-B0EF-D6A9A04D4D5E"
+		}
+	]
 }

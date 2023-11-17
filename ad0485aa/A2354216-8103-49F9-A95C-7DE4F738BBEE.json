@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:microsoft:windows_98se:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A2354216-8103-49F9-A95C-7DE4F738BBEE",
-  "created": "2020-12-09T14:55:25.380",
-  "lastModified": "2020-12-09T14:55:25.380",
-  "cpeLastModified": "2020-12-09T14:55:25.393",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:microsoft:windows_98se:-:*:*:*:*:*:*:*",
-      "cpeNameId": "47812FB0-1B1D-4334-951B-71BB7C77A4FB"
-    }
-  ]
+	"criteria": "cpe:2.3:o:microsoft:windows_98se:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A2354216-8103-49F9-A95C-7DE4F738BBEE",
+	"created": "2020-12-09T14:55:25.380",
+	"lastModified": "2020-12-09T14:55:25.380",
+	"cpeLastModified": "2020-12-09T14:55:25.393",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_98se:-:*:*:*:*:*:*:*",
+			"cpeNameId": "47812FB0-1B1D-4334-951B-71BB7C77A4FB"
+		}
+	]
 }

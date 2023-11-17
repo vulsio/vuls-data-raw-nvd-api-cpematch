@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:siemens:sidoor_atd430w_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8942783A-1668-4AD7-BED2-F431A2F17768",
-  "created": "2020-04-15T14:02:29.620",
-  "lastModified": "2020-04-15T14:02:29.620",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:sidoor_atd430w_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "FEF168D7-D44A-44B9-98A8-E21EF2C652F6"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:sidoor_atd430w_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8942783A-1668-4AD7-BED2-F431A2F17768",
+	"created": "2020-04-15T14:02:29.620",
+	"lastModified": "2020-04-15T14:02:29.620",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:sidoor_atd430w_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FEF168D7-D44A-44B9-98A8-E21EF2C652F6"
+		}
+	]
 }

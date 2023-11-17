@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:qualcomm:qcn3018_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7D7BE08E-3B98-40CD-97F8-F504AC05E4DF",
-  "created": "2021-02-25T12:30:47.603",
-  "lastModified": "2021-02-25T12:30:47.603",
-  "cpeLastModified": "2021-02-25T12:34:39.237",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:qualcomm:qcn3018_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "C0E231C3-61F5-4E91-B206-D6F19E4AF5A6"
-    }
-  ]
+	"criteria": "cpe:2.3:o:qualcomm:qcn3018_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7D7BE08E-3B98-40CD-97F8-F504AC05E4DF",
+	"created": "2021-02-25T12:30:47.603",
+	"lastModified": "2021-02-25T12:30:47.603",
+	"cpeLastModified": "2021-02-25T12:34:39.237",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:qualcomm:qcn3018_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C0E231C3-61F5-4E91-B206-D6F19E4AF5A6"
+		}
+	]
 }

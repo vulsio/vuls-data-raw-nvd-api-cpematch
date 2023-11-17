@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:scratch-wiki:scratch_login:*:*:*:*:*:mediawiki:*:*",
-  "matchCriteriaId": "20B714AF-3991-4F6C-904B-9ACAD052FECB",
-  "versionEndExcluding": "1.1",
-  "created": "2020-08-28T20:02:57.417",
-  "lastModified": "2020-08-28T20:02:57.417",
-  "cpeLastModified": "2021-11-18T17:42:29.113",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:scratch-wiki:scratch_login:-:*:*:*:*:mediawiki:*:*",
-      "cpeNameId": "3CC66DF9-CECE-42EE-AC51-D37806786958"
-    }
-  ]
+	"criteria": "cpe:2.3:a:scratch-wiki:scratch_login:*:*:*:*:*:mediawiki:*:*",
+	"matchCriteriaId": "20B714AF-3991-4F6C-904B-9ACAD052FECB",
+	"versionEndExcluding": "1.1",
+	"created": "2020-08-28T20:02:57.417",
+	"lastModified": "2020-08-28T20:02:57.417",
+	"cpeLastModified": "2021-11-18T17:42:29.113",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:scratch-wiki:scratch_login:-:*:*:*:*:mediawiki:*:*",
+			"cpeNameId": "3CC66DF9-CECE-42EE-AC51-D37806786958"
+		}
+	]
 }

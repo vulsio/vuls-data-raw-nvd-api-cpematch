@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:server_platform_services_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C9BE1C00-6AAB-4402-98B8-8D68DFF1358E",
-  "versionEndExcluding": "4.0",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-12T17:14:03.597",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:server_platform_services_firmware:3.0.6.267.4:*:*:*:*:*:*:*",
-      "cpeNameId": "AD248614-FB87-4234-9727-D1BEFF9B8A9B"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:server_platform_services_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C9BE1C00-6AAB-4402-98B8-8D68DFF1358E",
+	"versionEndExcluding": "4.0",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-12T17:14:03.597",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:server_platform_services_firmware:3.0.6.267.4:*:*:*:*:*:*:*",
+			"cpeNameId": "AD248614-FB87-4234-9727-D1BEFF9B8A9B"
+		}
+	]
 }

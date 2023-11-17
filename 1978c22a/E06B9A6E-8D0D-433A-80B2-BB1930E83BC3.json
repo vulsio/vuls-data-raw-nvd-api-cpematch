@@ -1,24 +1,24 @@
 {
-  "criteria": "cpe:2.3:a:insyde:insydeh2o:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E06B9A6E-8D0D-433A-80B2-BB1930E83BC3",
-  "versionStartIncluding": "5.3",
-  "versionEndExcluding": "5.3.05.37.33",
-  "created": "2023-11-15T17:24:18.887",
-  "lastModified": "2023-11-15T17:24:18.887",
-  "cpeLastModified": "2023-11-15T17:24:18.887",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:insyde:insydeh2o:5.3:*:*:*:*:*:*:*",
-      "cpeNameId": "5C9AFB7A-4BF0-4E7C-A9F7-9DE25D2CF172"
-    },
-    {
-      "cpeName": "cpe:2.3:a:insyde:insydeh2o:5.3.05.37.17:*:*:*:*:*:*:*",
-      "cpeNameId": "175BE7AB-24FE-4B03-9D6B-A29719F9F6AA"
-    },
-    {
-      "cpeName": "cpe:2.3:a:insyde:insydeh2o:5.3.05.37.22:*:*:*:*:*:*:*",
-      "cpeNameId": "8FB1EA76-67E0-439D-81EB-C21E6460DCAC"
-    }
-  ]
+	"criteria": "cpe:2.3:a:insyde:insydeh2o:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E06B9A6E-8D0D-433A-80B2-BB1930E83BC3",
+	"versionStartIncluding": "5.3",
+	"versionEndExcluding": "5.3.05.37.33",
+	"created": "2023-11-15T17:24:18.887",
+	"lastModified": "2023-11-15T17:24:18.887",
+	"cpeLastModified": "2023-11-15T17:24:18.887",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:insyde:insydeh2o:5.3:*:*:*:*:*:*:*",
+			"cpeNameId": "5C9AFB7A-4BF0-4E7C-A9F7-9DE25D2CF172"
+		},
+		{
+			"cpeName": "cpe:2.3:a:insyde:insydeh2o:5.3.05.37.17:*:*:*:*:*:*:*",
+			"cpeNameId": "175BE7AB-24FE-4B03-9D6B-A29719F9F6AA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:insyde:insydeh2o:5.3.05.37.22:*:*:*:*:*:*:*",
+			"cpeNameId": "8FB1EA76-67E0-439D-81EB-C21E6460DCAC"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:vostro_5515_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "536E4991-87A0-4AA7-9668-FC3B81EBE2DC",
-  "versionEndExcluding": "1.7.1",
-  "created": "2022-06-07T16:28:23.013",
-  "lastModified": "2022-06-07T16:28:23.013",
-  "cpeLastModified": "2022-06-08T13:14:44.890",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:vostro_5515_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "403AAF69-A45B-4F66-AB47-CE1CC6ED9051"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:vostro_5515_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "536E4991-87A0-4AA7-9668-FC3B81EBE2DC",
+	"versionEndExcluding": "1.7.1",
+	"created": "2022-06-07T16:28:23.013",
+	"lastModified": "2022-06-07T16:28:23.013",
+	"cpeLastModified": "2022-06-08T13:14:44.890",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:vostro_5515_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "403AAF69-A45B-4F66-AB47-CE1CC6ED9051"
+		}
+	]
 }

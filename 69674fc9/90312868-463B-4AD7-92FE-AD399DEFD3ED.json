@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:apple:shazam:*:*:*:*:*:android:*:*",
-  "matchCriteriaId": "90312868-463B-4AD7-92FE-AD399DEFD3ED",
-  "versionEndExcluding": "12.11.0",
-  "created": "2020-01-02T18:42:25.560",
-  "lastModified": "2020-01-02T18:42:25.560",
-  "cpeLastModified": "2020-01-13T15:14:00.250",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:apple:shazam:-:*:*:*:*:android:*:*",
-      "cpeNameId": "291299CF-5BA0-4EAE-8FAB-E5DC72EC8678"
-    }
-  ]
+	"criteria": "cpe:2.3:a:apple:shazam:*:*:*:*:*:android:*:*",
+	"matchCriteriaId": "90312868-463B-4AD7-92FE-AD399DEFD3ED",
+	"versionEndExcluding": "12.11.0",
+	"created": "2020-01-02T18:42:25.560",
+	"lastModified": "2020-01-02T18:42:25.560",
+	"cpeLastModified": "2020-01-13T15:14:00.250",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apple:shazam:-:*:*:*:*:android:*:*",
+			"cpeNameId": "291299CF-5BA0-4EAE-8FAB-E5DC72EC8678"
+		}
+	]
 }

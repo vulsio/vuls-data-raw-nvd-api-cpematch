@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:monkey-project:monkey:0.30.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "BE528193-12D9-44A5-9778-58F3444280E2",
-  "created": "2020-03-26T14:24:34.580",
-  "lastModified": "2020-03-26T14:24:34.580",
-  "cpeLastModified": "2020-03-26T14:24:34.580",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:monkey-project:monkey:0.30.0:*:*:*:*:*:*:*",
-      "cpeNameId": "8FE14A3E-1C6D-4ABB-B9E6-88CC45D0D220"
-    }
-  ]
+	"criteria": "cpe:2.3:a:monkey-project:monkey:0.30.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BE528193-12D9-44A5-9778-58F3444280E2",
+	"created": "2020-03-26T14:24:34.580",
+	"lastModified": "2020-03-26T14:24:34.580",
+	"cpeLastModified": "2020-03-26T14:24:34.580",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:monkey-project:monkey:0.30.0:*:*:*:*:*:*:*",
+			"cpeNameId": "8FE14A3E-1C6D-4ABB-B9E6-88CC45D0D220"
+		}
+	]
 }

@@ -1,163 +1,163 @@
 {
-  "criteria": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E9FF3515-61C7-4A7A-9781-6D4A0340B2EC",
-  "versionEndExcluding": "12.5",
-  "created": "2022-07-29T15:11:30.963",
-  "lastModified": "2022-07-29T15:11:30.963",
-  "cpeLastModified": "2021-08-09T15:58:30.800",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:7.2:7020:*:*:*:*:*:*",
-      "cpeNameId": "725F2E57-05AD-4F46-A814-FC1A19F9FE00"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:7.2:7021:*:*:*:*:*:*",
-      "cpeNameId": "D12E6643-F414-4A47-9897-8103765EA75B"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:7.4:7400:*:*:*:*:*:*",
-      "cpeNameId": "6077366B-0FB5-4A65-A3C9-B045503ABA7A"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:7.6:*:*:*:*:*:*:*",
-      "cpeNameId": "20BEC03A-0EA9-4AA0-B8CA-3462C89C6D5C"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:7.6:7600:*:*:*:*:*:*",
-      "cpeNameId": "1EC53711-F395-4FFA-A568-E06740DC3050"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:8.0:8000:*:*:*:*:*:*",
-      "cpeNameId": "0A910DCF-D6AE-4C8E-AE3F-7E6F3F80B383"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:8.1:8110:*:*:*:*:*:*",
-      "cpeNameId": "193660FE-214C-44C0-ADAE-D83C9C3FC1BB"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:8.3:8300:*:*:*:*:*:*",
-      "cpeNameId": "44DEA3D7-2DDC-4067-B1F1-CBF91B8CA3BF"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:8.5:8500:*:*:*:*:*:*",
-      "cpeNameId": "47712808-E656-47E1-A427-8CB48BA19912"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.0:12000:*:*:*:*:*:*",
-      "cpeNameId": "7A6A5807-33D2-4834-9C08-65B6C5005961"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.2:12200:*:*:*:*:*:*",
-      "cpeNameId": "3438A979-2551-4CEF-A4A5-8DA64D1DDE88"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:12300:*:*:*:*:*:*",
-      "cpeNameId": "73244B44-907B-4B33-8A70-6BBC8EC76B20"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123008:*:*:*:*:*:*",
-      "cpeNameId": "9D3F6C84-891E-4490-B434-8380897EDCF4"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123027:*:*:*:*:*:*",
-      "cpeNameId": "3E246347-C54B-48B2-9EDC-070DC02BF786"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123045:*:*:*:*:*:*",
-      "cpeNameId": "45659B1E-1B3B-4842-A153-5090B4248CFE"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123057:*:*:*:*:*:*",
-      "cpeNameId": "619665DA-2EFE-4976-BC61-BFBEF9771386"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123064:*:*:*:*:*:*",
-      "cpeNameId": "51F4C8D7-F999-482F-B9DB-067C3A8E7639"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123070:*:*:*:*:*:*",
-      "cpeNameId": "35AFEE01-1BB8-4949-8AEE-E8697B1B7F12"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123083:*:*:*:*:*:*",
-      "cpeNameId": "3635591D-5916-4E08-8F8F-4AAE42781BC3"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123092:*:*:*:*:*:*",
-      "cpeNameId": "457E3794-AE8F-424F-934C-3A35DBBF0099"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123126:*:*:*:*:*:*",
-      "cpeNameId": "8CD40514-DE9E-400F-8121-17302A67C5ED"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123129:*:*:*:*:*:*",
-      "cpeNameId": "8D678961-A182-458B-89BF-885BBC146F9B"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123137:*:*:*:*:*:*",
-      "cpeNameId": "371E6466-40A5-4B7E-8A90-91B58FB45C36"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123151:*:*:*:*:*:*",
-      "cpeNameId": "EFA705EF-1B9C-4A49-BDD1-CD577A9BA25B"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123156:*:*:*:*:*:*",
-      "cpeNameId": "1C91878D-5B0E-4984-B00A-77C89E64B991"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123164:*:*:*:*:*:*",
-      "cpeNameId": "FED7F07E-CD66-45B2-9735-C04E0EA66839"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123169:*:*:*:*:*:*",
-      "cpeNameId": "1FAD121E-0EAA-4275-98D7-043011D951CD"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123177:*:*:*:*:*:*",
-      "cpeNameId": "00DB6343-E63B-4751-868F-BC1A305BCFE9"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123182:*:*:*:*:*:*",
-      "cpeNameId": "33BE9579-EA25-456D-949C-A580D483E9EB"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123185:*:*:*:*:*:*",
-      "cpeNameId": "53760E6A-65E0-4C83-BB37-B33A1492F9BF"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123186:*:*:*:*:*:*",
-      "cpeNameId": "77360858-87CB-49B8-94DF-1C4848E8D296"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123194:*:*:*:*:*:*",
-      "cpeNameId": "738A7B12-19F8-4611-875F-E107672C2742"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123197:*:*:*:*:*:*",
-      "cpeNameId": "968CAED2-9A78-4814-A151-EFA5276096ED"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123208:*:*:*:*:*:*",
-      "cpeNameId": "92421186-594C-46CA-B670-8DCAD37C9151"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123218:*:*:*:*:*:*",
-      "cpeNameId": "AD681732-F720-462D-9EAD-7072504D98C3"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123222:*:*:*:*:*:*",
-      "cpeNameId": "36DC5F0F-508C-4EC6-B03E-05167104BA45"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123223:*:*:*:*:*:*",
-      "cpeNameId": "22726019-334B-4500-8BC2-907991BD46F9"
-    },
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.4:124072:*:*:*:*:*:*",
-      "cpeNameId": "0783D72E-AE18-49F8-88C9-2EAB37F89C3C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E9FF3515-61C7-4A7A-9781-6D4A0340B2EC",
+	"versionEndExcluding": "12.5",
+	"created": "2022-07-29T15:11:30.963",
+	"lastModified": "2022-07-29T15:11:30.963",
+	"cpeLastModified": "2021-08-09T15:58:30.800",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:7.2:7020:*:*:*:*:*:*",
+			"cpeNameId": "725F2E57-05AD-4F46-A814-FC1A19F9FE00"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:7.2:7021:*:*:*:*:*:*",
+			"cpeNameId": "D12E6643-F414-4A47-9897-8103765EA75B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:7.4:7400:*:*:*:*:*:*",
+			"cpeNameId": "6077366B-0FB5-4A65-A3C9-B045503ABA7A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:7.6:*:*:*:*:*:*:*",
+			"cpeNameId": "20BEC03A-0EA9-4AA0-B8CA-3462C89C6D5C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:7.6:7600:*:*:*:*:*:*",
+			"cpeNameId": "1EC53711-F395-4FFA-A568-E06740DC3050"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:8.0:8000:*:*:*:*:*:*",
+			"cpeNameId": "0A910DCF-D6AE-4C8E-AE3F-7E6F3F80B383"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:8.1:8110:*:*:*:*:*:*",
+			"cpeNameId": "193660FE-214C-44C0-ADAE-D83C9C3FC1BB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:8.3:8300:*:*:*:*:*:*",
+			"cpeNameId": "44DEA3D7-2DDC-4067-B1F1-CBF91B8CA3BF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:8.5:8500:*:*:*:*:*:*",
+			"cpeNameId": "47712808-E656-47E1-A427-8CB48BA19912"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.0:12000:*:*:*:*:*:*",
+			"cpeNameId": "7A6A5807-33D2-4834-9C08-65B6C5005961"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.2:12200:*:*:*:*:*:*",
+			"cpeNameId": "3438A979-2551-4CEF-A4A5-8DA64D1DDE88"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:12300:*:*:*:*:*:*",
+			"cpeNameId": "73244B44-907B-4B33-8A70-6BBC8EC76B20"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123008:*:*:*:*:*:*",
+			"cpeNameId": "9D3F6C84-891E-4490-B434-8380897EDCF4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123027:*:*:*:*:*:*",
+			"cpeNameId": "3E246347-C54B-48B2-9EDC-070DC02BF786"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123045:*:*:*:*:*:*",
+			"cpeNameId": "45659B1E-1B3B-4842-A153-5090B4248CFE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123057:*:*:*:*:*:*",
+			"cpeNameId": "619665DA-2EFE-4976-BC61-BFBEF9771386"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123064:*:*:*:*:*:*",
+			"cpeNameId": "51F4C8D7-F999-482F-B9DB-067C3A8E7639"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123070:*:*:*:*:*:*",
+			"cpeNameId": "35AFEE01-1BB8-4949-8AEE-E8697B1B7F12"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123083:*:*:*:*:*:*",
+			"cpeNameId": "3635591D-5916-4E08-8F8F-4AAE42781BC3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123092:*:*:*:*:*:*",
+			"cpeNameId": "457E3794-AE8F-424F-934C-3A35DBBF0099"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123126:*:*:*:*:*:*",
+			"cpeNameId": "8CD40514-DE9E-400F-8121-17302A67C5ED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123129:*:*:*:*:*:*",
+			"cpeNameId": "8D678961-A182-458B-89BF-885BBC146F9B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123137:*:*:*:*:*:*",
+			"cpeNameId": "371E6466-40A5-4B7E-8A90-91B58FB45C36"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123151:*:*:*:*:*:*",
+			"cpeNameId": "EFA705EF-1B9C-4A49-BDD1-CD577A9BA25B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123156:*:*:*:*:*:*",
+			"cpeNameId": "1C91878D-5B0E-4984-B00A-77C89E64B991"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123164:*:*:*:*:*:*",
+			"cpeNameId": "FED7F07E-CD66-45B2-9735-C04E0EA66839"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123169:*:*:*:*:*:*",
+			"cpeNameId": "1FAD121E-0EAA-4275-98D7-043011D951CD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123177:*:*:*:*:*:*",
+			"cpeNameId": "00DB6343-E63B-4751-868F-BC1A305BCFE9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123182:*:*:*:*:*:*",
+			"cpeNameId": "33BE9579-EA25-456D-949C-A580D483E9EB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123185:*:*:*:*:*:*",
+			"cpeNameId": "53760E6A-65E0-4C83-BB37-B33A1492F9BF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123186:*:*:*:*:*:*",
+			"cpeNameId": "77360858-87CB-49B8-94DF-1C4848E8D296"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123194:*:*:*:*:*:*",
+			"cpeNameId": "738A7B12-19F8-4611-875F-E107672C2742"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123197:*:*:*:*:*:*",
+			"cpeNameId": "968CAED2-9A78-4814-A151-EFA5276096ED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123208:*:*:*:*:*:*",
+			"cpeNameId": "92421186-594C-46CA-B670-8DCAD37C9151"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123218:*:*:*:*:*:*",
+			"cpeNameId": "AD681732-F720-462D-9EAD-7072504D98C3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123222:*:*:*:*:*:*",
+			"cpeNameId": "36DC5F0F-508C-4EC6-B03E-05167104BA45"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.3:123223:*:*:*:*:*:*",
+			"cpeNameId": "22726019-334B-4500-8BC2-907991BD46F9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.4:124072:*:*:*:*:*:*",
+			"cpeNameId": "0783D72E-AE18-49F8-88C9-2EAB37F89C3C"
+		}
+	]
 }

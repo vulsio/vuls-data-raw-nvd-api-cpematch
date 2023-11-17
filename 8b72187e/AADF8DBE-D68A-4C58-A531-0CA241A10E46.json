@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:ideapad_1-11ada05_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AADF8DBE-D68A-4C58-A531-0CA241A10E46",
-  "versionEndExcluding": "fqcn29ww",
-  "created": "2023-08-24T16:14:08.327",
-  "lastModified": "2023-08-24T16:14:08.327",
-  "cpeLastModified": "2023-08-24T16:14:08.327",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:ideapad_1-11ada05_firmware:fqcn19ww:*:*:*:*:*:*:*",
-      "cpeNameId": "841EAF94-C8BF-4400-990A-5AAEB8E4FC28"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:ideapad_1-11ada05_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AADF8DBE-D68A-4C58-A531-0CA241A10E46",
+	"versionEndExcluding": "fqcn29ww",
+	"created": "2023-08-24T16:14:08.327",
+	"lastModified": "2023-08-24T16:14:08.327",
+	"cpeLastModified": "2023-08-24T16:14:08.327",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:ideapad_1-11ada05_firmware:fqcn19ww:*:*:*:*:*:*:*",
+			"cpeNameId": "841EAF94-C8BF-4400-990A-5AAEB8E4FC28"
+		}
+	]
 }

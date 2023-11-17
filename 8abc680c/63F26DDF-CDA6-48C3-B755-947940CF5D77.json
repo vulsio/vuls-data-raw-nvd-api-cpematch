@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:yamaha:rtx3500_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "63F26DDF-CDA6-48C3-B755-947940CF5D77",
-  "versionEndIncluding": "14.00.26",
-  "created": "2020-04-01T13:35:48.027",
-  "lastModified": "2020-04-01T13:35:48.027",
-  "cpeLastModified": "2020-04-14T14:22:05.593",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:yamaha:rtx3500_firmware:14.00.26:*:*:*:*:*:*:*",
-      "cpeNameId": "6F1EC8F5-C019-4C3F-BC78-953D69AEDD8A"
-    }
-  ]
+	"criteria": "cpe:2.3:o:yamaha:rtx3500_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "63F26DDF-CDA6-48C3-B755-947940CF5D77",
+	"versionEndIncluding": "14.00.26",
+	"created": "2020-04-01T13:35:48.027",
+	"lastModified": "2020-04-01T13:35:48.027",
+	"cpeLastModified": "2020-04-14T14:22:05.593",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:yamaha:rtx3500_firmware:14.00.26:*:*:*:*:*:*:*",
+			"cpeNameId": "6F1EC8F5-C019-4C3F-BC78-953D69AEDD8A"
+		}
+	]
 }

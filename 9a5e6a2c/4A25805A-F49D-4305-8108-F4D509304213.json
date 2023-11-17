@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:automationdirect:c0-12dd2e-1-d_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4A25805A-F49D-4305-8108-F4D509304213",
-  "versionEndExcluding": "3.00",
-  "created": "2022-04-12T14:30:21.360",
-  "lastModified": "2022-04-12T14:30:21.360",
-  "cpeLastModified": "2022-04-13T13:15:10.233",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:automationdirect:c0-12dd2e-1-d_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "EFD1918A-ADC1-47F2-8313-FFDACDE4FA43"
-    }
-  ]
+	"criteria": "cpe:2.3:o:automationdirect:c0-12dd2e-1-d_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4A25805A-F49D-4305-8108-F4D509304213",
+	"versionEndExcluding": "3.00",
+	"created": "2022-04-12T14:30:21.360",
+	"lastModified": "2022-04-12T14:30:21.360",
+	"cpeLastModified": "2022-04-13T13:15:10.233",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:automationdirect:c0-12dd2e-1-d_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EFD1918A-ADC1-47F2-8313-FFDACDE4FA43"
+		}
+	]
 }

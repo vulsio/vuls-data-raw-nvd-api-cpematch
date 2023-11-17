@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:cisco:ios_xrv_9000_router:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "703D3DE6-1E69-4A00-91F0-193E5AAFDCF4",
-  "created": "2020-09-25T20:02:13.817",
-  "lastModified": "2020-09-25T20:02:13.817",
-  "cpeLastModified": "2020-10-13T13:04:12.437",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:cisco:ios_xrv_9000_router:-:*:*:*:*:*:*:*",
-      "cpeNameId": "C91D1FF3-98DA-4F8F-90AB-FA684200792C"
-    }
-  ]
+	"criteria": "cpe:2.3:h:cisco:ios_xrv_9000_router:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "703D3DE6-1E69-4A00-91F0-193E5AAFDCF4",
+	"created": "2020-09-25T20:02:13.817",
+	"lastModified": "2020-09-25T20:02:13.817",
+	"cpeLastModified": "2020-10-13T13:04:12.437",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:cisco:ios_xrv_9000_router:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C91D1FF3-98DA-4F8F-90AB-FA684200792C"
+		}
+	]
 }

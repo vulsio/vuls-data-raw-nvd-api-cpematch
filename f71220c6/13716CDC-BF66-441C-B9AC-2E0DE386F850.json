@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:huawei:prague-tl00a_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "13716CDC-BF66-441C-B9AC-2E0DE386F850",
-  "versionEndExcluding": "prague-tl00ac01b205",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2020-04-02T19:07:31.480",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:huawei:prague-tl00a_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "132C0894-43C0-445E-8C2E-DE532C2FB7FB"
-    }
-  ]
+	"criteria": "cpe:2.3:o:huawei:prague-tl00a_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "13716CDC-BF66-441C-B9AC-2E0DE386F850",
+	"versionEndExcluding": "prague-tl00ac01b205",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2020-04-02T19:07:31.480",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:huawei:prague-tl00a_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "132C0894-43C0-445E-8C2E-DE532C2FB7FB"
+		}
+	]
 }

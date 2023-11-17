@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:tekon:kio_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F401765D-3EEF-4A19-ADD3-6D136B73452D",
-  "versionEndIncluding": "2022-03-30",
-  "created": "2022-04-05T13:10:34.620",
-  "lastModified": "2022-04-05T13:10:34.620",
-  "cpeLastModified": "2022-04-05T14:57:27.563",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:tekon:kio_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "5871804D-34DD-4F13-BAF9-5C082580B5FC"
-    },
-    {
-      "cpeName": "cpe:2.3:o:tekon:kio_firmware:2022-03-30:*:*:*:*:*:*:*",
-      "cpeNameId": "924EFBDC-A301-4254-96B3-EAA762C71956"
-    }
-  ]
+	"criteria": "cpe:2.3:o:tekon:kio_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F401765D-3EEF-4A19-ADD3-6D136B73452D",
+	"versionEndIncluding": "2022-03-30",
+	"created": "2022-04-05T13:10:34.620",
+	"lastModified": "2022-04-05T13:10:34.620",
+	"cpeLastModified": "2022-04-05T14:57:27.563",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:tekon:kio_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5871804D-34DD-4F13-BAF9-5C082580B5FC"
+		},
+		{
+			"cpeName": "cpe:2.3:o:tekon:kio_firmware:2022-03-30:*:*:*:*:*:*:*",
+			"cpeNameId": "924EFBDC-A301-4254-96B3-EAA762C71956"
+		}
+	]
 }

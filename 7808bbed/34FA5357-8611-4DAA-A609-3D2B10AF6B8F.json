@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:adobe:audition:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "34FA5357-8611-4DAA-A609-3D2B10AF6B8F",
-  "versionEndIncluding": "13.0.6",
-  "created": "2020-07-02T11:02:25.580",
-  "lastModified": "2020-07-02T11:02:25.580",
-  "cpeLastModified": "2020-07-06T19:18:27.093",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:adobe:audition:13.0.5:*:*:*:*:*:*:*",
-      "cpeNameId": "896CA761-C615-4671-8CBB-ECB91D17459A"
-    },
-    {
-      "cpeName": "cpe:2.3:a:adobe:audition:13.0.6:*:*:*:*:*:*:*",
-      "cpeNameId": "761A8271-BBA9-4C00-BC5D-33D23A036A3F"
-    }
-  ]
+	"criteria": "cpe:2.3:a:adobe:audition:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "34FA5357-8611-4DAA-A609-3D2B10AF6B8F",
+	"versionEndIncluding": "13.0.6",
+	"created": "2020-07-02T11:02:25.580",
+	"lastModified": "2020-07-02T11:02:25.580",
+	"cpeLastModified": "2020-07-06T19:18:27.093",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:adobe:audition:13.0.5:*:*:*:*:*:*:*",
+			"cpeNameId": "896CA761-C615-4671-8CBB-ECB91D17459A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:audition:13.0.6:*:*:*:*:*:*:*",
+			"cpeNameId": "761A8271-BBA9-4C00-BC5D-33D23A036A3F"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:officejet_pro_8740_j6x83a_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9C0D88CA-E9C6-4F39-A8C6-BEF52EAC7C9D",
-  "versionEndExcluding": "001.2207c",
-  "created": "2022-03-29T16:03:28.820",
-  "lastModified": "2022-03-29T16:03:28.820",
-  "cpeLastModified": "2022-03-29T18:44:10.540",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:officejet_pro_8740_j6x83a_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "BDEF56C1-64CA-42B0-8A6A-F59DA91F981A"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:officejet_pro_8740_j6x83a_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9C0D88CA-E9C6-4F39-A8C6-BEF52EAC7C9D",
+	"versionEndExcluding": "001.2207c",
+	"created": "2022-03-29T16:03:28.820",
+	"lastModified": "2022-03-29T16:03:28.820",
+	"cpeLastModified": "2022-03-29T18:44:10.540",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:officejet_pro_8740_j6x83a_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BDEF56C1-64CA-42B0-8A6A-F59DA91F981A"
+		}
+	]
 }

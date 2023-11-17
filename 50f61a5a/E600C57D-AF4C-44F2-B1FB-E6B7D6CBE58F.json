@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:core_m3-8100y_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E600C57D-AF4C-44F2-B1FB-E6B7D6CBE58F",
-  "created": "2019-11-18T14:39:14.760",
-  "lastModified": "2023-05-17T15:47:27.997",
-  "cpeLastModified": "2020-03-23T18:35:23.490",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:core_m3-8100y_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "79901E2D-A5B6-419E-8A41-C0FE85B10FDA"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:core_m3-8100y_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E600C57D-AF4C-44F2-B1FB-E6B7D6CBE58F",
+	"created": "2019-11-18T14:39:14.760",
+	"lastModified": "2023-05-17T15:47:27.997",
+	"cpeLastModified": "2020-03-23T18:35:23.490",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:core_m3-8100y_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "79901E2D-A5B6-419E-8A41-C0FE85B10FDA"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:kaspersky:password_manager:9.0.2:patch_h:*:*:*:windows:*:*",
-  "matchCriteriaId": "CDBE8B17-00A1-444A-8333-462618564FDE",
-  "created": "2021-11-29T16:40:43.513",
-  "lastModified": "2021-11-29T16:40:43.513",
-  "cpeLastModified": "2021-11-29T18:36:20.223",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:kaspersky:password_manager:9.0.2:patch_h:*:*:*:windows:*:*",
-      "cpeNameId": "293847A3-F16E-4367-811B-A082BD463952"
-    }
-  ]
+	"criteria": "cpe:2.3:a:kaspersky:password_manager:9.0.2:patch_h:*:*:*:windows:*:*",
+	"matchCriteriaId": "CDBE8B17-00A1-444A-8333-462618564FDE",
+	"created": "2021-11-29T16:40:43.513",
+	"lastModified": "2021-11-29T16:40:43.513",
+	"cpeLastModified": "2021-11-29T18:36:20.223",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:kaspersky:password_manager:9.0.2:patch_h:*:*:*:windows:*:*",
+			"cpeNameId": "293847A3-F16E-4367-811B-A082BD463952"
+		}
+	]
 }

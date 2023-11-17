@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:inspiron_14_5490_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "38C48ED6-C339-4907-84C9-7333086DF93C",
-  "versionEndExcluding": "1.10.0",
-  "created": "2020-06-19T12:53:35.287",
-  "lastModified": "2020-06-19T12:53:35.287",
-  "cpeLastModified": "2020-06-19T12:53:35.320",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:inspiron_14_5490_firmware:1.4.0:*:*:*:*:*:*:*",
-      "cpeNameId": "1580AF1F-2A36-48BD-8553-915976111BBA"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:inspiron_14_5490_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "38C48ED6-C339-4907-84C9-7333086DF93C",
+	"versionEndExcluding": "1.10.0",
+	"created": "2020-06-19T12:53:35.287",
+	"lastModified": "2020-06-19T12:53:35.287",
+	"cpeLastModified": "2020-06-19T12:53:35.320",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_14_5490_firmware:1.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "1580AF1F-2A36-48BD-8553-915976111BBA"
+		}
+	]
 }

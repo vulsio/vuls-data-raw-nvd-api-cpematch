@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:debian:cron:3.0:pl1-65:*:*:*:*:*:*",
-  "matchCriteriaId": "58934A0A-B22C-4023-9477-93025400F549",
-  "created": "2019-12-18T13:59:50.487",
-  "lastModified": "2019-12-18T13:59:50.487",
-  "cpeLastModified": "2019-12-18T13:59:50.503",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:debian:cron:3.0:pl1-65:*:*:*:*:*:*",
-      "cpeNameId": "BD3723C2-41FF-418A-9803-03B36956990D"
-    }
-  ]
+	"criteria": "cpe:2.3:a:debian:cron:3.0:pl1-65:*:*:*:*:*:*",
+	"matchCriteriaId": "58934A0A-B22C-4023-9477-93025400F549",
+	"created": "2019-12-18T13:59:50.487",
+	"lastModified": "2019-12-18T13:59:50.487",
+	"cpeLastModified": "2019-12-18T13:59:50.503",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:debian:cron:3.0:pl1-65:*:*:*:*:*:*",
+			"cpeNameId": "BD3723C2-41FF-418A-9803-03B36956990D"
+		}
+	]
 }

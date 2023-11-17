@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:qualcomm:sdxr25g_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8C6DA2D4-F912-40A9-BFE9-D2A756DCEB80",
-  "created": "2021-02-24T18:47:03.307",
-  "lastModified": "2021-02-24T18:47:03.307",
-  "cpeLastModified": "2021-03-19T20:35:45.477",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:qualcomm:sdxr25g_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "AAC92FBD-BE78-47ED-BB3F-C72AD9AF93CC"
-    }
-  ]
+	"criteria": "cpe:2.3:o:qualcomm:sdxr25g_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8C6DA2D4-F912-40A9-BFE9-D2A756DCEB80",
+	"created": "2021-02-24T18:47:03.307",
+	"lastModified": "2021-02-24T18:47:03.307",
+	"cpeLastModified": "2021-03-19T20:35:45.477",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:qualcomm:sdxr25g_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "AAC92FBD-BE78-47ED-BB3F-C72AD9AF93CC"
+		}
+	]
 }

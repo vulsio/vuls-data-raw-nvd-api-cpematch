@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:semver-regex_project:semver-regex:4.0.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "DDB55FE1-B64B-4E67-A89E-0D4FBF9ADE91",
-  "created": "2022-07-29T16:54:01.040",
-  "lastModified": "2022-07-29T16:54:01.040",
-  "cpeLastModified": "2021-09-27T19:40:18.900",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:semver-regex_project:semver-regex:4.0.0:*:*:*:*:*:*:*",
-      "cpeNameId": "D63C60C6-E5B0-4076-A858-44CB806FFF52"
-    }
-  ]
+	"criteria": "cpe:2.3:a:semver-regex_project:semver-regex:4.0.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DDB55FE1-B64B-4E67-A89E-0D4FBF9ADE91",
+	"created": "2022-07-29T16:54:01.040",
+	"lastModified": "2022-07-29T16:54:01.040",
+	"cpeLastModified": "2021-09-27T19:40:18.900",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:semver-regex_project:semver-regex:4.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D63C60C6-E5B0-4076-A858-44CB806FFF52"
+		}
+	]
 }

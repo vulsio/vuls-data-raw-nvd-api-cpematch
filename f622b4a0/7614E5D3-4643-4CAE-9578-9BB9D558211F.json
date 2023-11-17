@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:redhat:enterprise_linux_server_update_services_for_sap_solutions:8.6:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7614E5D3-4643-4CAE-9578-9BB9D558211F",
-  "created": "2022-05-14T17:54:20.593",
-  "lastModified": "2022-10-24T13:08:48.163",
-  "cpeLastModified": "2022-10-24T13:08:48.163",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:redhat:enterprise_linux_server_update_services_for_sap_solutions:8.6:*:*:*:*:*:*:*",
-      "cpeNameId": "87932287-F4A7-4BDE-8CA2-9A433A40D2BD"
-    }
-  ]
+	"criteria": "cpe:2.3:o:redhat:enterprise_linux_server_update_services_for_sap_solutions:8.6:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7614E5D3-4643-4CAE-9578-9BB9D558211F",
+	"created": "2022-05-14T17:54:20.593",
+	"lastModified": "2022-10-24T13:08:48.163",
+	"cpeLastModified": "2022-10-24T13:08:48.163",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:redhat:enterprise_linux_server_update_services_for_sap_solutions:8.6:*:*:*:*:*:*:*",
+			"cpeNameId": "87932287-F4A7-4BDE-8CA2-9A433A40D2BD"
+		}
+	]
 }

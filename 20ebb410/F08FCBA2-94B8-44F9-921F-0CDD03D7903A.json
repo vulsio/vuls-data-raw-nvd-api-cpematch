@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dataprobe:iboot-pdu8a-n20_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F08FCBA2-94B8-44F9-921F-0CDD03D7903A",
-  "versionEndExcluding": "1.42.06162022",
-  "created": "2022-12-23T13:58:20.393",
-  "lastModified": "2022-12-28T18:21:42.800",
-  "cpeLastModified": "2022-12-28T18:21:42.800",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dataprobe:iboot-pdu8a-n20_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "D2367D75-D823-4284-9233-BE5304584EE6"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dataprobe:iboot-pdu8a-n20_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F08FCBA2-94B8-44F9-921F-0CDD03D7903A",
+	"versionEndExcluding": "1.42.06162022",
+	"created": "2022-12-23T13:58:20.393",
+	"lastModified": "2022-12-28T18:21:42.800",
+	"cpeLastModified": "2022-12-28T18:21:42.800",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dataprobe:iboot-pdu8a-n20_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D2367D75-D823-4284-9233-BE5304584EE6"
+		}
+	]
 }

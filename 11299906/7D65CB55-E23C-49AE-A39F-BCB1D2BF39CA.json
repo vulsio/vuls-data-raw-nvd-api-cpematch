@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:qualcomm:qln5040_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7D65CB55-E23C-49AE-A39F-BCB1D2BF39CA",
-  "created": "2021-01-26T11:59:33.487",
-  "lastModified": "2021-01-26T11:59:33.487",
-  "cpeLastModified": "2021-03-09T22:31:09.510",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:qualcomm:qln5040_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "78B6EC0A-339B-4319-9357-5D5E747DAB23"
-    }
-  ]
+	"criteria": "cpe:2.3:o:qualcomm:qln5040_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7D65CB55-E23C-49AE-A39F-BCB1D2BF39CA",
+	"created": "2021-01-26T11:59:33.487",
+	"lastModified": "2021-01-26T11:59:33.487",
+	"cpeLastModified": "2021-03-09T22:31:09.510",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:qualcomm:qln5040_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "78B6EC0A-339B-4319-9357-5D5E747DAB23"
+		}
+	]
 }

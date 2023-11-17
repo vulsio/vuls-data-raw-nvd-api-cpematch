@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:fujifilm:docucentre-vi_c2271_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "2F352BCD-F13A-4216-9501-6B775A2B89E0",
-  "versionEndExcluding": "1.60.4",
-  "created": "2022-04-22T13:50:50.280",
-  "lastModified": "2022-04-22T13:50:50.280",
-  "cpeLastModified": "2022-05-13T16:26:26.973",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:fujifilm:docucentre-vi_c2271_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "CB56692F-6938-44D2-A2EE-679510FD4423"
-    }
-  ]
+	"criteria": "cpe:2.3:o:fujifilm:docucentre-vi_c2271_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2F352BCD-F13A-4216-9501-6B775A2B89E0",
+	"versionEndExcluding": "1.60.4",
+	"created": "2022-04-22T13:50:50.280",
+	"lastModified": "2022-04-22T13:50:50.280",
+	"cpeLastModified": "2022-05-13T16:26:26.973",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:fujifilm:docucentre-vi_c2271_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CB56692F-6938-44D2-A2EE-679510FD4423"
+		}
+	]
 }

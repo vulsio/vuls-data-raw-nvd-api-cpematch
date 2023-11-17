@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:qualcomm:msm8627_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FD33FFDA-F389-47CB-BD5D-EBD5C96BD7EF",
-  "created": "2021-02-23T14:31:54.363",
-  "lastModified": "2021-02-23T14:31:54.363",
-  "cpeLastModified": "2021-03-08T18:37:26.903",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:qualcomm:msm8627_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "AD851EC9-A145-4775-A4C9-9D11B5A90B43"
-    }
-  ]
+	"criteria": "cpe:2.3:o:qualcomm:msm8627_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FD33FFDA-F389-47CB-BD5D-EBD5C96BD7EF",
+	"created": "2021-02-23T14:31:54.363",
+	"lastModified": "2021-02-23T14:31:54.363",
+	"cpeLastModified": "2021-03-08T18:37:26.903",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:qualcomm:msm8627_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "AD851EC9-A145-4775-A4C9-9D11B5A90B43"
+		}
+	]
 }

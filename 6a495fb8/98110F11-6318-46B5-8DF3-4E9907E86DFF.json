@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:tencent:qq:8.7.1:*:*:*:*:android:*:*",
-  "matchCriteriaId": "98110F11-6318-46B5-8DF3-4E9907E86DFF",
-  "created": "2022-08-03T15:46:54.583",
-  "lastModified": "2022-08-03T15:46:54.583",
-  "cpeLastModified": "2022-08-03T16:56:50.837",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:tencent:qq:8.7.1:*:*:*:*:android:*:*",
-      "cpeNameId": "BC4A8967-F8EB-486A-8F07-8A06570EBF5E"
-    }
-  ]
+	"criteria": "cpe:2.3:a:tencent:qq:8.7.1:*:*:*:*:android:*:*",
+	"matchCriteriaId": "98110F11-6318-46B5-8DF3-4E9907E86DFF",
+	"created": "2022-08-03T15:46:54.583",
+	"lastModified": "2022-08-03T15:46:54.583",
+	"cpeLastModified": "2022-08-03T16:56:50.837",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:tencent:qq:8.7.1:*:*:*:*:android:*:*",
+			"cpeNameId": "BC4A8967-F8EB-486A-8F07-8A06570EBF5E"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:core_i3-1215u_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "14957D81-CB3A-4C3F-A88B-E2EEAA9ABB94",
-  "created": "2022-05-19T19:20:35.147",
-  "lastModified": "2022-11-18T14:11:18.190",
-  "cpeLastModified": "2022-05-20T00:20:26.260",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:core_i3-1215u_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "46243B28-5ADC-49A4-B92B-CEE266A84F47"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:core_i3-1215u_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "14957D81-CB3A-4C3F-A88B-E2EEAA9ABB94",
+	"created": "2022-05-19T19:20:35.147",
+	"lastModified": "2022-11-18T14:11:18.190",
+	"cpeLastModified": "2022-05-20T00:20:26.260",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:core_i3-1215u_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "46243B28-5ADC-49A4-B92B-CEE266A84F47"
+		}
+	]
 }

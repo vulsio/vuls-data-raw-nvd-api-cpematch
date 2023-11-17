@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:honeywell:hdzp304di_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1F99CF9C-9508-4D2E-8DA2-D92AC808F707",
-  "versionEndExcluding": "1.000.hw10.5.20190812",
-  "created": "2019-11-04T19:14:54.257",
-  "lastModified": "2019-11-04T19:14:54.257",
-  "cpeLastModified": "2020-04-27T17:44:09.940",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:honeywell:hdzp304di_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "88F4DFD8-DF59-49CB-9BC3-0414594606C2"
-    }
-  ]
+	"criteria": "cpe:2.3:o:honeywell:hdzp304di_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1F99CF9C-9508-4D2E-8DA2-D92AC808F707",
+	"versionEndExcluding": "1.000.hw10.5.20190812",
+	"created": "2019-11-04T19:14:54.257",
+	"lastModified": "2019-11-04T19:14:54.257",
+	"cpeLastModified": "2020-04-27T17:44:09.940",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:honeywell:hdzp304di_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "88F4DFD8-DF59-49CB-9BC3-0414594606C2"
+		}
+	]
 }

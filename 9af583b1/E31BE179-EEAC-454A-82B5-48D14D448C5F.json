@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:envy_photo_7800_y0g42d_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E31BE179-EEAC-454A-82B5-48D14D448C5F",
-  "versionEndExcluding": "003.1925a",
-  "created": "2020-01-16T14:41:35.410",
-  "lastModified": "2020-01-16T14:41:35.410",
-  "cpeLastModified": "2020-02-28T16:06:11.980",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:envy_photo_7800_y0g42d_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "D33AAAED-9CE8-4FE9-80A6-4B1EE434ECEA"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:envy_photo_7800_y0g42d_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E31BE179-EEAC-454A-82B5-48D14D448C5F",
+	"versionEndExcluding": "003.1925a",
+	"created": "2020-01-16T14:41:35.410",
+	"lastModified": "2020-01-16T14:41:35.410",
+	"cpeLastModified": "2020-02-28T16:06:11.980",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:envy_photo_7800_y0g42d_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D33AAAED-9CE8-4FE9-80A6-4B1EE434ECEA"
+		}
+	]
 }

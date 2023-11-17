@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:xeon_w-3275_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "25CC3D78-CE53-4ADF-9D6B-73255508FCDA",
-  "created": "2019-11-18T16:36:16.733",
-  "lastModified": "2022-11-18T16:13:47.657",
-  "cpeLastModified": "2020-03-23T17:33:48.223",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:xeon_w-3275_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "436CECC8-F5D4-4FE7-A0DA-65DEA3B79D91"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:xeon_w-3275_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "25CC3D78-CE53-4ADF-9D6B-73255508FCDA",
+	"created": "2019-11-18T16:36:16.733",
+	"lastModified": "2022-11-18T16:13:47.657",
+	"cpeLastModified": "2020-03-23T17:33:48.223",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:xeon_w-3275_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "436CECC8-F5D4-4FE7-A0DA-65DEA3B79D91"
+		}
+	]
 }

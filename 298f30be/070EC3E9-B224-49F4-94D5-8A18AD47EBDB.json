@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:core_i3-1000ng4_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "070EC3E9-B224-49F4-94D5-8A18AD47EBDB",
-  "created": "2022-05-11T16:21:02.897",
-  "lastModified": "2022-05-11T16:21:02.897",
-  "cpeLastModified": "2022-06-03T22:24:01.257",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:core_i3-1000ng4_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "1A8E0D63-5014-4131-9229-6EDCAE184809"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:core_i3-1000ng4_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "070EC3E9-B224-49F4-94D5-8A18AD47EBDB",
+	"created": "2022-05-11T16:21:02.897",
+	"lastModified": "2022-05-11T16:21:02.897",
+	"cpeLastModified": "2022-06-03T22:24:01.257",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:core_i3-1000ng4_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1A8E0D63-5014-4131-9229-6EDCAE184809"
+		}
+	]
 }

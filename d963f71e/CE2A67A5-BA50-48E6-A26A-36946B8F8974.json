@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:intel:core_i7-2649m:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CE2A67A5-BA50-48E6-A26A-36946B8F8974",
-  "created": "2020-03-23T12:42:54.563",
-  "lastModified": "2020-03-23T12:42:54.563",
-  "cpeLastModified": "2023-09-26T13:34:56.343",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:intel:core_i7-2649m:-:*:*:*:*:*:*:*",
-      "cpeNameId": "59898D41-9AE2-40AD-AD2B-205D2DD358F7"
-    }
-  ]
+	"criteria": "cpe:2.3:h:intel:core_i7-2649m:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CE2A67A5-BA50-48E6-A26A-36946B8F8974",
+	"created": "2020-03-23T12:42:54.563",
+	"lastModified": "2020-03-23T12:42:54.563",
+	"cpeLastModified": "2023-09-26T13:34:56.343",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:core_i7-2649m:-:*:*:*:*:*:*:*",
+			"cpeNameId": "59898D41-9AE2-40AD-AD2B-205D2DD358F7"
+		}
+	]
 }

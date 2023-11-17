@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:cisco:prime_collaboration_provisioning:12.6:service_update1:*:*:*:*:*:*",
-  "matchCriteriaId": "448BDBFE-43D2-4BFE-B127-26653AED9DE8",
-  "created": "2020-03-05T17:51:36.087",
-  "lastModified": "2020-03-05T17:51:36.087",
-  "cpeLastModified": "2020-04-02T12:37:29.203",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:cisco:prime_collaboration_provisioning:12.6:service_update1:*:*:*:*:*:*",
-      "cpeNameId": "29F83B2D-4730-4033-82B7-0D44B9EF4A8C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:cisco:prime_collaboration_provisioning:12.6:service_update1:*:*:*:*:*:*",
+	"matchCriteriaId": "448BDBFE-43D2-4BFE-B127-26653AED9DE8",
+	"created": "2020-03-05T17:51:36.087",
+	"lastModified": "2020-03-05T17:51:36.087",
+	"cpeLastModified": "2020-04-02T12:37:29.203",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:prime_collaboration_provisioning:12.6:service_update1:*:*:*:*:*:*",
+			"cpeNameId": "29F83B2D-4730-4033-82B7-0D44B9EF4A8C"
+		}
+	]
 }

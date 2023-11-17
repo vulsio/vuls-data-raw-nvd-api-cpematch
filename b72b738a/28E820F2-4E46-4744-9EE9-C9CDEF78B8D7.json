@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:atlassian:crowd:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "28E820F2-4E46-4744-9EE9-C9CDEF78B8D7",
-  "versionStartIncluding": "2.4.0",
-  "versionEndExcluding": "2.4.1",
-  "created": "2020-07-30T15:45:55.363",
-  "lastModified": "2020-07-30T15:45:55.363",
-  "cpeLastModified": "2020-07-30T15:45:55.380",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:atlassian:crowd:2.4.0:*:*:*:*:*:*:*",
-      "cpeNameId": "9B62F811-FC4A-4988-8758-3137CC19746C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:atlassian:crowd:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "28E820F2-4E46-4744-9EE9-C9CDEF78B8D7",
+	"versionStartIncluding": "2.4.0",
+	"versionEndExcluding": "2.4.1",
+	"created": "2020-07-30T15:45:55.363",
+	"lastModified": "2020-07-30T15:45:55.363",
+	"cpeLastModified": "2020-07-30T15:45:55.380",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:atlassian:crowd:2.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "9B62F811-FC4A-4988-8758-3137CC19746C"
+		}
+	]
 }

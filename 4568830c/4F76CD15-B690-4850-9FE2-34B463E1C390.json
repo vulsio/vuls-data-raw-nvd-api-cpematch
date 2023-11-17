@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:a:fortinet:fortivoice:*:*:*:*:entreprise:*:*:*",
-  "matchCriteriaId": "4F76CD15-B690-4850-9FE2-34B463E1C390",
-  "versionStartIncluding": "6.0.0",
-  "versionEndIncluding": "6.0.1",
-  "created": "2020-04-29T19:42:10.903",
-  "lastModified": "2020-04-29T19:42:10.903",
-  "cpeLastModified": "2020-05-04T13:30:23.247",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:fortinet:fortivoice:6.0.0:*:*:*:entreprise:*:*:*",
-      "cpeNameId": "E134AD28-7AC3-44F4-95CA-B2300739009A"
-    },
-    {
-      "cpeName": "cpe:2.3:a:fortinet:fortivoice:6.0.1:*:*:*:entreprise:*:*:*",
-      "cpeNameId": "AF5F575F-6A1F-4B9D-82DB-9A6000DFB271"
-    }
-  ]
+	"criteria": "cpe:2.3:a:fortinet:fortivoice:*:*:*:*:entreprise:*:*:*",
+	"matchCriteriaId": "4F76CD15-B690-4850-9FE2-34B463E1C390",
+	"versionStartIncluding": "6.0.0",
+	"versionEndIncluding": "6.0.1",
+	"created": "2020-04-29T19:42:10.903",
+	"lastModified": "2020-04-29T19:42:10.903",
+	"cpeLastModified": "2020-05-04T13:30:23.247",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortivoice:6.0.0:*:*:*:entreprise:*:*:*",
+			"cpeNameId": "E134AD28-7AC3-44F4-95CA-B2300739009A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortivoice:6.0.1:*:*:*:entreprise:*:*:*",
+			"cpeNameId": "AF5F575F-6A1F-4B9D-82DB-9A6000DFB271"
+		}
+	]
 }

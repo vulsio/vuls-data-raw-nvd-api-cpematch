@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:inspiron_5301_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E65CAEB0-D0CE-4DE3-8BCC-EE36FD4BA79C",
-  "versionEndExcluding": "1.12.0",
-  "created": "2022-02-10T16:24:43.520",
-  "lastModified": "2022-09-13T14:46:24.833",
-  "cpeLastModified": "2022-02-16T15:26:01.320",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:inspiron_5301_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "3689BA84-0E0B-4388-911A-C775738EF2FF"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:inspiron_5301_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E65CAEB0-D0CE-4DE3-8BCC-EE36FD4BA79C",
+	"versionEndExcluding": "1.12.0",
+	"created": "2022-02-10T16:24:43.520",
+	"lastModified": "2022-09-13T14:46:24.833",
+	"cpeLastModified": "2022-02-16T15:26:01.320",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_5301_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3689BA84-0E0B-4388-911A-C775738EF2FF"
+		}
+	]
 }

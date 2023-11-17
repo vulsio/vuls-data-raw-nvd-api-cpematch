@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:zte:ztemarket_apk:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "25CC12B9-9EC1-43FD-BDA3-4ABB91BA0791",
-  "versionEndIncluding": "10.06",
-  "created": "2020-06-22T18:05:52.447",
-  "lastModified": "2020-06-22T18:05:52.447",
-  "cpeLastModified": "2020-06-22T18:46:39.533",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:zte:ztemarket_apk:10.06:*:*:*:*:*:*:*",
-      "cpeNameId": "96B379F8-2E5E-4A65-8B53-DD8CE97B5FF3"
-    }
-  ]
+	"criteria": "cpe:2.3:a:zte:ztemarket_apk:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "25CC12B9-9EC1-43FD-BDA3-4ABB91BA0791",
+	"versionEndIncluding": "10.06",
+	"created": "2020-06-22T18:05:52.447",
+	"lastModified": "2020-06-22T18:05:52.447",
+	"cpeLastModified": "2020-06-22T18:46:39.533",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:zte:ztemarket_apk:10.06:*:*:*:*:*:*:*",
+			"cpeNameId": "96B379F8-2E5E-4A65-8B53-DD8CE97B5FF3"
+		}
+	]
 }

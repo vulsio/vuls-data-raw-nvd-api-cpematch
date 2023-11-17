@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:huawei:ar1200_firmware:v200r003c01:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4FFC3539-5078-4E8E-AA32-F81945EB12FD",
-  "created": "2020-01-07T17:42:46.767",
-  "lastModified": "2020-01-07T17:42:46.767",
-  "cpeLastModified": "2020-01-13T13:40:37.097",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:huawei:ar1200_firmware:v200r003c01:*:*:*:*:*:*:*",
-      "cpeNameId": "12C20C76-64D3-4F20-837D-558DE9BEC96E"
-    }
-  ]
+	"criteria": "cpe:2.3:o:huawei:ar1200_firmware:v200r003c01:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4FFC3539-5078-4E8E-AA32-F81945EB12FD",
+	"created": "2020-01-07T17:42:46.767",
+	"lastModified": "2020-01-07T17:42:46.767",
+	"cpeLastModified": "2020-01-13T13:40:37.097",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:huawei:ar1200_firmware:v200r003c01:*:*:*:*:*:*:*",
+			"cpeNameId": "12C20C76-64D3-4F20-837D-558DE9BEC96E"
+		}
+	]
 }

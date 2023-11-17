@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:netapp:storage_replication_adapter_for_clustered_data_ontap:*:*:*:*:*:vmware_vsphere:*:*",
-  "matchCriteriaId": "9DBEE506-E864-4FC6-B5D3-7E134438592C",
-  "versionStartIncluding": "9.7",
-  "created": "2022-05-27T17:55:04.957",
-  "lastModified": "2022-05-27T17:55:04.957",
-  "cpeLastModified": "2022-09-12T17:47:54.213",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:netapp:storage_replication_adapter_for_clustered_data_ontap:9.7:*:*:*:*:vmware_vsphere:*:*",
-      "cpeNameId": "52513CF7-AEA7-498F-9002-3317B5DFA0BD"
-    }
-  ]
+	"criteria": "cpe:2.3:a:netapp:storage_replication_adapter_for_clustered_data_ontap:*:*:*:*:*:vmware_vsphere:*:*",
+	"matchCriteriaId": "9DBEE506-E864-4FC6-B5D3-7E134438592C",
+	"versionStartIncluding": "9.7",
+	"created": "2022-05-27T17:55:04.957",
+	"lastModified": "2022-05-27T17:55:04.957",
+	"cpeLastModified": "2022-09-12T17:47:54.213",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:netapp:storage_replication_adapter_for_clustered_data_ontap:9.7:*:*:*:*:vmware_vsphere:*:*",
+			"cpeNameId": "52513CF7-AEA7-498F-9002-3317B5DFA0BD"
+		}
+	]
 }

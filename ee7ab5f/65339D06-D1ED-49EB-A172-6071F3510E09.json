@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:amd:ryzen_threadripper_pro_3945wx_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "65339D06-D1ED-49EB-A172-6071F3510E09",
-  "versionEndExcluding": "castlepeakwspi-swrx8_1.0.0.9",
-  "created": "2022-05-31T07:09:34.273",
-  "lastModified": "2023-07-14T15:48:43.780",
-  "cpeLastModified": "2022-03-03T16:16:03.140",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:amd:ryzen_threadripper_pro_3945wx_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "2F1713DB-21A8-480D-9B92-09F5E1D08987"
-    }
-  ]
+	"criteria": "cpe:2.3:o:amd:ryzen_threadripper_pro_3945wx_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "65339D06-D1ED-49EB-A172-6071F3510E09",
+	"versionEndExcluding": "castlepeakwspi-swrx8_1.0.0.9",
+	"created": "2022-05-31T07:09:34.273",
+	"lastModified": "2023-07-14T15:48:43.780",
+	"cpeLastModified": "2022-03-03T16:16:03.140",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_threadripper_pro_3945wx_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2F1713DB-21A8-480D-9B92-09F5E1D08987"
+		}
+	]
 }

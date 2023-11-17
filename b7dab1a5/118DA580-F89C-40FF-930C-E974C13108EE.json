@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:thinkcentre_m700_tiny_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "118DA580-F89C-40FF-930C-E974C13108EE",
-  "versionEndExcluding": "fwktb9a",
-  "created": "2021-11-19T17:33:57.763",
-  "lastModified": "2021-11-19T17:33:57.763",
-  "cpeLastModified": "2021-11-19T21:57:16.060",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:thinkcentre_m700_tiny_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "54519C62-4955-41C7-A273-0E009BA60F72"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:thinkcentre_m700_tiny_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "118DA580-F89C-40FF-930C-E974C13108EE",
+	"versionEndExcluding": "fwktb9a",
+	"created": "2021-11-19T17:33:57.763",
+	"lastModified": "2021-11-19T17:33:57.763",
+	"cpeLastModified": "2021-11-19T21:57:16.060",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:thinkcentre_m700_tiny_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "54519C62-4955-41C7-A273-0E009BA60F72"
+		}
+	]
 }

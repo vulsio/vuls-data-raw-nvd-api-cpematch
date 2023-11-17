@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:veritas:resiliency_platform:3.3.1:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5BF412FA-A2A3-4176-897A-D67E0AB98BBC",
-  "created": "2019-08-05T18:22:38.773",
-  "lastModified": "2019-08-05T18:22:38.773",
-  "cpeLastModified": "2019-12-09T15:40:51.480",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:veritas:resiliency_platform:3.3.1:*:*:*:*:*:*:*",
-      "cpeNameId": "27B0F94E-50FB-414A-B8D7-22C45ABA2C89"
-    }
-  ]
+	"criteria": "cpe:2.3:a:veritas:resiliency_platform:3.3.1:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5BF412FA-A2A3-4176-897A-D67E0AB98BBC",
+	"created": "2019-08-05T18:22:38.773",
+	"lastModified": "2019-08-05T18:22:38.773",
+	"cpeLastModified": "2019-12-09T15:40:51.480",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:veritas:resiliency_platform:3.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "27B0F94E-50FB-414A-B8D7-22C45ABA2C89"
+		}
+	]
 }

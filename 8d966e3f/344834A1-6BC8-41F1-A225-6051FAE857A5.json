@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:microsoft:dynamics_365_business_central:2019:spring_update:*:*:*:*:*:*",
-  "matchCriteriaId": "344834A1-6BC8-41F1-A225-6051FAE857A5",
-  "created": "2020-03-16T14:21:37.440",
-  "lastModified": "2020-03-16T14:21:37.440",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:microsoft:dynamics_365_business_central:2019:spring_update:*:*:*:*:*:*",
-      "cpeNameId": "FE0B4143-DB6D-448A-A6BE-6C1F14CA1906"
-    }
-  ]
+	"criteria": "cpe:2.3:a:microsoft:dynamics_365_business_central:2019:spring_update:*:*:*:*:*:*",
+	"matchCriteriaId": "344834A1-6BC8-41F1-A225-6051FAE857A5",
+	"created": "2020-03-16T14:21:37.440",
+	"lastModified": "2020-03-16T14:21:37.440",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:dynamics_365_business_central:2019:spring_update:*:*:*:*:*:*",
+			"cpeNameId": "FE0B4143-DB6D-448A-A6BE-6C1F14CA1906"
+		}
+	]
 }

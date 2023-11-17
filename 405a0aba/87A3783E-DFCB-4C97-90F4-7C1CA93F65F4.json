@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1515-2_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "87A3783E-DFCB-4C97-90F4-7C1CA93F65F4",
-  "versionEndExcluding": "2.9.2",
-  "created": "2022-10-14T11:09:21.153",
-  "lastModified": "2022-10-14T22:00:24.337",
-  "cpeLastModified": "2022-10-14T22:00:24.337",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1515-2_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "D8D28E30-6403-45EE-9437-92671D5E2389"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1515-2_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "87A3783E-DFCB-4C97-90F4-7C1CA93F65F4",
+	"versionEndExcluding": "2.9.2",
+	"created": "2022-10-14T11:09:21.153",
+	"lastModified": "2022-10-14T22:00:24.337",
+	"cpeLastModified": "2022-10-14T22:00:24.337",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1515-2_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D8D28E30-6403-45EE-9437-92671D5E2389"
+		}
+	]
 }

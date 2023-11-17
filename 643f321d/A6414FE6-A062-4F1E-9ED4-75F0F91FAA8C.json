@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:hp:d3q16a_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A6414FE6-A062-4F1E-9ED4-75F0F91FAA8C",
-  "versionEndExcluding": "2228b",
-  "created": "2022-10-03T14:39:40.700",
-  "lastModified": "2022-10-03T14:39:40.700",
-  "cpeLastModified": "2022-10-03T14:39:40.700",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:d3q16a_firmware:001.1829a:*:*:*:*:*:*:*",
-      "cpeNameId": "30C169F4-B793-41DB-BCD9-FA6068DE1798"
-    },
-    {
-      "cpeName": "cpe:2.3:o:hp:d3q16a_firmware:001.1937d:*:*:*:*:*:*:*",
-      "cpeNameId": "6351A067-B0F8-4054-9D52-585A2BDD4885"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:d3q16a_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A6414FE6-A062-4F1E-9ED4-75F0F91FAA8C",
+	"versionEndExcluding": "2228b",
+	"created": "2022-10-03T14:39:40.700",
+	"lastModified": "2022-10-03T14:39:40.700",
+	"cpeLastModified": "2022-10-03T14:39:40.700",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:d3q16a_firmware:001.1829a:*:*:*:*:*:*:*",
+			"cpeNameId": "30C169F4-B793-41DB-BCD9-FA6068DE1798"
+		},
+		{
+			"cpeName": "cpe:2.3:o:hp:d3q16a_firmware:001.1937d:*:*:*:*:*:*:*",
+			"cpeNameId": "6351A067-B0F8-4054-9D52-585A2BDD4885"
+		}
+	]
 }

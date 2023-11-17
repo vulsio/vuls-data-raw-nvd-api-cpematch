@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:intel:nuc_board_h27002-500:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0062C296-DB3C-47F4-BF3B-73384E4123F5",
-  "created": "2020-11-18T14:33:59.727",
-  "lastModified": "2020-11-18T14:33:59.727",
-  "cpeLastModified": "2020-12-04T18:44:51.947",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:intel:nuc_board_h27002-500:-:*:*:*:*:*:*:*",
-      "cpeNameId": "331E22ED-3CDD-4F1A-82CE-46F29DFACB67"
-    }
-  ]
+	"criteria": "cpe:2.3:h:intel:nuc_board_h27002-500:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0062C296-DB3C-47F4-BF3B-73384E4123F5",
+	"created": "2020-11-18T14:33:59.727",
+	"lastModified": "2020-11-18T14:33:59.727",
+	"cpeLastModified": "2020-12-04T18:44:51.947",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:nuc_board_h27002-500:-:*:*:*:*:*:*:*",
+			"cpeNameId": "331E22ED-3CDD-4F1A-82CE-46F29DFACB67"
+		}
+	]
 }

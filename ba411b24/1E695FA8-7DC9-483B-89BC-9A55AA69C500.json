@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:draytek:vigor2927vac_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1E695FA8-7DC9-483B-89BC-9A55AA69C500",
-  "versionEndExcluding": "4.4.0",
-  "created": "2022-08-30T17:52:37.600",
-  "lastModified": "2022-08-30T17:52:37.600",
-  "cpeLastModified": "2022-08-31T12:51:25.280",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:draytek:vigor2927vac_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "4E3DDB35-8302-408F-85E7-01442D88AD85"
-    }
-  ]
+	"criteria": "cpe:2.3:o:draytek:vigor2927vac_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1E695FA8-7DC9-483B-89BC-9A55AA69C500",
+	"versionEndExcluding": "4.4.0",
+	"created": "2022-08-30T17:52:37.600",
+	"lastModified": "2022-08-30T17:52:37.600",
+	"cpeLastModified": "2022-08-31T12:51:25.280",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:draytek:vigor2927vac_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4E3DDB35-8302-408F-85E7-01442D88AD85"
+		}
+	]
 }

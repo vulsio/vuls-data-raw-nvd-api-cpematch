@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:bachmann:mpc265_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "10BDE882-8388-420F-9B4C-A83C7066006F",
-  "versionStartIncluding": "1.06.14",
-  "created": "2022-06-06T14:04:21.270",
-  "lastModified": "2022-06-06T14:04:21.270",
-  "cpeLastModified": "2022-06-06T17:04:22.433",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:bachmann:mpc265_firmware:1.06.14:*:*:*:*:*:*:*",
-      "cpeNameId": "42263D58-A2EC-4FF1-B71C-7D40B9E436D3"
-    }
-  ]
+	"criteria": "cpe:2.3:o:bachmann:mpc265_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "10BDE882-8388-420F-9B4C-A83C7066006F",
+	"versionStartIncluding": "1.06.14",
+	"created": "2022-06-06T14:04:21.270",
+	"lastModified": "2022-06-06T14:04:21.270",
+	"cpeLastModified": "2022-06-06T17:04:22.433",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:bachmann:mpc265_firmware:1.06.14:*:*:*:*:*:*:*",
+			"cpeNameId": "42263D58-A2EC-4FF1-B71C-7D40B9E436D3"
+		}
+	]
 }

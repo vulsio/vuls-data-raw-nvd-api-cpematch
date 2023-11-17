@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:oracle:enterprise_manager_ops_center:11.1:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5E71A360-F385-4148-9C21-339D337EC3B2",
-  "created": "2022-12-21T17:24:49.467",
-  "lastModified": "2022-12-30T20:36:59.330",
-  "cpeLastModified": "2022-12-30T20:36:59.330",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:oracle:enterprise_manager_ops_center:11.1:*:*:*:*:*:*:*",
-      "cpeNameId": "9D49CA4E-462D-438E-995C-681DDE9F7286"
-    }
-  ]
+	"criteria": "cpe:2.3:a:oracle:enterprise_manager_ops_center:11.1:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5E71A360-F385-4148-9C21-339D337EC3B2",
+	"created": "2022-12-21T17:24:49.467",
+	"lastModified": "2022-12-30T20:36:59.330",
+	"cpeLastModified": "2022-12-30T20:36:59.330",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:enterprise_manager_ops_center:11.1:*:*:*:*:*:*:*",
+			"cpeNameId": "9D49CA4E-462D-438E-995C-681DDE9F7286"
+		}
+	]
 }

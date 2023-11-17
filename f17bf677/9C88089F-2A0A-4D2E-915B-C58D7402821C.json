@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:redhat:ansible:2.10.1:rc2:*:*:*:*:*:*",
-  "matchCriteriaId": "9C88089F-2A0A-4D2E-915B-C58D7402821C",
-  "created": "2020-10-06T18:19:39.127",
-  "lastModified": "2020-10-06T18:19:39.127",
-  "cpeLastModified": "2020-10-29T17:23:42.847",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:redhat:ansible:2.10.1:rc2:*:*:*:*:*:*",
-      "cpeNameId": "ACEEEF4A-4702-4F05-A52C-014E31E68017"
-    }
-  ]
+	"criteria": "cpe:2.3:a:redhat:ansible:2.10.1:rc2:*:*:*:*:*:*",
+	"matchCriteriaId": "9C88089F-2A0A-4D2E-915B-C58D7402821C",
+	"created": "2020-10-06T18:19:39.127",
+	"lastModified": "2020-10-06T18:19:39.127",
+	"cpeLastModified": "2020-10-29T17:23:42.847",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.10.1:rc2:*:*:*:*:*:*",
+			"cpeNameId": "ACEEEF4A-4702-4F05-A52C-014E31E68017"
+		}
+	]
 }

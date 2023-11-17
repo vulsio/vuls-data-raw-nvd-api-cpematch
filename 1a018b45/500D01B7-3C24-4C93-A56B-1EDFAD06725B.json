@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:jetbrains:space:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "500D01B7-3C24-4C93-A56B-1EDFAD06725B",
-  "versionEndIncluding": "2020-04-22",
-  "created": "2020-04-23T17:45:05.547",
-  "lastModified": "2020-04-23T17:45:05.547",
-  "cpeLastModified": "2020-04-28T10:49:50.293",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:jetbrains:space:-:*:*:*:*:*:*:*",
-      "cpeNameId": "A5C03AB4-990D-4E8F-A054-E39C590FB3B2"
-    },
-    {
-      "cpeName": "cpe:2.3:a:jetbrains:space:2020-04-22:*:*:*:*:*:*:*",
-      "cpeNameId": "51C3E9E2-E656-4568-9398-9E98ABBDAACC"
-    }
-  ]
+	"criteria": "cpe:2.3:a:jetbrains:space:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "500D01B7-3C24-4C93-A56B-1EDFAD06725B",
+	"versionEndIncluding": "2020-04-22",
+	"created": "2020-04-23T17:45:05.547",
+	"lastModified": "2020-04-23T17:45:05.547",
+	"cpeLastModified": "2020-04-28T10:49:50.293",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:space:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A5C03AB4-990D-4E8F-A054-E39C590FB3B2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:space:2020-04-22:*:*:*:*:*:*:*",
+			"cpeNameId": "51C3E9E2-E656-4568-9398-9E98ABBDAACC"
+		}
+	]
 }

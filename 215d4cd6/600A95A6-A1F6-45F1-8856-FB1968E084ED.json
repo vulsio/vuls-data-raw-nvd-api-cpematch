@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:microfocus:enterprise_server:5.0:-:*:*:*:*:*:*",
-  "matchCriteriaId": "600A95A6-A1F6-45F1-8856-FB1968E084ED",
-  "created": "2019-10-10T17:43:41.570",
-  "lastModified": "2019-10-10T17:43:41.570",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:microfocus:enterprise_server:5.0:-:*:*:*:*:*:*",
-      "cpeNameId": "4859917C-3362-4253-8336-78D5C3395CCB"
-    }
-  ]
+	"criteria": "cpe:2.3:a:microfocus:enterprise_server:5.0:-:*:*:*:*:*:*",
+	"matchCriteriaId": "600A95A6-A1F6-45F1-8856-FB1968E084ED",
+	"created": "2019-10-10T17:43:41.570",
+	"lastModified": "2019-10-10T17:43:41.570",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microfocus:enterprise_server:5.0:-:*:*:*:*:*:*",
+			"cpeNameId": "4859917C-3362-4253-8336-78D5C3395CCB"
+		}
+	]
 }

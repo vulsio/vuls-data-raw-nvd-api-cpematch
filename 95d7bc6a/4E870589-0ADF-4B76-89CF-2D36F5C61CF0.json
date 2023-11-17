@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:schneider-electric:powerlogic_pm5563_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4E870589-0ADF-4B76-89CF-2D36F5C61CF0",
-  "versionEndExcluding": "2.7.8",
-  "created": "2021-06-21T11:26:42.670",
-  "lastModified": "2021-06-21T11:26:42.670",
-  "cpeLastModified": "2021-06-21T11:28:10.843",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:schneider-electric:powerlogic_pm5563_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "250F5880-D24E-4532-BB62-422BF7DD49E9"
-    }
-  ]
+	"criteria": "cpe:2.3:o:schneider-electric:powerlogic_pm5563_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4E870589-0ADF-4B76-89CF-2D36F5C61CF0",
+	"versionEndExcluding": "2.7.8",
+	"created": "2021-06-21T11:26:42.670",
+	"lastModified": "2021-06-21T11:26:42.670",
+	"cpeLastModified": "2021-06-21T11:28:10.843",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:schneider-electric:powerlogic_pm5563_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "250F5880-D24E-4532-BB62-422BF7DD49E9"
+		}
+	]
 }

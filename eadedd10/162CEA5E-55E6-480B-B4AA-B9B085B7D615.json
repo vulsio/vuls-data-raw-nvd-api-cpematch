@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:paloaltonetworks:vm-series_firewall:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "162CEA5E-55E6-480B-B4AA-B9B085B7D615",
-  "created": "2021-11-15T14:08:07.180",
-  "lastModified": "2021-11-15T14:08:07.180",
-  "cpeLastModified": "2021-11-15T16:33:30.057",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:paloaltonetworks:vm-series_firewall:-:*:*:*:*:*:*:*",
-      "cpeNameId": "44ED5656-EFFA-4387-92D1-456E24D942CB"
-    }
-  ]
+	"criteria": "cpe:2.3:a:paloaltonetworks:vm-series_firewall:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "162CEA5E-55E6-480B-B4AA-B9B085B7D615",
+	"created": "2021-11-15T14:08:07.180",
+	"lastModified": "2021-11-15T14:08:07.180",
+	"cpeLastModified": "2021-11-15T16:33:30.057",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:paloaltonetworks:vm-series_firewall:-:*:*:*:*:*:*:*",
+			"cpeNameId": "44ED5656-EFFA-4387-92D1-456E24D942CB"
+		}
+	]
 }

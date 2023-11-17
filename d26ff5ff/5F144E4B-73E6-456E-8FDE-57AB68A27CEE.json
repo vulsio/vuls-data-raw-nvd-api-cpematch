@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:nlnetlabs:ldns:1.6.7:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5F144E4B-73E6-456E-8FDE-57AB68A27CEE",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:nlnetlabs:ldns:1.6.7:*:*:*:*:*:*:*",
-      "cpeNameId": "155D9C4A-A54C-4AE5-8AD4-B8C1A976A21D"
-    }
-  ]
+	"criteria": "cpe:2.3:a:nlnetlabs:ldns:1.6.7:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5F144E4B-73E6-456E-8FDE-57AB68A27CEE",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:nlnetlabs:ldns:1.6.7:*:*:*:*:*:*:*",
+			"cpeNameId": "155D9C4A-A54C-4AE5-8AD4-B8C1A976A21D"
+		}
+	]
 }

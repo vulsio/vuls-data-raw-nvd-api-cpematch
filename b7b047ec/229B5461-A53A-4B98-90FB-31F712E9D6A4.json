@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:cisco:firesight_management_center_750_firmware:6.3.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "229B5461-A53A-4B98-90FB-31F712E9D6A4",
-  "created": "2019-10-21T15:31:32.477",
-  "lastModified": "2019-10-21T15:31:32.477",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:firesight_management_center_750_firmware:6.3.0:*:*:*:*:*:*:*",
-      "cpeNameId": "1BD739FB-9F18-4EC4-9424-8321DF477D3B"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:firesight_management_center_750_firmware:6.3.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "229B5461-A53A-4B98-90FB-31F712E9D6A4",
+	"created": "2019-10-21T15:31:32.477",
+	"lastModified": "2019-10-21T15:31:32.477",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:firesight_management_center_750_firmware:6.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "1BD739FB-9F18-4EC4-9424-8321DF477D3B"
+		}
+	]
 }

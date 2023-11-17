@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:intel:openattestation:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "350B549B-6825-43AE-9754-65F04045E0DF",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:intel:openattestation:-:*:*:*:*:*:*:*",
-      "cpeNameId": "72657F69-EF7C-499D-8A56-9C0DCCD06DB5"
-    }
-  ]
+	"criteria": "cpe:2.3:a:intel:openattestation:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "350B549B-6825-43AE-9754-65F04045E0DF",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:intel:openattestation:-:*:*:*:*:*:*:*",
+			"cpeNameId": "72657F69-EF7C-499D-8A56-9C0DCCD06DB5"
+		}
+	]
 }

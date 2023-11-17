@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:amd:ryzen_5_4600hs_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B62B699D-0BE7-4C51-B280-5A8AB4DF69D3",
-  "versionEndExcluding": "renoirpi-fp6_1.0.0.b",
-  "created": "2023-08-21T12:02:29.487",
-  "lastModified": "2023-08-21T18:35:07.823",
-  "cpeLastModified": "2023-08-21T18:35:07.823",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:amd:ryzen_5_4600hs_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "3446EA76-BB99-467E-BD36-AA631B727457"
-    }
-  ]
+	"criteria": "cpe:2.3:o:amd:ryzen_5_4600hs_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B62B699D-0BE7-4C51-B280-5A8AB4DF69D3",
+	"versionEndExcluding": "renoirpi-fp6_1.0.0.b",
+	"created": "2023-08-21T12:02:29.487",
+	"lastModified": "2023-08-21T18:35:07.823",
+	"cpeLastModified": "2023-08-21T18:35:07.823",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_5_4600hs_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3446EA76-BB99-467E-BD36-AA631B727457"
+		}
+	]
 }

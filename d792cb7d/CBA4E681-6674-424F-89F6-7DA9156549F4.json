@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:ibm:nextscale_fan_power_controller_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CBA4E681-6674-424F-89F6-7DA9156549F4",
-  "versionEndExcluding": "44a-3.70",
-  "created": "2022-05-02T18:31:52.697",
-  "lastModified": "2022-05-02T18:31:52.697",
-  "cpeLastModified": "2022-05-09T13:33:30.530",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:ibm:nextscale_fan_power_controller_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "33437A7C-F202-488A-A706-D2F907C40970"
-    }
-  ]
+	"criteria": "cpe:2.3:o:ibm:nextscale_fan_power_controller_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CBA4E681-6674-424F-89F6-7DA9156549F4",
+	"versionEndExcluding": "44a-3.70",
+	"created": "2022-05-02T18:31:52.697",
+	"lastModified": "2022-05-02T18:31:52.697",
+	"cpeLastModified": "2022-05-09T13:33:30.530",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:ibm:nextscale_fan_power_controller_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "33437A7C-F202-488A-A706-D2F907C40970"
+		}
+	]
 }

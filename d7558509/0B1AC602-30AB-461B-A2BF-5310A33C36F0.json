@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:mitsubishielectric:fx5-enet_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0B1AC602-30AB-461B-A2BF-5310A33C36F0",
-  "created": "2020-10-14T15:24:23.870",
-  "lastModified": "2020-10-14T15:24:23.870",
-  "cpeLastModified": "2020-12-22T16:32:19.440",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:mitsubishielectric:fx5-enet_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "63F99836-CF9B-412E-931A-C7D26E0A25A2"
-    }
-  ]
+	"criteria": "cpe:2.3:o:mitsubishielectric:fx5-enet_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0B1AC602-30AB-461B-A2BF-5310A33C36F0",
+	"created": "2020-10-14T15:24:23.870",
+	"lastModified": "2020-10-14T15:24:23.870",
+	"cpeLastModified": "2020-12-22T16:32:19.440",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:mitsubishielectric:fx5-enet_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "63F99836-CF9B-412E-931A-C7D26E0A25A2"
+		}
+	]
 }

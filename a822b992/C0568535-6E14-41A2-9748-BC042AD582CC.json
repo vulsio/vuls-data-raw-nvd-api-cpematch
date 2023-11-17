@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:a:alfasado:powercms:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C0568535-6E14-41A2-9748-BC042AD582CC",
-  "versionStartIncluding": "2.0",
-  "versionEndIncluding": "2.058",
-  "created": "2021-11-29T16:57:42.410",
-  "lastModified": "2021-11-29T16:57:42.410",
-  "cpeLastModified": "2021-11-29T17:16:35.020",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:alfasado:powercms:2.0:*:*:*:*:*:*:*",
-      "cpeNameId": "C06202A1-0A16-4747-B703-A758487DA688"
-    },
-    {
-      "cpeName": "cpe:2.3:a:alfasado:powercms:2.058:*:*:*:*:*:*:*",
-      "cpeNameId": "8FA79A0D-517B-4724-ABE2-0107AC7BAE9F"
-    }
-  ]
+	"criteria": "cpe:2.3:a:alfasado:powercms:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C0568535-6E14-41A2-9748-BC042AD582CC",
+	"versionStartIncluding": "2.0",
+	"versionEndIncluding": "2.058",
+	"created": "2021-11-29T16:57:42.410",
+	"lastModified": "2021-11-29T16:57:42.410",
+	"cpeLastModified": "2021-11-29T17:16:35.020",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:alfasado:powercms:2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C06202A1-0A16-4747-B703-A758487DA688"
+		},
+		{
+			"cpeName": "cpe:2.3:a:alfasado:powercms:2.058:*:*:*:*:*:*:*",
+			"cpeNameId": "8FA79A0D-517B-4724-ABE2-0107AC7BAE9F"
+		}
+	]
 }

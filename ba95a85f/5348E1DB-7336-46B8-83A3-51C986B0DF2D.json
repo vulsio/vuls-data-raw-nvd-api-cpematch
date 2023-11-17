@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:atlassian:jira_server:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5348E1DB-7336-46B8-83A3-51C986B0DF2D",
-  "versionStartIncluding": "8.8.0",
-  "versionEndExcluding": "8.8.1",
-  "created": "2022-03-25T18:13:28.920",
-  "lastModified": "2022-03-25T18:13:28.920",
-  "cpeLastModified": "2022-03-25T18:14:27.203",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:atlassian:jira_server:8.8.0:*:*:*:*:*:*:*",
-      "cpeNameId": "5A6428E4-706F-4403-B304-B237277816CE"
-    }
-  ]
+	"criteria": "cpe:2.3:a:atlassian:jira_server:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5348E1DB-7336-46B8-83A3-51C986B0DF2D",
+	"versionStartIncluding": "8.8.0",
+	"versionEndExcluding": "8.8.1",
+	"created": "2022-03-25T18:13:28.920",
+	"lastModified": "2022-03-25T18:13:28.920",
+	"cpeLastModified": "2022-03-25T18:14:27.203",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:atlassian:jira_server:8.8.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5A6428E4-706F-4403-B304-B237277816CE"
+		}
+	]
 }

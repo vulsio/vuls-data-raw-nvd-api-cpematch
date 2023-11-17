@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:cryptopro:csp:*:*:*:*:*:*:x64:*",
-  "matchCriteriaId": "42D6B19A-11CD-43D6-82F8-F9719AEBB432",
-  "versionEndIncluding": "5.0.0.10004",
-  "created": "2020-10-26T14:54:05.167",
-  "lastModified": "2020-10-26T14:54:05.167",
-  "cpeLastModified": "2021-01-28T17:26:17.030",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:cryptopro:csp:-:*:*:*:*:*:x64:*",
-      "cpeNameId": "CE1F9FB1-0FC2-45C1-B5EB-6488F0751F45"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cryptopro:csp:5.0.0.10004:*:*:*:*:*:x64:*",
-      "cpeNameId": "D6AB074C-CBB2-4DE5-9613-4637AADE971E"
-    }
-  ]
+	"criteria": "cpe:2.3:a:cryptopro:csp:*:*:*:*:*:*:x64:*",
+	"matchCriteriaId": "42D6B19A-11CD-43D6-82F8-F9719AEBB432",
+	"versionEndIncluding": "5.0.0.10004",
+	"created": "2020-10-26T14:54:05.167",
+	"lastModified": "2020-10-26T14:54:05.167",
+	"cpeLastModified": "2021-01-28T17:26:17.030",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cryptopro:csp:-:*:*:*:*:*:x64:*",
+			"cpeNameId": "CE1F9FB1-0FC2-45C1-B5EB-6488F0751F45"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cryptopro:csp:5.0.0.10004:*:*:*:*:*:x64:*",
+			"cpeNameId": "D6AB074C-CBB2-4DE5-9613-4637AADE971E"
+		}
+	]
 }

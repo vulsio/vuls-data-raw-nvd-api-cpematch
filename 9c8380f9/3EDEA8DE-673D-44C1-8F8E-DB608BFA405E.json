@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:jtekt:plus_efr_tcu-6743_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "3EDEA8DE-673D-44C1-8F8E-DB608BFA405E",
-  "created": "2021-04-23T15:20:05.023",
-  "lastModified": "2021-04-23T15:20:05.023",
-  "cpeLastModified": "2021-04-23T15:22:57.803",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:jtekt:plus_efr_tcu-6743_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E43364E1-3E27-4FB0-A4CC-85570CE28EA0"
-    }
-  ]
+	"criteria": "cpe:2.3:o:jtekt:plus_efr_tcu-6743_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3EDEA8DE-673D-44C1-8F8E-DB608BFA405E",
+	"created": "2021-04-23T15:20:05.023",
+	"lastModified": "2021-04-23T15:20:05.023",
+	"cpeLastModified": "2021-04-23T15:22:57.803",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:jtekt:plus_efr_tcu-6743_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E43364E1-3E27-4FB0-A4CC-85570CE28EA0"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:advanced_category_template_project:advanced_category_template:*:*:*:*:*:wordpress:*:*",
-  "matchCriteriaId": "A128A7EC-C5AC-40B8-8E2F-47EC46672939",
-  "versionEndIncluding": "0.1",
-  "created": "2023-08-23T12:30:31.140",
-  "lastModified": "2023-08-24T11:17:11.437",
-  "cpeLastModified": "2023-08-24T11:17:11.437",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:advanced_category_template_project:advanced_category_template:-:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "70519D79-F874-422C-8E36-AB6D8AD322F6"
-    },
-    {
-      "cpeName": "cpe:2.3:a:advanced_category_template_project:advanced_category_template:0.1:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "E111E91C-5C96-4D85-87D2-DF679D62F05A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:advanced_category_template_project:advanced_category_template:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "A128A7EC-C5AC-40B8-8E2F-47EC46672939",
+	"versionEndIncluding": "0.1",
+	"created": "2023-08-23T12:30:31.140",
+	"lastModified": "2023-08-24T11:17:11.437",
+	"cpeLastModified": "2023-08-24T11:17:11.437",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:advanced_category_template_project:advanced_category_template:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "70519D79-F874-422C-8E36-AB6D8AD322F6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:advanced_category_template_project:advanced_category_template:0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E111E91C-5C96-4D85-87D2-DF679D62F05A"
+		}
+	]
 }

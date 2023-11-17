@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:siemens:sinamics_starter_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "04398F43-F0CE-4A4E-9DC8-5F5BBFC0C4BF",
-  "created": "2021-08-04T13:34:12.190",
-  "lastModified": "2021-08-04T13:34:12.190",
-  "cpeLastModified": "2021-08-04T13:34:24.723",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:sinamics_starter_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "5DF0C842-3246-43CA-8A3A-BAA1309A5940"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:sinamics_starter_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "04398F43-F0CE-4A4E-9DC8-5F5BBFC0C4BF",
+	"created": "2021-08-04T13:34:12.190",
+	"lastModified": "2021-08-04T13:34:12.190",
+	"cpeLastModified": "2021-08-04T13:34:24.723",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:sinamics_starter_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5DF0C842-3246-43CA-8A3A-BAA1309A5940"
+		}
+	]
 }

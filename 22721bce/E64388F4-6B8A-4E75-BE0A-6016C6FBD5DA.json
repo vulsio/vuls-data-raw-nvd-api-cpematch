@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:eclipse:jetty:10.0.0:alpha1:*:*:*:*:*:*",
-  "matchCriteriaId": "E64388F4-6B8A-4E75-BE0A-6016C6FBD5DA",
-  "created": "2020-10-26T14:15:02.483",
-  "lastModified": "2020-10-26T14:15:02.483",
-  "cpeLastModified": "2020-10-26T14:15:02.497",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:eclipse:jetty:10.0.0:alpha1:*:*:*:*:*:*",
-      "cpeNameId": "5470B98F-8FA0-4DDA-ADD9-F0C3D733AF42"
-    }
-  ]
+	"criteria": "cpe:2.3:a:eclipse:jetty:10.0.0:alpha1:*:*:*:*:*:*",
+	"matchCriteriaId": "E64388F4-6B8A-4E75-BE0A-6016C6FBD5DA",
+	"created": "2020-10-26T14:15:02.483",
+	"lastModified": "2020-10-26T14:15:02.483",
+	"cpeLastModified": "2020-10-26T14:15:02.497",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:eclipse:jetty:10.0.0:alpha1:*:*:*:*:*:*",
+			"cpeNameId": "5470B98F-8FA0-4DDA-ADD9-F0C3D733AF42"
+		}
+	]
 }

@@ -1,40 +1,40 @@
 {
-  "criteria": "cpe:2.3:a:networktocode:nautobot:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "481023F9-E80F-43AC-B069-5E53FA285584",
-  "versionStartIncluding": "2.0.0",
-  "versionEndExcluding": "2.0.3",
-  "created": "2023-10-31T11:25:04.097",
-  "lastModified": "2023-11-01T14:27:45.230",
-  "cpeLastModified": "2023-11-01T14:27:45.230",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:networktocode:nautobot:2.0.0:-:*:*:*:*:*:*",
-      "cpeNameId": "62CA86A8-F56C-40A9-B2C1-F12709987A8B"
-    },
-    {
-      "cpeName": "cpe:2.3:a:networktocode:nautobot:2.0.0:rc1:*:*:*:*:*:*",
-      "cpeNameId": "33BE8CE5-A1DF-4AB4-BE95-03433B793BC1"
-    },
-    {
-      "cpeName": "cpe:2.3:a:networktocode:nautobot:2.0.0:rc2:*:*:*:*:*:*",
-      "cpeNameId": "A7C74AFC-660F-4E41-8DED-F0D5D0C47A06"
-    },
-    {
-      "cpeName": "cpe:2.3:a:networktocode:nautobot:2.0.0:rc3:*:*:*:*:*:*",
-      "cpeNameId": "CE481326-442B-45BE-813C-C5C2212359E4"
-    },
-    {
-      "cpeName": "cpe:2.3:a:networktocode:nautobot:2.0.0:rc4:*:*:*:*:*:*",
-      "cpeNameId": "1EDBA8DD-2D56-4384-8CA6-14353E208FEA"
-    },
-    {
-      "cpeName": "cpe:2.3:a:networktocode:nautobot:2.0.1:*:*:*:*:*:*:*",
-      "cpeNameId": "D9788C0A-3BC9-43BA-80AD-920387C881A1"
-    },
-    {
-      "cpeName": "cpe:2.3:a:networktocode:nautobot:2.0.2:*:*:*:*:*:*:*",
-      "cpeNameId": "F15DF52A-513B-425B-AB73-E07A016E6A93"
-    }
-  ]
+	"criteria": "cpe:2.3:a:networktocode:nautobot:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "481023F9-E80F-43AC-B069-5E53FA285584",
+	"versionStartIncluding": "2.0.0",
+	"versionEndExcluding": "2.0.3",
+	"created": "2023-10-31T11:25:04.097",
+	"lastModified": "2023-11-01T14:27:45.230",
+	"cpeLastModified": "2023-11-01T14:27:45.230",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:networktocode:nautobot:2.0.0:-:*:*:*:*:*:*",
+			"cpeNameId": "62CA86A8-F56C-40A9-B2C1-F12709987A8B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:networktocode:nautobot:2.0.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "33BE8CE5-A1DF-4AB4-BE95-03433B793BC1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:networktocode:nautobot:2.0.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "A7C74AFC-660F-4E41-8DED-F0D5D0C47A06"
+		},
+		{
+			"cpeName": "cpe:2.3:a:networktocode:nautobot:2.0.0:rc3:*:*:*:*:*:*",
+			"cpeNameId": "CE481326-442B-45BE-813C-C5C2212359E4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:networktocode:nautobot:2.0.0:rc4:*:*:*:*:*:*",
+			"cpeNameId": "1EDBA8DD-2D56-4384-8CA6-14353E208FEA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:networktocode:nautobot:2.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "D9788C0A-3BC9-43BA-80AD-920387C881A1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:networktocode:nautobot:2.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "F15DF52A-513B-425B-AB73-E07A016E6A93"
+		}
+	]
 }

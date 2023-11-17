@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:cisco:ip_phone_7832_firmware:12.5\\(1\\)sr2:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4E74E58B-5743-4080-97F6-38D4931BB58C",
-  "created": "2022-12-12T17:32:21.857",
-  "lastModified": "2022-12-12T18:24:57.593",
-  "cpeLastModified": "2022-12-12T18:24:57.593",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:ip_phone_7832_firmware:12.5\\(1\\)sr2:*:*:*:*:*:*:*",
-      "cpeNameId": "E6AEF12D-A10A-4D09-ACAE-E178D4DC04E4"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:ip_phone_7832_firmware:12.5\\(1\\)sr2:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4E74E58B-5743-4080-97F6-38D4931BB58C",
+	"created": "2022-12-12T17:32:21.857",
+	"lastModified": "2022-12-12T18:24:57.593",
+	"cpeLastModified": "2022-12-12T18:24:57.593",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:ip_phone_7832_firmware:12.5\\(1\\)sr2:*:*:*:*:*:*:*",
+			"cpeNameId": "E6AEF12D-A10A-4D09-ACAE-E178D4DC04E4"
+		}
+	]
 }

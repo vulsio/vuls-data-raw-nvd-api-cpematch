@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:konicaminolta:bizhub_c368_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "052011E8-47A2-4088-B98C-1E154635AA5C",
-  "versionEndExcluding": "2022-04-14",
-  "created": "2022-05-19T20:59:36.623",
-  "lastModified": "2022-05-26T15:29:44.860",
-  "cpeLastModified": "2022-01-11T17:05:46.560",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:konicaminolta:bizhub_c368_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "A8C585E5-297C-4ECF-BB41-6753AF2907E9"
-    }
-  ]
+	"criteria": "cpe:2.3:o:konicaminolta:bizhub_c368_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "052011E8-47A2-4088-B98C-1E154635AA5C",
+	"versionEndExcluding": "2022-04-14",
+	"created": "2022-05-19T20:59:36.623",
+	"lastModified": "2022-05-26T15:29:44.860",
+	"cpeLastModified": "2022-01-11T17:05:46.560",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:konicaminolta:bizhub_c368_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A8C585E5-297C-4ECF-BB41-6753AF2907E9"
+		}
+	]
 }

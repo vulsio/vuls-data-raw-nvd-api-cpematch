@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:qualcomm:pm8909_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "498F048F-669D-46E0-AA60-ED2B3E11B67A",
-  "created": "2021-01-26T11:59:04.703",
-  "lastModified": "2021-01-26T11:59:04.703",
-  "cpeLastModified": "2021-03-08T18:37:26.903",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:qualcomm:pm8909_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "734650DE-8422-4662-B995-5A62D99B9CD6"
-    }
-  ]
+	"criteria": "cpe:2.3:o:qualcomm:pm8909_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "498F048F-669D-46E0-AA60-ED2B3E11B67A",
+	"created": "2021-01-26T11:59:04.703",
+	"lastModified": "2021-01-26T11:59:04.703",
+	"cpeLastModified": "2021-03-08T18:37:26.903",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:qualcomm:pm8909_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "734650DE-8422-4662-B995-5A62D99B9CD6"
+		}
+	]
 }

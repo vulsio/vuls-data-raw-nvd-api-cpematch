@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:oracle:jre:*:update35:*:*:*:*:*:*",
-  "matchCriteriaId": "A6EE3A27-5C23-4C95-AE74-E14B815B463A",
-  "versionEndIncluding": "1.6.0",
-  "created": "2022-05-13T14:52:47.343",
-  "lastModified": "2022-11-09T17:50:26.953",
-  "cpeLastModified": "2022-11-09T17:50:26.953",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:oracle:jre:1.5.0:update35:*:*:*:*:*:*",
-      "cpeNameId": "03480CE6-A8C3-4180-970F-C16975393567"
-    },
-    {
-      "cpeName": "cpe:2.3:a:oracle:jre:1.6.0:update35:*:*:*:*:*:*",
-      "cpeNameId": "0DA1C64B-BF10-485B-A099-F3B30376B8FE"
-    }
-  ]
+	"criteria": "cpe:2.3:a:oracle:jre:*:update35:*:*:*:*:*:*",
+	"matchCriteriaId": "A6EE3A27-5C23-4C95-AE74-E14B815B463A",
+	"versionEndIncluding": "1.6.0",
+	"created": "2022-05-13T14:52:47.343",
+	"lastModified": "2022-11-09T17:50:26.953",
+	"cpeLastModified": "2022-11-09T17:50:26.953",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:jre:1.5.0:update35:*:*:*:*:*:*",
+			"cpeNameId": "03480CE6-A8C3-4180-970F-C16975393567"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:jre:1.6.0:update35:*:*:*:*:*:*",
+			"cpeNameId": "0DA1C64B-BF10-485B-A099-F3B30376B8FE"
+		}
+	]
 }

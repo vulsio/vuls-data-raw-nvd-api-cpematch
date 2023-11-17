@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:cisco:meraki_gr60:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "33B44092-CC37-4683-920D-8F84C60CCCEF",
-  "created": "2022-03-03T14:56:03.947",
-  "lastModified": "2022-07-12T15:45:40.327",
-  "cpeLastModified": "2022-04-22T19:33:26.343",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:cisco:meraki_gr60:-:*:*:*:*:*:*:*",
-      "cpeNameId": "BDE5D8EB-347E-4C74-9830-E751F5D48C05"
-    }
-  ]
+	"criteria": "cpe:2.3:h:cisco:meraki_gr60:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "33B44092-CC37-4683-920D-8F84C60CCCEF",
+	"created": "2022-03-03T14:56:03.947",
+	"lastModified": "2022-07-12T15:45:40.327",
+	"cpeLastModified": "2022-04-22T19:33:26.343",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:cisco:meraki_gr60:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BDE5D8EB-347E-4C74-9830-E751F5D48C05"
+		}
+	]
 }

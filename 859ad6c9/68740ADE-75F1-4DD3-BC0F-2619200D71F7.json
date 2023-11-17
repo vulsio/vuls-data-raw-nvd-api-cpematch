@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:cohesity:cohesity_dataplatform:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "68740ADE-75F1-4DD3-BC0F-2619200D71F7",
-  "versionStartIncluding": "6.3",
-  "versionEndExcluding": "6.3.1g",
-  "created": "2021-04-06T17:17:23.860",
-  "lastModified": "2021-04-06T17:17:23.860",
-  "cpeLastModified": "2021-04-06T17:19:11.050",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:cohesity:cohesity_dataplatform:6.3:*:*:*:*:*:*:*",
-      "cpeNameId": "4F44B3B8-3C5B-41F2-948C-54C42077CF1D"
-    }
-  ]
+	"criteria": "cpe:2.3:a:cohesity:cohesity_dataplatform:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "68740ADE-75F1-4DD3-BC0F-2619200D71F7",
+	"versionStartIncluding": "6.3",
+	"versionEndExcluding": "6.3.1g",
+	"created": "2021-04-06T17:17:23.860",
+	"lastModified": "2021-04-06T17:17:23.860",
+	"cpeLastModified": "2021-04-06T17:19:11.050",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cohesity:cohesity_dataplatform:6.3:*:*:*:*:*:*:*",
+			"cpeNameId": "4F44B3B8-3C5B-41F2-948C-54C42077CF1D"
+		}
+	]
 }

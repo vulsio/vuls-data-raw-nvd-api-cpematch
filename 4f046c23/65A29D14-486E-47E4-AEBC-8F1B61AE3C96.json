@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:beckhoff:twincat:2.11:build_2350:*:*:*:*:*:*",
-  "matchCriteriaId": "65A29D14-486E-47E4-AEBC-8F1B61AE3C96",
-  "created": "2020-06-24T20:12:34.577",
-  "lastModified": "2020-06-24T20:12:34.577",
-  "cpeLastModified": "2020-08-03T11:16:57.443",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:beckhoff:twincat:2.11:build_2350:*:*:*:*:*:*",
-      "cpeNameId": "578CDBCB-52E3-44EB-959D-BC8993E86D48"
-    }
-  ]
+	"criteria": "cpe:2.3:a:beckhoff:twincat:2.11:build_2350:*:*:*:*:*:*",
+	"matchCriteriaId": "65A29D14-486E-47E4-AEBC-8F1B61AE3C96",
+	"created": "2020-06-24T20:12:34.577",
+	"lastModified": "2020-06-24T20:12:34.577",
+	"cpeLastModified": "2020-08-03T11:16:57.443",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:beckhoff:twincat:2.11:build_2350:*:*:*:*:*:*",
+			"cpeNameId": "578CDBCB-52E3-44EB-959D-BC8993E86D48"
+		}
+	]
 }

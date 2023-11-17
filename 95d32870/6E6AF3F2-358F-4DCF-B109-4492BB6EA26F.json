@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:rsa:archer:6.9:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6E6AF3F2-358F-4DCF-B109-4492BB6EA26F",
-  "created": "2020-11-24T12:26:02.570",
-  "lastModified": "2020-11-24T12:26:02.570",
-  "cpeLastModified": "2020-12-03T18:06:13.360",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:rsa:archer:6.9:*:*:*:*:*:*:*",
-      "cpeNameId": "389C81AD-46B4-4DC4-8AAF-DDF82001B03A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:rsa:archer:6.9:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6E6AF3F2-358F-4DCF-B109-4492BB6EA26F",
+	"created": "2020-11-24T12:26:02.570",
+	"lastModified": "2020-11-24T12:26:02.570",
+	"cpeLastModified": "2020-12-03T18:06:13.360",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:rsa:archer:6.9:*:*:*:*:*:*:*",
+			"cpeNameId": "389C81AD-46B4-4DC4-8AAF-DDF82001B03A"
+		}
+	]
 }

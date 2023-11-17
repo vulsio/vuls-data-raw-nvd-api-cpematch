@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:wpdownloadmanager:wordpress_download_manager:2.5.0:*:*:*:*:wordpress:*:*",
-  "matchCriteriaId": "DE475437-88D7-48D0-BC00-1190242322C0",
-  "created": "2020-05-05T12:10:26.407",
-  "lastModified": "2020-05-05T12:10:26.407",
-  "cpeLastModified": "2020-05-05T12:10:26.420",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:wpdownloadmanager:wordpress_download_manager:2.5.0:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "0C5CA318-387A-4ECE-B679-B6C84BDC66FE"
-    }
-  ]
+	"criteria": "cpe:2.3:a:wpdownloadmanager:wordpress_download_manager:2.5.0:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "DE475437-88D7-48D0-BC00-1190242322C0",
+	"created": "2020-05-05T12:10:26.407",
+	"lastModified": "2020-05-05T12:10:26.407",
+	"cpeLastModified": "2020-05-05T12:10:26.420",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wpdownloadmanager:wordpress_download_manager:2.5.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0C5CA318-387A-4ECE-B679-B6C84BDC66FE"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:apache:camel:2.2.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A9C643FE-F7C2-422C-8553-656A1BAE73DC",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:apache:camel:2.2.0:*:*:*:*:*:*:*",
-      "cpeNameId": "D084913E-98D9-4777-8733-21F8EAF38595"
-    }
-  ]
+	"criteria": "cpe:2.3:a:apache:camel:2.2.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A9C643FE-F7C2-422C-8553-656A1BAE73DC",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apache:camel:2.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D084913E-98D9-4777-8733-21F8EAF38595"
+		}
+	]
 }

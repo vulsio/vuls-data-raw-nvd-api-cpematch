@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:openbsd:openssh:8.3:p1:*:*:*:*:*:*",
-  "matchCriteriaId": "7AF2FAD7-B7B8-4D8E-8BCD-EB7325C2328E",
-  "created": "2020-07-24T15:04:00.420",
-  "lastModified": "2020-07-24T15:04:00.420",
-  "cpeLastModified": "2020-07-24T16:40:44.160",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:openbsd:openssh:8.3:p1:*:*:*:*:*:*",
-      "cpeNameId": "990FF44B-A83E-479C-A808-55F21AB5CB26"
-    }
-  ]
+	"criteria": "cpe:2.3:a:openbsd:openssh:8.3:p1:*:*:*:*:*:*",
+	"matchCriteriaId": "7AF2FAD7-B7B8-4D8E-8BCD-EB7325C2328E",
+	"created": "2020-07-24T15:04:00.420",
+	"lastModified": "2020-07-24T15:04:00.420",
+	"cpeLastModified": "2020-07-24T16:40:44.160",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:openbsd:openssh:8.3:p1:*:*:*:*:*:*",
+			"cpeNameId": "990FF44B-A83E-479C-A808-55F21AB5CB26"
+		}
+	]
 }

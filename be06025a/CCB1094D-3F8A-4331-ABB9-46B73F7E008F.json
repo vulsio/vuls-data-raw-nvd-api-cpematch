@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:siemens:scalance_x307-2eec_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CCB1094D-3F8A-4331-ABB9-46B73F7E008F",
-  "versionEndExcluding": "4.1.4",
-  "created": "2022-04-18T13:44:11.663",
-  "lastModified": "2022-04-18T13:44:11.663",
-  "cpeLastModified": "2022-04-19T16:39:29.573",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:scalance_x307-2eec_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "CEAC17AB-F212-4284-A66C-14B282B8DF3C"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:scalance_x307-2eec_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CCB1094D-3F8A-4331-ABB9-46B73F7E008F",
+	"versionEndExcluding": "4.1.4",
+	"created": "2022-04-18T13:44:11.663",
+	"lastModified": "2022-04-18T13:44:11.663",
+	"cpeLastModified": "2022-04-19T16:39:29.573",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:scalance_x307-2eec_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CEAC17AB-F212-4284-A66C-14B282B8DF3C"
+		}
+	]
 }

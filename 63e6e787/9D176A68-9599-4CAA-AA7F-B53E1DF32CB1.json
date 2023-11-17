@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:amb1_sdk_project:amb1_sdk:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9D176A68-9599-4CAA-AA7F-B53E1DF32CB1",
-  "versionEndExcluding": "2022-03-11",
-  "created": "2022-05-06T14:02:32.630",
-  "lastModified": "2022-05-06T14:02:32.630",
-  "cpeLastModified": "2022-05-13T15:18:24.477",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:amb1_sdk_project:amb1_sdk:-:*:*:*:*:*:*:*",
-      "cpeNameId": "475E46B8-E63D-4697-8E94-5B2BE3BE849D"
-    }
-  ]
+	"criteria": "cpe:2.3:a:amb1_sdk_project:amb1_sdk:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9D176A68-9599-4CAA-AA7F-B53E1DF32CB1",
+	"versionEndExcluding": "2022-03-11",
+	"created": "2022-05-06T14:02:32.630",
+	"lastModified": "2022-05-06T14:02:32.630",
+	"cpeLastModified": "2022-05-13T15:18:24.477",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:amb1_sdk_project:amb1_sdk:-:*:*:*:*:*:*:*",
+			"cpeNameId": "475E46B8-E63D-4697-8E94-5B2BE3BE849D"
+		}
+	]
 }

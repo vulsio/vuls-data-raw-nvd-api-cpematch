@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:supermicro:x10slm\\+-f_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B0A630E7-8C70-4221-A599-BEAA8C3AE70E",
-  "versionEndExcluding": "3.4",
-  "created": "2021-03-17T14:22:56.420",
-  "lastModified": "2021-03-17T14:22:56.420",
-  "cpeLastModified": "2021-03-17T14:29:38.643",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:supermicro:x10slm\\+-f_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "74405107-FAA2-42DA-ACCB-F37CA1DD7B4F"
-    }
-  ]
+	"criteria": "cpe:2.3:o:supermicro:x10slm\\+-f_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B0A630E7-8C70-4221-A599-BEAA8C3AE70E",
+	"versionEndExcluding": "3.4",
+	"created": "2021-03-17T14:22:56.420",
+	"lastModified": "2021-03-17T14:22:56.420",
+	"cpeLastModified": "2021-03-17T14:29:38.643",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:supermicro:x10slm\\+-f_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "74405107-FAA2-42DA-ACCB-F37CA1DD7B4F"
+		}
+	]
 }

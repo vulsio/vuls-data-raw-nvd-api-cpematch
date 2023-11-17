@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:atom_c5320_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "59770888-7410-41DA-A075-663FA9A5D83D",
-  "created": "2022-08-23T20:23:08.003",
-  "lastModified": "2022-08-23T20:23:08.003",
-  "cpeLastModified": "2022-08-24T12:55:25.843",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:atom_c5320_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "F2842DF6-B632-4EAE-9D78-99070580D3FB"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:atom_c5320_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "59770888-7410-41DA-A075-663FA9A5D83D",
+	"created": "2022-08-23T20:23:08.003",
+	"lastModified": "2022-08-23T20:23:08.003",
+	"cpeLastModified": "2022-08-24T12:55:25.843",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:atom_c5320_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F2842DF6-B632-4EAE-9D78-99070580D3FB"
+		}
+	]
 }

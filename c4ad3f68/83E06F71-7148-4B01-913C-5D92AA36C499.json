@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:schneider-electric:srtl3000rmxli_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "83E06F71-7148-4B01-913C-5D92AA36C499",
-  "versionEndIncluding": "01.0",
-  "created": "2022-04-14T17:14:46.783",
-  "lastModified": "2022-04-14T17:14:46.783",
-  "cpeLastModified": "2022-05-13T12:58:16.437",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:schneider-electric:srtl3000rmxli_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "A581B45F-0484-462B-9D6C-130B620AADD6"
-    }
-  ]
+	"criteria": "cpe:2.3:o:schneider-electric:srtl3000rmxli_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "83E06F71-7148-4B01-913C-5D92AA36C499",
+	"versionEndIncluding": "01.0",
+	"created": "2022-04-14T17:14:46.783",
+	"lastModified": "2022-04-14T17:14:46.783",
+	"cpeLastModified": "2022-05-13T12:58:16.437",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:schneider-electric:srtl3000rmxli_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A581B45F-0484-462B-9D6C-130B620AADD6"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:nuc9i5qn_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "DE4B9A34-BE88-4148-BE19-0FCA9C676A64",
-  "versionEndExcluding": "qxcfl579.0064",
-  "created": "2022-05-19T16:18:04.213",
-  "lastModified": "2022-05-19T16:18:04.213",
-  "cpeLastModified": "2022-05-19T16:33:47.700",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:nuc9i5qn_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "EC657034-A840-4CE5-9AF1-28BA89BACF96"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:nuc9i5qn_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DE4B9A34-BE88-4148-BE19-0FCA9C676A64",
+	"versionEndExcluding": "qxcfl579.0064",
+	"created": "2022-05-19T16:18:04.213",
+	"lastModified": "2022-05-19T16:18:04.213",
+	"cpeLastModified": "2022-05-19T16:33:47.700",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:nuc9i5qn_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EC657034-A840-4CE5-9AF1-28BA89BACF96"
+		}
+	]
 }

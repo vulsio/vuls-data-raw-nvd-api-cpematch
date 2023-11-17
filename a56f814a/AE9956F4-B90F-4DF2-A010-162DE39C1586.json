@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:lexmark:cx825dte:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AE9956F4-B90F-4DF2-A010-162DE39C1586",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:lexmark:cx825dte:-:*:*:*:*:*:*:*",
-      "cpeNameId": "B10C0829-E17B-4DDC-97EA-FE3974D117A7"
-    }
-  ]
+	"criteria": "cpe:2.3:h:lexmark:cx825dte:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AE9956F4-B90F-4DF2-A010-162DE39C1586",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:lexmark:cx825dte:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B10C0829-E17B-4DDC-97EA-FE3974D117A7"
+		}
+	]
 }

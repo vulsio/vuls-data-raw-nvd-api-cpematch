@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:siemens:cp1616_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0B1E2552-2661-40FB-A88A-4383064A58F3",
-  "versionEndExcluding": "2.8",
-  "created": "2019-10-11T15:41:52.560",
-  "lastModified": "2019-10-11T15:41:52.560",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:cp1616_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "5F90568F-8B03-497B-AC74-41DB1B1023E2"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:cp1616_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0B1E2552-2661-40FB-A88A-4383064A58F3",
+	"versionEndExcluding": "2.8",
+	"created": "2019-10-11T15:41:52.560",
+	"lastModified": "2019-10-11T15:41:52.560",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:cp1616_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5F90568F-8B03-497B-AC74-41DB1B1023E2"
+		}
+	]
 }

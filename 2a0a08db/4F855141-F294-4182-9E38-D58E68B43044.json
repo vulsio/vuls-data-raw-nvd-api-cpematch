@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:swiftfiletransfer:swift_file_transfer:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4F855141-F294-4182-9E38-D58E68B43044",
-  "versionEndIncluding": "1.1.2",
-  "created": "2021-10-26T10:42:25.160",
-  "lastModified": "2021-10-26T10:42:25.160",
-  "cpeLastModified": "2023-01-03T20:55:57.677",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:swiftfiletransfer:swift_file_transfer:1.1.2:*:*:*:*:*:*:*",
-      "cpeNameId": "F815FD5A-1F2D-4911-82BF-9586102538BD"
-    }
-  ]
+	"criteria": "cpe:2.3:a:swiftfiletransfer:swift_file_transfer:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4F855141-F294-4182-9E38-D58E68B43044",
+	"versionEndIncluding": "1.1.2",
+	"created": "2021-10-26T10:42:25.160",
+	"lastModified": "2021-10-26T10:42:25.160",
+	"cpeLastModified": "2023-01-03T20:55:57.677",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:swiftfiletransfer:swift_file_transfer:1.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "F815FD5A-1F2D-4911-82BF-9586102538BD"
+		}
+	]
 }

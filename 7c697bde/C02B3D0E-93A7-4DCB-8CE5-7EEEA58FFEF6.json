@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:intel:celeron_g3900e:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C02B3D0E-93A7-4DCB-8CE5-7EEEA58FFEF6",
-  "created": "2019-11-18T14:48:58.140",
-  "lastModified": "2019-11-18T14:48:58.140",
-  "cpeLastModified": "2020-03-23T16:18:54.300",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:intel:celeron_g3900e:-:*:*:*:*:*:*:*",
-      "cpeNameId": "B6870126-7AC5-406D-8B0F-CEB414659235"
-    }
-  ]
+	"criteria": "cpe:2.3:h:intel:celeron_g3900e:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C02B3D0E-93A7-4DCB-8CE5-7EEEA58FFEF6",
+	"created": "2019-11-18T14:48:58.140",
+	"lastModified": "2019-11-18T14:48:58.140",
+	"cpeLastModified": "2020-03-23T16:18:54.300",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:celeron_g3900e:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B6870126-7AC5-406D-8B0F-CEB414659235"
+		}
+	]
 }

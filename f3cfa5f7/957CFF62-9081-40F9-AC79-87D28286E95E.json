@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:cisco:firepower_extensible_operating_system:2.2.2.86:*:*:*:*:*:*:*",
-  "matchCriteriaId": "957CFF62-9081-40F9-AC79-87D28286E95E",
-  "created": "2022-11-22T00:19:41.890",
-  "lastModified": "2022-11-23T15:16:30.390",
-  "cpeLastModified": "2022-11-23T15:16:30.390",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:firepower_extensible_operating_system:2.2.2.86:*:*:*:*:*:*:*",
-      "cpeNameId": "04C280CA-26A1-475D-9E89-4CAD09E9752A"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:firepower_extensible_operating_system:2.2.2.86:*:*:*:*:*:*:*",
+	"matchCriteriaId": "957CFF62-9081-40F9-AC79-87D28286E95E",
+	"created": "2022-11-22T00:19:41.890",
+	"lastModified": "2022-11-23T15:16:30.390",
+	"cpeLastModified": "2022-11-23T15:16:30.390",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:firepower_extensible_operating_system:2.2.2.86:*:*:*:*:*:*:*",
+			"cpeNameId": "04C280CA-26A1-475D-9E89-4CAD09E9752A"
+		}
+	]
 }

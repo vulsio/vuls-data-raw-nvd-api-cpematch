@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:o:audiocodes:mediant_500l-msbr_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0415DF0B-2809-4309-8253-B64200766A78",
-  "versionStartIncluding": "f7.20a",
-  "versionEndExcluding": "f7.20a.202.307",
-  "created": "2019-07-26T15:51:25.930",
-  "lastModified": "2019-07-26T15:51:25.930",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:audiocodes:mediant_500l-msbr_firmware:f7.20a:*:*:*:*:*:*:*",
-      "cpeNameId": "F7E2AB79-373B-47DF-BC33-88EDD062B440"
-    }
-  ]
+	"criteria": "cpe:2.3:o:audiocodes:mediant_500l-msbr_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0415DF0B-2809-4309-8253-B64200766A78",
+	"versionStartIncluding": "f7.20a",
+	"versionEndExcluding": "f7.20a.202.307",
+	"created": "2019-07-26T15:51:25.930",
+	"lastModified": "2019-07-26T15:51:25.930",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:audiocodes:mediant_500l-msbr_firmware:f7.20a:*:*:*:*:*:*:*",
+			"cpeNameId": "F7E2AB79-373B-47DF-BC33-88EDD062B440"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:jenkins:japex:*:*:*:*:*:jenkins:*:*",
-  "matchCriteriaId": "02388418-7163-4144-80A4-C298D95886D6",
-  "versionEndIncluding": "1.7",
-  "created": "2022-11-16T12:29:34.957",
-  "lastModified": "2022-11-16T15:47:44.497",
-  "cpeLastModified": "2022-11-16T15:47:44.497",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:jenkins:japex:-:*:*:*:*:jenkins:*:*",
-      "cpeNameId": "33E1B589-1591-496F-961F-732DEFC76C0E"
-    },
-    {
-      "cpeName": "cpe:2.3:a:jenkins:japex:1.7:*:*:*:*:jenkins:*:*",
-      "cpeNameId": "C9B05080-3817-4C07-A642-3B10C4B8DAA8"
-    }
-  ]
+	"criteria": "cpe:2.3:a:jenkins:japex:*:*:*:*:*:jenkins:*:*",
+	"matchCriteriaId": "02388418-7163-4144-80A4-C298D95886D6",
+	"versionEndIncluding": "1.7",
+	"created": "2022-11-16T12:29:34.957",
+	"lastModified": "2022-11-16T15:47:44.497",
+	"cpeLastModified": "2022-11-16T15:47:44.497",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:jenkins:japex:-:*:*:*:*:jenkins:*:*",
+			"cpeNameId": "33E1B589-1591-496F-961F-732DEFC76C0E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jenkins:japex:1.7:*:*:*:*:jenkins:*:*",
+			"cpeNameId": "C9B05080-3817-4C07-A642-3B10C4B8DAA8"
+		}
+	]
 }

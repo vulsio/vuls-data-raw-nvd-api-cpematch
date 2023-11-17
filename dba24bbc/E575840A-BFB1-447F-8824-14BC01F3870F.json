@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:nippon-antenna:rfntps_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E575840A-BFB1-447F-8824-14BC01F3870F",
-  "versionEndIncluding": "system_01000004",
-  "created": "2021-05-25T13:09:13.473",
-  "lastModified": "2021-05-25T13:09:13.473",
-  "cpeLastModified": "2021-05-25T13:10:22.027",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:nippon-antenna:rfntps_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "D107FDB5-56F7-42F9-A968-63702B77722E"
-    },
-    {
-      "cpeName": "cpe:2.3:o:nippon-antenna:rfntps_firmware:system_01000004:*:*:*:*:*:*:*",
-      "cpeNameId": "9E449B5E-6A52-4A16-9C66-1A2BAF109456"
-    }
-  ]
+	"criteria": "cpe:2.3:o:nippon-antenna:rfntps_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E575840A-BFB1-447F-8824-14BC01F3870F",
+	"versionEndIncluding": "system_01000004",
+	"created": "2021-05-25T13:09:13.473",
+	"lastModified": "2021-05-25T13:09:13.473",
+	"cpeLastModified": "2021-05-25T13:10:22.027",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:nippon-antenna:rfntps_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D107FDB5-56F7-42F9-A968-63702B77722E"
+		},
+		{
+			"cpeName": "cpe:2.3:o:nippon-antenna:rfntps_firmware:system_01000004:*:*:*:*:*:*:*",
+			"cpeNameId": "9E449B5E-6A52-4A16-9C66-1A2BAF109456"
+		}
+	]
 }

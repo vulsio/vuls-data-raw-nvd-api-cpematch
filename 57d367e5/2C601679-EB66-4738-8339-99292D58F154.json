@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:konicaminolta:bizhub_c3851_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "2C601679-EB66-4738-8339-99292D58F154",
-  "versionEndExcluding": "2022-04-14",
-  "created": "2022-05-19T20:59:36.623",
-  "lastModified": "2022-05-26T15:29:44.860",
-  "cpeLastModified": "2022-01-11T17:05:46.560",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:konicaminolta:bizhub_c3851_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "6EE95200-2892-427D-A309-54C0F75B57A8"
-    }
-  ]
+	"criteria": "cpe:2.3:o:konicaminolta:bizhub_c3851_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2C601679-EB66-4738-8339-99292D58F154",
+	"versionEndExcluding": "2022-04-14",
+	"created": "2022-05-19T20:59:36.623",
+	"lastModified": "2022-05-26T15:29:44.860",
+	"cpeLastModified": "2022-01-11T17:05:46.560",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:konicaminolta:bizhub_c3851_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6EE95200-2892-427D-A309-54C0F75B57A8"
+		}
+	]
 }

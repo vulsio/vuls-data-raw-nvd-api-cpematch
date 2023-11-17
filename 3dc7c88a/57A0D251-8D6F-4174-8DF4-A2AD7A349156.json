@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:desknets:neo:5.5:r1.5:*:*:enterprise_license:*:*:*",
-  "matchCriteriaId": "57A0D251-8D6F-4174-8DF4-A2AD7A349156",
-  "created": "2020-12-03T16:18:22.737",
-  "lastModified": "2020-12-03T16:18:22.737",
-  "cpeLastModified": "2021-01-12T17:03:40.727",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:desknets:neo:5.5:r1.5:*:*:enterprise_license:*:*:*",
-      "cpeNameId": "42025F77-304C-4C57-BAF1-56CD1A196FB5"
-    }
-  ]
+	"criteria": "cpe:2.3:a:desknets:neo:5.5:r1.5:*:*:enterprise_license:*:*:*",
+	"matchCriteriaId": "57A0D251-8D6F-4174-8DF4-A2AD7A349156",
+	"created": "2020-12-03T16:18:22.737",
+	"lastModified": "2020-12-03T16:18:22.737",
+	"cpeLastModified": "2021-01-12T17:03:40.727",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:desknets:neo:5.5:r1.5:*:*:enterprise_license:*:*:*",
+			"cpeNameId": "42025F77-304C-4C57-BAF1-56CD1A196FB5"
+		}
+	]
 }

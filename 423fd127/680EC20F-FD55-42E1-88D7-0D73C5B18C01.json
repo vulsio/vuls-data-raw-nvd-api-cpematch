@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:synology:docker:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "680EC20F-FD55-42E1-88D7-0D73C5B18C01",
-  "versionEndExcluding": "18.09.0-0515",
-  "created": "2021-06-07T17:19:49.560",
-  "lastModified": "2021-06-07T17:19:49.560",
-  "cpeLastModified": "2021-06-07T17:20:02.523",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:synology:docker:-:*:*:*:*:*:*:*",
-      "cpeNameId": "C6400E38-2FE7-4A93-9D56-53B552B4D57D"
-    }
-  ]
+	"criteria": "cpe:2.3:a:synology:docker:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "680EC20F-FD55-42E1-88D7-0D73C5B18C01",
+	"versionEndExcluding": "18.09.0-0515",
+	"created": "2021-06-07T17:19:49.560",
+	"lastModified": "2021-06-07T17:19:49.560",
+	"cpeLastModified": "2021-06-07T17:20:02.523",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:synology:docker:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C6400E38-2FE7-4A93-9D56-53B552B4D57D"
+		}
+	]
 }

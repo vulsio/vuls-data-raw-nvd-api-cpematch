@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:suse:studio:1.2:*:*:*:standard:*:*:*",
-  "matchCriteriaId": "234A6341-7A0E-42BB-A653-11064B6F110C",
-  "created": "2020-11-10T18:21:54.637",
-  "lastModified": "2020-11-10T18:21:54.637",
-  "cpeLastModified": "2020-11-10T18:39:31.650",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:suse:studio:1.2:*:*:*:standard:*:*:*",
-      "cpeNameId": "6A70D93D-A086-4C7F-9FD3-A66FB794C7CF"
-    }
-  ]
+	"criteria": "cpe:2.3:a:suse:studio:1.2:*:*:*:standard:*:*:*",
+	"matchCriteriaId": "234A6341-7A0E-42BB-A653-11064B6F110C",
+	"created": "2020-11-10T18:21:54.637",
+	"lastModified": "2020-11-10T18:21:54.637",
+	"cpeLastModified": "2020-11-10T18:39:31.650",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:suse:studio:1.2:*:*:*:standard:*:*:*",
+			"cpeNameId": "6A70D93D-A086-4C7F-9FD3-A66FB794C7CF"
+		}
+	]
 }

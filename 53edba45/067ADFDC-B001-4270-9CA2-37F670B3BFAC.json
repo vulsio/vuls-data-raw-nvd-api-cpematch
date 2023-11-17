@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:huawei:cloudengine_12800_firmware:v200r019c00spc800:*:*:*:*:*:*:*",
-  "matchCriteriaId": "067ADFDC-B001-4270-9CA2-37F670B3BFAC",
-  "created": "2020-05-30T14:20:27.233",
-  "lastModified": "2020-05-30T14:20:27.233",
-  "cpeLastModified": "2020-07-24T17:37:20.740",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:huawei:cloudengine_12800_firmware:v200r019c00spc800:*:*:*:*:*:*:*",
-      "cpeNameId": "A4588ECC-ADDF-4A91-9EE2-431AC1083637"
-    }
-  ]
+	"criteria": "cpe:2.3:o:huawei:cloudengine_12800_firmware:v200r019c00spc800:*:*:*:*:*:*:*",
+	"matchCriteriaId": "067ADFDC-B001-4270-9CA2-37F670B3BFAC",
+	"created": "2020-05-30T14:20:27.233",
+	"lastModified": "2020-05-30T14:20:27.233",
+	"cpeLastModified": "2020-07-24T17:37:20.740",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:huawei:cloudengine_12800_firmware:v200r019c00spc800:*:*:*:*:*:*:*",
+			"cpeNameId": "A4588ECC-ADDF-4A91-9EE2-431AC1083637"
+		}
+	]
 }

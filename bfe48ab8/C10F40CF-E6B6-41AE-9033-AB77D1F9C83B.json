@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:color_laserjet_managed_mfp_e67550_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C10F40CF-E6B6-41AE-9033-AB77D1F9C83B",
-  "versionEndExcluding": "43.2.2509",
-  "created": "2021-11-22T20:59:45.237",
-  "lastModified": "2021-11-22T20:59:45.237",
-  "cpeLastModified": "2021-11-24T19:58:36.967",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:color_laserjet_managed_mfp_e67550_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "FAF08D57-AC92-4F75-BE07-FB0B10E3531E"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:color_laserjet_managed_mfp_e67550_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C10F40CF-E6B6-41AE-9033-AB77D1F9C83B",
+	"versionEndExcluding": "43.2.2509",
+	"created": "2021-11-22T20:59:45.237",
+	"lastModified": "2021-11-22T20:59:45.237",
+	"cpeLastModified": "2021-11-24T19:58:36.967",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:color_laserjet_managed_mfp_e67550_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FAF08D57-AC92-4F75-BE07-FB0B10E3531E"
+		}
+	]
 }

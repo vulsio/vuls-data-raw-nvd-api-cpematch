@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:core_i7-11700k_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "02579BF3-B5CE-47AD-AD75-19F854F6D8E0",
-  "versionEndExcluding": "15.0.40",
-  "created": "2022-06-09T13:31:42.753",
-  "lastModified": "2022-06-09T13:31:42.753",
-  "cpeLastModified": "2021-12-01T18:46:41.243",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:core_i7-11700k_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E4889F1D-A241-47A1-9DFC-A994920B2D36"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:core_i7-11700k_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "02579BF3-B5CE-47AD-AD75-19F854F6D8E0",
+	"versionEndExcluding": "15.0.40",
+	"created": "2022-06-09T13:31:42.753",
+	"lastModified": "2022-06-09T13:31:42.753",
+	"cpeLastModified": "2021-12-01T18:46:41.243",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:core_i7-11700k_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E4889F1D-A241-47A1-9DFC-A994920B2D36"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:bitdefender:central:*:*:*:*:*:android:*:*",
-  "matchCriteriaId": "5811EB9D-3A49-4230-94B1-796B33D37B1D",
-  "versionEndExcluding": "2.0.66.88",
-  "created": "2020-01-29T18:15:29.140",
-  "lastModified": "2020-01-29T18:15:29.140",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:bitdefender:central:-:*:*:*:*:android:*:*",
-      "cpeNameId": "5F7ABADD-EE7E-4D5F-9679-CD893A47D82B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:bitdefender:central:*:*:*:*:*:android:*:*",
+	"matchCriteriaId": "5811EB9D-3A49-4230-94B1-796B33D37B1D",
+	"versionEndExcluding": "2.0.66.88",
+	"created": "2020-01-29T18:15:29.140",
+	"lastModified": "2020-01-29T18:15:29.140",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:bitdefender:central:-:*:*:*:*:android:*:*",
+			"cpeNameId": "5F7ABADD-EE7E-4D5F-9679-CD893A47D82B"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:reqmon_project:reqmon:1.4.1:rc5:*:*:*:python:*:*",
-  "matchCriteriaId": "0CDF14A3-B79F-4442-B86C-06163A9B0ECB",
-  "created": "2022-08-04T13:20:10.763",
-  "lastModified": "2022-08-04T13:20:10.763",
-  "cpeLastModified": "2022-08-04T15:11:34.467",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:reqmon_project:reqmon:1.4.1:rc5:*:*:*:python:*:*",
-      "cpeNameId": "9CDCABAD-BB58-455B-9FE0-AF6A54779F16"
-    }
-  ]
+	"criteria": "cpe:2.3:a:reqmon_project:reqmon:1.4.1:rc5:*:*:*:python:*:*",
+	"matchCriteriaId": "0CDF14A3-B79F-4442-B86C-06163A9B0ECB",
+	"created": "2022-08-04T13:20:10.763",
+	"lastModified": "2022-08-04T13:20:10.763",
+	"cpeLastModified": "2022-08-04T15:11:34.467",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:reqmon_project:reqmon:1.4.1:rc5:*:*:*:python:*:*",
+			"cpeNameId": "9CDCABAD-BB58-455B-9FE0-AF6A54779F16"
+		}
+	]
 }

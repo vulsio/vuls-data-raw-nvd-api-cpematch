@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:qualcomm:pm660l_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0591D3C8-521C-41A2-9B23-B7C82F96F296",
-  "created": "2021-01-26T11:59:01.983",
-  "lastModified": "2021-01-26T11:59:01.983",
-  "cpeLastModified": "2021-03-09T22:31:09.510",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:qualcomm:pm660l_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "1ED8F449-4734-4050-8406-D49402DFBD3B"
-    }
-  ]
+	"criteria": "cpe:2.3:o:qualcomm:pm660l_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0591D3C8-521C-41A2-9B23-B7C82F96F296",
+	"created": "2021-01-26T11:59:01.983",
+	"lastModified": "2021-01-26T11:59:01.983",
+	"cpeLastModified": "2021-03-09T22:31:09.510",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:qualcomm:pm660l_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1ED8F449-4734-4050-8406-D49402DFBD3B"
+		}
+	]
 }

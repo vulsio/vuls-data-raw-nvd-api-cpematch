@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:hakatashi:kindlegen:*:*:*:*:*:node.js:*:*",
-  "matchCriteriaId": "AB8CC87D-6E01-4498-83F3-022893525E6B",
-  "versionEndExcluding": "1.1.0",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-07-19T13:13:06.320",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:hakatashi:kindlegen:1.0.0:*:*:*:*:node.js:*:*",
-      "cpeNameId": "9574B002-4825-4865-9524-324B0BA10337"
-    },
-    {
-      "cpeName": "cpe:2.3:a:hakatashi:kindlegen:1.0.1:*:*:*:*:node.js:*:*",
-      "cpeNameId": "B5BE7905-1803-48CF-B524-58AE369A941F"
-    }
-  ]
+	"criteria": "cpe:2.3:a:hakatashi:kindlegen:*:*:*:*:*:node.js:*:*",
+	"matchCriteriaId": "AB8CC87D-6E01-4498-83F3-022893525E6B",
+	"versionEndExcluding": "1.1.0",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-07-19T13:13:06.320",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:hakatashi:kindlegen:1.0.0:*:*:*:*:node.js:*:*",
+			"cpeNameId": "9574B002-4825-4865-9524-324B0BA10337"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hakatashi:kindlegen:1.0.1:*:*:*:*:node.js:*:*",
+			"cpeNameId": "B5BE7905-1803-48CF-B524-58AE369A941F"
+		}
+	]
 }

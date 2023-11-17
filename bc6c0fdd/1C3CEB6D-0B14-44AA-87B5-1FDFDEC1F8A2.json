@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:amd:epyc_9474f_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1C3CEB6D-0B14-44AA-87B5-1FDFDEC1F8A2",
-  "versionEndExcluding": "genoapi_1.0.0.9",
-  "created": "2023-08-21T14:23:42.527",
-  "lastModified": "2023-08-21T18:35:07.823",
-  "cpeLastModified": "2023-08-21T14:23:42.527",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:amd:epyc_9474f_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "1A64C578-8F1B-4500-8380-AB1BACDA930D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:amd:epyc_9474f_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1C3CEB6D-0B14-44AA-87B5-1FDFDEC1F8A2",
+	"versionEndExcluding": "genoapi_1.0.0.9",
+	"created": "2023-08-21T14:23:42.527",
+	"lastModified": "2023-08-21T18:35:07.823",
+	"cpeLastModified": "2023-08-21T14:23:42.527",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:epyc_9474f_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1A64C578-8F1B-4500-8380-AB1BACDA930D"
+		}
+	]
 }

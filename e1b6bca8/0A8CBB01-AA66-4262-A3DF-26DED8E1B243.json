@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:spi-inc:ganeti:2.10.0:rc1:*:*:*:*:*:*",
-  "matchCriteriaId": "0A8CBB01-AA66-4262-A3DF-26DED8E1B243",
-  "created": "2021-09-08T17:07:16.237",
-  "lastModified": "2021-09-08T17:07:16.237",
-  "cpeLastModified": "2021-09-08T17:07:25.320",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:spi-inc:ganeti:2.10.0:rc1:*:*:*:*:*:*",
-      "cpeNameId": "88D9B2C6-DFDF-4BF9-9058-744151598EA6"
-    }
-  ]
+	"criteria": "cpe:2.3:a:spi-inc:ganeti:2.10.0:rc1:*:*:*:*:*:*",
+	"matchCriteriaId": "0A8CBB01-AA66-4262-A3DF-26DED8E1B243",
+	"created": "2021-09-08T17:07:16.237",
+	"lastModified": "2021-09-08T17:07:16.237",
+	"cpeLastModified": "2021-09-08T17:07:25.320",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:spi-inc:ganeti:2.10.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "88D9B2C6-DFDF-4BF9-9058-744151598EA6"
+		}
+	]
 }

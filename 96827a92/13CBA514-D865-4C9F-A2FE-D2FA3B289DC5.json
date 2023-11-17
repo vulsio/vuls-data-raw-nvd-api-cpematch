@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:7.6.1:content_update330:*:*:*:*:*:*",
-  "matchCriteriaId": "13CBA514-D865-4C9F-A2FE-D2FA3B289DC5",
-  "created": "2022-05-23T17:21:28.853",
-  "lastModified": "2022-05-23T17:21:28.853",
-  "cpeLastModified": "2022-06-27T18:02:30.883",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:7.6.1:content_update330:*:*:*:*:*:*",
-      "cpeNameId": "B451DF85-1D50-47E5-BD8F-DDBC421B07E9"
-    }
-  ]
+	"criteria": "cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:7.6.1:content_update330:*:*:*:*:*:*",
+	"matchCriteriaId": "13CBA514-D865-4C9F-A2FE-D2FA3B289DC5",
+	"created": "2022-05-23T17:21:28.853",
+	"lastModified": "2022-05-23T17:21:28.853",
+	"cpeLastModified": "2022-06-27T18:02:30.883",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:7.6.1:content_update330:*:*:*:*:*:*",
+			"cpeNameId": "B451DF85-1D50-47E5-BD8F-DDBC421B07E9"
+		}
+	]
 }

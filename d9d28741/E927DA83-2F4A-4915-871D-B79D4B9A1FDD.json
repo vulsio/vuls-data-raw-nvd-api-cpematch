@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:broadcom:brightstor_arcserve_backup:11.1:*:windows:*:*:*:*:*",
-  "matchCriteriaId": "E927DA83-2F4A-4915-871D-B79D4B9A1FDD",
-  "created": "2021-05-18T13:07:26.643",
-  "lastModified": "2021-05-18T13:07:26.643",
-  "cpeLastModified": "2021-05-18T13:08:20.693",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:broadcom:brightstor_arcserve_backup:11.1:*:windows:*:*:*:*:*",
-      "cpeNameId": "BA26EB30-B780-48B3-A130-22A84179B75E"
-    }
-  ]
+	"criteria": "cpe:2.3:a:broadcom:brightstor_arcserve_backup:11.1:*:windows:*:*:*:*:*",
+	"matchCriteriaId": "E927DA83-2F4A-4915-871D-B79D4B9A1FDD",
+	"created": "2021-05-18T13:07:26.643",
+	"lastModified": "2021-05-18T13:07:26.643",
+	"cpeLastModified": "2021-05-18T13:08:20.693",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:broadcom:brightstor_arcserve_backup:11.1:*:windows:*:*:*:*:*",
+			"cpeNameId": "BA26EB30-B780-48B3-A130-22A84179B75E"
+		}
+	]
 }

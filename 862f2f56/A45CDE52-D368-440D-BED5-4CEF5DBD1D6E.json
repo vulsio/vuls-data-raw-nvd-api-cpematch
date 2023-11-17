@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:amd:epyc_7301_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A45CDE52-D368-440D-BED5-4CEF5DBD1D6E",
-  "versionEndExcluding": "naplespi-sp3_1.0.0.g",
-  "created": "2021-11-17T17:57:31.743",
-  "lastModified": "2022-05-16T19:22:30.910",
-  "cpeLastModified": "2021-11-18T16:43:13.677",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:amd:epyc_7301_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "403D9424-5935-470E-9113-DE167DB2D266"
-    }
-  ]
+	"criteria": "cpe:2.3:o:amd:epyc_7301_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A45CDE52-D368-440D-BED5-4CEF5DBD1D6E",
+	"versionEndExcluding": "naplespi-sp3_1.0.0.g",
+	"created": "2021-11-17T17:57:31.743",
+	"lastModified": "2022-05-16T19:22:30.910",
+	"cpeLastModified": "2021-11-18T16:43:13.677",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:epyc_7301_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "403D9424-5935-470E-9113-DE167DB2D266"
+		}
+	]
 }

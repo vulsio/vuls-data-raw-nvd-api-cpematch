@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:weintek:cmt3071_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "37D305D8-34F6-4BEF-99D4-CF4A18EFA9D3",
-  "versionEndExcluding": "20210218",
-  "created": "2022-05-22T20:11:16.080",
-  "lastModified": "2022-05-22T20:11:16.080",
-  "cpeLastModified": "2022-05-23T15:28:45.200",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:weintek:cmt3071_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "D1770B2F-5FAB-425A-ACF1-B70A2FE3551D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:weintek:cmt3071_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "37D305D8-34F6-4BEF-99D4-CF4A18EFA9D3",
+	"versionEndExcluding": "20210218",
+	"created": "2022-05-22T20:11:16.080",
+	"lastModified": "2022-05-22T20:11:16.080",
+	"cpeLastModified": "2022-05-23T15:28:45.200",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:weintek:cmt3071_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D1770B2F-5FAB-425A-ACF1-B70A2FE3551D"
+		}
+	]
 }

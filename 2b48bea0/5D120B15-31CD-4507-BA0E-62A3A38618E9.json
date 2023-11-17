@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lexmark:c4150_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5D120B15-31CD-4507-BA0E-62A3A38618E9",
-  "versionEndExcluding": "cstat.076.294",
-  "created": "2022-01-26T14:22:55.623",
-  "lastModified": "2022-01-26T14:22:55.623",
-  "cpeLastModified": "2022-01-27T15:31:13.463",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lexmark:c4150_firmware:cstat.076.293:*:*:*:*:*:*:*",
-      "cpeNameId": "B34528BB-6D07-4285-B7F4-408CEFD4BF70"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lexmark:c4150_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5D120B15-31CD-4507-BA0E-62A3A38618E9",
+	"versionEndExcluding": "cstat.076.294",
+	"created": "2022-01-26T14:22:55.623",
+	"lastModified": "2022-01-26T14:22:55.623",
+	"cpeLastModified": "2022-01-27T15:31:13.463",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lexmark:c4150_firmware:cstat.076.293:*:*:*:*:*:*:*",
+			"cpeNameId": "B34528BB-6D07-4285-B7F4-408CEFD4BF70"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:lenovo:s340-14iwl_touch:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FF0CF753-3903-4B2A-A51C-1385BFE6295B",
-  "created": "2019-11-15T17:09:19.783",
-  "lastModified": "2019-11-15T17:09:19.783",
-  "cpeLastModified": "2019-12-10T16:06:05.117",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:lenovo:s340-14iwl_touch:-:*:*:*:*:*:*:*",
-      "cpeNameId": "251F649C-E827-49CF-BE6F-9FE1778338AE"
-    }
-  ]
+	"criteria": "cpe:2.3:h:lenovo:s340-14iwl_touch:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FF0CF753-3903-4B2A-A51C-1385BFE6295B",
+	"created": "2019-11-15T17:09:19.783",
+	"lastModified": "2019-11-15T17:09:19.783",
+	"cpeLastModified": "2019-12-10T16:06:05.117",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:lenovo:s340-14iwl_touch:-:*:*:*:*:*:*:*",
+			"cpeNameId": "251F649C-E827-49CF-BE6F-9FE1778338AE"
+		}
+	]
 }

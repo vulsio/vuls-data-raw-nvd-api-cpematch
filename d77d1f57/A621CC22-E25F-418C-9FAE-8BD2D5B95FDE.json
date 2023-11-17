@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:3d_cover_carousel_project:3d_cover_carousel:*:*:*:*:*:wordpress:*:*",
-  "matchCriteriaId": "A621CC22-E25F-418C-9FAE-8BD2D5B95FDE",
-  "versionEndIncluding": "1.0",
-  "created": "2021-09-14T12:39:58.150",
-  "lastModified": "2021-09-14T12:39:58.150",
-  "cpeLastModified": "2021-09-14T13:35:10.250",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:3d_cover_carousel_project:3d_cover_carousel:1.0:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "2CB5E895-3389-4355-9ED9-5BB20A998688"
-    }
-  ]
+	"criteria": "cpe:2.3:a:3d_cover_carousel_project:3d_cover_carousel:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "A621CC22-E25F-418C-9FAE-8BD2D5B95FDE",
+	"versionEndIncluding": "1.0",
+	"created": "2021-09-14T12:39:58.150",
+	"lastModified": "2021-09-14T12:39:58.150",
+	"cpeLastModified": "2021-09-14T13:35:10.250",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:3d_cover_carousel_project:3d_cover_carousel:1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2CB5E895-3389-4355-9ED9-5BB20A998688"
+		}
+	]
 }

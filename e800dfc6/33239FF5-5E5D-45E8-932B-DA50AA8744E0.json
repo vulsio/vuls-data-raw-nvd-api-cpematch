@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:schneider-electric:modicon_m258_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "33239FF5-5E5D-45E8-932B-DA50AA8744E0",
-  "versionEndExcluding": "5.0.4.11",
-  "created": "2020-12-14T14:18:20.293",
-  "lastModified": "2020-12-14T14:18:20.293",
-  "cpeLastModified": "2022-01-31T19:54:35.053",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:schneider-electric:modicon_m258_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "996CC73E-41F9-43A3-9FA7-2360342F1FEE"
-    }
-  ]
+	"criteria": "cpe:2.3:o:schneider-electric:modicon_m258_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "33239FF5-5E5D-45E8-932B-DA50AA8744E0",
+	"versionEndExcluding": "5.0.4.11",
+	"created": "2020-12-14T14:18:20.293",
+	"lastModified": "2020-12-14T14:18:20.293",
+	"cpeLastModified": "2022-01-31T19:54:35.053",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:schneider-electric:modicon_m258_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "996CC73E-41F9-43A3-9FA7-2360342F1FEE"
+		}
+	]
 }

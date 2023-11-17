@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:pulpproject:pulp:2.6.1:*:*:*:*:*:*:*",
-  "matchCriteriaId": "52C71425-9286-4D31-B9FD-4BD1CCCE7CEB",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-10-16T13:00:53.590",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:pulpproject:pulp:2.6.1:*:*:*:*:*:*:*",
-      "cpeNameId": "A6CDFD4B-836B-4590-A3AE-EFC44A53044F"
-    }
-  ]
+	"criteria": "cpe:2.3:a:pulpproject:pulp:2.6.1:*:*:*:*:*:*:*",
+	"matchCriteriaId": "52C71425-9286-4D31-B9FD-4BD1CCCE7CEB",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-10-16T13:00:53.590",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:pulpproject:pulp:2.6.1:*:*:*:*:*:*:*",
+			"cpeNameId": "A6CDFD4B-836B-4590-A3AE-EFC44A53044F"
+		}
+	]
 }

@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:mcafee:network_security_management:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D494C16E-EC29-4191-8D44-F04B2C54F44C",
-  "versionStartIncluding": "9.0",
-  "versionEndExcluding": "9.2.9.55",
-  "created": "2020-07-13T19:43:44.717",
-  "lastModified": "2020-07-13T19:43:44.717",
-  "cpeLastModified": "2020-09-23T17:48:24.880",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:mcafee:network_security_management:9.0:*:*:*:*:*:*:*",
-      "cpeNameId": "5CBE7DA6-E7B4-4FC3-985A-F5B0EABB13F2"
-    }
-  ]
+	"criteria": "cpe:2.3:a:mcafee:network_security_management:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D494C16E-EC29-4191-8D44-F04B2C54F44C",
+	"versionStartIncluding": "9.0",
+	"versionEndExcluding": "9.2.9.55",
+	"created": "2020-07-13T19:43:44.717",
+	"lastModified": "2020-07-13T19:43:44.717",
+	"cpeLastModified": "2020-09-23T17:48:24.880",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:mcafee:network_security_management:9.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5CBE7DA6-E7B4-4FC3-985A-F5B0EABB13F2"
+		}
+	]
 }

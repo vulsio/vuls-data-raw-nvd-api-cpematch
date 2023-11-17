@@ -1,18 +1,18 @@
 {
-  "criteria": "cpe:2.3:a:microsoft:skype:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "2D73B22D-A1BA-4D2D-990B-42D0AE25800D",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T22:21:48.897",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:microsoft:skype:-:*:*:*:*:*:*:*",
-      "cpeNameId": "8B8A3618-C46D-4DEF-9444-7E9359B7BC6B"
-    },
-    {
-      "cpeName": "cpe:2.3:a:microsoft:skype:-:*:*:*:*:macos:*:*",
-      "cpeNameId": "F1D0504F-3655-4A9E-A4C9-72557E3BDE86"
-    }
-  ]
+	"criteria": "cpe:2.3:a:microsoft:skype:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2D73B22D-A1BA-4D2D-990B-42D0AE25800D",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T22:21:48.897",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:skype:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8B8A3618-C46D-4DEF-9444-7E9359B7BC6B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:skype:-:*:*:*:*:macos:*:*",
+			"cpeNameId": "F1D0504F-3655-4A9E-A4C9-72557E3BDE86"
+		}
+	]
 }

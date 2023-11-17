@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:hp:d3q19d_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "59B93473-F933-418A-8448-F0DF2970E528",
-  "versionEndExcluding": "1708d",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:d3q19d_firmware:001.1829a:*:*:*:*:*:*:*",
-      "cpeNameId": "76A6F67C-DE2C-4692-9D6C-185163C98044"
-    },
-    {
-      "cpeName": "cpe:2.3:o:hp:d3q19d_firmware:001.1937d:*:*:*:*:*:*:*",
-      "cpeNameId": "BE470DF2-012A-4C46-982C-4DB819950AE6"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:d3q19d_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "59B93473-F933-418A-8448-F0DF2970E528",
+	"versionEndExcluding": "1708d",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:d3q19d_firmware:001.1829a:*:*:*:*:*:*:*",
+			"cpeNameId": "76A6F67C-DE2C-4692-9D6C-185163C98044"
+		},
+		{
+			"cpeName": "cpe:2.3:o:hp:d3q19d_firmware:001.1937d:*:*:*:*:*:*:*",
+			"cpeNameId": "BE470DF2-012A-4C46-982C-4DB819950AE6"
+		}
+	]
 }

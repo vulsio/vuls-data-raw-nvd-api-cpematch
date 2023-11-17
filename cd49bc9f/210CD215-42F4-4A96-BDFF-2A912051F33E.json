@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:fossil-scm:fossil:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "210CD215-42F4-4A96-BDFF-2A912051F33E",
-  "versionStartIncluding": "2.15.0",
-  "versionEndExcluding": "2.15.2",
-  "created": "2021-07-13T16:26:10.583",
-  "lastModified": "2021-07-13T16:26:10.583",
-  "cpeLastModified": "2021-07-30T17:18:19.077",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:fossil-scm:fossil:2.15.1:*:*:*:*:*:*:*",
-      "cpeNameId": "4A427631-0F1B-4647-B7F9-09B3F0581E2C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:fossil-scm:fossil:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "210CD215-42F4-4A96-BDFF-2A912051F33E",
+	"versionStartIncluding": "2.15.0",
+	"versionEndExcluding": "2.15.2",
+	"created": "2021-07-13T16:26:10.583",
+	"lastModified": "2021-07-13T16:26:10.583",
+	"cpeLastModified": "2021-07-30T17:18:19.077",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:fossil-scm:fossil:2.15.1:*:*:*:*:*:*:*",
+			"cpeNameId": "4A427631-0F1B-4647-B7F9-09B3F0581E2C"
+		}
+	]
 }

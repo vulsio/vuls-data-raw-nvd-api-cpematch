@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:cisco:catalyst_blade_switch_3130:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F15AF91D-A937-4F0B-88F9-B0EDEE7CE9EF",
-  "created": "2020-08-04T13:22:24.040",
-  "lastModified": "2020-08-04T13:22:24.040",
-  "cpeLastModified": "2020-09-11T15:24:13.050",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:cisco:catalyst_blade_switch_3130:-:*:*:*:*:*:*:*",
-      "cpeNameId": "710538BB-E475-4FD8-82AF-3634191C83BB"
-    }
-  ]
+	"criteria": "cpe:2.3:h:cisco:catalyst_blade_switch_3130:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F15AF91D-A937-4F0B-88F9-B0EDEE7CE9EF",
+	"created": "2020-08-04T13:22:24.040",
+	"lastModified": "2020-08-04T13:22:24.040",
+	"cpeLastModified": "2020-09-11T15:24:13.050",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:cisco:catalyst_blade_switch_3130:-:*:*:*:*:*:*:*",
+			"cpeNameId": "710538BB-E475-4FD8-82AF-3634191C83BB"
+		}
+	]
 }

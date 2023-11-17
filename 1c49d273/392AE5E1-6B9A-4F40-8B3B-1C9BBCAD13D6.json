@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:siemens:simatic_s7-200_smart_cpu_st30_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "392AE5E1-6B9A-4F40-8B3B-1C9BBCAD13D6",
-  "versionEndIncluding": "2.5.0",
-  "created": "2020-10-06T17:45:41.897",
-  "lastModified": "2020-10-06T17:45:41.897",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:simatic_s7-200_smart_cpu_st30_firmware:2.5.0:*:*:*:*:*:*:*",
-      "cpeNameId": "D3D295FC-7A5A-428B-91DD-16A835DC1FDB"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:simatic_s7-200_smart_cpu_st30_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "392AE5E1-6B9A-4F40-8B3B-1C9BBCAD13D6",
+	"versionEndIncluding": "2.5.0",
+	"created": "2020-10-06T17:45:41.897",
+	"lastModified": "2020-10-06T17:45:41.897",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:simatic_s7-200_smart_cpu_st30_firmware:2.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D3D295FC-7A5A-428B-91DD-16A835DC1FDB"
+		}
+	]
 }

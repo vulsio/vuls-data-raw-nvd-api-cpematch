@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:o:cisco:sg500-52p_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B482FD23-8859-4A55-BD34-669C4644BEC1",
-  "versionStartIncluding": "2.5.5.0",
-  "versionEndExcluding": "2.5.8.12",
-  "created": "2021-11-12T14:54:34.440",
-  "lastModified": "2021-11-12T14:54:34.440",
-  "cpeLastModified": "2021-11-15T15:27:48.713",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:sg500-52p_firmware:2.5.5.47:*:*:*:*:*:*:*",
-      "cpeNameId": "FF709B6B-E34F-4CBF-85DF-D2C643E703AF"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:sg500-52p_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B482FD23-8859-4A55-BD34-669C4644BEC1",
+	"versionStartIncluding": "2.5.5.0",
+	"versionEndExcluding": "2.5.8.12",
+	"created": "2021-11-12T14:54:34.440",
+	"lastModified": "2021-11-12T14:54:34.440",
+	"cpeLastModified": "2021-11-15T15:27:48.713",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:sg500-52p_firmware:2.5.5.47:*:*:*:*:*:*:*",
+			"cpeNameId": "FF709B6B-E34F-4CBF-85DF-D2C643E703AF"
+		}
+	]
 }

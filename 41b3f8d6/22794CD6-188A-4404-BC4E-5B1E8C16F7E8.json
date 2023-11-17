@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:epson:iprojection:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "22794CD6-188A-4404-BC4E-5B1E8C16F7E8",
-  "versionEndIncluding": "2.30",
-  "created": "2022-11-29T20:10:59.620",
-  "lastModified": "2022-11-29T20:10:59.620",
-  "cpeLastModified": "2022-11-29T20:10:59.620",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:epson:iprojection:2.30:*:*:*:*:*:*:*",
-      "cpeNameId": "C991CCCB-B03B-4159-B1D5-A1944C97439B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:epson:iprojection:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "22794CD6-188A-4404-BC4E-5B1E8C16F7E8",
+	"versionEndIncluding": "2.30",
+	"created": "2022-11-29T20:10:59.620",
+	"lastModified": "2022-11-29T20:10:59.620",
+	"cpeLastModified": "2022-11-29T20:10:59.620",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:epson:iprojection:2.30:*:*:*:*:*:*:*",
+			"cpeNameId": "C991CCCB-B03B-4159-B1D5-A1944C97439B"
+		}
+	]
 }

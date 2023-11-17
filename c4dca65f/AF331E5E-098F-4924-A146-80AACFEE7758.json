@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:aiohttp_project:aiohttp:3.8.1:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AF331E5E-098F-4924-A146-80AACFEE7758",
-  "created": "2022-06-30T17:59:32.487",
-  "lastModified": "2022-06-30T17:59:32.487",
-  "cpeLastModified": "2022-07-01T13:33:04.310",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:aiohttp_project:aiohttp:3.8.1:*:*:*:*:*:*:*",
-      "cpeNameId": "5616BA94-C944-4503-90D0-5D56093FDD5A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:aiohttp_project:aiohttp:3.8.1:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AF331E5E-098F-4924-A146-80AACFEE7758",
+	"created": "2022-06-30T17:59:32.487",
+	"lastModified": "2022-06-30T17:59:32.487",
+	"cpeLastModified": "2022-07-01T13:33:04.310",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:aiohttp_project:aiohttp:3.8.1:*:*:*:*:*:*:*",
+			"cpeNameId": "5616BA94-C944-4503-90D0-5D56093FDD5A"
+		}
+	]
 }

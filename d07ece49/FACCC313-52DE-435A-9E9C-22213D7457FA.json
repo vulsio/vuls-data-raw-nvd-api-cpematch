@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:streamrelay:streamrelay:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FACCC313-52DE-435A-9E9C-22213D7457FA",
-  "versionEndIncluding": "2.14.0.7",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2020-02-04T16:51:49.440",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:streamrelay:streamrelay:2.14.0.7:*:*:*:*:*:*:*",
-      "cpeNameId": "5F548134-2F96-4BB2-98EF-244651A73CCF"
-    }
-  ]
+	"criteria": "cpe:2.3:a:streamrelay:streamrelay:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FACCC313-52DE-435A-9E9C-22213D7457FA",
+	"versionEndIncluding": "2.14.0.7",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2020-02-04T16:51:49.440",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:streamrelay:streamrelay:2.14.0.7:*:*:*:*:*:*:*",
+			"cpeNameId": "5F548134-2F96-4BB2-98EF-244651A73CCF"
+		}
+	]
 }

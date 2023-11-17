@@ -1,22 +1,22 @@
 {
-  "criteria": "cpe:2.3:a:open-emr:openemr:6.0.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CFE24936-0A9D-4BAF-9BCC-823DF199C23C",
-  "created": "2021-09-07T16:57:57.327",
-  "lastModified": "2022-05-23T14:46:39.007",
-  "cpeLastModified": "2021-09-09T16:26:31.100",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:open-emr:openemr:6.0.0:*:*:*:*:*:*:*",
-      "cpeNameId": "243A3F83-2B84-457B-96DB-5664730913E5"
-    },
-    {
-      "cpeName": "cpe:2.3:a:open-emr:openemr:6.0.0:patch_1:*:*:*:*:*:*",
-      "cpeNameId": "A6A7E320-526D-4862-87A9-58589D0E3E2E"
-    },
-    {
-      "cpeName": "cpe:2.3:a:open-emr:openemr:6.0.0:patch_2:*:*:*:*:*:*",
-      "cpeNameId": "6E98F29D-531A-464D-8387-2CCAB6D306A4"
-    }
-  ]
+	"criteria": "cpe:2.3:a:open-emr:openemr:6.0.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CFE24936-0A9D-4BAF-9BCC-823DF199C23C",
+	"created": "2021-09-07T16:57:57.327",
+	"lastModified": "2022-05-23T14:46:39.007",
+	"cpeLastModified": "2021-09-09T16:26:31.100",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:open-emr:openemr:6.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "243A3F83-2B84-457B-96DB-5664730913E5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-emr:openemr:6.0.0:patch_1:*:*:*:*:*:*",
+			"cpeNameId": "A6A7E320-526D-4862-87A9-58589D0E3E2E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-emr:openemr:6.0.0:patch_2:*:*:*:*:*:*",
+			"cpeNameId": "6E98F29D-531A-464D-8387-2CCAB6D306A4"
+		}
+	]
 }

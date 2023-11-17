@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:pentium_gold_g5400t_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0FC9EE17-014B-4A18-8DAE-9D6B54E219FB",
-  "versionEndExcluding": "15.0.40",
-  "created": "2022-06-09T16:19:14.340",
-  "lastModified": "2022-06-09T16:19:14.340",
-  "cpeLastModified": "2020-03-23T17:59:54.763",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:pentium_gold_g5400t_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "5B7D4265-9D71-4263-96BD-C89BB8435198"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:pentium_gold_g5400t_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0FC9EE17-014B-4A18-8DAE-9D6B54E219FB",
+	"versionEndExcluding": "15.0.40",
+	"created": "2022-06-09T16:19:14.340",
+	"lastModified": "2022-06-09T16:19:14.340",
+	"cpeLastModified": "2020-03-23T17:59:54.763",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:pentium_gold_g5400t_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5B7D4265-9D71-4263-96BD-C89BB8435198"
+		}
+	]
 }

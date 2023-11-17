@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:eset:security:*:*:*:*:*:kerio:*:*",
-  "matchCriteriaId": "464764FF-8739-407A-B9D3-9F871E2933B2",
-  "versionEndIncluding": "7.2",
-  "created": "2021-02-01T11:47:48.160",
-  "lastModified": "2021-02-01T11:47:48.160",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:eset:security:7.2:*:*:*:*:kerio:*:*",
-      "cpeNameId": "F271811B-1A68-4C61-89BF-0709330CC3C5"
-    }
-  ]
+	"criteria": "cpe:2.3:a:eset:security:*:*:*:*:*:kerio:*:*",
+	"matchCriteriaId": "464764FF-8739-407A-B9D3-9F871E2933B2",
+	"versionEndIncluding": "7.2",
+	"created": "2021-02-01T11:47:48.160",
+	"lastModified": "2021-02-01T11:47:48.160",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:eset:security:7.2:*:*:*:*:kerio:*:*",
+			"cpeNameId": "F271811B-1A68-4C61-89BF-0709330CC3C5"
+		}
+	]
 }

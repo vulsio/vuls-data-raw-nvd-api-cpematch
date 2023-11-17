@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:realtek:rtl8196d:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "15E33BDB-D4A3-431E-B298-1EFEF60F76DD",
-  "created": "2020-10-05T12:51:22.760",
-  "lastModified": "2020-10-05T12:51:22.760",
-  "cpeLastModified": "2020-10-20T16:23:04.813",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:realtek:rtl8196d:-:*:*:*:*:*:*:*",
-      "cpeNameId": "BD414DF0-1A6A-4711-98AD-20AE372895B4"
-    }
-  ]
+	"criteria": "cpe:2.3:h:realtek:rtl8196d:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "15E33BDB-D4A3-431E-B298-1EFEF60F76DD",
+	"created": "2020-10-05T12:51:22.760",
+	"lastModified": "2020-10-05T12:51:22.760",
+	"cpeLastModified": "2020-10-20T16:23:04.813",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:realtek:rtl8196d:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BD414DF0-1A6A-4711-98AD-20AE372895B4"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:wp-js_project:wp-js:*:*:*:*:*:wordpress:*:*",
-  "matchCriteriaId": "203214A6-445C-4BCB-8B02-C937E85055E8",
-  "versionEndIncluding": "2.0.6",
-  "created": "2022-05-16T18:39:01.060",
-  "lastModified": "2022-05-16T18:39:01.060",
-  "cpeLastModified": "2022-09-12T14:02:50.590",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:wp-js_project:wp-js:2.0.6:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "E693ADD2-0809-4DC1-943A-75319E73200B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:wp-js_project:wp-js:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "203214A6-445C-4BCB-8B02-C937E85055E8",
+	"versionEndIncluding": "2.0.6",
+	"created": "2022-05-16T18:39:01.060",
+	"lastModified": "2022-05-16T18:39:01.060",
+	"cpeLastModified": "2022-09-12T14:02:50.590",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wp-js_project:wp-js:2.0.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E693ADD2-0809-4DC1-943A-75319E73200B"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:zephyrproject:zephyr:1.14.2:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B74694FC-5442-4F7E-AACF-0E1753F50148",
-  "created": "2020-05-15T17:27:36.283",
-  "lastModified": "2020-05-15T17:27:36.283",
-  "cpeLastModified": "2020-05-15T17:27:36.300",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:zephyrproject:zephyr:1.14.2:*:*:*:*:*:*:*",
-      "cpeNameId": "8674A162-1B22-4604-91E9-A11F5C99A9C6"
-    }
-  ]
+	"criteria": "cpe:2.3:o:zephyrproject:zephyr:1.14.2:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B74694FC-5442-4F7E-AACF-0E1753F50148",
+	"created": "2020-05-15T17:27:36.283",
+	"lastModified": "2020-05-15T17:27:36.283",
+	"cpeLastModified": "2020-05-15T17:27:36.300",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:zephyrproject:zephyr:1.14.2:*:*:*:*:*:*:*",
+			"cpeNameId": "8674A162-1B22-4604-91E9-A11F5C99A9C6"
+		}
+	]
 }

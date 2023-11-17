@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:openssl:openssl:3.0.0:alpha2:*:*:*:*:*:*",
-  "matchCriteriaId": "31593C1F-A2EA-4A47-8027-397C79EC9E30",
-  "created": "2022-02-04T16:45:44.517",
-  "lastModified": "2022-02-04T16:45:44.517",
-  "cpeLastModified": "2022-02-07T15:24:23.230",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:openssl:openssl:3.0.0:alpha2:*:*:*:*:*:*",
-      "cpeNameId": "91809044-A88D-43E1-86DC-6018D847E269"
-    }
-  ]
+	"criteria": "cpe:2.3:a:openssl:openssl:3.0.0:alpha2:*:*:*:*:*:*",
+	"matchCriteriaId": "31593C1F-A2EA-4A47-8027-397C79EC9E30",
+	"created": "2022-02-04T16:45:44.517",
+	"lastModified": "2022-02-04T16:45:44.517",
+	"cpeLastModified": "2022-02-07T15:24:23.230",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:openssl:openssl:3.0.0:alpha2:*:*:*:*:*:*",
+			"cpeNameId": "91809044-A88D-43E1-86DC-6018D847E269"
+		}
+	]
 }

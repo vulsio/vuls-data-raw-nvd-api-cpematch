@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:kony:enterprise_mobile_management:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "99B5A2B4-557E-481B-828D-89EAAF512AD2",
-  "versionEndIncluding": "1.2",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:kony:enterprise_mobile_management:1.2:*:*:*:*:*:*:*",
-      "cpeNameId": "C3910CE8-A3E3-4A0C-9E58-F1766125AEA4"
-    }
-  ]
+	"criteria": "cpe:2.3:a:kony:enterprise_mobile_management:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "99B5A2B4-557E-481B-828D-89EAAF512AD2",
+	"versionEndIncluding": "1.2",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:kony:enterprise_mobile_management:1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "C3910CE8-A3E3-4A0C-9E58-F1766125AEA4"
+		}
+	]
 }

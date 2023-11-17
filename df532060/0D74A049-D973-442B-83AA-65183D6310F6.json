@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:crossbar:autobahn:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0D74A049-D973-442B-83AA-65183D6310F6",
-  "versionEndExcluding": "20.12.3",
-  "created": "2020-12-29T18:32:01.713",
-  "lastModified": "2020-12-29T18:32:01.713",
-  "cpeLastModified": "2020-12-31T15:13:51.353",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:crossbar:autobahn:-:*:*:*:*:*:*:*",
-      "cpeNameId": "1ED653C5-391E-4E82-A6A0-7858C38430FD"
-    }
-  ]
+	"criteria": "cpe:2.3:a:crossbar:autobahn:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0D74A049-D973-442B-83AA-65183D6310F6",
+	"versionEndExcluding": "20.12.3",
+	"created": "2020-12-29T18:32:01.713",
+	"lastModified": "2020-12-29T18:32:01.713",
+	"cpeLastModified": "2020-12-31T15:13:51.353",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:crossbar:autobahn:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1ED653C5-391E-4E82-A6A0-7858C38430FD"
+		}
+	]
 }

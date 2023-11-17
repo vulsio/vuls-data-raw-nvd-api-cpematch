@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:symantec:data_center_security_server:6.5.0:-:*:*:advanced:*:*:*",
-  "matchCriteriaId": "28D42477-0D5B-4C1B-95F3-A521EFB16320",
-  "created": "2019-09-20T13:16:26.473",
-  "lastModified": "2019-09-20T13:16:26.473",
-  "cpeLastModified": "2019-09-20T14:25:19.340",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:symantec:data_center_security_server:6.5.0:-:*:*:advanced:*:*:*",
-      "cpeNameId": "4BEBD4DE-A141-4D60-8241-0AA1BA753BB9"
-    }
-  ]
+	"criteria": "cpe:2.3:a:symantec:data_center_security_server:6.5.0:-:*:*:advanced:*:*:*",
+	"matchCriteriaId": "28D42477-0D5B-4C1B-95F3-A521EFB16320",
+	"created": "2019-09-20T13:16:26.473",
+	"lastModified": "2019-09-20T13:16:26.473",
+	"cpeLastModified": "2019-09-20T14:25:19.340",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:symantec:data_center_security_server:6.5.0:-:*:*:advanced:*:*:*",
+			"cpeNameId": "4BEBD4DE-A141-4D60-8241-0AA1BA753BB9"
+		}
+	]
 }

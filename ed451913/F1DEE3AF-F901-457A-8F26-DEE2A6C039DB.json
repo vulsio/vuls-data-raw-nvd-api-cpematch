@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:hitachi-solutions:confidential_file_decryption:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F1DEE3AF-F901-457A-8F26-DEE2A6C039DB",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2020-08-18T13:57:09.387",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:hitachi-solutions:confidential_file_decryption:-:*:*:*:*:*:*:*",
-      "cpeNameId": "FA8F4985-A65B-467E-A920-4617487BB6E4"
-    }
-  ]
+	"criteria": "cpe:2.3:a:hitachi-solutions:confidential_file_decryption:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F1DEE3AF-F901-457A-8F26-DEE2A6C039DB",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2020-08-18T13:57:09.387",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:hitachi-solutions:confidential_file_decryption:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FA8F4985-A65B-467E-A920-4617487BB6E4"
+		}
+	]
 }

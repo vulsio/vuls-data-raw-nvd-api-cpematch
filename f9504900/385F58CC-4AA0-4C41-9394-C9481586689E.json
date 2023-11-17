@@ -1,51 +1,51 @@
 {
-  "criteria": "cpe:2.3:a:webmproject:libvpx:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "385F58CC-4AA0-4C41-9394-C9481586689E",
-  "versionEndExcluding": "1.13.1",
-  "created": "2023-10-03T15:37:00.780",
-  "lastModified": "2023-10-26T13:39:57.527",
-  "cpeLastModified": "2023-10-03T15:37:00.780",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:webmproject:libvpx:-:*:*:*:*:*:*:*",
-      "cpeNameId": "91DCFAEC-C09B-44E1-9AF2-FA7A81E9CFF0"
-    },
-    {
-      "cpeName": "cpe:2.3:a:webmproject:libvpx:0.9.0:*:*:*:*:*:*:*",
-      "cpeNameId": "BC2FB576-2C3E-487F-ACC2-F162BFABC9E2"
-    },
-    {
-      "cpeName": "cpe:2.3:a:webmproject:libvpx:0.9.1:*:*:*:*:*:*:*",
-      "cpeNameId": "162507B7-1820-46ED-9497-22A71FC3BDC6"
-    },
-    {
-      "cpeName": "cpe:2.3:a:webmproject:libvpx:0.9.2:*:*:*:*:*:*:*",
-      "cpeNameId": "26BD1E8D-B48C-4AE7-A28B-056FE330748F"
-    },
-    {
-      "cpeName": "cpe:2.3:a:webmproject:libvpx:0.9.5:*:*:*:*:*:*:*",
-      "cpeNameId": "D3FFAD9F-AE25-4FB2-A14A-0CF374B1B680"
-    },
-    {
-      "cpeName": "cpe:2.3:a:webmproject:libvpx:0.9.6:*:*:*:*:*:*:*",
-      "cpeNameId": "C6E577E2-CDF7-445C-B9E5-40E9C3C3FF71"
-    },
-    {
-      "cpeName": "cpe:2.3:a:webmproject:libvpx:0.9.7:*:*:*:*:*:*:*",
-      "cpeNameId": "DA29B7DE-FA17-4ADE-A5FF-69D20DA47960"
-    },
-    {
-      "cpeName": "cpe:2.3:a:webmproject:libvpx:0.9.7:-:*:*:*:*:*:*",
-      "cpeNameId": "02590756-C794-4124-A8FF-55DF36DAC216"
-    },
-    {
-      "cpeName": "cpe:2.3:a:webmproject:libvpx:0.9.7:p1:*:*:*:*:*:*",
-      "cpeNameId": "DF67909E-F77D-433C-8F86-EDF4D6E7FBE1"
-    },
-    {
-      "cpeName": "cpe:2.3:a:webmproject:libvpx:1.0.0:*:*:*:*:*:*:*",
-      "cpeNameId": "737A8A52-CDE6-453B-9D44-376B61A1A425"
-    }
-  ]
+	"criteria": "cpe:2.3:a:webmproject:libvpx:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "385F58CC-4AA0-4C41-9394-C9481586689E",
+	"versionEndExcluding": "1.13.1",
+	"created": "2023-10-03T15:37:00.780",
+	"lastModified": "2023-10-26T13:39:57.527",
+	"cpeLastModified": "2023-10-03T15:37:00.780",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:webmproject:libvpx:-:*:*:*:*:*:*:*",
+			"cpeNameId": "91DCFAEC-C09B-44E1-9AF2-FA7A81E9CFF0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webmproject:libvpx:0.9.0:*:*:*:*:*:*:*",
+			"cpeNameId": "BC2FB576-2C3E-487F-ACC2-F162BFABC9E2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webmproject:libvpx:0.9.1:*:*:*:*:*:*:*",
+			"cpeNameId": "162507B7-1820-46ED-9497-22A71FC3BDC6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webmproject:libvpx:0.9.2:*:*:*:*:*:*:*",
+			"cpeNameId": "26BD1E8D-B48C-4AE7-A28B-056FE330748F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webmproject:libvpx:0.9.5:*:*:*:*:*:*:*",
+			"cpeNameId": "D3FFAD9F-AE25-4FB2-A14A-0CF374B1B680"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webmproject:libvpx:0.9.6:*:*:*:*:*:*:*",
+			"cpeNameId": "C6E577E2-CDF7-445C-B9E5-40E9C3C3FF71"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webmproject:libvpx:0.9.7:*:*:*:*:*:*:*",
+			"cpeNameId": "DA29B7DE-FA17-4ADE-A5FF-69D20DA47960"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webmproject:libvpx:0.9.7:-:*:*:*:*:*:*",
+			"cpeNameId": "02590756-C794-4124-A8FF-55DF36DAC216"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webmproject:libvpx:0.9.7:p1:*:*:*:*:*:*",
+			"cpeNameId": "DF67909E-F77D-433C-8F86-EDF4D6E7FBE1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webmproject:libvpx:1.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "737A8A52-CDE6-453B-9D44-376B61A1A425"
+		}
+	]
 }

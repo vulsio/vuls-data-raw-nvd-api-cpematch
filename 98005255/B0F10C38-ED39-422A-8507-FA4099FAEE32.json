@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:engelsystem:engelsystem:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B0F10C38-ED39-422A-8507-FA4099FAEE32",
-  "versionEndExcluding": "2023-09-18",
-  "created": "2023-10-23T14:45:11.910",
-  "lastModified": "2023-10-23T14:45:11.910",
-  "cpeLastModified": "2023-10-23T14:45:11.910",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:engelsystem:engelsystem:2.0.0:*:*:*:*:*:*:*",
-      "cpeNameId": "A6502DDE-C81C-4ABC-A911-DE515EF23F5D"
-    },
-    {
-      "cpeName": "cpe:2.3:a:engelsystem:engelsystem:3.0.0:*:*:*:*:*:*:*",
-      "cpeNameId": "235AFB60-97F7-4ED4-AF6C-524F3E9BABA1"
-    }
-  ]
+	"criteria": "cpe:2.3:a:engelsystem:engelsystem:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B0F10C38-ED39-422A-8507-FA4099FAEE32",
+	"versionEndExcluding": "2023-09-18",
+	"created": "2023-10-23T14:45:11.910",
+	"lastModified": "2023-10-23T14:45:11.910",
+	"cpeLastModified": "2023-10-23T14:45:11.910",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:engelsystem:engelsystem:2.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A6502DDE-C81C-4ABC-A911-DE515EF23F5D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:engelsystem:engelsystem:3.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "235AFB60-97F7-4ED4-AF6C-524F3E9BABA1"
+		}
+	]
 }

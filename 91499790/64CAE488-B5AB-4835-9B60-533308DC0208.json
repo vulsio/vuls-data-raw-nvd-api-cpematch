@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:ti:simplelink_cc13x0_software_development_kit:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "64CAE488-B5AB-4835-9B60-533308DC0208",
-  "versionEndExcluding": "4.10.03",
-  "created": "2021-05-17T18:43:38.660",
-  "lastModified": "2021-05-17T18:43:38.660",
-  "cpeLastModified": "2021-05-17T18:43:38.660",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ti:simplelink_cc13x0_software_development_kit:-:*:*:*:*:*:*:*",
-      "cpeNameId": "BF44142D-F635-42B9-A5FB-799E1B1B4213"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ti:simplelink_cc13x0_software_development_kit:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "64CAE488-B5AB-4835-9B60-533308DC0208",
+	"versionEndExcluding": "4.10.03",
+	"created": "2021-05-17T18:43:38.660",
+	"lastModified": "2021-05-17T18:43:38.660",
+	"cpeLastModified": "2021-05-17T18:43:38.660",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ti:simplelink_cc13x0_software_development_kit:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BF44142D-F635-42B9-A5FB-799E1B1B4213"
+		}
+	]
 }

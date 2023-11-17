@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:microsoft:powerpoint:-:*:*:*:*:android:*:*",
-  "matchCriteriaId": "8E077913-6962-41DB-B2FF-86E1AC75B94B",
-  "created": "2022-04-19T01:49:58.707",
-  "lastModified": "2023-08-25T07:22:33.470",
-  "cpeLastModified": "2023-08-25T07:22:33.470",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:microsoft:powerpoint:-:*:*:*:*:android:*:*",
-      "cpeNameId": "02BD9751-07A2-41F4-B134-9E4E7FE192EB"
-    }
-  ]
+	"criteria": "cpe:2.3:a:microsoft:powerpoint:-:*:*:*:*:android:*:*",
+	"matchCriteriaId": "8E077913-6962-41DB-B2FF-86E1AC75B94B",
+	"created": "2022-04-19T01:49:58.707",
+	"lastModified": "2023-08-25T07:22:33.470",
+	"cpeLastModified": "2023-08-25T07:22:33.470",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:powerpoint:-:*:*:*:*:android:*:*",
+			"cpeNameId": "02BD9751-07A2-41F4-B134-9E4E7FE192EB"
+		}
+	]
 }

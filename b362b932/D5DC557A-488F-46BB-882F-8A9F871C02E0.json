@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:siemens:comos:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D5DC557A-488F-46BB-882F-8A9F871C02E0",
-  "versionStartIncluding": "10.4",
-  "versionEndExcluding": "10.4.1",
-  "created": "2022-02-11T15:11:10.610",
-  "lastModified": "2022-02-11T15:11:10.610",
-  "cpeLastModified": "2022-02-14T15:28:16.983",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:siemens:comos:10.4:*:*:*:*:*:*:*",
-      "cpeNameId": "ED6ED0D1-ACB5-4AE3-836E-C3FEB97A8785"
-    }
-  ]
+	"criteria": "cpe:2.3:a:siemens:comos:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D5DC557A-488F-46BB-882F-8A9F871C02E0",
+	"versionStartIncluding": "10.4",
+	"versionEndExcluding": "10.4.1",
+	"created": "2022-02-11T15:11:10.610",
+	"lastModified": "2022-02-11T15:11:10.610",
+	"cpeLastModified": "2022-02-14T15:28:16.983",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:siemens:comos:10.4:*:*:*:*:*:*:*",
+			"cpeNameId": "ED6ED0D1-ACB5-4AE3-836E-C3FEB97A8785"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:aruba:cx_6300_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "BAF1CE95-3E01-47F6-9784-F0F14758862E",
-  "versionEndIncluding": "10.04.3021",
-  "created": "2020-09-29T17:12:47.780",
-  "lastModified": "2020-09-29T17:12:47.780",
-  "cpeLastModified": "2020-10-16T18:02:54.377",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:aruba:cx_6300_firmware:10.04.1000:*:*:*:*:*:*:*",
-      "cpeNameId": "D1F69418-5976-453F-A703-B4646AEE9310"
-    },
-    {
-      "cpeName": "cpe:2.3:o:aruba:cx_6300_firmware:10.04.3021:*:*:*:*:*:*:*",
-      "cpeNameId": "37A89E56-2CDC-4234-B2F3-964E376C6556"
-    }
-  ]
+	"criteria": "cpe:2.3:o:aruba:cx_6300_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BAF1CE95-3E01-47F6-9784-F0F14758862E",
+	"versionEndIncluding": "10.04.3021",
+	"created": "2020-09-29T17:12:47.780",
+	"lastModified": "2020-09-29T17:12:47.780",
+	"cpeLastModified": "2020-10-16T18:02:54.377",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:aruba:cx_6300_firmware:10.04.1000:*:*:*:*:*:*:*",
+			"cpeNameId": "D1F69418-5976-453F-A703-B4646AEE9310"
+		},
+		{
+			"cpeName": "cpe:2.3:o:aruba:cx_6300_firmware:10.04.3021:*:*:*:*:*:*:*",
+			"cpeNameId": "37A89E56-2CDC-4234-B2F3-964E376C6556"
+		}
+	]
 }

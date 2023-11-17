@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:auo:sunveillance_monitoring_system_\\&_data_recorder:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B8F6A534-EFEB-4C18-818C-0C482544E799",
-  "versionEndExcluding": "1.1.9e",
-  "created": "2019-11-13T19:25:06.550",
-  "lastModified": "2019-11-13T19:25:06.550",
-  "cpeLastModified": "2019-12-06T15:17:39.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:auo:sunveillance_monitoring_system_\\&_data_recorder:-:*:*:*:*:*:*:*",
-      "cpeNameId": "44C86516-BA87-41B8-A5BB-73FA14ED813A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:auo:sunveillance_monitoring_system_\\&_data_recorder:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B8F6A534-EFEB-4C18-818C-0C482544E799",
+	"versionEndExcluding": "1.1.9e",
+	"created": "2019-11-13T19:25:06.550",
+	"lastModified": "2019-11-13T19:25:06.550",
+	"cpeLastModified": "2019-12-06T15:17:39.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:auo:sunveillance_monitoring_system_\\&_data_recorder:-:*:*:*:*:*:*:*",
+			"cpeNameId": "44C86516-BA87-41B8-A5BB-73FA14ED813A"
+		}
+	]
 }

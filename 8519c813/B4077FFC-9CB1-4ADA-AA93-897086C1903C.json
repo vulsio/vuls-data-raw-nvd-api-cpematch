@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:ricoh:limedio:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B4077FFC-9CB1-4ADA-AA93-897086C1903C",
-  "created": "2020-01-06T17:41:16.973",
-  "lastModified": "2020-01-06T17:41:16.973",
-  "cpeLastModified": "2020-01-07T14:36:45.570",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ricoh:limedio:-:*:*:*:*:*:*:*",
-      "cpeNameId": "CE978A75-7287-4C5F-8A4C-97D2EE7CE081"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ricoh:limedio:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B4077FFC-9CB1-4ADA-AA93-897086C1903C",
+	"created": "2020-01-06T17:41:16.973",
+	"lastModified": "2020-01-06T17:41:16.973",
+	"cpeLastModified": "2020-01-07T14:36:45.570",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ricoh:limedio:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CE978A75-7287-4C5F-8A4C-97D2EE7CE081"
+		}
+	]
 }

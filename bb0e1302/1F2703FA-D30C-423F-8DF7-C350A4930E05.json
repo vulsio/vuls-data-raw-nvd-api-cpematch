@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:dell:alienware_m17_r3_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1F2703FA-D30C-423F-8DF7-C350A4930E05",
-  "versionEndExcluding": "1.19.0",
-  "created": "2022-10-13T18:49:52.637",
-  "lastModified": "2022-10-13T18:49:52.637",
-  "cpeLastModified": "2022-10-13T18:49:52.637",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:alienware_m17_r3_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "AB72FF72-5CA9-4FB5-9612-6AD72884B4BE"
-    },
-    {
-      "cpeName": "cpe:2.3:o:dell:alienware_m17_r3_firmware:1.12.0:*:*:*:*:*:*:*",
-      "cpeNameId": "837E2E83-8DEF-427A-A766-61D153940195"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:alienware_m17_r3_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1F2703FA-D30C-423F-8DF7-C350A4930E05",
+	"versionEndExcluding": "1.19.0",
+	"created": "2022-10-13T18:49:52.637",
+	"lastModified": "2022-10-13T18:49:52.637",
+	"cpeLastModified": "2022-10-13T18:49:52.637",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:alienware_m17_r3_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "AB72FF72-5CA9-4FB5-9612-6AD72884B4BE"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:alienware_m17_r3_firmware:1.12.0:*:*:*:*:*:*:*",
+			"cpeNameId": "837E2E83-8DEF-427A-A766-61D153940195"
+		}
+	]
 }

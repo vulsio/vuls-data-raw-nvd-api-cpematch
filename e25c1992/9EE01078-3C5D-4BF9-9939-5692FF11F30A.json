@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:siemens:sinema_remote_connect:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9EE01078-3C5D-4BF9-9939-5692FF11F30A",
-  "versionEndExcluding": "3.0",
-  "created": "2021-08-26T11:27:39.580",
-  "lastModified": "2021-08-26T11:27:39.580",
-  "cpeLastModified": "2021-08-26T11:52:19.270",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:siemens:sinema_remote_connect:-:*:*:*:*:*:*:*",
-      "cpeNameId": "907F8EDF-3E38-4F89-9ECA-0F4C6F42FB16"
-    }
-  ]
+	"criteria": "cpe:2.3:a:siemens:sinema_remote_connect:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9EE01078-3C5D-4BF9-9939-5692FF11F30A",
+	"versionEndExcluding": "3.0",
+	"created": "2021-08-26T11:27:39.580",
+	"lastModified": "2021-08-26T11:27:39.580",
+	"cpeLastModified": "2021-08-26T11:52:19.270",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:siemens:sinema_remote_connect:-:*:*:*:*:*:*:*",
+			"cpeNameId": "907F8EDF-3E38-4F89-9ECA-0F4C6F42FB16"
+		}
+	]
 }

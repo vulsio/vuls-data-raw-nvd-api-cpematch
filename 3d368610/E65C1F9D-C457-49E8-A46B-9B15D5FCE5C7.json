@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:synology:virtual_diskstation_manager:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E65C1F9D-C457-49E8-A46B-9B15D5FCE5C7",
-  "versionEndExcluding": "6.1.6-15266",
-  "created": "2020-06-17T16:11:21.687",
-  "lastModified": "2020-06-17T16:11:21.687",
-  "cpeLastModified": "2020-10-30T18:03:10.950",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:synology:virtual_diskstation_manager:-:*:*:*:*:*:*:*",
-      "cpeNameId": "B368CC8D-841B-4722-AFDF-D82A27434243"
-    }
-  ]
+	"criteria": "cpe:2.3:a:synology:virtual_diskstation_manager:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E65C1F9D-C457-49E8-A46B-9B15D5FCE5C7",
+	"versionEndExcluding": "6.1.6-15266",
+	"created": "2020-06-17T16:11:21.687",
+	"lastModified": "2020-06-17T16:11:21.687",
+	"cpeLastModified": "2020-10-30T18:03:10.950",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:synology:virtual_diskstation_manager:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B368CC8D-841B-4722-AFDF-D82A27434243"
+		}
+	]
 }

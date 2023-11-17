@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:ideacentre_310s-08igm_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "79D76C5F-300C-4355-AA11-1EA73DF18623",
-  "versionEndExcluding": "m1tkt24a",
-  "created": "2020-02-28T03:53:56.567",
-  "lastModified": "2020-02-28T03:53:56.567",
-  "cpeLastModified": "2020-02-28T03:53:56.600",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:ideacentre_310s-08igm_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "D405ADAE-FED0-455B-AA39-1275BADE7EB4"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:ideacentre_310s-08igm_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "79D76C5F-300C-4355-AA11-1EA73DF18623",
+	"versionEndExcluding": "m1tkt24a",
+	"created": "2020-02-28T03:53:56.567",
+	"lastModified": "2020-02-28T03:53:56.567",
+	"cpeLastModified": "2020-02-28T03:53:56.600",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:ideacentre_310s-08igm_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D405ADAE-FED0-455B-AA39-1275BADE7EB4"
+		}
+	]
 }

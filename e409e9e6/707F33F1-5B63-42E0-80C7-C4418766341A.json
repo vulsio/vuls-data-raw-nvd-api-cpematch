@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:mattermost:mattermost_mobile:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "707F33F1-5B63-42E0-80C7-C4418766341A",
-  "versionEndExcluding": "1.29.0",
-  "created": "2020-06-26T19:08:15.320",
-  "lastModified": "2020-06-26T19:08:15.320",
-  "cpeLastModified": "2020-06-29T15:21:08.980",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:mattermost:mattermost_mobile:1.26.0:*:*:*:*:*:*:*",
-      "cpeNameId": "79816339-6EFD-4E03-9A3B-6855BD057B1E"
-    }
-  ]
+	"criteria": "cpe:2.3:a:mattermost:mattermost_mobile:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "707F33F1-5B63-42E0-80C7-C4418766341A",
+	"versionEndExcluding": "1.29.0",
+	"created": "2020-06-26T19:08:15.320",
+	"lastModified": "2020-06-26T19:08:15.320",
+	"cpeLastModified": "2020-06-29T15:21:08.980",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:mattermost:mattermost_mobile:1.26.0:*:*:*:*:*:*:*",
+			"cpeNameId": "79816339-6EFD-4E03-9A3B-6855BD057B1E"
+		}
+	]
 }

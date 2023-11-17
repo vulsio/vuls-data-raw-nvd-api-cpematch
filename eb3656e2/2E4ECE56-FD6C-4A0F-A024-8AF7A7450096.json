@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:qualcomm:sg8275_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "2E4ECE56-FD6C-4A0F-A024-8AF7A7450096",
-  "created": "2022-10-20T15:49:10.927",
-  "lastModified": "2022-10-20T16:17:57.227",
-  "cpeLastModified": "2022-10-20T16:17:57.227",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:qualcomm:sg8275_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "825B158A-14EB-4294-8291-DDDA6A8B8F4F"
-    }
-  ]
+	"criteria": "cpe:2.3:o:qualcomm:sg8275_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2E4ECE56-FD6C-4A0F-A024-8AF7A7450096",
+	"created": "2022-10-20T15:49:10.927",
+	"lastModified": "2022-10-20T16:17:57.227",
+	"cpeLastModified": "2022-10-20T16:17:57.227",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:qualcomm:sg8275_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "825B158A-14EB-4294-8291-DDDA6A8B8F4F"
+		}
+	]
 }

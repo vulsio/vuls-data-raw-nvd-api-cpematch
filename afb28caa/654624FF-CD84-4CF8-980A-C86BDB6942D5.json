@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:citrix:access_gateway_plug-in:9.0:*:*:*:enterprise:windows:*:*",
-  "matchCriteriaId": "654624FF-CD84-4CF8-980A-C86BDB6942D5",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:citrix:access_gateway_plug-in:9.0:*:*:*:enterprise:windows:*:*",
-      "cpeNameId": "1CEC0D37-7F40-4110-A922-DB1817B133DF"
-    }
-  ]
+	"criteria": "cpe:2.3:a:citrix:access_gateway_plug-in:9.0:*:*:*:enterprise:windows:*:*",
+	"matchCriteriaId": "654624FF-CD84-4CF8-980A-C86BDB6942D5",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:citrix:access_gateway_plug-in:9.0:*:*:*:enterprise:windows:*:*",
+			"cpeNameId": "1CEC0D37-7F40-4110-A922-DB1817B133DF"
+		}
+	]
 }

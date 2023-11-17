@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:ethernet_network_controller_e810-xxvam2_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0B4DAD07-635E-4DF9-866F-69379A4A74DC",
-  "versionEndExcluding": "1.5.5.6",
-  "created": "2021-11-22T19:19:20.670",
-  "lastModified": "2021-11-22T19:19:20.670",
-  "cpeLastModified": "2021-11-22T19:19:30.583",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:ethernet_network_controller_e810-xxvam2_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "F76421C8-BDCD-4E73-9F0F-C13611333B63"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:ethernet_network_controller_e810-xxvam2_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0B4DAD07-635E-4DF9-866F-69379A4A74DC",
+	"versionEndExcluding": "1.5.5.6",
+	"created": "2021-11-22T19:19:20.670",
+	"lastModified": "2021-11-22T19:19:20.670",
+	"cpeLastModified": "2021-11-22T19:19:30.583",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:ethernet_network_controller_e810-xxvam2_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F76421C8-BDCD-4E73-9F0F-C13611333B63"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:sonicwall:tz600p_firmware:7.0.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B420B234-A97A-46CF-9163-E45EBF677737",
-  "created": "2022-05-04T13:35:04.420",
-  "lastModified": "2022-05-04T13:35:04.420",
-  "cpeLastModified": "2022-06-22T16:42:38.240",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:sonicwall:tz600p_firmware:7.0.0:*:*:*:*:*:*:*",
-      "cpeNameId": "E8B7734D-B012-4515-9558-EEDCCE91C970"
-    }
-  ]
+	"criteria": "cpe:2.3:o:sonicwall:tz600p_firmware:7.0.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B420B234-A97A-46CF-9163-E45EBF677737",
+	"created": "2022-05-04T13:35:04.420",
+	"lastModified": "2022-05-04T13:35:04.420",
+	"cpeLastModified": "2022-06-22T16:42:38.240",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:sonicwall:tz600p_firmware:7.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E8B7734D-B012-4515-9558-EEDCCE91C970"
+		}
+	]
 }

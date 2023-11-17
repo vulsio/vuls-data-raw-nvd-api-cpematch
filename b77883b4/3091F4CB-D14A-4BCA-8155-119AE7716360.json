@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:f5:nginx:0.7.61:*:*:*:*:*:*:*",
-  "matchCriteriaId": "3091F4CB-D14A-4BCA-8155-119AE7716360",
-  "created": "2021-11-10T15:51:04.787",
-  "lastModified": "2021-11-10T15:51:04.787",
-  "cpeLastModified": "2021-11-10T15:51:16.243",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:f5:nginx:0.7.61:*:*:*:*:*:*:*",
-      "cpeNameId": "F2877981-D55D-4FEE-BF52-9FF2A6734451"
-    }
-  ]
+	"criteria": "cpe:2.3:a:f5:nginx:0.7.61:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3091F4CB-D14A-4BCA-8155-119AE7716360",
+	"created": "2021-11-10T15:51:04.787",
+	"lastModified": "2021-11-10T15:51:04.787",
+	"cpeLastModified": "2021-11-10T15:51:16.243",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:f5:nginx:0.7.61:*:*:*:*:*:*:*",
+			"cpeNameId": "F2877981-D55D-4FEE-BF52-9FF2A6734451"
+		}
+	]
 }

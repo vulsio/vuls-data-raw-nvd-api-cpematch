@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:nch:reflect_customer_relationship_management:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5C0CB36B-6EBA-4612-87B8-B3EC0343A982",
-  "versionEndIncluding": "3.01",
-  "created": "2021-08-05T17:27:45.917",
-  "lastModified": "2021-08-05T17:27:45.917",
-  "cpeLastModified": "2022-11-09T15:10:25.737",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:nch:reflect_customer_relationship_management:3.01:*:*:*:*:*:*:*",
-      "cpeNameId": "B28344A9-0443-4383-A905-867D29F39C34"
-    }
-  ]
+	"criteria": "cpe:2.3:a:nch:reflect_customer_relationship_management:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5C0CB36B-6EBA-4612-87B8-B3EC0343A982",
+	"versionEndIncluding": "3.01",
+	"created": "2021-08-05T17:27:45.917",
+	"lastModified": "2021-08-05T17:27:45.917",
+	"cpeLastModified": "2022-11-09T15:10:25.737",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:nch:reflect_customer_relationship_management:3.01:*:*:*:*:*:*:*",
+			"cpeNameId": "B28344A9-0443-4383-A905-867D29F39C34"
+		}
+	]
 }

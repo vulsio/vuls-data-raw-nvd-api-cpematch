@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:ssd_pro_5400s_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "74DFEEA0-E6D7-42F3-9A74-519CF2ACB57D",
-  "versionEndExcluding": "lsf043p",
-  "created": "2020-11-17T16:26:58.640",
-  "lastModified": "2020-11-17T16:26:58.640",
-  "cpeLastModified": "2020-12-04T18:39:52.300",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:ssd_pro_5400s_firmware:lbf017p:*:*:*:*:*:*:*",
-      "cpeNameId": "682AED9E-227D-45C0-B9CC-E49BD8E2718E"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:ssd_pro_5400s_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "74DFEEA0-E6D7-42F3-9A74-519CF2ACB57D",
+	"versionEndExcluding": "lsf043p",
+	"created": "2020-11-17T16:26:58.640",
+	"lastModified": "2020-11-17T16:26:58.640",
+	"cpeLastModified": "2020-12-04T18:39:52.300",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:ssd_pro_5400s_firmware:lbf017p:*:*:*:*:*:*:*",
+			"cpeNameId": "682AED9E-227D-45C0-B9CC-E49BD8E2718E"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:sap:netweaver_internet_communication_manager_\\(krnl64nuc\\):7.22:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CA479004-8ABC-4045-920C-6C459978E633",
-  "created": "2020-01-21T17:08:16.023",
-  "lastModified": "2020-01-21T17:08:16.023",
-  "cpeLastModified": "2020-02-10T15:39:46.740",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:sap:netweaver_internet_communication_manager_\\(krnl64nuc\\):7.22:*:*:*:*:*:*:*",
-      "cpeNameId": "E7F7570F-97BD-487A-990D-B307F644AF51"
-    }
-  ]
+	"criteria": "cpe:2.3:a:sap:netweaver_internet_communication_manager_\\(krnl64nuc\\):7.22:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CA479004-8ABC-4045-920C-6C459978E633",
+	"created": "2020-01-21T17:08:16.023",
+	"lastModified": "2020-01-21T17:08:16.023",
+	"cpeLastModified": "2020-02-10T15:39:46.740",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sap:netweaver_internet_communication_manager_\\(krnl64nuc\\):7.22:*:*:*:*:*:*:*",
+			"cpeNameId": "E7F7570F-97BD-487A-990D-B307F644AF51"
+		}
+	]
 }

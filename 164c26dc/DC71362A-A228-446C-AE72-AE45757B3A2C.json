@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:terra-master:terramaster_operating_system:3.1.03:*:*:*:*:*:*:*",
-  "matchCriteriaId": "DC71362A-A228-446C-AE72-AE45757B3A2C",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-11-27T16:18:37.430",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:terra-master:terramaster_operating_system:3.1.03:*:*:*:*:*:*:*",
-      "cpeNameId": "C9C275D4-6BB9-4A05-84E7-C63648716FA2"
-    }
-  ]
+	"criteria": "cpe:2.3:o:terra-master:terramaster_operating_system:3.1.03:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DC71362A-A228-446C-AE72-AE45757B3A2C",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-11-27T16:18:37.430",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:terra-master:terramaster_operating_system:3.1.03:*:*:*:*:*:*:*",
+			"cpeNameId": "C9C275D4-6BB9-4A05-84E7-C63648716FA2"
+		}
+	]
 }

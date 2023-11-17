@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:lenovo:yoga_3_11:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "3C26A890-F6A6-4F20-ACB9-B6EC9E01B77B",
-  "created": "2020-03-30T12:34:00.200",
-  "lastModified": "2020-03-30T12:34:00.200",
-  "cpeLastModified": "2020-04-02T17:57:24.760",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:lenovo:yoga_3_11:-:*:*:*:*:*:*:*",
-      "cpeNameId": "3FCC9367-D4AB-46C0-8E40-4509D5187C64"
-    }
-  ]
+	"criteria": "cpe:2.3:h:lenovo:yoga_3_11:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3C26A890-F6A6-4F20-ACB9-B6EC9E01B77B",
+	"created": "2020-03-30T12:34:00.200",
+	"lastModified": "2020-03-30T12:34:00.200",
+	"cpeLastModified": "2020-04-02T17:57:24.760",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:lenovo:yoga_3_11:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3FCC9367-D4AB-46C0-8E40-4509D5187C64"
+		}
+	]
 }

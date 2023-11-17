@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:elastic:logstash:1.1.9:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9DA006C7-CFF5-490F-8BAE-1DACA4765A7E",
-  "created": "2019-06-17T15:46:51.687",
-  "lastModified": "2019-06-17T15:46:51.687",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:elastic:logstash:1.1.9:*:*:*:*:*:*:*",
-      "cpeNameId": "052F619E-D39F-41C7-B0E3-53975A649F48"
-    }
-  ]
+	"criteria": "cpe:2.3:a:elastic:logstash:1.1.9:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9DA006C7-CFF5-490F-8BAE-1DACA4765A7E",
+	"created": "2019-06-17T15:46:51.687",
+	"lastModified": "2019-06-17T15:46:51.687",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:elastic:logstash:1.1.9:*:*:*:*:*:*:*",
+			"cpeNameId": "052F619E-D39F-41C7-B0E3-53975A649F48"
+		}
+	]
 }

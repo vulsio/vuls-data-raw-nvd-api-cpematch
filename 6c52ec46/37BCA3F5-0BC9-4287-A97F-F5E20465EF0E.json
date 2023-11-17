@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:trendmicro:scanmail:14.0:*:*:*:*:microsoft_exchange:*:*",
-  "matchCriteriaId": "37BCA3F5-0BC9-4287-A97F-F5E20465EF0E",
-  "created": "2020-03-02T13:40:42.520",
-  "lastModified": "2020-03-02T13:40:42.520",
-  "cpeLastModified": "2020-04-03T11:28:59.860",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:trendmicro:scanmail:14.0:*:*:*:*:microsoft_exchange:*:*",
-      "cpeNameId": "132DC89C-72A1-4C91-B003-FF5765DD94C4"
-    }
-  ]
+	"criteria": "cpe:2.3:a:trendmicro:scanmail:14.0:*:*:*:*:microsoft_exchange:*:*",
+	"matchCriteriaId": "37BCA3F5-0BC9-4287-A97F-F5E20465EF0E",
+	"created": "2020-03-02T13:40:42.520",
+	"lastModified": "2020-03-02T13:40:42.520",
+	"cpeLastModified": "2020-04-03T11:28:59.860",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:trendmicro:scanmail:14.0:*:*:*:*:microsoft_exchange:*:*",
+			"cpeNameId": "132DC89C-72A1-4C91-B003-FF5765DD94C4"
+		}
+	]
 }

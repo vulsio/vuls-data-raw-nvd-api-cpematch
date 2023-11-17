@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:siemens:cpu_1515sp_pc2_tf:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "DE1F1B14-C5F6-463C-9DD8-70401123683B",
-  "created": "2021-08-17T11:14:45.947",
-  "lastModified": "2021-08-17T11:14:45.947",
-  "cpeLastModified": "2021-08-20T16:47:03.787",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:siemens:cpu_1515sp_pc2_tf:-:*:*:*:*:*:*:*",
-      "cpeNameId": "F3758203-C60F-413E-9364-82AED2C7DD70"
-    }
-  ]
+	"criteria": "cpe:2.3:h:siemens:cpu_1515sp_pc2_tf:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DE1F1B14-C5F6-463C-9DD8-70401123683B",
+	"created": "2021-08-17T11:14:45.947",
+	"lastModified": "2021-08-17T11:14:45.947",
+	"cpeLastModified": "2021-08-20T16:47:03.787",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:siemens:cpu_1515sp_pc2_tf:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F3758203-C60F-413E-9364-82AED2C7DD70"
+		}
+	]
 }

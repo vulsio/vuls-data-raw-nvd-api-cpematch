@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:mitsubishielectric:mx_component:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "DCBBBA97-3C41-423F-8534-098070E49A97",
-  "versionEndExcluding": "4.20w",
-  "created": "2022-06-06T13:29:05.647",
-  "lastModified": "2022-06-06T13:29:05.647",
-  "cpeLastModified": "2021-04-19T13:20:53.620",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:mitsubishielectric:mx_component:-:*:*:*:*:*:*:*",
-      "cpeNameId": "6CDD1813-8B3F-4F78-B8E5-24A1F57483FA"
-    }
-  ]
+	"criteria": "cpe:2.3:a:mitsubishielectric:mx_component:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DCBBBA97-3C41-423F-8534-098070E49A97",
+	"versionEndExcluding": "4.20w",
+	"created": "2022-06-06T13:29:05.647",
+	"lastModified": "2022-06-06T13:29:05.647",
+	"cpeLastModified": "2021-04-19T13:20:53.620",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:mitsubishielectric:mx_component:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6CDD1813-8B3F-4F78-B8E5-24A1F57483FA"
+		}
+	]
 }

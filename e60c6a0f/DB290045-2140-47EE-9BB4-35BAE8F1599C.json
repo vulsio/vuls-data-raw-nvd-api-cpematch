@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:oracle:endeca_server:7.7.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "DB290045-2140-47EE-9BB4-35BAE8F1599C",
-  "created": "2022-03-24T19:36:20.453",
-  "lastModified": "2022-08-18T13:44:43.220",
-  "cpeLastModified": "2022-03-24T19:47:11.620",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:oracle:endeca_server:7.7.0:*:*:*:*:*:*:*",
-      "cpeNameId": "C62A9F75-A604-49EB-A305-E53B0C16C36D"
-    }
-  ]
+	"criteria": "cpe:2.3:a:oracle:endeca_server:7.7.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DB290045-2140-47EE-9BB4-35BAE8F1599C",
+	"created": "2022-03-24T19:36:20.453",
+	"lastModified": "2022-08-18T13:44:43.220",
+	"cpeLastModified": "2022-03-24T19:47:11.620",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:endeca_server:7.7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C62A9F75-A604-49EB-A305-E53B0C16C36D"
+		}
+	]
 }

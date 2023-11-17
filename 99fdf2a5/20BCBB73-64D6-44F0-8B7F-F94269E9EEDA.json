@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:libreoffice:libreoffice:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "20BCBB73-64D6-44F0-8B7F-F94269E9EEDA",
-  "versionStartIncluding": "7.2.0",
-  "versionEndExcluding": "7.2.7",
-  "created": "2022-08-01T17:07:55.557",
-  "lastModified": "2022-08-01T17:07:55.557",
-  "cpeLastModified": "2022-08-02T14:12:38.997",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:libreoffice:libreoffice:7.2.0:*:*:*:*:*:*:*",
-      "cpeNameId": "4216B856-C9E4-48E2-AF12-A3CA671CA123"
-    }
-  ]
+	"criteria": "cpe:2.3:a:libreoffice:libreoffice:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "20BCBB73-64D6-44F0-8B7F-F94269E9EEDA",
+	"versionStartIncluding": "7.2.0",
+	"versionEndExcluding": "7.2.7",
+	"created": "2022-08-01T17:07:55.557",
+	"lastModified": "2022-08-01T17:07:55.557",
+	"cpeLastModified": "2022-08-02T14:12:38.997",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:libreoffice:libreoffice:7.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "4216B856-C9E4-48E2-AF12-A3CA671CA123"
+		}
+	]
 }

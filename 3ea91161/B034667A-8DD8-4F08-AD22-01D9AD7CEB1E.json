@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:verint:impact_360:15.1:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B034667A-8DD8-4F08-AD22-01D9AD7CEB1E",
-  "created": "2020-07-15T11:35:02.747",
-  "lastModified": "2020-07-15T11:35:02.747",
-  "cpeLastModified": "2020-07-27T15:53:58.623",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:verint:impact_360:15.1:*:*:*:*:*:*:*",
-      "cpeNameId": "54EDB7FD-477E-4CF0-B471-56D8267A3817"
-    }
-  ]
+	"criteria": "cpe:2.3:a:verint:impact_360:15.1:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B034667A-8DD8-4F08-AD22-01D9AD7CEB1E",
+	"created": "2020-07-15T11:35:02.747",
+	"lastModified": "2020-07-15T11:35:02.747",
+	"cpeLastModified": "2020-07-27T15:53:58.623",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:verint:impact_360:15.1:*:*:*:*:*:*:*",
+			"cpeNameId": "54EDB7FD-477E-4CF0-B471-56D8267A3817"
+		}
+	]
 }

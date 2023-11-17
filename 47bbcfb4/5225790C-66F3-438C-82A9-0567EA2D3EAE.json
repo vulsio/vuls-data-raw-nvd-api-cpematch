@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:trendmicro:antivirus_toolkit:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5225790C-66F3-438C-82A9-0567EA2D3EAE",
-  "versionEndExcluding": "1.62.1240",
-  "created": "2020-08-06T10:44:44.220",
-  "lastModified": "2020-08-06T10:44:44.220",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:trendmicro:antivirus_toolkit:-:*:*:*:*:*:*:*",
-      "cpeNameId": "DA10E127-A561-4C80-9EFC-84FDE5E2E0DB"
-    }
-  ]
+	"criteria": "cpe:2.3:a:trendmicro:antivirus_toolkit:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5225790C-66F3-438C-82A9-0567EA2D3EAE",
+	"versionEndExcluding": "1.62.1240",
+	"created": "2020-08-06T10:44:44.220",
+	"lastModified": "2020-08-06T10:44:44.220",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:trendmicro:antivirus_toolkit:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DA10E127-A561-4C80-9EFC-84FDE5E2E0DB"
+		}
+	]
 }

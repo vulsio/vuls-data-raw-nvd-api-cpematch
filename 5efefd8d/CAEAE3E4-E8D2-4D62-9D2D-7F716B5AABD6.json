@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:pulsesecure:pulse_policy_secure:9.1:r13:*:*:*:*:*:*",
-  "matchCriteriaId": "CAEAE3E4-E8D2-4D62-9D2D-7F716B5AABD6",
-  "created": "2022-12-08T18:18:02.520",
-  "lastModified": "2022-12-12T16:19:16.697",
-  "cpeLastModified": "2022-12-12T16:19:16.697",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:pulsesecure:pulse_policy_secure:9.1:r13:*:*:*:*:*:*",
-      "cpeNameId": "CDF5FD2C-799C-421E-BBB4-BE5652CAA256"
-    }
-  ]
+	"criteria": "cpe:2.3:a:pulsesecure:pulse_policy_secure:9.1:r13:*:*:*:*:*:*",
+	"matchCriteriaId": "CAEAE3E4-E8D2-4D62-9D2D-7F716B5AABD6",
+	"created": "2022-12-08T18:18:02.520",
+	"lastModified": "2022-12-12T16:19:16.697",
+	"cpeLastModified": "2022-12-12T16:19:16.697",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:pulsesecure:pulse_policy_secure:9.1:r13:*:*:*:*:*:*",
+			"cpeNameId": "CDF5FD2C-799C-421E-BBB4-BE5652CAA256"
+		}
+	]
 }

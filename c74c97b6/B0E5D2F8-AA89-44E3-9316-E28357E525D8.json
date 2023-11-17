@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:ge:multilin_d60_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B0E5D2F8-AA89-44E3-9316-E28357E525D8",
-  "versionEndExcluding": "8.10",
-  "created": "2022-03-31T18:06:54.117",
-  "lastModified": "2022-03-31T18:06:54.117",
-  "cpeLastModified": "2022-04-01T15:28:07.237",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:ge:multilin_d60_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "BBD1B426-01C1-4078-AAAC-A01433731901"
-    }
-  ]
+	"criteria": "cpe:2.3:o:ge:multilin_d60_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B0E5D2F8-AA89-44E3-9316-E28357E525D8",
+	"versionEndExcluding": "8.10",
+	"created": "2022-03-31T18:06:54.117",
+	"lastModified": "2022-03-31T18:06:54.117",
+	"cpeLastModified": "2022-04-01T15:28:07.237",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:ge:multilin_d60_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BBD1B426-01C1-4078-AAAC-A01433731901"
+		}
+	]
 }

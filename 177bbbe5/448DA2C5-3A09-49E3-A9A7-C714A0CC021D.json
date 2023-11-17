@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:ibm:tivoli_business_service_manager:6.1.1:*:*:*:*:*:*:*",
-  "matchCriteriaId": "448DA2C5-3A09-49E3-A9A7-C714A0CC021D",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2020-07-24T19:41:38.603",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ibm:tivoli_business_service_manager:6.1.1:*:*:*:*:*:*:*",
-      "cpeNameId": "0D9DA99A-B725-41FC-A131-5983C516211E"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ibm:tivoli_business_service_manager:6.1.1:*:*:*:*:*:*:*",
+	"matchCriteriaId": "448DA2C5-3A09-49E3-A9A7-C714A0CC021D",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2020-07-24T19:41:38.603",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ibm:tivoli_business_service_manager:6.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "0D9DA99A-B725-41FC-A131-5983C516211E"
+		}
+	]
 }

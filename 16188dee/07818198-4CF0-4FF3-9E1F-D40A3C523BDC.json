@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:ivanti:mobileiron:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "07818198-4CF0-4FF3-9E1F-D40A3C523BDC",
-  "versionStartIncluding": "11.0.0.0",
-  "versionEndExcluding": "11.1.0.0",
-  "created": "2021-07-28T18:58:40.643",
-  "lastModified": "2021-07-28T18:58:40.643",
-  "cpeLastModified": "2021-08-20T13:26:23.063",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ivanti:mobileiron:11.0.0.0:*:*:*:*:*:*:*",
-      "cpeNameId": "F4D6BC15-68F8-4812-9CBE-BCCE547BB4A2"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ivanti:mobileiron:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "07818198-4CF0-4FF3-9E1F-D40A3C523BDC",
+	"versionStartIncluding": "11.0.0.0",
+	"versionEndExcluding": "11.1.0.0",
+	"created": "2021-07-28T18:58:40.643",
+	"lastModified": "2021-07-28T18:58:40.643",
+	"cpeLastModified": "2021-08-20T13:26:23.063",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ivanti:mobileiron:11.0.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F4D6BC15-68F8-4812-9CBE-BCCE547BB4A2"
+		}
+	]
 }

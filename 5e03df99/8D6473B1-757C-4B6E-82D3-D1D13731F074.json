@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:netgear:r6020_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8D6473B1-757C-4B6E-82D3-D1D13731F074",
-  "versionEndExcluding": "1.0.0.30",
-  "created": "2020-04-22T12:47:37.960",
-  "lastModified": "2020-04-22T12:47:37.960",
-  "cpeLastModified": "2020-04-28T13:57:13.440",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:netgear:r6020_firmware:1.0.0.26:*:*:*:*:*:*:*",
-      "cpeNameId": "BB694022-9407-4716-BD01-3407CEE59CB6"
-    }
-  ]
+	"criteria": "cpe:2.3:o:netgear:r6020_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8D6473B1-757C-4B6E-82D3-D1D13731F074",
+	"versionEndExcluding": "1.0.0.30",
+	"created": "2020-04-22T12:47:37.960",
+	"lastModified": "2020-04-22T12:47:37.960",
+	"cpeLastModified": "2020-04-28T13:57:13.440",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netgear:r6020_firmware:1.0.0.26:*:*:*:*:*:*:*",
+			"cpeNameId": "BB694022-9407-4716-BD01-3407CEE59CB6"
+		}
+	]
 }

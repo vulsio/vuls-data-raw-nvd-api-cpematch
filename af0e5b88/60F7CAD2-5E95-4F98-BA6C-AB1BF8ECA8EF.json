@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:siemens:sinumerik_integrate_client:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "60F7CAD2-5E95-4F98-BA6C-AB1BF8ECA8EF",
-  "created": "2021-08-04T13:10:40.807",
-  "lastModified": "2021-08-04T13:10:40.807",
-  "cpeLastModified": "2021-08-04T13:16:58.660",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:siemens:sinumerik_integrate_client:-:*:*:*:*:*:*:*",
-      "cpeNameId": "FCD2F8A2-9BDC-475B-A8C7-D9BFC6DAF2A5"
-    }
-  ]
+	"criteria": "cpe:2.3:h:siemens:sinumerik_integrate_client:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "60F7CAD2-5E95-4F98-BA6C-AB1BF8ECA8EF",
+	"created": "2021-08-04T13:10:40.807",
+	"lastModified": "2021-08-04T13:10:40.807",
+	"cpeLastModified": "2021-08-04T13:16:58.660",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:siemens:sinumerik_integrate_client:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FCD2F8A2-9BDC-475B-A8C7-D9BFC6DAF2A5"
+		}
+	]
 }

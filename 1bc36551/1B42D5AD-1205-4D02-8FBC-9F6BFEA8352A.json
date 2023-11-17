@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:octopus:octopus_server:3.11.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1B42D5AD-1205-4D02-8FBC-9F6BFEA8352A",
-  "created": "2022-07-27T15:31:44.880",
-  "lastModified": "2022-07-27T15:31:44.880",
-  "cpeLastModified": "2022-07-27T15:31:44.880",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:octopus:octopus_server:3.11.0:*:*:*:*:*:*:*",
-      "cpeNameId": "5292D8EB-EAB3-43FE-9F49-B01C4C5C9E17"
-    }
-  ]
+	"criteria": "cpe:2.3:a:octopus:octopus_server:3.11.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1B42D5AD-1205-4D02-8FBC-9F6BFEA8352A",
+	"created": "2022-07-27T15:31:44.880",
+	"lastModified": "2022-07-27T15:31:44.880",
+	"cpeLastModified": "2022-07-27T15:31:44.880",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:octopus:octopus_server:3.11.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5292D8EB-EAB3-43FE-9F49-B01C4C5C9E17"
+		}
+	]
 }

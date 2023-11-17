@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:nvidia:bluefield_3_ga:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E1A941D7-49CE-49DA-A730-71C598D11EE9",
-  "created": "2023-09-14T14:55:37.983",
-  "lastModified": "2023-09-22T21:13:32.977",
-  "cpeLastModified": "2023-09-22T21:13:32.977",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:nvidia:bluefield_3_ga:-:*:*:*:*:*:*:*",
-      "cpeNameId": "B9AD488D-D6EB-43F9-93A6-3B15C66C4537"
-    }
-  ]
+	"criteria": "cpe:2.3:h:nvidia:bluefield_3_ga:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E1A941D7-49CE-49DA-A730-71C598D11EE9",
+	"created": "2023-09-14T14:55:37.983",
+	"lastModified": "2023-09-22T21:13:32.977",
+	"cpeLastModified": "2023-09-22T21:13:32.977",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:nvidia:bluefield_3_ga:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B9AD488D-D6EB-43F9-93A6-3B15C66C4537"
+		}
+	]
 }

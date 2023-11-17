@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:siemens:s7-1200_cpu_1215fc_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "23DD97D0-C6DC-4745-AA0A-1F636B5B805C",
-  "versionEndExcluding": "4.1",
-  "created": "2020-02-12T15:43:06.150",
-  "lastModified": "2020-02-12T15:43:06.150",
-  "cpeLastModified": "2020-02-25T16:47:05.810",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:s7-1200_cpu_1215fc_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "40A40673-5764-43D9-AEC3-57451664F8C7"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:s7-1200_cpu_1215fc_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "23DD97D0-C6DC-4745-AA0A-1F636B5B805C",
+	"versionEndExcluding": "4.1",
+	"created": "2020-02-12T15:43:06.150",
+	"lastModified": "2020-02-12T15:43:06.150",
+	"cpeLastModified": "2020-02-25T16:47:05.810",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:s7-1200_cpu_1215fc_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "40A40673-5764-43D9-AEC3-57451664F8C7"
+		}
+	]
 }

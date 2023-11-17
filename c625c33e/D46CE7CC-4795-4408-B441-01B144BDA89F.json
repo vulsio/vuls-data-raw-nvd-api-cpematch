@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:honeywell:hfd5pr1_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D46CE7CC-4795-4408-B441-01B144BDA89F",
-  "versionEndExcluding": "1.000.hw01.1.20190822",
-  "created": "2019-11-04T19:14:54.130",
-  "lastModified": "2019-11-04T19:14:54.130",
-  "cpeLastModified": "2020-04-27T17:44:10.860",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:honeywell:hfd5pr1_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "BE5A770C-6EDA-48EA-B257-1A84D79FBCEA"
-    }
-  ]
+	"criteria": "cpe:2.3:o:honeywell:hfd5pr1_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D46CE7CC-4795-4408-B441-01B144BDA89F",
+	"versionEndExcluding": "1.000.hw01.1.20190822",
+	"created": "2019-11-04T19:14:54.130",
+	"lastModified": "2019-11-04T19:14:54.130",
+	"cpeLastModified": "2020-04-27T17:44:10.860",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:honeywell:hfd5pr1_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BE5A770C-6EDA-48EA-B257-1A84D79FBCEA"
+		}
+	]
 }

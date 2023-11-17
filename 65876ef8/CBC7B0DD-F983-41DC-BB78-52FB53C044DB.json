@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:debian:advanced_package_tool:0.7.11:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CBC7B0DD-F983-41DC-BB78-52FB53C044DB",
-  "created": "2020-01-08T15:11:10.000",
-  "lastModified": "2020-01-08T15:11:10.000",
-  "cpeLastModified": "2020-01-08T15:11:10.000",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:debian:advanced_package_tool:0.7.11:*:*:*:*:*:*:*",
-      "cpeNameId": "EF12DCBC-374F-4997-8944-DDE7EF5D6BF2"
-    }
-  ]
+	"criteria": "cpe:2.3:a:debian:advanced_package_tool:0.7.11:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CBC7B0DD-F983-41DC-BB78-52FB53C044DB",
+	"created": "2020-01-08T15:11:10.000",
+	"lastModified": "2020-01-08T15:11:10.000",
+	"cpeLastModified": "2020-01-08T15:11:10.000",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:debian:advanced_package_tool:0.7.11:*:*:*:*:*:*:*",
+			"cpeNameId": "EF12DCBC-374F-4997-8944-DDE7EF5D6BF2"
+		}
+	]
 }

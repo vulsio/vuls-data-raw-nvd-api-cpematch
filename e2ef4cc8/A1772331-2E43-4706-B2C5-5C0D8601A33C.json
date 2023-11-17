@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:precision_3431_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A1772331-2E43-4706-B2C5-5C0D8601A33C",
-  "versionEndExcluding": "1.0.3",
-  "created": "2020-03-02T13:15:21.133",
-  "lastModified": "2020-03-02T13:15:21.133",
-  "cpeLastModified": "2020-03-06T20:00:26.010",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:precision_3431_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "1956D927-8E1E-443E-AA53-078659A2B0DC"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:precision_3431_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A1772331-2E43-4706-B2C5-5C0D8601A33C",
+	"versionEndExcluding": "1.0.3",
+	"created": "2020-03-02T13:15:21.133",
+	"lastModified": "2020-03-02T13:15:21.133",
+	"cpeLastModified": "2020-03-06T20:00:26.010",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_3431_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1956D927-8E1E-443E-AA53-078659A2B0DC"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:softcreate:l2blocker:*:*:*:*:on-premise:*:*:*",
-  "matchCriteriaId": "99E6A5D4-21D8-46BE-A563-C56D631A3172",
-  "versionEndExcluding": "4.8.6",
-  "created": "2022-07-06T13:48:50.137",
-  "lastModified": "2022-07-06T13:48:50.137",
-  "cpeLastModified": "2022-08-12T20:37:57.897",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:softcreate:l2blocker:-:*:*:*:on-premise:*:*:*",
-      "cpeNameId": "636FFAE7-771E-4614-9D9B-9B59988E6E45"
-    },
-    {
-      "cpeName": "cpe:2.3:a:softcreate:l2blocker:4.8.5:*:*:*:on-premise:*:*:*",
-      "cpeNameId": "37BC1D92-876C-463C-B949-344997A39EEE"
-    }
-  ]
+	"criteria": "cpe:2.3:a:softcreate:l2blocker:*:*:*:*:on-premise:*:*:*",
+	"matchCriteriaId": "99E6A5D4-21D8-46BE-A563-C56D631A3172",
+	"versionEndExcluding": "4.8.6",
+	"created": "2022-07-06T13:48:50.137",
+	"lastModified": "2022-07-06T13:48:50.137",
+	"cpeLastModified": "2022-08-12T20:37:57.897",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:softcreate:l2blocker:-:*:*:*:on-premise:*:*:*",
+			"cpeNameId": "636FFAE7-771E-4614-9D9B-9B59988E6E45"
+		},
+		{
+			"cpeName": "cpe:2.3:a:softcreate:l2blocker:4.8.5:*:*:*:on-premise:*:*:*",
+			"cpeNameId": "37BC1D92-876C-463C-B949-344997A39EEE"
+		}
+	]
 }

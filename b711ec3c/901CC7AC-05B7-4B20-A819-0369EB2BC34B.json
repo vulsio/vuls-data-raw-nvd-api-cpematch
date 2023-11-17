@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:nvidia:virtual_gpu:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "901CC7AC-05B7-4B20-A819-0369EB2BC34B",
-  "versionStartIncluding": "12.0",
-  "versionEndExcluding": "12.4",
-  "created": "2021-11-01T13:42:40.393",
-  "lastModified": "2021-11-01T13:42:40.393",
-  "cpeLastModified": "2021-11-02T19:31:42.363",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:nvidia:virtual_gpu:12.0:*:*:*:*:*:*:*",
-      "cpeNameId": "A15CA58F-D20E-4E94-8343-1F4AFCE94309"
-    }
-  ]
+	"criteria": "cpe:2.3:a:nvidia:virtual_gpu:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "901CC7AC-05B7-4B20-A819-0369EB2BC34B",
+	"versionStartIncluding": "12.0",
+	"versionEndExcluding": "12.4",
+	"created": "2021-11-01T13:42:40.393",
+	"lastModified": "2021-11-01T13:42:40.393",
+	"cpeLastModified": "2021-11-02T19:31:42.363",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:12.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A15CA58F-D20E-4E94-8343-1F4AFCE94309"
+		}
+	]
 }

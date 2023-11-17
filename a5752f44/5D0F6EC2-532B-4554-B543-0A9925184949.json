@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:nuc_11_pro_kit_nuc11tnhi50l_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5D0F6EC2-532B-4554-B543-0A9925184949",
-  "versionEndExcluding": "tntgl357.0052",
-  "created": "2021-06-28T15:42:21.437",
-  "lastModified": "2021-06-28T15:42:21.437",
-  "cpeLastModified": "2021-06-28T17:36:27.787",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:nuc_11_pro_kit_nuc11tnhi50l_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "61026E4E-478E-46FB-ABF4-84D0F46DDCB0"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:nuc_11_pro_kit_nuc11tnhi50l_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5D0F6EC2-532B-4554-B543-0A9925184949",
+	"versionEndExcluding": "tntgl357.0052",
+	"created": "2021-06-28T15:42:21.437",
+	"lastModified": "2021-06-28T15:42:21.437",
+	"cpeLastModified": "2021-06-28T17:36:27.787",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:nuc_11_pro_kit_nuc11tnhi50l_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "61026E4E-478E-46FB-ABF4-84D0F46DDCB0"
+		}
+	]
 }

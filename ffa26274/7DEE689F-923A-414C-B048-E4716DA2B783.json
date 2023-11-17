@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:netgear:dm200_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7DEE689F-923A-414C-B048-E4716DA2B783",
-  "versionEndExcluding": "1.0.0.52",
-  "created": "2020-04-22T11:38:51.480",
-  "lastModified": "2020-04-22T11:38:51.480",
-  "cpeLastModified": "2020-04-28T13:37:12.100",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:netgear:dm200_firmware:1.0.0.50:*:*:*:*:*:*:*",
-      "cpeNameId": "9738E092-A118-4C65-8B93-ABF70D06C130"
-    }
-  ]
+	"criteria": "cpe:2.3:o:netgear:dm200_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7DEE689F-923A-414C-B048-E4716DA2B783",
+	"versionEndExcluding": "1.0.0.52",
+	"created": "2020-04-22T11:38:51.480",
+	"lastModified": "2020-04-22T11:38:51.480",
+	"cpeLastModified": "2020-04-28T13:37:12.100",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netgear:dm200_firmware:1.0.0.50:*:*:*:*:*:*:*",
+			"cpeNameId": "9738E092-A118-4C65-8B93-ABF70D06C130"
+		}
+	]
 }

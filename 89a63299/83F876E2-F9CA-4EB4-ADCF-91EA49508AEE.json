@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:thinkcentre_m715s_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "83F876E2-F9CA-4EB4-ADCF-91EA49508AEE",
-  "versionEndExcluding": "o2vkt94a",
-  "created": "2020-02-28T03:48:46.593",
-  "lastModified": "2020-02-28T03:48:46.593",
-  "cpeLastModified": "2020-02-28T03:48:46.653",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:thinkcentre_m715s_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "09FAA8DD-D6C2-4298-B923-C1F80E321FDD"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:thinkcentre_m715s_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "83F876E2-F9CA-4EB4-ADCF-91EA49508AEE",
+	"versionEndExcluding": "o2vkt94a",
+	"created": "2020-02-28T03:48:46.593",
+	"lastModified": "2020-02-28T03:48:46.593",
+	"cpeLastModified": "2020-02-28T03:48:46.653",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:thinkcentre_m715s_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "09FAA8DD-D6C2-4298-B923-C1F80E321FDD"
+		}
+	]
 }

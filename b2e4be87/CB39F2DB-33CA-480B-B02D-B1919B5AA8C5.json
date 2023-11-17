@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:o:cisco:sf500-24p_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CB39F2DB-33CA-480B-B02D-B1919B5AA8C5",
-  "versionStartIncluding": "2.5.5.0",
-  "versionEndExcluding": "2.5.8.12",
-  "created": "2021-11-12T14:54:27.093",
-  "lastModified": "2021-11-12T14:54:27.093",
-  "cpeLastModified": "2021-11-15T15:27:48.713",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:sf500-24p_firmware:2.5.5.47:*:*:*:*:*:*:*",
-      "cpeNameId": "EBF8237C-ACD5-42DD-B1EF-C086CC01F7F1"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:sf500-24p_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CB39F2DB-33CA-480B-B02D-B1919B5AA8C5",
+	"versionStartIncluding": "2.5.5.0",
+	"versionEndExcluding": "2.5.8.12",
+	"created": "2021-11-12T14:54:27.093",
+	"lastModified": "2021-11-12T14:54:27.093",
+	"cpeLastModified": "2021-11-15T15:27:48.713",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:sf500-24p_firmware:2.5.5.47:*:*:*:*:*:*:*",
+			"cpeNameId": "EBF8237C-ACD5-42DD-B1EF-C086CC01F7F1"
+		}
+	]
 }

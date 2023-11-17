@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:sick:rfu610-10609_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "18958BFA-55C3-4139-A192-8D78CBB2DCA3",
-  "versionEndExcluding": "2.25",
-  "created": "2022-12-14T20:39:21.060",
-  "lastModified": "2022-12-15T15:40:24.940",
-  "cpeLastModified": "2022-12-15T15:40:24.940",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:sick:rfu610-10609_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "FFBDD717-A5C1-4354-A11A-54D2FB4E287F"
-    }
-  ]
+	"criteria": "cpe:2.3:o:sick:rfu610-10609_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "18958BFA-55C3-4139-A192-8D78CBB2DCA3",
+	"versionEndExcluding": "2.25",
+	"created": "2022-12-14T20:39:21.060",
+	"lastModified": "2022-12-15T15:40:24.940",
+	"cpeLastModified": "2022-12-15T15:40:24.940",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:sick:rfu610-10609_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FFBDD717-A5C1-4354-A11A-54D2FB4E287F"
+		}
+	]
 }

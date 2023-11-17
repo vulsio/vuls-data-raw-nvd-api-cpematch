@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:matomo:matomo:0.2.9:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6C1F7635-DFD1-4847-937F-6020CDE1BC7B",
-  "created": "2019-11-21T13:28:43.323",
-  "lastModified": "2019-11-21T13:28:43.323",
-  "cpeLastModified": "2019-11-21T13:28:43.323",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:matomo:matomo:0.2.9:*:*:*:*:*:*:*",
-      "cpeNameId": "C65E86B9-8449-448F-ACC8-A5E51CF0F954"
-    }
-  ]
+	"criteria": "cpe:2.3:a:matomo:matomo:0.2.9:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6C1F7635-DFD1-4847-937F-6020CDE1BC7B",
+	"created": "2019-11-21T13:28:43.323",
+	"lastModified": "2019-11-21T13:28:43.323",
+	"cpeLastModified": "2019-11-21T13:28:43.323",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:matomo:matomo:0.2.9:*:*:*:*:*:*:*",
+			"cpeNameId": "C65E86B9-8449-448F-ACC8-A5E51CF0F954"
+		}
+	]
 }

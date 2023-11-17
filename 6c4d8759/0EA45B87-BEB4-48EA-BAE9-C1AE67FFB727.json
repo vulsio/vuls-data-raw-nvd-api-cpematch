@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:o:cisco:secure_email_and_web_manager_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0EA45B87-BEB4-48EA-BAE9-C1AE67FFB727",
-  "versionStartIncluding": "14.2",
-  "versionEndExcluding": "14.2.0-217",
-  "created": "2022-11-07T18:03:36.403",
-  "lastModified": "2022-11-07T18:03:36.403",
-  "cpeLastModified": "2022-11-14T14:22:01.430",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:secure_email_and_web_manager_firmware:14.2:*:*:*:*:*:*:*",
-      "cpeNameId": "D567CBA6-A370-4460-8BAF-C4FE3CFCA9FD"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:secure_email_and_web_manager_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0EA45B87-BEB4-48EA-BAE9-C1AE67FFB727",
+	"versionStartIncluding": "14.2",
+	"versionEndExcluding": "14.2.0-217",
+	"created": "2022-11-07T18:03:36.403",
+	"lastModified": "2022-11-07T18:03:36.403",
+	"cpeLastModified": "2022-11-14T14:22:01.430",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:secure_email_and_web_manager_firmware:14.2:*:*:*:*:*:*:*",
+			"cpeNameId": "D567CBA6-A370-4460-8BAF-C4FE3CFCA9FD"
+		}
+	]
 }

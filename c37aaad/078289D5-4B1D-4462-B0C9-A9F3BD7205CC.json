@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:linuxfoundation:backstage:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "078289D5-4B1D-4462-B0C9-A9F3BD7205CC",
-  "versionStartIncluding": "0.9.4",
-  "versionEndExcluding": "0.15.9",
-  "created": "2021-10-19T16:35:50.810",
-  "lastModified": "2021-10-19T16:35:50.810",
-  "cpeLastModified": "2021-10-22T16:09:27.013",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:linuxfoundation:backstage:0.9.4:*:*:*:*:*:*:*",
-      "cpeNameId": "666E2960-A4EE-4044-BA64-621FE1E436D9"
-    }
-  ]
+	"criteria": "cpe:2.3:a:linuxfoundation:backstage:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "078289D5-4B1D-4462-B0C9-A9F3BD7205CC",
+	"versionStartIncluding": "0.9.4",
+	"versionEndExcluding": "0.15.9",
+	"created": "2021-10-19T16:35:50.810",
+	"lastModified": "2021-10-19T16:35:50.810",
+	"cpeLastModified": "2021-10-22T16:09:27.013",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:backstage:0.9.4:*:*:*:*:*:*:*",
+			"cpeNameId": "666E2960-A4EE-4044-BA64-621FE1E436D9"
+		}
+	]
 }

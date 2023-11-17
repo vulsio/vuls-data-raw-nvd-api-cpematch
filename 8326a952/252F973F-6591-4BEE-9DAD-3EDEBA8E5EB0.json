@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:hitachi:jp1\\/automatic_operation:10-50:*:*:*:*:*:*:*",
-  "matchCriteriaId": "252F973F-6591-4BEE-9DAD-3EDEBA8E5EB0",
-  "created": "2022-12-07T16:10:56.507",
-  "lastModified": "2022-12-12T14:50:41.110",
-  "cpeLastModified": "2022-12-12T14:50:41.110",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:hitachi:jp1\\/automatic_operation:10-50:*:*:*:*:*:*:*",
-      "cpeNameId": "5069A3BE-D5B0-4FA1-8209-A71694CBD46F"
-    }
-  ]
+	"criteria": "cpe:2.3:a:hitachi:jp1\\/automatic_operation:10-50:*:*:*:*:*:*:*",
+	"matchCriteriaId": "252F973F-6591-4BEE-9DAD-3EDEBA8E5EB0",
+	"created": "2022-12-07T16:10:56.507",
+	"lastModified": "2022-12-12T14:50:41.110",
+	"cpeLastModified": "2022-12-12T14:50:41.110",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:hitachi:jp1\\/automatic_operation:10-50:*:*:*:*:*:*:*",
+			"cpeNameId": "5069A3BE-D5B0-4FA1-8209-A71694CBD46F"
+		}
+	]
 }

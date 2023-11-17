@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:microsoft:windows_server_2008:r2:-:*:*:standard:*:x86:*",
-  "matchCriteriaId": "28181B37-BF68-46DE-897E-8F16AD07B4DC",
-  "created": "2020-02-26T15:25:20.053",
-  "lastModified": "2020-02-26T15:25:20.053",
-  "cpeLastModified": "2020-02-26T15:25:20.070",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:microsoft:windows_server_2008:r2:-:*:*:standard:*:x86:*",
-      "cpeNameId": "85F32197-B0B1-4CB1-A17C-6C37C7932BFD"
-    }
-  ]
+	"criteria": "cpe:2.3:o:microsoft:windows_server_2008:r2:-:*:*:standard:*:x86:*",
+	"matchCriteriaId": "28181B37-BF68-46DE-897E-8F16AD07B4DC",
+	"created": "2020-02-26T15:25:20.053",
+	"lastModified": "2020-02-26T15:25:20.053",
+	"cpeLastModified": "2020-02-26T15:25:20.070",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_server_2008:r2:-:*:*:standard:*:x86:*",
+			"cpeNameId": "85F32197-B0B1-4CB1-A17C-6C37C7932BFD"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:cisco:sg220-52:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9C831CAB-9A14-437D-AF6C-A3C81B2CD67A",
-  "created": "2019-08-16T14:08:24.367",
-  "lastModified": "2019-08-16T14:08:24.367",
-  "cpeLastModified": "2020-04-07T19:43:27.280",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:cisco:sg220-52:-:*:*:*:*:*:*:*",
-      "cpeNameId": "111BFF95-F592-4716-9EFF-1A57ECF37167"
-    }
-  ]
+	"criteria": "cpe:2.3:h:cisco:sg220-52:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9C831CAB-9A14-437D-AF6C-A3C81B2CD67A",
+	"created": "2019-08-16T14:08:24.367",
+	"lastModified": "2019-08-16T14:08:24.367",
+	"cpeLastModified": "2020-04-07T19:43:27.280",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:cisco:sg220-52:-:*:*:*:*:*:*:*",
+			"cpeNameId": "111BFF95-F592-4716-9EFF-1A57ECF37167"
+		}
+	]
 }

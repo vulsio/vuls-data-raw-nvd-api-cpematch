@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:samsung:samsung_flow:*:*:*:*:*:android:*:*",
-  "matchCriteriaId": "8BBEE753-3ACE-4B00-9F56-76A3F29A0361",
-  "versionEndExcluding": "4.8.03.5",
-  "created": "2021-11-05T17:02:28.577",
-  "lastModified": "2021-11-05T17:02:28.577",
-  "cpeLastModified": "2021-11-09T15:54:51.803",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:samsung:samsung_flow:-:*:*:*:*:android:*:*",
-      "cpeNameId": "ECE62453-737D-492F-AEB4-D30C2E06B52C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:samsung:samsung_flow:*:*:*:*:*:android:*:*",
+	"matchCriteriaId": "8BBEE753-3ACE-4B00-9F56-76A3F29A0361",
+	"versionEndExcluding": "4.8.03.5",
+	"created": "2021-11-05T17:02:28.577",
+	"lastModified": "2021-11-05T17:02:28.577",
+	"cpeLastModified": "2021-11-09T15:54:51.803",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:samsung:samsung_flow:-:*:*:*:*:android:*:*",
+			"cpeNameId": "ECE62453-737D-492F-AEB4-D30C2E06B52C"
+		}
+	]
 }

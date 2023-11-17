@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:fujifilm:apeospro_c650_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6122BD26-E1E8-4E6E-AF37-F965718000A4",
-  "versionEndExcluding": "1.1.6",
-  "created": "2022-03-21T15:45:34.117",
-  "lastModified": "2022-03-21T15:45:34.117",
-  "cpeLastModified": "2022-03-23T15:02:24.853",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:fujifilm:apeospro_c650_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "7EA8A325-A593-4F2A-975B-49178E53CFD1"
-    }
-  ]
+	"criteria": "cpe:2.3:o:fujifilm:apeospro_c650_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6122BD26-E1E8-4E6E-AF37-F965718000A4",
+	"versionEndExcluding": "1.1.6",
+	"created": "2022-03-21T15:45:34.117",
+	"lastModified": "2022-03-21T15:45:34.117",
+	"cpeLastModified": "2022-03-23T15:02:24.853",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:fujifilm:apeospro_c650_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7EA8A325-A593-4F2A-975B-49178E53CFD1"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:puppet:puppetlabs-apache:1.7.0:*:*:*:*:puppet:*:*",
-  "matchCriteriaId": "0FB55AE5-E67D-4697-A139-4425D5E953DF",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2020-07-29T16:56:07.417",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:puppet:puppetlabs-apache:1.7.0:*:*:*:*:puppet:*:*",
-      "cpeNameId": "7AD935AA-55E1-4E2C-BE00-256B8488177A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:puppet:puppetlabs-apache:1.7.0:*:*:*:*:puppet:*:*",
+	"matchCriteriaId": "0FB55AE5-E67D-4697-A139-4425D5E953DF",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2020-07-29T16:56:07.417",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:puppet:puppetlabs-apache:1.7.0:*:*:*:*:puppet:*:*",
+			"cpeNameId": "7AD935AA-55E1-4E2C-BE00-256B8488177A"
+		}
+	]
 }

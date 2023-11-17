@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:vmware:rabbitmq:3.4.1:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F57DA292-66F8-4BE5-AD3B-C4400D6D1A42",
-  "created": "2022-03-17T14:01:25.940",
-  "lastModified": "2022-03-17T14:01:25.940",
-  "cpeLastModified": "2022-03-17T14:01:29.323",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:vmware:rabbitmq:3.4.1:*:*:*:*:*:*:*",
-      "cpeNameId": "D1565B3E-3080-4F07-98C7-ED8F717FFD32"
-    }
-  ]
+	"criteria": "cpe:2.3:a:vmware:rabbitmq:3.4.1:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F57DA292-66F8-4BE5-AD3B-C4400D6D1A42",
+	"created": "2022-03-17T14:01:25.940",
+	"lastModified": "2022-03-17T14:01:25.940",
+	"cpeLastModified": "2022-03-17T14:01:29.323",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:vmware:rabbitmq:3.4.1:*:*:*:*:*:*:*",
+			"cpeNameId": "D1565B3E-3080-4F07-98C7-ED8F717FFD32"
+		}
+	]
 }

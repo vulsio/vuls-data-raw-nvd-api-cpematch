@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:moxa:edr-g902_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "04BE1A05-43ED-40EF-AD8C-6FD52CFA24D0",
-  "versionEndIncluding": "5.4",
-  "created": "2020-07-16T13:01:49.617",
-  "lastModified": "2020-07-16T13:01:49.617",
-  "cpeLastModified": "2020-09-16T16:50:11.420",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:moxa:edr-g902_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "00F0D58E-1B9C-4841-A936-CAE57663DE17"
-    },
-    {
-      "cpeName": "cpe:2.3:o:moxa:edr-g902_firmware:5.4:*:*:*:*:*:*:*",
-      "cpeNameId": "B8E007BA-622E-4C5C-83A0-B9278F2E7A32"
-    }
-  ]
+	"criteria": "cpe:2.3:o:moxa:edr-g902_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "04BE1A05-43ED-40EF-AD8C-6FD52CFA24D0",
+	"versionEndIncluding": "5.4",
+	"created": "2020-07-16T13:01:49.617",
+	"lastModified": "2020-07-16T13:01:49.617",
+	"cpeLastModified": "2020-09-16T16:50:11.420",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:moxa:edr-g902_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "00F0D58E-1B9C-4841-A936-CAE57663DE17"
+		},
+		{
+			"cpeName": "cpe:2.3:o:moxa:edr-g902_firmware:5.4:*:*:*:*:*:*:*",
+			"cpeNameId": "B8E007BA-622E-4C5C-83A0-B9278F2E7A32"
+		}
+	]
 }

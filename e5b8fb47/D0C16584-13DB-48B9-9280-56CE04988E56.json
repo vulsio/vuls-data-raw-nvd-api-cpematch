@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:core_i5-10400t_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D0C16584-13DB-48B9-9280-56CE04988E56",
-  "versionEndExcluding": "13.0.60",
-  "created": "2022-06-09T14:00:06.657",
-  "lastModified": "2022-06-09T14:00:06.657",
-  "cpeLastModified": "2021-12-03T19:10:38.127",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:core_i5-10400t_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E720A913-A3B3-48B1-88EA-F755DD2A0509"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:core_i5-10400t_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D0C16584-13DB-48B9-9280-56CE04988E56",
+	"versionEndExcluding": "13.0.60",
+	"created": "2022-06-09T14:00:06.657",
+	"lastModified": "2022-06-09T14:00:06.657",
+	"cpeLastModified": "2021-12-03T19:10:38.127",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:core_i5-10400t_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E720A913-A3B3-48B1-88EA-F755DD2A0509"
+		}
+	]
 }

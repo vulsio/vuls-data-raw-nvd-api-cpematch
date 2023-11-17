@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:pagewide_managed_color_flow_mfp_e58650z_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5B8F3791-5D3F-4CFB-B70F-C657055EF308",
-  "versionEndExcluding": "18.0.19240.232",
-  "created": "2021-11-24T14:38:24.977",
-  "lastModified": "2021-11-24T14:38:24.977",
-  "cpeLastModified": "2021-11-24T19:58:36.967",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:pagewide_managed_color_flow_mfp_e58650z_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "55492EF3-7FB2-4268-B952-27F06948DB7D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:pagewide_managed_color_flow_mfp_e58650z_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5B8F3791-5D3F-4CFB-B70F-C657055EF308",
+	"versionEndExcluding": "18.0.19240.232",
+	"created": "2021-11-24T14:38:24.977",
+	"lastModified": "2021-11-24T14:38:24.977",
+	"cpeLastModified": "2021-11-24T19:58:36.967",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:pagewide_managed_color_flow_mfp_e58650z_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "55492EF3-7FB2-4268-B952-27F06948DB7D"
+		}
+	]
 }

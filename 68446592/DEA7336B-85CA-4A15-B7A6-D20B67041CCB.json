@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:siemens:simatic_ipc427c:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "DEA7336B-85CA-4A15-B7A6-D20B67041CCB",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:siemens:simatic_ipc427c:-:*:*:*:*:*:*:*",
-      "cpeNameId": "1E4BACAD-3524-47A2-9CB2-23F1676710FF"
-    }
-  ]
+	"criteria": "cpe:2.3:h:siemens:simatic_ipc427c:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DEA7336B-85CA-4A15-B7A6-D20B67041CCB",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:siemens:simatic_ipc427c:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1E4BACAD-3524-47A2-9CB2-23F1676710FF"
+		}
+	]
 }

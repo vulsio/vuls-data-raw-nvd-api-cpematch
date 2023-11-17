@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:fujifilm:docucentre-v_c6676_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "54A8DA85-6218-4A42-8DC1-7096F6E55B4C",
-  "versionEndExcluding": "1.60.0",
-  "created": "2022-04-22T13:38:48.063",
-  "lastModified": "2022-04-22T13:38:48.063",
-  "cpeLastModified": "2022-05-13T16:26:26.973",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:fujifilm:docucentre-v_c6676_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "EECA0E0B-4060-4979-9446-3C2A9CE34304"
-    }
-  ]
+	"criteria": "cpe:2.3:o:fujifilm:docucentre-v_c6676_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "54A8DA85-6218-4A42-8DC1-7096F6E55B4C",
+	"versionEndExcluding": "1.60.0",
+	"created": "2022-04-22T13:38:48.063",
+	"lastModified": "2022-04-22T13:38:48.063",
+	"cpeLastModified": "2022-05-13T16:26:26.973",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:fujifilm:docucentre-v_c6676_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EECA0E0B-4060-4979-9446-3C2A9CE34304"
+		}
+	]
 }

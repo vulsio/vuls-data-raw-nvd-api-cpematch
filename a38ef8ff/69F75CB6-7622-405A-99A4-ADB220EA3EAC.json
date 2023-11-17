@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:xiongmaitech:nbd8032h8-p:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "69F75CB6-7622-405A-99A4-ADB220EA3EAC",
-  "created": "2022-12-02T19:37:57.033",
-  "lastModified": "2022-12-02T20:23:12.130",
-  "cpeLastModified": "2022-12-02T20:23:12.130",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:xiongmaitech:nbd8032h8-p:-:*:*:*:*:*:*:*",
-      "cpeNameId": "CFEFF2E1-3496-4C07-A377-AC2E377CE4AA"
-    }
-  ]
+	"criteria": "cpe:2.3:h:xiongmaitech:nbd8032h8-p:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "69F75CB6-7622-405A-99A4-ADB220EA3EAC",
+	"created": "2022-12-02T19:37:57.033",
+	"lastModified": "2022-12-02T20:23:12.130",
+	"cpeLastModified": "2022-12-02T20:23:12.130",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:xiongmaitech:nbd8032h8-p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CFEFF2E1-3496-4C07-A377-AC2E377CE4AA"
+		}
+	]
 }

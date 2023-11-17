@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:inim:smartliving_10100lg3_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E3F59BB8-E7D0-4B3A-A05F-CD78B9510DA0",
-  "versionEndIncluding": "6.0",
-  "created": "2021-05-12T15:05:04.257",
-  "lastModified": "2021-05-12T15:05:04.257",
-  "cpeLastModified": "2021-06-10T15:58:14.987",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:inim:smartliving_10100lg3_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "2D9CF0E0-8E28-43F4-97F7-0358EBEB594D"
-    },
-    {
-      "cpeName": "cpe:2.3:o:inim:smartliving_10100lg3_firmware:6.0:*:*:*:*:*:*:*",
-      "cpeNameId": "BE41D5A4-F15A-4764-84FB-D9C88C26FBFD"
-    }
-  ]
+	"criteria": "cpe:2.3:o:inim:smartliving_10100lg3_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E3F59BB8-E7D0-4B3A-A05F-CD78B9510DA0",
+	"versionEndIncluding": "6.0",
+	"created": "2021-05-12T15:05:04.257",
+	"lastModified": "2021-05-12T15:05:04.257",
+	"cpeLastModified": "2021-06-10T15:58:14.987",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:inim:smartliving_10100lg3_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2D9CF0E0-8E28-43F4-97F7-0358EBEB594D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:inim:smartliving_10100lg3_firmware:6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "BE41D5A4-F15A-4764-84FB-D9C88C26FBFD"
+		}
+	]
 }

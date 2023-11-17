@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:xeon_e7-8870_v4_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "240D24BD-A84A-4562-B850-56EB9A47507F",
-  "created": "2019-11-18T14:59:46.197",
-  "lastModified": "2022-05-20T17:20:43.447",
-  "cpeLastModified": "2020-03-23T17:31:53.057",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:xeon_e7-8870_v4_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "657E43EB-2854-4F34-9E8C-042F62109FFE"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:xeon_e7-8870_v4_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "240D24BD-A84A-4562-B850-56EB9A47507F",
+	"created": "2019-11-18T14:59:46.197",
+	"lastModified": "2022-05-20T17:20:43.447",
+	"cpeLastModified": "2020-03-23T17:31:53.057",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:xeon_e7-8870_v4_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "657E43EB-2854-4F34-9E8C-042F62109FFE"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:garo:wallbox_glb_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C7E90C76-CB8A-4002-A140-F7EA9023A4F4",
-  "versionEndIncluding": "185",
-  "created": "2022-03-28T15:16:11.590",
-  "lastModified": "2022-03-28T15:16:11.590",
-  "cpeLastModified": "2022-03-28T17:05:02.360",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:garo:wallbox_glb_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "A1C6A7F9-47DF-4D1A-88CA-709217E6BCF5"
-    }
-  ]
+	"criteria": "cpe:2.3:o:garo:wallbox_glb_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C7E90C76-CB8A-4002-A140-F7EA9023A4F4",
+	"versionEndIncluding": "185",
+	"created": "2022-03-28T15:16:11.590",
+	"lastModified": "2022-03-28T15:16:11.590",
+	"cpeLastModified": "2022-03-28T17:05:02.360",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:garo:wallbox_glb_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A1C6A7F9-47DF-4D1A-88CA-709217E6BCF5"
+		}
+	]
 }

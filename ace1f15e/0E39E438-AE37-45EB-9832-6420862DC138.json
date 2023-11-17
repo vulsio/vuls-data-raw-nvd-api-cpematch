@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:m4500_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0E39E438-AE37-45EB-9832-6420862DC138",
-  "versionEndExcluding": "fckt98a",
-  "created": "2020-09-29T05:00:43.807",
-  "lastModified": "2020-09-29T05:00:43.807",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:m4500_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "CA67CAC4-0B06-471D-B8F3-1D52DC598BFE"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:m4500_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0E39E438-AE37-45EB-9832-6420862DC138",
+	"versionEndExcluding": "fckt98a",
+	"created": "2020-09-29T05:00:43.807",
+	"lastModified": "2020-09-29T05:00:43.807",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:m4500_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CA67CAC4-0B06-471D-B8F3-1D52DC598BFE"
+		}
+	]
 }

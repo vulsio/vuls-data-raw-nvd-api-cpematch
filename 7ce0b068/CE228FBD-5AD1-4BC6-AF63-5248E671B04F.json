@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:ivanti:connect_secure:9.1:r15:*:*:*:*:*:*",
-  "matchCriteriaId": "CE228FBD-5AD1-4BC6-AF63-5248E671B04F",
-  "created": "2022-12-08T18:00:08.887",
-  "lastModified": "2022-12-12T16:19:16.697",
-  "cpeLastModified": "2022-12-12T16:19:16.697",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ivanti:connect_secure:9.1:r15:*:*:*:*:*:*",
-      "cpeNameId": "9D74408D-88A0-4FE1-91F8-07DC750ED944"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ivanti:connect_secure:9.1:r15:*:*:*:*:*:*",
+	"matchCriteriaId": "CE228FBD-5AD1-4BC6-AF63-5248E671B04F",
+	"created": "2022-12-08T18:00:08.887",
+	"lastModified": "2022-12-12T16:19:16.697",
+	"cpeLastModified": "2022-12-12T16:19:16.697",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ivanti:connect_secure:9.1:r15:*:*:*:*:*:*",
+			"cpeNameId": "9D74408D-88A0-4FE1-91F8-07DC750ED944"
+		}
+	]
 }

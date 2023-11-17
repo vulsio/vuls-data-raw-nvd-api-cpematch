@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:intel:server_platform_services:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "BD605B6F-89FC-4F88-BF38-9A7EDB722DE1",
-  "versionEndExcluding": "e5_04.01.04.400",
-  "created": "2020-11-18T14:05:25.650",
-  "lastModified": "2020-11-18T14:05:25.650",
-  "cpeLastModified": "2020-11-24T00:01:54.970",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:intel:server_platform_services:e3_05.01.04.200:*:*:*:*:*:*:*",
-      "cpeNameId": "FC8A268E-D513-47C9-95C7-A0BAB2FBC0DE"
-    }
-  ]
+	"criteria": "cpe:2.3:a:intel:server_platform_services:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BD605B6F-89FC-4F88-BF38-9A7EDB722DE1",
+	"versionEndExcluding": "e5_04.01.04.400",
+	"created": "2020-11-18T14:05:25.650",
+	"lastModified": "2020-11-18T14:05:25.650",
+	"cpeLastModified": "2020-11-24T00:01:54.970",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:intel:server_platform_services:e3_05.01.04.200:*:*:*:*:*:*:*",
+			"cpeNameId": "FC8A268E-D513-47C9-95C7-A0BAB2FBC0DE"
+		}
+	]
 }

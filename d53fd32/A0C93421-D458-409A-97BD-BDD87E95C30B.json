@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:optiplex_5250_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A0C93421-D458-409A-97BD-BDD87E95C30B",
-  "versionEndExcluding": "1.13.1",
-  "created": "2020-03-02T13:11:47.947",
-  "lastModified": "2020-03-02T13:11:47.947",
-  "cpeLastModified": "2020-03-06T20:00:00.227",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:optiplex_5250_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "5279A2D5-D530-4009-9AB6-E87A3B4CE393"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:optiplex_5250_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A0C93421-D458-409A-97BD-BDD87E95C30B",
+	"versionEndExcluding": "1.13.1",
+	"created": "2020-03-02T13:11:47.947",
+	"lastModified": "2020-03-02T13:11:47.947",
+	"cpeLastModified": "2020-03-06T20:00:00.227",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:optiplex_5250_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5279A2D5-D530-4009-9AB6-E87A3B4CE393"
+		}
+	]
 }

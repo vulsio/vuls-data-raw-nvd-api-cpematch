@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:amd:fx-8350_8-core:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8519A289-6ADE-415A-AE6A-33FD68AFBDCE",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T22:53:51.837",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:amd:fx-8350_8-core:-:*:*:*:*:*:*:*",
-      "cpeNameId": "C6EC5780-BBF3-4B9F-91D1-4E4112B278AC"
-    }
-  ]
+	"criteria": "cpe:2.3:h:amd:fx-8350_8-core:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8519A289-6ADE-415A-AE6A-33FD68AFBDCE",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T22:53:51.837",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:amd:fx-8350_8-core:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C6EC5780-BBF3-4B9F-91D1-4E4112B278AC"
+		}
+	]
 }

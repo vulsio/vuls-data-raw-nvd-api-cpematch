@@ -1,32 +1,32 @@
 {
-  "criteria": "cpe:2.3:o:qnap:quts_hero:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "90249062-0FA6-44EB-8471-1ACC56A35041",
-  "versionStartIncluding": "h5.0.0.1772",
-  "versionEndExcluding": "h5.0.0.1949",
-  "created": "2022-05-13T12:55:48.960",
-  "lastModified": "2022-05-13T12:55:48.960",
-  "cpeLastModified": "2022-05-27T03:44:08.690",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:qnap:quts_hero:h5.0.0.1772:*:*:*:*:*:*:*",
-      "cpeNameId": "5BAD9B4B-B228-4291-8F74-27821044C44D"
-    },
-    {
-      "cpeName": "cpe:2.3:o:qnap:quts_hero:h5.0.0.1844:*:*:*:*:*:*:*",
-      "cpeNameId": "1490A6E8-6A59-490E-BA79-61E4ECA6EDC4"
-    },
-    {
-      "cpeName": "cpe:2.3:o:qnap:quts_hero:h5.0.0.1856:*:*:*:*:*:*:*",
-      "cpeNameId": "E4093987-2B87-49F3-B473-C8D890885CD8"
-    },
-    {
-      "cpeName": "cpe:2.3:o:qnap:quts_hero:h5.0.0.1892:*:*:*:*:*:*:*",
-      "cpeNameId": "119CF9A4-C365-4DDD-9842-DCC1F96844C5"
-    },
-    {
-      "cpeName": "cpe:2.3:o:qnap:quts_hero:h5.0.0.1900:*:*:*:*:*:*:*",
-      "cpeNameId": "62021B22-B52A-4861-BD4F-ACACD6B80E22"
-    }
-  ]
+	"criteria": "cpe:2.3:o:qnap:quts_hero:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "90249062-0FA6-44EB-8471-1ACC56A35041",
+	"versionStartIncluding": "h5.0.0.1772",
+	"versionEndExcluding": "h5.0.0.1949",
+	"created": "2022-05-13T12:55:48.960",
+	"lastModified": "2022-05-13T12:55:48.960",
+	"cpeLastModified": "2022-05-27T03:44:08.690",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:qnap:quts_hero:h5.0.0.1772:*:*:*:*:*:*:*",
+			"cpeNameId": "5BAD9B4B-B228-4291-8F74-27821044C44D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:quts_hero:h5.0.0.1844:*:*:*:*:*:*:*",
+			"cpeNameId": "1490A6E8-6A59-490E-BA79-61E4ECA6EDC4"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:quts_hero:h5.0.0.1856:*:*:*:*:*:*:*",
+			"cpeNameId": "E4093987-2B87-49F3-B473-C8D890885CD8"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:quts_hero:h5.0.0.1892:*:*:*:*:*:*:*",
+			"cpeNameId": "119CF9A4-C365-4DDD-9842-DCC1F96844C5"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:quts_hero:h5.0.0.1900:*:*:*:*:*:*:*",
+			"cpeNameId": "62021B22-B52A-4861-BD4F-ACACD6B80E22"
+		}
+	]
 }

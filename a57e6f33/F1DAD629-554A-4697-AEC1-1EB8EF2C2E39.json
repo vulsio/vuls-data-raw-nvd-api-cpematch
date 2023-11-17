@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:amt_ac_8260_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F1DAD629-554A-4697-AEC1-1EB8EF2C2E39",
-  "versionEndExcluding": "11.8.90",
-  "created": "2022-02-11T17:42:26.293",
-  "lastModified": "2022-02-11T17:42:26.293",
-  "cpeLastModified": "2022-02-14T19:33:14.597",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:amt_ac_8260_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "AC67FF16-B754-4B97-A7B1-290691573C3D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:amt_ac_8260_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F1DAD629-554A-4697-AEC1-1EB8EF2C2E39",
+	"versionEndExcluding": "11.8.90",
+	"created": "2022-02-11T17:42:26.293",
+	"lastModified": "2022-02-11T17:42:26.293",
+	"cpeLastModified": "2022-02-14T19:33:14.597",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:amt_ac_8260_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "AC67FF16-B754-4B97-A7B1-290691573C3D"
+		}
+	]
 }

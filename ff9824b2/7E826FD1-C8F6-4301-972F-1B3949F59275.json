@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:totolink:n300rt_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7E826FD1-C8F6-4301-972F-1B3949F59275",
-  "versionEndIncluding": "3.4.0",
-  "created": "2020-02-03T15:24:00.773",
-  "lastModified": "2020-02-03T15:24:00.773",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:totolink:n300rt_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "CEC396BD-CDB0-4782-9E78-64CA27BA5CE0"
-    },
-    {
-      "cpeName": "cpe:2.3:o:totolink:n300rt_firmware:3.4.0:*:*:*:*:*:*:*",
-      "cpeNameId": "C7AF12D8-FD1A-4DC4-99C9-F0C626C0950B"
-    }
-  ]
+	"criteria": "cpe:2.3:o:totolink:n300rt_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7E826FD1-C8F6-4301-972F-1B3949F59275",
+	"versionEndIncluding": "3.4.0",
+	"created": "2020-02-03T15:24:00.773",
+	"lastModified": "2020-02-03T15:24:00.773",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:totolink:n300rt_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CEC396BD-CDB0-4782-9E78-64CA27BA5CE0"
+		},
+		{
+			"cpeName": "cpe:2.3:o:totolink:n300rt_firmware:3.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C7AF12D8-FD1A-4DC4-99C9-F0C626C0950B"
+		}
+	]
 }

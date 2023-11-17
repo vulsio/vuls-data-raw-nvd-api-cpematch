@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:avaya:aura_session_manager:7.0:-:*:*:*:*:*:*",
-  "matchCriteriaId": "AEBC4E93-E283-446B-A928-8B8B51F2C154",
-  "created": "2019-11-20T19:15:43.983",
-  "lastModified": "2019-11-20T19:15:43.983",
-  "cpeLastModified": "2021-03-04T14:26:11.090",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:avaya:aura_session_manager:7.0:-:*:*:*:*:*:*",
-      "cpeNameId": "C6524118-6AF1-4E08-B2C1-EFBDBB09D017"
-    }
-  ]
+	"criteria": "cpe:2.3:a:avaya:aura_session_manager:7.0:-:*:*:*:*:*:*",
+	"matchCriteriaId": "AEBC4E93-E283-446B-A928-8B8B51F2C154",
+	"created": "2019-11-20T19:15:43.983",
+	"lastModified": "2019-11-20T19:15:43.983",
+	"cpeLastModified": "2021-03-04T14:26:11.090",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:avaya:aura_session_manager:7.0:-:*:*:*:*:*:*",
+			"cpeNameId": "C6524118-6AF1-4E08-B2C1-EFBDBB09D017"
+		}
+	]
 }

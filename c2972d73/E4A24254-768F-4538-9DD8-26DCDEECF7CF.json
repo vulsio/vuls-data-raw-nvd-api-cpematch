@@ -1,18 +1,18 @@
 {
-  "criteria": "cpe:2.3:o:qnap:qts:4.3.6.1446:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E4A24254-768F-4538-9DD8-26DCDEECF7CF",
-  "created": "2021-04-22T00:33:39.443",
-  "lastModified": "2021-04-22T00:33:39.443",
-  "cpeLastModified": "2023-11-16T21:09:03.457",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:qnap:qts:4.3.6.1446:*:*:*:*:*:*:*",
-      "cpeNameId": "81AE0AB4-D21D-44A9-8ADC-5B5BC5FC019C"
-    },
-    {
-      "cpeName": "cpe:2.3:o:qnap:qts:4.3.6.1446:build_20200929:*:*:*:*:*:*",
-      "cpeNameId": "F0ED17AF-A089-4C09-9C31-8FCBB17D3277"
-    }
-  ]
+	"criteria": "cpe:2.3:o:qnap:qts:4.3.6.1446:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E4A24254-768F-4538-9DD8-26DCDEECF7CF",
+	"created": "2021-04-22T00:33:39.443",
+	"lastModified": "2021-04-22T00:33:39.443",
+	"cpeLastModified": "2023-11-16T21:09:03.457",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:qnap:qts:4.3.6.1446:*:*:*:*:*:*:*",
+			"cpeNameId": "81AE0AB4-D21D-44A9-8ADC-5B5BC5FC019C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:qts:4.3.6.1446:build_20200929:*:*:*:*:*:*",
+			"cpeNameId": "F0ED17AF-A089-4C09-9C31-8FCBB17D3277"
+		}
+	]
 }

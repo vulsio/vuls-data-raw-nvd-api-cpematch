@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:citrix:sd-wan_210_firmware:*:*:*:*:standard:*:*:*",
-  "matchCriteriaId": "28F19F7F-119B-42CA-92AC-1EC0B5EA65EE",
-  "versionEndExcluding": "11.4.3a",
-  "created": "2022-04-21T19:26:24.443",
-  "lastModified": "2022-04-21T19:26:24.443",
-  "cpeLastModified": "2022-04-21T20:21:54.417",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:citrix:sd-wan_210_firmware:-:*:*:*:standard:*:*:*",
-      "cpeNameId": "13541FC6-3925-4C04-8D45-1234DF96C59E"
-    },
-    {
-      "cpeName": "cpe:2.3:o:citrix:sd-wan_210_firmware:11.4.1:*:*:*:standard:*:*:*",
-      "cpeNameId": "9DC3BB28-34FC-4F26-9627-402F9C916328"
-    }
-  ]
+	"criteria": "cpe:2.3:o:citrix:sd-wan_210_firmware:*:*:*:*:standard:*:*:*",
+	"matchCriteriaId": "28F19F7F-119B-42CA-92AC-1EC0B5EA65EE",
+	"versionEndExcluding": "11.4.3a",
+	"created": "2022-04-21T19:26:24.443",
+	"lastModified": "2022-04-21T19:26:24.443",
+	"cpeLastModified": "2022-04-21T20:21:54.417",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:citrix:sd-wan_210_firmware:-:*:*:*:standard:*:*:*",
+			"cpeNameId": "13541FC6-3925-4C04-8D45-1234DF96C59E"
+		},
+		{
+			"cpeName": "cpe:2.3:o:citrix:sd-wan_210_firmware:11.4.1:*:*:*:standard:*:*:*",
+			"cpeNameId": "9DC3BB28-34FC-4F26-9627-402F9C916328"
+		}
+	]
 }

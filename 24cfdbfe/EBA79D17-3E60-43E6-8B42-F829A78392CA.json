@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:emc_powerconnect_8024_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "EBA79D17-3E60-43E6-8B42-F829A78392CA",
-  "versionEndExcluding": "5.1.15.2",
-  "created": "2019-08-26T14:09:45.790",
-  "lastModified": "2019-08-26T14:09:45.790",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:emc_powerconnect_8024_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "A2AD0FE2-E9AA-4675-BF8D-23CD18C9138A"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:emc_powerconnect_8024_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "EBA79D17-3E60-43E6-8B42-F829A78392CA",
+	"versionEndExcluding": "5.1.15.2",
+	"created": "2019-08-26T14:09:45.790",
+	"lastModified": "2019-08-26T14:09:45.790",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:emc_powerconnect_8024_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A2AD0FE2-E9AA-4675-BF8D-23CD18C9138A"
+		}
+	]
 }

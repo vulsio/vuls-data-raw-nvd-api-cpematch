@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:o:cisco:meraki_mx84_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E769CB5F-6B7B-48F1-ABFE-DF8412DA6777",
-  "versionStartIncluding": "17.0.0",
-  "versionEndExcluding": "17.10.1",
-  "created": "2022-10-31T13:54:25.610",
-  "lastModified": "2022-10-31T13:54:25.610",
-  "cpeLastModified": "2022-10-31T14:17:58.057",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:meraki_mx84_firmware:17.0.0:*:*:*:*:*:*:*",
-      "cpeNameId": "3063080C-DAC2-4310-A2F9-D25C0C23367A"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:meraki_mx84_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E769CB5F-6B7B-48F1-ABFE-DF8412DA6777",
+	"versionStartIncluding": "17.0.0",
+	"versionEndExcluding": "17.10.1",
+	"created": "2022-10-31T13:54:25.610",
+	"lastModified": "2022-10-31T13:54:25.610",
+	"cpeLastModified": "2022-10-31T14:17:58.057",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:meraki_mx84_firmware:17.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "3063080C-DAC2-4310-A2F9-D25C0C23367A"
+		}
+	]
 }

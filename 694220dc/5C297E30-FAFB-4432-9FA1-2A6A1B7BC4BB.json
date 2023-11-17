@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:ibm:qradar_incident_forensics:7.2.8:p10:*:*:*:*:*:*",
-  "matchCriteriaId": "5C297E30-FAFB-4432-9FA1-2A6A1B7BC4BB",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-10-01T14:07:02.883",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ibm:qradar_incident_forensics:7.2.8:p10:*:*:*:*:*:*",
-      "cpeNameId": "3BB5A831-8117-4D32-9D17-C667D9F8CB0B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ibm:qradar_incident_forensics:7.2.8:p10:*:*:*:*:*:*",
+	"matchCriteriaId": "5C297E30-FAFB-4432-9FA1-2A6A1B7BC4BB",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-10-01T14:07:02.883",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ibm:qradar_incident_forensics:7.2.8:p10:*:*:*:*:*:*",
+			"cpeNameId": "3BB5A831-8117-4D32-9D17-C667D9F8CB0B"
+		}
+	]
 }

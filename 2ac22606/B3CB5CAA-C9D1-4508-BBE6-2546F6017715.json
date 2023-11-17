@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:supermicro:x11dpu-xll:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B3CB5CAA-C9D1-4508-BBE6-2546F6017715",
-  "created": "2019-09-23T13:38:47.647",
-  "lastModified": "2019-09-23T13:38:47.647",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:supermicro:x11dpu-xll:-:*:*:*:*:*:*:*",
-      "cpeNameId": "4C90E7C0-AD73-4415-964F-518A4005EF78"
-    }
-  ]
+	"criteria": "cpe:2.3:h:supermicro:x11dpu-xll:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B3CB5CAA-C9D1-4508-BBE6-2546F6017715",
+	"created": "2019-09-23T13:38:47.647",
+	"lastModified": "2019-09-23T13:38:47.647",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:supermicro:x11dpu-xll:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4C90E7C0-AD73-4415-964F-518A4005EF78"
+		}
+	]
 }

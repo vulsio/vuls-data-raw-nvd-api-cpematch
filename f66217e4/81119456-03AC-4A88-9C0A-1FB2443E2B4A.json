@@ -1,18 +1,18 @@
 {
-  "criteria": "cpe:2.3:o:siemens:siprotec_5_with_cpu_variant_cp200:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "81119456-03AC-4A88-9C0A-1FB2443E2B4A",
-  "created": "2021-09-28T15:00:06.817",
-  "lastModified": "2021-09-28T15:00:06.817",
-  "cpeLastModified": "2021-09-28T15:11:36.993",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:siprotec_5_with_cpu_variant_cp200:-:*:*:*:*:*:*:*",
-      "cpeNameId": "7C4F6DC3-55DD-40A2-BC81-A1211C9B310F"
-    },
-    {
-      "cpeName": "cpe:2.3:o:siemens:siprotec_5_with_cpu_variant_cp200:7.58:*:*:*:*:*:*:*",
-      "cpeNameId": "0D17A5C0-0A09-4F73-B1CF-D483F4AA9058"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:siprotec_5_with_cpu_variant_cp200:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "81119456-03AC-4A88-9C0A-1FB2443E2B4A",
+	"created": "2021-09-28T15:00:06.817",
+	"lastModified": "2021-09-28T15:00:06.817",
+	"cpeLastModified": "2021-09-28T15:11:36.993",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:siprotec_5_with_cpu_variant_cp200:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7C4F6DC3-55DD-40A2-BC81-A1211C9B310F"
+		},
+		{
+			"cpeName": "cpe:2.3:o:siemens:siprotec_5_with_cpu_variant_cp200:7.58:*:*:*:*:*:*:*",
+			"cpeNameId": "0D17A5C0-0A09-4F73-B1CF-D483F4AA9058"
+		}
+	]
 }

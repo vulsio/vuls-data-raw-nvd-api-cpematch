@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:gnu:glibc:2.0.4:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F424F2F5-D7E4-4A13-A8CF-32D466610BDF",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:gnu:glibc:2.0.4:*:*:*:*:*:*:*",
-      "cpeNameId": "17E5BD0C-4CA7-479E-8B17-1A2041B85E32"
-    }
-  ]
+	"criteria": "cpe:2.3:a:gnu:glibc:2.0.4:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F424F2F5-D7E4-4A13-A8CF-32D466610BDF",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:gnu:glibc:2.0.4:*:*:*:*:*:*:*",
+			"cpeNameId": "17E5BD0C-4CA7-479E-8B17-1A2041B85E32"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:siemens:simatic_et_200al_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "2AD5A211-517E-40BE-B306-FE29F9CD3F67",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T22:53:51.837",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:simatic_et_200al_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "CF0EA292-4947-4F95-B4FF-4617C4EDAD11"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:simatic_et_200al_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2AD5A211-517E-40BE-B306-FE29F9CD3F67",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T22:53:51.837",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:simatic_et_200al_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CF0EA292-4947-4F95-B4FF-4617C4EDAD11"
+		}
+	]
 }

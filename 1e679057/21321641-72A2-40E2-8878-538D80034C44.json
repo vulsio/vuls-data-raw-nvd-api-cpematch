@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:sdd-baro_project:sdd-baro:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "21321641-72A2-40E2-8878-538D80034C44",
-  "versionEndExcluding": "2.8.432",
-  "created": "2023-03-03T16:16:18.560",
-  "lastModified": "2023-09-28T11:09:50.100",
-  "cpeLastModified": "2023-09-28T11:09:50.100",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:sdd-baro_project:sdd-baro:-:*:*:*:*:*:*:*",
-      "cpeNameId": "BAB6142D-1DD9-4CCC-84E7-5F519859FCB2"
-    }
-  ]
+	"criteria": "cpe:2.3:a:sdd-baro_project:sdd-baro:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "21321641-72A2-40E2-8878-538D80034C44",
+	"versionEndExcluding": "2.8.432",
+	"created": "2023-03-03T16:16:18.560",
+	"lastModified": "2023-09-28T11:09:50.100",
+	"cpeLastModified": "2023-09-28T11:09:50.100",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sdd-baro_project:sdd-baro:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BAB6142D-1DD9-4CCC-84E7-5F519859FCB2"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:qualcomm:pmi8940_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "05508547-3739-4A51-B9D2-FDD0BA734CF4",
-  "created": "2021-02-23T14:31:59.520",
-  "lastModified": "2021-02-23T14:31:59.520",
-  "cpeLastModified": "2021-03-08T18:37:26.903",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:qualcomm:pmi8940_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "483AA312-BC41-4EB8-8AAB-3529BB19AEC9"
-    }
-  ]
+	"criteria": "cpe:2.3:o:qualcomm:pmi8940_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "05508547-3739-4A51-B9D2-FDD0BA734CF4",
+	"created": "2021-02-23T14:31:59.520",
+	"lastModified": "2021-02-23T14:31:59.520",
+	"cpeLastModified": "2021-03-08T18:37:26.903",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:qualcomm:pmi8940_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "483AA312-BC41-4EB8-8AAB-3529BB19AEC9"
+		}
+	]
 }

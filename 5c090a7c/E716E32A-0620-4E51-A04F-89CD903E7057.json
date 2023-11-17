@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:bestwebsoft:social_login:*:*:*:*:*:wordpress:*:*",
-  "matchCriteriaId": "E716E32A-0620-4E51-A04F-89CD903E7057",
-  "versionEndExcluding": "0.2",
-  "created": "2019-08-16T14:40:54.050",
-  "lastModified": "2019-08-16T14:40:54.050",
-  "cpeLastModified": "2019-08-16T16:06:50.533",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:bestwebsoft:social_login:0.1:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "FABEBB7A-4420-47B6-9729-DCCB1528FCB2"
-    }
-  ]
+	"criteria": "cpe:2.3:a:bestwebsoft:social_login:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "E716E32A-0620-4E51-A04F-89CD903E7057",
+	"versionEndExcluding": "0.2",
+	"created": "2019-08-16T14:40:54.050",
+	"lastModified": "2019-08-16T14:40:54.050",
+	"cpeLastModified": "2019-08-16T16:06:50.533",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:bestwebsoft:social_login:0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FABEBB7A-4420-47B6-9729-DCCB1528FCB2"
+		}
+	]
 }

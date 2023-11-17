@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:o:netmodule:nb1810_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F043174E-E5A2-4D8B-ABC2-6B58BA1928DD",
-  "versionStartIncluding": "4.5.0.0",
-  "versionEndExcluding": "4.5.0.105",
-  "created": "2021-08-26T16:22:25.190",
-  "lastModified": "2021-08-26T16:22:25.190",
-  "cpeLastModified": "2021-08-26T19:07:21.403",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:netmodule:nb1810_firmware:4.5.0.0:*:*:*:*:*:*:*",
-      "cpeNameId": "86FBF10E-51B9-4A1C-A87C-4843F28CD751"
-    }
-  ]
+	"criteria": "cpe:2.3:o:netmodule:nb1810_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F043174E-E5A2-4D8B-ABC2-6B58BA1928DD",
+	"versionStartIncluding": "4.5.0.0",
+	"versionEndExcluding": "4.5.0.105",
+	"created": "2021-08-26T16:22:25.190",
+	"lastModified": "2021-08-26T16:22:25.190",
+	"cpeLastModified": "2021-08-26T19:07:21.403",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netmodule:nb1810_firmware:4.5.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "86FBF10E-51B9-4A1C-A87C-4843F28CD751"
+		}
+	]
 }

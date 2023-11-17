@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:bitdefender:engines:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "394468A4-6E1C-4BE3-A8B1-8790833C2D24",
-  "versionEndExcluding": "7.84063",
-  "created": "2020-05-15T17:19:58.283",
-  "lastModified": "2020-05-15T17:19:58.283",
-  "cpeLastModified": "2020-10-06T16:33:53.780",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:bitdefender:engines:-:*:*:*:*:*:*:*",
-      "cpeNameId": "C4010677-5281-4E0E-81C8-03B04D643F9C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:bitdefender:engines:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "394468A4-6E1C-4BE3-A8B1-8790833C2D24",
+	"versionEndExcluding": "7.84063",
+	"created": "2020-05-15T17:19:58.283",
+	"lastModified": "2020-05-15T17:19:58.283",
+	"cpeLastModified": "2020-10-06T16:33:53.780",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:bitdefender:engines:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C4010677-5281-4E0E-81C8-03B04D643F9C"
+		}
+	]
 }

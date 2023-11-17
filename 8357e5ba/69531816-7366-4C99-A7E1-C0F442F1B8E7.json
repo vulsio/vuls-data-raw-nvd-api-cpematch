@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:xerox:workcentre_5845_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "69531816-7366-4C99-A7E1-C0F442F1B8E7",
-  "versionEndExcluding": "073.190.000.02300",
-  "created": "2020-03-02T19:30:12.980",
-  "lastModified": "2020-03-02T19:30:12.980",
-  "cpeLastModified": "2020-03-06T15:39:59.337",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:xerox:workcentre_5845_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "17823DA4-AF71-433E-8E9D-07111F79597D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:xerox:workcentre_5845_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "69531816-7366-4C99-A7E1-C0F442F1B8E7",
+	"versionEndExcluding": "073.190.000.02300",
+	"created": "2020-03-02T19:30:12.980",
+	"lastModified": "2020-03-02T19:30:12.980",
+	"cpeLastModified": "2020-03-06T15:39:59.337",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:xerox:workcentre_5845_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "17823DA4-AF71-433E-8E9D-07111F79597D"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:amd:ryzen_5800x3d_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CA8CD6DB-42C5-4584-8E22-090614949DF3",
-  "versionEndExcluding": "05.44.30.0004",
-  "created": "2022-11-21T16:30:55.390",
-  "lastModified": "2022-11-21T16:30:55.390",
-  "cpeLastModified": "2022-11-21T16:30:55.390",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:amd:ryzen_5800x3d_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "5D2AB82C-61A5-446E-B11E-B081CE38DFF3"
-    }
-  ]
+	"criteria": "cpe:2.3:o:amd:ryzen_5800x3d_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CA8CD6DB-42C5-4584-8E22-090614949DF3",
+	"versionEndExcluding": "05.44.30.0004",
+	"created": "2022-11-21T16:30:55.390",
+	"lastModified": "2022-11-21T16:30:55.390",
+	"cpeLastModified": "2022-11-21T16:30:55.390",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_5800x3d_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5D2AB82C-61A5-446E-B11E-B081CE38DFF3"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:fujifilm:apeos_c3570_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8A867B33-323B-4E01-AA39-B5F0859C022A",
-  "versionEndExcluding": "1.1.7",
-  "created": "2022-03-21T14:15:58.537",
-  "lastModified": "2022-03-21T14:15:58.537",
-  "cpeLastModified": "2022-03-23T15:02:24.853",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:fujifilm:apeos_c3570_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "67A65A5A-C1DF-45C3-8C60-3BAE2364D274"
-    }
-  ]
+	"criteria": "cpe:2.3:o:fujifilm:apeos_c3570_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8A867B33-323B-4E01-AA39-B5F0859C022A",
+	"versionEndExcluding": "1.1.7",
+	"created": "2022-03-21T14:15:58.537",
+	"lastModified": "2022-03-21T14:15:58.537",
+	"cpeLastModified": "2022-03-23T15:02:24.853",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:fujifilm:apeos_c3570_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "67A65A5A-C1DF-45C3-8C60-3BAE2364D274"
+		}
+	]
 }

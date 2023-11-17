@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:o:cisco:meraki_mx75_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "2B22E7DB-912F-46CB-BE15-FA9812D15D72",
-  "versionStartIncluding": "16.2.0",
-  "versionEndExcluding": "16.16.6",
-  "created": "2022-10-31T13:54:25.610",
-  "lastModified": "2022-10-31T13:54:25.610",
-  "cpeLastModified": "2022-10-31T14:17:58.057",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:meraki_mx75_firmware:16.2.0:*:*:*:*:*:*:*",
-      "cpeNameId": "C19EEAB4-70B9-4188-821C-EE88497088D7"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:meraki_mx75_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2B22E7DB-912F-46CB-BE15-FA9812D15D72",
+	"versionStartIncluding": "16.2.0",
+	"versionEndExcluding": "16.16.6",
+	"created": "2022-10-31T13:54:25.610",
+	"lastModified": "2022-10-31T13:54:25.610",
+	"cpeLastModified": "2022-10-31T14:17:58.057",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:meraki_mx75_firmware:16.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C19EEAB4-70B9-4188-821C-EE88497088D7"
+		}
+	]
 }

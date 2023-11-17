@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:microsoft:windows_7:sp1:*:*:*:*:*:x86:*",
-  "matchCriteriaId": "74C73F73-9303-486E-BC67-E7FED69FDE7D",
-  "created": "2021-10-14T14:53:05.410",
-  "lastModified": "2021-10-14T14:53:05.410",
-  "cpeLastModified": "2022-11-14T17:02:07.337",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:microsoft:windows_7:sp1:*:*:*:*:*:x86:*",
-      "cpeNameId": "D3424B25-874F-4818-97F0-61B870EA67DB"
-    }
-  ]
+	"criteria": "cpe:2.3:o:microsoft:windows_7:sp1:*:*:*:*:*:x86:*",
+	"matchCriteriaId": "74C73F73-9303-486E-BC67-E7FED69FDE7D",
+	"created": "2021-10-14T14:53:05.410",
+	"lastModified": "2021-10-14T14:53:05.410",
+	"cpeLastModified": "2022-11-14T17:02:07.337",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_7:sp1:*:*:*:*:*:x86:*",
+			"cpeNameId": "D3424B25-874F-4818-97F0-61B870EA67DB"
+		}
+	]
 }

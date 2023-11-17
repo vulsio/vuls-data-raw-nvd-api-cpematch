@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:killer_ac_1550_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "57831022-35C2-4BE5-B4EB-70FC78BF3BC7",
-  "versionEndExcluding": "3.0",
-  "created": "2022-02-11T17:51:55.600",
-  "lastModified": "2022-02-11T17:51:55.600",
-  "cpeLastModified": "2022-02-14T19:33:14.597",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:killer_ac_1550_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "4ABC18F3-B1D9-4627-803A-9A7F272A1964"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:killer_ac_1550_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "57831022-35C2-4BE5-B4EB-70FC78BF3BC7",
+	"versionEndExcluding": "3.0",
+	"created": "2022-02-11T17:51:55.600",
+	"lastModified": "2022-02-11T17:51:55.600",
+	"cpeLastModified": "2022-02-14T19:33:14.597",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:killer_ac_1550_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4ABC18F3-B1D9-4627-803A-9A7F272A1964"
+		}
+	]
 }

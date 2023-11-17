@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:autodesk:navisworks:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7AAFCE8D-C6FA-4179-BBD8-134F91261FEC",
-  "versionStartIncluding": "2022",
-  "versionEndExcluding": "2022.2",
-  "created": "2022-04-15T15:52:18.627",
-  "lastModified": "2022-04-15T15:52:18.627",
-  "cpeLastModified": "2022-04-19T01:30:40.960",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:autodesk:navisworks:2022:*:*:*:*:*:*:*",
-      "cpeNameId": "6A595E81-297A-407A-9DBF-02E3ACFE5A64"
-    }
-  ]
+	"criteria": "cpe:2.3:a:autodesk:navisworks:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7AAFCE8D-C6FA-4179-BBD8-134F91261FEC",
+	"versionStartIncluding": "2022",
+	"versionEndExcluding": "2022.2",
+	"created": "2022-04-15T15:52:18.627",
+	"lastModified": "2022-04-15T15:52:18.627",
+	"cpeLastModified": "2022-04-19T01:30:40.960",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:autodesk:navisworks:2022:*:*:*:*:*:*:*",
+			"cpeNameId": "6A595E81-297A-407A-9DBF-02E3ACFE5A64"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:inspiron_5310_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C6B6960B-BF03-4829-A71F-A6277479D742",
-  "versionEndExcluding": "2.6.1",
-  "created": "2022-02-10T16:24:44.503",
-  "lastModified": "2022-09-13T14:46:24.833",
-  "cpeLastModified": "2022-02-16T15:26:01.320",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:inspiron_5310_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "79E87E08-E7AF-44FF-A5D1-DE6346C54A7F"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:inspiron_5310_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C6B6960B-BF03-4829-A71F-A6277479D742",
+	"versionEndExcluding": "2.6.1",
+	"created": "2022-02-10T16:24:44.503",
+	"lastModified": "2022-09-13T14:46:24.833",
+	"cpeLastModified": "2022-02-16T15:26:01.320",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_5310_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "79E87E08-E7AF-44FF-A5D1-DE6346C54A7F"
+		}
+	]
 }

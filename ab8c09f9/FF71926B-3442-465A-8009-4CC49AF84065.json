@@ -1,23 +1,23 @@
 {
-  "criteria": "cpe:2.3:o:gl-inet:gl-ax1800_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FF71926B-3442-465A-8009-4CC49AF84065",
-  "versionEndExcluding": "3.216",
-  "created": "2023-05-15T18:37:44.370",
-  "lastModified": "2023-07-14T18:36:31.480",
-  "cpeLastModified": "2023-07-14T18:36:31.480",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:gl-inet:gl-ax1800_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "6FA1D3C6-2599-4889-B480-1CD399BB972E"
-    },
-    {
-      "cpeName": "cpe:2.3:o:gl-inet:gl-ax1800_firmware:3.214:*:*:*:*:*:*:*",
-      "cpeNameId": "22556898-4AA0-4FB0-946D-E0B000D3CCC7"
-    },
-    {
-      "cpeName": "cpe:2.3:o:gl-inet:gl-ax1800_firmware:3.215:*:*:*:*:*:*:*",
-      "cpeNameId": "7F21CF89-40CA-423E-AF25-2F8B6923FAF6"
-    }
-  ]
+	"criteria": "cpe:2.3:o:gl-inet:gl-ax1800_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FF71926B-3442-465A-8009-4CC49AF84065",
+	"versionEndExcluding": "3.216",
+	"created": "2023-05-15T18:37:44.370",
+	"lastModified": "2023-07-14T18:36:31.480",
+	"cpeLastModified": "2023-07-14T18:36:31.480",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:gl-inet:gl-ax1800_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6FA1D3C6-2599-4889-B480-1CD399BB972E"
+		},
+		{
+			"cpeName": "cpe:2.3:o:gl-inet:gl-ax1800_firmware:3.214:*:*:*:*:*:*:*",
+			"cpeNameId": "22556898-4AA0-4FB0-946D-E0B000D3CCC7"
+		},
+		{
+			"cpeName": "cpe:2.3:o:gl-inet:gl-ax1800_firmware:3.215:*:*:*:*:*:*:*",
+			"cpeNameId": "7F21CF89-40CA-423E-AF25-2F8B6923FAF6"
+		}
+	]
 }

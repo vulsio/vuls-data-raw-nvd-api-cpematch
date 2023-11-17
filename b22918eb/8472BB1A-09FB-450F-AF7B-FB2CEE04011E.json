@@ -1,23 +1,23 @@
 {
-  "criteria": "cpe:2.3:a:openldap:openldap:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8472BB1A-09FB-450F-AF7B-FB2CEE04011E",
-  "versionEndIncluding": "2.4.3",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2020-01-09T20:00:19.590",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:openldap:openldap:-:*:*:*:*:*:*:*",
-      "cpeNameId": "DCAB970E-DF9B-49A3-8AFC-5DD2663A41E9"
-    },
-    {
-      "cpeName": "cpe:2.3:a:openldap:openldap:2.0:*:*:*:*:*:*:*",
-      "cpeNameId": "A92F8473-846D-4C9C-B9D2-48C3E61059B1"
-    },
-    {
-      "cpeName": "cpe:2.3:a:openldap:openldap:2.4:*:*:*:*:*:*:*",
-      "cpeNameId": "ADC2E742-36C5-4A07-81F6-D159D4FD96AC"
-    }
-  ]
+	"criteria": "cpe:2.3:a:openldap:openldap:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8472BB1A-09FB-450F-AF7B-FB2CEE04011E",
+	"versionEndIncluding": "2.4.3",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2020-01-09T20:00:19.590",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:openldap:openldap:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DCAB970E-DF9B-49A3-8AFC-5DD2663A41E9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openldap:openldap:2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A92F8473-846D-4C9C-B9D2-48C3E61059B1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openldap:openldap:2.4:*:*:*:*:*:*:*",
+			"cpeNameId": "ADC2E742-36C5-4A07-81F6-D159D4FD96AC"
+		}
+	]
 }

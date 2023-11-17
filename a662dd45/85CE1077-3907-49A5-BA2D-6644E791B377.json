@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:color_laserjet_enterprise_m855_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "85CE1077-3907-49A5-BA2D-6644E791B377",
-  "versionEndExcluding": "2309010_581419",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:color_laserjet_enterprise_m855_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "C6108987-38D5-401A-8BFB-AFF49DE5073E"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:color_laserjet_enterprise_m855_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "85CE1077-3907-49A5-BA2D-6644E791B377",
+	"versionEndExcluding": "2309010_581419",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:color_laserjet_enterprise_m855_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C6108987-38D5-401A-8BFB-AFF49DE5073E"
+		}
+	]
 }

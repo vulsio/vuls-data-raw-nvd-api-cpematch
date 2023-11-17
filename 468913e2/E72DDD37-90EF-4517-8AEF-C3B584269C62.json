@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:electronjs:electron:17.0.0:alpha5:*:*:*:*:*:*",
-  "matchCriteriaId": "E72DDD37-90EF-4517-8AEF-C3B584269C62",
-  "created": "2022-03-31T14:28:00.947",
-  "lastModified": "2022-03-31T14:28:00.947",
-  "cpeLastModified": "2022-04-01T14:13:36.213",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:electronjs:electron:17.0.0:alpha5:*:*:*:*:*:*",
-      "cpeNameId": "4C6756E6-5EAF-4919-9608-2CF242F59A27"
-    }
-  ]
+	"criteria": "cpe:2.3:a:electronjs:electron:17.0.0:alpha5:*:*:*:*:*:*",
+	"matchCriteriaId": "E72DDD37-90EF-4517-8AEF-C3B584269C62",
+	"created": "2022-03-31T14:28:00.947",
+	"lastModified": "2022-03-31T14:28:00.947",
+	"cpeLastModified": "2022-04-01T14:13:36.213",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:electronjs:electron:17.0.0:alpha5:*:*:*:*:*:*",
+			"cpeNameId": "4C6756E6-5EAF-4919-9608-2CF242F59A27"
+		}
+	]
 }

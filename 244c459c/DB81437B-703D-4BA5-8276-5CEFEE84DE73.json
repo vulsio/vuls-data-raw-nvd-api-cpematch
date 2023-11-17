@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:actix:actix-http:3.0.0:beta8:*:*:*:rust:*:*",
-  "matchCriteriaId": "DB81437B-703D-4BA5-8276-5CEFEE84DE73",
-  "created": "2021-08-18T14:34:34.117",
-  "lastModified": "2021-08-18T14:34:34.117",
-  "cpeLastModified": "2021-08-18T14:34:37.603",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:actix:actix-http:3.0.0:beta8:*:*:*:rust:*:*",
-      "cpeNameId": "32A98CE4-5551-476A-9F3A-DDC94BC91BB5"
-    }
-  ]
+	"criteria": "cpe:2.3:a:actix:actix-http:3.0.0:beta8:*:*:*:rust:*:*",
+	"matchCriteriaId": "DB81437B-703D-4BA5-8276-5CEFEE84DE73",
+	"created": "2021-08-18T14:34:34.117",
+	"lastModified": "2021-08-18T14:34:34.117",
+	"cpeLastModified": "2021-08-18T14:34:37.603",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:actix:actix-http:3.0.0:beta8:*:*:*:rust:*:*",
+			"cpeNameId": "32A98CE4-5551-476A-9F3A-DDC94BC91BB5"
+		}
+	]
 }

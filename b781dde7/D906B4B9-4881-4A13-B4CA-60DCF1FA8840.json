@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:vmware:spring_framework:4.2.4:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D906B4B9-4881-4A13-B4CA-60DCF1FA8840",
-  "created": "2022-04-11T17:17:49.540",
-  "lastModified": "2022-04-11T17:17:49.540",
-  "cpeLastModified": "2022-04-11T17:18:30.440",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:vmware:spring_framework:4.2.4:*:*:*:*:*:*:*",
-      "cpeNameId": "46D89E9A-8FA1-402A-AF37-50A21A51C66D"
-    }
-  ]
+	"criteria": "cpe:2.3:a:vmware:spring_framework:4.2.4:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D906B4B9-4881-4A13-B4CA-60DCF1FA8840",
+	"created": "2022-04-11T17:17:49.540",
+	"lastModified": "2022-04-11T17:17:49.540",
+	"cpeLastModified": "2022-04-11T17:18:30.440",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:vmware:spring_framework:4.2.4:*:*:*:*:*:*:*",
+			"cpeNameId": "46D89E9A-8FA1-402A-AF37-50A21A51C66D"
+		}
+	]
 }

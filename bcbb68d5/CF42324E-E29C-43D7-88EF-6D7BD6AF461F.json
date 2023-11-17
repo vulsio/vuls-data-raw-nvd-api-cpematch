@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:cityboss:e-municipality:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CF42324E-E29C-43D7-88EF-6D7BD6AF461F",
-  "versionEndExcluding": "6.05",
-  "created": "2023-05-31T12:55:29.150",
-  "lastModified": "2023-08-29T12:29:58.473",
-  "cpeLastModified": "2023-08-29T12:29:58.473",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:cityboss:e-municipality:-:*:*:*:*:*:*:*",
-      "cpeNameId": "463A2E9B-F723-41C7-BE09-70F1ADFF6A7B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:cityboss:e-municipality:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CF42324E-E29C-43D7-88EF-6D7BD6AF461F",
+	"versionEndExcluding": "6.05",
+	"created": "2023-05-31T12:55:29.150",
+	"lastModified": "2023-08-29T12:29:58.473",
+	"cpeLastModified": "2023-08-29T12:29:58.473",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cityboss:e-municipality:-:*:*:*:*:*:*:*",
+			"cpeNameId": "463A2E9B-F723-41C7-BE09-70F1ADFF6A7B"
+		}
+	]
 }

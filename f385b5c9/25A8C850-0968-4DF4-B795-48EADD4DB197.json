@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:tcl:65s434_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "25A8C850-0968-4DF4-B795-48EADD4DB197",
-  "versionEndExcluding": "v8-r851t02-lf1v440",
-  "created": "2020-12-01T19:16:04.117",
-  "lastModified": "2020-12-01T19:16:04.117",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:tcl:65s434_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E5C84799-83F5-481C-B05F-77AF735473AC"
-    }
-  ]
+	"criteria": "cpe:2.3:o:tcl:65s434_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "25A8C850-0968-4DF4-B795-48EADD4DB197",
+	"versionEndExcluding": "v8-r851t02-lf1v440",
+	"created": "2020-12-01T19:16:04.117",
+	"lastModified": "2020-12-01T19:16:04.117",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:tcl:65s434_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E5C84799-83F5-481C-B05F-77AF735473AC"
+		}
+	]
 }

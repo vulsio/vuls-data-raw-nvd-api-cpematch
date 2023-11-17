@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:samsung:video_player:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D487D722-197D-4134-981D-6BB82C6783B4",
-  "versionEndExcluding": "7.3.15.30",
-  "created": "2022-02-16T16:45:41.687",
-  "lastModified": "2022-02-16T16:45:41.687",
-  "cpeLastModified": "2022-02-22T17:51:42.237",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:samsung:video_player:-:*:*:*:*:*:*:*",
-      "cpeNameId": "3E37B081-AE9B-4BD7-8608-0411B1EA7080"
-    }
-  ]
+	"criteria": "cpe:2.3:a:samsung:video_player:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D487D722-197D-4134-981D-6BB82C6783B4",
+	"versionEndExcluding": "7.3.15.30",
+	"created": "2022-02-16T16:45:41.687",
+	"lastModified": "2022-02-16T16:45:41.687",
+	"cpeLastModified": "2022-02-22T17:51:42.237",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:samsung:video_player:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3E37B081-AE9B-4BD7-8608-0411B1EA7080"
+		}
+	]
 }

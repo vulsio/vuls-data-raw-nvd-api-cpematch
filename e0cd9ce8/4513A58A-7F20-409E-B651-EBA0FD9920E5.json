@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:blackboard:blackboard_learn:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4513A58A-7F20-409E-B651-EBA0FD9920E5",
-  "versionEndExcluding": "9.1",
-  "created": "2020-03-09T12:10:07.320",
-  "lastModified": "2022-11-07T19:08:34.203",
-  "cpeLastModified": "2022-11-07T19:08:34.203",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:blackboard:blackboard_learn:1.10.1:*:*:*:*:*:*:*",
-      "cpeNameId": "9F6E8996-5FB5-4703-BFE3-4D4DDB7B7E41"
-    }
-  ]
+	"criteria": "cpe:2.3:a:blackboard:blackboard_learn:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4513A58A-7F20-409E-B651-EBA0FD9920E5",
+	"versionEndExcluding": "9.1",
+	"created": "2020-03-09T12:10:07.320",
+	"lastModified": "2022-11-07T19:08:34.203",
+	"cpeLastModified": "2022-11-07T19:08:34.203",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:blackboard:blackboard_learn:1.10.1:*:*:*:*:*:*:*",
+			"cpeNameId": "9F6E8996-5FB5-4703-BFE3-4D4DDB7B7E41"
+		}
+	]
 }

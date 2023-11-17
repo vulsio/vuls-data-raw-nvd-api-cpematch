@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:xeon_e3-1230_v3_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B10E9D21-DADB-4BC0-9212-385FDD828A01",
-  "created": "2019-11-19T14:06:25.863",
-  "lastModified": "2019-11-19T14:06:25.863",
-  "cpeLastModified": "2019-12-02T17:29:37.500",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:xeon_e3-1230_v3_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "545A51EC-1840-482A-939B-B0073B631D6B"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:xeon_e3-1230_v3_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B10E9D21-DADB-4BC0-9212-385FDD828A01",
+	"created": "2019-11-19T14:06:25.863",
+	"lastModified": "2019-11-19T14:06:25.863",
+	"cpeLastModified": "2019-12-02T17:29:37.500",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:xeon_e3-1230_v3_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "545A51EC-1840-482A-939B-B0073B631D6B"
+		}
+	]
 }

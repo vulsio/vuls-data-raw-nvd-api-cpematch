@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:nvidia:jetson_nano_2gb:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "52E153CA-BE89-4C66-8B72-8901BF592423",
-  "created": "2021-01-27T16:54:32.147",
-  "lastModified": "2021-01-27T16:54:32.147",
-  "cpeLastModified": "2021-01-28T22:15:00.037",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:nvidia:jetson_nano_2gb:-:*:*:*:*:*:*:*",
-      "cpeNameId": "EA837C49-2016-4A22-B67B-AB78D683AB99"
-    }
-  ]
+	"criteria": "cpe:2.3:h:nvidia:jetson_nano_2gb:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "52E153CA-BE89-4C66-8B72-8901BF592423",
+	"created": "2021-01-27T16:54:32.147",
+	"lastModified": "2021-01-27T16:54:32.147",
+	"cpeLastModified": "2021-01-28T22:15:00.037",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:nvidia:jetson_nano_2gb:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EA837C49-2016-4A22-B67B-AB78D683AB99"
+		}
+	]
 }

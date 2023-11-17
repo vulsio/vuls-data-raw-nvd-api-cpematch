@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:atom_c2550_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "42791E03-655B-4191-BBBA-0055C12649EB",
-  "created": "2019-11-18T19:05:16.303",
-  "lastModified": "2019-11-18T19:05:16.303",
-  "cpeLastModified": "2020-04-27T20:07:12.020",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:atom_c2550_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "B6171742-7219-4CF6-9E37-2714319045DD"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:atom_c2550_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "42791E03-655B-4191-BBBA-0055C12649EB",
+	"created": "2019-11-18T19:05:16.303",
+	"lastModified": "2019-11-18T19:05:16.303",
+	"cpeLastModified": "2020-04-27T20:07:12.020",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:atom_c2550_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B6171742-7219-4CF6-9E37-2714319045DD"
+		}
+	]
 }

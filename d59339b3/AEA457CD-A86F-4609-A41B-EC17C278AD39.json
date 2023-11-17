@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:freedesktop:dbus:1.2.22:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AEA457CD-A86F-4609-A41B-EC17C278AD39",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:freedesktop:dbus:1.2.22:*:*:*:*:*:*:*",
-      "cpeNameId": "53E46B86-A8EE-4F3A-8E95-8D622949A1F9"
-    }
-  ]
+	"criteria": "cpe:2.3:a:freedesktop:dbus:1.2.22:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AEA457CD-A86F-4609-A41B-EC17C278AD39",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:freedesktop:dbus:1.2.22:*:*:*:*:*:*:*",
+			"cpeNameId": "53E46B86-A8EE-4F3A-8E95-8D622949A1F9"
+		}
+	]
 }

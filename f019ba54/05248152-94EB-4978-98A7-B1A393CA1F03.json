@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:siemens:simatic_profinet_driver_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "05248152-94EB-4978-98A7-B1A393CA1F03",
-  "versionEndExcluding": "2.1",
-  "created": "2019-10-11T14:15:45.730",
-  "lastModified": "2019-10-11T14:15:45.730",
-  "cpeLastModified": "2021-07-29T17:18:57.710",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:simatic_profinet_driver_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "F3044907-34EE-4086-B83F-C5AE54DDA9FA"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:simatic_profinet_driver_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "05248152-94EB-4978-98A7-B1A393CA1F03",
+	"versionEndExcluding": "2.1",
+	"created": "2019-10-11T14:15:45.730",
+	"lastModified": "2019-10-11T14:15:45.730",
+	"cpeLastModified": "2021-07-29T17:18:57.710",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:simatic_profinet_driver_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F3044907-34EE-4086-B83F-C5AE54DDA9FA"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:tp-link:tl-wr841_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7EFFF628-A63F-4522-909A-8A06339D45E2",
-  "versionEndExcluding": "220914",
-  "created": "2023-04-03T14:00:30.067",
-  "lastModified": "2023-04-03T14:00:30.067",
-  "cpeLastModified": "2023-04-03T14:00:30.067",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:tp-link:tl-wr841_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "229CD911-78AB-4EC2-BE3F-23164D52240D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:tp-link:tl-wr841_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7EFFF628-A63F-4522-909A-8A06339D45E2",
+	"versionEndExcluding": "220914",
+	"created": "2023-04-03T14:00:30.067",
+	"lastModified": "2023-04-03T14:00:30.067",
+	"cpeLastModified": "2023-04-03T14:00:30.067",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:tp-link:tl-wr841_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "229CD911-78AB-4EC2-BE3F-23164D52240D"
+		}
+	]
 }

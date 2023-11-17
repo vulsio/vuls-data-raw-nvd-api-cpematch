@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:linuxfoundation:dojox:*:*:*:*:*:node.js:*:*",
-  "matchCriteriaId": "3A201281-770B-44D9-AD95-9BD3F914D7FD",
-  "versionStartIncluding": "1.16.0",
-  "versionEndExcluding": "1.16.1",
-  "created": "2020-04-08T16:36:23.620",
-  "lastModified": "2020-04-08T16:36:23.620",
-  "cpeLastModified": "2020-04-08T16:36:23.633",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:linuxfoundation:dojox:1.16.0:*:*:*:*:node.js:*:*",
-      "cpeNameId": "89FCB08A-5B57-4CCE-AD73-66C37C3E6967"
-    }
-  ]
+	"criteria": "cpe:2.3:a:linuxfoundation:dojox:*:*:*:*:*:node.js:*:*",
+	"matchCriteriaId": "3A201281-770B-44D9-AD95-9BD3F914D7FD",
+	"versionStartIncluding": "1.16.0",
+	"versionEndExcluding": "1.16.1",
+	"created": "2020-04-08T16:36:23.620",
+	"lastModified": "2020-04-08T16:36:23.620",
+	"cpeLastModified": "2020-04-08T16:36:23.633",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:dojox:1.16.0:*:*:*:*:node.js:*:*",
+			"cpeNameId": "89FCB08A-5B57-4CCE-AD73-66C37C3E6967"
+		}
+	]
 }

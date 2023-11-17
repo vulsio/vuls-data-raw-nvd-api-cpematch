@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:supermicro:x12scv-w_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "19920ED5-D9A5-4B2F-A4AD-4B4F7FF87A53",
-  "created": "2023-08-07T12:54:43.613",
-  "lastModified": "2023-08-16T16:21:06.167",
-  "cpeLastModified": "2023-08-16T16:21:06.167",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:supermicro:x12scv-w_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "ED07456B-E325-4309-95F9-DA8E51D23FF9"
-    }
-  ]
+	"criteria": "cpe:2.3:o:supermicro:x12scv-w_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "19920ED5-D9A5-4B2F-A4AD-4B4F7FF87A53",
+	"created": "2023-08-07T12:54:43.613",
+	"lastModified": "2023-08-16T16:21:06.167",
+	"cpeLastModified": "2023-08-16T16:21:06.167",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:supermicro:x12scv-w_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "ED07456B-E325-4309-95F9-DA8E51D23FF9"
+		}
+	]
 }

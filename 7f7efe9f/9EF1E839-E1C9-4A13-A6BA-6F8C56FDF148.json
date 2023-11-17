@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:oracle:mysql:3.23.20:beta:*:*:*:*:*:*",
-  "matchCriteriaId": "9EF1E839-E1C9-4A13-A6BA-6F8C56FDF148",
-  "created": "2019-10-07T16:39:26.783",
-  "lastModified": "2019-10-07T16:39:26.783",
-  "cpeLastModified": "2019-10-07T16:39:26.783",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:oracle:mysql:3.23.20:beta:*:*:*:*:*:*",
-      "cpeNameId": "CA1825A1-7324-4818-BE8D-BA03B8BD619A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:oracle:mysql:3.23.20:beta:*:*:*:*:*:*",
+	"matchCriteriaId": "9EF1E839-E1C9-4A13-A6BA-6F8C56FDF148",
+	"created": "2019-10-07T16:39:26.783",
+	"lastModified": "2019-10-07T16:39:26.783",
+	"cpeLastModified": "2019-10-07T16:39:26.783",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:mysql:3.23.20:beta:*:*:*:*:*:*",
+			"cpeNameId": "CA1825A1-7324-4818-BE8D-BA03B8BD619A"
+		}
+	]
 }

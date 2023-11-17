@@ -1,31 +1,31 @@
 {
-  "criteria": "cpe:2.3:a:eset:internet_security:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "3F6FA874-7D7F-4E56-9472-47A576F5E720",
-  "versionEndExcluding": "1296",
-  "created": "2020-02-27T13:51:23.057",
-  "lastModified": "2020-02-27T13:51:23.057",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:eset:internet_security:-:*:*:*:*:*:*:*",
-      "cpeNameId": "EA49CDCF-1411-4A94-81EC-1358F08A8B48"
-    },
-    {
-      "cpeName": "cpe:2.3:a:eset:internet_security:10.0.337.1:*:*:*:*:windows:*:*",
-      "cpeNameId": "7AFDC7FF-233A-4456-9983-13A5491CC63B"
-    },
-    {
-      "cpeName": "cpe:2.3:a:eset:internet_security:13.2:*:*:*:*:*:*:*",
-      "cpeNameId": "24DC1CA8-47BB-4AAD-8FB7-EE33077D92ED"
-    },
-    {
-      "cpeName": "cpe:2.3:a:eset:internet_security:15.0.18.0:*:*:*:*:windows:*:*",
-      "cpeNameId": "1CF66931-B8A4-4D0D-B914-618BE9FAA3DB"
-    },
-    {
-      "cpeName": "cpe:2.3:a:eset:internet_security:1294:*:*:*:*:*:*:*",
-      "cpeNameId": "087E5100-8DE1-4630-A3CE-2B99B838F9B3"
-    }
-  ]
+	"criteria": "cpe:2.3:a:eset:internet_security:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3F6FA874-7D7F-4E56-9472-47A576F5E720",
+	"versionEndExcluding": "1296",
+	"created": "2020-02-27T13:51:23.057",
+	"lastModified": "2020-02-27T13:51:23.057",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:eset:internet_security:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EA49CDCF-1411-4A94-81EC-1358F08A8B48"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eset:internet_security:10.0.337.1:*:*:*:*:windows:*:*",
+			"cpeNameId": "7AFDC7FF-233A-4456-9983-13A5491CC63B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eset:internet_security:13.2:*:*:*:*:*:*:*",
+			"cpeNameId": "24DC1CA8-47BB-4AAD-8FB7-EE33077D92ED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eset:internet_security:15.0.18.0:*:*:*:*:windows:*:*",
+			"cpeNameId": "1CF66931-B8A4-4D0D-B914-618BE9FAA3DB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eset:internet_security:1294:*:*:*:*:*:*:*",
+			"cpeNameId": "087E5100-8DE1-4630-A3CE-2B99B838F9B3"
+		}
+	]
 }

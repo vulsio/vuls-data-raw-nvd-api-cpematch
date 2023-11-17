@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:o:zyxel:zld_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "067A18AE-A598-441E-AB32-463012A05A38",
-  "versionStartIncluding": "4.30",
-  "versionEndIncluding": "4.55",
-  "created": "2020-12-02T15:10:44.680",
-  "lastModified": "2020-12-02T15:10:44.680",
-  "cpeLastModified": "2021-01-12T18:00:52.337",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:zyxel:zld_firmware:4.30:*:*:*:*:*:*:*",
-      "cpeNameId": "4004C017-CD8C-4B66-A2E5-B2109DCC6BF6"
-    },
-    {
-      "cpeName": "cpe:2.3:o:zyxel:zld_firmware:4.55:*:*:*:*:*:*:*",
-      "cpeNameId": "7249AAA4-A2A5-481E-A08C-C61A8185BA18"
-    }
-  ]
+	"criteria": "cpe:2.3:o:zyxel:zld_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "067A18AE-A598-441E-AB32-463012A05A38",
+	"versionStartIncluding": "4.30",
+	"versionEndIncluding": "4.55",
+	"created": "2020-12-02T15:10:44.680",
+	"lastModified": "2020-12-02T15:10:44.680",
+	"cpeLastModified": "2021-01-12T18:00:52.337",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:zyxel:zld_firmware:4.30:*:*:*:*:*:*:*",
+			"cpeNameId": "4004C017-CD8C-4B66-A2E5-B2109DCC6BF6"
+		},
+		{
+			"cpeName": "cpe:2.3:o:zyxel:zld_firmware:4.55:*:*:*:*:*:*:*",
+			"cpeNameId": "7249AAA4-A2A5-481E-A08C-C61A8185BA18"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:peplink:epx_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9BD63B7F-636D-4CB8-B7ED-34B00EB2C8CE",
-  "versionEndIncluding": "8.1.0",
-  "created": "2020-10-08T15:01:49.773",
-  "lastModified": "2020-10-08T15:01:49.773",
-  "cpeLastModified": "2020-11-06T13:52:49.887",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:peplink:epx_firmware:8.1.0:*:*:*:*:*:*:*",
-      "cpeNameId": "B8B05386-CFDB-4068-86A1-CBFE9C4A5DD2"
-    }
-  ]
+	"criteria": "cpe:2.3:o:peplink:epx_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9BD63B7F-636D-4CB8-B7ED-34B00EB2C8CE",
+	"versionEndIncluding": "8.1.0",
+	"created": "2020-10-08T15:01:49.773",
+	"lastModified": "2020-10-08T15:01:49.773",
+	"cpeLastModified": "2020-11-06T13:52:49.887",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:peplink:epx_firmware:8.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B8B05386-CFDB-4068-86A1-CBFE9C4A5DD2"
+		}
+	]
 }

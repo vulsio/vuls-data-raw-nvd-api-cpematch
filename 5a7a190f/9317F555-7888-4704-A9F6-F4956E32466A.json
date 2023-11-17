@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:243x_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9317F555-7888-4704-A9F6-F4956E32466A",
-  "created": "2019-08-26T18:45:03.593",
-  "lastModified": "2019-08-26T18:45:03.593",
-  "cpeLastModified": "2020-04-06T19:28:07.303",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:243x_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "1D6B7909-0BFC-42DF-82E1-5E029B3EE5ED"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:243x_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9317F555-7888-4704-A9F6-F4956E32466A",
+	"created": "2019-08-26T18:45:03.593",
+	"lastModified": "2019-08-26T18:45:03.593",
+	"cpeLastModified": "2020-04-06T19:28:07.303",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:243x_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1D6B7909-0BFC-42DF-82E1-5E029B3EE5ED"
+		}
+	]
 }

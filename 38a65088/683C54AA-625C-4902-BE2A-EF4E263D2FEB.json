@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:vmware:vcenter_server:6.0:-:*:*:*:*:*:*",
-  "matchCriteriaId": "683C54AA-625C-4902-BE2A-EF4E263D2FEB",
-  "created": "2019-06-19T12:12:15.853",
-  "lastModified": "2019-06-19T12:12:15.853",
-  "cpeLastModified": "2020-07-13T11:11:22.980",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:vmware:vcenter_server:6.0:-:*:*:*:*:*:*",
-      "cpeNameId": "62898D29-7F82-4768-9502-C0C1D49841A4"
-    }
-  ]
+	"criteria": "cpe:2.3:a:vmware:vcenter_server:6.0:-:*:*:*:*:*:*",
+	"matchCriteriaId": "683C54AA-625C-4902-BE2A-EF4E263D2FEB",
+	"created": "2019-06-19T12:12:15.853",
+	"lastModified": "2019-06-19T12:12:15.853",
+	"cpeLastModified": "2020-07-13T11:11:22.980",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:vmware:vcenter_server:6.0:-:*:*:*:*:*:*",
+			"cpeNameId": "62898D29-7F82-4768-9502-C0C1D49841A4"
+		}
+	]
 }

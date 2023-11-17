@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:jtekt:pc10b_tcc-1021_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "462EB710-A7A3-4148-9FED-7CE236F12333",
-  "created": "2021-04-23T15:20:04.853",
-  "lastModified": "2021-04-23T15:20:04.853",
-  "cpeLastModified": "2021-04-23T15:21:48.687",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:jtekt:pc10b_tcc-1021_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "8D8B8AC3-04EC-4727-8416-BEA5516925EC"
-    }
-  ]
+	"criteria": "cpe:2.3:o:jtekt:pc10b_tcc-1021_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "462EB710-A7A3-4148-9FED-7CE236F12333",
+	"created": "2021-04-23T15:20:04.853",
+	"lastModified": "2021-04-23T15:20:04.853",
+	"cpeLastModified": "2021-04-23T15:21:48.687",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:jtekt:pc10b_tcc-1021_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8D8B8AC3-04EC-4727-8416-BEA5516925EC"
+		}
+	]
 }

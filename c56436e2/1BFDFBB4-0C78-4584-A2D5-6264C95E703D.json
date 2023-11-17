@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:fedoraproject:sectool:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1BFDFBB4-0C78-4584-A2D5-6264C95E703D",
-  "created": "2019-12-13T14:45:48.997",
-  "lastModified": "2019-12-13T14:45:48.997",
-  "cpeLastModified": "2019-12-16T18:41:57.643",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:fedoraproject:sectool:-:*:*:*:*:*:*:*",
-      "cpeNameId": "271E3838-12DA-4A75-8836-3F3D12CBFFA9"
-    }
-  ]
+	"criteria": "cpe:2.3:a:fedoraproject:sectool:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1BFDFBB4-0C78-4584-A2D5-6264C95E703D",
+	"created": "2019-12-13T14:45:48.997",
+	"lastModified": "2019-12-13T14:45:48.997",
+	"cpeLastModified": "2019-12-16T18:41:57.643",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:fedoraproject:sectool:-:*:*:*:*:*:*:*",
+			"cpeNameId": "271E3838-12DA-4A75-8836-3F3D12CBFFA9"
+		}
+	]
 }

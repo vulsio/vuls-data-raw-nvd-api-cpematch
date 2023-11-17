@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:videousermanuals:white_label_cms:*:*:*:*:*:wordpress:*:*",
-  "matchCriteriaId": "E5AB392F-76A0-40CF-8C91-F446DE726A7F",
-  "versionEndExcluding": "2.2.9",
-  "created": "2022-03-09T17:23:05.303",
-  "lastModified": "2022-03-09T17:23:05.303",
-  "cpeLastModified": "2022-03-11T16:41:36.627",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:videousermanuals:white_label_cms:-:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "36368071-C8DB-459C-AF1E-C4D214F6C166"
-    }
-  ]
+	"criteria": "cpe:2.3:a:videousermanuals:white_label_cms:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "E5AB392F-76A0-40CF-8C91-F446DE726A7F",
+	"versionEndExcluding": "2.2.9",
+	"created": "2022-03-09T17:23:05.303",
+	"lastModified": "2022-03-09T17:23:05.303",
+	"cpeLastModified": "2022-03-11T16:41:36.627",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:videousermanuals:white_label_cms:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "36368071-C8DB-459C-AF1E-C4D214F6C166"
+		}
+	]
 }

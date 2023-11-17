@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:ibm:data_protection:6.1:*:*:*:*:exchange_server:*:*",
-  "matchCriteriaId": "D695A61E-C8B4-42E1-AB44-8FD23B25488A",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ibm:data_protection:6.1:*:*:*:*:exchange_server:*:*",
-      "cpeNameId": "15DA06FB-4740-42E7-A030-956668A32045"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ibm:data_protection:6.1:*:*:*:*:exchange_server:*:*",
+	"matchCriteriaId": "D695A61E-C8B4-42E1-AB44-8FD23B25488A",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ibm:data_protection:6.1:*:*:*:*:exchange_server:*:*",
+			"cpeNameId": "15DA06FB-4740-42E7-A030-956668A32045"
+		}
+	]
 }

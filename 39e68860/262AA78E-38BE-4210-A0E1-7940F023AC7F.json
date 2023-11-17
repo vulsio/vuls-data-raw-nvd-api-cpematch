@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:f5:big-ip_webaccelerator:9.2.2:*:*:*:*:*:*:*",
-  "matchCriteriaId": "262AA78E-38BE-4210-A0E1-7940F023AC7F",
-  "created": "2019-11-01T00:04:17.880",
-  "lastModified": "2019-11-01T00:04:17.880",
-  "cpeLastModified": "2020-01-15T17:37:37.377",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:f5:big-ip_webaccelerator:9.2.2:*:*:*:*:*:*:*",
-      "cpeNameId": "D36BF97B-8A97-4E34-9480-5E878CC17147"
-    }
-  ]
+	"criteria": "cpe:2.3:a:f5:big-ip_webaccelerator:9.2.2:*:*:*:*:*:*:*",
+	"matchCriteriaId": "262AA78E-38BE-4210-A0E1-7940F023AC7F",
+	"created": "2019-11-01T00:04:17.880",
+	"lastModified": "2019-11-01T00:04:17.880",
+	"cpeLastModified": "2020-01-15T17:37:37.377",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:f5:big-ip_webaccelerator:9.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "D36BF97B-8A97-4E34-9480-5E878CC17147"
+		}
+	]
 }

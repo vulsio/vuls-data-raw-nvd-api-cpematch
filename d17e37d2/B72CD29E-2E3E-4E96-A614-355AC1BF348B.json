@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:schneider-electric:acti9_smartlink_si_b_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B72CD29E-2E3E-4E96-A614-355AC1BF348B",
-  "versionEndExcluding": "002.004.002",
-  "created": "2020-12-02T18:42:40.893",
-  "lastModified": "2020-12-02T18:42:40.893",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:schneider-electric:acti9_smartlink_si_b_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "53963C71-E406-46E0-8ED4-FE77091A6448"
-    }
-  ]
+	"criteria": "cpe:2.3:o:schneider-electric:acti9_smartlink_si_b_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B72CD29E-2E3E-4E96-A614-355AC1BF348B",
+	"versionEndExcluding": "002.004.002",
+	"created": "2020-12-02T18:42:40.893",
+	"lastModified": "2020-12-02T18:42:40.893",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:schneider-electric:acti9_smartlink_si_b_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "53963C71-E406-46E0-8ED4-FE77091A6448"
+		}
+	]
 }

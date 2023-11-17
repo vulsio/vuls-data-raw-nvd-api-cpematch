@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:intel:pentium_g870:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AE70E8D3-D604-48CF-9126-68AEF2EDE25F",
-  "created": "2020-03-23T13:01:57.487",
-  "lastModified": "2020-03-23T13:01:57.487",
-  "cpeLastModified": "2020-03-26T13:31:40.850",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:intel:pentium_g870:-:*:*:*:*:*:*:*",
-      "cpeNameId": "53A271CC-BF85-456C-A35E-2465E21A1795"
-    }
-  ]
+	"criteria": "cpe:2.3:h:intel:pentium_g870:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AE70E8D3-D604-48CF-9126-68AEF2EDE25F",
+	"created": "2020-03-23T13:01:57.487",
+	"lastModified": "2020-03-23T13:01:57.487",
+	"cpeLastModified": "2020-03-26T13:31:40.850",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:pentium_g870:-:*:*:*:*:*:*:*",
+			"cpeNameId": "53A271CC-BF85-456C-A35E-2465E21A1795"
+		}
+	]
 }

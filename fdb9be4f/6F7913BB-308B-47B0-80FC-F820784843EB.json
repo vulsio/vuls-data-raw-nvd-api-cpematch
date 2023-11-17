@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:windriver:linux:18.0:*:*:*:lts:*:*:*",
-  "matchCriteriaId": "6F7913BB-308B-47B0-80FC-F820784843EB",
-  "created": "2021-03-29T13:05:49.250",
-  "lastModified": "2021-03-29T13:05:49.250",
-  "cpeLastModified": "2021-03-29T13:06:00.660",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:windriver:linux:18.0:*:*:*:lts:*:*:*",
-      "cpeNameId": "36B8A438-7E11-4652-9AA9-432BF9436DC7"
-    }
-  ]
+	"criteria": "cpe:2.3:o:windriver:linux:18.0:*:*:*:lts:*:*:*",
+	"matchCriteriaId": "6F7913BB-308B-47B0-80FC-F820784843EB",
+	"created": "2021-03-29T13:05:49.250",
+	"lastModified": "2021-03-29T13:05:49.250",
+	"cpeLastModified": "2021-03-29T13:06:00.660",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:windriver:linux:18.0:*:*:*:lts:*:*:*",
+			"cpeNameId": "36B8A438-7E11-4652-9AA9-432BF9436DC7"
+		}
+	]
 }

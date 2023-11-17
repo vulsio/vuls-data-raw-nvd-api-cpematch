@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:softaculous:virtualizor:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1D384A26-87A2-43B1-AC3D-36E386C385EC",
-  "versionEndIncluding": "2.9.0.6",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T22:53:51.837",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:softaculous:virtualizor:2.9.0.6:*:*:*:*:*:*:*",
-      "cpeNameId": "ED86941E-0463-4579-AD48-39B58E16E735"
-    }
-  ]
+	"criteria": "cpe:2.3:a:softaculous:virtualizor:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1D384A26-87A2-43B1-AC3D-36E386C385EC",
+	"versionEndIncluding": "2.9.0.6",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T22:53:51.837",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:softaculous:virtualizor:2.9.0.6:*:*:*:*:*:*:*",
+			"cpeNameId": "ED86941E-0463-4579-AD48-39B58E16E735"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:microsoft:office_powerpoint_viewer:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D7CAF125-B409-4209-AAF9-7EB795F09280",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:microsoft:office_powerpoint_viewer:-:*:*:*:*:*:*:*",
-      "cpeNameId": "1595C1CD-78CE-4E46-99D6-DD32D047A42C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:microsoft:office_powerpoint_viewer:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D7CAF125-B409-4209-AAF9-7EB795F09280",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:office_powerpoint_viewer:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1595C1CD-78CE-4E46-99D6-DD32D047A42C"
+		}
+	]
 }

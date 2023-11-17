@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:o:siemens:simatic_s7_plcsim_advanced_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "2A8F8195-DFED-4F42-B7DB-85F0F9A53719",
-  "versionStartIncluding": "2.0",
-  "versionEndExcluding": "4.0",
-  "created": "2021-08-17T11:14:46.433",
-  "lastModified": "2021-08-17T11:14:46.433",
-  "cpeLastModified": "2021-08-20T16:47:03.790",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:simatic_s7_plcsim_advanced_firmware:2.0:*:*:*:*:*:*:*",
-      "cpeNameId": "17E5C812-7CD4-481F-8A08-87B28C5D4DB6"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:simatic_s7_plcsim_advanced_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2A8F8195-DFED-4F42-B7DB-85F0F9A53719",
+	"versionStartIncluding": "2.0",
+	"versionEndExcluding": "4.0",
+	"created": "2021-08-17T11:14:46.433",
+	"lastModified": "2021-08-17T11:14:46.433",
+	"cpeLastModified": "2021-08-20T16:47:03.790",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:simatic_s7_plcsim_advanced_firmware:2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "17E5C812-7CD4-481F-8A08-87B28C5D4DB6"
+		}
+	]
 }

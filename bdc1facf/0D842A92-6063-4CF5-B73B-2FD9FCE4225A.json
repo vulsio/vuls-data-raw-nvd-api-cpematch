@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:netgear:rbs850_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0D842A92-6063-4CF5-B73B-2FD9FCE4225A",
-  "versionEndExcluding": "3.2.10.11",
-  "created": "2020-06-19T19:04:14.720",
-  "lastModified": "2020-06-19T19:04:14.720",
-  "cpeLastModified": "2021-08-19T14:53:26.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:netgear:rbs850_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "4079E4D3-947A-434D-8C1A-49476CE9B534"
-    }
-  ]
+	"criteria": "cpe:2.3:o:netgear:rbs850_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0D842A92-6063-4CF5-B73B-2FD9FCE4225A",
+	"versionEndExcluding": "3.2.10.11",
+	"created": "2020-06-19T19:04:14.720",
+	"lastModified": "2020-06-19T19:04:14.720",
+	"cpeLastModified": "2021-08-19T14:53:26.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netgear:rbs850_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4079E4D3-947A-434D-8C1A-49476CE9B534"
+		}
+	]
 }

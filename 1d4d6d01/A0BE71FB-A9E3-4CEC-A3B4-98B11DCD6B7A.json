@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:sap:sap_kernel_krnl64uc:7.22ext:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A0BE71FB-A9E3-4CEC-A3B4-98B11DCD6B7A",
-  "created": "2019-09-11T00:47:32.640",
-  "lastModified": "2019-09-11T00:47:32.640",
-  "cpeLastModified": "2020-03-04T18:24:41.267",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:sap:sap_kernel_krnl64uc:7.22ext:*:*:*:*:*:*:*",
-      "cpeNameId": "B51775CA-2801-489A-80B9-620111CEC2D3"
-    }
-  ]
+	"criteria": "cpe:2.3:a:sap:sap_kernel_krnl64uc:7.22ext:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A0BE71FB-A9E3-4CEC-A3B4-98B11DCD6B7A",
+	"created": "2019-09-11T00:47:32.640",
+	"lastModified": "2019-09-11T00:47:32.640",
+	"cpeLastModified": "2020-03-04T18:24:41.267",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sap:sap_kernel_krnl64uc:7.22ext:*:*:*:*:*:*:*",
+			"cpeNameId": "B51775CA-2801-489A-80B9-620111CEC2D3"
+		}
+	]
 }

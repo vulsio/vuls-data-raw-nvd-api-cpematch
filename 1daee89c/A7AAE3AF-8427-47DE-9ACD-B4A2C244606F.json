@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:cisco:nexus_93360yc-fx2_firmware:9.3\\(5\\):*:*:*:*:*:*:*",
-  "matchCriteriaId": "A7AAE3AF-8427-47DE-9ACD-B4A2C244606F",
-  "created": "2022-09-30T12:28:40.507",
-  "lastModified": "2022-10-06T16:15:42.893",
-  "cpeLastModified": "2022-10-06T16:15:42.893",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:nexus_93360yc-fx2_firmware:9.3\\(5\\):*:*:*:*:*:*:*",
-      "cpeNameId": "EF0B8ECC-EF10-47F9-98C5-779EA4D74D7C"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:nexus_93360yc-fx2_firmware:9.3\\(5\\):*:*:*:*:*:*:*",
+	"matchCriteriaId": "A7AAE3AF-8427-47DE-9ACD-B4A2C244606F",
+	"created": "2022-09-30T12:28:40.507",
+	"lastModified": "2022-10-06T16:15:42.893",
+	"cpeLastModified": "2022-10-06T16:15:42.893",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:nexus_93360yc-fx2_firmware:9.3\\(5\\):*:*:*:*:*:*:*",
+			"cpeNameId": "EF0B8ECC-EF10-47F9-98C5-779EA4D74D7C"
+		}
+	]
 }

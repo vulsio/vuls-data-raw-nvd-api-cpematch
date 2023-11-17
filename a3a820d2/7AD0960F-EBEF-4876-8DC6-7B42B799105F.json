@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:nvidia:geforce_gtx_660_ti:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7AD0960F-EBEF-4876-8DC6-7B42B799105F",
-  "created": "2021-11-23T20:58:03.457",
-  "lastModified": "2021-11-23T20:58:03.457",
-  "cpeLastModified": "2021-11-24T15:18:53.713",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:nvidia:geforce_gtx_660_ti:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E53A3329-3120-4139-AA55-08B869B75EA1"
-    }
-  ]
+	"criteria": "cpe:2.3:h:nvidia:geforce_gtx_660_ti:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7AD0960F-EBEF-4876-8DC6-7B42B799105F",
+	"created": "2021-11-23T20:58:03.457",
+	"lastModified": "2021-11-23T20:58:03.457",
+	"cpeLastModified": "2021-11-24T15:18:53.713",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:nvidia:geforce_gtx_660_ti:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E53A3329-3120-4139-AA55-08B869B75EA1"
+		}
+	]
 }

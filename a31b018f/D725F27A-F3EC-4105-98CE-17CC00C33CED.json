@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:unisys:stealth:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D725F27A-F3EC-4105-98CE-17CC00C33CED",
-  "versionStartIncluding": "6.0",
-  "versionEndExcluding": "6.0.025.0",
-  "created": "2021-03-18T14:49:54.870",
-  "lastModified": "2021-03-18T14:49:54.870",
-  "cpeLastModified": "2021-03-18T14:51:52.327",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:unisys:stealth:6.0:*:*:*:*:*:*:*",
-      "cpeNameId": "3E9E9960-E741-4EB6-9A67-BBC38CA88EE6"
-    }
-  ]
+	"criteria": "cpe:2.3:a:unisys:stealth:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D725F27A-F3EC-4105-98CE-17CC00C33CED",
+	"versionStartIncluding": "6.0",
+	"versionEndExcluding": "6.0.025.0",
+	"created": "2021-03-18T14:49:54.870",
+	"lastModified": "2021-03-18T14:49:54.870",
+	"cpeLastModified": "2021-03-18T14:51:52.327",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:unisys:stealth:6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "3E9E9960-E741-4EB6-9A67-BBC38CA88EE6"
+		}
+	]
 }

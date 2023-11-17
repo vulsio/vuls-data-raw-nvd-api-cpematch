@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lexmark:cx625_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "DE1246A8-32F5-4A08-9859-E76613D48C33",
-  "versionEndExcluding": "cxtzj.076.294",
-  "created": "2022-01-26T14:22:35.297",
-  "lastModified": "2022-01-26T14:22:35.297",
-  "cpeLastModified": "2022-01-27T15:31:13.463",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lexmark:cx625_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "F049698F-EB45-46CF-A339-9AB49E09C824"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lexmark:cx625_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DE1246A8-32F5-4A08-9859-E76613D48C33",
+	"versionEndExcluding": "cxtzj.076.294",
+	"created": "2022-01-26T14:22:35.297",
+	"lastModified": "2022-01-26T14:22:35.297",
+	"cpeLastModified": "2022-01-27T15:31:13.463",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lexmark:cx625_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F049698F-EB45-46CF-A339-9AB49E09C824"
+		}
+	]
 }

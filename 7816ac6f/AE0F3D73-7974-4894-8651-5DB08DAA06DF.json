@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:intel:pentium_957:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AE0F3D73-7974-4894-8651-5DB08DAA06DF",
-  "created": "2020-03-23T13:01:44.330",
-  "lastModified": "2020-03-23T13:01:44.330",
-  "cpeLastModified": "2020-03-26T13:31:25.600",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:intel:pentium_957:-:*:*:*:*:*:*:*",
-      "cpeNameId": "59D6B846-1FF8-42F7-BEAD-60574CF2B28A"
-    }
-  ]
+	"criteria": "cpe:2.3:h:intel:pentium_957:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AE0F3D73-7974-4894-8651-5DB08DAA06DF",
+	"created": "2020-03-23T13:01:44.330",
+	"lastModified": "2020-03-23T13:01:44.330",
+	"cpeLastModified": "2020-03-26T13:31:25.600",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:pentium_957:-:*:*:*:*:*:*:*",
+			"cpeNameId": "59D6B846-1FF8-42F7-BEAD-60574CF2B28A"
+		}
+	]
 }

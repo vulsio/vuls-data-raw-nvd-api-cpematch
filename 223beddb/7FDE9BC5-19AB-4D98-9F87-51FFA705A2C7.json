@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:sibsoft:xfilesharing:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7FDE9BC5-19AB-4D98-9F87-51FFA705A2C7",
-  "versionEndIncluding": "2.5.1",
-  "created": "2019-11-14T18:59:00.303",
-  "lastModified": "2019-11-14T18:59:00.303",
-  "cpeLastModified": "2020-09-22T16:58:07.057",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:sibsoft:xfilesharing:2.5.1:*:*:*:*:*:*:*",
-      "cpeNameId": "671FD871-3677-4872-AFD3-35A49F031112"
-    }
-  ]
+	"criteria": "cpe:2.3:a:sibsoft:xfilesharing:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7FDE9BC5-19AB-4D98-9F87-51FFA705A2C7",
+	"versionEndIncluding": "2.5.1",
+	"created": "2019-11-14T18:59:00.303",
+	"lastModified": "2019-11-14T18:59:00.303",
+	"cpeLastModified": "2020-09-22T16:58:07.057",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sibsoft:xfilesharing:2.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "671FD871-3677-4872-AFD3-35A49F031112"
+		}
+	]
 }

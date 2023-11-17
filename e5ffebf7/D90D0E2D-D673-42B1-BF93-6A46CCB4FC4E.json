@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:abb:update_manager:2.2:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D90D0E2D-D673-42B1-BF93-6A46CCB4FC4E",
-  "created": "2021-11-01T18:43:15.180",
-  "lastModified": "2021-11-01T18:43:15.180",
-  "cpeLastModified": "2021-11-03T14:18:02.713",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:abb:update_manager:2.2:*:*:*:*:*:*:*",
-      "cpeNameId": "770C75BB-3253-4E7D-B06E-4AE80A8B2E1E"
-    }
-  ]
+	"criteria": "cpe:2.3:a:abb:update_manager:2.2:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D90D0E2D-D673-42B1-BF93-6A46CCB4FC4E",
+	"created": "2021-11-01T18:43:15.180",
+	"lastModified": "2021-11-01T18:43:15.180",
+	"cpeLastModified": "2021-11-03T14:18:02.713",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:abb:update_manager:2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "770C75BB-3253-4E7D-B06E-4AE80A8B2E1E"
+		}
+	]
 }

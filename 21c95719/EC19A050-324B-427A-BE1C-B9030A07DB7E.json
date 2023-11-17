@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:trendmicro:deep_security_agent:10.0:update24:*:*:long_term_support:*:*:*",
-  "matchCriteriaId": "EC19A050-324B-427A-BE1C-B9030A07DB7E",
-  "created": "2022-01-27T15:15:25.573",
-  "lastModified": "2022-01-27T15:15:25.573",
-  "cpeLastModified": "2022-01-27T15:59:41.943",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:trendmicro:deep_security_agent:10.0:update24:*:*:long_term_support:*:*:*",
-      "cpeNameId": "0C4B5D18-8EE9-40A9-B81B-250ED6522A60"
-    }
-  ]
+	"criteria": "cpe:2.3:a:trendmicro:deep_security_agent:10.0:update24:*:*:long_term_support:*:*:*",
+	"matchCriteriaId": "EC19A050-324B-427A-BE1C-B9030A07DB7E",
+	"created": "2022-01-27T15:15:25.573",
+	"lastModified": "2022-01-27T15:15:25.573",
+	"cpeLastModified": "2022-01-27T15:59:41.943",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:trendmicro:deep_security_agent:10.0:update24:*:*:long_term_support:*:*:*",
+			"cpeNameId": "0C4B5D18-8EE9-40A9-B81B-250ED6522A60"
+		}
+	]
 }

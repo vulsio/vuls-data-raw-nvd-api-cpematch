@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:vivotek:sd9365-ehl_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7B5BCC15-6ABE-4B2A-ABBB-6A57F2FD3EA7",
-  "versionEndIncluding": "0114a",
-  "created": "2020-06-08T17:01:53.267",
-  "lastModified": "2020-06-08T17:01:53.267",
-  "cpeLastModified": "2020-08-20T15:10:35.540",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:vivotek:sd9365-ehl_firmware:0114a:*:*:*:*:*:*:*",
-      "cpeNameId": "FBA40174-A02F-4F94-971C-EA6713DD6C6C"
-    }
-  ]
+	"criteria": "cpe:2.3:o:vivotek:sd9365-ehl_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7B5BCC15-6ABE-4B2A-ABBB-6A57F2FD3EA7",
+	"versionEndIncluding": "0114a",
+	"created": "2020-06-08T17:01:53.267",
+	"lastModified": "2020-06-08T17:01:53.267",
+	"cpeLastModified": "2020-08-20T15:10:35.540",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:vivotek:sd9365-ehl_firmware:0114a:*:*:*:*:*:*:*",
+			"cpeNameId": "FBA40174-A02F-4F94-971C-EA6713DD6C6C"
+		}
+	]
 }

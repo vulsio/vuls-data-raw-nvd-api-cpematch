@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:creativityjuice:labtools:*:*:*:*:*:wordpress:*:*",
-  "matchCriteriaId": "88629B0C-7AAB-410A-8C1D-05B515AE407C",
-  "versionEndIncluding": "1.0",
-  "created": "2022-02-04T17:56:23.923",
-  "lastModified": "2022-02-04T17:56:23.923",
-  "cpeLastModified": "2022-02-04T17:56:26.407",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:creativityjuice:labtools:1.0:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "1A130C60-2E27-4A97-9168-40381433DA2D"
-    }
-  ]
+	"criteria": "cpe:2.3:a:creativityjuice:labtools:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "88629B0C-7AAB-410A-8C1D-05B515AE407C",
+	"versionEndIncluding": "1.0",
+	"created": "2022-02-04T17:56:23.923",
+	"lastModified": "2022-02-04T17:56:23.923",
+	"cpeLastModified": "2022-02-04T17:56:26.407",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:creativityjuice:labtools:1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1A130C60-2E27-4A97-9168-40381433DA2D"
+		}
+	]
 }

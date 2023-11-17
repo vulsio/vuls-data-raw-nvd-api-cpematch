@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:siemens:scalance_w700_ieee_802.11a\\/b\\/g\\/n_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7C4A8F09-A7B9-4569-A3AE-F3572CBD9AA5",
-  "versionEndExcluding": "6.4",
-  "created": "2022-12-28T18:00:51.200",
-  "lastModified": "2022-12-30T12:55:08.160",
-  "cpeLastModified": "2022-12-30T12:55:08.160",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:scalance_w700_ieee_802.11a\\/b\\/g\\/n_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "165C5C83-F5AE-4B02-BED9-28E5BAE40A4E"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:scalance_w700_ieee_802.11a\\/b\\/g\\/n_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7C4A8F09-A7B9-4569-A3AE-F3572CBD9AA5",
+	"versionEndExcluding": "6.4",
+	"created": "2022-12-28T18:00:51.200",
+	"lastModified": "2022-12-30T12:55:08.160",
+	"cpeLastModified": "2022-12-30T12:55:08.160",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:scalance_w700_ieee_802.11a\\/b\\/g\\/n_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "165C5C83-F5AE-4B02-BED9-28E5BAE40A4E"
+		}
+	]
 }

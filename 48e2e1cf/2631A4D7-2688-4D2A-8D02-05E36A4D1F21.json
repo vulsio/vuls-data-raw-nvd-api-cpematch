@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:mcafee:anti-malware_scan_engine:5500:*:*:*:*:linux:*:*",
-  "matchCriteriaId": "2631A4D7-2688-4D2A-8D02-05E36A4D1F21",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T22:53:51.837",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:mcafee:anti-malware_scan_engine:5500:*:*:*:*:linux:*:*",
-      "cpeNameId": "1A56E6B1-A96C-469F-A216-BA3C22A0A021"
-    }
-  ]
+	"criteria": "cpe:2.3:a:mcafee:anti-malware_scan_engine:5500:*:*:*:*:linux:*:*",
+	"matchCriteriaId": "2631A4D7-2688-4D2A-8D02-05E36A4D1F21",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T22:53:51.837",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:mcafee:anti-malware_scan_engine:5500:*:*:*:*:linux:*:*",
+			"cpeNameId": "1A56E6B1-A96C-469F-A216-BA3C22A0A021"
+		}
+	]
 }

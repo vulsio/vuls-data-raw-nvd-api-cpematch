@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:cisco:telepresence_tc_software:8.2.1:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CCD1A653-986F-472F-A9B0-904653661DBE",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T22:53:51.837",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:cisco:telepresence_tc_software:8.2.1:*:*:*:*:*:*:*",
-      "cpeNameId": "108D3022-56C6-4E23-B509-C248D2D3E2BB"
-    }
-  ]
+	"criteria": "cpe:2.3:a:cisco:telepresence_tc_software:8.2.1:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CCD1A653-986F-472F-A9B0-904653661DBE",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T22:53:51.837",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:telepresence_tc_software:8.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "108D3022-56C6-4E23-B509-C248D2D3E2BB"
+		}
+	]
 }

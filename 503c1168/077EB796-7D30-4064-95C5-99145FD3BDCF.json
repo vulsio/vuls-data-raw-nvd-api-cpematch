@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:thinkstation_p500_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "077EB796-7D30-4064-95C5-99145FD3BDCF",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:thinkstation_p500_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "060426BC-0BD4-492A-80D7-26A1F42ADBC5"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:thinkstation_p500_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "077EB796-7D30-4064-95C5-99145FD3BDCF",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:thinkstation_p500_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "060426BC-0BD4-492A-80D7-26A1F42ADBC5"
+		}
+	]
 }

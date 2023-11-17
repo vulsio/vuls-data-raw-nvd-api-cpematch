@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:xeon_d-1587_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9378BC61-8A6F-4098-AD09-329E10F4B3EB",
-  "created": "2022-08-23T20:09:25.100",
-  "lastModified": "2023-07-24T19:52:31.487",
-  "cpeLastModified": "2022-08-24T12:55:25.843",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:xeon_d-1587_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "292DBC6A-1F94-44BB-95EE-695F0BE46BE0"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:xeon_d-1587_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9378BC61-8A6F-4098-AD09-329E10F4B3EB",
+	"created": "2022-08-23T20:09:25.100",
+	"lastModified": "2023-07-24T19:52:31.487",
+	"cpeLastModified": "2022-08-24T12:55:25.843",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:xeon_d-1587_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "292DBC6A-1F94-44BB-95EE-695F0BE46BE0"
+		}
+	]
 }

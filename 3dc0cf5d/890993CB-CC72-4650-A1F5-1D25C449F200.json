@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:atto:fibrebridge_7500n_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "890993CB-CC72-4650-A1F5-1D25C449F200",
-  "versionEndExcluding": "2.90",
-  "created": "2020-05-11T12:08:53.803",
-  "lastModified": "2020-05-11T12:08:53.803",
-  "cpeLastModified": "2020-05-29T20:49:57.310",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:atto:fibrebridge_7500n_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "211A0C6C-22E7-4C84-B5C6-A0E54A557080"
-    }
-  ]
+	"criteria": "cpe:2.3:o:atto:fibrebridge_7500n_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "890993CB-CC72-4650-A1F5-1D25C449F200",
+	"versionEndExcluding": "2.90",
+	"created": "2020-05-11T12:08:53.803",
+	"lastModified": "2020-05-11T12:08:53.803",
+	"cpeLastModified": "2020-05-29T20:49:57.310",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:atto:fibrebridge_7500n_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "211A0C6C-22E7-4C84-B5C6-A0E54A557080"
+		}
+	]
 }

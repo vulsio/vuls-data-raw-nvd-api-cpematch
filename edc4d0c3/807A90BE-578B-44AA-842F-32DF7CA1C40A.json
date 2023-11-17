@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:apple:safari:3.0.4b:-:windows:*:*:*:*:*",
-  "matchCriteriaId": "807A90BE-578B-44AA-842F-32DF7CA1C40A",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:apple:safari:3.0.4b:-:windows:*:*:*:*:*",
-      "cpeNameId": "C94BBEAF-80F3-449B-AB71-693A74D3AC54"
-    }
-  ]
+	"criteria": "cpe:2.3:a:apple:safari:3.0.4b:-:windows:*:*:*:*:*",
+	"matchCriteriaId": "807A90BE-578B-44AA-842F-32DF7CA1C40A",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apple:safari:3.0.4b:-:windows:*:*:*:*:*",
+			"cpeNameId": "C94BBEAF-80F3-449B-AB71-693A74D3AC54"
+		}
+	]
 }

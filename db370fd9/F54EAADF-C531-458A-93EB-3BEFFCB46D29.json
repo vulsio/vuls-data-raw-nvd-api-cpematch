@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:thinkpad_t490_\\(20rx\\)_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F54EAADF-C531-458A-93EB-3BEFFCB46D29",
-  "versionEndExcluding": "n2ret16w",
-  "created": "2020-09-04T12:37:07.360",
-  "lastModified": "2020-09-04T12:37:07.360",
-  "cpeLastModified": "2020-09-04T12:37:07.360",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:thinkpad_t490_\\(20rx\\)_firmware:n2iet88w:*:*:*:*:*:*:*",
-      "cpeNameId": "083180B3-9DCF-44A2-827B-88582FF291D9"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:thinkpad_t490_\\(20rx\\)_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F54EAADF-C531-458A-93EB-3BEFFCB46D29",
+	"versionEndExcluding": "n2ret16w",
+	"created": "2020-09-04T12:37:07.360",
+	"lastModified": "2020-09-04T12:37:07.360",
+	"cpeLastModified": "2020-09-04T12:37:07.360",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:thinkpad_t490_\\(20rx\\)_firmware:n2iet88w:*:*:*:*:*:*:*",
+			"cpeNameId": "083180B3-9DCF-44A2-827B-88582FF291D9"
+		}
+	]
 }

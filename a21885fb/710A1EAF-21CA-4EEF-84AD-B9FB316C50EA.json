@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:precision_3630_tower_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "710A1EAF-21CA-4EEF-84AD-B9FB316C50EA",
-  "versionEndExcluding": "2.21.0",
-  "created": "2023-06-27T15:47:53.800",
-  "lastModified": "2023-06-27T15:47:53.800",
-  "cpeLastModified": "2023-06-27T15:47:53.800",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:precision_3630_tower_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "FA777104-314F-4348-ADC1-311CD9B0C821"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:precision_3630_tower_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "710A1EAF-21CA-4EEF-84AD-B9FB316C50EA",
+	"versionEndExcluding": "2.21.0",
+	"created": "2023-06-27T15:47:53.800",
+	"lastModified": "2023-06-27T15:47:53.800",
+	"cpeLastModified": "2023-06-27T15:47:53.800",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_3630_tower_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FA777104-314F-4348-ADC1-311CD9B0C821"
+		}
+	]
 }

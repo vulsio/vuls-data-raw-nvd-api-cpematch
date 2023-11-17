@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lexmark:xc2326_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FAAC8420-4225-4CCE-B9D5-47807D762365",
-  "versionEndExcluding": "cxlbn.076.294",
-  "created": "2022-01-26T14:01:43.417",
-  "lastModified": "2022-01-26T14:01:43.417",
-  "cpeLastModified": "2022-01-27T15:31:13.463",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lexmark:xc2326_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "716600D3-87C8-48F3-A4F5-A7A60928E1DD"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lexmark:xc2326_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FAAC8420-4225-4CCE-B9D5-47807D762365",
+	"versionEndExcluding": "cxlbn.076.294",
+	"created": "2022-01-26T14:01:43.417",
+	"lastModified": "2022-01-26T14:01:43.417",
+	"cpeLastModified": "2022-01-27T15:31:13.463",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lexmark:xc2326_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "716600D3-87C8-48F3-A4F5-A7A60928E1DD"
+		}
+	]
 }

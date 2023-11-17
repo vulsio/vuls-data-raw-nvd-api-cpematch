@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:thinkpad_x1_yoga_\\(20qx\\)_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7A18FEBB-D550-43EF-8C49-A67C08230FCC",
-  "versionEndExcluding": "n2het54w",
-  "created": "2020-09-04T12:37:07.470",
-  "lastModified": "2020-09-04T12:37:07.470",
-  "cpeLastModified": "2020-09-04T12:37:07.500",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:thinkpad_x1_yoga_\\(20qx\\)_firmware:n2het47w:*:*:*:*:*:*:*",
-      "cpeNameId": "1E5F6B8D-6DE9-4E6A-9234-FAB45C56B2BC"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:thinkpad_x1_yoga_\\(20qx\\)_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7A18FEBB-D550-43EF-8C49-A67C08230FCC",
+	"versionEndExcluding": "n2het54w",
+	"created": "2020-09-04T12:37:07.470",
+	"lastModified": "2020-09-04T12:37:07.470",
+	"cpeLastModified": "2020-09-04T12:37:07.500",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:thinkpad_x1_yoga_\\(20qx\\)_firmware:n2het47w:*:*:*:*:*:*:*",
+			"cpeNameId": "1E5F6B8D-6DE9-4E6A-9234-FAB45C56B2BC"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:ericsson:enterprise_content_management:18.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F18823F1-BAA0-412F-99EF-902864FE0CEA",
-  "created": "2021-09-28T15:45:24.893",
-  "lastModified": "2021-09-28T15:45:24.893",
-  "cpeLastModified": "2021-09-29T18:56:04.350",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ericsson:enterprise_content_management:18.0:*:*:*:*:*:*:*",
-      "cpeNameId": "A797EF94-B24B-4C6E-8D4D-70696AB91702"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ericsson:enterprise_content_management:18.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F18823F1-BAA0-412F-99EF-902864FE0CEA",
+	"created": "2021-09-28T15:45:24.893",
+	"lastModified": "2021-09-28T15:45:24.893",
+	"cpeLastModified": "2021-09-29T18:56:04.350",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ericsson:enterprise_content_management:18.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A797EF94-B24B-4C6E-8D4D-70696AB91702"
+		}
+	]
 }

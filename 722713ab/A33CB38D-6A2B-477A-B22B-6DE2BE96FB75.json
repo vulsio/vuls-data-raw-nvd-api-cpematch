@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:oracle:weblogic_server:10.0:maintenance_pack1:*:*:*:apache:*:*",
-  "matchCriteriaId": "A33CB38D-6A2B-477A-B22B-6DE2BE96FB75",
-  "created": "2020-10-06T13:32:08.513",
-  "lastModified": "2020-10-06T13:32:08.513",
-  "cpeLastModified": "2020-10-06T21:16:19.267",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:oracle:weblogic_server:10.0:maintenance_pack1:*:*:*:apache:*:*",
-      "cpeNameId": "05CFCB06-F559-41C5-80D1-284DA1153962"
-    }
-  ]
+	"criteria": "cpe:2.3:a:oracle:weblogic_server:10.0:maintenance_pack1:*:*:*:apache:*:*",
+	"matchCriteriaId": "A33CB38D-6A2B-477A-B22B-6DE2BE96FB75",
+	"created": "2020-10-06T13:32:08.513",
+	"lastModified": "2020-10-06T13:32:08.513",
+	"cpeLastModified": "2020-10-06T21:16:19.267",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:weblogic_server:10.0:maintenance_pack1:*:*:*:apache:*:*",
+			"cpeNameId": "05CFCB06-F559-41C5-80D1-284DA1153962"
+		}
+	]
 }

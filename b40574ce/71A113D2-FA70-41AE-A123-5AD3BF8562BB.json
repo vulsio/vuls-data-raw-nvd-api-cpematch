@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:thalesgroup:els81_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "71A113D2-FA70-41AE-A123-5AD3BF8562BB",
-  "versionEndIncluding": "rn_05.002_\\/_arn_01.000.04",
-  "created": "2020-08-25T16:38:52.250",
-  "lastModified": "2020-08-25T16:38:52.250",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:thalesgroup:els81_firmware:rn_05.002_\\/_arn_01.000.04:*:*:*:*:*:*:*",
-      "cpeNameId": "780394EC-70DC-4582-823F-8CB2409B50E0"
-    }
-  ]
+	"criteria": "cpe:2.3:o:thalesgroup:els81_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "71A113D2-FA70-41AE-A123-5AD3BF8562BB",
+	"versionEndIncluding": "rn_05.002_\\/_arn_01.000.04",
+	"created": "2020-08-25T16:38:52.250",
+	"lastModified": "2020-08-25T16:38:52.250",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:thalesgroup:els81_firmware:rn_05.002_\\/_arn_01.000.04:*:*:*:*:*:*:*",
+			"cpeNameId": "780394EC-70DC-4582-823F-8CB2409B50E0"
+		}
+	]
 }

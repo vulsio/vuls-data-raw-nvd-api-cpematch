@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:o:citrix:sd-wan_wanop:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4FB67ED6-6586-4280-A521-E1EDA81C68BE",
-  "versionStartIncluding": "11.2",
-  "versionEndExcluding": "11.2.1a",
-  "created": "2020-09-29T16:25:19.260",
-  "lastModified": "2020-09-29T16:25:19.260",
-  "cpeLastModified": "2020-09-30T12:06:33.683",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:citrix:sd-wan_wanop:11.2:*:*:*:*:*:*:*",
-      "cpeNameId": "0793DC2D-DB90-439B-9682-CBEAFD2345D8"
-    }
-  ]
+	"criteria": "cpe:2.3:o:citrix:sd-wan_wanop:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4FB67ED6-6586-4280-A521-E1EDA81C68BE",
+	"versionStartIncluding": "11.2",
+	"versionEndExcluding": "11.2.1a",
+	"created": "2020-09-29T16:25:19.260",
+	"lastModified": "2020-09-29T16:25:19.260",
+	"cpeLastModified": "2020-09-30T12:06:33.683",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:citrix:sd-wan_wanop:11.2:*:*:*:*:*:*:*",
+			"cpeNameId": "0793DC2D-DB90-439B-9682-CBEAFD2345D8"
+		}
+	]
 }

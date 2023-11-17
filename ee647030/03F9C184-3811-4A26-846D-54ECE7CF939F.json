@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:cisco:meraki_mx68w:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "03F9C184-3811-4A26-846D-54ECE7CF939F",
-  "created": "2021-01-15T16:41:48.593",
-  "lastModified": "2022-07-12T15:45:40.327",
-  "cpeLastModified": "2021-02-08T15:10:40.300",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:cisco:meraki_mx68w:-:*:*:*:*:*:*:*",
-      "cpeNameId": "1AE064AA-04AE-4179-AB88-0FC929E7EB18"
-    }
-  ]
+	"criteria": "cpe:2.3:h:cisco:meraki_mx68w:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "03F9C184-3811-4A26-846D-54ECE7CF939F",
+	"created": "2021-01-15T16:41:48.593",
+	"lastModified": "2022-07-12T15:45:40.327",
+	"cpeLastModified": "2021-02-08T15:10:40.300",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:cisco:meraki_mx68w:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1AE064AA-04AE-4179-AB88-0FC929E7EB18"
+		}
+	]
 }

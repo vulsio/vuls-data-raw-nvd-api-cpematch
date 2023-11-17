@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:a:arm:bifrost:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "EB7B47A9-86B1-46B5-8F83-6409B6CD895C",
-  "versionStartIncluding": "r16p0-01eac0",
-  "versionEndExcluding": "r30p0-01eac0",
-  "created": "2021-06-03T12:42:45.050",
-  "lastModified": "2021-06-03T12:42:45.050",
-  "cpeLastModified": "2021-06-03T12:45:24.223",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:arm:bifrost:r16p0-01eac0:*:*:*:*:*:*:*",
-      "cpeNameId": "9E5AADB3-07B5-4245-9A61-EDBE90C206ED"
-    },
-    {
-      "cpeName": "cpe:2.3:a:arm:bifrost:r30p0:*:*:*:*:*:*:*",
-      "cpeNameId": "89E726E4-8153-434D-B936-91EAC34EC13E"
-    }
-  ]
+	"criteria": "cpe:2.3:a:arm:bifrost:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "EB7B47A9-86B1-46B5-8F83-6409B6CD895C",
+	"versionStartIncluding": "r16p0-01eac0",
+	"versionEndExcluding": "r30p0-01eac0",
+	"created": "2021-06-03T12:42:45.050",
+	"lastModified": "2021-06-03T12:42:45.050",
+	"cpeLastModified": "2021-06-03T12:45:24.223",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:arm:bifrost:r16p0-01eac0:*:*:*:*:*:*:*",
+			"cpeNameId": "9E5AADB3-07B5-4245-9A61-EDBE90C206ED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:arm:bifrost:r30p0:*:*:*:*:*:*:*",
+			"cpeNameId": "89E726E4-8153-434D-B936-91EAC34EC13E"
+		}
+	]
 }

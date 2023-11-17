@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:ibm:cloud_pak_for_automation:19.0.3:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7CBF76EB-4CFF-4652-81D5-8DDE886993F9",
-  "created": "2020-04-03T16:50:14.073",
-  "lastModified": "2020-04-03T16:50:14.073",
-  "cpeLastModified": "2020-04-14T15:03:04.550",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ibm:cloud_pak_for_automation:19.0.3:*:*:*:*:*:*:*",
-      "cpeNameId": "22B8E165-C05D-49C0-AC3D-309577800A64"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ibm:cloud_pak_for_automation:19.0.3:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7CBF76EB-4CFF-4652-81D5-8DDE886993F9",
+	"created": "2020-04-03T16:50:14.073",
+	"lastModified": "2020-04-03T16:50:14.073",
+	"cpeLastModified": "2020-04-14T15:03:04.550",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ibm:cloud_pak_for_automation:19.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "22B8E165-C05D-49C0-AC3D-309577800A64"
+		}
+	]
 }

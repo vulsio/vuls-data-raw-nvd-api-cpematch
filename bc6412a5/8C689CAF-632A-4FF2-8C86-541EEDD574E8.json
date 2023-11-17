@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:ntp:ntp:4.3.42:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8C689CAF-632A-4FF2-8C86-541EEDD574E8",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ntp:ntp:4.3.42:*:*:*:*:*:*:*",
-      "cpeNameId": "A9E25497-BCD4-4C7F-8D10-6B612DF788ED"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ntp:ntp:4.3.42:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8C689CAF-632A-4FF2-8C86-541EEDD574E8",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ntp:ntp:4.3.42:*:*:*:*:*:*:*",
+			"cpeNameId": "A9E25497-BCD4-4C7F-8D10-6B612DF788ED"
+		}
+	]
 }

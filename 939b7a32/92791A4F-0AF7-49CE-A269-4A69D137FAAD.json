@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:elitedesk_800_g2_dm_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "92791A4F-0AF7-49CE-A269-4A69D137FAAD",
-  "versionEndExcluding": "2.42",
-  "created": "2019-11-07T18:04:39.640",
-  "lastModified": "2019-11-07T18:04:39.640",
-  "cpeLastModified": "2019-12-06T18:46:44.593",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:elitedesk_800_g2_dm_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "6D4BA390-137F-465B-A830-A115A9350375"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:elitedesk_800_g2_dm_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "92791A4F-0AF7-49CE-A269-4A69D137FAAD",
+	"versionEndExcluding": "2.42",
+	"created": "2019-11-07T18:04:39.640",
+	"lastModified": "2019-11-07T18:04:39.640",
+	"cpeLastModified": "2019-12-06T18:46:44.593",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:elitedesk_800_g2_dm_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6D4BA390-137F-465B-A830-A115A9350375"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:lenovo:g70-80:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "01DAC7FE-64E8-473A-BE00-B3D457B402AA",
-  "created": "2020-03-30T12:34:00.540",
-  "lastModified": "2020-03-30T12:34:00.540",
-  "cpeLastModified": "2020-04-02T17:57:21.340",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:lenovo:g70-80:-:*:*:*:*:*:*:*",
-      "cpeNameId": "8056ACB7-ABDF-43FD-81BF-B243EB0C3DE2"
-    }
-  ]
+	"criteria": "cpe:2.3:h:lenovo:g70-80:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "01DAC7FE-64E8-473A-BE00-B3D457B402AA",
+	"created": "2020-03-30T12:34:00.540",
+	"lastModified": "2020-03-30T12:34:00.540",
+	"cpeLastModified": "2020-04-02T17:57:21.340",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:lenovo:g70-80:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8056ACB7-ABDF-43FD-81BF-B243EB0C3DE2"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:ge:vivid_e90_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E5626583-2827-481E-9D08-CF91B72FBB24",
-  "created": "2020-03-03T18:18:15.320",
-  "lastModified": "2020-03-03T18:18:15.320",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:ge:vivid_e90_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "FF007907-1489-4A65-A5E3-BF01F9BBB5A8"
-    }
-  ]
+	"criteria": "cpe:2.3:o:ge:vivid_e90_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E5626583-2827-481E-9D08-CF91B72FBB24",
+	"created": "2020-03-03T18:18:15.320",
+	"lastModified": "2020-03-03T18:18:15.320",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:ge:vivid_e90_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FF007907-1489-4A65-A5E3-BF01F9BBB5A8"
+		}
+	]
 }

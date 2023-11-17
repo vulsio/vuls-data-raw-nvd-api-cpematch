@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hpe:flexnetwork_5130_jg934a_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FACFAE77-19A7-4EAF-A991-2C267E1CA613",
-  "versionEndExcluding": "5130_ei_7.10.r3507p02",
-  "created": "2022-02-08T15:31:34.623",
-  "lastModified": "2022-02-08T15:31:34.623",
-  "cpeLastModified": "2022-02-09T20:22:55.513",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hpe:flexnetwork_5130_jg934a_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "BA9E8902-3C48-4C30-B767-998E84542CD4"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hpe:flexnetwork_5130_jg934a_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FACFAE77-19A7-4EAF-A991-2C267E1CA613",
+	"versionEndExcluding": "5130_ei_7.10.r3507p02",
+	"created": "2022-02-08T15:31:34.623",
+	"lastModified": "2022-02-08T15:31:34.623",
+	"cpeLastModified": "2022-02-09T20:22:55.513",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hpe:flexnetwork_5130_jg934a_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BA9E8902-3C48-4C30-B767-998E84542CD4"
+		}
+	]
 }

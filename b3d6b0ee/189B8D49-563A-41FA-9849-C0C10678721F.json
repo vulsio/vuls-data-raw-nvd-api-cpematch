@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:xeon_gold_6144_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "189B8D49-563A-41FA-9849-C0C10678721F",
-  "created": "2019-11-18T18:50:04.480",
-  "lastModified": "2022-06-03T13:35:15.900",
-  "cpeLastModified": "2020-04-27T20:07:54.617",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:xeon_gold_6144_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "70A8A62B-928D-4A68-9586-579C7D2C154B"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:xeon_gold_6144_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "189B8D49-563A-41FA-9849-C0C10678721F",
+	"created": "2019-11-18T18:50:04.480",
+	"lastModified": "2022-06-03T13:35:15.900",
+	"cpeLastModified": "2020-04-27T20:07:54.617",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:xeon_gold_6144_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "70A8A62B-928D-4A68-9586-579C7D2C154B"
+		}
+	]
 }

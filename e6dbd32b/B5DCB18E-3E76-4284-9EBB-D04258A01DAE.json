@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:huawei:honor_v20_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B5DCB18E-3E76-4284-9EBB-D04258A01DAE",
-  "versionEndExcluding": "9.0.1.161\\(c00e161r2p2\\)",
-  "created": "2019-08-15T14:36:05.640",
-  "lastModified": "2019-08-15T14:36:05.640",
-  "cpeLastModified": "2019-12-06T15:19:29.323",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:huawei:honor_v20_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "F9E0FAF4-6E18-465E-875E-99A424296067"
-    }
-  ]
+	"criteria": "cpe:2.3:o:huawei:honor_v20_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B5DCB18E-3E76-4284-9EBB-D04258A01DAE",
+	"versionEndExcluding": "9.0.1.161\\(c00e161r2p2\\)",
+	"created": "2019-08-15T14:36:05.640",
+	"lastModified": "2019-08-15T14:36:05.640",
+	"cpeLastModified": "2019-12-06T15:19:29.323",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:huawei:honor_v20_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F9E0FAF4-6E18-465E-875E-99A424296067"
+		}
+	]
 }

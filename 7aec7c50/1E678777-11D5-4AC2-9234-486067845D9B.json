@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hpe:proliant_xl190r_gen10_server_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1E678777-11D5-4AC2-9234-486067845D9B",
-  "versionEndExcluding": "2.20",
-  "created": "2019-11-20T17:43:32.690",
-  "lastModified": "2019-11-20T17:43:32.690",
-  "cpeLastModified": "2020-04-27T20:06:46.050",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hpe:proliant_xl190r_gen10_server_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "226E987F-8C1D-40EF-B0B3-4C153FD60318"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hpe:proliant_xl190r_gen10_server_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1E678777-11D5-4AC2-9234-486067845D9B",
+	"versionEndExcluding": "2.20",
+	"created": "2019-11-20T17:43:32.690",
+	"lastModified": "2019-11-20T17:43:32.690",
+	"cpeLastModified": "2020-04-27T20:06:46.050",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hpe:proliant_xl190r_gen10_server_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "226E987F-8C1D-40EF-B0B3-4C153FD60318"
+		}
+	]
 }

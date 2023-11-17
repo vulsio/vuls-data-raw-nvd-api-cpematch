@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:a:vmware:workstation:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0D23900B-C027-44C5-B912-9F7F71C7EBD1",
-  "versionStartIncluding": "7.1",
-  "versionEndExcluding": "7.1.2",
-  "created": "2020-08-07T11:40:49.030",
-  "lastModified": "2020-08-07T11:40:49.030",
-  "cpeLastModified": "2020-08-07T11:40:49.043",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:vmware:workstation:7.1:*:*:*:*:*:*:*",
-      "cpeNameId": "4873C0AD-8DC8-4074-90CB-126C8B48CCE7"
-    },
-    {
-      "cpeName": "cpe:2.3:a:vmware:workstation:7.1.1:*:*:*:*:*:*:*",
-      "cpeNameId": "F0F31787-01FF-4292-8AEA-37CAF0867596"
-    }
-  ]
+	"criteria": "cpe:2.3:a:vmware:workstation:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0D23900B-C027-44C5-B912-9F7F71C7EBD1",
+	"versionStartIncluding": "7.1",
+	"versionEndExcluding": "7.1.2",
+	"created": "2020-08-07T11:40:49.030",
+	"lastModified": "2020-08-07T11:40:49.030",
+	"cpeLastModified": "2020-08-07T11:40:49.043",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:vmware:workstation:7.1:*:*:*:*:*:*:*",
+			"cpeNameId": "4873C0AD-8DC8-4074-90CB-126C8B48CCE7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vmware:workstation:7.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "F0F31787-01FF-4292-8AEA-37CAF0867596"
+		}
+	]
 }

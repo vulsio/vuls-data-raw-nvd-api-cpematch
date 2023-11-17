@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:a:sap:hybris:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0701DC02-A122-47DA-9E39-548F1FD868B8",
-  "versionStartIncluding": "5.1.1",
-  "versionEndIncluding": "5.1.1.2",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-08-26T12:33:35.380",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:sap:hybris:5.1.1:*:*:*:*:*:*:*",
-      "cpeNameId": "95B01EDA-C26D-404B-9643-D43E189E33F8"
-    },
-    {
-      "cpeName": "cpe:2.3:a:sap:hybris:5.1.1.2:*:*:*:*:*:*:*",
-      "cpeNameId": "A584301D-EC59-4D4D-A8AA-806B33E2243B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:sap:hybris:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0701DC02-A122-47DA-9E39-548F1FD868B8",
+	"versionStartIncluding": "5.1.1",
+	"versionEndIncluding": "5.1.1.2",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-08-26T12:33:35.380",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sap:hybris:5.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "95B01EDA-C26D-404B-9643-D43E189E33F8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sap:hybris:5.1.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "A584301D-EC59-4D4D-A8AA-806B33E2243B"
+		}
+	]
 }

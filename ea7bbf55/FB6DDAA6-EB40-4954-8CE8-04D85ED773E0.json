@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:1password:1password:*:*:*:*:*:macos:*:*",
-  "matchCriteriaId": "FB6DDAA6-EB40-4954-8CE8-04D85ED773E0",
-  "versionStartIncluding": "7.7.0",
-  "versionEndExcluding": "7.8.7",
-  "created": "2021-10-06T13:48:38.003",
-  "lastModified": "2021-10-06T13:48:38.003",
-  "cpeLastModified": "2021-10-07T20:40:06.537",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.7.0:*:*:*:*:macos:*:*",
-      "cpeNameId": "0A26E59D-EBCD-46DC-A54C-05AE172272E9"
-    }
-  ]
+	"criteria": "cpe:2.3:a:1password:1password:*:*:*:*:*:macos:*:*",
+	"matchCriteriaId": "FB6DDAA6-EB40-4954-8CE8-04D85ED773E0",
+	"versionStartIncluding": "7.7.0",
+	"versionEndExcluding": "7.8.7",
+	"created": "2021-10-06T13:48:38.003",
+	"lastModified": "2021-10-06T13:48:38.003",
+	"cpeLastModified": "2021-10-07T20:40:06.537",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.7.0:*:*:*:*:macos:*:*",
+			"cpeNameId": "0A26E59D-EBCD-46DC-A54C-05AE172272E9"
+		}
+	]
 }

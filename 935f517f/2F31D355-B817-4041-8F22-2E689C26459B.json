@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:fujifilm:apeos_c325_dw_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "2F31D355-B817-4041-8F22-2E689C26459B",
-  "versionEndExcluding": "202112062053",
-  "created": "2022-03-21T14:26:02.453",
-  "lastModified": "2022-03-21T14:26:02.453",
-  "cpeLastModified": "2022-03-23T15:02:24.853",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:fujifilm:apeos_c325_dw_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "1678DB90-6A1D-438D-9BCB-D48A5DF1CE1B"
-    }
-  ]
+	"criteria": "cpe:2.3:o:fujifilm:apeos_c325_dw_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2F31D355-B817-4041-8F22-2E689C26459B",
+	"versionEndExcluding": "202112062053",
+	"created": "2022-03-21T14:26:02.453",
+	"lastModified": "2022-03-21T14:26:02.453",
+	"cpeLastModified": "2022-03-23T15:02:24.853",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:fujifilm:apeos_c325_dw_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1678DB90-6A1D-438D-9BCB-D48A5DF1CE1B"
+		}
+	]
 }

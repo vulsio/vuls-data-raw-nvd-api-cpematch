@@ -1,28 +1,28 @@
 {
-  "criteria": "cpe:2.3:a:openvpn:openvpn:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "964D0D5A-F643-40FB-A051-E9DC5F859A1C",
-  "versionStartIncluding": "2.5.0",
-  "versionEndExcluding": "2.5.6",
-  "created": "2022-03-29T14:06:14.460",
-  "lastModified": "2022-03-29T14:06:14.460",
-  "cpeLastModified": "2022-03-29T14:50:11.200",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:openvpn:openvpn:2.5.0:*:*:*:*:*:*:*",
-      "cpeNameId": "F7E98D73-99B9-4157-ABDD-D2FAA34167A9"
-    },
-    {
-      "cpeName": "cpe:2.3:a:openvpn:openvpn:2.5.1:*:*:*:*:*:*:*",
-      "cpeNameId": "F1BCBD53-CA10-4BAD-8EC8-3A33C92DB5DA"
-    },
-    {
-      "cpeName": "cpe:2.3:a:openvpn:openvpn:2.5.2:*:*:*:*:*:*:*",
-      "cpeNameId": "6B8F54AE-7B8D-4C69-84FA-36FB116B40B2"
-    },
-    {
-      "cpeName": "cpe:2.3:a:openvpn:openvpn:2.5.3:*:*:*:*:*:*:*",
-      "cpeNameId": "2C6E5D54-7DA2-4687-B11A-2FEA54D182E7"
-    }
-  ]
+	"criteria": "cpe:2.3:a:openvpn:openvpn:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "964D0D5A-F643-40FB-A051-E9DC5F859A1C",
+	"versionStartIncluding": "2.5.0",
+	"versionEndExcluding": "2.5.6",
+	"created": "2022-03-29T14:06:14.460",
+	"lastModified": "2022-03-29T14:06:14.460",
+	"cpeLastModified": "2022-03-29T14:50:11.200",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:openvpn:openvpn:2.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F7E98D73-99B9-4157-ABDD-D2FAA34167A9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openvpn:openvpn:2.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "F1BCBD53-CA10-4BAD-8EC8-3A33C92DB5DA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openvpn:openvpn:2.5.2:*:*:*:*:*:*:*",
+			"cpeNameId": "6B8F54AE-7B8D-4C69-84FA-36FB116B40B2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openvpn:openvpn:2.5.3:*:*:*:*:*:*:*",
+			"cpeNameId": "2C6E5D54-7DA2-4687-B11A-2FEA54D182E7"
+		}
+	]
 }

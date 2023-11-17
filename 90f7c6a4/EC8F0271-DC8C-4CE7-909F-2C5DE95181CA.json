@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:brother:hl-l2361dn_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "EC8F0271-DC8C-4CE7-909F-2C5DE95181CA",
-  "versionEndExcluding": "1.35",
-  "created": "2023-07-21T19:02:50.220",
-  "lastModified": "2023-08-17T15:22:36.013",
-  "cpeLastModified": "2023-08-17T15:22:36.013",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:brother:hl-l2361dn_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "B5EBA5AC-2D73-4B93-8B08-3093CBF37708"
-    }
-  ]
+	"criteria": "cpe:2.3:o:brother:hl-l2361dn_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "EC8F0271-DC8C-4CE7-909F-2C5DE95181CA",
+	"versionEndExcluding": "1.35",
+	"created": "2023-07-21T19:02:50.220",
+	"lastModified": "2023-08-17T15:22:36.013",
+	"cpeLastModified": "2023-08-17T15:22:36.013",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:brother:hl-l2361dn_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B5EBA5AC-2D73-4B93-8B08-3093CBF37708"
+		}
+	]
 }

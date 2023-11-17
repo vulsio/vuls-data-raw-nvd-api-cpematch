@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:huawei:fusioncompute:6.0.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A044DA05-E139-4572-8562-09A4A54E8D0B",
-  "created": "2021-11-26T15:51:20.230",
-  "lastModified": "2021-11-26T15:51:20.230",
-  "cpeLastModified": "2021-11-26T15:56:37.003",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:huawei:fusioncompute:6.0.0:*:*:*:*:*:*:*",
-      "cpeNameId": "3C7A4573-580E-44AE-AB82-F0E57BFF5D10"
-    }
-  ]
+	"criteria": "cpe:2.3:a:huawei:fusioncompute:6.0.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A044DA05-E139-4572-8562-09A4A54E8D0B",
+	"created": "2021-11-26T15:51:20.230",
+	"lastModified": "2021-11-26T15:51:20.230",
+	"cpeLastModified": "2021-11-26T15:56:37.003",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:huawei:fusioncompute:6.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "3C7A4573-580E-44AE-AB82-F0E57BFF5D10"
+		}
+	]
 }

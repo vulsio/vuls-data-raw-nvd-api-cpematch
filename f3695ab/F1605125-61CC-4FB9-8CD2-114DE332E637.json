@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:o:cisco:meraki_mx68_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F1605125-61CC-4FB9-8CD2-114DE332E637",
-  "versionStartIncluding": "16.2.0",
-  "versionEndExcluding": "16.16.6",
-  "created": "2022-10-31T13:54:25.610",
-  "lastModified": "2022-10-31T13:54:25.610",
-  "cpeLastModified": "2022-10-31T14:17:58.057",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:meraki_mx68_firmware:16.2.0:*:*:*:*:*:*:*",
-      "cpeNameId": "528C991C-CC0E-45F9-93DE-AFD8F1BB12CC"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:meraki_mx68_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F1605125-61CC-4FB9-8CD2-114DE332E637",
+	"versionStartIncluding": "16.2.0",
+	"versionEndExcluding": "16.16.6",
+	"created": "2022-10-31T13:54:25.610",
+	"lastModified": "2022-10-31T13:54:25.610",
+	"cpeLastModified": "2022-10-31T14:17:58.057",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:meraki_mx68_firmware:16.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "528C991C-CC0E-45F9-93DE-AFD8F1BB12CC"
+		}
+	]
 }

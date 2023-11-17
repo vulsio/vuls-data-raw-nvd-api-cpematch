@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lexmark:m5163de_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B088466C-7577-4A55-B5E3-C62A65E217BB",
-  "versionEndExcluding": "lw80.dn4.p210",
-  "created": "2022-01-26T15:27:58.597",
-  "lastModified": "2022-01-26T15:27:58.597",
-  "cpeLastModified": "2022-01-27T15:31:13.463",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lexmark:m5163de_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "46B4F5DB-2215-42C8-86FC-9377CEB4138D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lexmark:m5163de_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B088466C-7577-4A55-B5E3-C62A65E217BB",
+	"versionEndExcluding": "lw80.dn4.p210",
+	"created": "2022-01-26T15:27:58.597",
+	"lastModified": "2022-01-26T15:27:58.597",
+	"cpeLastModified": "2022-01-27T15:31:13.463",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lexmark:m5163de_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "46B4F5DB-2215-42C8-86FC-9377CEB4138D"
+		}
+	]
 }

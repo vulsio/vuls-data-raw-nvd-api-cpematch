@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:ingeteam:ingepac_da_au_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "69843CF9-1FDA-4003-9D98-B07D4A10500D",
-  "versionEndIncluding": "auc_1.13.0.28",
-  "created": "2021-10-27T18:00:29.307",
-  "lastModified": "2021-10-27T18:00:29.307",
-  "cpeLastModified": "2021-10-28T20:01:37.200",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:ingeteam:ingepac_da_au_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "CD673BC7-99BD-43DB-8FBE-15E5E4250551"
-    },
-    {
-      "cpeName": "cpe:2.3:o:ingeteam:ingepac_da_au_firmware:auc_1.13.0.28:*:*:*:*:*:*:*",
-      "cpeNameId": "A231280B-C057-4F0F-9773-171698D32681"
-    }
-  ]
+	"criteria": "cpe:2.3:o:ingeteam:ingepac_da_au_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "69843CF9-1FDA-4003-9D98-B07D4A10500D",
+	"versionEndIncluding": "auc_1.13.0.28",
+	"created": "2021-10-27T18:00:29.307",
+	"lastModified": "2021-10-27T18:00:29.307",
+	"cpeLastModified": "2021-10-28T20:01:37.200",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:ingeteam:ingepac_da_au_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CD673BC7-99BD-43DB-8FBE-15E5E4250551"
+		},
+		{
+			"cpeName": "cpe:2.3:o:ingeteam:ingepac_da_au_firmware:auc_1.13.0.28:*:*:*:*:*:*:*",
+			"cpeNameId": "A231280B-C057-4F0F-9773-171698D32681"
+		}
+	]
 }

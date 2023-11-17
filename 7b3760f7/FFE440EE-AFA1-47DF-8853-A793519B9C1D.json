@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lexmark:cs510_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FFE440EE-AFA1-47DF-8853-A793519B9C1D",
-  "versionEndExcluding": "lw80.vy4.p210",
-  "created": "2022-01-26T15:28:24.923",
-  "lastModified": "2022-01-26T15:28:24.923",
-  "cpeLastModified": "2022-01-27T15:31:13.463",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lexmark:cs510_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "0D6A93CF-3D02-4639-AA81-5214D0069BFB"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lexmark:cs510_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FFE440EE-AFA1-47DF-8853-A793519B9C1D",
+	"versionEndExcluding": "lw80.vy4.p210",
+	"created": "2022-01-26T15:28:24.923",
+	"lastModified": "2022-01-26T15:28:24.923",
+	"cpeLastModified": "2022-01-27T15:31:13.463",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lexmark:cs510_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0D6A93CF-3D02-4639-AA81-5214D0069BFB"
+		}
+	]
 }

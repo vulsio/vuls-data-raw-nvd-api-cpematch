@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:watchguard:panda_antivirus:*:*:*:*:free:*:*:*",
-  "matchCriteriaId": "28CF52D1-A578-40E8-9505-C11845D88CD6",
-  "versionEndExcluding": "20.02.00",
-  "created": "2022-01-20T17:34:29.893",
-  "lastModified": "2022-01-20T17:34:29.893",
-  "cpeLastModified": "2022-01-20T18:30:35.367",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:watchguard:panda_antivirus:18.0:*:*:*:free:*:*:*",
-      "cpeNameId": "3E414D85-1183-4876-A5BA-B3CC1ACC830E"
-    }
-  ]
+	"criteria": "cpe:2.3:a:watchguard:panda_antivirus:*:*:*:*:free:*:*:*",
+	"matchCriteriaId": "28CF52D1-A578-40E8-9505-C11845D88CD6",
+	"versionEndExcluding": "20.02.00",
+	"created": "2022-01-20T17:34:29.893",
+	"lastModified": "2022-01-20T17:34:29.893",
+	"cpeLastModified": "2022-01-20T18:30:35.367",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:watchguard:panda_antivirus:18.0:*:*:*:free:*:*:*",
+			"cpeNameId": "3E414D85-1183-4876-A5BA-B3CC1ACC830E"
+		}
+	]
 }

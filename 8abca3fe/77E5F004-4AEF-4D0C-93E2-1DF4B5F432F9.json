@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:openbsd:libressl:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "77E5F004-4AEF-4D0C-93E2-1DF4B5F432F9",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:openbsd:libressl:-:*:*:*:*:*:*:*",
-      "cpeNameId": "340BA05F-C260-4074-8587-F84AC2F96948"
-    }
-  ]
+	"criteria": "cpe:2.3:a:openbsd:libressl:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "77E5F004-4AEF-4D0C-93E2-1DF4B5F432F9",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:openbsd:libressl:-:*:*:*:*:*:*:*",
+			"cpeNameId": "340BA05F-C260-4074-8587-F84AC2F96948"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:osgeo:mapserver:5.2.0:rc1:*:*:*:*:*:*",
-  "matchCriteriaId": "D9030BE8-663A-4F46-B255-0AEBFD790DFD",
-  "created": "2021-06-01T13:56:57.987",
-  "lastModified": "2021-06-01T13:56:57.987",
-  "cpeLastModified": "2021-06-01T13:56:57.987",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:osgeo:mapserver:5.2.0:rc1:*:*:*:*:*:*",
-      "cpeNameId": "8DDC16BC-E9F2-47C1-AD20-912951275734"
-    }
-  ]
+	"criteria": "cpe:2.3:a:osgeo:mapserver:5.2.0:rc1:*:*:*:*:*:*",
+	"matchCriteriaId": "D9030BE8-663A-4F46-B255-0AEBFD790DFD",
+	"created": "2021-06-01T13:56:57.987",
+	"lastModified": "2021-06-01T13:56:57.987",
+	"cpeLastModified": "2021-06-01T13:56:57.987",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:osgeo:mapserver:5.2.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "8DDC16BC-E9F2-47C1-AD20-912951275734"
+		}
+	]
 }

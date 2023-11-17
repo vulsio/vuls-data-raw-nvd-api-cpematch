@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:netgear:wnr2050_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "2C4DA2EE-628D-4F25-9B7E-0F77762139B0",
-  "versionEndExcluding": "1.1.0.42",
-  "created": "2020-04-23T13:57:17.340",
-  "lastModified": "2020-04-23T13:57:17.340",
-  "cpeLastModified": "2020-04-28T13:32:45.443",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:netgear:wnr2050_firmware:1.1.0.40:*:*:*:*:*:*:*",
-      "cpeNameId": "7881EEF1-54C6-40DC-9390-35486DCB317B"
-    }
-  ]
+	"criteria": "cpe:2.3:o:netgear:wnr2050_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2C4DA2EE-628D-4F25-9B7E-0F77762139B0",
+	"versionEndExcluding": "1.1.0.42",
+	"created": "2020-04-23T13:57:17.340",
+	"lastModified": "2020-04-23T13:57:17.340",
+	"cpeLastModified": "2020-04-28T13:32:45.443",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netgear:wnr2050_firmware:1.1.0.40:*:*:*:*:*:*:*",
+			"cpeNameId": "7881EEF1-54C6-40DC-9390-35486DCB317B"
+		}
+	]
 }

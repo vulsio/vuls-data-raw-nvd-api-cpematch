@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:o:fujitsu:m10-4s_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "04F93A4F-97A9-4B32-A460-86B5EBCEB263",
-  "versionStartIncluding": "xcp",
-  "versionEndExcluding": "xcp2280",
-  "created": "2020-11-23T16:24:58.943",
-  "lastModified": "2020-11-23T16:24:58.943",
-  "cpeLastModified": "2020-12-04T21:00:26.260",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:fujitsu:m10-4s_firmware:xcp:*:*:*:*:*:*:*",
-      "cpeNameId": "34B30D12-B6A3-4E41-9F49-F6D319CDA765"
-    }
-  ]
+	"criteria": "cpe:2.3:o:fujitsu:m10-4s_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "04F93A4F-97A9-4B32-A460-86B5EBCEB263",
+	"versionStartIncluding": "xcp",
+	"versionEndExcluding": "xcp2280",
+	"created": "2020-11-23T16:24:58.943",
+	"lastModified": "2020-11-23T16:24:58.943",
+	"cpeLastModified": "2020-12-04T21:00:26.260",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:fujitsu:m10-4s_firmware:xcp:*:*:*:*:*:*:*",
+			"cpeNameId": "34B30D12-B6A3-4E41-9F49-F6D319CDA765"
+		}
+	]
 }

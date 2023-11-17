@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:gallagher:command_centre:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0F5D71D9-ECE3-49AB-BE6E-62390C018B6F",
-  "versionEndExcluding": "7.80",
-  "created": "2020-01-27T14:56:23.533",
-  "lastModified": "2020-01-27T14:56:23.533",
-  "cpeLastModified": "2020-02-03T20:51:44.510",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:gallagher:command_centre:-:*:*:*:*:*:*:*",
-      "cpeNameId": "65AFC5CD-BB3B-4352-83FC-60BFBAB65609"
-    },
-    {
-      "cpeName": "cpe:2.3:a:gallagher:command_centre:7.70:*:*:*:*:*:*:*",
-      "cpeNameId": "B942A98D-F023-4799-88EE-DC10511F9FFD"
-    }
-  ]
+	"criteria": "cpe:2.3:a:gallagher:command_centre:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0F5D71D9-ECE3-49AB-BE6E-62390C018B6F",
+	"versionEndExcluding": "7.80",
+	"created": "2020-01-27T14:56:23.533",
+	"lastModified": "2020-01-27T14:56:23.533",
+	"cpeLastModified": "2020-02-03T20:51:44.510",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:gallagher:command_centre:-:*:*:*:*:*:*:*",
+			"cpeNameId": "65AFC5CD-BB3B-4352-83FC-60BFBAB65609"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gallagher:command_centre:7.70:*:*:*:*:*:*:*",
+			"cpeNameId": "B942A98D-F023-4799-88EE-DC10511F9FFD"
+		}
+	]
 }

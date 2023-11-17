@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:pingidentity:pingfederate:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "EC079534-00BB-4965-88F1-D8FDF79FF35C",
-  "versionStartIncluding": "10.3.0",
-  "versionEndExcluding": "10.3.4",
-  "created": "2022-05-09T17:53:35.820",
-  "lastModified": "2022-05-09T17:53:35.820",
-  "cpeLastModified": "2022-05-13T16:24:25.260",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:pingidentity:pingfederate:10.3.0:*:*:*:*:*:*:*",
-      "cpeNameId": "E097E97B-AFBE-41AA-80C6-3EEF326B923A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:pingidentity:pingfederate:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "EC079534-00BB-4965-88F1-D8FDF79FF35C",
+	"versionStartIncluding": "10.3.0",
+	"versionEndExcluding": "10.3.4",
+	"created": "2022-05-09T17:53:35.820",
+	"lastModified": "2022-05-09T17:53:35.820",
+	"cpeLastModified": "2022-05-13T16:24:25.260",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:pingidentity:pingfederate:10.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E097E97B-AFBE-41AA-80C6-3EEF326B923A"
+		}
+	]
 }

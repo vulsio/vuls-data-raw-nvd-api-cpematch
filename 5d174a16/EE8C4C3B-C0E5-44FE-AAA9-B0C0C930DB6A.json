@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:progress:sitefinity:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "EE8C4C3B-C0E5-44FE-AAA9-B0C0C930DB6A",
-  "versionStartIncluding": "10.0",
-  "versionEndExcluding": "10.0.6429",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-30T17:54:18.773",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:progress:sitefinity:10.0:*:*:*:*:*:*:*",
-      "cpeNameId": "29EF1BFB-068F-48E3-A63F-702AD2BC9852"
-    }
-  ]
+	"criteria": "cpe:2.3:a:progress:sitefinity:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "EE8C4C3B-C0E5-44FE-AAA9-B0C0C930DB6A",
+	"versionStartIncluding": "10.0",
+	"versionEndExcluding": "10.0.6429",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-30T17:54:18.773",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:progress:sitefinity:10.0:*:*:*:*:*:*:*",
+			"cpeNameId": "29EF1BFB-068F-48E3-A63F-702AD2BC9852"
+		}
+	]
 }

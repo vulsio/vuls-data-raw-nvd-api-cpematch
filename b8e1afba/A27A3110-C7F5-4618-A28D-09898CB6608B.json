@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:enalean:tuleap:*:*:*:*:enterprise:*:*:*",
-  "matchCriteriaId": "A27A3110-C7F5-4618-A28D-09898CB6608B",
-  "versionStartIncluding": "11.15-1",
-  "versionEndExcluding": "11.15-8",
-  "created": "2021-10-18T15:39:44.977",
-  "lastModified": "2021-10-18T15:39:44.977",
-  "cpeLastModified": "2021-10-21T14:57:50.490",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:enalean:tuleap:11.15-1:*:*:*:enterprise:*:*:*",
-      "cpeNameId": "10964F41-81D9-414B-B050-F02BEAE86DDD"
-    }
-  ]
+	"criteria": "cpe:2.3:a:enalean:tuleap:*:*:*:*:enterprise:*:*:*",
+	"matchCriteriaId": "A27A3110-C7F5-4618-A28D-09898CB6608B",
+	"versionStartIncluding": "11.15-1",
+	"versionEndExcluding": "11.15-8",
+	"created": "2021-10-18T15:39:44.977",
+	"lastModified": "2021-10-18T15:39:44.977",
+	"cpeLastModified": "2021-10-21T14:57:50.490",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:enalean:tuleap:11.15-1:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "10964F41-81D9-414B-B050-F02BEAE86DDD"
+		}
+	]
 }

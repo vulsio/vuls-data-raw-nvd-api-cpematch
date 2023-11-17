@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:omron:cj2h-cpu64-eip_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "009162A7-2E76-411E-BBE8-86FFB6B4502B",
-  "versionEndIncluding": "3.04",
-  "created": "2023-08-09T13:51:29.750",
-  "lastModified": "2023-08-09T14:02:07.483",
-  "cpeLastModified": "2023-08-09T14:02:07.483",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:omron:cj2h-cpu64-eip_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "AFEE9B5E-77A8-48A2-A8B1-4157FB2AAB38"
-    },
-    {
-      "cpeName": "cpe:2.3:o:omron:cj2h-cpu64-eip_firmware:3.04:*:*:*:*:*:*:*",
-      "cpeNameId": "857A3C7D-03F5-4668-8F97-E3CE3BCE6F81"
-    }
-  ]
+	"criteria": "cpe:2.3:o:omron:cj2h-cpu64-eip_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "009162A7-2E76-411E-BBE8-86FFB6B4502B",
+	"versionEndIncluding": "3.04",
+	"created": "2023-08-09T13:51:29.750",
+	"lastModified": "2023-08-09T14:02:07.483",
+	"cpeLastModified": "2023-08-09T14:02:07.483",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:omron:cj2h-cpu64-eip_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "AFEE9B5E-77A8-48A2-A8B1-4157FB2AAB38"
+		},
+		{
+			"cpeName": "cpe:2.3:o:omron:cj2h-cpu64-eip_firmware:3.04:*:*:*:*:*:*:*",
+			"cpeNameId": "857A3C7D-03F5-4668-8F97-E3CE3BCE6F81"
+		}
+	]
 }

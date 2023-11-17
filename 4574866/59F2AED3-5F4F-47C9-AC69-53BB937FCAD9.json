@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:intel:extreme_tuning_utility:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "59F2AED3-5F4F-47C9-AC69-53BB937FCAD9",
-  "versionEndExcluding": "6.5.1.360",
-  "created": "2020-11-18T14:24:52.823",
-  "lastModified": "2020-11-18T14:24:52.823",
-  "cpeLastModified": "2020-11-18T14:24:52.840",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:intel:extreme_tuning_utility:6.4.1.21:*:*:*:*:*:*:*",
-      "cpeNameId": "A05E3BE5-9C32-4B32-A8AA-2FB83A4602D4"
-    }
-  ]
+	"criteria": "cpe:2.3:a:intel:extreme_tuning_utility:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "59F2AED3-5F4F-47C9-AC69-53BB937FCAD9",
+	"versionEndExcluding": "6.5.1.360",
+	"created": "2020-11-18T14:24:52.823",
+	"lastModified": "2020-11-18T14:24:52.823",
+	"cpeLastModified": "2020-11-18T14:24:52.840",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:intel:extreme_tuning_utility:6.4.1.21:*:*:*:*:*:*:*",
+			"cpeNameId": "A05E3BE5-9C32-4B32-A8AA-2FB83A4602D4"
+		}
+	]
 }

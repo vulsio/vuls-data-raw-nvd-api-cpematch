@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:netapp:e-series_santricity_web_services:*:*:*:*:*:web_services_proxy:*:*",
-  "matchCriteriaId": "FCB4EAC3-3114-43DF-89DA-879C7C578FB4",
-  "versionEndExcluding": "5.1",
-  "created": "2022-03-23T17:59:48.280",
-  "lastModified": "2022-03-23T17:59:48.280",
-  "cpeLastModified": "2022-04-12T18:41:57.473",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:netapp:e-series_santricity_web_services:-:*:*:*:*:web_services_proxy:*:*",
-      "cpeNameId": "AFDD0DFE-F924-42AF-B79D-C3D25B684515"
-    }
-  ]
+	"criteria": "cpe:2.3:a:netapp:e-series_santricity_web_services:*:*:*:*:*:web_services_proxy:*:*",
+	"matchCriteriaId": "FCB4EAC3-3114-43DF-89DA-879C7C578FB4",
+	"versionEndExcluding": "5.1",
+	"created": "2022-03-23T17:59:48.280",
+	"lastModified": "2022-03-23T17:59:48.280",
+	"cpeLastModified": "2022-04-12T18:41:57.473",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:netapp:e-series_santricity_web_services:-:*:*:*:*:web_services_proxy:*:*",
+			"cpeNameId": "AFDD0DFE-F924-42AF-B79D-C3D25B684515"
+		}
+	]
 }

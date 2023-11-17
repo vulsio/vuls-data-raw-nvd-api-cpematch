@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:eset:nod32:-:11224:*:*:*:*:*:*",
-  "matchCriteriaId": "E0A7E3F6-CA03-457B-A00C-C1580BD20565",
-  "created": "2023-04-20T17:40:56.410",
-  "lastModified": "2023-04-25T12:12:03.593",
-  "cpeLastModified": "2023-04-25T12:12:03.593",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:eset:nod32:-:11224:*:*:*:*:*:*",
-      "cpeNameId": "C177BC50-4B64-4E78-AF42-97762217796D"
-    }
-  ]
+	"criteria": "cpe:2.3:a:eset:nod32:-:11224:*:*:*:*:*:*",
+	"matchCriteriaId": "E0A7E3F6-CA03-457B-A00C-C1580BD20565",
+	"created": "2023-04-20T17:40:56.410",
+	"lastModified": "2023-04-25T12:12:03.593",
+	"cpeLastModified": "2023-04-25T12:12:03.593",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:eset:nod32:-:11224:*:*:*:*:*:*",
+			"cpeNameId": "C177BC50-4B64-4E78-AF42-97762217796D"
+		}
+	]
 }

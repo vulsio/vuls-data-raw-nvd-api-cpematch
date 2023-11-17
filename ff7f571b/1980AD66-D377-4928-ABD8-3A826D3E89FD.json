@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:xeon_5110_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1980AD66-D377-4928-ABD8-3A826D3E89FD",
-  "created": "2019-11-18T16:37:30.860",
-  "lastModified": "2019-11-18T16:37:30.860",
-  "cpeLastModified": "2020-03-23T18:00:04.927",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:xeon_5110_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "8821A616-C49B-47BA-817E-FEAF97B39C74"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:xeon_5110_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1980AD66-D377-4928-ABD8-3A826D3E89FD",
+	"created": "2019-11-18T16:37:30.860",
+	"lastModified": "2019-11-18T16:37:30.860",
+	"cpeLastModified": "2020-03-23T18:00:04.927",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:xeon_5110_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8821A616-C49B-47BA-817E-FEAF97B39C74"
+		}
+	]
 }

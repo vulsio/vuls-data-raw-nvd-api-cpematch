@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:amd:ryzen_threadripper_pro_3995wx_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E5269FF7-5220-4707-9642-138D59438AC1",
-  "versionEndExcluding": "castlepeakwspi-swrx8_1.0.0.9",
-  "created": "2022-05-31T07:09:34.273",
-  "lastModified": "2023-07-14T15:48:43.780",
-  "cpeLastModified": "2022-03-03T16:16:03.140",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:amd:ryzen_threadripper_pro_3995wx_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "9B75E2BE-B4F3-413A-8BF0-8FE0C104B418"
-    }
-  ]
+	"criteria": "cpe:2.3:o:amd:ryzen_threadripper_pro_3995wx_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E5269FF7-5220-4707-9642-138D59438AC1",
+	"versionEndExcluding": "castlepeakwspi-swrx8_1.0.0.9",
+	"created": "2022-05-31T07:09:34.273",
+	"lastModified": "2023-07-14T15:48:43.780",
+	"cpeLastModified": "2022-03-03T16:16:03.140",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_threadripper_pro_3995wx_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9B75E2BE-B4F3-413A-8BF0-8FE0C104B418"
+		}
+	]
 }

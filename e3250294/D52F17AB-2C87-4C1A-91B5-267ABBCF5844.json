@@ -1,26 +1,26 @@
 {
-  "criteria": "cpe:2.3:a:microsoft:outlook:2000:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D52F17AB-2C87-4C1A-91B5-267ABBCF5844",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:microsoft:outlook:2000:*:*:*:*:*:*:*",
-      "cpeNameId": "DEF4DC1A-124E-49E0-A040-19EC6444EFBD"
-    },
-    {
-      "cpeName": "cpe:2.3:a:microsoft:outlook:2000:sp2:*:*:*:*:*:*",
-      "cpeNameId": "83489678-5E14-4F10-AF8C-7246C2AEBFD2"
-    },
-    {
-      "cpeName": "cpe:2.3:a:microsoft:outlook:2000:sp3:*:*:*:*:*:*",
-      "cpeNameId": "EF69CC8D-3F80-4DB9-A966-AAC6CD31D3E3"
-    },
-    {
-      "cpeName": "cpe:2.3:a:microsoft:outlook:2000:sr1:*:*:*:*:*:*",
-      "cpeNameId": "E044A204-7C42-4059-A61D-6D6A884D6CF8"
-    }
-  ]
+	"criteria": "cpe:2.3:a:microsoft:outlook:2000:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D52F17AB-2C87-4C1A-91B5-267ABBCF5844",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:outlook:2000:*:*:*:*:*:*:*",
+			"cpeNameId": "DEF4DC1A-124E-49E0-A040-19EC6444EFBD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:outlook:2000:sp2:*:*:*:*:*:*",
+			"cpeNameId": "83489678-5E14-4F10-AF8C-7246C2AEBFD2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:outlook:2000:sp3:*:*:*:*:*:*",
+			"cpeNameId": "EF69CC8D-3F80-4DB9-A966-AAC6CD31D3E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:outlook:2000:sr1:*:*:*:*:*:*",
+			"cpeNameId": "E044A204-7C42-4059-A61D-6D6A884D6CF8"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:netgear:plw1010_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5FA6EEC0-E95B-47F0-85AE-46DB9D72BE1A",
-  "versionEndExcluding": "2017-01-11",
-  "created": "2020-05-01T11:53:04.860",
-  "lastModified": "2020-05-01T11:53:04.860",
-  "cpeLastModified": "2020-05-01T11:53:04.890",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:netgear:plw1010_firmware:1.0.0.14:*:*:*:*:*:*:*",
-      "cpeNameId": "A7A95A92-14D3-4508-9D53-816B792EAB3F"
-    }
-  ]
+	"criteria": "cpe:2.3:o:netgear:plw1010_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5FA6EEC0-E95B-47F0-85AE-46DB9D72BE1A",
+	"versionEndExcluding": "2017-01-11",
+	"created": "2020-05-01T11:53:04.860",
+	"lastModified": "2020-05-01T11:53:04.860",
+	"cpeLastModified": "2020-05-01T11:53:04.890",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netgear:plw1010_firmware:1.0.0.14:*:*:*:*:*:*:*",
+			"cpeNameId": "A7A95A92-14D3-4508-9D53-816B792EAB3F"
+		}
+	]
 }

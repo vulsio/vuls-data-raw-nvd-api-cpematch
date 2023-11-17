@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:suse:suse_linux_enterprise_server:10:sp4:*:*:ltss:*:*:*",
-  "matchCriteriaId": "61853C27-E1A3-49BC-993D-6B32802F668F",
-  "created": "2020-07-31T13:58:54.280",
-  "lastModified": "2020-07-31T13:58:54.280",
-  "cpeLastModified": "2020-11-03T23:42:29.727",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:suse:suse_linux_enterprise_server:10:sp4:*:*:ltss:*:*:*",
-      "cpeNameId": "FF87D029-F8EF-49E4-A316-85CBEEF9FBBA"
-    }
-  ]
+	"criteria": "cpe:2.3:o:suse:suse_linux_enterprise_server:10:sp4:*:*:ltss:*:*:*",
+	"matchCriteriaId": "61853C27-E1A3-49BC-993D-6B32802F668F",
+	"created": "2020-07-31T13:58:54.280",
+	"lastModified": "2020-07-31T13:58:54.280",
+	"cpeLastModified": "2020-11-03T23:42:29.727",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:suse:suse_linux_enterprise_server:10:sp4:*:*:ltss:*:*:*",
+			"cpeNameId": "FF87D029-F8EF-49E4-A316-85CBEEF9FBBA"
+		}
+	]
 }

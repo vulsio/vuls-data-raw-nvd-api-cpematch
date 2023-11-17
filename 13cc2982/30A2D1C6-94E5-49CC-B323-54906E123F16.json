@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:fujitsu:ipcom_ex2_lb_3200_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "30A2D1C6-94E5-49CC-B323-54906E123F16",
-  "versionEndExcluding": "v01l05_nf0501",
-  "created": "2022-05-31T14:40:26.680",
-  "lastModified": "2022-05-31T14:40:26.680",
-  "cpeLastModified": "2022-05-31T15:26:07.483",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:fujitsu:ipcom_ex2_lb_3200_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "D0A91F33-8669-43D5-8CE5-6BD7D0D805C5"
-    }
-  ]
+	"criteria": "cpe:2.3:o:fujitsu:ipcom_ex2_lb_3200_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "30A2D1C6-94E5-49CC-B323-54906E123F16",
+	"versionEndExcluding": "v01l05_nf0501",
+	"created": "2022-05-31T14:40:26.680",
+	"lastModified": "2022-05-31T14:40:26.680",
+	"cpeLastModified": "2022-05-31T15:26:07.483",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:fujitsu:ipcom_ex2_lb_3200_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D0A91F33-8669-43D5-8CE5-6BD7D0D805C5"
+		}
+	]
 }

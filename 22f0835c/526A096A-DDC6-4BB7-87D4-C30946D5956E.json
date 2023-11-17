@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:themerex:aldo-gutenberg_wordpress_blog_theme:*:*:*:*:*:wordpress:*:*",
-  "matchCriteriaId": "526A096A-DDC6-4BB7-87D4-C30946D5956E",
-  "versionEndExcluding": "1.0.2",
-  "created": "2020-03-10T14:16:23.900",
-  "lastModified": "2020-03-10T14:16:23.900",
-  "cpeLastModified": "2020-09-23T13:34:32.400",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:themerex:aldo-gutenberg_wordpress_blog_theme:-:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "6DC3B4C3-8133-4CBD-8119-7E77B6655BCC"
-    }
-  ]
+	"criteria": "cpe:2.3:a:themerex:aldo-gutenberg_wordpress_blog_theme:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "526A096A-DDC6-4BB7-87D4-C30946D5956E",
+	"versionEndExcluding": "1.0.2",
+	"created": "2020-03-10T14:16:23.900",
+	"lastModified": "2020-03-10T14:16:23.900",
+	"cpeLastModified": "2020-09-23T13:34:32.400",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:themerex:aldo-gutenberg_wordpress_blog_theme:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6DC3B4C3-8133-4CBD-8119-7E77B6655BCC"
+		}
+	]
 }

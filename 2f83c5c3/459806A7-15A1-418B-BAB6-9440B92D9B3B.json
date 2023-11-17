@@ -1,24 +1,24 @@
 {
-  "criteria": "cpe:2.3:a:ibm:spectrum_scale:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "459806A7-15A1-418B-BAB6-9440B92D9B3B",
-  "versionStartIncluding": "5.1.3.0",
-  "versionEndIncluding": "5.1.5.1",
-  "created": "2023-02-16T15:55:07.100",
-  "lastModified": "2023-02-28T21:49:11.750",
-  "cpeLastModified": "2023-02-28T21:49:11.750",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ibm:spectrum_scale:5.1.3.0:*:*:*:*:*:*:*",
-      "cpeNameId": "7B9C4907-603A-4B9B-9645-119E08F69EF6"
-    },
-    {
-      "cpeName": "cpe:2.3:a:ibm:spectrum_scale:5.1.3.1:*:*:*:*:*:*:*",
-      "cpeNameId": "9983F292-9734-4BEF-B037-254A86CB6896"
-    },
-    {
-      "cpeName": "cpe:2.3:a:ibm:spectrum_scale:5.1.5.1:*:*:*:*:*:*:*",
-      "cpeNameId": "3F75C000-A097-4A5A-8D4B-5314572CCFF8"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ibm:spectrum_scale:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "459806A7-15A1-418B-BAB6-9440B92D9B3B",
+	"versionStartIncluding": "5.1.3.0",
+	"versionEndIncluding": "5.1.5.1",
+	"created": "2023-02-16T15:55:07.100",
+	"lastModified": "2023-02-28T21:49:11.750",
+	"cpeLastModified": "2023-02-28T21:49:11.750",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ibm:spectrum_scale:5.1.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "7B9C4907-603A-4B9B-9645-119E08F69EF6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:spectrum_scale:5.1.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "9983F292-9734-4BEF-B037-254A86CB6896"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:spectrum_scale:5.1.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "3F75C000-A097-4A5A-8D4B-5314572CCFF8"
+		}
+	]
 }

@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:python:python:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6F4E7FBF-9F90-4957-A43B-45B67B3330FB",
-  "versionStartIncluding": "3.8.0a4",
-  "versionEndIncluding": "3.8.0b1",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T19:02:16.777",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:python:python:3.8.0b1:*:*:*:*:*:*:*",
-      "cpeNameId": "CF165DF3-F5C1-4E95-9445-2041E0DDB54C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:python:python:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6F4E7FBF-9F90-4957-A43B-45B67B3330FB",
+	"versionStartIncluding": "3.8.0a4",
+	"versionEndIncluding": "3.8.0b1",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T19:02:16.777",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:python:python:3.8.0b1:*:*:*:*:*:*:*",
+			"cpeNameId": "CF165DF3-F5C1-4E95-9445-2041E0DDB54C"
+		}
+	]
 }

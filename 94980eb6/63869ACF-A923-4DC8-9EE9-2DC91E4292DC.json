@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:officejet_pro_6960_t0g25a_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "63869ACF-A923-4DC8-9EE9-2DC91E4292DC",
-  "versionEndExcluding": "40.11.1150",
-  "created": "2021-11-12T11:55:08.943",
-  "lastModified": "2021-11-12T11:55:08.943",
-  "cpeLastModified": "2021-11-15T15:21:02.643",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:officejet_pro_6960_t0g25a_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "56F565F4-B17D-47DC-8AE9-C264295CEDCD"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:officejet_pro_6960_t0g25a_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "63869ACF-A923-4DC8-9EE9-2DC91E4292DC",
+	"versionEndExcluding": "40.11.1150",
+	"created": "2021-11-12T11:55:08.943",
+	"lastModified": "2021-11-12T11:55:08.943",
+	"cpeLastModified": "2021-11-15T15:21:02.643",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:officejet_pro_6960_t0g25a_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "56F565F4-B17D-47DC-8AE9-C264295CEDCD"
+		}
+	]
 }

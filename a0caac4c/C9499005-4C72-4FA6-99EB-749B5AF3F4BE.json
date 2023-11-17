@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:tongda2000:tongda_oa:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C9499005-4C72-4FA6-99EB-749B5AF3F4BE",
-  "versionEndIncluding": "11.10",
-  "created": "2023-09-19T16:28:58.863",
-  "lastModified": "2023-09-19T16:28:58.863",
-  "cpeLastModified": "2023-09-19T16:28:58.863",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:tongda2000:tongda_oa:11.10:*:*:*:*:*:*:*",
-      "cpeNameId": "45DAAFA4-0D02-4762-A409-8188C3766C5F"
-    }
-  ]
+	"criteria": "cpe:2.3:a:tongda2000:tongda_oa:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C9499005-4C72-4FA6-99EB-749B5AF3F4BE",
+	"versionEndIncluding": "11.10",
+	"created": "2023-09-19T16:28:58.863",
+	"lastModified": "2023-09-19T16:28:58.863",
+	"cpeLastModified": "2023-09-19T16:28:58.863",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:tongda2000:tongda_oa:11.10:*:*:*:*:*:*:*",
+			"cpeNameId": "45DAAFA4-0D02-4762-A409-8188C3766C5F"
+		}
+	]
 }

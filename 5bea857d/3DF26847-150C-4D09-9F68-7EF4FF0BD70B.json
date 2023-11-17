@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:inspiron_14_5418_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "3DF26847-150C-4D09-9F68-7EF4FF0BD70B",
-  "versionEndExcluding": "2.6.1",
-  "created": "2022-02-10T16:24:30.723",
-  "lastModified": "2022-02-10T16:24:30.723",
-  "cpeLastModified": "2022-02-16T15:26:01.320",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:inspiron_14_5418_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "56812E7C-0ED6-4DA0-B3F2-2497CE9556FC"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:inspiron_14_5418_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3DF26847-150C-4D09-9F68-7EF4FF0BD70B",
+	"versionEndExcluding": "2.6.1",
+	"created": "2022-02-10T16:24:30.723",
+	"lastModified": "2022-02-10T16:24:30.723",
+	"cpeLastModified": "2022-02-16T15:26:01.320",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_14_5418_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "56812E7C-0ED6-4DA0-B3F2-2497CE9556FC"
+		}
+	]
 }

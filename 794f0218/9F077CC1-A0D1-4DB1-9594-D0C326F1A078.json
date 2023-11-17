@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:palantir:gotham:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9F077CC1-A0D1-4DB1-9594-D0C326F1A078",
-  "versionEndExcluding": "3.22.10.4",
-  "created": "2023-02-23T18:47:05.397",
-  "lastModified": "2023-09-29T17:02:20.580",
-  "cpeLastModified": "2023-09-29T17:02:20.580",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:palantir:gotham:-:*:*:*:*:*:*:*",
-      "cpeNameId": "352D9DD4-C000-47A8-B0DE-A02B7C18FB75"
-    }
-  ]
+	"criteria": "cpe:2.3:o:palantir:gotham:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9F077CC1-A0D1-4DB1-9594-D0C326F1A078",
+	"versionEndExcluding": "3.22.10.4",
+	"created": "2023-02-23T18:47:05.397",
+	"lastModified": "2023-09-29T17:02:20.580",
+	"cpeLastModified": "2023-09-29T17:02:20.580",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:palantir:gotham:-:*:*:*:*:*:*:*",
+			"cpeNameId": "352D9DD4-C000-47A8-B0DE-A02B7C18FB75"
+		}
+	]
 }

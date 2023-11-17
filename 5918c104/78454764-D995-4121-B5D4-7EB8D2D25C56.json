@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:tp-link:wa901nd_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "78454764-D995-4121-B5D4-7EB8D2D25C56",
-  "versionEndExcluding": "3.16.9\\(201211\\)_beta",
-  "created": "2020-12-29T13:55:17.467",
-  "lastModified": "2020-12-29T13:55:17.467",
-  "cpeLastModified": "2020-12-29T15:11:07.693",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:tp-link:wa901nd_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "CD0FAC3C-F07B-4BE5-B626-F2626EE05DF7"
-    }
-  ]
+	"criteria": "cpe:2.3:o:tp-link:wa901nd_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "78454764-D995-4121-B5D4-7EB8D2D25C56",
+	"versionEndExcluding": "3.16.9\\(201211\\)_beta",
+	"created": "2020-12-29T13:55:17.467",
+	"lastModified": "2020-12-29T13:55:17.467",
+	"cpeLastModified": "2020-12-29T15:11:07.693",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:tp-link:wa901nd_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CD0FAC3C-F07B-4BE5-B626-F2626EE05DF7"
+		}
+	]
 }

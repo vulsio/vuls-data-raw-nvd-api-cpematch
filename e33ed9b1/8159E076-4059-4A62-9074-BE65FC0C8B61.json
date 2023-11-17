@@ -1,23 +1,23 @@
 {
-  "criteria": "cpe:2.3:a:kingsoft:wps_office:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8159E076-4059-4A62-9074-BE65FC0C8B61",
-  "versionEndExcluding": "11.2.0.9403",
-  "created": "2020-09-14T16:05:22.737",
-  "lastModified": "2020-09-14T16:05:22.737",
-  "cpeLastModified": "2020-09-22T15:47:42.180",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:kingsoft:wps_office:-:*:*:*:*:*:*:*",
-      "cpeNameId": "34CF0FB7-E314-4BD5-A2BB-10F1514FCC18"
-    },
-    {
-      "cpeName": "cpe:2.3:a:kingsoft:wps_office:10.8.0.5745:*:*:*:*:*:*:*",
-      "cpeNameId": "17E4731E-CF4E-448D-BB85-6FC670B2EA9E"
-    },
-    {
-      "cpeName": "cpe:2.3:a:kingsoft:wps_office:10.8.0.6186:*:*:*:*:*:*:*",
-      "cpeNameId": "04B14389-8FB5-437B-9125-CD72F8A51BB9"
-    }
-  ]
+	"criteria": "cpe:2.3:a:kingsoft:wps_office:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8159E076-4059-4A62-9074-BE65FC0C8B61",
+	"versionEndExcluding": "11.2.0.9403",
+	"created": "2020-09-14T16:05:22.737",
+	"lastModified": "2020-09-14T16:05:22.737",
+	"cpeLastModified": "2020-09-22T15:47:42.180",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:kingsoft:wps_office:-:*:*:*:*:*:*:*",
+			"cpeNameId": "34CF0FB7-E314-4BD5-A2BB-10F1514FCC18"
+		},
+		{
+			"cpeName": "cpe:2.3:a:kingsoft:wps_office:10.8.0.5745:*:*:*:*:*:*:*",
+			"cpeNameId": "17E4731E-CF4E-448D-BB85-6FC670B2EA9E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:kingsoft:wps_office:10.8.0.6186:*:*:*:*:*:*:*",
+			"cpeNameId": "04B14389-8FB5-437B-9125-CD72F8A51BB9"
+		}
+	]
 }

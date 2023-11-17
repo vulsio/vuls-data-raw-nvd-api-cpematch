@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6D713731-3970-4A12-86FE-B8D566FE47FF",
-  "versionStartIncluding": "11.6.1",
-  "versionEndExcluding": "11.6.2",
-  "created": "2020-10-01T15:18:21.050",
-  "lastModified": "2020-10-01T15:18:21.050",
-  "cpeLastModified": "2020-10-01T15:18:21.067",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:11.6.1:*:*:*:*:*:*:*",
-      "cpeNameId": "CB592D26-CE26-4752-9F59-9A989A3AC4FC"
-    }
-  ]
+	"criteria": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6D713731-3970-4A12-86FE-B8D566FE47FF",
+	"versionStartIncluding": "11.6.1",
+	"versionEndExcluding": "11.6.2",
+	"created": "2020-10-01T15:18:21.050",
+	"lastModified": "2020-10-01T15:18:21.050",
+	"cpeLastModified": "2020-10-01T15:18:21.067",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:11.6.1:*:*:*:*:*:*:*",
+			"cpeNameId": "CB592D26-CE26-4752-9F59-9A989A3AC4FC"
+		}
+	]
 }

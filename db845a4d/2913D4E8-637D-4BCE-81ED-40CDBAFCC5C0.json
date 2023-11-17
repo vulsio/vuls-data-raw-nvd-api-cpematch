@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:spectre_x360_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "2913D4E8-637D-4BCE-81ED-40CDBAFCC5C0",
-  "versionEndExcluding": "5.5.26.1102",
-  "created": "2020-07-28T12:23:12.300",
-  "lastModified": "2020-07-28T12:23:12.300",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:spectre_x360_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "A987227C-9004-4BDD-906F-AEB95F31FD1E"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:spectre_x360_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2913D4E8-637D-4BCE-81ED-40CDBAFCC5C0",
+	"versionEndExcluding": "5.5.26.1102",
+	"created": "2020-07-28T12:23:12.300",
+	"lastModified": "2020-07-28T12:23:12.300",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:spectre_x360_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A987227C-9004-4BDD-906F-AEB95F31FD1E"
+		}
+	]
 }

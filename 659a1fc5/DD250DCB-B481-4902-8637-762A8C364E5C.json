@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:easycomingsoon:easy_coming_soon:*:*:*:*:*:wordpress:*:*",
-  "matchCriteriaId": "DD250DCB-B481-4902-8637-762A8C364E5C",
-  "versionEndIncluding": "2.3",
-  "created": "2023-09-29T14:29:09.480",
-  "lastModified": "2023-09-29T18:58:08.533",
-  "cpeLastModified": "2023-09-29T18:58:08.533",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:easycomingsoon:easy_coming_soon:-:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "2CC9B787-83BD-4B90-B788-6619B617A2D1"
-    },
-    {
-      "cpeName": "cpe:2.3:a:easycomingsoon:easy_coming_soon:2.3:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "045ED08A-C52B-430A-9755-0133EBD3FFE0"
-    }
-  ]
+	"criteria": "cpe:2.3:a:easycomingsoon:easy_coming_soon:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "DD250DCB-B481-4902-8637-762A8C364E5C",
+	"versionEndIncluding": "2.3",
+	"created": "2023-09-29T14:29:09.480",
+	"lastModified": "2023-09-29T18:58:08.533",
+	"cpeLastModified": "2023-09-29T18:58:08.533",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:easycomingsoon:easy_coming_soon:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2CC9B787-83BD-4B90-B788-6619B617A2D1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:easycomingsoon:easy_coming_soon:2.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "045ED08A-C52B-430A-9755-0133EBD3FFE0"
+		}
+	]
 }

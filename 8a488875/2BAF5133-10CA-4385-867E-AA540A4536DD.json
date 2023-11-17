@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:bosch:monitor_wall:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "2BAF5133-10CA-4385-867E-AA540A4536DD",
-  "versionEndIncluding": "10.00.0164",
-  "created": "2021-03-25T17:56:48.620",
-  "lastModified": "2021-03-25T17:56:48.620",
-  "cpeLastModified": "2021-03-25T17:57:07.123",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:bosch:monitor_wall:-:*:*:*:*:*:*:*",
-      "cpeNameId": "65156B11-C83C-44F5-B12C-C596CECD96F6"
-    },
-    {
-      "cpeName": "cpe:2.3:a:bosch:monitor_wall:10.00.0164:*:*:*:*:*:*:*",
-      "cpeNameId": "BF84C729-8912-4ECB-BAE1-3795C07DFEB8"
-    }
-  ]
+	"criteria": "cpe:2.3:a:bosch:monitor_wall:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2BAF5133-10CA-4385-867E-AA540A4536DD",
+	"versionEndIncluding": "10.00.0164",
+	"created": "2021-03-25T17:56:48.620",
+	"lastModified": "2021-03-25T17:56:48.620",
+	"cpeLastModified": "2021-03-25T17:57:07.123",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:bosch:monitor_wall:-:*:*:*:*:*:*:*",
+			"cpeNameId": "65156B11-C83C-44F5-B12C-C596CECD96F6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bosch:monitor_wall:10.00.0164:*:*:*:*:*:*:*",
+			"cpeNameId": "BF84C729-8912-4ECB-BAE1-3795C07DFEB8"
+		}
+	]
 }

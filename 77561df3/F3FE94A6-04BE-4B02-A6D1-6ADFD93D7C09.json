@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:belkin:wemo_switch_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F3FE94A6-04BE-4B02-A6D1-6ADFD93D7C09",
-  "versionEndExcluding": "wemo_us_2.00.2176.pvt",
-  "created": "2020-02-03T14:51:03.533",
-  "lastModified": "2020-02-03T14:51:03.533",
-  "cpeLastModified": "2020-02-24T17:02:18.347",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:belkin:wemo_switch_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "EBE6251D-E839-4825-8964-A8C8E49B8337"
-    }
-  ]
+	"criteria": "cpe:2.3:o:belkin:wemo_switch_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F3FE94A6-04BE-4B02-A6D1-6ADFD93D7C09",
+	"versionEndExcluding": "wemo_us_2.00.2176.pvt",
+	"created": "2020-02-03T14:51:03.533",
+	"lastModified": "2020-02-03T14:51:03.533",
+	"cpeLastModified": "2020-02-24T17:02:18.347",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:belkin:wemo_switch_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EBE6251D-E839-4825-8964-A8C8E49B8337"
+		}
+	]
 }

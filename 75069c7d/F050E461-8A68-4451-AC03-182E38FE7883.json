@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:thelinuxfoundation:yocto:3.3:-:*:*:*:*:*:*",
-  "matchCriteriaId": "F050E461-8A68-4451-AC03-182E38FE7883",
-  "created": "2023-01-08T07:10:21.263",
-  "lastModified": "2023-09-28T11:24:57.807",
-  "cpeLastModified": "2023-09-28T11:24:57.807",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:thelinuxfoundation:yocto:3.3:-:*:*:*:*:*:*",
-      "cpeNameId": "66A50298-BF40-4308-942A-D100BD69B16E"
-    }
-  ]
+	"criteria": "cpe:2.3:o:thelinuxfoundation:yocto:3.3:-:*:*:*:*:*:*",
+	"matchCriteriaId": "F050E461-8A68-4451-AC03-182E38FE7883",
+	"created": "2023-01-08T07:10:21.263",
+	"lastModified": "2023-09-28T11:24:57.807",
+	"cpeLastModified": "2023-09-28T11:24:57.807",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:thelinuxfoundation:yocto:3.3:-:*:*:*:*:*:*",
+			"cpeNameId": "66A50298-BF40-4308-942A-D100BD69B16E"
+		}
+	]
 }

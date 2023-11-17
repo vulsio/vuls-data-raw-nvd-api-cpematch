@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:motex:lanscope_an:*:*:*:*:*:windows:*:*",
-  "matchCriteriaId": "81CB465A-3610-433C-9E56-6C9411E86D97",
-  "versionStartIncluding": "3.0.0.0",
-  "versionEndExcluding": "3.0.8.1",
-  "created": "2020-01-09T18:34:28.807",
-  "lastModified": "2020-01-09T18:34:28.807",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:motex:lanscope_an:3.0.0.0:*:*:*:*:windows:*:*",
-      "cpeNameId": "10DEAAD5-80D6-45CE-9AE0-F416717C7197"
-    }
-  ]
+	"criteria": "cpe:2.3:a:motex:lanscope_an:*:*:*:*:*:windows:*:*",
+	"matchCriteriaId": "81CB465A-3610-433C-9E56-6C9411E86D97",
+	"versionStartIncluding": "3.0.0.0",
+	"versionEndExcluding": "3.0.8.1",
+	"created": "2020-01-09T18:34:28.807",
+	"lastModified": "2020-01-09T18:34:28.807",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:motex:lanscope_an:3.0.0.0:*:*:*:*:windows:*:*",
+			"cpeNameId": "10DEAAD5-80D6-45CE-9AE0-F416717C7197"
+		}
+	]
 }

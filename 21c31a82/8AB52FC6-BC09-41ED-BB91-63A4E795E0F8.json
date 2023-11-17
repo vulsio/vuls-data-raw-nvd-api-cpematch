@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:netgear:wn3100rp_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8AB52FC6-BC09-41ED-BB91-63A4E795E0F8",
-  "versionEndExcluding": "1.0.0.40",
-  "created": "2020-04-22T17:17:14.297",
-  "lastModified": "2020-04-22T17:17:14.297",
-  "cpeLastModified": "2020-04-28T16:07:30.347",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:netgear:wn3100rp_firmware:1.0.0.20:*:*:*:*:*:*:*",
-      "cpeNameId": "ADB70871-5028-4143-9D43-62407B0FF5E1"
-    }
-  ]
+	"criteria": "cpe:2.3:o:netgear:wn3100rp_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8AB52FC6-BC09-41ED-BB91-63A4E795E0F8",
+	"versionEndExcluding": "1.0.0.40",
+	"created": "2020-04-22T17:17:14.297",
+	"lastModified": "2020-04-22T17:17:14.297",
+	"cpeLastModified": "2020-04-28T16:07:30.347",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netgear:wn3100rp_firmware:1.0.0.20:*:*:*:*:*:*:*",
+			"cpeNameId": "ADB70871-5028-4143-9D43-62407B0FF5E1"
+		}
+	]
 }

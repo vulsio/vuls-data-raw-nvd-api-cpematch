@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:ideapad_3-14are05_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5B87688B-926B-43F2-AB88-A4A43099B92C",
-  "versionEndExcluding": "dzcn42ww",
-  "created": "2022-05-02T16:34:30.887",
-  "lastModified": "2022-05-02T16:34:30.887",
-  "cpeLastModified": "2022-05-06T20:48:01.953",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:ideapad_3-14are05_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "DBB2CEA5-6AD6-4786-92A4-CEE10920010A"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:ideapad_3-14are05_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5B87688B-926B-43F2-AB88-A4A43099B92C",
+	"versionEndExcluding": "dzcn42ww",
+	"created": "2022-05-02T16:34:30.887",
+	"lastModified": "2022-05-02T16:34:30.887",
+	"cpeLastModified": "2022-05-06T20:48:01.953",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:ideapad_3-14are05_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DBB2CEA5-6AD6-4786-92A4-CEE10920010A"
+		}
+	]
 }

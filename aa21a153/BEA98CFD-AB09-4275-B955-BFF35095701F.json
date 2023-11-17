@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:inspiron_3780_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "BEA98CFD-AB09-4275-B955-BFF35095701F",
-  "versionEndExcluding": "1.4.1",
-  "created": "2019-08-09T17:46:17.860",
-  "lastModified": "2019-08-09T17:46:17.860",
-  "cpeLastModified": "2020-03-06T19:58:04.817",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:inspiron_3780_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "D8715210-B098-4483-9416-9F5E3230C3AF"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:inspiron_3780_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BEA98CFD-AB09-4275-B955-BFF35095701F",
+	"versionEndExcluding": "1.4.1",
+	"created": "2019-08-09T17:46:17.860",
+	"lastModified": "2019-08-09T17:46:17.860",
+	"cpeLastModified": "2020-03-06T19:58:04.817",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_3780_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D8715210-B098-4483-9416-9F5E3230C3AF"
+		}
+	]
 }

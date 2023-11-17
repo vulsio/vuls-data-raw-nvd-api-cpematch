@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:hpe:integrated_lights-out_5_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1A3DF16F-EC27-4124-89B7-A580EF19D9EE",
-  "versionEndExcluding": "2.72",
-  "created": "2022-09-23T18:43:22.407",
-  "lastModified": "2022-09-23T18:43:22.407",
-  "cpeLastModified": "2022-12-14T20:30:59.897",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hpe:integrated_lights-out_5_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "11E32EA6-E2C2-463F-8754-B3A723847D05"
-    },
-    {
-      "cpeName": "cpe:2.3:o:hpe:integrated_lights-out_5_firmware:2.71:*:*:*:*:*:*:*",
-      "cpeNameId": "8600FAD2-A8E1-407B-A38D-684F4C996808"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hpe:integrated_lights-out_5_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1A3DF16F-EC27-4124-89B7-A580EF19D9EE",
+	"versionEndExcluding": "2.72",
+	"created": "2022-09-23T18:43:22.407",
+	"lastModified": "2022-09-23T18:43:22.407",
+	"cpeLastModified": "2022-12-14T20:30:59.897",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hpe:integrated_lights-out_5_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "11E32EA6-E2C2-463F-8754-B3A723847D05"
+		},
+		{
+			"cpeName": "cpe:2.3:o:hpe:integrated_lights-out_5_firmware:2.71:*:*:*:*:*:*:*",
+			"cpeNameId": "8600FAD2-A8E1-407B-A38D-684F4C996808"
+		}
+	]
 }

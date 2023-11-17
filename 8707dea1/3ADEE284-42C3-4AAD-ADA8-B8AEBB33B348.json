@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:motex:lanscope_cat_server_monitoring_agent:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "3ADEE284-42C3-4AAD-ADA8-B8AEBB33B348",
-  "versionEndExcluding": "9.2.2.0",
-  "created": "2020-01-08T20:16:52.823",
-  "lastModified": "2020-01-08T20:16:52.823",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:motex:lanscope_cat_server_monitoring_agent:-:*:*:*:*:*:*:*",
-      "cpeNameId": "4E1EB84C-4569-4D5D-86F8-2367D4504371"
-    }
-  ]
+	"criteria": "cpe:2.3:a:motex:lanscope_cat_server_monitoring_agent:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3ADEE284-42C3-4AAD-ADA8-B8AEBB33B348",
+	"versionEndExcluding": "9.2.2.0",
+	"created": "2020-01-08T20:16:52.823",
+	"lastModified": "2020-01-08T20:16:52.823",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:motex:lanscope_cat_server_monitoring_agent:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4E1EB84C-4569-4D5D-86F8-2367D4504371"
+		}
+	]
 }

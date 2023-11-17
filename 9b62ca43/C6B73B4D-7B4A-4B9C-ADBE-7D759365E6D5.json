@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dahuasecurity:ipc-hfw2231t-zas-s2_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C6B73B4D-7B4A-4B9C-ADBE-7D759365E6D5",
-  "versionEndExcluding": "2022-04",
-  "created": "2022-07-08T12:11:08.630",
-  "lastModified": "2022-07-08T12:11:08.630",
-  "cpeLastModified": "2022-07-11T12:28:58.180",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dahuasecurity:ipc-hfw2231t-zas-s2_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "F3DF961B-7276-4AE6-8DD3-0475677109B8"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dahuasecurity:ipc-hfw2231t-zas-s2_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C6B73B4D-7B4A-4B9C-ADBE-7D759365E6D5",
+	"versionEndExcluding": "2022-04",
+	"created": "2022-07-08T12:11:08.630",
+	"lastModified": "2022-07-08T12:11:08.630",
+	"cpeLastModified": "2022-07-11T12:28:58.180",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dahuasecurity:ipc-hfw2231t-zas-s2_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F3DF961B-7276-4AE6-8DD3-0475677109B8"
+		}
+	]
 }

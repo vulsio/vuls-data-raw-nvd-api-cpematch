@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:levelteninteractive:content_analysis:*:*:*:*:*:drupal:*:*",
-  "matchCriteriaId": "DBB75585-7DFB-4FC0-8B22-982CB5C9C595",
-  "versionEndIncluding": "6.x-1.6",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:levelteninteractive:content_analysis:6.x-1.6:*:*:*:*:drupal:*:*",
-      "cpeNameId": "A12BA59C-FF4A-4D87-983C-32179C0CCD3E"
-    }
-  ]
+	"criteria": "cpe:2.3:a:levelteninteractive:content_analysis:*:*:*:*:*:drupal:*:*",
+	"matchCriteriaId": "DBB75585-7DFB-4FC0-8B22-982CB5C9C595",
+	"versionEndIncluding": "6.x-1.6",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:levelteninteractive:content_analysis:6.x-1.6:*:*:*:*:drupal:*:*",
+			"cpeNameId": "A12BA59C-FF4A-4D87-983C-32179C0CCD3E"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:synopsys:black_duck_hub:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "34F9EDE0-676C-4404-A79D-77FB2A89C6B9",
-  "versionEndExcluding": "2022.4.0",
-  "created": "2022-05-17T13:39:24.480",
-  "lastModified": "2022-05-17T13:39:24.480",
-  "cpeLastModified": "2022-05-18T13:11:41.320",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:synopsys:black_duck_hub:-:*:*:*:*:*:*:*",
-      "cpeNameId": "F5CCBA27-8F43-43D9-AA5C-08FAE35EA3CF"
-    }
-  ]
+	"criteria": "cpe:2.3:a:synopsys:black_duck_hub:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "34F9EDE0-676C-4404-A79D-77FB2A89C6B9",
+	"versionEndExcluding": "2022.4.0",
+	"created": "2022-05-17T13:39:24.480",
+	"lastModified": "2022-05-17T13:39:24.480",
+	"cpeLastModified": "2022-05-18T13:11:41.320",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:synopsys:black_duck_hub:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F5CCBA27-8F43-43D9-AA5C-08FAE35EA3CF"
+		}
+	]
 }

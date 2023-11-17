@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:jenkins:maven_metadata:*:*:*:*:*:jenkins_ci:*:*",
-  "matchCriteriaId": "16489D75-2BB1-4252-AAA7-D80D91AF967A",
-  "versionEndIncluding": "2.2",
-  "created": "2022-08-02T16:07:10.220",
-  "lastModified": "2022-08-02T16:07:10.220",
-  "cpeLastModified": "2022-08-09T12:01:49.980",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:jenkins:maven_metadata:-:*:*:*:*:jenkins_ci:*:*",
-      "cpeNameId": "18A08908-F132-4E52-8393-2F149A7F2CAF"
-    },
-    {
-      "cpeName": "cpe:2.3:a:jenkins:maven_metadata:2.2:*:*:*:*:jenkins_ci:*:*",
-      "cpeNameId": "28E894CB-D1E3-4C77-B4FE-7C84811E6851"
-    }
-  ]
+	"criteria": "cpe:2.3:a:jenkins:maven_metadata:*:*:*:*:*:jenkins_ci:*:*",
+	"matchCriteriaId": "16489D75-2BB1-4252-AAA7-D80D91AF967A",
+	"versionEndIncluding": "2.2",
+	"created": "2022-08-02T16:07:10.220",
+	"lastModified": "2022-08-02T16:07:10.220",
+	"cpeLastModified": "2022-08-09T12:01:49.980",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:jenkins:maven_metadata:-:*:*:*:*:jenkins_ci:*:*",
+			"cpeNameId": "18A08908-F132-4E52-8393-2F149A7F2CAF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jenkins:maven_metadata:2.2:*:*:*:*:jenkins_ci:*:*",
+			"cpeNameId": "28E894CB-D1E3-4C77-B4FE-7C84811E6851"
+		}
+	]
 }

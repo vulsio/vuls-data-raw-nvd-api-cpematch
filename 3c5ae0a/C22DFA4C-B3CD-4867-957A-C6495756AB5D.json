@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:dell:hybrid_client:1.6:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C22DFA4C-B3CD-4867-957A-C6495756AB5D",
-  "created": "2022-10-01T03:30:04.837",
-  "lastModified": "2022-10-05T16:35:33.707",
-  "cpeLastModified": "2022-10-05T16:35:33.707",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:dell:hybrid_client:1.6:*:*:*:*:*:*:*",
-      "cpeNameId": "FB0649C1-D990-41B7-8BBD-3969AD5C27DA"
-    }
-  ]
+	"criteria": "cpe:2.3:a:dell:hybrid_client:1.6:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C22DFA4C-B3CD-4867-957A-C6495756AB5D",
+	"created": "2022-10-01T03:30:04.837",
+	"lastModified": "2022-10-05T16:35:33.707",
+	"cpeLastModified": "2022-10-05T16:35:33.707",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:dell:hybrid_client:1.6:*:*:*:*:*:*:*",
+			"cpeNameId": "FB0649C1-D990-41B7-8BBD-3969AD5C27DA"
+		}
+	]
 }

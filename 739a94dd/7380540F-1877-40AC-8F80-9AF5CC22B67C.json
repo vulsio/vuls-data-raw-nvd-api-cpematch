@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:podlove:podlove_podcast_publisher:*:*:*:*:*:wordpress:*:*",
-  "matchCriteriaId": "7380540F-1877-40AC-8F80-9AF5CC22B67C",
-  "versionEndExcluding": "2.3.16",
-  "created": "2019-09-13T19:42:59.790",
-  "lastModified": "2019-09-13T19:42:59.790",
-  "cpeLastModified": "2019-09-16T13:58:08.000",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:podlove:podlove_podcast_publisher:-:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "2402FACA-BF29-4C92-96D8-7F08F7813F5E"
-    }
-  ]
+	"criteria": "cpe:2.3:a:podlove:podlove_podcast_publisher:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "7380540F-1877-40AC-8F80-9AF5CC22B67C",
+	"versionEndExcluding": "2.3.16",
+	"created": "2019-09-13T19:42:59.790",
+	"lastModified": "2019-09-13T19:42:59.790",
+	"cpeLastModified": "2019-09-16T13:58:08.000",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:podlove:podlove_podcast_publisher:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2402FACA-BF29-4C92-96D8-7F08F7813F5E"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:rathena:fluxcp:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "88838D01-92F1-4F55-BC89-ED07017CC7DF",
-  "versionEndExcluding": "2022-02-11",
-  "created": "2022-12-14T01:12:31.077",
-  "lastModified": "2023-08-11T23:44:57.440",
-  "cpeLastModified": "2023-08-11T23:44:57.440",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:rathena:fluxcp:-:*:*:*:*:*:*:*",
-      "cpeNameId": "3FCE650B-3590-48D1-B877-55930779D9F4"
-    }
-  ]
+	"criteria": "cpe:2.3:a:rathena:fluxcp:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "88838D01-92F1-4F55-BC89-ED07017CC7DF",
+	"versionEndExcluding": "2022-02-11",
+	"created": "2022-12-14T01:12:31.077",
+	"lastModified": "2023-08-11T23:44:57.440",
+	"cpeLastModified": "2023-08-11T23:44:57.440",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:rathena:fluxcp:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3FCE650B-3590-48D1-B877-55930779D9F4"
+		}
+	]
 }

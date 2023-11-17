@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:polarssl:polarssl:0.14.2:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B86C938F-CE5E-4955-8702-ABE9B635E337",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:polarssl:polarssl:0.14.2:*:*:*:*:*:*:*",
-      "cpeNameId": "968BE124-4112-4C22-A20A-CCAC653644C3"
-    }
-  ]
+	"criteria": "cpe:2.3:a:polarssl:polarssl:0.14.2:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B86C938F-CE5E-4955-8702-ABE9B635E337",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:polarssl:polarssl:0.14.2:*:*:*:*:*:*:*",
+			"cpeNameId": "968BE124-4112-4C22-A20A-CCAC653644C3"
+		}
+	]
 }

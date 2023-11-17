@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:zyxel:nwa55axe_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E809B8FE-DBF8-4B7F-B33E-939750D08617",
-  "versionEndIncluding": "6.25\\(abzl.5\\)",
-  "created": "2022-06-06T13:12:30.917",
-  "lastModified": "2022-06-06T13:12:30.917",
-  "cpeLastModified": "2022-06-06T17:04:22.433",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:zyxel:nwa55axe_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "522D81AC-5AE4-4D4E-9F22-EE68B92C35C3"
-    }
-  ]
+	"criteria": "cpe:2.3:o:zyxel:nwa55axe_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E809B8FE-DBF8-4B7F-B33E-939750D08617",
+	"versionEndIncluding": "6.25\\(abzl.5\\)",
+	"created": "2022-06-06T13:12:30.917",
+	"lastModified": "2022-06-06T13:12:30.917",
+	"cpeLastModified": "2022-06-06T17:04:22.433",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:zyxel:nwa55axe_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "522D81AC-5AE4-4D4E-9F22-EE68B92C35C3"
+		}
+	]
 }

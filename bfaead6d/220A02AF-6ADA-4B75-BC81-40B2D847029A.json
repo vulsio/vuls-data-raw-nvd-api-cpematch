@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:libpng:libpng:1.2.23:*:*:*:*:*:*:*",
-  "matchCriteriaId": "220A02AF-6ADA-4B75-BC81-40B2D847029A",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:libpng:libpng:1.2.23:*:*:*:*:*:*:*",
-      "cpeNameId": "122106E6-3B97-4DFE-B7B2-95FBE8F235F0"
-    }
-  ]
+	"criteria": "cpe:2.3:a:libpng:libpng:1.2.23:*:*:*:*:*:*:*",
+	"matchCriteriaId": "220A02AF-6ADA-4B75-BC81-40B2D847029A",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:libpng:libpng:1.2.23:*:*:*:*:*:*:*",
+			"cpeNameId": "122106E6-3B97-4DFE-B7B2-95FBE8F235F0"
+		}
+	]
 }

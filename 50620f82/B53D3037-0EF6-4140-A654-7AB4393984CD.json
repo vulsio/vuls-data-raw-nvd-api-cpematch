@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:fujifilm:apeosport-v_c4475_t2_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B53D3037-0EF6-4140-A654-7AB4393984CD",
-  "versionEndExcluding": "2.60.0",
-  "created": "2022-04-22T13:19:34.487",
-  "lastModified": "2022-04-22T13:19:34.487",
-  "cpeLastModified": "2022-05-13T16:26:26.973",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:fujifilm:apeosport-v_c4475_t2_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "5A008078-6964-4D76-9E34-C97493FD5AC5"
-    }
-  ]
+	"criteria": "cpe:2.3:o:fujifilm:apeosport-v_c4475_t2_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B53D3037-0EF6-4140-A654-7AB4393984CD",
+	"versionEndExcluding": "2.60.0",
+	"created": "2022-04-22T13:19:34.487",
+	"lastModified": "2022-04-22T13:19:34.487",
+	"cpeLastModified": "2022-05-13T16:26:26.973",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:fujifilm:apeosport-v_c4475_t2_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5A008078-6964-4D76-9E34-C97493FD5AC5"
+		}
+	]
 }

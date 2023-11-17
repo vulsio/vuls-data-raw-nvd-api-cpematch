@@ -1,18 +1,18 @@
 {
-  "criteria": "cpe:2.3:a:irfanview:irfanview:3.98:*:*:*:*:*:*:*",
-  "matchCriteriaId": "DB8391AF-D227-437B-9DF0-E8FF82A625CB",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2020-01-27T13:03:52.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:irfanview:irfanview:3.98:*:*:*:*:*:*:*",
-      "cpeNameId": "A73AF49B-D683-487A-B0F6-557C460A55D5"
-    },
-    {
-      "cpeName": "cpe:2.3:a:irfanview:irfanview:3.98:*:*:*:*:*:x86:*",
-      "cpeNameId": "A7163DCE-F305-4A50-B1E9-A50A164F5C6C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:irfanview:irfanview:3.98:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DB8391AF-D227-437B-9DF0-E8FF82A625CB",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2020-01-27T13:03:52.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:irfanview:irfanview:3.98:*:*:*:*:*:*:*",
+			"cpeNameId": "A73AF49B-D683-487A-B0F6-557C460A55D5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:irfanview:irfanview:3.98:*:*:*:*:*:x86:*",
+			"cpeNameId": "A7163DCE-F305-4A50-B1E9-A50A164F5C6C"
+		}
+	]
 }

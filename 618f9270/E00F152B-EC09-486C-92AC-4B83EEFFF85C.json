@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:officejet_6950_p4c84a_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E00F152B-EC09-486C-92AC-4B83EEFFF85C",
-  "versionEndExcluding": "40.7.1094",
-  "created": "2021-11-12T12:09:01.563",
-  "lastModified": "2021-11-12T12:09:01.563",
-  "cpeLastModified": "2021-11-15T15:21:02.643",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:officejet_6950_p4c84a_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "77A7892F-F8D0-4855-911F-A5A1C56D12FE"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:officejet_6950_p4c84a_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E00F152B-EC09-486C-92AC-4B83EEFFF85C",
+	"versionEndExcluding": "40.7.1094",
+	"created": "2021-11-12T12:09:01.563",
+	"lastModified": "2021-11-12T12:09:01.563",
+	"cpeLastModified": "2021-11-15T15:21:02.643",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:officejet_6950_p4c84a_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "77A7892F-F8D0-4855-911F-A5A1C56D12FE"
+		}
+	]
 }

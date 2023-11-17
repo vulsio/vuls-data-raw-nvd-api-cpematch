@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:kaspersky:anti-ransomware_tool:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5A86E900-1E3B-4605-9BC3-40A327A05B0E",
-  "versionEndExcluding": "4.0",
-  "created": "2020-12-08T16:42:24.890",
-  "lastModified": "2020-12-08T16:42:24.890",
-  "cpeLastModified": "2020-12-10T12:54:41.593",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:kaspersky:anti-ransomware_tool:-:*:*:*:*:*:*:*",
-      "cpeNameId": "32BCC399-447C-44D0-9519-77964B78BF6A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:kaspersky:anti-ransomware_tool:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5A86E900-1E3B-4605-9BC3-40A327A05B0E",
+	"versionEndExcluding": "4.0",
+	"created": "2020-12-08T16:42:24.890",
+	"lastModified": "2020-12-08T16:42:24.890",
+	"cpeLastModified": "2020-12-10T12:54:41.593",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:kaspersky:anti-ransomware_tool:-:*:*:*:*:*:*:*",
+			"cpeNameId": "32BCC399-447C-44D0-9519-77964B78BF6A"
+		}
+	]
 }

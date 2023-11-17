@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:sap:fiori_apps_2.0_for_travel_management_in_sap_erp:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "54B30165-5E80-4107-9BE0-118D286C7FCF",
-  "versionEndExcluding": "608",
-  "created": "2021-04-15T23:51:04.843",
-  "lastModified": "2021-04-15T23:51:04.843",
-  "cpeLastModified": "2021-04-15T23:51:42.873",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:sap:fiori_apps_2.0_for_travel_management_in_sap_erp:-:*:*:*:*:*:*:*",
-      "cpeNameId": "6F7F19A5-678A-4D1C-9118-52A71B408090"
-    }
-  ]
+	"criteria": "cpe:2.3:a:sap:fiori_apps_2.0_for_travel_management_in_sap_erp:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "54B30165-5E80-4107-9BE0-118D286C7FCF",
+	"versionEndExcluding": "608",
+	"created": "2021-04-15T23:51:04.843",
+	"lastModified": "2021-04-15T23:51:04.843",
+	"cpeLastModified": "2021-04-15T23:51:42.873",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sap:fiori_apps_2.0_for_travel_management_in_sap_erp:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6F7F19A5-678A-4D1C-9118-52A71B408090"
+		}
+	]
 }

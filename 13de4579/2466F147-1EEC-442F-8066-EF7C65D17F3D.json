@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:bsdi:bsd_os:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "2466F147-1EEC-442F-8066-EF7C65D17F3D",
-  "created": "2022-11-09T13:04:29.230",
-  "lastModified": "2023-09-02T02:49:11.423",
-  "cpeLastModified": "2023-09-02T02:49:11.423",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:bsdi:bsd_os:-:*:*:*:*:*:*:*",
-      "cpeNameId": "EB5FF220-378C-48DE-A6CD-3E636F8F46B6"
-    }
-  ]
+	"criteria": "cpe:2.3:o:bsdi:bsd_os:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2466F147-1EEC-442F-8066-EF7C65D17F3D",
+	"created": "2022-11-09T13:04:29.230",
+	"lastModified": "2023-09-02T02:49:11.423",
+	"cpeLastModified": "2023-09-02T02:49:11.423",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:bsdi:bsd_os:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EB5FF220-378C-48DE-A6CD-3E636F8F46B6"
+		}
+	]
 }

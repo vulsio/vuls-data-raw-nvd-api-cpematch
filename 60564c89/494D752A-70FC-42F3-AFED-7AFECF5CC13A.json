@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:escanav:escan_anti-virus:*:*:*:*:*:linux:*:*",
-  "matchCriteriaId": "494D752A-70FC-42F3-AFED-7AFECF5CC13A",
-  "versionEndExcluding": "7.0.31",
-  "created": "2022-04-07T16:40:29.753",
-  "lastModified": "2022-04-07T16:40:29.753",
-  "cpeLastModified": "2022-04-09T00:42:24.340",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:escanav:escan_anti-virus:-:*:*:*:*:linux:*:*",
-      "cpeNameId": "0D5AF4B5-6A1F-4565-8A42-7FE116383E8C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:escanav:escan_anti-virus:*:*:*:*:*:linux:*:*",
+	"matchCriteriaId": "494D752A-70FC-42F3-AFED-7AFECF5CC13A",
+	"versionEndExcluding": "7.0.31",
+	"created": "2022-04-07T16:40:29.753",
+	"lastModified": "2022-04-07T16:40:29.753",
+	"cpeLastModified": "2022-04-09T00:42:24.340",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:escanav:escan_anti-virus:-:*:*:*:*:linux:*:*",
+			"cpeNameId": "0D5AF4B5-6A1F-4565-8A42-7FE116383E8C"
+		}
+	]
 }

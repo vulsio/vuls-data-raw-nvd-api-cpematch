@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:zeromq:libzmq:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "83C0A26C-9730-4883-83E6-84184B378B91",
-  "versionStartIncluding": "4.1.0",
-  "versionEndExcluding": "4.1.7",
-  "created": "2019-07-12T12:36:56.917",
-  "lastModified": "2019-07-12T12:36:56.917",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:zeromq:libzmq:4.1.0:*:*:*:*:*:*:*",
-      "cpeNameId": "4EACEF53-4F20-49F7-91B4-8B959537E464"
-    }
-  ]
+	"criteria": "cpe:2.3:a:zeromq:libzmq:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "83C0A26C-9730-4883-83E6-84184B378B91",
+	"versionStartIncluding": "4.1.0",
+	"versionEndExcluding": "4.1.7",
+	"created": "2019-07-12T12:36:56.917",
+	"lastModified": "2019-07-12T12:36:56.917",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:zeromq:libzmq:4.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "4EACEF53-4F20-49F7-91B4-8B959537E464"
+		}
+	]
 }

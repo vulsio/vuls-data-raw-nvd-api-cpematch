@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:amd:ryzen_3_3100_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0F45285B-E6D7-404F-9A04-D102F720AD0F",
-  "versionEndExcluding": "comboam4pi_1.0.0.8",
-  "created": "2022-05-31T06:44:11.003",
-  "lastModified": "2022-05-31T06:44:11.003",
-  "cpeLastModified": "2022-03-21T17:41:09.220",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:amd:ryzen_3_3100_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "46D8555A-3C85-4BB1-B956-CB918EEE075D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:amd:ryzen_3_3100_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0F45285B-E6D7-404F-9A04-D102F720AD0F",
+	"versionEndExcluding": "comboam4pi_1.0.0.8",
+	"created": "2022-05-31T06:44:11.003",
+	"lastModified": "2022-05-31T06:44:11.003",
+	"cpeLastModified": "2022-03-21T17:41:09.220",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_3_3100_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "46D8555A-3C85-4BB1-B956-CB918EEE075D"
+		}
+	]
 }

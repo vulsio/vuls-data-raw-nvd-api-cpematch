@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:a:adobe:illustrator:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7B0140D2-DEFB-4925-853F-F25EDD9DF15D",
-  "versionStartIncluding": "26.0.0",
-  "versionEndIncluding": "26.0.2",
-  "created": "2022-02-22T18:41:51.350",
-  "lastModified": "2022-02-22T18:41:51.350",
-  "cpeLastModified": "2022-02-24T03:08:47.977",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:adobe:illustrator:26.0.1:*:*:*:*:*:*:*",
-      "cpeNameId": "3728A069-7868-4922-80FC-48489A98F7F8"
-    },
-    {
-      "cpeName": "cpe:2.3:a:adobe:illustrator:26.0.2:*:*:*:*:*:*:*",
-      "cpeNameId": "F5AC2AD2-16CB-47D9-B2A8-E1313092150E"
-    }
-  ]
+	"criteria": "cpe:2.3:a:adobe:illustrator:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7B0140D2-DEFB-4925-853F-F25EDD9DF15D",
+	"versionStartIncluding": "26.0.0",
+	"versionEndIncluding": "26.0.2",
+	"created": "2022-02-22T18:41:51.350",
+	"lastModified": "2022-02-22T18:41:51.350",
+	"cpeLastModified": "2022-02-24T03:08:47.977",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:adobe:illustrator:26.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "3728A069-7868-4922-80FC-48489A98F7F8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:illustrator:26.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "F5AC2AD2-16CB-47D9-B2A8-E1313092150E"
+		}
+	]
 }

@@ -1,18 +1,18 @@
 {
-  "criteria": "cpe:2.3:o:schneider-electric:140cpu67261_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8C5F7FC8-CA35-476E-A302-12FF21F3394C",
-  "created": "2020-03-24T15:09:06.553",
-  "lastModified": "2020-03-24T15:09:06.553",
-  "cpeLastModified": "2020-03-24T15:09:06.567",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:schneider-electric:140cpu67261_firmware:3.52:*:*:*:*:*:*:*",
-      "cpeNameId": "FBD91820-1C5C-4CF4-A981-9C16357F38BB"
-    },
-    {
-      "cpeName": "cpe:2.3:o:schneider-electric:140cpu67261_firmware:3.60:*:*:*:*:*:*:*",
-      "cpeNameId": "B59BABBB-0307-4FFA-937C-5367B8E3BDDA"
-    }
-  ]
+	"criteria": "cpe:2.3:o:schneider-electric:140cpu67261_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8C5F7FC8-CA35-476E-A302-12FF21F3394C",
+	"created": "2020-03-24T15:09:06.553",
+	"lastModified": "2020-03-24T15:09:06.553",
+	"cpeLastModified": "2020-03-24T15:09:06.567",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:schneider-electric:140cpu67261_firmware:3.52:*:*:*:*:*:*:*",
+			"cpeNameId": "FBD91820-1C5C-4CF4-A981-9C16357F38BB"
+		},
+		{
+			"cpeName": "cpe:2.3:o:schneider-electric:140cpu67261_firmware:3.60:*:*:*:*:*:*:*",
+			"cpeNameId": "B59BABBB-0307-4FFA-937C-5367B8E3BDDA"
+		}
+	]
 }

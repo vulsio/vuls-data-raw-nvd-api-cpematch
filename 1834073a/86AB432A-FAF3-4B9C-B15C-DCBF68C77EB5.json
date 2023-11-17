@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:dell:emc_unity_xt_operating_environment:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "86AB432A-FAF3-4B9C-B15C-DCBF68C77EB5",
-  "versionEndExcluding": "5.0.4.0.5.012",
-  "created": "2021-01-07T17:30:03.187",
-  "lastModified": "2021-01-07T17:30:03.187",
-  "cpeLastModified": "2021-07-14T13:08:14.767",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:dell:emc_unity_xt_operating_environment:-:*:*:*:*:*:*:*",
-      "cpeNameId": "76AE8B40-AB95-45AB-BE51-D1578002B657"
-    },
-    {
-      "cpeName": "cpe:2.3:a:dell:emc_unity_xt_operating_environment:5.0.2.0.5.009:*:*:*:*:*:*:*",
-      "cpeNameId": "A9885F71-13D8-40D4-93E2-5D275AC7902A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:dell:emc_unity_xt_operating_environment:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "86AB432A-FAF3-4B9C-B15C-DCBF68C77EB5",
+	"versionEndExcluding": "5.0.4.0.5.012",
+	"created": "2021-01-07T17:30:03.187",
+	"lastModified": "2021-01-07T17:30:03.187",
+	"cpeLastModified": "2021-07-14T13:08:14.767",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:dell:emc_unity_xt_operating_environment:-:*:*:*:*:*:*:*",
+			"cpeNameId": "76AE8B40-AB95-45AB-BE51-D1578002B657"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dell:emc_unity_xt_operating_environment:5.0.2.0.5.009:*:*:*:*:*:*:*",
+			"cpeNameId": "A9885F71-13D8-40D4-93E2-5D275AC7902A"
+		}
+	]
 }

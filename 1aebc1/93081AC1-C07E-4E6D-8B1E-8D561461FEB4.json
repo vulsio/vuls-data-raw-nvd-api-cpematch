@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:13.8:*:*:*:*:*:*:*",
-  "matchCriteriaId": "93081AC1-C07E-4E6D-8B1E-8D561461FEB4",
-  "created": "2021-08-06T13:06:36.877",
-  "lastModified": "2021-08-06T13:06:36.877",
-  "cpeLastModified": "2021-08-06T13:06:36.877",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:13.8:*:*:*:*:*:*:*",
-      "cpeNameId": "598273B9-8035-4C21-91F1-81725C53C874"
-    }
-  ]
+	"criteria": "cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:13.8:*:*:*:*:*:*:*",
+	"matchCriteriaId": "93081AC1-C07E-4E6D-8B1E-8D561461FEB4",
+	"created": "2021-08-06T13:06:36.877",
+	"lastModified": "2021-08-06T13:06:36.877",
+	"cpeLastModified": "2021-08-06T13:06:36.877",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:13.8:*:*:*:*:*:*:*",
+			"cpeNameId": "598273B9-8035-4C21-91F1-81725C53C874"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:hp:cc523a_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A836685C-6B3E-45DB-AA0B-8068F16ED725",
-  "versionEndExcluding": "2405135_000405",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:cc523a_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "78325675-D215-4EA4-8D6F-F7D8487B1219"
-    },
-    {
-      "cpeName": "cpe:2.3:o:hp:cc523a_firmware:2308214_000932:*:*:*:*:*:*:*",
-      "cpeNameId": "DE10428B-36CA-43A6-8C92-2AD5593FFD17"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:cc523a_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A836685C-6B3E-45DB-AA0B-8068F16ED725",
+	"versionEndExcluding": "2405135_000405",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:cc523a_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "78325675-D215-4EA4-8D6F-F7D8487B1219"
+		},
+		{
+			"cpeName": "cpe:2.3:o:hp:cc523a_firmware:2308214_000932:*:*:*:*:*:*:*",
+			"cpeNameId": "DE10428B-36CA-43A6-8C92-2AD5593FFD17"
+		}
+	]
 }

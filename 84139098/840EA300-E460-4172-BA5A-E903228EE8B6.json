@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:ideacentre_aio_3_24iap7_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "840EA300-E460-4172-BA5A-E903228EE8B6",
-  "versionEndExcluding": "o5nkt33a",
-  "created": "2023-11-15T14:52:15.753",
-  "lastModified": "2023-11-15T14:52:15.753",
-  "cpeLastModified": "2023-11-15T14:52:15.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:ideacentre_aio_3_24iap7_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "64FBEE22-B9E7-4F35-AAA5-AE4C0007FC21"
-    },
-    {
-      "cpeName": "cpe:2.3:o:lenovo:ideacentre_aio_3_24iap7_firmware:o5nkt32a:*:*:*:*:*:*:*",
-      "cpeNameId": "8DDFE9E5-2754-42E1-9454-6877207804AE"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:ideacentre_aio_3_24iap7_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "840EA300-E460-4172-BA5A-E903228EE8B6",
+	"versionEndExcluding": "o5nkt33a",
+	"created": "2023-11-15T14:52:15.753",
+	"lastModified": "2023-11-15T14:52:15.753",
+	"cpeLastModified": "2023-11-15T14:52:15.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:ideacentre_aio_3_24iap7_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "64FBEE22-B9E7-4F35-AAA5-AE4C0007FC21"
+		},
+		{
+			"cpeName": "cpe:2.3:o:lenovo:ideacentre_aio_3_24iap7_firmware:o5nkt32a:*:*:*:*:*:*:*",
+			"cpeNameId": "8DDFE9E5-2754-42E1-9454-6877207804AE"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:qualcomm:sdr8250:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "762D15EC-2C26-4FBE-9080-3EEF84D02EEA",
-  "created": "2021-01-27T17:47:31.840",
-  "lastModified": "2021-01-27T17:47:31.840",
-  "cpeLastModified": "2021-01-28T18:35:15.190",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:qualcomm:sdr8250:-:*:*:*:*:*:*:*",
-      "cpeNameId": "72C7019E-7630-48CD-B25F-994306443F83"
-    }
-  ]
+	"criteria": "cpe:2.3:h:qualcomm:sdr8250:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "762D15EC-2C26-4FBE-9080-3EEF84D02EEA",
+	"created": "2021-01-27T17:47:31.840",
+	"lastModified": "2021-01-27T17:47:31.840",
+	"cpeLastModified": "2021-01-28T18:35:15.190",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:sdr8250:-:*:*:*:*:*:*:*",
+			"cpeNameId": "72C7019E-7630-48CD-B25F-994306443F83"
+		}
+	]
 }

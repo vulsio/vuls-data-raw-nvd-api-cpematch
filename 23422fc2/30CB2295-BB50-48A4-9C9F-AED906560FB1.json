@@ -1,24 +1,24 @@
 {
-  "criteria": "cpe:2.3:a:arm:midguard_gpu_kernel_driver:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "30CB2295-BB50-48A4-9C9F-AED906560FB1",
-  "versionStartIncluding": "r4p0",
-  "versionEndIncluding": "r30p0",
-  "created": "2021-06-11T03:47:05.110",
-  "lastModified": "2022-10-26T15:53:25.477",
-  "cpeLastModified": "2022-10-26T15:53:25.477",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:arm:midguard_gpu_kernel_driver:r4p0:*:*:*:*:*:*:*",
-      "cpeNameId": "9FEEB9EA-7F60-4988-B458-71425BC37422"
-    },
-    {
-      "cpeName": "cpe:2.3:a:arm:midguard_gpu_kernel_driver:r26p0:*:*:*:*:*:*:*",
-      "cpeNameId": "92E7EAF3-BCC2-4B8D-8FC5-23C472BA05D5"
-    },
-    {
-      "cpeName": "cpe:2.3:a:arm:midguard_gpu_kernel_driver:r30p0:*:*:*:*:*:*:*",
-      "cpeNameId": "22F5ED82-8EDD-4408-AC62-6D0992C408CA"
-    }
-  ]
+	"criteria": "cpe:2.3:a:arm:midguard_gpu_kernel_driver:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "30CB2295-BB50-48A4-9C9F-AED906560FB1",
+	"versionStartIncluding": "r4p0",
+	"versionEndIncluding": "r30p0",
+	"created": "2021-06-11T03:47:05.110",
+	"lastModified": "2022-10-26T15:53:25.477",
+	"cpeLastModified": "2022-10-26T15:53:25.477",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:arm:midguard_gpu_kernel_driver:r4p0:*:*:*:*:*:*:*",
+			"cpeNameId": "9FEEB9EA-7F60-4988-B458-71425BC37422"
+		},
+		{
+			"cpeName": "cpe:2.3:a:arm:midguard_gpu_kernel_driver:r26p0:*:*:*:*:*:*:*",
+			"cpeNameId": "92E7EAF3-BCC2-4B8D-8FC5-23C472BA05D5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:arm:midguard_gpu_kernel_driver:r30p0:*:*:*:*:*:*:*",
+			"cpeNameId": "22F5ED82-8EDD-4408-AC62-6D0992C408CA"
+		}
+	]
 }

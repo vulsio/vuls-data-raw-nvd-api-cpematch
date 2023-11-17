@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:fujielectric:frenic_loader:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "68380B78-0501-42F5-9345-4157F32CB90B",
-  "versionEndIncluding": "3.5.0.0",
-  "created": "2019-08-23T13:19:56.320",
-  "lastModified": "2019-08-23T13:19:56.320",
-  "cpeLastModified": "2019-08-23T13:46:49.850",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:fujielectric:frenic_loader:-:*:*:*:*:*:*:*",
-      "cpeNameId": "9C034953-8DBC-42DD-A361-D946A20A5CE0"
-    },
-    {
-      "cpeName": "cpe:2.3:o:fujielectric:frenic_loader:3.5.0.0:*:*:*:*:*:*:*",
-      "cpeNameId": "DED40ACA-A198-4E2B-920D-8506C3D6F1A2"
-    }
-  ]
+	"criteria": "cpe:2.3:o:fujielectric:frenic_loader:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "68380B78-0501-42F5-9345-4157F32CB90B",
+	"versionEndIncluding": "3.5.0.0",
+	"created": "2019-08-23T13:19:56.320",
+	"lastModified": "2019-08-23T13:19:56.320",
+	"cpeLastModified": "2019-08-23T13:46:49.850",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:fujielectric:frenic_loader:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9C034953-8DBC-42DD-A361-D946A20A5CE0"
+		},
+		{
+			"cpeName": "cpe:2.3:o:fujielectric:frenic_loader:3.5.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "DED40ACA-A198-4E2B-920D-8506C3D6F1A2"
+		}
+	]
 }

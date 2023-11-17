@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:jhl6540_thunderbolt_3_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "2DBF52A8-E9F7-4031-B4A5-7EA046F93924",
-  "versionEndExcluding": "46",
-  "created": "2021-06-11T14:21:06.107",
-  "lastModified": "2021-06-11T14:21:06.107",
-  "cpeLastModified": "2021-06-11T14:21:06.107",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:jhl6540_thunderbolt_3_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "94358C19-9719-4DBD-A2E7-FB14B36BF728"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:jhl6540_thunderbolt_3_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2DBF52A8-E9F7-4031-B4A5-7EA046F93924",
+	"versionEndExcluding": "46",
+	"created": "2021-06-11T14:21:06.107",
+	"lastModified": "2021-06-11T14:21:06.107",
+	"cpeLastModified": "2021-06-11T14:21:06.107",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:jhl6540_thunderbolt_3_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "94358C19-9719-4DBD-A2E7-FB14B36BF728"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:xeon_d-2786nte_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F94C9EAF-50BD-4AE1-A1DB-1747BF763433",
-  "created": "2022-05-18T18:47:06.677",
-  "lastModified": "2023-02-24T19:24:33.533",
-  "cpeLastModified": "2022-05-18T18:55:50.130",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:xeon_d-2786nte_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "63E6CE25-8A39-4767-BA1F-A4AFA9FCB1A7"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:xeon_d-2786nte_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F94C9EAF-50BD-4AE1-A1DB-1747BF763433",
+	"created": "2022-05-18T18:47:06.677",
+	"lastModified": "2023-02-24T19:24:33.533",
+	"cpeLastModified": "2022-05-18T18:55:50.130",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:xeon_d-2786nte_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "63E6CE25-8A39-4767-BA1F-A4AFA9FCB1A7"
+		}
+	]
 }

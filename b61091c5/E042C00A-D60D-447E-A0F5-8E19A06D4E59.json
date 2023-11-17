@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:lenovo:thinkpad_e14_gen2:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E042C00A-D60D-447E-A0F5-8E19A06D4E59",
-  "created": "2021-04-20T13:32:57.680",
-  "lastModified": "2021-04-20T13:32:57.680",
-  "cpeLastModified": "2021-04-20T13:33:20.980",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:lenovo:thinkpad_e14_gen2:-:*:*:*:*:*:*:*",
-      "cpeNameId": "0DD3068D-F9AC-475F-BE95-51489C2E7E0C"
-    }
-  ]
+	"criteria": "cpe:2.3:h:lenovo:thinkpad_e14_gen2:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E042C00A-D60D-447E-A0F5-8E19A06D4E59",
+	"created": "2021-04-20T13:32:57.680",
+	"lastModified": "2021-04-20T13:32:57.680",
+	"cpeLastModified": "2021-04-20T13:33:20.980",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:lenovo:thinkpad_e14_gen2:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0DD3068D-F9AC-475F-BE95-51489C2E7E0C"
+		}
+	]
 }

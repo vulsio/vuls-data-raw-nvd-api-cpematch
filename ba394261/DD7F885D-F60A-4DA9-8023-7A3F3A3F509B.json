@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:o:cisco:aironet_1850_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "DD7F885D-F60A-4DA9-8023-7A3F3A3F509B",
-  "versionStartIncluding": "8.8",
-  "versionEndExcluding": "8.8.125.0",
-  "created": "2019-10-21T16:58:27.637",
-  "lastModified": "2019-10-21T16:58:27.637",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:aironet_1850_firmware:8.8:*:*:*:*:*:*:*",
-      "cpeNameId": "7EBC3ECA-9B0A-411B-9995-C8FFCBB1F5E1"
-    },
-    {
-      "cpeName": "cpe:2.3:o:cisco:aironet_1850_firmware:8.8\\(110.0\\):*:*:*:*:*:*:*",
-      "cpeNameId": "64D19671-1026-48C7-BB2C-B8F5DF20168C"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:aironet_1850_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DD7F885D-F60A-4DA9-8023-7A3F3A3F509B",
+	"versionStartIncluding": "8.8",
+	"versionEndExcluding": "8.8.125.0",
+	"created": "2019-10-21T16:58:27.637",
+	"lastModified": "2019-10-21T16:58:27.637",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:aironet_1850_firmware:8.8:*:*:*:*:*:*:*",
+			"cpeNameId": "7EBC3ECA-9B0A-411B-9995-C8FFCBB1F5E1"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:aironet_1850_firmware:8.8\\(110.0\\):*:*:*:*:*:*:*",
+			"cpeNameId": "64D19671-1026-48C7-BB2C-B8F5DF20168C"
+		}
+	]
 }

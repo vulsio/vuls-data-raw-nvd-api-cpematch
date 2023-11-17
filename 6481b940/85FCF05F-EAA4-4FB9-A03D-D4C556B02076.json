@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:konicaminolta:bizhub_c454e_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "85FCF05F-EAA4-4FB9-A03D-D4C556B02076",
-  "versionEndExcluding": "gdr-m1",
-  "created": "2022-01-11T15:25:19.307",
-  "lastModified": "2022-01-11T15:25:19.307",
-  "cpeLastModified": "2022-01-13T02:37:34.383",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:konicaminolta:bizhub_c454e_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "60875EFF-AED0-406C-96FC-9A1C52A385EA"
-    }
-  ]
+	"criteria": "cpe:2.3:o:konicaminolta:bizhub_c454e_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "85FCF05F-EAA4-4FB9-A03D-D4C556B02076",
+	"versionEndExcluding": "gdr-m1",
+	"created": "2022-01-11T15:25:19.307",
+	"lastModified": "2022-01-11T15:25:19.307",
+	"cpeLastModified": "2022-01-13T02:37:34.383",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:konicaminolta:bizhub_c454e_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "60875EFF-AED0-406C-96FC-9A1C52A385EA"
+		}
+	]
 }

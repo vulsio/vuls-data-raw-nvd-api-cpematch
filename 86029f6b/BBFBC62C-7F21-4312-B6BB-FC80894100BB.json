@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:siemens:simatic_rtu3031c_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "BBFBC62C-7F21-4312-B6BB-FC80894100BB",
-  "versionEndExcluding": "5.0.14",
-  "created": "2022-07-28T14:05:40.170",
-  "lastModified": "2022-07-28T14:05:40.170",
-  "cpeLastModified": "2021-09-23T15:46:09.993",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:simatic_rtu3031c_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "0E7ACD20-2135-4960-B956-E2D84F96B668"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:simatic_rtu3031c_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BBFBC62C-7F21-4312-B6BB-FC80894100BB",
+	"versionEndExcluding": "5.0.14",
+	"created": "2022-07-28T14:05:40.170",
+	"lastModified": "2022-07-28T14:05:40.170",
+	"cpeLastModified": "2021-09-23T15:46:09.993",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:simatic_rtu3031c_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0E7ACD20-2135-4960-B956-E2D84F96B668"
+		}
+	]
 }

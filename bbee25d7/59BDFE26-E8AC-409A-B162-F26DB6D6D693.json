@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:realsense_id_f450_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "59BDFE26-E8AC-409A-B162-F26DB6D6D693",
-  "versionEndExcluding": "2.6.0.74",
-  "created": "2022-05-19T14:00:00.740",
-  "lastModified": "2022-05-19T14:00:00.740",
-  "cpeLastModified": "2022-05-06T20:56:29.227",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:realsense_id_f450_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "5DE7DC81-E1E6-4CA8-9A9E-F0823ECE6E59"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:realsense_id_f450_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "59BDFE26-E8AC-409A-B162-F26DB6D6D693",
+	"versionEndExcluding": "2.6.0.74",
+	"created": "2022-05-19T14:00:00.740",
+	"lastModified": "2022-05-19T14:00:00.740",
+	"cpeLastModified": "2022-05-06T20:56:29.227",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:realsense_id_f450_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5DE7DC81-E1E6-4CA8-9A9E-F0823ECE6E59"
+		}
+	]
 }

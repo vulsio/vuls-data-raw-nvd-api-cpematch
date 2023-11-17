@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:elastic:kibana:5.2.2:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FEBBEEC5-0843-41F1-BD55-0C8C8CA781FE",
-  "created": "2020-08-14T17:12:14.750",
-  "lastModified": "2020-08-14T17:12:14.750",
-  "cpeLastModified": "2020-08-14T17:12:14.750",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:elastic:kibana:5.2.2:*:*:*:*:*:*:*",
-      "cpeNameId": "16FDAEC2-FDF6-49C3-97B5-EBC3CB06E06F"
-    }
-  ]
+	"criteria": "cpe:2.3:a:elastic:kibana:5.2.2:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FEBBEEC5-0843-41F1-BD55-0C8C8CA781FE",
+	"created": "2020-08-14T17:12:14.750",
+	"lastModified": "2020-08-14T17:12:14.750",
+	"cpeLastModified": "2020-08-14T17:12:14.750",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:elastic:kibana:5.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "16FDAEC2-FDF6-49C3-97B5-EBC3CB06E06F"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "criteria": "cpe:2.3:a:cisco:secure_endpoint:*:*:*:*:*:windows:*:*",
-  "matchCriteriaId": "973542E7-2835-46C0-B99D-BA294BBC5563",
-  "versionEndExcluding": "7.5.13.21586",
-  "created": "2023-08-25T16:04:56.020",
-  "lastModified": "2023-09-28T16:38:45.480",
-  "cpeLastModified": "2023-08-25T16:04:56.020",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:cisco:secure_endpoint:-:*:*:*:*:windows:*:*",
-      "cpeNameId": "C42C0B60-42C4-437A-82A4-CBADF7ACC8F7"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:secure_endpoint:7.5.5:*:*:*:*:windows:*:*",
-      "cpeNameId": "1F1CE4EF-C9DF-4ADD-8953-225A42EC31DC"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:secure_endpoint:7.5.9:*:*:*:*:windows:*:*",
-      "cpeNameId": "02324B4E-4B0E-440F-8254-3E5FCD5E84B3"
-    }
-  ]
+	"criteria": "cpe:2.3:a:cisco:secure_endpoint:*:*:*:*:*:windows:*:*",
+	"matchCriteriaId": "973542E7-2835-46C0-B99D-BA294BBC5563",
+	"versionEndExcluding": "7.5.13.21586",
+	"created": "2023-08-25T16:04:56.020",
+	"lastModified": "2023-09-28T16:38:45.480",
+	"cpeLastModified": "2023-08-25T16:04:56.020",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:secure_endpoint:-:*:*:*:*:windows:*:*",
+			"cpeNameId": "C42C0B60-42C4-437A-82A4-CBADF7ACC8F7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:secure_endpoint:7.5.5:*:*:*:*:windows:*:*",
+			"cpeNameId": "1F1CE4EF-C9DF-4ADD-8953-225A42EC31DC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:secure_endpoint:7.5.9:*:*:*:*:windows:*:*",
+			"cpeNameId": "02324B4E-4B0E-440F-8254-3E5FCD5E84B3"
+		}
+	]
 }

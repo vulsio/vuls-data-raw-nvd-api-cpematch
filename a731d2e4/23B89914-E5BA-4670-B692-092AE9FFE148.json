@@ -1,31 +1,31 @@
 {
-  "criteria": "cpe:2.3:a:siemens:simatic_wincc:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "23B89914-E5BA-4670-B692-092AE9FFE148",
-  "versionEndIncluding": "7.2",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:siemens:simatic_wincc:-:*:*:*:*:*:*:*",
-      "cpeNameId": "F6FDF0C9-4199-44BD-A4DE-69D228D48BC7"
-    },
-    {
-      "cpeName": "cpe:2.3:a:siemens:simatic_wincc:7.1:*:*:*:*:*:*:*",
-      "cpeNameId": "377F9107-1D49-47EA-BA92-D5531C354388"
-    },
-    {
-      "cpeName": "cpe:2.3:a:siemens:simatic_wincc:7.2:*:*:*:*:*:*:*",
-      "cpeNameId": "4C070D40-31C0-4BED-AF52-DE16D59A7504"
-    },
-    {
-      "cpeName": "cpe:2.3:a:siemens:simatic_wincc:7.2:-:*:*:*:*:*:*",
-      "cpeNameId": "E1485116-EFD5-44C0-8E03-7C20EB0E942E"
-    },
-    {
-      "cpeName": "cpe:2.3:a:siemens:simatic_wincc:7.2:upd_14:*:*:*:*:*:*",
-      "cpeNameId": "7E98CF3E-811E-4185-99F1-391EC1F69C4C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:siemens:simatic_wincc:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "23B89914-E5BA-4670-B692-092AE9FFE148",
+	"versionEndIncluding": "7.2",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:siemens:simatic_wincc:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F6FDF0C9-4199-44BD-A4DE-69D228D48BC7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:siemens:simatic_wincc:7.1:*:*:*:*:*:*:*",
+			"cpeNameId": "377F9107-1D49-47EA-BA92-D5531C354388"
+		},
+		{
+			"cpeName": "cpe:2.3:a:siemens:simatic_wincc:7.2:*:*:*:*:*:*:*",
+			"cpeNameId": "4C070D40-31C0-4BED-AF52-DE16D59A7504"
+		},
+		{
+			"cpeName": "cpe:2.3:a:siemens:simatic_wincc:7.2:-:*:*:*:*:*:*",
+			"cpeNameId": "E1485116-EFD5-44C0-8E03-7C20EB0E942E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:siemens:simatic_wincc:7.2:upd_14:*:*:*:*:*:*",
+			"cpeNameId": "7E98CF3E-811E-4185-99F1-391EC1F69C4C"
+		}
+	]
 }

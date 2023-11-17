@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:aruba:cx_8400_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CBB5C3C1-CEE4-4292-BD22-1F7627250057",
-  "versionEndIncluding": "10.04.1000",
-  "created": "2020-09-29T17:12:11.637",
-  "lastModified": "2020-09-29T17:12:11.637",
-  "cpeLastModified": "2020-10-16T18:00:57.637",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:aruba:cx_8400_firmware:10.04.1000:*:*:*:*:*:*:*",
-      "cpeNameId": "3DEB3E13-36C7-4376-8F51-DC3691948845"
-    }
-  ]
+	"criteria": "cpe:2.3:o:aruba:cx_8400_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CBB5C3C1-CEE4-4292-BD22-1F7627250057",
+	"versionEndIncluding": "10.04.1000",
+	"created": "2020-09-29T17:12:11.637",
+	"lastModified": "2020-09-29T17:12:11.637",
+	"cpeLastModified": "2020-10-16T18:00:57.637",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:aruba:cx_8400_firmware:10.04.1000:*:*:*:*:*:*:*",
+			"cpeNameId": "3DEB3E13-36C7-4376-8F51-DC3691948845"
+		}
+	]
 }

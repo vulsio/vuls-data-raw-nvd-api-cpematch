@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:zhan_66_pro_14_g3_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5217CCDD-D745-40C6-8EFE-8EA752FE5A80",
-  "versionEndExcluding": "01.09.00",
-  "created": "2023-02-17T17:13:07.890",
-  "lastModified": "2023-02-17T17:13:07.890",
-  "cpeLastModified": "2023-02-17T17:13:07.890",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:zhan_66_pro_14_g3_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "F553182B-FB55-400D-8D4D-59413DD70980"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:zhan_66_pro_14_g3_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5217CCDD-D745-40C6-8EFE-8EA752FE5A80",
+	"versionEndExcluding": "01.09.00",
+	"created": "2023-02-17T17:13:07.890",
+	"lastModified": "2023-02-17T17:13:07.890",
+	"cpeLastModified": "2023-02-17T17:13:07.890",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:zhan_66_pro_14_g3_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F553182B-FB55-400D-8D4D-59413DD70980"
+		}
+	]
 }

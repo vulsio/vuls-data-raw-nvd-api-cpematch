@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:amd:ryzen_7_2700u_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0C08A1B2-1DF1-474B-BB5E-3085A03C9BE6",
-  "versionEndExcluding": "comboam4pi_1.0.0.8",
-  "created": "2022-05-31T07:16:44.377",
-  "lastModified": "2022-05-31T07:16:44.377",
-  "cpeLastModified": "2022-03-21T17:41:09.220",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:amd:ryzen_7_2700u_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "5A1994DD-4F7E-4212-879E-65341B3F05B8"
-    }
-  ]
+	"criteria": "cpe:2.3:o:amd:ryzen_7_2700u_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0C08A1B2-1DF1-474B-BB5E-3085A03C9BE6",
+	"versionEndExcluding": "comboam4pi_1.0.0.8",
+	"created": "2022-05-31T07:16:44.377",
+	"lastModified": "2022-05-31T07:16:44.377",
+	"cpeLastModified": "2022-03-21T17:41:09.220",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_7_2700u_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5A1994DD-4F7E-4212-879E-65341B3F05B8"
+		}
+	]
 }

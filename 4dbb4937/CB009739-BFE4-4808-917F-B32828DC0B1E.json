@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:dlink:dcs-935l_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CB009739-BFE4-4808-917F-B32828DC0B1E",
-  "versionEndIncluding": "1.12.101",
-  "created": "2020-01-09T15:59:57.177",
-  "lastModified": "2020-01-09T15:59:57.177",
-  "cpeLastModified": "2020-01-15T13:19:29.873",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dlink:dcs-935l_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "F5A36D57-AB74-403C-BF28-229F8ED4CBA2"
-    },
-    {
-      "cpeName": "cpe:2.3:o:dlink:dcs-935l_firmware:1.12.101:*:*:*:*:*:*:*",
-      "cpeNameId": "1E6B5A9A-9363-4786-82A1-9358D01C4C78"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dlink:dcs-935l_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CB009739-BFE4-4808-917F-B32828DC0B1E",
+	"versionEndIncluding": "1.12.101",
+	"created": "2020-01-09T15:59:57.177",
+	"lastModified": "2020-01-09T15:59:57.177",
+	"cpeLastModified": "2020-01-15T13:19:29.873",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dlink:dcs-935l_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F5A36D57-AB74-403C-BF28-229F8ED4CBA2"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dlink:dcs-935l_firmware:1.12.101:*:*:*:*:*:*:*",
+			"cpeNameId": "1E6B5A9A-9363-4786-82A1-9358D01C4C78"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:sap:diagnostics_agents:7.20:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4D02FD3A-5969-4D1C-A9FE-F7DD3E5B72D4",
-  "created": "2019-07-12T15:56:15.040",
-  "lastModified": "2019-07-12T15:56:15.040",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:sap:diagnostics_agents:7.20:*:*:*:*:*:*:*",
-      "cpeNameId": "056230AE-CE66-41EE-9038-FFF20597B89C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:sap:diagnostics_agents:7.20:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4D02FD3A-5969-4D1C-A9FE-F7DD3E5B72D4",
+	"created": "2019-07-12T15:56:15.040",
+	"lastModified": "2019-07-12T15:56:15.040",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sap:diagnostics_agents:7.20:*:*:*:*:*:*:*",
+			"cpeNameId": "056230AE-CE66-41EE-9038-FFF20597B89C"
+		}
+	]
 }

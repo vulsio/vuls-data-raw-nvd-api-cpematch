@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:konicaminolta:bizhub_c360i_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "BF4869E3-F079-46FF-AE4F-8D800B16A40B",
-  "versionEndExcluding": "2022-04-14",
-  "created": "2022-05-19T20:59:36.623",
-  "lastModified": "2022-05-26T15:29:44.860",
-  "cpeLastModified": "2022-01-11T17:05:46.560",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:konicaminolta:bizhub_c360i_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "9D287CC2-33A8-4969-BBBC-B6228F99CFB2"
-    }
-  ]
+	"criteria": "cpe:2.3:o:konicaminolta:bizhub_c360i_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BF4869E3-F079-46FF-AE4F-8D800B16A40B",
+	"versionEndExcluding": "2022-04-14",
+	"created": "2022-05-19T20:59:36.623",
+	"lastModified": "2022-05-26T15:29:44.860",
+	"cpeLastModified": "2022-01-11T17:05:46.560",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:konicaminolta:bizhub_c360i_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9D287CC2-33A8-4969-BBBC-B6228F99CFB2"
+		}
+	]
 }

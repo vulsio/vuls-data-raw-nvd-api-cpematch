@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:cisco:iem-3300-16p:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D7DCD235-75AC-42A8-BFD8-A6D7C0F4FD7E",
-  "created": "2020-09-28T13:51:08.503",
-  "lastModified": "2020-09-28T13:51:08.503",
-  "cpeLastModified": "2020-10-30T10:28:40.947",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:cisco:iem-3300-16p:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E38101A3-DAD8-4B7C-8D92-5472A974EC54"
-    }
-  ]
+	"criteria": "cpe:2.3:h:cisco:iem-3300-16p:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D7DCD235-75AC-42A8-BFD8-A6D7C0F4FD7E",
+	"created": "2020-09-28T13:51:08.503",
+	"lastModified": "2020-09-28T13:51:08.503",
+	"cpeLastModified": "2020-10-30T10:28:40.947",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:cisco:iem-3300-16p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E38101A3-DAD8-4B7C-8D92-5472A974EC54"
+		}
+	]
 }

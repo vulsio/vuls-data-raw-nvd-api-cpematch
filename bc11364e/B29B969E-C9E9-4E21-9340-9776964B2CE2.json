@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:bd:alaris_guardrails_editor:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B29B969E-C9E9-4E21-9340-9776964B2CE2",
-  "versionEndIncluding": "12.1.2",
-  "created": "2023-07-20T18:00:33.860",
-  "lastModified": "2023-07-20T18:00:33.860",
-  "cpeLastModified": "2023-08-28T17:31:10.803",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:bd:alaris_guardrails_editor:12.1.2:*:*:*:*:*:*:*",
-      "cpeNameId": "2226660A-4F4E-480D-8795-8CA8FBDE7672"
-    }
-  ]
+	"criteria": "cpe:2.3:a:bd:alaris_guardrails_editor:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B29B969E-C9E9-4E21-9340-9776964B2CE2",
+	"versionEndIncluding": "12.1.2",
+	"created": "2023-07-20T18:00:33.860",
+	"lastModified": "2023-07-20T18:00:33.860",
+	"cpeLastModified": "2023-08-28T17:31:10.803",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:bd:alaris_guardrails_editor:12.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "2226660A-4F4E-480D-8795-8CA8FBDE7672"
+		}
+	]
 }

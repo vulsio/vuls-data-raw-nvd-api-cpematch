@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:geomywp:geo_my_wordpress:*:*:*:*:*:wordpress:*:*",
-  "matchCriteriaId": "8105A21C-977C-4A84-BC86-8CA3583A2DE8",
-  "versionEndIncluding": "4.0",
-  "created": "2023-10-11T20:07:31.507",
-  "lastModified": "2023-10-11T20:07:31.507",
-  "cpeLastModified": "2023-10-13T17:42:14.767",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:geomywp:geo_my_wordpress:4.0:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "E23F7A53-C8F9-40DE-B3A1-CD489490B514"
-    }
-  ]
+	"criteria": "cpe:2.3:a:geomywp:geo_my_wordpress:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "8105A21C-977C-4A84-BC86-8CA3583A2DE8",
+	"versionEndIncluding": "4.0",
+	"created": "2023-10-11T20:07:31.507",
+	"lastModified": "2023-10-11T20:07:31.507",
+	"cpeLastModified": "2023-10-13T17:42:14.767",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:geomywp:geo_my_wordpress:4.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E23F7A53-C8F9-40DE-B3A1-CD489490B514"
+		}
+	]
 }

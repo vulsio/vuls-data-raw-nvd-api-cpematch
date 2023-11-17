@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:wut:com-server_highspeed_poe_3x_isolated_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "77F3C69D-6EAF-49CF-B961-A570F94A6E1B",
-  "versionEndExcluding": "1.55",
-  "created": "2022-12-14T16:44:27.340",
-  "lastModified": "2022-12-14T17:44:22.250",
-  "cpeLastModified": "2022-12-14T17:44:22.250",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:wut:com-server_highspeed_poe_3x_isolated_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "79DD8594-C796-459A-A56E-B7F14A753CCD"
-    }
-  ]
+	"criteria": "cpe:2.3:o:wut:com-server_highspeed_poe_3x_isolated_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "77F3C69D-6EAF-49CF-B961-A570F94A6E1B",
+	"versionEndExcluding": "1.55",
+	"created": "2022-12-14T16:44:27.340",
+	"lastModified": "2022-12-14T17:44:22.250",
+	"cpeLastModified": "2022-12-14T17:44:22.250",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:wut:com-server_highspeed_poe_3x_isolated_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "79DD8594-C796-459A-A56E-B7F14A753CCD"
+		}
+	]
 }

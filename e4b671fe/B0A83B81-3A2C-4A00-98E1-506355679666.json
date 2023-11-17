@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:nec:nas_gateway_nh8a_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B0A83B81-3A2C-4A00-98E1-506355679666",
-  "versionEndExcluding": "fos_5.5.3-08\\(nec2.5.4a\\)",
-  "created": "2021-07-01T12:42:47.677",
-  "lastModified": "2021-07-01T12:42:47.677",
-  "cpeLastModified": "2021-08-23T14:31:15.100",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:nec:nas_gateway_nh8a_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "5ADAF678-B90C-4978-909C-22578E54AA8A"
-    }
-  ]
+	"criteria": "cpe:2.3:o:nec:nas_gateway_nh8a_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B0A83B81-3A2C-4A00-98E1-506355679666",
+	"versionEndExcluding": "fos_5.5.3-08\\(nec2.5.4a\\)",
+	"created": "2021-07-01T12:42:47.677",
+	"lastModified": "2021-07-01T12:42:47.677",
+	"cpeLastModified": "2021-08-23T14:31:15.100",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:nec:nas_gateway_nh8a_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5ADAF678-B90C-4978-909C-22578E54AA8A"
+		}
+	]
 }

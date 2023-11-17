@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:intel:s2600wtt:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "DD49BC58-9E3B-4385-8C12-3512808A403B",
-  "created": "2020-08-14T12:17:22.073",
-  "lastModified": "2020-08-14T12:17:22.073",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:intel:s2600wtt:-:*:*:*:*:*:*:*",
-      "cpeNameId": "2F3FF936-4348-4352-856C-B7DB8BA479BB"
-    }
-  ]
+	"criteria": "cpe:2.3:h:intel:s2600wtt:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DD49BC58-9E3B-4385-8C12-3512808A403B",
+	"created": "2020-08-14T12:17:22.073",
+	"lastModified": "2020-08-14T12:17:22.073",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:s2600wtt:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2F3FF936-4348-4352-856C-B7DB8BA479BB"
+		}
+	]
 }

@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:stormshield:network_security:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1969E44F-388D-4941-8D84-9D48F0C0B8D2",
-  "versionStartIncluding": "3.0.0",
-  "versionEndExcluding": "3.0.2",
-  "created": "2022-01-22T03:16:37.880",
-  "lastModified": "2022-01-22T03:16:37.880",
-  "cpeLastModified": "2022-01-24T19:18:00.337",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:stormshield:network_security:3.0.0:*:*:*:*:*:*:*",
-      "cpeNameId": "AEF44D4F-7BB3-4D09-90DC-07CA30846E00"
-    }
-  ]
+	"criteria": "cpe:2.3:a:stormshield:network_security:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1969E44F-388D-4941-8D84-9D48F0C0B8D2",
+	"versionStartIncluding": "3.0.0",
+	"versionEndExcluding": "3.0.2",
+	"created": "2022-01-22T03:16:37.880",
+	"lastModified": "2022-01-22T03:16:37.880",
+	"cpeLastModified": "2022-01-24T19:18:00.337",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:stormshield:network_security:3.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "AEF44D4F-7BB3-4D09-90DC-07CA30846E00"
+		}
+	]
 }

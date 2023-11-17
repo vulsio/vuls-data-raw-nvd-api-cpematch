@@ -1,31 +1,31 @@
 {
-  "criteria": "cpe:2.3:a:schneider-electric:ecostruxure_power_monitoring_expert:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F3E7251E-B20A-40A4-9CAD-CD757E2B1450",
-  "versionEndIncluding": "2020",
-  "created": "2022-02-07T16:41:51.230",
-  "lastModified": "2022-02-07T16:41:51.230",
-  "cpeLastModified": "2022-02-10T07:04:17.420",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:schneider-electric:ecostruxure_power_monitoring_expert:7.0:*:*:*:*:*:*:*",
-      "cpeNameId": "83212206-0DA8-41B7-B8F9-411D838A3F50"
-    },
-    {
-      "cpeName": "cpe:2.3:a:schneider-electric:ecostruxure_power_monitoring_expert:8.0:*:*:*:*:*:*:*",
-      "cpeNameId": "A7E3D00D-632C-4BF3-853B-6AA63E74EC1A"
-    },
-    {
-      "cpeName": "cpe:2.3:a:schneider-electric:ecostruxure_power_monitoring_expert:8.2:*:*:*:*:*:*:*",
-      "cpeNameId": "85443D52-E64C-4570-A38A-E3B0E8EB9DC4"
-    },
-    {
-      "cpeName": "cpe:2.3:a:schneider-electric:ecostruxure_power_monitoring_expert:9.0:*:*:*:*:*:*:*",
-      "cpeNameId": "88424C11-FFDD-4384-9F90-A862F1A303AF"
-    },
-    {
-      "cpeName": "cpe:2.3:a:schneider-electric:ecostruxure_power_monitoring_expert:2020:*:*:*:*:*:*:*",
-      "cpeNameId": "E37B5489-345E-4F00-B764-7EE90E1B4CB1"
-    }
-  ]
+	"criteria": "cpe:2.3:a:schneider-electric:ecostruxure_power_monitoring_expert:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F3E7251E-B20A-40A4-9CAD-CD757E2B1450",
+	"versionEndIncluding": "2020",
+	"created": "2022-02-07T16:41:51.230",
+	"lastModified": "2022-02-07T16:41:51.230",
+	"cpeLastModified": "2022-02-10T07:04:17.420",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:schneider-electric:ecostruxure_power_monitoring_expert:7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "83212206-0DA8-41B7-B8F9-411D838A3F50"
+		},
+		{
+			"cpeName": "cpe:2.3:a:schneider-electric:ecostruxure_power_monitoring_expert:8.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A7E3D00D-632C-4BF3-853B-6AA63E74EC1A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:schneider-electric:ecostruxure_power_monitoring_expert:8.2:*:*:*:*:*:*:*",
+			"cpeNameId": "85443D52-E64C-4570-A38A-E3B0E8EB9DC4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:schneider-electric:ecostruxure_power_monitoring_expert:9.0:*:*:*:*:*:*:*",
+			"cpeNameId": "88424C11-FFDD-4384-9F90-A862F1A303AF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:schneider-electric:ecostruxure_power_monitoring_expert:2020:*:*:*:*:*:*:*",
+			"cpeNameId": "E37B5489-345E-4F00-B764-7EE90E1B4CB1"
+		}
+	]
 }

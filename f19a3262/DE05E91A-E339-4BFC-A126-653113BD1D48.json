@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:cisco:5520_wireless_lan_controller:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "DE05E91A-E339-4BFC-A126-653113BD1D48",
-  "created": "2020-10-06T18:57:44.823",
-  "lastModified": "2020-10-06T18:57:44.823",
-  "cpeLastModified": "2020-10-29T17:31:59.000",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:cisco:5520_wireless_lan_controller:-:*:*:*:*:*:*:*",
-      "cpeNameId": "C486F8E9-097A-4939-856A-8D5B39C2E166"
-    }
-  ]
+	"criteria": "cpe:2.3:h:cisco:5520_wireless_lan_controller:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DE05E91A-E339-4BFC-A126-653113BD1D48",
+	"created": "2020-10-06T18:57:44.823",
+	"lastModified": "2020-10-06T18:57:44.823",
+	"cpeLastModified": "2020-10-29T17:31:59.000",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:cisco:5520_wireless_lan_controller:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C486F8E9-097A-4939-856A-8D5B39C2E166"
+		}
+	]
 }

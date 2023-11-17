@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:vmware:esxi:6.5:650-202102001:*:*:*:*:*:*",
-  "matchCriteriaId": "91032EB0-AC08-459A-8D78-C7412AE64E3F",
-  "created": "2021-02-26T12:12:51.167",
-  "lastModified": "2022-06-02T17:22:54.253",
-  "cpeLastModified": "2021-02-26T12:13:23.993",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:vmware:esxi:6.5:650-202102001:*:*:*:*:*:*",
-      "cpeNameId": "00005230-476B-4F5E-B6FF-6663E5E332AA"
-    }
-  ]
+	"criteria": "cpe:2.3:o:vmware:esxi:6.5:650-202102001:*:*:*:*:*:*",
+	"matchCriteriaId": "91032EB0-AC08-459A-8D78-C7412AE64E3F",
+	"created": "2021-02-26T12:12:51.167",
+	"lastModified": "2022-06-02T17:22:54.253",
+	"cpeLastModified": "2021-02-26T12:13:23.993",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:vmware:esxi:6.5:650-202102001:*:*:*:*:*:*",
+			"cpeNameId": "00005230-476B-4F5E-B6FF-6663E5E332AA"
+		}
+	]
 }

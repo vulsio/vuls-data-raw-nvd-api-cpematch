@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:siemens:6gk5826-2ab00-2ab2_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "86B6E2F3-073D-4C5F-B10B-A988695A516E",
-  "versionEndExcluding": "7.1.2",
-  "created": "2022-10-13T14:44:07.353",
-  "lastModified": "2022-10-13T14:44:07.353",
-  "cpeLastModified": "2022-10-13T14:44:07.353",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:6gk5826-2ab00-2ab2_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "A544BC38-204E-4F55-A16E-A1B580B9639D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:6gk5826-2ab00-2ab2_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "86B6E2F3-073D-4C5F-B10B-A988695A516E",
+	"versionEndExcluding": "7.1.2",
+	"created": "2022-10-13T14:44:07.353",
+	"lastModified": "2022-10-13T14:44:07.353",
+	"cpeLastModified": "2022-10-13T14:44:07.353",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:6gk5826-2ab00-2ab2_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A544BC38-204E-4F55-A16E-A1B580B9639D"
+		}
+	]
 }

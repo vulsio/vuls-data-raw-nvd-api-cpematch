@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:officejet_7512_k1z44a_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B69316D7-C65E-4EEA-8C8E-1BEB9810F097",
-  "versionEndExcluding": "35.0.72",
-  "created": "2021-11-12T12:20:13.633",
-  "lastModified": "2021-11-12T12:20:13.633",
-  "cpeLastModified": "2021-11-15T15:21:02.643",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:officejet_7512_k1z44a_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "2173E487-CEBE-4F6F-B468-AD7C74EE8C0F"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:officejet_7512_k1z44a_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B69316D7-C65E-4EEA-8C8E-1BEB9810F097",
+	"versionEndExcluding": "35.0.72",
+	"created": "2021-11-12T12:20:13.633",
+	"lastModified": "2021-11-12T12:20:13.633",
+	"cpeLastModified": "2021-11-15T15:21:02.643",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:officejet_7512_k1z44a_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2173E487-CEBE-4F6F-B468-AD7C74EE8C0F"
+		}
+	]
 }

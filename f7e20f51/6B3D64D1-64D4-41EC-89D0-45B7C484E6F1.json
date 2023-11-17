@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:21st_century_insurance:21st_century_insurance:*:*:*:*:*:iphone_os:*:*",
-  "matchCriteriaId": "6B3D64D1-64D4-41EC-89D0-45B7C484E6F1",
-  "versionEndIncluding": "10.0.0",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T22:53:51.837",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:21st:21st_century_insurance:10.0.0:*:*:*:*:iphone_os:*:*",
-      "cpeNameId": "312CC011-8C15-434A-9D17-28D9066457CC"
-    }
-  ]
+	"criteria": "cpe:2.3:a:21st_century_insurance:21st_century_insurance:*:*:*:*:*:iphone_os:*:*",
+	"matchCriteriaId": "6B3D64D1-64D4-41EC-89D0-45B7C484E6F1",
+	"versionEndIncluding": "10.0.0",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T22:53:51.837",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:21st:21st_century_insurance:10.0.0:*:*:*:*:iphone_os:*:*",
+			"cpeNameId": "312CC011-8C15-434A-9D17-28D9066457CC"
+		}
+	]
 }

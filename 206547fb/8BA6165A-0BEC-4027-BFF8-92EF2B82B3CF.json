@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:phpservermonitor:php_server_monitor:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8BA6165A-0BEC-4027-BFF8-92EF2B82B3CF",
-  "created": "2021-12-15T14:22:58.170",
-  "lastModified": "2022-11-17T18:58:13.453",
-  "cpeLastModified": "2022-11-17T18:58:13.453",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:phpservermonitor:php_server_monitor:-:*:*:*:*:*:*:*",
-      "cpeNameId": "990002D3-AC93-4EFB-9988-AF3BE1C4908C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:phpservermonitor:php_server_monitor:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8BA6165A-0BEC-4027-BFF8-92EF2B82B3CF",
+	"created": "2021-12-15T14:22:58.170",
+	"lastModified": "2022-11-17T18:58:13.453",
+	"cpeLastModified": "2022-11-17T18:58:13.453",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:phpservermonitor:php_server_monitor:-:*:*:*:*:*:*:*",
+			"cpeNameId": "990002D3-AC93-4EFB-9988-AF3BE1C4908C"
+		}
+	]
 }

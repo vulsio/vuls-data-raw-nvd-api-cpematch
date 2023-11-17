@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:bullguard:internet_security:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "ED77E9F1-A921-435E-A698-C4A8A5B3CB45",
-  "versionEndIncluding": "14.1.287",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:bullguard:internet_security:14.1.287:*:*:*:*:*:*:*",
-      "cpeNameId": "A0A3514F-4C6A-4861-9958-7C2902520D6D"
-    }
-  ]
+	"criteria": "cpe:2.3:a:bullguard:internet_security:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "ED77E9F1-A921-435E-A698-C4A8A5B3CB45",
+	"versionEndIncluding": "14.1.287",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:bullguard:internet_security:14.1.287:*:*:*:*:*:*:*",
+			"cpeNameId": "A0A3514F-4C6A-4861-9958-7C2902520D6D"
+		}
+	]
 }

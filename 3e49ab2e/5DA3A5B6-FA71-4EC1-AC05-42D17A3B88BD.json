@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:sonicwall:nsa_3650_firmware:7.0.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5DA3A5B6-FA71-4EC1-AC05-42D17A3B88BD",
-  "created": "2022-05-04T13:35:04.420",
-  "lastModified": "2022-05-04T13:35:04.420",
-  "cpeLastModified": "2022-06-22T16:42:38.240",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:sonicwall:nsa_3650_firmware:7.0.0:*:*:*:*:*:*:*",
-      "cpeNameId": "DFFD6960-DE09-4473-AD17-C69AE2250C40"
-    }
-  ]
+	"criteria": "cpe:2.3:o:sonicwall:nsa_3650_firmware:7.0.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5DA3A5B6-FA71-4EC1-AC05-42D17A3B88BD",
+	"created": "2022-05-04T13:35:04.420",
+	"lastModified": "2022-05-04T13:35:04.420",
+	"cpeLastModified": "2022-06-22T16:42:38.240",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:sonicwall:nsa_3650_firmware:7.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "DFFD6960-DE09-4473-AD17-C69AE2250C40"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:qs_project:qs:6.6.0:*:*:*:*:node.js:*:*",
-  "matchCriteriaId": "870A2680-00C2-43D2-9C4B-D8F52DB16AA1",
-  "created": "2022-11-28T17:26:02.010",
-  "lastModified": "2022-11-28T17:26:02.010",
-  "cpeLastModified": "2022-11-28T17:26:02.010",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:qs_project:qs:6.6.0:*:*:*:*:node.js:*:*",
-      "cpeNameId": "7EBA0232-397D-45A2-8B6F-AC1BF90A452F"
-    }
-  ]
+	"criteria": "cpe:2.3:a:qs_project:qs:6.6.0:*:*:*:*:node.js:*:*",
+	"matchCriteriaId": "870A2680-00C2-43D2-9C4B-D8F52DB16AA1",
+	"created": "2022-11-28T17:26:02.010",
+	"lastModified": "2022-11-28T17:26:02.010",
+	"cpeLastModified": "2022-11-28T17:26:02.010",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:qs_project:qs:6.6.0:*:*:*:*:node.js:*:*",
+			"cpeNameId": "7EBA0232-397D-45A2-8B6F-AC1BF90A452F"
+		}
+	]
 }

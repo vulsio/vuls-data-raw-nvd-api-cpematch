@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:arcserve:udp:6.5:-:*:*:*:*:*:*",
-  "matchCriteriaId": "5E2D9D00-ED24-469A-911D-4C132608EE6D",
-  "created": "2019-09-19T12:46:47.890",
-  "lastModified": "2019-09-19T12:46:47.890",
-  "cpeLastModified": "2019-09-19T12:46:47.907",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:arcserve:udp:6.5:-:*:*:*:*:*:*",
-      "cpeNameId": "666DF9DF-2EA0-4B06-B80E-3E4EB91EA075"
-    }
-  ]
+	"criteria": "cpe:2.3:a:arcserve:udp:6.5:-:*:*:*:*:*:*",
+	"matchCriteriaId": "5E2D9D00-ED24-469A-911D-4C132608EE6D",
+	"created": "2019-09-19T12:46:47.890",
+	"lastModified": "2019-09-19T12:46:47.890",
+	"cpeLastModified": "2019-09-19T12:46:47.907",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:arcserve:udp:6.5:-:*:*:*:*:*:*",
+			"cpeNameId": "666DF9DF-2EA0-4B06-B80E-3E4EB91EA075"
+		}
+	]
 }

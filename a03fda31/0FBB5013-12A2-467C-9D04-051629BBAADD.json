@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:typo3:fluid_engine:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0FBB5013-12A2-467C-9D04-051629BBAADD",
-  "versionStartIncluding": "2.4.0",
-  "versionEndExcluding": "2.4.1",
-  "created": "2020-10-10T03:46:23.833",
-  "lastModified": "2020-10-10T03:46:23.833",
-  "cpeLastModified": "2020-12-22T16:20:46.857",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:typo3:fluid_engine:2.4.0:*:*:*:*:*:*:*",
-      "cpeNameId": "92031267-3D77-49B1-8F04-883D4A751A92"
-    }
-  ]
+	"criteria": "cpe:2.3:a:typo3:fluid_engine:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0FBB5013-12A2-467C-9D04-051629BBAADD",
+	"versionStartIncluding": "2.4.0",
+	"versionEndExcluding": "2.4.1",
+	"created": "2020-10-10T03:46:23.833",
+	"lastModified": "2020-10-10T03:46:23.833",
+	"cpeLastModified": "2020-12-22T16:20:46.857",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:typo3:fluid_engine:2.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "92031267-3D77-49B1-8F04-883D4A751A92"
+		}
+	]
 }

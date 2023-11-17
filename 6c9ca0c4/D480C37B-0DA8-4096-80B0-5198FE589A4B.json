@@ -1,22 +1,22 @@
 {
-  "criteria": "cpe:2.3:a:apple:cups:1.1.21:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D480C37B-0DA8-4096-80B0-5198FE589A4B",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:apple:cups:1.1.21:*:*:*:*:*:*:*",
-      "cpeNameId": "42515199-4C4A-4E14-AB80-67037AB943AB"
-    },
-    {
-      "cpeName": "cpe:2.3:a:apple:cups:1.1.21:rc1:*:*:*:*:*:*",
-      "cpeNameId": "D7DE4EA0-E2B9-44AA-B679-BB5ADE2A3741"
-    },
-    {
-      "cpeName": "cpe:2.3:a:apple:cups:1.1.21:rc2:*:*:*:*:*:*",
-      "cpeNameId": "92AF51EA-4193-44C3-965F-09E0676EDAC0"
-    }
-  ]
+	"criteria": "cpe:2.3:a:apple:cups:1.1.21:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D480C37B-0DA8-4096-80B0-5198FE589A4B",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apple:cups:1.1.21:*:*:*:*:*:*:*",
+			"cpeNameId": "42515199-4C4A-4E14-AB80-67037AB943AB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apple:cups:1.1.21:rc1:*:*:*:*:*:*",
+			"cpeNameId": "D7DE4EA0-E2B9-44AA-B679-BB5ADE2A3741"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apple:cups:1.1.21:rc2:*:*:*:*:*:*",
+			"cpeNameId": "92AF51EA-4193-44C3-965F-09E0676EDAC0"
+		}
+	]
 }

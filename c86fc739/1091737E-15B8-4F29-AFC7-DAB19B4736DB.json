@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:ac_8265_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1091737E-15B8-4F29-AFC7-DAB19B4736DB",
-  "versionEndExcluding": "20.70.21.2",
-  "created": "2021-11-30T14:28:06.367",
-  "lastModified": "2022-07-12T15:43:04.873",
-  "cpeLastModified": "2021-12-03T02:21:33.943",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:ac_8265_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "C5C1519C-2A86-48AD-AF81-290024181F0F"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:ac_8265_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1091737E-15B8-4F29-AFC7-DAB19B4736DB",
+	"versionEndExcluding": "20.70.21.2",
+	"created": "2021-11-30T14:28:06.367",
+	"lastModified": "2022-07-12T15:43:04.873",
+	"cpeLastModified": "2021-12-03T02:21:33.943",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:ac_8265_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C5C1519C-2A86-48AD-AF81-290024181F0F"
+		}
+	]
 }

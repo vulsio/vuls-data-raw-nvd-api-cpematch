@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:xeon_lc5518_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8A6AD06D-A507-4E38-94C4-B32225F11DCD",
-  "created": "2019-11-18T16:37:01.467",
-  "lastModified": "2019-11-18T16:37:01.467",
-  "cpeLastModified": "2020-03-23T17:33:03.780",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:xeon_lc5518_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E56866F0-858B-4129-BDDA-228620BCDE30"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:xeon_lc5518_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8A6AD06D-A507-4E38-94C4-B32225F11DCD",
+	"created": "2019-11-18T16:37:01.467",
+	"lastModified": "2019-11-18T16:37:01.467",
+	"cpeLastModified": "2020-03-23T17:33:03.780",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:xeon_lc5518_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E56866F0-858B-4129-BDDA-228620BCDE30"
+		}
+	]
 }

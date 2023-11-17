@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:schneider-electric:conext_combox_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "570ACEDE-DE9F-4E19-AA0F-A6C864263D4B",
-  "created": "2022-02-23T19:55:04.903",
-  "lastModified": "2022-02-23T19:55:04.903",
-  "cpeLastModified": "2022-02-23T19:55:10.140",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:schneider-electric:conext_combox_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "BB8B42C1-6BAB-4A9B-A6AA-3FB7ACE0CCE0"
-    }
-  ]
+	"criteria": "cpe:2.3:o:schneider-electric:conext_combox_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "570ACEDE-DE9F-4E19-AA0F-A6C864263D4B",
+	"created": "2022-02-23T19:55:04.903",
+	"lastModified": "2022-02-23T19:55:04.903",
+	"cpeLastModified": "2022-02-23T19:55:10.140",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:schneider-electric:conext_combox_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BB8B42C1-6BAB-4A9B-A6AA-3FB7ACE0CCE0"
+		}
+	]
 }

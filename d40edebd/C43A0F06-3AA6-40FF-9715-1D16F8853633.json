@@ -1,23 +1,23 @@
 {
-  "criteria": "cpe:2.3:o:amd:ryzen_9_6900hx_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C43A0F06-3AA6-40FF-9715-1D16F8853633",
-  "versionEndExcluding": "rmb_1.0.0.4",
-  "created": "2023-05-23T19:32:24.170",
-  "lastModified": "2023-05-23T19:32:24.170",
-  "cpeLastModified": "2023-08-21T18:35:07.823",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:amd:ryzen_9_6900hx_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "DED6B287-BF4B-49EE-AF14-E6D379F1632D"
-    },
-    {
-      "cpeName": "cpe:2.3:o:amd:ryzen_9_6900hx_firmware:rembrandtpi-fp7_1.0.0.8:*:*:*:*:*:*:*",
-      "cpeNameId": "D8B8BC04-0B90-45D3-886B-9A5C91E0F75F"
-    },
-    {
-      "cpeName": "cpe:2.3:o:amd:ryzen_9_6900hx_firmware:rembrandtpi-fp7_1.0.0.9a:*:*:*:*:*:*:*",
-      "cpeNameId": "273DE5CE-1D9B-4874-8FCC-4AAEA9DD756C"
-    }
-  ]
+	"criteria": "cpe:2.3:o:amd:ryzen_9_6900hx_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C43A0F06-3AA6-40FF-9715-1D16F8853633",
+	"versionEndExcluding": "rmb_1.0.0.4",
+	"created": "2023-05-23T19:32:24.170",
+	"lastModified": "2023-05-23T19:32:24.170",
+	"cpeLastModified": "2023-08-21T18:35:07.823",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_9_6900hx_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DED6B287-BF4B-49EE-AF14-E6D379F1632D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_9_6900hx_firmware:rembrandtpi-fp7_1.0.0.8:*:*:*:*:*:*:*",
+			"cpeNameId": "D8B8BC04-0B90-45D3-886B-9A5C91E0F75F"
+		},
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_9_6900hx_firmware:rembrandtpi-fp7_1.0.0.9a:*:*:*:*:*:*:*",
+			"cpeNameId": "273DE5CE-1D9B-4874-8FCC-4AAEA9DD756C"
+		}
+	]
 }

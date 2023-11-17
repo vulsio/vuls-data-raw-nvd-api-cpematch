@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:thinkpad_helix_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "15AFE9E7-8245-42C0-A005-4A5E79510A75",
-  "versionEndExcluding": "gfet65ww",
-  "created": "2019-11-15T17:09:35.330",
-  "lastModified": "2019-11-15T17:09:35.330",
-  "cpeLastModified": "2019-12-10T16:08:26.633",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:thinkpad_helix_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "EDC7197D-D1A2-40AC-ACFD-18E643B34EE0"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:thinkpad_helix_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "15AFE9E7-8245-42C0-A005-4A5E79510A75",
+	"versionEndExcluding": "gfet65ww",
+	"created": "2019-11-15T17:09:35.330",
+	"lastModified": "2019-11-15T17:09:35.330",
+	"cpeLastModified": "2019-12-10T16:08:26.633",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:thinkpad_helix_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EDC7197D-D1A2-40AC-ACFD-18E643B34EE0"
+		}
+	]
 }

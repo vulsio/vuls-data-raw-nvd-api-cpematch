@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:o:cisco:esw2-550x-48_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5803FD62-086B-4316-BDFC-331156C208FD",
-  "versionStartIncluding": "1.4.7.0",
-  "versionEndExcluding": "1.4.9.4",
-  "created": "2020-08-27T16:27:03.177",
-  "lastModified": "2020-08-27T16:27:03.177",
-  "cpeLastModified": "2020-09-09T15:16:32.680",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:esw2-550x-48_firmware:1.4.8.06:*:*:*:*:*:*:*",
-      "cpeNameId": "1B7F1A03-9FBF-44A6-9931-49A1CF1DFB4A"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:esw2-550x-48_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5803FD62-086B-4316-BDFC-331156C208FD",
+	"versionStartIncluding": "1.4.7.0",
+	"versionEndExcluding": "1.4.9.4",
+	"created": "2020-08-27T16:27:03.177",
+	"lastModified": "2020-08-27T16:27:03.177",
+	"cpeLastModified": "2020-09-09T15:16:32.680",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:esw2-550x-48_firmware:1.4.8.06:*:*:*:*:*:*:*",
+			"cpeNameId": "1B7F1A03-9FBF-44A6-9931-49A1CF1DFB4A"
+		}
+	]
 }

@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:a:42gears:surelock:*:*:*:*:*:windows:*:*",
-  "matchCriteriaId": "11C640C3-30E7-497F-A3B5-F019890A6014",
-  "versionStartIncluding": "2.3.12",
-  "versionEndExcluding": "2.41.0",
-  "created": "2023-05-03T17:48:01.513",
-  "lastModified": "2023-06-05T13:26:49.463",
-  "cpeLastModified": "2023-06-05T13:26:49.463",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:42gears:surelock:2.3.12:*:*:*:*:windows:*:*",
-      "cpeNameId": "17F0880C-9136-4DC0-98F0-5469CBE9DFA5"
-    },
-    {
-      "cpeName": "cpe:2.3:a:42gears:surelock:2.40.0:*:*:*:*:windows:*:*",
-      "cpeNameId": "97844C64-7BDB-49E9-8F71-08BFE92DE5AC"
-    }
-  ]
+	"criteria": "cpe:2.3:a:42gears:surelock:*:*:*:*:*:windows:*:*",
+	"matchCriteriaId": "11C640C3-30E7-497F-A3B5-F019890A6014",
+	"versionStartIncluding": "2.3.12",
+	"versionEndExcluding": "2.41.0",
+	"created": "2023-05-03T17:48:01.513",
+	"lastModified": "2023-06-05T13:26:49.463",
+	"cpeLastModified": "2023-06-05T13:26:49.463",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:42gears:surelock:2.3.12:*:*:*:*:windows:*:*",
+			"cpeNameId": "17F0880C-9136-4DC0-98F0-5469CBE9DFA5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:42gears:surelock:2.40.0:*:*:*:*:windows:*:*",
+			"cpeNameId": "97844C64-7BDB-49E9-8F71-08BFE92DE5AC"
+		}
+	]
 }

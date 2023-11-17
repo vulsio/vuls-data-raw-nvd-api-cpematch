@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:core_i9-9900ks_firmware:*:*:*:*:*:windows:*:*",
-  "matchCriteriaId": "A7ABBB75-3BD0-4F7C-A735-08D54441ABCD",
-  "versionEndExcluding": "26.20.100.6859",
-  "created": "2019-11-26T16:59:04.853",
-  "lastModified": "2019-11-26T16:59:04.853",
-  "cpeLastModified": "2020-01-13T14:15:07.410",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:core_i9-9900ks_firmware:-:*:*:*:*:windows:*:*",
-      "cpeNameId": "967E6631-D30C-48D2-88F4-13EA9DA2E5E9"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:core_i9-9900ks_firmware:*:*:*:*:*:windows:*:*",
+	"matchCriteriaId": "A7ABBB75-3BD0-4F7C-A735-08D54441ABCD",
+	"versionEndExcluding": "26.20.100.6859",
+	"created": "2019-11-26T16:59:04.853",
+	"lastModified": "2019-11-26T16:59:04.853",
+	"cpeLastModified": "2020-01-13T14:15:07.410",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:core_i9-9900ks_firmware:-:*:*:*:*:windows:*:*",
+			"cpeNameId": "967E6631-D30C-48D2-88F4-13EA9DA2E5E9"
+		}
+	]
 }

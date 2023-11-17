@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:core_i5_m480_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F913384D-A489-448D-8CED-8B01463C2412",
-  "created": "2022-05-11T16:21:02.897",
-  "lastModified": "2022-05-11T16:21:02.897",
-  "cpeLastModified": "2022-06-03T22:24:01.257",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:core_i5_m480_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "91E6CED8-092B-4111-BD58-4AA542963100"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:core_i5_m480_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F913384D-A489-448D-8CED-8B01463C2412",
+	"created": "2022-05-11T16:21:02.897",
+	"lastModified": "2022-05-11T16:21:02.897",
+	"cpeLastModified": "2022-06-03T22:24:01.257",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:core_i5_m480_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "91E6CED8-092B-4111-BD58-4AA542963100"
+		}
+	]
 }

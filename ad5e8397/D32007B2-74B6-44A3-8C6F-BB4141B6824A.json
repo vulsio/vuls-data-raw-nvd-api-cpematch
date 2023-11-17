@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:linux:tizen:4.0:m3:*:*:*:*:*:*",
-  "matchCriteriaId": "D32007B2-74B6-44A3-8C6F-BB4141B6824A",
-  "created": "2020-02-03T15:46:13.023",
-  "lastModified": "2020-02-03T15:46:13.023",
-  "cpeLastModified": "2020-02-07T16:01:50.413",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:linux:tizen:4.0:m3:*:*:*:*:*:*",
-      "cpeNameId": "8106E9AF-8581-4318-8A26-DA756CA9B242"
-    }
-  ]
+	"criteria": "cpe:2.3:o:linux:tizen:4.0:m3:*:*:*:*:*:*",
+	"matchCriteriaId": "D32007B2-74B6-44A3-8C6F-BB4141B6824A",
+	"created": "2020-02-03T15:46:13.023",
+	"lastModified": "2020-02-03T15:46:13.023",
+	"cpeLastModified": "2020-02-07T16:01:50.413",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:linux:tizen:4.0:m3:*:*:*:*:*:*",
+			"cpeNameId": "8106E9AF-8581-4318-8A26-DA756CA9B242"
+		}
+	]
 }

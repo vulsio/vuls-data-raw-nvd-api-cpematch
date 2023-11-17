@@ -1,24 +1,24 @@
 {
-  "criteria": "cpe:2.3:a:d-bus_project:d-bus:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F44D9B2D-0688-4144-9D38-F78E06B9E9CC",
-  "versionStartIncluding": "1.8.0",
-  "versionEndExcluding": "1.8.6",
-  "created": "2020-07-31T18:53:28.983",
-  "lastModified": "2020-07-31T18:53:28.983",
-  "cpeLastModified": "2020-07-31T18:53:29.013",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:d-bus_project:d-bus:1.8.0:*:*:*:*:*:*:*",
-      "cpeNameId": "8952D4FE-C07B-4670-9B39-6E178B99E145"
-    },
-    {
-      "cpeName": "cpe:2.3:a:d-bus_project:d-bus:1.8.2:*:*:*:*:*:*:*",
-      "cpeNameId": "E8616893-8B6A-4DC6-8579-5395ADE70D07"
-    },
-    {
-      "cpeName": "cpe:2.3:a:d-bus_project:d-bus:1.8.4:*:*:*:*:*:*:*",
-      "cpeNameId": "FFE329A6-4765-467B-8DDC-A2D70FC02ADA"
-    }
-  ]
+	"criteria": "cpe:2.3:a:d-bus_project:d-bus:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F44D9B2D-0688-4144-9D38-F78E06B9E9CC",
+	"versionStartIncluding": "1.8.0",
+	"versionEndExcluding": "1.8.6",
+	"created": "2020-07-31T18:53:28.983",
+	"lastModified": "2020-07-31T18:53:28.983",
+	"cpeLastModified": "2020-07-31T18:53:29.013",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:d-bus_project:d-bus:1.8.0:*:*:*:*:*:*:*",
+			"cpeNameId": "8952D4FE-C07B-4670-9B39-6E178B99E145"
+		},
+		{
+			"cpeName": "cpe:2.3:a:d-bus_project:d-bus:1.8.2:*:*:*:*:*:*:*",
+			"cpeNameId": "E8616893-8B6A-4DC6-8579-5395ADE70D07"
+		},
+		{
+			"cpeName": "cpe:2.3:a:d-bus_project:d-bus:1.8.4:*:*:*:*:*:*:*",
+			"cpeNameId": "FFE329A6-4765-467B-8DDC-A2D70FC02ADA"
+		}
+	]
 }

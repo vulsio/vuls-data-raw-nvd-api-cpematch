@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:vostro_3405_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B56B87D2-E528-4704-BE72-7B20620BB997",
-  "versionEndExcluding": "1.5.0",
-  "created": "2022-06-07T16:28:23.013",
-  "lastModified": "2022-06-07T16:28:23.013",
-  "cpeLastModified": "2022-06-08T13:14:44.890",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:vostro_3405_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "020D46E8-F849-409D-8FDB-1611BE8CD948"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:vostro_3405_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B56B87D2-E528-4704-BE72-7B20620BB997",
+	"versionEndExcluding": "1.5.0",
+	"created": "2022-06-07T16:28:23.013",
+	"lastModified": "2022-06-07T16:28:23.013",
+	"cpeLastModified": "2022-06-08T13:14:44.890",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:vostro_3405_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "020D46E8-F849-409D-8FDB-1611BE8CD948"
+		}
+	]
 }

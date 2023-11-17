@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:core_i7-11800h_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "2886741A-A0AD-40B9-B201-2A198A49CD91",
-  "versionEndExcluding": "15.0.40",
-  "created": "2022-06-09T13:31:42.753",
-  "lastModified": "2022-06-09T13:31:42.753",
-  "cpeLastModified": "2021-12-01T18:46:41.243",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:core_i7-11800h_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "3BBE7003-4E46-4974-A0F1-80021995411D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:core_i7-11800h_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2886741A-A0AD-40B9-B201-2A198A49CD91",
+	"versionEndExcluding": "15.0.40",
+	"created": "2022-06-09T13:31:42.753",
+	"lastModified": "2022-06-09T13:31:42.753",
+	"cpeLastModified": "2021-12-01T18:46:41.243",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:core_i7-11800h_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3BBE7003-4E46-4974-A0F1-80021995411D"
+		}
+	]
 }

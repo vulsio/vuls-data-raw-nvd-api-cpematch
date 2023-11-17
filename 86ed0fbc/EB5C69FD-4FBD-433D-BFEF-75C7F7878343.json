@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:sonarsource:sonarqube_docker_image:6.1:*:*:*:*:*:*:*",
-  "matchCriteriaId": "EB5C69FD-4FBD-433D-BFEF-75C7F7878343",
-  "created": "2020-12-18T19:03:47.763",
-  "lastModified": "2020-12-18T19:03:47.763",
-  "cpeLastModified": "2021-02-04T17:53:02.807",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:sonarsource:sonarqube_docker_image:6.1:*:*:*:*:*:*:*",
-      "cpeNameId": "3C98BA17-2661-4A4B-929F-A318D9845CAE"
-    }
-  ]
+	"criteria": "cpe:2.3:a:sonarsource:sonarqube_docker_image:6.1:*:*:*:*:*:*:*",
+	"matchCriteriaId": "EB5C69FD-4FBD-433D-BFEF-75C7F7878343",
+	"created": "2020-12-18T19:03:47.763",
+	"lastModified": "2020-12-18T19:03:47.763",
+	"cpeLastModified": "2021-02-04T17:53:02.807",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube_docker_image:6.1:*:*:*:*:*:*:*",
+			"cpeNameId": "3C98BA17-2661-4A4B-929F-A318D9845CAE"
+		}
+	]
 }

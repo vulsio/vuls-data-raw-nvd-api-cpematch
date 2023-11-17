@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:dell:inspiron_5570_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "07E511E3-6379-4FEA-86DF-30ADC4435390",
-  "versionEndExcluding": "1.2.3",
-  "created": "2020-03-02T12:52:34.260",
-  "lastModified": "2020-03-02T12:52:34.260",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:inspiron_5570_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "22BB7332-0788-47C7-845B-E66BA6BBBC80"
-    },
-    {
-      "cpeName": "cpe:2.3:o:dell:inspiron_5570_firmware:1.2.1:*:*:*:*:*:*:*",
-      "cpeNameId": "168C9F2C-4130-4D2C-A2CD-4D9184A491B8"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:inspiron_5570_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "07E511E3-6379-4FEA-86DF-30ADC4435390",
+	"versionEndExcluding": "1.2.3",
+	"created": "2020-03-02T12:52:34.260",
+	"lastModified": "2020-03-02T12:52:34.260",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_5570_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "22BB7332-0788-47C7-845B-E66BA6BBBC80"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_5570_firmware:1.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "168C9F2C-4130-4D2C-A2CD-4D9184A491B8"
+		}
+	]
 }

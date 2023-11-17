@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:percona:percona_server:8.0.28-19:*:*:*:*:mysql:*:*",
-  "matchCriteriaId": "E4370F6A-C32C-41D3-A2A6-51C9EDAEF80D",
-  "created": "2022-08-09T17:19:27.583",
-  "lastModified": "2022-11-09T16:48:01.253",
-  "cpeLastModified": "2022-11-09T16:48:01.253",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:percona:percona_server:8.0.28-19:*:*:*:*:mysql:*:*",
-      "cpeNameId": "C5EF6EB9-C33B-40C6-94E5-7B2E9B839650"
-    }
-  ]
+	"criteria": "cpe:2.3:a:percona:percona_server:8.0.28-19:*:*:*:*:mysql:*:*",
+	"matchCriteriaId": "E4370F6A-C32C-41D3-A2A6-51C9EDAEF80D",
+	"created": "2022-08-09T17:19:27.583",
+	"lastModified": "2022-11-09T16:48:01.253",
+	"cpeLastModified": "2022-11-09T16:48:01.253",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:percona:percona_server:8.0.28-19:*:*:*:*:mysql:*:*",
+			"cpeNameId": "C5EF6EB9-C33B-40C6-94E5-7B2E9B839650"
+		}
+	]
 }

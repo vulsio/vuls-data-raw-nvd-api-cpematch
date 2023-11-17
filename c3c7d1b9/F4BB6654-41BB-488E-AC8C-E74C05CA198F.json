@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:phoenixcontact:fc_350_pci_eth:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F4BB6654-41BB-488E-AC8C-E74C05CA198F",
-  "created": "2022-06-27T17:16:51.787",
-  "lastModified": "2022-06-27T17:16:51.787",
-  "cpeLastModified": "2022-06-29T15:16:39.623",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:phoenixcontact:fc_350_pci_eth:-:*:*:*:*:*:*:*",
-      "cpeNameId": "481614BE-DB37-4BA1-8783-F7DA307CF38A"
-    }
-  ]
+	"criteria": "cpe:2.3:h:phoenixcontact:fc_350_pci_eth:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F4BB6654-41BB-488E-AC8C-E74C05CA198F",
+	"created": "2022-06-27T17:16:51.787",
+	"lastModified": "2022-06-27T17:16:51.787",
+	"cpeLastModified": "2022-06-29T15:16:39.623",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:phoenixcontact:fc_350_pci_eth:-:*:*:*:*:*:*:*",
+			"cpeNameId": "481614BE-DB37-4BA1-8783-F7DA307CF38A"
+		}
+	]
 }

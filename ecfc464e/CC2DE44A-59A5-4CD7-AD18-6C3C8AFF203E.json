@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:cisco:pix_firewall:525_6.3:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CC2DE44A-59A5-4CD7-AD18-6C3C8AFF203E",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T22:21:48.897",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:pix_firewall:525_6.3:*:*:*:*:*:*:*",
-      "cpeNameId": "D092C581-B30D-415B-B916-59DACC2B5C67"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:pix_firewall:525_6.3:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CC2DE44A-59A5-4CD7-AD18-6C3C8AFF203E",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T22:21:48.897",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:pix_firewall:525_6.3:*:*:*:*:*:*:*",
+			"cpeNameId": "D092C581-B30D-415B-B916-59DACC2B5C67"
+		}
+	]
 }

@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:a:ibm:spectrum_protect_client:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6D3CA52E-2C63-4156-9A85-A171628BC108",
-  "versionStartIncluding": "8.1.9.0",
-  "versionEndIncluding": "8.1.9.1",
-  "created": "2020-06-18T15:21:09.040",
-  "lastModified": "2020-06-18T15:21:09.040",
-  "cpeLastModified": "2020-07-27T13:39:24.483",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ibm:spectrum_protect_client:8.1.9.0:*:*:*:*:*:*:*",
-      "cpeNameId": "8D700B74-A951-4B42-845C-09497E817901"
-    },
-    {
-      "cpeName": "cpe:2.3:a:ibm:spectrum_protect_client:8.1.9.1:*:*:*:*:*:*:*",
-      "cpeNameId": "6028602B-3861-4D29-8331-E03AD032D20C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ibm:spectrum_protect_client:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6D3CA52E-2C63-4156-9A85-A171628BC108",
+	"versionStartIncluding": "8.1.9.0",
+	"versionEndIncluding": "8.1.9.1",
+	"created": "2020-06-18T15:21:09.040",
+	"lastModified": "2020-06-18T15:21:09.040",
+	"cpeLastModified": "2020-07-27T13:39:24.483",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ibm:spectrum_protect_client:8.1.9.0:*:*:*:*:*:*:*",
+			"cpeNameId": "8D700B74-A951-4B42-845C-09497E817901"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:spectrum_protect_client:8.1.9.1:*:*:*:*:*:*:*",
+			"cpeNameId": "6028602B-3861-4D29-8331-E03AD032D20C"
+		}
+	]
 }

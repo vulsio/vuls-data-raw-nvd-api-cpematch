@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:l340-15iwl_touch_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C6D3908C-A90E-4F5D-AC2F-A6C810003AD1",
-  "versionEndExcluding": "atcn46ww",
-  "created": "2022-05-02T16:41:05.913",
-  "lastModified": "2022-05-02T16:41:05.913",
-  "cpeLastModified": "2022-05-06T20:48:01.953",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:l340-15iwl_touch_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "B6A7A1C4-1AD5-4EDF-B007-26FC6ADC7362"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:l340-15iwl_touch_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C6D3908C-A90E-4F5D-AC2F-A6C810003AD1",
+	"versionEndExcluding": "atcn46ww",
+	"created": "2022-05-02T16:41:05.913",
+	"lastModified": "2022-05-02T16:41:05.913",
+	"cpeLastModified": "2022-05-06T20:48:01.953",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:l340-15iwl_touch_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B6A7A1C4-1AD5-4EDF-B007-26FC6ADC7362"
+		}
+	]
 }

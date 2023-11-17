@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:core_i7-11390h_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7F63A6AD-4B95-480C-8CDC-B3D6C3B60D2A",
-  "versionEndExcluding": "15.0.40",
-  "created": "2022-06-09T13:31:42.753",
-  "lastModified": "2022-06-09T13:31:42.753",
-  "cpeLastModified": "2021-12-01T18:46:41.243",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:core_i7-11390h_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "84144384-193C-463C-A997-ABC06F785268"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:core_i7-11390h_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7F63A6AD-4B95-480C-8CDC-B3D6C3B60D2A",
+	"versionEndExcluding": "15.0.40",
+	"created": "2022-06-09T13:31:42.753",
+	"lastModified": "2022-06-09T13:31:42.753",
+	"cpeLastModified": "2021-12-01T18:46:41.243",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:core_i7-11390h_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "84144384-193C-463C-A997-ABC06F785268"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:precision_3510_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8DF612A5-CC94-499A-B0E5-A1F1A0A81CD1",
-  "versionEndExcluding": "1.20.4",
-  "created": "2019-08-09T18:45:10.250",
-  "lastModified": "2019-08-09T18:45:10.250",
-  "cpeLastModified": "2020-03-06T20:00:27.743",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:precision_3510_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "D4882749-42FB-48EB-ACA3-E58C4B8BC1A1"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:precision_3510_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8DF612A5-CC94-499A-B0E5-A1F1A0A81CD1",
+	"versionEndExcluding": "1.20.4",
+	"created": "2019-08-09T18:45:10.250",
+	"lastModified": "2019-08-09T18:45:10.250",
+	"cpeLastModified": "2020-03-06T20:00:27.743",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_3510_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D4882749-42FB-48EB-ACA3-E58C4B8BC1A1"
+		}
+	]
 }

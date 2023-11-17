@@ -1,18 +1,18 @@
 {
-  "criteria": "cpe:2.3:a:sun:iplanet_web_server:4.1:sp10:*:*:*:*:*:*",
-  "matchCriteriaId": "881584F0-6E53-4E08-A394-911CCD7179B0",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:sun:iplanet_web_server:4.1:sp10:*:*:*:*:*:*",
-      "cpeNameId": "774737E7-0D7B-47C6-92E8-60753A2C789E"
-    },
-    {
-      "cpeName": "cpe:2.3:a:sun:iplanet_web_server:4.1:sp10:enterprise:*:*:*:*:*",
-      "cpeNameId": "79B08246-1D53-4BDB-BDC3-CF12754C7B89"
-    }
-  ]
+	"criteria": "cpe:2.3:a:sun:iplanet_web_server:4.1:sp10:*:*:*:*:*:*",
+	"matchCriteriaId": "881584F0-6E53-4E08-A394-911CCD7179B0",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sun:iplanet_web_server:4.1:sp10:*:*:*:*:*:*",
+			"cpeNameId": "774737E7-0D7B-47C6-92E8-60753A2C789E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sun:iplanet_web_server:4.1:sp10:enterprise:*:*:*:*:*",
+			"cpeNameId": "79B08246-1D53-4BDB-BDC3-CF12754C7B89"
+		}
+	]
 }

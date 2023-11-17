@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:bios:gkaplcpx.86a:*:*:*:*:*:*:*",
-  "matchCriteriaId": "79C62F39-AA5A-4005-B52D-C1E71ABF4B4B",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:bios:gkaplcpx.86a:*:*:*:*:*:*:*",
-      "cpeNameId": "5CE9E8D4-D7AB-4593-9353-AF7004B10A8F"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:bios:gkaplcpx.86a:*:*:*:*:*:*:*",
+	"matchCriteriaId": "79C62F39-AA5A-4005-B52D-C1E71ABF4B4B",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:bios:gkaplcpx.86a:*:*:*:*:*:*:*",
+			"cpeNameId": "5CE9E8D4-D7AB-4593-9353-AF7004B10A8F"
+		}
+	]
 }

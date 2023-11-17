@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:openbsd:openbsd:7.3:*:*:*:*:*:*:*",
-  "matchCriteriaId": "3C8A4344-6ABE-4626-ADA4-3FA91F8D76C7",
-  "created": "2023-06-26T17:32:15.557",
-  "lastModified": "2023-09-27T19:30:30.990",
-  "cpeLastModified": "2023-09-27T19:30:30.990",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:openbsd:openbsd:7.3:*:*:*:*:*:*:*",
-      "cpeNameId": "C2D4EDC8-F49F-422E-AE80-6F4019B8F4B0"
-    }
-  ]
+	"criteria": "cpe:2.3:o:openbsd:openbsd:7.3:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3C8A4344-6ABE-4626-ADA4-3FA91F8D76C7",
+	"created": "2023-06-26T17:32:15.557",
+	"lastModified": "2023-09-27T19:30:30.990",
+	"cpeLastModified": "2023-09-27T19:30:30.990",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:openbsd:openbsd:7.3:*:*:*:*:*:*:*",
+			"cpeNameId": "C2D4EDC8-F49F-422E-AE80-6F4019B8F4B0"
+		}
+	]
 }

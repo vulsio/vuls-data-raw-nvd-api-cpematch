@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:konicaminolta:bizhub_c284e_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "79E738F6-B793-4F65-9892-E3AE8132EAEE",
-  "versionEndExcluding": "gdr-m1",
-  "created": "2022-01-11T15:25:20.930",
-  "lastModified": "2022-01-11T15:25:20.930",
-  "cpeLastModified": "2022-01-13T02:37:34.383",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:konicaminolta:bizhub_c284e_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "0E07ED4E-45BA-4EC3-A99E-8BD4F832BB8C"
-    }
-  ]
+	"criteria": "cpe:2.3:o:konicaminolta:bizhub_c284e_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "79E738F6-B793-4F65-9892-E3AE8132EAEE",
+	"versionEndExcluding": "gdr-m1",
+	"created": "2022-01-11T15:25:20.930",
+	"lastModified": "2022-01-11T15:25:20.930",
+	"cpeLastModified": "2022-01-13T02:37:34.383",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:konicaminolta:bizhub_c284e_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0E07ED4E-45BA-4EC3-A99E-8BD4F832BB8C"
+		}
+	]
 }

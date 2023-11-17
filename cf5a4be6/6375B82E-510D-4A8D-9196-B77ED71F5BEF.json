@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:fujitsu:interstage_application_server:9.1.0a:*:*:*:standard-j:*:*:*",
-  "matchCriteriaId": "6375B82E-510D-4A8D-9196-B77ED71F5BEF",
-  "created": "2020-02-26T17:16:00.673",
-  "lastModified": "2020-02-26T17:16:00.673",
-  "cpeLastModified": "2020-03-04T15:35:55.230",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:fujitsu:interstage_application_server:9.1.0a:*:*:*:standard-j:*:*:*",
-      "cpeNameId": "0E538E0B-249A-44A2-B28C-7150F05D9C88"
-    }
-  ]
+	"criteria": "cpe:2.3:a:fujitsu:interstage_application_server:9.1.0a:*:*:*:standard-j:*:*:*",
+	"matchCriteriaId": "6375B82E-510D-4A8D-9196-B77ED71F5BEF",
+	"created": "2020-02-26T17:16:00.673",
+	"lastModified": "2020-02-26T17:16:00.673",
+	"cpeLastModified": "2020-03-04T15:35:55.230",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:fujitsu:interstage_application_server:9.1.0a:*:*:*:standard-j:*:*:*",
+			"cpeNameId": "0E538E0B-249A-44A2-B28C-7150F05D9C88"
+		}
+	]
 }

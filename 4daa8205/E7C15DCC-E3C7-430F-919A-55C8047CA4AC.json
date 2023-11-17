@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:qualcomm:qcc112_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E7C15DCC-E3C7-430F-919A-55C8047CA4AC",
-  "created": "2021-02-23T14:32:05.973",
-  "lastModified": "2021-02-23T14:32:05.973",
-  "cpeLastModified": "2021-03-08T18:37:26.903",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:qualcomm:qcc112_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "1BD954A1-1613-47DC-890E-DEAB29C09C5F"
-    }
-  ]
+	"criteria": "cpe:2.3:o:qualcomm:qcc112_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E7C15DCC-E3C7-430F-919A-55C8047CA4AC",
+	"created": "2021-02-23T14:32:05.973",
+	"lastModified": "2021-02-23T14:32:05.973",
+	"cpeLastModified": "2021-03-08T18:37:26.903",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:qualcomm:qcc112_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1BD954A1-1613-47DC-890E-DEAB29C09C5F"
+		}
+	]
 }

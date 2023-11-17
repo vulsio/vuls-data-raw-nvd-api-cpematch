@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:nextcloud:nextcloud:3.3.0:rc1:*:*:*:android:*:*",
-  "matchCriteriaId": "AFF8DB5D-5F93-4613-A1B1-13E3DDEDCE0D",
-  "created": "2020-12-17T13:53:58.840",
-  "lastModified": "2020-12-17T13:53:58.840",
-  "cpeLastModified": "2020-12-17T13:53:58.857",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:nextcloud:nextcloud:3.3.0:rc1:*:*:*:android:*:*",
-      "cpeNameId": "029A9E9D-DD6D-4D86-8873-13DA6AED0E8B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:nextcloud:nextcloud:3.3.0:rc1:*:*:*:android:*:*",
+	"matchCriteriaId": "AFF8DB5D-5F93-4613-A1B1-13E3DDEDCE0D",
+	"created": "2020-12-17T13:53:58.840",
+	"lastModified": "2020-12-17T13:53:58.840",
+	"cpeLastModified": "2020-12-17T13:53:58.857",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:nextcloud:3.3.0:rc1:*:*:*:android:*:*",
+			"cpeNameId": "029A9E9D-DD6D-4D86-8873-13DA6AED0E8B"
+		}
+	]
 }

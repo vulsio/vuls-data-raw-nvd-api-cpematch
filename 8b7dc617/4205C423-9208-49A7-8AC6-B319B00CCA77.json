@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:prodesk_485_g2_mt_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4205C423-9208-49A7-8AC6-B319B00CCA77",
-  "versionEndExcluding": "2.29",
-  "created": "2019-11-07T18:21:19.440",
-  "lastModified": "2019-11-07T18:21:19.440",
-  "cpeLastModified": "2019-12-06T18:47:19.593",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:prodesk_485_g2_mt_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "8DDC726C-DB6E-4240-AD60-666D92249AFD"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:prodesk_485_g2_mt_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4205C423-9208-49A7-8AC6-B319B00CCA77",
+	"versionEndExcluding": "2.29",
+	"created": "2019-11-07T18:21:19.440",
+	"lastModified": "2019-11-07T18:21:19.440",
+	"cpeLastModified": "2019-12-06T18:47:19.593",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:prodesk_485_g2_mt_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8DDC726C-DB6E-4240-AD60-666D92249AFD"
+		}
+	]
 }

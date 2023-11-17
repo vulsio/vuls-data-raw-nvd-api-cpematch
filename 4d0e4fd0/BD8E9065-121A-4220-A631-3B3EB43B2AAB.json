@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:amd:radeon_pro_w5500x:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "BD8E9065-121A-4220-A631-3B3EB43B2AAB",
-  "created": "2022-11-22T16:38:51.830",
-  "lastModified": "2022-11-22T18:35:56.230",
-  "cpeLastModified": "2022-11-22T18:35:56.230",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:amd:radeon_pro_w5500x:-:*:*:*:*:*:*:*",
-      "cpeNameId": "87B173E2-1F84-4A11-AE68-61D3D9978070"
-    }
-  ]
+	"criteria": "cpe:2.3:h:amd:radeon_pro_w5500x:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BD8E9065-121A-4220-A631-3B3EB43B2AAB",
+	"created": "2022-11-22T16:38:51.830",
+	"lastModified": "2022-11-22T18:35:56.230",
+	"cpeLastModified": "2022-11-22T18:35:56.230",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_pro_w5500x:-:*:*:*:*:*:*:*",
+			"cpeNameId": "87B173E2-1F84-4A11-AE68-61D3D9978070"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:-:*:x64:*",
-  "matchCriteriaId": "08627673-D381-4481-BD04-F56599C43105",
-  "created": "2020-11-23T18:15:35.263",
-  "lastModified": "2020-11-23T18:15:35.263",
-  "cpeLastModified": "2021-01-25T18:27:53.690",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:-:*:x64:*",
-      "cpeNameId": "0A7BF6AA-4A1F-40EA-AA79-A9576D5F12ED"
-    }
-  ]
+	"criteria": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:-:*:x64:*",
+	"matchCriteriaId": "08627673-D381-4481-BD04-F56599C43105",
+	"created": "2020-11-23T18:15:35.263",
+	"lastModified": "2020-11-23T18:15:35.263",
+	"cpeLastModified": "2021-01-25T18:27:53.690",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:-:*:x64:*",
+			"cpeNameId": "0A7BF6AA-4A1F-40EA-AA79-A9576D5F12ED"
+		}
+	]
 }

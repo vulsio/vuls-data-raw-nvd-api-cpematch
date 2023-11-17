@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:lexmark:x950_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "430A5F52-0AFE-40BF-A865-2578800FFBF4",
-  "versionEndExcluding": "lhs60.tq.p753",
-  "created": "2022-01-26T16:03:13.660",
-  "lastModified": "2022-01-26T16:03:13.660",
-  "cpeLastModified": "2022-01-27T15:31:13.463",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lexmark:x950_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "FD3787CC-C23A-4B21-B4BD-D176350778AC"
-    },
-    {
-      "cpeName": "cpe:2.3:o:lexmark:x950_firmware:lhs1.tq.p145h:*:*:*:*:*:*:*",
-      "cpeNameId": "CCD1CF75-1C52-4604-916F-C73A8C202A44"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lexmark:x950_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "430A5F52-0AFE-40BF-A865-2578800FFBF4",
+	"versionEndExcluding": "lhs60.tq.p753",
+	"created": "2022-01-26T16:03:13.660",
+	"lastModified": "2022-01-26T16:03:13.660",
+	"cpeLastModified": "2022-01-27T15:31:13.463",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lexmark:x950_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FD3787CC-C23A-4B21-B4BD-D176350778AC"
+		},
+		{
+			"cpeName": "cpe:2.3:o:lexmark:x950_firmware:lhs1.tq.p145h:*:*:*:*:*:*:*",
+			"cpeNameId": "CCD1CF75-1C52-4604-916F-C73A8C202A44"
+		}
+	]
 }

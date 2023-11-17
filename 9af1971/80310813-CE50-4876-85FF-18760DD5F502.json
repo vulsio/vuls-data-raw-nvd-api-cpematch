@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:luxion:keyvr:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "80310813-CE50-4876-85FF-18760DD5F502",
-  "versionEndExcluding": "10.1",
-  "created": "2021-02-23T17:47:55.460",
-  "lastModified": "2021-02-23T17:47:55.460",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:luxion:keyvr:-:*:*:*:*:*:*:*",
-      "cpeNameId": "1759504F-B2D1-4CEA-AE79-65398819CF7E"
-    }
-  ]
+	"criteria": "cpe:2.3:a:luxion:keyvr:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "80310813-CE50-4876-85FF-18760DD5F502",
+	"versionEndExcluding": "10.1",
+	"created": "2021-02-23T17:47:55.460",
+	"lastModified": "2021-02-23T17:47:55.460",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:luxion:keyvr:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1759504F-B2D1-4CEA-AE79-65398819CF7E"
+		}
+	]
 }

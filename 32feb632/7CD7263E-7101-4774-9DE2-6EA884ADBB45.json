@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:intel:xeon_6138t:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7CD7263E-7101-4774-9DE2-6EA884ADBB45",
-  "created": "2019-11-18T16:55:26.250",
-  "lastModified": "2019-11-18T16:55:26.250",
-  "cpeLastModified": "2020-01-15T14:41:54.840",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:intel:xeon_6138t:-:*:*:*:*:*:*:*",
-      "cpeNameId": "443108DF-A1F6-497C-A3A3-21F034087D27"
-    }
-  ]
+	"criteria": "cpe:2.3:h:intel:xeon_6138t:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7CD7263E-7101-4774-9DE2-6EA884ADBB45",
+	"created": "2019-11-18T16:55:26.250",
+	"lastModified": "2019-11-18T16:55:26.250",
+	"cpeLastModified": "2020-01-15T14:41:54.840",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:xeon_6138t:-:*:*:*:*:*:*:*",
+			"cpeNameId": "443108DF-A1F6-497C-A3A3-21F034087D27"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:intel:core_i9-12900te:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C1C6F482-B6BD-4185-86AC-820FBCD3CE9A",
-  "created": "2022-11-18T16:13:22.927",
-  "lastModified": "2022-11-18T17:37:52.277",
-  "cpeLastModified": "2022-11-18T17:37:52.277",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:intel:core_i9-12900te:-:*:*:*:*:*:*:*",
-      "cpeNameId": "10F9D2EE-2324-4383-87B4-875E23DD8ED6"
-    }
-  ]
+	"criteria": "cpe:2.3:h:intel:core_i9-12900te:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C1C6F482-B6BD-4185-86AC-820FBCD3CE9A",
+	"created": "2022-11-18T16:13:22.927",
+	"lastModified": "2022-11-18T17:37:52.277",
+	"cpeLastModified": "2022-11-18T17:37:52.277",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:core_i9-12900te:-:*:*:*:*:*:*:*",
+			"cpeNameId": "10F9D2EE-2324-4383-87B4-875E23DD8ED6"
+		}
+	]
 }

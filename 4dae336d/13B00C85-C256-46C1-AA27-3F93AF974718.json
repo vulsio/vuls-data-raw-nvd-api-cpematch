@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:inspiron_14_gaming_7467_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "13B00C85-C256-46C1-AA27-3F93AF974718",
-  "versionEndExcluding": "1.10.0",
-  "created": "2020-03-02T12:52:32.197",
-  "lastModified": "2020-03-02T12:52:32.197",
-  "cpeLastModified": "2020-03-06T19:57:49.050",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:inspiron_14_gaming_7467_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "CC99B35B-27A0-4B20-9108-34B298ECB1D1"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:inspiron_14_gaming_7467_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "13B00C85-C256-46C1-AA27-3F93AF974718",
+	"versionEndExcluding": "1.10.0",
+	"created": "2020-03-02T12:52:32.197",
+	"lastModified": "2020-03-02T12:52:32.197",
+	"cpeLastModified": "2020-03-06T19:57:49.050",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_14_gaming_7467_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CC99B35B-27A0-4B20-9108-34B298ECB1D1"
+		}
+	]
 }

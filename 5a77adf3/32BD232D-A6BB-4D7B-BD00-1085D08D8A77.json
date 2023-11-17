@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:siemens:pn\\/pn_coupler_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "32BD232D-A6BB-4D7B-BD00-1085D08D8A77",
-  "versionEndExcluding": "4.0",
-  "created": "2020-09-29T12:02:25.980",
-  "lastModified": "2020-09-29T12:02:25.980",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:pn\\/pn_coupler_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "C548ABB0-285E-4C56-82E5-6D5656D75571"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:pn\\/pn_coupler_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "32BD232D-A6BB-4D7B-BD00-1085D08D8A77",
+	"versionEndExcluding": "4.0",
+	"created": "2020-09-29T12:02:25.980",
+	"lastModified": "2020-09-29T12:02:25.980",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:pn\\/pn_coupler_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C548ABB0-285E-4C56-82E5-6D5656D75571"
+		}
+	]
 }

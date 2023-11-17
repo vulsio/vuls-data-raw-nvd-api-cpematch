@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:intel:realsense_id_f455:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "EEFF9DF2-2FA0-4835-8665-B5250520A6C6",
-  "created": "2021-06-15T21:35:39.157",
-  "lastModified": "2021-06-15T21:35:39.157",
-  "cpeLastModified": "2021-06-15T21:36:10.317",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:intel:realsense_id_f455:-:*:*:*:*:*:*:*",
-      "cpeNameId": "08926426-1541-4283-BBD5-3F9F5F794F0C"
-    }
-  ]
+	"criteria": "cpe:2.3:h:intel:realsense_id_f455:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "EEFF9DF2-2FA0-4835-8665-B5250520A6C6",
+	"created": "2021-06-15T21:35:39.157",
+	"lastModified": "2021-06-15T21:35:39.157",
+	"cpeLastModified": "2021-06-15T21:36:10.317",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:realsense_id_f455:-:*:*:*:*:*:*:*",
+			"cpeNameId": "08926426-1541-4283-BBD5-3F9F5F794F0C"
+		}
+	]
 }

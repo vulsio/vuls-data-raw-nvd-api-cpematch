@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:telerik:justdecompile:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "13E1A2D7-A8BB-46B9-AE2E-29E043CEA499",
-  "versionStartIncluding": "2018.2.605.0",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:telerik:justdecompile:2018.2.803.0:*:*:*:*:*:*:*",
-      "cpeNameId": "7347A456-D1AA-4D92-826E-310D737D925D"
-    }
-  ]
+	"criteria": "cpe:2.3:a:telerik:justdecompile:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "13E1A2D7-A8BB-46B9-AE2E-29E043CEA499",
+	"versionStartIncluding": "2018.2.605.0",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:telerik:justdecompile:2018.2.803.0:*:*:*:*:*:*:*",
+			"cpeNameId": "7347A456-D1AA-4D92-826E-310D737D925D"
+		}
+	]
 }

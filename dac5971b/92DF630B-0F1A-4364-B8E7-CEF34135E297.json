@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:vmware:vcloud_director:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "92DF630B-0F1A-4364-B8E7-CEF34135E297",
-  "versionStartIncluding": "10.1.0",
-  "versionEndExcluding": "10.1.4.1",
-  "created": "2022-04-21T18:19:16.737",
-  "lastModified": "2022-04-21T18:19:16.737",
-  "cpeLastModified": "2022-04-22T15:54:23.177",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:vmware:vcloud_director:10.1.0:*:*:*:*:*:*:*",
-      "cpeNameId": "2EC5D4BE-D406-437E-AD7D-122B4CF1CBB6"
-    }
-  ]
+	"criteria": "cpe:2.3:a:vmware:vcloud_director:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "92DF630B-0F1A-4364-B8E7-CEF34135E297",
+	"versionStartIncluding": "10.1.0",
+	"versionEndExcluding": "10.1.4.1",
+	"created": "2022-04-21T18:19:16.737",
+	"lastModified": "2022-04-21T18:19:16.737",
+	"cpeLastModified": "2022-04-22T15:54:23.177",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:vmware:vcloud_director:10.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "2EC5D4BE-D406-437E-AD7D-122B4CF1CBB6"
+		}
+	]
 }

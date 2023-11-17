@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:progress:whatsup_gold:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7B07226F-6EC1-48AB-8CFA-CA84D556BBCB",
-  "versionEndExcluding": "22.1.0",
-  "created": "2022-10-13T13:03:22.900",
-  "lastModified": "2022-11-04T22:50:19.350",
-  "cpeLastModified": "2022-11-04T22:50:19.350",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:progress:whatsup_gold:-:*:*:*:*:*:*:*",
-      "cpeNameId": "34C9A941-DB37-4966-A1FA-F8FF21EEA74F"
-    }
-  ]
+	"criteria": "cpe:2.3:a:progress:whatsup_gold:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7B07226F-6EC1-48AB-8CFA-CA84D556BBCB",
+	"versionEndExcluding": "22.1.0",
+	"created": "2022-10-13T13:03:22.900",
+	"lastModified": "2022-11-04T22:50:19.350",
+	"cpeLastModified": "2022-11-04T22:50:19.350",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:progress:whatsup_gold:-:*:*:*:*:*:*:*",
+			"cpeNameId": "34C9A941-DB37-4966-A1FA-F8FF21EEA74F"
+		}
+	]
 }

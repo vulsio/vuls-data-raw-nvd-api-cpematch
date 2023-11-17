@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:pagewide_managed_color_e75160_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "27B3752F-9056-4CAF-B6C0-B88E5DA5CF8D",
-  "versionEndExcluding": "45.3.2601",
-  "created": "2021-11-24T14:38:23.353",
-  "lastModified": "2021-11-24T14:38:23.353",
-  "cpeLastModified": "2021-11-24T19:58:36.967",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:pagewide_managed_color_e75160_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "1BAA9C5F-6F66-4C92-BDB5-C98B4F58BBFF"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:pagewide_managed_color_e75160_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "27B3752F-9056-4CAF-B6C0-B88E5DA5CF8D",
+	"versionEndExcluding": "45.3.2601",
+	"created": "2021-11-24T14:38:23.353",
+	"lastModified": "2021-11-24T14:38:23.353",
+	"cpeLastModified": "2021-11-24T19:58:36.967",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:pagewide_managed_color_e75160_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1BAA9C5F-6F66-4C92-BDB5-C98B4F58BBFF"
+		}
+	]
 }

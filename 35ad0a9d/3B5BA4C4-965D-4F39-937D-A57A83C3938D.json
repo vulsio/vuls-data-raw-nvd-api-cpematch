@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:deltaww:delta_robot_automation_studio:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "3B5BA4C4-965D-4F39-937D-A57A83C3938D",
-  "versionEndExcluding": "1.13.20",
-  "created": "2022-09-02T14:49:17.960",
-  "lastModified": "2022-09-02T14:49:17.960",
-  "cpeLastModified": "2022-09-06T14:21:09.540",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:deltaww:delta_robot_automation_studio:-:*:*:*:*:*:*:*",
-      "cpeNameId": "A8473135-F50D-4E26-9C88-D609B0CDBD5C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:deltaww:delta_robot_automation_studio:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3B5BA4C4-965D-4F39-937D-A57A83C3938D",
+	"versionEndExcluding": "1.13.20",
+	"created": "2022-09-02T14:49:17.960",
+	"lastModified": "2022-09-02T14:49:17.960",
+	"cpeLastModified": "2022-09-06T14:21:09.540",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:deltaww:delta_robot_automation_studio:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A8473135-F50D-4E26-9C88-D609B0CDBD5C"
+		}
+	]
 }

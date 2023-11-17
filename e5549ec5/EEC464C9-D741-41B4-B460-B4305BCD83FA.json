@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:a:autodesk:autocad_lt:*:*:*:*:*:macos:*:*",
-  "matchCriteriaId": "EEC464C9-D741-41B4-B460-B4305BCD83FA",
-  "versionStartIncluding": "2022",
-  "versionEndExcluding": "2022.2.2",
-  "created": "2022-04-25T14:11:25.217",
-  "lastModified": "2022-04-25T14:11:25.217",
-  "cpeLastModified": "2022-04-25T16:27:01.080",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:autodesk:autocad_lt:2022:*:*:*:*:macos:*:*",
-      "cpeNameId": "6F185DDA-830A-4131-A1B2-153B3272E3BE"
-    },
-    {
-      "cpeName": "cpe:2.3:a:autodesk:autocad_lt:2022.1:*:*:*:*:macos:*:*",
-      "cpeNameId": "BE7316D7-2365-40BD-B5E6-1E1B0D3285AC"
-    }
-  ]
+	"criteria": "cpe:2.3:a:autodesk:autocad_lt:*:*:*:*:*:macos:*:*",
+	"matchCriteriaId": "EEC464C9-D741-41B4-B460-B4305BCD83FA",
+	"versionStartIncluding": "2022",
+	"versionEndExcluding": "2022.2.2",
+	"created": "2022-04-25T14:11:25.217",
+	"lastModified": "2022-04-25T14:11:25.217",
+	"cpeLastModified": "2022-04-25T16:27:01.080",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:autodesk:autocad_lt:2022:*:*:*:*:macos:*:*",
+			"cpeNameId": "6F185DDA-830A-4131-A1B2-153B3272E3BE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:autodesk:autocad_lt:2022.1:*:*:*:*:macos:*:*",
+			"cpeNameId": "BE7316D7-2365-40BD-B5E6-1E1B0D3285AC"
+		}
+	]
 }

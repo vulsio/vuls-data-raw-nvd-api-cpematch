@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:celeron_7305_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F105668E-2930-4238-902C-6CCCEBEF7D4D",
-  "created": "2022-08-23T20:09:25.100",
-  "lastModified": "2022-11-18T16:13:47.657",
-  "cpeLastModified": "2022-08-24T12:55:25.843",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:celeron_7305_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "C1FBB1F9-929B-4435-9E5B-5A0058B83EAD"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:celeron_7305_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F105668E-2930-4238-902C-6CCCEBEF7D4D",
+	"created": "2022-08-23T20:09:25.100",
+	"lastModified": "2022-11-18T16:13:47.657",
+	"cpeLastModified": "2022-08-24T12:55:25.843",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:celeron_7305_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C1FBB1F9-929B-4435-9E5B-5A0058B83EAD"
+		}
+	]
 }

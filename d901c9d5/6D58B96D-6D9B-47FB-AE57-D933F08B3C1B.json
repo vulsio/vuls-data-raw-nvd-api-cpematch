@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:php:ext-http:2.6.0:rc1:*:*:*:*:*:*",
-  "matchCriteriaId": "6D58B96D-6D9B-47FB-AE57-D933F08B3C1B",
-  "created": "2019-09-09T20:30:43.463",
-  "lastModified": "2019-09-09T20:30:43.463",
-  "cpeLastModified": "2019-09-10T16:09:50.340",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:php:ext-http:2.6.0:rc1:*:*:*:*:*:*",
-      "cpeNameId": "EF55659C-F9F3-40E4-A254-FE1FF0F5C228"
-    }
-  ]
+	"criteria": "cpe:2.3:a:php:ext-http:2.6.0:rc1:*:*:*:*:*:*",
+	"matchCriteriaId": "6D58B96D-6D9B-47FB-AE57-D933F08B3C1B",
+	"created": "2019-09-09T20:30:43.463",
+	"lastModified": "2019-09-09T20:30:43.463",
+	"cpeLastModified": "2019-09-10T16:09:50.340",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:php:ext-http:2.6.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "EF55659C-F9F3-40E4-A254-FE1FF0F5C228"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:latitude_7200_2-in-1_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7E75EB64-3E9B-4EC2-BB6B-8B741626EA71",
-  "versionEndExcluding": "1.14.0",
-  "created": "2022-02-10T17:10:08.887",
-  "lastModified": "2022-02-10T17:10:08.887",
-  "cpeLastModified": "2022-02-16T15:26:01.320",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:latitude_7200_2-in-1_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "4332AAC1-229E-49B6-AF3A-88F9CBB30FE6"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:latitude_7200_2-in-1_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7E75EB64-3E9B-4EC2-BB6B-8B741626EA71",
+	"versionEndExcluding": "1.14.0",
+	"created": "2022-02-10T17:10:08.887",
+	"lastModified": "2022-02-10T17:10:08.887",
+	"cpeLastModified": "2022-02-16T15:26:01.320",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_7200_2-in-1_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4332AAC1-229E-49B6-AF3A-88F9CBB30FE6"
+		}
+	]
 }

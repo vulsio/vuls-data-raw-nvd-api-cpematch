@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:intel:celeron_6305:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D63F16DE-E30E-4268-B079-E07FD28355BD",
-  "created": "2021-06-28T12:28:35.767",
-  "lastModified": "2022-11-18T16:13:22.927",
-  "cpeLastModified": "2021-06-28T12:28:48.520",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:intel:celeron_6305:-:*:*:*:*:*:*:*",
-      "cpeNameId": "B87975BC-F559-471F-A154-1C86F215DD5B"
-    }
-  ]
+	"criteria": "cpe:2.3:h:intel:celeron_6305:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D63F16DE-E30E-4268-B079-E07FD28355BD",
+	"created": "2021-06-28T12:28:35.767",
+	"lastModified": "2022-11-18T16:13:22.927",
+	"cpeLastModified": "2021-06-28T12:28:48.520",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:celeron_6305:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B87975BC-F559-471F-A154-1C86F215DD5B"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:axis:ip_utility:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "3D094A60-1BB7-4180-9A03-CC5DA3045C9C",
-  "versionEndExcluding": "4.17.0",
-  "created": "2022-02-17T16:06:13.350",
-  "lastModified": "2022-02-17T16:06:13.350",
-  "cpeLastModified": "2022-02-23T18:13:52.983",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:axis:ip_utility:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E1EB8ACD-C38F-42C6-B05B-B0AD39766D43"
-    }
-  ]
+	"criteria": "cpe:2.3:a:axis:ip_utility:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3D094A60-1BB7-4180-9A03-CC5DA3045C9C",
+	"versionEndExcluding": "4.17.0",
+	"created": "2022-02-17T16:06:13.350",
+	"lastModified": "2022-02-17T16:06:13.350",
+	"cpeLastModified": "2022-02-23T18:13:52.983",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:axis:ip_utility:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E1EB8ACD-C38F-42C6-B05B-B0AD39766D43"
+		}
+	]
 }

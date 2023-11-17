@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:veritas:system_recovery:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D230EE5D-5D12-41BF-9E4A-E4922E9E72A9",
-  "versionStartIncluding": "21",
-  "versionEndExcluding": "21.0.3.62140",
-  "created": "2022-09-23T20:37:27.280",
-  "lastModified": "2022-09-23T20:37:27.280",
-  "cpeLastModified": "2022-09-23T20:37:27.280",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:veritas:system_recovery:21:*:*:*:*:*:*:*",
-      "cpeNameId": "FD164CDB-E0B3-468C-866C-8139EB458199"
-    }
-  ]
+	"criteria": "cpe:2.3:a:veritas:system_recovery:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D230EE5D-5D12-41BF-9E4A-E4922E9E72A9",
+	"versionStartIncluding": "21",
+	"versionEndExcluding": "21.0.3.62140",
+	"created": "2022-09-23T20:37:27.280",
+	"lastModified": "2022-09-23T20:37:27.280",
+	"cpeLastModified": "2022-09-23T20:37:27.280",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:veritas:system_recovery:21:*:*:*:*:*:*:*",
+			"cpeNameId": "FD164CDB-E0B3-468C-866C-8139EB458199"
+		}
+	]
 }

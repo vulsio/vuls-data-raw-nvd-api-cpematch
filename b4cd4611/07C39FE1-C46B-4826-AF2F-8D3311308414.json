@@ -1,30 +1,30 @@
 {
-  "criteria": "cpe:2.3:o:siemens:sinamics_s120_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "07C39FE1-C46B-4826-AF2F-8D3311308414",
-  "created": "2019-10-11T14:47:35.800",
-  "lastModified": "2019-10-11T14:47:35.800",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:sinamics_s120_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "78E9B7B9-31CA-4CC9-A3DD-BF7B5DB82628"
-    },
-    {
-      "cpeName": "cpe:2.3:o:siemens:sinamics_s120_firmware:4.7:-:*:*:*:*:*:*",
-      "cpeNameId": "40134848-80C1-487F-9D5C-E249AEE70EC9"
-    },
-    {
-      "cpeName": "cpe:2.3:o:siemens:sinamics_s120_firmware:4.8:*:*:*:*:*:*:*",
-      "cpeNameId": "751C7CAD-2548-4779-85B0-4DB1C9F84312"
-    },
-    {
-      "cpeName": "cpe:2.3:o:siemens:sinamics_s120_firmware:5.2:*:*:*:*:*:*:*",
-      "cpeNameId": "8D230A26-D363-4909-9C8D-9E9FD439E1BF"
-    },
-    {
-      "cpeName": "cpe:2.3:o:siemens:sinamics_s120_firmware:5.2:-:*:*:*:*:*:*",
-      "cpeNameId": "EE3120E2-ADF6-401B-A02F-193BD7111023"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:sinamics_s120_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "07C39FE1-C46B-4826-AF2F-8D3311308414",
+	"created": "2019-10-11T14:47:35.800",
+	"lastModified": "2019-10-11T14:47:35.800",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:sinamics_s120_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "78E9B7B9-31CA-4CC9-A3DD-BF7B5DB82628"
+		},
+		{
+			"cpeName": "cpe:2.3:o:siemens:sinamics_s120_firmware:4.7:-:*:*:*:*:*:*",
+			"cpeNameId": "40134848-80C1-487F-9D5C-E249AEE70EC9"
+		},
+		{
+			"cpeName": "cpe:2.3:o:siemens:sinamics_s120_firmware:4.8:*:*:*:*:*:*:*",
+			"cpeNameId": "751C7CAD-2548-4779-85B0-4DB1C9F84312"
+		},
+		{
+			"cpeName": "cpe:2.3:o:siemens:sinamics_s120_firmware:5.2:*:*:*:*:*:*:*",
+			"cpeNameId": "8D230A26-D363-4909-9C8D-9E9FD439E1BF"
+		},
+		{
+			"cpeName": "cpe:2.3:o:siemens:sinamics_s120_firmware:5.2:-:*:*:*:*:*:*",
+			"cpeNameId": "EE3120E2-ADF6-401B-A02F-193BD7111023"
+		}
+	]
 }

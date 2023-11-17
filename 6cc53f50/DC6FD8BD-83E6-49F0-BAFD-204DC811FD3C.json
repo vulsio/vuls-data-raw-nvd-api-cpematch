@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:netmodule:nb3720_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "DC6FD8BD-83E6-49F0-BAFD-204DC811FD3C",
-  "versionEndExcluding": "4.3.0.113",
-  "created": "2021-08-26T16:22:32.070",
-  "lastModified": "2021-08-26T16:22:32.070",
-  "cpeLastModified": "2021-08-26T19:07:21.443",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:netmodule:nb3720_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "9C805D35-E07C-4E49-8C9D-D368E986A082"
-    }
-  ]
+	"criteria": "cpe:2.3:o:netmodule:nb3720_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DC6FD8BD-83E6-49F0-BAFD-204DC811FD3C",
+	"versionEndExcluding": "4.3.0.113",
+	"created": "2021-08-26T16:22:32.070",
+	"lastModified": "2021-08-26T16:22:32.070",
+	"cpeLastModified": "2021-08-26T19:07:21.443",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netmodule:nb3720_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9C805D35-E07C-4E49-8C9D-D368E986A082"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:j6u57b_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C3FC64B9-4F4F-4EAA-9F58-E910D95BBF54",
-  "versionEndExcluding": "001.1937d",
-  "created": "2019-11-13T15:26:40.337",
-  "lastModified": "2019-11-13T15:26:40.337",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:j6u57b_firmware:001.1829a:*:*:*:*:*:*:*",
-      "cpeNameId": "220BD785-EEC0-4631-9AE6-2E6C43DBCB6C"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:j6u57b_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C3FC64B9-4F4F-4EAA-9F58-E910D95BBF54",
+	"versionEndExcluding": "001.1937d",
+	"created": "2019-11-13T15:26:40.337",
+	"lastModified": "2019-11-13T15:26:40.337",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:j6u57b_firmware:001.1829a:*:*:*:*:*:*:*",
+			"cpeNameId": "220BD785-EEC0-4631-9AE6-2E6C43DBCB6C"
+		}
+	]
 }

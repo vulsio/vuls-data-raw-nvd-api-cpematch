@@ -1,18 +1,18 @@
 {
-  "criteria": "cpe:2.3:a:rockwellautomation:factorytalk_view:*:*:*:*:se:*:*:*",
-  "matchCriteriaId": "4DDF668E-9D30-4588-8897-474014D746A5",
-  "created": "2020-07-24T17:05:14.067",
-  "lastModified": "2020-07-24T17:05:14.067",
-  "cpeLastModified": "2022-11-09T16:48:01.253",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:rockwellautomation:factorytalk_view:-:*:*:*:se:*:*:*",
-      "cpeNameId": "315DA957-D7BE-4435-9BBA-13C6ECC775E3"
-    },
-    {
-      "cpeName": "cpe:2.3:a:rockwellautomation:factorytalk_view:10.0:*:*:*:se:*:*:*",
-      "cpeNameId": "E40D8A82-4298-4E14-9634-EB55CBFFA7B3"
-    }
-  ]
+	"criteria": "cpe:2.3:a:rockwellautomation:factorytalk_view:*:*:*:*:se:*:*:*",
+	"matchCriteriaId": "4DDF668E-9D30-4588-8897-474014D746A5",
+	"created": "2020-07-24T17:05:14.067",
+	"lastModified": "2020-07-24T17:05:14.067",
+	"cpeLastModified": "2022-11-09T16:48:01.253",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:rockwellautomation:factorytalk_view:-:*:*:*:se:*:*:*",
+			"cpeNameId": "315DA957-D7BE-4435-9BBA-13C6ECC775E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rockwellautomation:factorytalk_view:10.0:*:*:*:se:*:*:*",
+			"cpeNameId": "E40D8A82-4298-4E14-9634-EB55CBFFA7B3"
+		}
+	]
 }

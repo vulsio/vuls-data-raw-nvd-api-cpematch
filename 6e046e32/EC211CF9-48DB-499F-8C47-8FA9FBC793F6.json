@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:aveva:batch_management:2020:*:*:*:*:*:*:*",
-  "matchCriteriaId": "EC211CF9-48DB-499F-8C47-8FA9FBC793F6",
-  "created": "2022-08-02T13:03:12.260",
-  "lastModified": "2022-08-04T02:48:03.463",
-  "cpeLastModified": "2022-08-04T11:52:19.057",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:aveva:batch_management:2020:*:*:*:*:*:*:*",
-      "cpeNameId": "0A32F3F0-C030-4D68-9075-757E8AFD427D"
-    }
-  ]
+	"criteria": "cpe:2.3:a:aveva:batch_management:2020:*:*:*:*:*:*:*",
+	"matchCriteriaId": "EC211CF9-48DB-499F-8C47-8FA9FBC793F6",
+	"created": "2022-08-02T13:03:12.260",
+	"lastModified": "2022-08-04T02:48:03.463",
+	"cpeLastModified": "2022-08-04T11:52:19.057",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:aveva:batch_management:2020:*:*:*:*:*:*:*",
+			"cpeNameId": "0A32F3F0-C030-4D68-9075-757E8AFD427D"
+		}
+	]
 }

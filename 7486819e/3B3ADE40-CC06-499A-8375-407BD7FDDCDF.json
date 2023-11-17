@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:probook_440_g8_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "3B3ADE40-CC06-499A-8375-407BD7FDDCDF",
-  "versionEndExcluding": "01.08.11",
-  "created": "2022-03-08T13:40:45.440",
-  "lastModified": "2022-03-08T13:40:45.440",
-  "cpeLastModified": "2022-03-10T13:35:56.060",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:probook_440_g8_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "289A258D-158B-44AD-A35E-DCE84CFA260A"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:probook_440_g8_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3B3ADE40-CC06-499A-8375-407BD7FDDCDF",
+	"versionEndExcluding": "01.08.11",
+	"created": "2022-03-08T13:40:45.440",
+	"lastModified": "2022-03-08T13:40:45.440",
+	"cpeLastModified": "2022-03-10T13:35:56.060",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:probook_440_g8_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "289A258D-158B-44AD-A35E-DCE84CFA260A"
+		}
+	]
 }

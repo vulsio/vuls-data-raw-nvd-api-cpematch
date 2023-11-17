@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:uclibc-ng_project:uclibc-ng:1.0.40:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E0D2B754-D26E-43F0-98FF-50746C422DCA",
-  "created": "2022-09-30T15:31:46.670",
-  "lastModified": "2022-10-07T20:19:43.357",
-  "cpeLastModified": "2022-10-07T20:19:43.357",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:uclibc-ng_project:uclibc-ng:1.0.40:*:*:*:*:*:*:*",
-      "cpeNameId": "7770708D-DE21-414A-AA13-AA5828294CB8"
-    }
-  ]
+	"criteria": "cpe:2.3:a:uclibc-ng_project:uclibc-ng:1.0.40:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E0D2B754-D26E-43F0-98FF-50746C422DCA",
+	"created": "2022-09-30T15:31:46.670",
+	"lastModified": "2022-10-07T20:19:43.357",
+	"cpeLastModified": "2022-10-07T20:19:43.357",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:uclibc-ng_project:uclibc-ng:1.0.40:*:*:*:*:*:*:*",
+			"cpeNameId": "7770708D-DE21-414A-AA13-AA5828294CB8"
+		}
+	]
 }

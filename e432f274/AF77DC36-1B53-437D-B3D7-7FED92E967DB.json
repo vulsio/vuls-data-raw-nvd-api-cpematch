@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:ibm:doors_next:7.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AF77DC36-1B53-437D-B3D7-7FED92E967DB",
-  "created": "2020-06-24T01:14:08.030",
-  "lastModified": "2020-06-24T01:14:08.030",
-  "cpeLastModified": "2020-06-24T16:37:14.040",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ibm:doors_next:7.0:*:*:*:*:*:*:*",
-      "cpeNameId": "15674FB7-CD92-4931-A57B-CED5B67AA9F1"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ibm:doors_next:7.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AF77DC36-1B53-437D-B3D7-7FED92E967DB",
+	"created": "2020-06-24T01:14:08.030",
+	"lastModified": "2020-06-24T01:14:08.030",
+	"cpeLastModified": "2020-06-24T16:37:14.040",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ibm:doors_next:7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "15674FB7-CD92-4931-A57B-CED5B67AA9F1"
+		}
+	]
 }

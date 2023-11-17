@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:netgear:wac720_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F29EC2CC-444D-486D-B41A-BD6A9700462E",
-  "versionEndExcluding": "3.9.1.13",
-  "created": "2020-10-09T11:20:44.803",
-  "lastModified": "2020-10-09T11:20:44.803",
-  "cpeLastModified": "2020-10-09T11:20:44.837",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:netgear:wac720_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "52F42610-CB05-4E40-AD25-92CB3054A372"
-    }
-  ]
+	"criteria": "cpe:2.3:o:netgear:wac720_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F29EC2CC-444D-486D-B41A-BD6A9700462E",
+	"versionEndExcluding": "3.9.1.13",
+	"created": "2020-10-09T11:20:44.803",
+	"lastModified": "2020-10-09T11:20:44.803",
+	"cpeLastModified": "2020-10-09T11:20:44.837",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netgear:wac720_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "52F42610-CB05-4E40-AD25-92CB3054A372"
+		}
+	]
 }

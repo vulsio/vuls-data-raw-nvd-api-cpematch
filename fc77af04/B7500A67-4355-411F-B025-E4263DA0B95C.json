@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:airties:air_4920_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B7500A67-4355-411F-B025-E4263DA0B95C",
-  "versionEndExcluding": "2020-08-04",
-  "created": "2022-09-16T12:17:27.480",
-  "lastModified": "2022-09-19T17:59:40.857",
-  "cpeLastModified": "2022-09-26T15:45:52.243",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:airties:air_4920_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "4B59F918-588E-4FFF-8626-D6FC6B794D0E"
-    }
-  ]
+	"criteria": "cpe:2.3:o:airties:air_4920_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B7500A67-4355-411F-B025-E4263DA0B95C",
+	"versionEndExcluding": "2020-08-04",
+	"created": "2022-09-16T12:17:27.480",
+	"lastModified": "2022-09-19T17:59:40.857",
+	"cpeLastModified": "2022-09-26T15:45:52.243",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:airties:air_4920_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4B59F918-588E-4FFF-8626-D6FC6B794D0E"
+		}
+	]
 }

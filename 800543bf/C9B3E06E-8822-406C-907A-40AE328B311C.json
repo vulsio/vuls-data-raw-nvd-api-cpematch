@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:siemens:scalance_x-414-3e_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C9B3E06E-8822-406C-907A-40AE328B311C",
-  "created": "2019-06-17T17:01:26.143",
-  "lastModified": "2019-06-17T17:01:26.143",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:scalance_x-414-3e_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "4CA23658-CF4A-494A-9CAE-BC860AE3C513"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:scalance_x-414-3e_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C9B3E06E-8822-406C-907A-40AE328B311C",
+	"created": "2019-06-17T17:01:26.143",
+	"lastModified": "2019-06-17T17:01:26.143",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:scalance_x-414-3e_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4CA23658-CF4A-494A-9CAE-BC860AE3C513"
+		}
+	]
 }

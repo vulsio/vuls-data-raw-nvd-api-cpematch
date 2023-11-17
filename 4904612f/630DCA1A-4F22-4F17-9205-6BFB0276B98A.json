@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:cisco:meraki_mr44_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "630DCA1A-4F22-4F17-9205-6BFB0276B98A",
-  "versionEndExcluding": "27.7.1",
-  "created": "2022-03-03T14:56:09.400",
-  "lastModified": "2022-03-03T14:56:09.400",
-  "cpeLastModified": "2022-04-22T19:33:26.343",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:meraki_mr44_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "41CF12A4-5DDA-4DB0-89B2-84632F60F61C"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:meraki_mr44_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "630DCA1A-4F22-4F17-9205-6BFB0276B98A",
+	"versionEndExcluding": "27.7.1",
+	"created": "2022-03-03T14:56:09.400",
+	"lastModified": "2022-03-03T14:56:09.400",
+	"cpeLastModified": "2022-04-22T19:33:26.343",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:meraki_mr44_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "41CF12A4-5DDA-4DB0-89B2-84632F60F61C"
+		}
+	]
 }

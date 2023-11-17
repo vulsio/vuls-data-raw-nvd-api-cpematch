@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:schneider-electric:ap9635_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7D3D7DCD-6584-482A-BDFF-D22AC3DC841E",
-  "versionEndExcluding": "6.7.2",
-  "created": "2019-09-18T20:44:24.457",
-  "lastModified": "2019-09-18T20:44:24.457",
-  "cpeLastModified": "2020-03-04T17:12:09.850",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:schneider-electric:ap9635_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "F10F32C4-C87C-47D0-9608-7AA22B06CD36"
-    }
-  ]
+	"criteria": "cpe:2.3:o:schneider-electric:ap9635_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7D3D7DCD-6584-482A-BDFF-D22AC3DC841E",
+	"versionEndExcluding": "6.7.2",
+	"created": "2019-09-18T20:44:24.457",
+	"lastModified": "2019-09-18T20:44:24.457",
+	"cpeLastModified": "2020-03-04T17:12:09.850",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:schneider-electric:ap9635_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F10F32C4-C87C-47D0-9608-7AA22B06CD36"
+		}
+	]
 }

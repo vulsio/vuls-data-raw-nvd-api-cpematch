@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:oracle:fujitsu_m10-4_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D512DA28-0734-43F5-A2F8-0828AE02AC9A",
-  "versionEndExcluding": "xcp2361",
-  "created": "2020-06-17T16:16:46.040",
-  "lastModified": "2020-06-17T16:16:46.040",
-  "cpeLastModified": "2020-10-30T18:03:13.543",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:oracle:fujitsu_m10-4_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "B24C4490-D48B-4A26-80E8-88BC2B9F37CF"
-    }
-  ]
+	"criteria": "cpe:2.3:o:oracle:fujitsu_m10-4_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D512DA28-0734-43F5-A2F8-0828AE02AC9A",
+	"versionEndExcluding": "xcp2361",
+	"created": "2020-06-17T16:16:46.040",
+	"lastModified": "2020-06-17T16:16:46.040",
+	"cpeLastModified": "2020-10-30T18:03:13.543",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:oracle:fujitsu_m10-4_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B24C4490-D48B-4A26-80E8-88BC2B9F37CF"
+		}
+	]
 }

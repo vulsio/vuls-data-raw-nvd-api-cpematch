@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:sharp:aquos_sense2_sh-m08_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B1D50AB6-954E-4E61-953F-C5C0B1571EA1",
-  "versionEndIncluding": "02.00.05",
-  "created": "2020-04-24T15:58:35.997",
-  "lastModified": "2020-04-24T15:58:35.997",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:sharp:aquos_sense2_sh-m08_firmware:02.00.05:*:*:*:*:*:*:*",
-      "cpeNameId": "ACE65BBA-3E1F-4614-BE72-6FE6B3CD5EC5"
-    }
-  ]
+	"criteria": "cpe:2.3:o:sharp:aquos_sense2_sh-m08_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B1D50AB6-954E-4E61-953F-C5C0B1571EA1",
+	"versionEndIncluding": "02.00.05",
+	"created": "2020-04-24T15:58:35.997",
+	"lastModified": "2020-04-24T15:58:35.997",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:sharp:aquos_sense2_sh-m08_firmware:02.00.05:*:*:*:*:*:*:*",
+			"cpeNameId": "ACE65BBA-3E1F-4614-BE72-6FE6B3CD5EC5"
+		}
+	]
 }

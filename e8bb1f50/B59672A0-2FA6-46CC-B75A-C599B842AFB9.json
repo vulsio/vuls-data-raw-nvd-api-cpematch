@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:qualcomm:qca6564au_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B59672A0-2FA6-46CC-B75A-C599B842AFB9",
-  "created": "2021-01-26T11:59:13.767",
-  "lastModified": "2022-09-19T01:02:11.200",
-  "cpeLastModified": "2021-03-08T18:37:26.903",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:qualcomm:qca6564au_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "22D72164-838F-43D0-BDDA-D1C6C795888F"
-    }
-  ]
+	"criteria": "cpe:2.3:o:qualcomm:qca6564au_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B59672A0-2FA6-46CC-B75A-C599B842AFB9",
+	"created": "2021-01-26T11:59:13.767",
+	"lastModified": "2022-09-19T01:02:11.200",
+	"cpeLastModified": "2021-03-08T18:37:26.903",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:qualcomm:qca6564au_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "22D72164-838F-43D0-BDDA-D1C6C795888F"
+		}
+	]
 }

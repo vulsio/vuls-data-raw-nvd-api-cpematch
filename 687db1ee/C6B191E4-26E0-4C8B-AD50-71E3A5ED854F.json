@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:vmware:gemfire:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C6B191E4-26E0-4C8B-AD50-71E3A5ED854F",
-  "versionStartIncluding": "9.7.0",
-  "versionEndExcluding": "9.7.6",
-  "created": "2020-08-01T01:07:01.217",
-  "lastModified": "2020-08-01T01:07:01.217",
-  "cpeLastModified": "2020-09-11T14:35:15.573",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:vmware:gemfire:9.7.0:*:*:*:*:*:*:*",
-      "cpeNameId": "737440B3-3F63-4D37-8C7B-5D7DF7C048CB"
-    }
-  ]
+	"criteria": "cpe:2.3:a:vmware:gemfire:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C6B191E4-26E0-4C8B-AD50-71E3A5ED854F",
+	"versionStartIncluding": "9.7.0",
+	"versionEndExcluding": "9.7.6",
+	"created": "2020-08-01T01:07:01.217",
+	"lastModified": "2020-08-01T01:07:01.217",
+	"cpeLastModified": "2020-09-11T14:35:15.573",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:vmware:gemfire:9.7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "737440B3-3F63-4D37-8C7B-5D7DF7C048CB"
+		}
+	]
 }

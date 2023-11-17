@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:medtronic:minimed_paradigm_511_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E05835DE-DBD1-4FB9-B0C7-15785EE9026B",
-  "created": "2019-07-03T16:35:40.130",
-  "lastModified": "2019-07-03T16:35:40.130",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:medtronic:minimed_paradigm_511_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "368681AD-5CFC-4F58-850F-BD7B1BB22583"
-    }
-  ]
+	"criteria": "cpe:2.3:o:medtronic:minimed_paradigm_511_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E05835DE-DBD1-4FB9-B0C7-15785EE9026B",
+	"created": "2019-07-03T16:35:40.130",
+	"lastModified": "2019-07-03T16:35:40.130",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:medtronic:minimed_paradigm_511_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "368681AD-5CFC-4F58-850F-BD7B1BB22583"
+		}
+	]
 }

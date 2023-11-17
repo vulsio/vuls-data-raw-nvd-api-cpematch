@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:autodesk:subassembly_composer:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "901EB907-1CA9-45AC-B7A4-997878BAD7A6",
-  "versionStartIncluding": "2020",
-  "versionEndExcluding": "2020.6.3",
-  "created": "2022-10-03T18:36:49.723",
-  "lastModified": "2022-10-03T18:36:49.723",
-  "cpeLastModified": "2022-10-04T12:35:35.413",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:autodesk:subassembly_composer:2020:*:*:*:*:*:*:*",
-      "cpeNameId": "1D05083E-C708-4AA8-8EDC-4EC0FA16DD42"
-    }
-  ]
+	"criteria": "cpe:2.3:a:autodesk:subassembly_composer:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "901EB907-1CA9-45AC-B7A4-997878BAD7A6",
+	"versionStartIncluding": "2020",
+	"versionEndExcluding": "2020.6.3",
+	"created": "2022-10-03T18:36:49.723",
+	"lastModified": "2022-10-03T18:36:49.723",
+	"cpeLastModified": "2022-10-04T12:35:35.413",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:autodesk:subassembly_composer:2020:*:*:*:*:*:*:*",
+			"cpeNameId": "1D05083E-C708-4AA8-8EDC-4EC0FA16DD42"
+		}
+	]
 }

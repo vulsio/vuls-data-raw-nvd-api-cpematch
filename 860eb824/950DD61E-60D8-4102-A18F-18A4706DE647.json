@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:idec:microsmart_plus_fc6b_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "950DD61E-60D8-4102-A18F-18A4706DE647",
-  "versionEndIncluding": "2.31",
-  "created": "2022-01-07T18:45:45.827",
-  "lastModified": "2022-10-04T14:04:02.190",
-  "cpeLastModified": "2022-10-04T14:04:02.190",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:idec:microsmart_plus_fc6b_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "97386526-AB72-4800-BD0E-BE795F95CA52"
-    },
-    {
-      "cpeName": "cpe:2.3:o:idec:microsmart_plus_fc6b_firmware:2.31:*:*:*:*:*:*:*",
-      "cpeNameId": "347A0A5E-315C-4D66-B551-68CE5854BB1D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:idec:microsmart_plus_fc6b_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "950DD61E-60D8-4102-A18F-18A4706DE647",
+	"versionEndIncluding": "2.31",
+	"created": "2022-01-07T18:45:45.827",
+	"lastModified": "2022-10-04T14:04:02.190",
+	"cpeLastModified": "2022-10-04T14:04:02.190",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:idec:microsmart_plus_fc6b_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "97386526-AB72-4800-BD0E-BE795F95CA52"
+		},
+		{
+			"cpeName": "cpe:2.3:o:idec:microsmart_plus_fc6b_firmware:2.31:*:*:*:*:*:*:*",
+			"cpeNameId": "347A0A5E-315C-4D66-B551-68CE5854BB1D"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:hp:j6u55a_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "348BD65F-7035-44C1-B7AB-82DA43B8D86B",
-  "versionEndExcluding": "2228b",
-  "created": "2022-10-03T14:39:40.700",
-  "lastModified": "2022-10-03T14:39:40.700",
-  "cpeLastModified": "2022-10-03T14:39:40.700",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:j6u55a_firmware:001.1829a:*:*:*:*:*:*:*",
-      "cpeNameId": "169E1623-2386-40E8-AD35-04D077E386A1"
-    },
-    {
-      "cpeName": "cpe:2.3:o:hp:j6u55a_firmware:001.1937d:*:*:*:*:*:*:*",
-      "cpeNameId": "3A0A1EB7-7443-4E2D-9B1E-36E19B34337E"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:j6u55a_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "348BD65F-7035-44C1-B7AB-82DA43B8D86B",
+	"versionEndExcluding": "2228b",
+	"created": "2022-10-03T14:39:40.700",
+	"lastModified": "2022-10-03T14:39:40.700",
+	"cpeLastModified": "2022-10-03T14:39:40.700",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:j6u55a_firmware:001.1829a:*:*:*:*:*:*:*",
+			"cpeNameId": "169E1623-2386-40E8-AD35-04D077E386A1"
+		},
+		{
+			"cpeName": "cpe:2.3:o:hp:j6u55a_firmware:001.1937d:*:*:*:*:*:*:*",
+			"cpeNameId": "3A0A1EB7-7443-4E2D-9B1E-36E19B34337E"
+		}
+	]
 }

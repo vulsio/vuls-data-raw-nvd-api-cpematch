@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dahuasecurity:n54a4p_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "BFA91720-5AE4-48B6-A940-A4DBE650591D",
-  "versionEndExcluding": "2019-12",
-  "created": "2020-05-15T14:49:04.683",
-  "lastModified": "2020-05-15T14:49:04.683",
-  "cpeLastModified": "2021-05-26T15:43:10.460",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dahuasecurity:n54a4p_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "C70A0728-6FD4-4E54-A1BF-7018C5972CED"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dahuasecurity:n54a4p_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BFA91720-5AE4-48B6-A940-A4DBE650591D",
+	"versionEndExcluding": "2019-12",
+	"created": "2020-05-15T14:49:04.683",
+	"lastModified": "2020-05-15T14:49:04.683",
+	"cpeLastModified": "2021-05-26T15:43:10.460",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dahuasecurity:n54a4p_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C70A0728-6FD4-4E54-A1BF-7018C5972CED"
+		}
+	]
 }

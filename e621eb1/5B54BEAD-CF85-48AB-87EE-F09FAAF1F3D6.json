@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:netgear:r6350:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5B54BEAD-CF85-48AB-87EE-F09FAAF1F3D6",
-  "created": "2021-03-23T15:41:48.300",
-  "lastModified": "2021-03-23T15:41:48.300",
-  "cpeLastModified": "2021-03-23T15:41:48.300",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:netgear:r6350:-:*:*:*:*:*:*:*",
-      "cpeNameId": "6B9E908A-D4E3-413A-AA16-FA5B3A6FDF02"
-    }
-  ]
+	"criteria": "cpe:2.3:h:netgear:r6350:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5B54BEAD-CF85-48AB-87EE-F09FAAF1F3D6",
+	"created": "2021-03-23T15:41:48.300",
+	"lastModified": "2021-03-23T15:41:48.300",
+	"cpeLastModified": "2021-03-23T15:41:48.300",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:netgear:r6350:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6B9E908A-D4E3-413A-AA16-FA5B3A6FDF02"
+		}
+	]
 }

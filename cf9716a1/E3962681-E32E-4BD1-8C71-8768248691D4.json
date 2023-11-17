@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:siemens:simatic_s7-300_cpu_315:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E3962681-E32E-4BD1-8C71-8768248691D4",
-  "created": "2019-10-11T14:15:47.230",
-  "lastModified": "2019-10-11T14:15:47.230",
-  "cpeLastModified": "2020-01-16T13:43:46.900",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:siemens:simatic_s7-300_cpu_315:-:*:*:*:*:*:*:*",
-      "cpeNameId": "F4AA25BD-25CA-4CAB-9E44-11F779CF24E9"
-    }
-  ]
+	"criteria": "cpe:2.3:h:siemens:simatic_s7-300_cpu_315:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E3962681-E32E-4BD1-8C71-8768248691D4",
+	"created": "2019-10-11T14:15:47.230",
+	"lastModified": "2019-10-11T14:15:47.230",
+	"cpeLastModified": "2020-01-16T13:43:46.900",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:siemens:simatic_s7-300_cpu_315:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F4AA25BD-25CA-4CAB-9E44-11F779CF24E9"
+		}
+	]
 }

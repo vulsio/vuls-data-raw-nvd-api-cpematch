@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:johnsoncontrols:entrapass:*:*:*:*:corporate:*:*:*",
-  "matchCriteriaId": "D0A227DD-DA8A-4473-AC78-1A8779935D62",
-  "versionEndExcluding": "8.10",
-  "created": "2020-03-11T17:40:47.010",
-  "lastModified": "2020-03-11T17:40:47.010",
-  "cpeLastModified": "2020-04-01T18:10:13.760",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:johnsoncontrols:entrapass:-:*:*:*:corporate:*:*:*",
-      "cpeNameId": "F8B1295F-8CA7-43AD-8CD8-BC8BEF90079A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:johnsoncontrols:entrapass:*:*:*:*:corporate:*:*:*",
+	"matchCriteriaId": "D0A227DD-DA8A-4473-AC78-1A8779935D62",
+	"versionEndExcluding": "8.10",
+	"created": "2020-03-11T17:40:47.010",
+	"lastModified": "2020-03-11T17:40:47.010",
+	"cpeLastModified": "2020-04-01T18:10:13.760",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:johnsoncontrols:entrapass:-:*:*:*:corporate:*:*:*",
+			"cpeNameId": "F8B1295F-8CA7-43AD-8CD8-BC8BEF90079A"
+		}
+	]
 }

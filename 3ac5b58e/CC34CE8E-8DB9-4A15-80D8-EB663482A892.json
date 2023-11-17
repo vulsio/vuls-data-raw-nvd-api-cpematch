@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:netgear:r8500_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CC34CE8E-8DB9-4A15-80D8-EB663482A892",
-  "versionEndExcluding": "1.0.2.74",
-  "created": "2020-04-23T11:30:06.307",
-  "lastModified": "2020-04-23T11:30:06.307",
-  "cpeLastModified": "2020-04-23T11:30:06.320",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:netgear:r8500_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "1B9F3397-A106-454A-8C75-63A6BD5BE445"
-    }
-  ]
+	"criteria": "cpe:2.3:o:netgear:r8500_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CC34CE8E-8DB9-4A15-80D8-EB663482A892",
+	"versionEndExcluding": "1.0.2.74",
+	"created": "2020-04-23T11:30:06.307",
+	"lastModified": "2020-04-23T11:30:06.307",
+	"cpeLastModified": "2020-04-23T11:30:06.320",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netgear:r8500_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1B9F3397-A106-454A-8C75-63A6BD5BE445"
+		}
+	]
 }

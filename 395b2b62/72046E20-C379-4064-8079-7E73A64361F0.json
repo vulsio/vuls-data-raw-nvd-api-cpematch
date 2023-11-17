@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:thinkpad_x140e_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "72046E20-C379-4064-8079-7E73A64361F0",
-  "created": "2019-11-15T17:23:20.357",
-  "lastModified": "2019-11-15T17:23:20.357",
-  "cpeLastModified": "2019-12-10T16:08:59.327",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:thinkpad_x140e_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "C73543C5-E750-466C-967A-D39784C70C1D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:thinkpad_x140e_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "72046E20-C379-4064-8079-7E73A64361F0",
+	"created": "2019-11-15T17:23:20.357",
+	"lastModified": "2019-11-15T17:23:20.357",
+	"cpeLastModified": "2019-12-10T16:08:59.327",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:thinkpad_x140e_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C73543C5-E750-466C-967A-D39784C70C1D"
+		}
+	]
 }

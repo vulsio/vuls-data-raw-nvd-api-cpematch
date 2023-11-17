@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:netgear:xs716e_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "EAB20EA0-D4CF-47D7-8152-45CD65B3FC65",
-  "versionEndExcluding": "2017-05-11",
-  "created": "2020-05-01T11:43:25.563",
-  "lastModified": "2020-05-01T11:43:25.563",
-  "cpeLastModified": "2020-05-01T11:43:25.580",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:netgear:xs716e_firmware:1.6.0.23:*:*:*:*:*:*:*",
-      "cpeNameId": "60BDEA20-E86F-42E4-AEF1-40D220FE47A9"
-    }
-  ]
+	"criteria": "cpe:2.3:o:netgear:xs716e_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "EAB20EA0-D4CF-47D7-8152-45CD65B3FC65",
+	"versionEndExcluding": "2017-05-11",
+	"created": "2020-05-01T11:43:25.563",
+	"lastModified": "2020-05-01T11:43:25.563",
+	"cpeLastModified": "2020-05-01T11:43:25.580",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netgear:xs716e_firmware:1.6.0.23:*:*:*:*:*:*:*",
+			"cpeNameId": "60BDEA20-E86F-42E4-AEF1-40D220FE47A9"
+		}
+	]
 }

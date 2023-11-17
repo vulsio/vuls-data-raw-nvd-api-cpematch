@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:daybydaycrm:daybyday:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FA9204B0-8CCD-4C29-9738-E7F3B238CAEE",
-  "versionStartIncluding": "1.1",
-  "versionEndIncluding": "2.2.1",
-  "created": "2022-01-19T17:09:07.903",
-  "lastModified": "2022-01-19T17:09:07.903",
-  "cpeLastModified": "2022-01-20T15:16:45.253",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:daybydaycrm:daybyday:2.1.0:*:*:*:*:*:*:*",
-      "cpeNameId": "8FAACA68-08E4-4DF3-ACE7-2BFF53AA3F72"
-    }
-  ]
+	"criteria": "cpe:2.3:a:daybydaycrm:daybyday:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FA9204B0-8CCD-4C29-9738-E7F3B238CAEE",
+	"versionStartIncluding": "1.1",
+	"versionEndIncluding": "2.2.1",
+	"created": "2022-01-19T17:09:07.903",
+	"lastModified": "2022-01-19T17:09:07.903",
+	"cpeLastModified": "2022-01-20T15:16:45.253",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:daybydaycrm:daybyday:2.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "8FAACA68-08E4-4DF3-ACE7-2BFF53AA3F72"
+		}
+	]
 }

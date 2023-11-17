@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:siemens:siprotec_5_digsi_device_driver:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9D50D723-C979-4EEA-8DEC-23887B82155C",
-  "versionEndExcluding": "8.01",
-  "created": "2021-10-20T16:27:29.063",
-  "lastModified": "2021-10-20T16:27:29.063",
-  "cpeLastModified": "2021-10-28T13:29:15.160",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:siemens:siprotec_5_digsi_device_driver:7.90:*:*:*:*:*:*:*",
-      "cpeNameId": "2E9C1606-E5AB-4626-954A-F858D54BC4F1"
-    }
-  ]
+	"criteria": "cpe:2.3:a:siemens:siprotec_5_digsi_device_driver:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9D50D723-C979-4EEA-8DEC-23887B82155C",
+	"versionEndExcluding": "8.01",
+	"created": "2021-10-20T16:27:29.063",
+	"lastModified": "2021-10-20T16:27:29.063",
+	"cpeLastModified": "2021-10-28T13:29:15.160",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:siemens:siprotec_5_digsi_device_driver:7.90:*:*:*:*:*:*:*",
+			"cpeNameId": "2E9C1606-E5AB-4626-954A-F858D54BC4F1"
+		}
+	]
 }

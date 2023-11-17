@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:qualcomm:pm8350b_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7CAD021F-6DEA-4C02-9048-34C4313D3F5C",
-  "created": "2021-01-26T11:59:03.907",
-  "lastModified": "2021-01-26T11:59:03.907",
-  "cpeLastModified": "2021-03-09T22:31:09.510",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:qualcomm:pm8350b_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "535B0162-CB65-49EF-8496-A44008C43CA9"
-    }
-  ]
+	"criteria": "cpe:2.3:o:qualcomm:pm8350b_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7CAD021F-6DEA-4C02-9048-34C4313D3F5C",
+	"created": "2021-01-26T11:59:03.907",
+	"lastModified": "2021-01-26T11:59:03.907",
+	"cpeLastModified": "2021-03-09T22:31:09.510",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:qualcomm:pm8350b_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "535B0162-CB65-49EF-8496-A44008C43CA9"
+		}
+	]
 }

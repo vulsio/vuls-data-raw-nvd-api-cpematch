@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:apple:shazam:*:*:*:*:*:iphone_os:*:*",
-  "matchCriteriaId": "901CD767-C378-4185-A443-DED17BEBAF60",
-  "versionEndExcluding": "9.25.0",
-  "created": "2020-01-02T18:41:25.823",
-  "lastModified": "2020-01-02T18:41:25.823",
-  "cpeLastModified": "2020-01-13T15:14:00.500",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:apple:shazam:-:*:*:*:*:iphone_os:*:*",
-      "cpeNameId": "1133441A-F03C-4DD6-915A-009C89F4B87B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:apple:shazam:*:*:*:*:*:iphone_os:*:*",
+	"matchCriteriaId": "901CD767-C378-4185-A443-DED17BEBAF60",
+	"versionEndExcluding": "9.25.0",
+	"created": "2020-01-02T18:41:25.823",
+	"lastModified": "2020-01-02T18:41:25.823",
+	"cpeLastModified": "2020-01-13T15:14:00.500",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apple:shazam:-:*:*:*:*:iphone_os:*:*",
+			"cpeNameId": "1133441A-F03C-4DD6-915A-009C89F4B87B"
+		}
+	]
 }

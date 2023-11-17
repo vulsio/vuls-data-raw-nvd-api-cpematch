@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:wireshark:wireshark:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "30AAF295-1F39-48EF-819E-D5D5CB15AAE4",
-  "versionStartIncluding": "3.2.0",
-  "versionEndExcluding": "3.2.1",
-  "created": "2020-01-21T07:35:04.947",
-  "lastModified": "2020-01-21T07:35:04.947",
-  "cpeLastModified": "2020-01-21T17:43:52.057",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:wireshark:wireshark:3.2.0:*:*:*:*:*:*:*",
-      "cpeNameId": "6394ADC1-0D11-4B8D-8D77-8FDF031D0AE8"
-    }
-  ]
+	"criteria": "cpe:2.3:a:wireshark:wireshark:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "30AAF295-1F39-48EF-819E-D5D5CB15AAE4",
+	"versionStartIncluding": "3.2.0",
+	"versionEndExcluding": "3.2.1",
+	"created": "2020-01-21T07:35:04.947",
+	"lastModified": "2020-01-21T07:35:04.947",
+	"cpeLastModified": "2020-01-21T17:43:52.057",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wireshark:wireshark:3.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "6394ADC1-0D11-4B8D-8D77-8FDF031D0AE8"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:nuc_8_compute_element_cm8ccb_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "79D46819-1C47-41D3-A030-C5DD01DCAA6E",
-  "versionEndExcluding": "cbwhl.0092",
-  "created": "2021-06-28T15:43:05.923",
-  "lastModified": "2021-06-28T15:43:05.923",
-  "cpeLastModified": "2021-06-28T17:38:59.287",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:nuc_8_compute_element_cm8ccb_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E117E873-5A2E-4C6C-B139-4C9836DBC14D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:nuc_8_compute_element_cm8ccb_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "79D46819-1C47-41D3-A030-C5DD01DCAA6E",
+	"versionEndExcluding": "cbwhl.0092",
+	"created": "2021-06-28T15:43:05.923",
+	"lastModified": "2021-06-28T15:43:05.923",
+	"cpeLastModified": "2021-06-28T17:38:59.287",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:nuc_8_compute_element_cm8ccb_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E117E873-5A2E-4C6C-B139-4C9836DBC14D"
+		}
+	]
 }

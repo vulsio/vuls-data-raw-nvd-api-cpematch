@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:mitsubishielectric:rd78g32_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "2325BC60-32F9-46CA-8035-7E88360C15A1",
-  "versionEndIncluding": "10",
-  "created": "2022-02-17T18:09:38.903",
-  "lastModified": "2022-02-17T18:09:38.903",
-  "cpeLastModified": "2022-02-18T18:42:27.940",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:mitsubishielectric:rd78g32_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "A541659B-AC0D-4FAD-A9CF-D3410331C5E7"
-    }
-  ]
+	"criteria": "cpe:2.3:o:mitsubishielectric:rd78g32_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2325BC60-32F9-46CA-8035-7E88360C15A1",
+	"versionEndIncluding": "10",
+	"created": "2022-02-17T18:09:38.903",
+	"lastModified": "2022-02-17T18:09:38.903",
+	"cpeLastModified": "2022-02-18T18:42:27.940",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:mitsubishielectric:rd78g32_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A541659B-AC0D-4FAD-A9CF-D3410331C5E7"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:vmware:vcenter_server:6.7:update3p:*:*:*:*:*:*",
-  "matchCriteriaId": "7D2B0FBA-8E4A-491E-8E22-AAD7DBB5FF5A",
-  "created": "2022-07-19T14:25:54.913",
-  "lastModified": "2022-07-20T15:11:30.360",
-  "cpeLastModified": "2022-08-12T20:37:57.897",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:vmware:vcenter_server:6.7:update3p:*:*:*:*:*:*",
-      "cpeNameId": "65EC5E47-8741-447B-90FB-205E49CD258D"
-    }
-  ]
+	"criteria": "cpe:2.3:a:vmware:vcenter_server:6.7:update3p:*:*:*:*:*:*",
+	"matchCriteriaId": "7D2B0FBA-8E4A-491E-8E22-AAD7DBB5FF5A",
+	"created": "2022-07-19T14:25:54.913",
+	"lastModified": "2022-07-20T15:11:30.360",
+	"cpeLastModified": "2022-08-12T20:37:57.897",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:vmware:vcenter_server:6.7:update3p:*:*:*:*:*:*",
+			"cpeNameId": "65EC5E47-8741-447B-90FB-205E49CD258D"
+		}
+	]
 }

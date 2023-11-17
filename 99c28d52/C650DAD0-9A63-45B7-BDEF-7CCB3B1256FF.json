@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:nvidia:bluefield_1_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C650DAD0-9A63-45B7-BDEF-7CCB3B1256FF",
-  "versionStartIncluding": "18.24.1000",
-  "created": "2023-09-14T14:55:37.983",
-  "lastModified": "2023-09-14T14:55:37.983",
-  "cpeLastModified": "2023-09-25T21:57:55.277",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:nvidia:bluefield_1_firmware:18.24.1000:*:*:*:*:*:*:*",
-      "cpeNameId": "62445ABB-803D-4FDD-823E-D4519DA37E36"
-    }
-  ]
+	"criteria": "cpe:2.3:o:nvidia:bluefield_1_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C650DAD0-9A63-45B7-BDEF-7CCB3B1256FF",
+	"versionStartIncluding": "18.24.1000",
+	"created": "2023-09-14T14:55:37.983",
+	"lastModified": "2023-09-14T14:55:37.983",
+	"cpeLastModified": "2023-09-25T21:57:55.277",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:nvidia:bluefield_1_firmware:18.24.1000:*:*:*:*:*:*:*",
+			"cpeNameId": "62445ABB-803D-4FDD-823E-D4519DA37E36"
+		}
+	]
 }

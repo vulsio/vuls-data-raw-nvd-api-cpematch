@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:vivotek:ib836ba-eht_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8BC25BDC-15B7-4DB8-8AD3-5A83CC2E0535",
-  "versionEndIncluding": "0113b",
-  "created": "2020-06-08T15:10:43.267",
-  "lastModified": "2020-06-08T15:10:43.267",
-  "cpeLastModified": "2020-08-20T15:10:15.240",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:vivotek:ib836ba-eht_firmware:0113b:*:*:*:*:*:*:*",
-      "cpeNameId": "574BFDB1-0143-4EBC-9654-09307CADC1F9"
-    }
-  ]
+	"criteria": "cpe:2.3:o:vivotek:ib836ba-eht_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8BC25BDC-15B7-4DB8-8AD3-5A83CC2E0535",
+	"versionEndIncluding": "0113b",
+	"created": "2020-06-08T15:10:43.267",
+	"lastModified": "2020-06-08T15:10:43.267",
+	"cpeLastModified": "2020-08-20T15:10:15.240",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:vivotek:ib836ba-eht_firmware:0113b:*:*:*:*:*:*:*",
+			"cpeNameId": "574BFDB1-0143-4EBC-9654-09307CADC1F9"
+		}
+	]
 }

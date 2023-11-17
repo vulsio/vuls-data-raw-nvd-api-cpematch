@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:y40-80_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "26D8E863-B2AC-4B2D-8B84-977A72F3C884",
-  "versionEndExcluding": "b5cn36ww\\(v2.02\\)",
-  "created": "2020-03-30T12:34:00.230",
-  "lastModified": "2020-03-30T12:34:00.230",
-  "cpeLastModified": "2020-04-02T17:57:38.963",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:y40-80_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "25B80426-01FA-4B41-A38F-5AF993EEBBD1"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:y40-80_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "26D8E863-B2AC-4B2D-8B84-977A72F3C884",
+	"versionEndExcluding": "b5cn36ww\\(v2.02\\)",
+	"created": "2020-03-30T12:34:00.230",
+	"lastModified": "2020-03-30T12:34:00.230",
+	"cpeLastModified": "2020-04-02T17:57:38.963",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:y40-80_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "25B80426-01FA-4B41-A38F-5AF993EEBBD1"
+		}
+	]
 }

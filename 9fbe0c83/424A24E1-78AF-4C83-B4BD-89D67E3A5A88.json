@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:siemens:scalance_mum853-1_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "424A24E1-78AF-4C83-B4BD-89D67E3A5A88",
-  "versionEndExcluding": "7.1.2",
-  "created": "2022-10-14T10:27:51.930",
-  "lastModified": "2022-10-14T22:00:24.337",
-  "cpeLastModified": "2022-10-14T22:00:24.337",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:scalance_mum853-1_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "966FE491-20B1-4352-A9E4-62C8E6901FEC"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:scalance_mum853-1_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "424A24E1-78AF-4C83-B4BD-89D67E3A5A88",
+	"versionEndExcluding": "7.1.2",
+	"created": "2022-10-14T10:27:51.930",
+	"lastModified": "2022-10-14T22:00:24.337",
+	"cpeLastModified": "2022-10-14T22:00:24.337",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:scalance_mum853-1_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "966FE491-20B1-4352-A9E4-62C8E6901FEC"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:officejet_pro_8210_j3p66a_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C43C77D3-16A8-49E3-A0B1-BB2A45A16D02",
-  "versionEndExcluding": "001.2210b",
-  "created": "2022-03-29T16:03:19.340",
-  "lastModified": "2022-03-29T16:03:19.340",
-  "cpeLastModified": "2023-01-12T13:57:44.327",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:officejet_pro_8210_j3p66a_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "746E9723-2B1C-4B60-8324-A3512C803A5F"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:officejet_pro_8210_j3p66a_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C43C77D3-16A8-49E3-A0B1-BB2A45A16D02",
+	"versionEndExcluding": "001.2210b",
+	"created": "2022-03-29T16:03:19.340",
+	"lastModified": "2022-03-29T16:03:19.340",
+	"cpeLastModified": "2023-01-12T13:57:44.327",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:officejet_pro_8210_j3p66a_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "746E9723-2B1C-4B60-8324-A3512C803A5F"
+		}
+	]
 }

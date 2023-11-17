@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:ibm:secure_proxy:3.4.3.2:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C64EA45D-0FBB-4488-B4EE-CBCF667DB384",
-  "created": "2021-07-31T01:05:45.180",
-  "lastModified": "2021-07-31T01:05:45.180",
-  "cpeLastModified": "2021-07-31T01:06:36.320",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ibm:secure_proxy:3.4.3.2:*:*:*:*:*:*:*",
-      "cpeNameId": "6AB5DF48-6046-4803-9A76-40443AF3347F"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ibm:secure_proxy:3.4.3.2:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C64EA45D-0FBB-4488-B4EE-CBCF667DB384",
+	"created": "2021-07-31T01:05:45.180",
+	"lastModified": "2021-07-31T01:05:45.180",
+	"cpeLastModified": "2021-07-31T01:06:36.320",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ibm:secure_proxy:3.4.3.2:*:*:*:*:*:*:*",
+			"cpeNameId": "6AB5DF48-6046-4803-9A76-40443AF3347F"
+		}
+	]
 }

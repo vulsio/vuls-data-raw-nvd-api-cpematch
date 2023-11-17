@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:themerex:right_way:*:*:*:*:*:wordpress:*:*",
-  "matchCriteriaId": "150D52DF-FE9F-46CC-AA67-D0F9F9D27593",
-  "versionEndExcluding": "4.0.1",
-  "created": "2020-03-10T13:49:49.193",
-  "lastModified": "2020-03-10T13:49:49.193",
-  "cpeLastModified": "2020-09-23T13:35:13.153",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:themerex:right_way:-:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "712FA231-301C-450B-BD42-DEF827F2202F"
-    }
-  ]
+	"criteria": "cpe:2.3:a:themerex:right_way:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "150D52DF-FE9F-46CC-AA67-D0F9F9D27593",
+	"versionEndExcluding": "4.0.1",
+	"created": "2020-03-10T13:49:49.193",
+	"lastModified": "2020-03-10T13:49:49.193",
+	"cpeLastModified": "2020-09-23T13:35:13.153",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:themerex:right_way:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "712FA231-301C-450B-BD42-DEF827F2202F"
+		}
+	]
 }

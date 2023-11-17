@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:intel:dynamic_application_loader_software_developement_kit:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7EEAA646-A7DC-4005-9FEC-44E975F5F043",
-  "versionEndExcluding": "2.1",
-  "created": "2020-11-17T15:37:38.090",
-  "lastModified": "2020-11-17T15:37:38.090",
-  "cpeLastModified": "2020-11-17T21:01:26.840",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:intel:dynamic_application_loader_software_developement_kit:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E9FC6619-A2D8-41F2-A855-89FAA33207BD"
-    }
-  ]
+	"criteria": "cpe:2.3:a:intel:dynamic_application_loader_software_developement_kit:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7EEAA646-A7DC-4005-9FEC-44E975F5F043",
+	"versionEndExcluding": "2.1",
+	"created": "2020-11-17T15:37:38.090",
+	"lastModified": "2020-11-17T15:37:38.090",
+	"cpeLastModified": "2020-11-17T21:01:26.840",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:intel:dynamic_application_loader_software_developement_kit:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E9FC6619-A2D8-41F2-A855-89FAA33207BD"
+		}
+	]
 }

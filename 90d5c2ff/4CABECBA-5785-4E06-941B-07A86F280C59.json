@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:laserjet_enterprise_700_m712xh_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4CABECBA-5785-4E06-941B-07A86F280C59",
-  "versionEndExcluding": "2308974_579775",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:laserjet_enterprise_700_m712xh_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "676E530A-E66B-443B-92A7-4ECAA0A5B90B"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:laserjet_enterprise_700_m712xh_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4CABECBA-5785-4E06-941B-07A86F280C59",
+	"versionEndExcluding": "2308974_579775",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:laserjet_enterprise_700_m712xh_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "676E530A-E66B-443B-92A7-4ECAA0A5B90B"
+		}
+	]
 }

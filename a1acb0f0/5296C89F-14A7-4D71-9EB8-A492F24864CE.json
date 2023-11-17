@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:inspiron_3590_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5296C89F-14A7-4D71-9EB8-A492F24864CE",
-  "versionEndExcluding": "1.5.0",
-  "created": "2020-02-28T16:26:50.913",
-  "lastModified": "2020-02-28T16:26:50.913",
-  "cpeLastModified": "2021-09-14T12:42:26.850",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:inspiron_3590_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "19588D13-0E8C-4B49-A2F3-D4C43D386B86"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:inspiron_3590_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5296C89F-14A7-4D71-9EB8-A492F24864CE",
+	"versionEndExcluding": "1.5.0",
+	"created": "2020-02-28T16:26:50.913",
+	"lastModified": "2020-02-28T16:26:50.913",
+	"cpeLastModified": "2021-09-14T12:42:26.850",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_3590_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "19588D13-0E8C-4B49-A2F3-D4C43D386B86"
+		}
+	]
 }

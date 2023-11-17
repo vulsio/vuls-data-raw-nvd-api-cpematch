@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:abb:800xa_batch_management:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "953D6D3F-C17D-48CF-82D4-DA7C4FD42CE0",
-  "created": "2020-05-06T15:21:16.720",
-  "lastModified": "2020-05-06T15:21:16.720",
-  "cpeLastModified": "2020-05-07T15:54:58.590",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:abb:800xa_batch_management:-:*:*:*:*:*:*:*",
-      "cpeNameId": "DE4EED38-F3A7-4F19-BE48-8010A4BA7A2A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:abb:800xa_batch_management:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "953D6D3F-C17D-48CF-82D4-DA7C4FD42CE0",
+	"created": "2020-05-06T15:21:16.720",
+	"lastModified": "2020-05-06T15:21:16.720",
+	"cpeLastModified": "2020-05-07T15:54:58.590",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:abb:800xa_batch_management:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DE4EED38-F3A7-4F19-BE48-8010A4BA7A2A"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:supermicro:x9drg-qf_firmware:3.3:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FC710AC3-834E-4C05-B801-DA2D12BB3706",
-  "created": "2019-09-23T14:24:25.593",
-  "lastModified": "2019-09-23T14:24:25.593",
-  "cpeLastModified": "2020-04-27T17:20:44.163",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:supermicro:x9drg-qf_firmware:3.3:*:*:*:*:*:*:*",
-      "cpeNameId": "594D0D66-E814-47FA-A571-CD0F32C9315A"
-    }
-  ]
+	"criteria": "cpe:2.3:o:supermicro:x9drg-qf_firmware:3.3:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FC710AC3-834E-4C05-B801-DA2D12BB3706",
+	"created": "2019-09-23T14:24:25.593",
+	"lastModified": "2019-09-23T14:24:25.593",
+	"cpeLastModified": "2020-04-27T17:20:44.163",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:supermicro:x9drg-qf_firmware:3.3:*:*:*:*:*:*:*",
+			"cpeNameId": "594D0D66-E814-47FA-A571-CD0F32C9315A"
+		}
+	]
 }

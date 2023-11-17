@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:asus:xt9_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4C9248D5-5BD4-41F5-8F97-0D57DFB083DC",
-  "versionEndExcluding": "3.0.0.4.388_20027",
-  "created": "2022-08-10T12:22:31.900",
-  "lastModified": "2022-08-10T12:22:31.900",
-  "cpeLastModified": "2022-08-12T20:46:00.243",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:asus:xt9_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "4313BF4C-BB9E-4BF4-93C9-DF48BD9B5098"
-    }
-  ]
+	"criteria": "cpe:2.3:o:asus:xt9_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4C9248D5-5BD4-41F5-8F97-0D57DFB083DC",
+	"versionEndExcluding": "3.0.0.4.388_20027",
+	"created": "2022-08-10T12:22:31.900",
+	"lastModified": "2022-08-10T12:22:31.900",
+	"cpeLastModified": "2022-08-12T20:46:00.243",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:asus:xt9_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4313BF4C-BB9E-4BF4-93C9-DF48BD9B5098"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:laserjet_pro_m453-m454_w1y40a_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4892BBE4-32E4-430A-AA4D-4AE949D6CA8D",
-  "versionEndExcluding": "002_2208a",
-  "created": "2022-03-29T14:40:06.210",
-  "lastModified": "2022-03-29T14:40:06.210",
-  "cpeLastModified": "2022-03-29T18:44:10.540",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:laserjet_pro_m453-m454_w1y40a_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "32F67C82-1E38-4801-B48C-AA6533E946B3"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:laserjet_pro_m453-m454_w1y40a_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4892BBE4-32E4-430A-AA4D-4AE949D6CA8D",
+	"versionEndExcluding": "002_2208a",
+	"created": "2022-03-29T14:40:06.210",
+	"lastModified": "2022-03-29T14:40:06.210",
+	"cpeLastModified": "2022-03-29T18:44:10.540",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:laserjet_pro_m453-m454_w1y40a_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "32F67C82-1E38-4801-B48C-AA6533E946B3"
+		}
+	]
 }

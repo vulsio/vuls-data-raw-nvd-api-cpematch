@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:fanuc:series_18i-wb_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "845AEC68-CEAE-464A-BA58-A6BF074C586B",
-  "created": "2020-08-05T14:21:28.233",
-  "lastModified": "2020-08-05T14:21:28.233",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:fanuc:series_18i-wb_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "4A0DA179-93B1-44D0-901C-AD59260D04D6"
-    }
-  ]
+	"criteria": "cpe:2.3:o:fanuc:series_18i-wb_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "845AEC68-CEAE-464A-BA58-A6BF074C586B",
+	"created": "2020-08-05T14:21:28.233",
+	"lastModified": "2020-08-05T14:21:28.233",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:fanuc:series_18i-wb_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4A0DA179-93B1-44D0-901C-AD59260D04D6"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:arubanetworks:ap-535:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F96A1322-03A5-461C-A5A1-2102852A719D",
-  "created": "2022-10-07T14:13:08.310",
-  "lastModified": "2022-10-11T13:52:31.637",
-  "cpeLastModified": "2022-10-11T13:52:31.637",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:arubanetworks:ap-535:-:*:*:*:*:*:*:*",
-      "cpeNameId": "4FE27B02-BB13-4220-A369-210351B69B20"
-    }
-  ]
+	"criteria": "cpe:2.3:h:arubanetworks:ap-535:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F96A1322-03A5-461C-A5A1-2102852A719D",
+	"created": "2022-10-07T14:13:08.310",
+	"lastModified": "2022-10-11T13:52:31.637",
+	"cpeLastModified": "2022-10-11T13:52:31.637",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:arubanetworks:ap-535:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4FE27B02-BB13-4220-A369-210351B69B20"
+		}
+	]
 }

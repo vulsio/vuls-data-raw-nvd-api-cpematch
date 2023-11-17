@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:trendmicro:apex_one:-:*:*:*:saas:*:*:*",
-  "matchCriteriaId": "97D177B6-2542-4D3D-873D-0243DEE3F0A0",
-  "created": "2022-03-02T17:10:10.507",
-  "lastModified": "2022-08-09T15:18:47.513",
-  "cpeLastModified": "2022-03-03T03:38:47.483",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:trendmicro:apex_one:-:*:*:*:saas:*:*:*",
-      "cpeNameId": "11139C85-F3FC-45FD-B32E-EA4E03CAD444"
-    }
-  ]
+	"criteria": "cpe:2.3:a:trendmicro:apex_one:-:*:*:*:saas:*:*:*",
+	"matchCriteriaId": "97D177B6-2542-4D3D-873D-0243DEE3F0A0",
+	"created": "2022-03-02T17:10:10.507",
+	"lastModified": "2022-08-09T15:18:47.513",
+	"cpeLastModified": "2022-03-03T03:38:47.483",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:trendmicro:apex_one:-:*:*:*:saas:*:*:*",
+			"cpeNameId": "11139C85-F3FC-45FD-B32E-EA4E03CAD444"
+		}
+	]
 }

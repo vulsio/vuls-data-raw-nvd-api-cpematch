@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:aruba:cx_6400_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "13DEA0B1-4F1E-4CE4-8E9E-30ABE93FDD78",
-  "versionEndIncluding": "10.04.1000",
-  "created": "2020-09-29T17:12:11.510",
-  "lastModified": "2020-09-29T17:12:11.510",
-  "cpeLastModified": "2020-10-16T18:00:57.403",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:aruba:cx_6400_firmware:10.04.1000:*:*:*:*:*:*:*",
-      "cpeNameId": "0695793F-C77E-421D-9793-E0AA941D315E"
-    }
-  ]
+	"criteria": "cpe:2.3:o:aruba:cx_6400_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "13DEA0B1-4F1E-4CE4-8E9E-30ABE93FDD78",
+	"versionEndIncluding": "10.04.1000",
+	"created": "2020-09-29T17:12:11.510",
+	"lastModified": "2020-09-29T17:12:11.510",
+	"cpeLastModified": "2020-10-16T18:00:57.403",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:aruba:cx_6400_firmware:10.04.1000:*:*:*:*:*:*:*",
+			"cpeNameId": "0695793F-C77E-421D-9793-E0AA941D315E"
+		}
+	]
 }

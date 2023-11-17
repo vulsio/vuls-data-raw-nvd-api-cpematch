@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:apple:quicktime:*:*:*:*:*:windows:*:*",
-  "matchCriteriaId": "AA1B5D32-7620-43D3-8515-FCA80B2DAA9F",
-  "versionEndIncluding": "7.7.6",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T22:53:51.837",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:apple:quicktime:4.1.2:*:*:ja:*:windows:*:*",
-      "cpeNameId": "43095018-48E3-4C4F-B661-377ABB966650"
-    },
-    {
-      "cpeName": "cpe:2.3:a:apple:quicktime:7.7.6:*:*:*:*:windows:*:*",
-      "cpeNameId": "97B417D0-4989-4104-9915-2E83803A1B10"
-    }
-  ]
+	"criteria": "cpe:2.3:a:apple:quicktime:*:*:*:*:*:windows:*:*",
+	"matchCriteriaId": "AA1B5D32-7620-43D3-8515-FCA80B2DAA9F",
+	"versionEndIncluding": "7.7.6",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T22:53:51.837",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apple:quicktime:4.1.2:*:*:ja:*:windows:*:*",
+			"cpeNameId": "43095018-48E3-4C4F-B661-377ABB966650"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apple:quicktime:7.7.6:*:*:*:*:windows:*:*",
+			"cpeNameId": "97B417D0-4989-4104-9915-2E83803A1B10"
+		}
+	]
 }

@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:o:fortinet:fortiextender_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "53DB5A5D-CBEB-430E-9529-65715DA8AF3E",
-  "versionStartIncluding": "7.0.0",
-  "versionEndExcluding": "7.0.2",
-  "created": "2022-02-03T15:05:19.440",
-  "lastModified": "2022-02-03T15:05:19.440",
-  "cpeLastModified": "2022-02-07T14:35:09.577",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:fortinet:fortiextender_firmware:7.0.0:*:*:*:*:*:*:*",
-      "cpeNameId": "B911F57C-DAA8-4A0A-8298-F05FC2366EE2"
-    },
-    {
-      "cpeName": "cpe:2.3:o:fortinet:fortiextender_firmware:7.0.1:*:*:*:*:*:*:*",
-      "cpeNameId": "620E25EC-67F7-4A8D-8AA0-65949921227B"
-    }
-  ]
+	"criteria": "cpe:2.3:o:fortinet:fortiextender_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "53DB5A5D-CBEB-430E-9529-65715DA8AF3E",
+	"versionStartIncluding": "7.0.0",
+	"versionEndExcluding": "7.0.2",
+	"created": "2022-02-03T15:05:19.440",
+	"lastModified": "2022-02-03T15:05:19.440",
+	"cpeLastModified": "2022-02-07T14:35:09.577",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:fortinet:fortiextender_firmware:7.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B911F57C-DAA8-4A0A-8298-F05FC2366EE2"
+		},
+		{
+			"cpeName": "cpe:2.3:o:fortinet:fortiextender_firmware:7.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "620E25EC-67F7-4A8D-8AA0-65949921227B"
+		}
+	]
 }

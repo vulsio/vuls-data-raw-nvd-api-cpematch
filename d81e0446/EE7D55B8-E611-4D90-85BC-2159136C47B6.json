@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:intel:core_i5-3570s:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "EE7D55B8-E611-4D90-85BC-2159136C47B6",
-  "created": "2020-03-20T17:56:32.963",
-  "lastModified": "2020-03-20T17:56:32.963",
-  "cpeLastModified": "2020-03-26T13:38:43.680",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:intel:core_i5-3570s:-:*:*:*:*:*:*:*",
-      "cpeNameId": "34DE8CAF-DAB4-4E9B-ADFB-3CAC7B3B6E7C"
-    }
-  ]
+	"criteria": "cpe:2.3:h:intel:core_i5-3570s:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "EE7D55B8-E611-4D90-85BC-2159136C47B6",
+	"created": "2020-03-20T17:56:32.963",
+	"lastModified": "2020-03-20T17:56:32.963",
+	"cpeLastModified": "2020-03-26T13:38:43.680",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:core_i5-3570s:-:*:*:*:*:*:*:*",
+			"cpeNameId": "34DE8CAF-DAB4-4E9B-ADFB-3CAC7B3B6E7C"
+		}
+	]
 }

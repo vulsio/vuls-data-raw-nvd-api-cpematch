@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:cisco:rv130w_firmware:1.0.3.55:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FF66A7CE-469A-48CD-AE85-2F49E1C505FA",
-  "created": "2021-01-20T12:58:20.653",
-  "lastModified": "2022-09-12T14:10:57.270",
-  "cpeLastModified": "2021-01-20T12:58:20.670",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:rv130w_firmware:1.0.3.55:*:*:*:*:*:*:*",
-      "cpeNameId": "9D184461-B370-47E5-863E-953448015007"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:rv130w_firmware:1.0.3.55:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FF66A7CE-469A-48CD-AE85-2F49E1C505FA",
+	"created": "2021-01-20T12:58:20.653",
+	"lastModified": "2022-09-12T14:10:57.270",
+	"cpeLastModified": "2021-01-20T12:58:20.670",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:rv130w_firmware:1.0.3.55:*:*:*:*:*:*:*",
+			"cpeNameId": "9D184461-B370-47E5-863E-953448015007"
+		}
+	]
 }

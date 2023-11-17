@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:foxitsoftware:foxit_pdf_sdk_dll:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "3A7D44ED-E7B4-48F0-91E5-12144370962C",
-  "versionEndIncluding": "3.1.1.2927",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:foxitsoftware:foxit_pdf_sdk_dll:3.1.1.2927:*:*:*:*:*:*:*",
-      "cpeNameId": "28B1BCCF-AA54-440B-95AD-15F8871E6FAB"
-    }
-  ]
+	"criteria": "cpe:2.3:a:foxitsoftware:foxit_pdf_sdk_dll:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3A7D44ED-E7B4-48F0-91E5-12144370962C",
+	"versionEndIncluding": "3.1.1.2927",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:foxitsoftware:foxit_pdf_sdk_dll:3.1.1.2927:*:*:*:*:*:*:*",
+			"cpeNameId": "28B1BCCF-AA54-440B-95AD-15F8871E6FAB"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:moxa:nport_5110a-t_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B8F03685-CB84-4190-BBA5-9E352D009DF9",
-  "versionEndIncluding": "1.6",
-  "created": "2023-10-05T16:24:32.430",
-  "lastModified": "2023-10-05T16:24:32.430",
-  "cpeLastModified": "2023-10-05T16:35:02.497",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:moxa:nport_5110a-t_firmware:1.6:*:*:*:*:*:*:*",
-      "cpeNameId": "B841B7BD-2FA0-41D4-8E57-74B0E332BF5F"
-    }
-  ]
+	"criteria": "cpe:2.3:o:moxa:nport_5110a-t_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B8F03685-CB84-4190-BBA5-9E352D009DF9",
+	"versionEndIncluding": "1.6",
+	"created": "2023-10-05T16:24:32.430",
+	"lastModified": "2023-10-05T16:24:32.430",
+	"cpeLastModified": "2023-10-05T16:35:02.497",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:moxa:nport_5110a-t_firmware:1.6:*:*:*:*:*:*:*",
+			"cpeNameId": "B841B7BD-2FA0-41D4-8E57-74B0E332BF5F"
+		}
+	]
 }

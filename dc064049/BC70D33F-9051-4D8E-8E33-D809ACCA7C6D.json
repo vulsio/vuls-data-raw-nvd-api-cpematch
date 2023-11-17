@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:netapp:active_iq_unified_manager:*:*:*:*:*:vsphere:*:*",
-  "matchCriteriaId": "BC70D33F-9051-4D8E-8E33-D809ACCA7C6D",
-  "versionEndExcluding": "9.5",
-  "created": "2020-08-06T15:09:48.330",
-  "lastModified": "2020-08-06T15:09:48.330",
-  "cpeLastModified": "2020-08-06T15:09:48.343",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:netapp:active_iq_unified_manager:-:*:*:*:*:vsphere:*:*",
-      "cpeNameId": "D379D189-5CA8-4472-BFA0-A8558313CAE3"
-    }
-  ]
+	"criteria": "cpe:2.3:a:netapp:active_iq_unified_manager:*:*:*:*:*:vsphere:*:*",
+	"matchCriteriaId": "BC70D33F-9051-4D8E-8E33-D809ACCA7C6D",
+	"versionEndExcluding": "9.5",
+	"created": "2020-08-06T15:09:48.330",
+	"lastModified": "2020-08-06T15:09:48.330",
+	"cpeLastModified": "2020-08-06T15:09:48.343",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:netapp:active_iq_unified_manager:-:*:*:*:*:vsphere:*:*",
+			"cpeNameId": "D379D189-5CA8-4472-BFA0-A8558313CAE3"
+		}
+	]
 }

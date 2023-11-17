@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:celeron_j3160_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "57571FE6-3357-491C-BF10-D85D86D02E3E",
-  "versionEndExcluding": "3.1.92",
-  "created": "2022-06-09T14:59:43.860",
-  "lastModified": "2022-06-09T14:59:43.860",
-  "cpeLastModified": "2020-09-30T19:36:19.487",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:celeron_j3160_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "EBEE685E-0DF3-4078-AF4E-CDDB9AA37114"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:celeron_j3160_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "57571FE6-3357-491C-BF10-D85D86D02E3E",
+	"versionEndExcluding": "3.1.92",
+	"created": "2022-06-09T14:59:43.860",
+	"lastModified": "2022-06-09T14:59:43.860",
+	"cpeLastModified": "2020-09-30T19:36:19.487",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:celeron_j3160_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EBEE685E-0DF3-4078-AF4E-CDDB9AA37114"
+		}
+	]
 }

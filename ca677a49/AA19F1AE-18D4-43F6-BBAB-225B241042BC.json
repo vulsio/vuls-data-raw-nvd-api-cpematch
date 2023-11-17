@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:siemens:simatic_drive_controller_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AA19F1AE-18D4-43F6-BBAB-225B241042BC",
-  "versionEndExcluding": "05.00.01.00",
-  "created": "2022-06-01T15:40:58.773",
-  "lastModified": "2022-06-01T15:40:58.773",
-  "cpeLastModified": "2022-04-04T17:37:55.343",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:simatic_drive_controller_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "9A1A5B7D-EE6D-4804-8B22-3C3F1638444D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:simatic_drive_controller_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AA19F1AE-18D4-43F6-BBAB-225B241042BC",
+	"versionEndExcluding": "05.00.01.00",
+	"created": "2022-06-01T15:40:58.773",
+	"lastModified": "2022-06-01T15:40:58.773",
+	"cpeLastModified": "2022-04-04T17:37:55.343",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:simatic_drive_controller_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9A1A5B7D-EE6D-4804-8B22-3C3F1638444D"
+		}
+	]
 }

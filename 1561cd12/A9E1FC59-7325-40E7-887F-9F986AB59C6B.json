@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:samsung:camera:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A9E1FC59-7325-40E7-887F-9F986AB59C6B",
-  "versionEndExcluding": "10.5.03.77",
-  "created": "2022-02-16T14:44:42.503",
-  "lastModified": "2022-02-16T14:44:42.503",
-  "cpeLastModified": "2022-02-22T15:46:20.987",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:samsung:camera:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E77631DC-6F99-43F3-9A76-1168A8A7ACEC"
-    },
-    {
-      "cpeName": "cpe:2.3:a:samsung:camera:9.0.6.68:*:*:*:*:*:*:*",
-      "cpeNameId": "DFEB3BD2-481D-48E5-B672-406792E6B0AD"
-    }
-  ]
+	"criteria": "cpe:2.3:a:samsung:camera:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A9E1FC59-7325-40E7-887F-9F986AB59C6B",
+	"versionEndExcluding": "10.5.03.77",
+	"created": "2022-02-16T14:44:42.503",
+	"lastModified": "2022-02-16T14:44:42.503",
+	"cpeLastModified": "2022-02-22T15:46:20.987",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:samsung:camera:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E77631DC-6F99-43F3-9A76-1168A8A7ACEC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:samsung:camera:9.0.6.68:*:*:*:*:*:*:*",
+			"cpeNameId": "DFEB3BD2-481D-48E5-B672-406792E6B0AD"
+		}
+	]
 }

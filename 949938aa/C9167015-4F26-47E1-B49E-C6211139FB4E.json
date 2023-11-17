@@ -1,151 +1,151 @@
 {
-  "criteria": "cpe:2.3:a:cisco:webex_meetings:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C9167015-4F26-47E1-B49E-C6211139FB4E",
-  "versionEndIncluding": "39.5.25",
-  "created": "2020-06-23T16:52:26.857",
-  "lastModified": "2020-06-23T16:52:26.857",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:-:*:*:*:*:*:*:*",
-      "cpeNameId": "B15E838A-CC1A-4939-8B94-89E757291F91"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:1.3.5:*:*:*:*:*:*:*",
-      "cpeNameId": "A1F6CCBC-4D48-4463-BEB4-88C7BB2AE115"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:2.0:*:*:*:*:*:*:*",
-      "cpeNameId": "AE1B4B67-385A-47E3-B120-38535E148302"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:8.0_base:*:*:*:*:android:*:*",
-      "cpeNameId": "7791745C-D6DE-4797-85E0-EE93DA0042AB"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:9.5:*:*:*:*:android:*:*",
-      "cpeNameId": "0E600D92-9494-405B-A1BD-4B01A70E513F"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:9.6:*:*:*:*:android:*:*",
-      "cpeNameId": "6C9B977A-30A8-4022-8D2E-86699131DA8D"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:9.8:*:*:*:*:android:*:*",
-      "cpeNameId": "34A89D32-9A48-44DA-9544-51288FF05424"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:10.0:*:*:*:*:android:*:*",
-      "cpeNameId": "22B1DBDA-8018-49E7-AB48-A09E8B5653D8"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:10.1:*:*:*:*:android:*:*",
-      "cpeNameId": "D045463C-4078-40C1-919F-1EF762DBE7E3"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:10.2:*:*:*:*:android:*:*",
-      "cpeNameId": "9C63B9F3-6FF2-4F38-B803-0D709DD777A1"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:10.3:*:*:*:*:android:*:*",
-      "cpeNameId": "C615757C-2BC9-469F-908A-8EDA3203724A"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:10.4:*:*:*:*:android:*:*",
-      "cpeNameId": "E229203F-6131-44D6-BAFB-9211A0CA3001"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:10.5:*:*:*:*:android:*:*",
-      "cpeNameId": "5D7246AF-A74E-4A32-B17E-4728AC507A2B"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:10.6:*:*:*:*:android:*:*",
-      "cpeNameId": "9F02A31A-2636-4408-B0FE-040E082C4B27"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:10.7:*:*:*:*:android:*:*",
-      "cpeNameId": "B21BAB87-6F1B-45F1-B2D1-FD9774963A05"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:11.0:*:*:*:*:android:*:*",
-      "cpeNameId": "951281E5-B130-452D-ABD2-CA56DFE239D0"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:11.1:*:*:*:*:android:*:*",
-      "cpeNameId": "D5410D81-3D5E-49AD-BE17-20BC9FFE5334"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:11.2:*:*:*:*:android:*:*",
-      "cpeNameId": "E41B5794-FF5C-41F7-8765-DE3453AD4859"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:11.3:*:*:*:*:android:*:*",
-      "cpeNameId": "80C45428-E436-4869-A3B0-62AEC981E414"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:11.3:*:*:*:*:iphone_os:*:*",
-      "cpeNameId": "78953B5A-5219-4C9A-BAD5-E867588D2324"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:11.4:*:*:*:*:android:*:*",
-      "cpeNameId": "EC4DA7F3-686A-41EC-B607-396576163D12"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:11.5:*:*:*:*:android:*:*",
-      "cpeNameId": "A44D2BBF-7F80-4C0F-A345-4AD9118BEE9C"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:11.6:*:*:*:*:android:*:*",
-      "cpeNameId": "F62A6809-049C-4348-9F17-92F8BF1CE59D"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:11.7:*:*:*:*:android:*:*",
-      "cpeNameId": "1FC6D6EE-8651-465B-987E-55EBA70199AE"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:11.7.0.236:*:*:*:*:android:*:*",
-      "cpeNameId": "B0E3B797-3BD7-4459-8BD5-C0132D2C0680"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:33.6.6:*:*:*:desktop:*:*:*",
-      "cpeNameId": "81AC9AAB-A404-4E04-A0F4-75AE72D1C1DF"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:39.5:*:*:*:*:-:*:*",
-      "cpeNameId": "4C29385D-B715-4B0E-BFC4-02D56505ED17"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:39.5:*:*:*:*:iphone_os:*:*",
-      "cpeNameId": "B5F9E27F-44B9-43D4-BED6-2FBA150A1936"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:39.5.11:*:*:*:desktop:mac_os:*:*",
-      "cpeNameId": "8280BA77-C666-4C3A-AFC1-6C7C8BB3D87D"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:39.5.12:*:*:*:desktop:*:*:*",
-      "cpeNameId": "2580AE16-DFEA-4D98-A16C-4D602E32F7FD"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:39.5.17:*:*:*:*:*:*:*",
-      "cpeNameId": "0F020D8A-C89C-4C6A-84A9-48CA71148BC6"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:39.5.18:*:*:*:*:*:*:*",
-      "cpeNameId": "AD66B888-BF77-4941-96D9-2544A246D404"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:39.5.25:*:*:*:*:*:*:*",
-      "cpeNameId": "71C6647A-7CDD-4753-AEA6-8927A159F9B8"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:39.5.25:*:*:*:*:windows:*:*",
-      "cpeNameId": "4781C637-6C3A-4846-A437-04EAB8B3738D"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_meetings:39.5.25:*:*:*:desktop:windows:*:*",
-      "cpeNameId": "128097DA-5EB6-4501-9B51-D0C1FB46E01B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:cisco:webex_meetings:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C9167015-4F26-47E1-B49E-C6211139FB4E",
+	"versionEndIncluding": "39.5.25",
+	"created": "2020-06-23T16:52:26.857",
+	"lastModified": "2020-06-23T16:52:26.857",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B15E838A-CC1A-4939-8B94-89E757291F91"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:1.3.5:*:*:*:*:*:*:*",
+			"cpeNameId": "A1F6CCBC-4D48-4463-BEB4-88C7BB2AE115"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "AE1B4B67-385A-47E3-B120-38535E148302"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:8.0_base:*:*:*:*:android:*:*",
+			"cpeNameId": "7791745C-D6DE-4797-85E0-EE93DA0042AB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:9.5:*:*:*:*:android:*:*",
+			"cpeNameId": "0E600D92-9494-405B-A1BD-4B01A70E513F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:9.6:*:*:*:*:android:*:*",
+			"cpeNameId": "6C9B977A-30A8-4022-8D2E-86699131DA8D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:9.8:*:*:*:*:android:*:*",
+			"cpeNameId": "34A89D32-9A48-44DA-9544-51288FF05424"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:10.0:*:*:*:*:android:*:*",
+			"cpeNameId": "22B1DBDA-8018-49E7-AB48-A09E8B5653D8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:10.1:*:*:*:*:android:*:*",
+			"cpeNameId": "D045463C-4078-40C1-919F-1EF762DBE7E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:10.2:*:*:*:*:android:*:*",
+			"cpeNameId": "9C63B9F3-6FF2-4F38-B803-0D709DD777A1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:10.3:*:*:*:*:android:*:*",
+			"cpeNameId": "C615757C-2BC9-469F-908A-8EDA3203724A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:10.4:*:*:*:*:android:*:*",
+			"cpeNameId": "E229203F-6131-44D6-BAFB-9211A0CA3001"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:10.5:*:*:*:*:android:*:*",
+			"cpeNameId": "5D7246AF-A74E-4A32-B17E-4728AC507A2B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:10.6:*:*:*:*:android:*:*",
+			"cpeNameId": "9F02A31A-2636-4408-B0FE-040E082C4B27"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:10.7:*:*:*:*:android:*:*",
+			"cpeNameId": "B21BAB87-6F1B-45F1-B2D1-FD9774963A05"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:11.0:*:*:*:*:android:*:*",
+			"cpeNameId": "951281E5-B130-452D-ABD2-CA56DFE239D0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:11.1:*:*:*:*:android:*:*",
+			"cpeNameId": "D5410D81-3D5E-49AD-BE17-20BC9FFE5334"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:11.2:*:*:*:*:android:*:*",
+			"cpeNameId": "E41B5794-FF5C-41F7-8765-DE3453AD4859"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:11.3:*:*:*:*:android:*:*",
+			"cpeNameId": "80C45428-E436-4869-A3B0-62AEC981E414"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:11.3:*:*:*:*:iphone_os:*:*",
+			"cpeNameId": "78953B5A-5219-4C9A-BAD5-E867588D2324"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:11.4:*:*:*:*:android:*:*",
+			"cpeNameId": "EC4DA7F3-686A-41EC-B607-396576163D12"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:11.5:*:*:*:*:android:*:*",
+			"cpeNameId": "A44D2BBF-7F80-4C0F-A345-4AD9118BEE9C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:11.6:*:*:*:*:android:*:*",
+			"cpeNameId": "F62A6809-049C-4348-9F17-92F8BF1CE59D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:11.7:*:*:*:*:android:*:*",
+			"cpeNameId": "1FC6D6EE-8651-465B-987E-55EBA70199AE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:11.7.0.236:*:*:*:*:android:*:*",
+			"cpeNameId": "B0E3B797-3BD7-4459-8BD5-C0132D2C0680"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:33.6.6:*:*:*:desktop:*:*:*",
+			"cpeNameId": "81AC9AAB-A404-4E04-A0F4-75AE72D1C1DF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:39.5:*:*:*:*:-:*:*",
+			"cpeNameId": "4C29385D-B715-4B0E-BFC4-02D56505ED17"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:39.5:*:*:*:*:iphone_os:*:*",
+			"cpeNameId": "B5F9E27F-44B9-43D4-BED6-2FBA150A1936"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:39.5.11:*:*:*:desktop:mac_os:*:*",
+			"cpeNameId": "8280BA77-C666-4C3A-AFC1-6C7C8BB3D87D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:39.5.12:*:*:*:desktop:*:*:*",
+			"cpeNameId": "2580AE16-DFEA-4D98-A16C-4D602E32F7FD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:39.5.17:*:*:*:*:*:*:*",
+			"cpeNameId": "0F020D8A-C89C-4C6A-84A9-48CA71148BC6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:39.5.18:*:*:*:*:*:*:*",
+			"cpeNameId": "AD66B888-BF77-4941-96D9-2544A246D404"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:39.5.25:*:*:*:*:*:*:*",
+			"cpeNameId": "71C6647A-7CDD-4753-AEA6-8927A159F9B8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:39.5.25:*:*:*:*:windows:*:*",
+			"cpeNameId": "4781C637-6C3A-4846-A437-04EAB8B3738D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_meetings:39.5.25:*:*:*:desktop:windows:*:*",
+			"cpeNameId": "128097DA-5EB6-4501-9B51-D0C1FB46E01B"
+		}
+	]
 }

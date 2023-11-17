@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:omron:nj501-r320_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "84C41F6C-7B86-4823-8214-9C244283C3AE",
-  "versionEndIncluding": "1.48",
-  "created": "2022-07-14T18:24:05.983",
-  "lastModified": "2022-07-14T18:24:05.983",
-  "cpeLastModified": "2022-07-14T19:11:34.233",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:omron:nj501-r320_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "61BB8096-1838-43A9-BCE7-4C35664A8C56"
-    }
-  ]
+	"criteria": "cpe:2.3:o:omron:nj501-r320_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "84C41F6C-7B86-4823-8214-9C244283C3AE",
+	"versionEndIncluding": "1.48",
+	"created": "2022-07-14T18:24:05.983",
+	"lastModified": "2022-07-14T18:24:05.983",
+	"cpeLastModified": "2022-07-14T19:11:34.233",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:omron:nj501-r320_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "61BB8096-1838-43A9-BCE7-4C35664A8C56"
+		}
+	]
 }

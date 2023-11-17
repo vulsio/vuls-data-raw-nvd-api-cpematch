@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:sophos:sfos:17.1:-:*:*:*:*:*:*",
-  "matchCriteriaId": "FEC949C1-A719-4835-87B6-61829D8FE171",
-  "created": "2020-07-13T09:47:08.510",
-  "lastModified": "2020-07-13T09:47:08.510",
-  "cpeLastModified": "2020-07-13T09:47:08.697",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:sophos:sfos:17.1:-:*:*:*:*:*:*",
-      "cpeNameId": "3F0578E5-C34B-440D-A709-0ED15B15AFC6"
-    }
-  ]
+	"criteria": "cpe:2.3:o:sophos:sfos:17.1:-:*:*:*:*:*:*",
+	"matchCriteriaId": "FEC949C1-A719-4835-87B6-61829D8FE171",
+	"created": "2020-07-13T09:47:08.510",
+	"lastModified": "2020-07-13T09:47:08.510",
+	"cpeLastModified": "2020-07-13T09:47:08.697",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:sophos:sfos:17.1:-:*:*:*:*:*:*",
+			"cpeNameId": "3F0578E5-C34B-440D-A709-0ED15B15AFC6"
+		}
+	]
 }

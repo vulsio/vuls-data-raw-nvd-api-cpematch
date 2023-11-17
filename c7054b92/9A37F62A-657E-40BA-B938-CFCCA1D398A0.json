@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:intel:realsense_d400_series_dynamic_calibration_tool:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9A37F62A-657E-40BA-B938-CFCCA1D398A0",
-  "versionEndExcluding": "2.11",
-  "created": "2020-11-17T15:55:57.883",
-  "lastModified": "2020-11-17T15:55:57.883",
-  "cpeLastModified": "2020-11-17T21:17:28.610",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:intel:realsense_d400_series_dynamic_calibration_tool:-:*:*:*:*:*:*:*",
-      "cpeNameId": "EE36F58D-F436-444F-A03C-64F3D84892ED"
-    }
-  ]
+	"criteria": "cpe:2.3:a:intel:realsense_d400_series_dynamic_calibration_tool:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9A37F62A-657E-40BA-B938-CFCCA1D398A0",
+	"versionEndExcluding": "2.11",
+	"created": "2020-11-17T15:55:57.883",
+	"lastModified": "2020-11-17T15:55:57.883",
+	"cpeLastModified": "2020-11-17T21:17:28.610",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:intel:realsense_d400_series_dynamic_calibration_tool:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EE36F58D-F436-444F-A03C-64F3D84892ED"
+		}
+	]
 }

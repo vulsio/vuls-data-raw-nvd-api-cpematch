@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:st:stm32l1:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "BEDC40CE-9909-4F22-A8BD-1074C89440DA",
-  "created": "2019-09-16T17:31:09.887",
-  "lastModified": "2019-09-16T17:31:09.887",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:st:stm32l1:-:*:*:*:*:*:*:*",
-      "cpeNameId": "AB44B4BF-E7DD-4DAC-9E37-AB4C884D3D58"
-    }
-  ]
+	"criteria": "cpe:2.3:h:st:stm32l1:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BEDC40CE-9909-4F22-A8BD-1074C89440DA",
+	"created": "2019-09-16T17:31:09.887",
+	"lastModified": "2019-09-16T17:31:09.887",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:st:stm32l1:-:*:*:*:*:*:*:*",
+			"cpeNameId": "AB44B4BF-E7DD-4DAC-9E37-AB4C884D3D58"
+		}
+	]
 }

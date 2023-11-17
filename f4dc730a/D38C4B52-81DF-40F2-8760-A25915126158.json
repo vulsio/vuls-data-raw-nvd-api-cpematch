@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:draytek:vigor2620l_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D38C4B52-81DF-40F2-8760-A25915126158",
-  "versionEndExcluding": "3.9.8.1",
-  "created": "2022-08-30T17:52:37.600",
-  "lastModified": "2022-08-30T17:52:37.600",
-  "cpeLastModified": "2022-08-31T12:51:25.280",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:draytek:vigor2620l_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "5D3348A3-0F08-494C-8DA9-1D3B9DFEEF7D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:draytek:vigor2620l_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D38C4B52-81DF-40F2-8760-A25915126158",
+	"versionEndExcluding": "3.9.8.1",
+	"created": "2022-08-30T17:52:37.600",
+	"lastModified": "2022-08-30T17:52:37.600",
+	"cpeLastModified": "2022-08-31T12:51:25.280",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:draytek:vigor2620l_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5D3348A3-0F08-494C-8DA9-1D3B9DFEEF7D"
+		}
+	]
 }

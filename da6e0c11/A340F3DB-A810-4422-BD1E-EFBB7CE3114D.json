@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:netgear:ac2600_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A340F3DB-A810-4422-BD1E-EFBB7CE3114D",
-  "versionEndExcluding": "1.1.0.84",
-  "created": "2022-01-06T14:55:02.207",
-  "lastModified": "2022-01-06T14:55:02.207",
-  "cpeLastModified": "2022-01-06T17:53:07.670",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:netgear:ac2600_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "9DD41D49-6F15-4D70-9829-3C39D07F83B5"
-    }
-  ]
+	"criteria": "cpe:2.3:o:netgear:ac2600_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A340F3DB-A810-4422-BD1E-EFBB7CE3114D",
+	"versionEndExcluding": "1.1.0.84",
+	"created": "2022-01-06T14:55:02.207",
+	"lastModified": "2022-01-06T14:55:02.207",
+	"cpeLastModified": "2022-01-06T17:53:07.670",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netgear:ac2600_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9DD41D49-6F15-4D70-9829-3C39D07F83B5"
+		}
+	]
 }

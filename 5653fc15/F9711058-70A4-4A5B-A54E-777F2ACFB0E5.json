@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:moodle:moodle:3.10.3:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F9711058-70A4-4A5B-A54E-777F2ACFB0E5",
-  "created": "2021-06-18T00:27:33.083",
-  "lastModified": "2021-06-18T00:27:33.083",
-  "cpeLastModified": "2021-06-18T00:27:47.300",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:moodle:moodle:3.10.3:*:*:*:*:*:*:*",
-      "cpeNameId": "3868543B-BF8F-47AA-A41A-69442BF593F6"
-    }
-  ]
+	"criteria": "cpe:2.3:a:moodle:moodle:3.10.3:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F9711058-70A4-4A5B-A54E-777F2ACFB0E5",
+	"created": "2021-06-18T00:27:33.083",
+	"lastModified": "2021-06-18T00:27:33.083",
+	"cpeLastModified": "2021-06-18T00:27:47.300",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:moodle:moodle:3.10.3:*:*:*:*:*:*:*",
+			"cpeNameId": "3868543B-BF8F-47AA-A41A-69442BF593F6"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:cisco:ex90_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "50D1F2D2-17F2-4A96-AF6B-DFFE5FDF6E9A",
-  "created": "2020-09-25T19:37:24.810",
-  "lastModified": "2020-09-25T19:37:24.810",
-  "cpeLastModified": "2020-10-13T13:01:50.103",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:ex90_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E21DE271-FA2D-4EBB-99CE-CA5077644FBE"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:ex90_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "50D1F2D2-17F2-4A96-AF6B-DFFE5FDF6E9A",
+	"created": "2020-09-25T19:37:24.810",
+	"lastModified": "2020-09-25T19:37:24.810",
+	"cpeLastModified": "2020-10-13T13:01:50.103",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:ex90_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E21DE271-FA2D-4EBB-99CE-CA5077644FBE"
+		}
+	]
 }

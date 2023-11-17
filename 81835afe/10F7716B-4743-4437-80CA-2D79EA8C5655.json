@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:cisco:jabber:*:*:*:*:*:windows:*:*",
-  "matchCriteriaId": "10F7716B-4743-4437-80CA-2D79EA8C5655",
-  "versionStartIncluding": "12.1",
-  "versionEndExcluding": "12.1.3",
-  "created": "2020-09-04T16:16:45.787",
-  "lastModified": "2020-09-04T16:16:45.787",
-  "cpeLastModified": "2020-09-08T17:55:54.167",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:cisco:jabber:12.1:*:*:*:*:windows:*:*",
-      "cpeNameId": "36199574-9E7E-4101-BA6D-15990C4FF59F"
-    }
-  ]
+	"criteria": "cpe:2.3:a:cisco:jabber:*:*:*:*:*:windows:*:*",
+	"matchCriteriaId": "10F7716B-4743-4437-80CA-2D79EA8C5655",
+	"versionStartIncluding": "12.1",
+	"versionEndExcluding": "12.1.3",
+	"created": "2020-09-04T16:16:45.787",
+	"lastModified": "2020-09-04T16:16:45.787",
+	"cpeLastModified": "2020-09-08T17:55:54.167",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:jabber:12.1:*:*:*:*:windows:*:*",
+			"cpeNameId": "36199574-9E7E-4101-BA6D-15990C4FF59F"
+		}
+	]
 }

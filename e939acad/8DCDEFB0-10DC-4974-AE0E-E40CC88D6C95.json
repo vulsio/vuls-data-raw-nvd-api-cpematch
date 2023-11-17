@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:o:nvidia:tesla_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8DCDEFB0-10DC-4974-AE0E-E40CC88D6C95",
-  "versionStartIncluding": "450",
-  "versionEndExcluding": "450.51.05",
-  "created": "2020-07-13T18:10:43.337",
-  "lastModified": "2020-07-13T18:10:43.337",
-  "cpeLastModified": "2020-09-23T17:46:22.190",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:nvidia:tesla_firmware:450:*:*:*:*:*:*:*",
-      "cpeNameId": "382368EB-98EA-401E-8588-84DECD71E3E3"
-    }
-  ]
+	"criteria": "cpe:2.3:o:nvidia:tesla_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8DCDEFB0-10DC-4974-AE0E-E40CC88D6C95",
+	"versionStartIncluding": "450",
+	"versionEndExcluding": "450.51.05",
+	"created": "2020-07-13T18:10:43.337",
+	"lastModified": "2020-07-13T18:10:43.337",
+	"cpeLastModified": "2020-09-23T17:46:22.190",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:nvidia:tesla_firmware:450:*:*:*:*:*:*:*",
+			"cpeNameId": "382368EB-98EA-401E-8588-84DECD71E3E3"
+		}
+	]
 }

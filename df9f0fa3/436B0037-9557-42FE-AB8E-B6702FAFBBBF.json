@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:redhat:enterprise_linux:8.3.0:*:*:*:advanced_virtualization:*:*:*",
-  "matchCriteriaId": "436B0037-9557-42FE-AB8E-B6702FAFBBBF",
-  "created": "2021-03-22T14:32:42.870",
-  "lastModified": "2021-03-22T14:32:42.870",
-  "cpeLastModified": "2021-03-22T14:32:47.633",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:redhat:enterprise_linux:8.3.0:*:*:*:advanced_virtualization:*:*:*",
-      "cpeNameId": "3C7E8055-D028-493A-A4E4-F981F181A0EC"
-    }
-  ]
+	"criteria": "cpe:2.3:o:redhat:enterprise_linux:8.3.0:*:*:*:advanced_virtualization:*:*:*",
+	"matchCriteriaId": "436B0037-9557-42FE-AB8E-B6702FAFBBBF",
+	"created": "2021-03-22T14:32:42.870",
+	"lastModified": "2021-03-22T14:32:42.870",
+	"cpeLastModified": "2021-03-22T14:32:47.633",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:redhat:enterprise_linux:8.3.0:*:*:*:advanced_virtualization:*:*:*",
+			"cpeNameId": "3C7E8055-D028-493A-A4E4-F981F181A0EC"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:prodesk_400_g2.5_sff_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6C9985D7-E4ED-41A9-BFBD-467B5B9BB5D1",
-  "versionEndExcluding": "2.26",
-  "created": "2019-11-07T18:21:18.957",
-  "lastModified": "2019-11-07T18:21:18.957",
-  "cpeLastModified": "2019-12-06T18:47:14.593",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:prodesk_400_g2.5_sff_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "22C4DF47-BE4B-4BD9-903D-1D810B6EC77F"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:prodesk_400_g2.5_sff_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6C9985D7-E4ED-41A9-BFBD-467B5B9BB5D1",
+	"versionEndExcluding": "2.26",
+	"created": "2019-11-07T18:21:18.957",
+	"lastModified": "2019-11-07T18:21:18.957",
+	"cpeLastModified": "2019-12-06T18:47:14.593",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:prodesk_400_g2.5_sff_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "22C4DF47-BE4B-4BD9-903D-1D810B6EC77F"
+		}
+	]
 }

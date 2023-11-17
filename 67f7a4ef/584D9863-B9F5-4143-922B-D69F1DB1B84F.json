@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:google:android:12.0l:*:*:*:*:*:*:*",
-  "matchCriteriaId": "584D9863-B9F5-4143-922B-D69F1DB1B84F",
-  "created": "2022-04-05T13:22:54.777",
-  "lastModified": "2022-04-05T13:22:54.777",
-  "cpeLastModified": "2022-09-26T15:45:52.243",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:google:android:12.0l:*:*:*:*:*:*:*",
-      "cpeNameId": "DE604A4F-E269-4AAB-9A50-0E742B1F4D00"
-    }
-  ]
+	"criteria": "cpe:2.3:o:google:android:12.0l:*:*:*:*:*:*:*",
+	"matchCriteriaId": "584D9863-B9F5-4143-922B-D69F1DB1B84F",
+	"created": "2022-04-05T13:22:54.777",
+	"lastModified": "2022-04-05T13:22:54.777",
+	"cpeLastModified": "2022-09-26T15:45:52.243",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:google:android:12.0l:*:*:*:*:*:*:*",
+			"cpeNameId": "DE604A4F-E269-4AAB-9A50-0E742B1F4D00"
+		}
+	]
 }

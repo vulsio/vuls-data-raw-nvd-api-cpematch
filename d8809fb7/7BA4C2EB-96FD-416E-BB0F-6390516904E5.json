@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:mitsubishi:ew-50a_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7BA4C2EB-96FD-416E-BB0F-6390516904E5",
-  "versionEndIncluding": "7.93",
-  "created": "2021-07-30T17:56:42.380",
-  "lastModified": "2021-07-30T17:56:42.380",
-  "cpeLastModified": "2022-06-13T17:32:14.953",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:mitsubishi:ew-50a_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "8E4D77A1-A572-4927-B335-D441969EF038"
-    }
-  ]
+	"criteria": "cpe:2.3:o:mitsubishi:ew-50a_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7BA4C2EB-96FD-416E-BB0F-6390516904E5",
+	"versionEndIncluding": "7.93",
+	"created": "2021-07-30T17:56:42.380",
+	"lastModified": "2021-07-30T17:56:42.380",
+	"cpeLastModified": "2022-06-13T17:32:14.953",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:mitsubishi:ew-50a_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8E4D77A1-A572-4927-B335-D441969EF038"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:fujitsu:lifebook_u7411_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "99274445-0E1E-4A58-9528-F636946B648F",
-  "versionEndExcluding": "2.30",
-  "created": "2022-05-17T16:48:22.203",
-  "lastModified": "2022-05-17T16:48:22.203",
-  "cpeLastModified": "2022-06-02T16:29:29.267",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:fujitsu:lifebook_u7411_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "D240195D-D934-453D-8703-994732A96DB6"
-    }
-  ]
+	"criteria": "cpe:2.3:o:fujitsu:lifebook_u7411_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "99274445-0E1E-4A58-9528-F636946B648F",
+	"versionEndExcluding": "2.30",
+	"created": "2022-05-17T16:48:22.203",
+	"lastModified": "2022-05-17T16:48:22.203",
+	"cpeLastModified": "2022-06-02T16:29:29.267",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:fujitsu:lifebook_u7411_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D240195D-D934-453D-8703-994732A96DB6"
+		}
+	]
 }

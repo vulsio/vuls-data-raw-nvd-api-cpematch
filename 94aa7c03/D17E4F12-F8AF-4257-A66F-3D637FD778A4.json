@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:aruba:cx_8320_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D17E4F12-F8AF-4257-A66F-3D637FD778A4",
-  "versionEndIncluding": "10.04.3021",
-  "created": "2020-09-29T17:12:47.873",
-  "lastModified": "2020-09-29T17:12:47.873",
-  "cpeLastModified": "2020-10-16T18:02:54.530",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:aruba:cx_8320_firmware:10.04.1000:*:*:*:*:*:*:*",
-      "cpeNameId": "4873DFB7-BD07-4F0E-BE51-0E8A72C5EE7B"
-    },
-    {
-      "cpeName": "cpe:2.3:o:aruba:cx_8320_firmware:10.04.3021:*:*:*:*:*:*:*",
-      "cpeNameId": "BFDECB1C-23DF-463C-A196-D8046B2240A6"
-    }
-  ]
+	"criteria": "cpe:2.3:o:aruba:cx_8320_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D17E4F12-F8AF-4257-A66F-3D637FD778A4",
+	"versionEndIncluding": "10.04.3021",
+	"created": "2020-09-29T17:12:47.873",
+	"lastModified": "2020-09-29T17:12:47.873",
+	"cpeLastModified": "2020-10-16T18:02:54.530",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:aruba:cx_8320_firmware:10.04.1000:*:*:*:*:*:*:*",
+			"cpeNameId": "4873DFB7-BD07-4F0E-BE51-0E8A72C5EE7B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:aruba:cx_8320_firmware:10.04.3021:*:*:*:*:*:*:*",
+			"cpeNameId": "BFDECB1C-23DF-463C-A196-D8046B2240A6"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "criteria": "cpe:2.3:o:amd:ryzen_7_5700g_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7E77C9FB-419C-4AFB-83C0-D3BEE8C372D6",
-  "versionEndExcluding": "comboam4v2pi_1.2.0.b",
-  "created": "2023-08-21T14:09:06.113",
-  "lastModified": "2023-08-21T18:35:07.823",
-  "cpeLastModified": "2023-08-21T18:35:07.823",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:amd:ryzen_7_5700g_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "B93B1A53-27A6-4E4C-9365-3823C73442AE"
-    },
-    {
-      "cpeName": "cpe:2.3:o:amd:ryzen_7_5700g_firmware:comboam4_v2_pi_1.2.0.6c:*:*:*:*:*:*:*",
-      "cpeNameId": "D63A96B2-0585-421E-BD8F-5278ABA49006"
-    },
-    {
-      "cpeName": "cpe:2.3:o:amd:ryzen_7_5700g_firmware:comboam4v2_pi_1.2.0.a:*:*:*:*:*:*:*",
-      "cpeNameId": "EC64E9A1-2C9D-4D5E-B873-06E49EB52E22"
-    }
-  ]
+	"criteria": "cpe:2.3:o:amd:ryzen_7_5700g_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7E77C9FB-419C-4AFB-83C0-D3BEE8C372D6",
+	"versionEndExcluding": "comboam4v2pi_1.2.0.b",
+	"created": "2023-08-21T14:09:06.113",
+	"lastModified": "2023-08-21T18:35:07.823",
+	"cpeLastModified": "2023-08-21T18:35:07.823",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_7_5700g_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B93B1A53-27A6-4E4C-9365-3823C73442AE"
+		},
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_7_5700g_firmware:comboam4_v2_pi_1.2.0.6c:*:*:*:*:*:*:*",
+			"cpeNameId": "D63A96B2-0585-421E-BD8F-5278ABA49006"
+		},
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_7_5700g_firmware:comboam4v2_pi_1.2.0.a:*:*:*:*:*:*:*",
+			"cpeNameId": "EC64E9A1-2C9D-4D5E-B873-06E49EB52E22"
+		}
+	]
 }

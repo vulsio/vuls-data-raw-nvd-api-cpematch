@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:smashballoon:custom_twitter_feeds:*:*:*:*:*:wordpress:*:*",
-  "matchCriteriaId": "046D35BC-0981-4932-9DFF-B54F08E212DF",
-  "versionEndIncluding": "1.8.4",
-  "created": "2023-06-02T00:26:48.887",
-  "lastModified": "2023-06-02T00:26:48.887",
-  "cpeLastModified": "2023-08-21T13:30:58.903",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:smashballoon:custom_twitter_feeds:1.8.4:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "A0F20E0B-5389-4DD0-8B49-AD352B15AA57"
-    }
-  ]
+	"criteria": "cpe:2.3:a:smashballoon:custom_twitter_feeds:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "046D35BC-0981-4932-9DFF-B54F08E212DF",
+	"versionEndIncluding": "1.8.4",
+	"created": "2023-06-02T00:26:48.887",
+	"lastModified": "2023-06-02T00:26:48.887",
+	"cpeLastModified": "2023-08-21T13:30:58.903",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:smashballoon:custom_twitter_feeds:1.8.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A0F20E0B-5389-4DD0-8B49-AD352B15AA57"
+		}
+	]
 }

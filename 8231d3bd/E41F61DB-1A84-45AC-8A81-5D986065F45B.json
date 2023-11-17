@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:siemens:simatic_s7-1500_cpu_15pro-2:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E41F61DB-1A84-45AC-8A81-5D986065F45B",
-  "created": "2022-10-14T11:09:21.153",
-  "lastModified": "2022-10-14T22:00:24.337",
-  "cpeLastModified": "2022-10-14T22:00:24.337",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:siemens:simatic_s7-1500_cpu_15pro-2:-:*:*:*:*:*:*:*",
-      "cpeNameId": "CB7FBE49-ECB5-4DE9-8A1A-D4ACBD46FFEB"
-    }
-  ]
+	"criteria": "cpe:2.3:h:siemens:simatic_s7-1500_cpu_15pro-2:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E41F61DB-1A84-45AC-8A81-5D986065F45B",
+	"created": "2022-10-14T11:09:21.153",
+	"lastModified": "2022-10-14T22:00:24.337",
+	"cpeLastModified": "2022-10-14T22:00:24.337",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:siemens:simatic_s7-1500_cpu_15pro-2:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CB7FBE49-ECB5-4DE9-8A1A-D4ACBD46FFEB"
+		}
+	]
 }

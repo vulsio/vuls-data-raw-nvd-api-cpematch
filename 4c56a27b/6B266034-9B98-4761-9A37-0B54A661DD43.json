@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:honeywell:hbw2gr3_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6B266034-9B98-4761-9A37-0B54A661DD43",
-  "versionEndExcluding": "1.000.hw00.21.20190812",
-  "created": "2019-11-04T19:34:25.307",
-  "lastModified": "2019-11-04T19:34:25.307",
-  "cpeLastModified": "2020-04-27T17:43:54.250",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:honeywell:hbw2gr3_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "60E6ED98-3D88-45DE-BBE2-4DEB65D5AFB1"
-    }
-  ]
+	"criteria": "cpe:2.3:o:honeywell:hbw2gr3_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6B266034-9B98-4761-9A37-0B54A661DD43",
+	"versionEndExcluding": "1.000.hw00.21.20190812",
+	"created": "2019-11-04T19:34:25.307",
+	"lastModified": "2019-11-04T19:34:25.307",
+	"cpeLastModified": "2020-04-27T17:43:54.250",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:honeywell:hbw2gr3_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "60E6ED98-3D88-45DE-BBE2-4DEB65D5AFB1"
+		}
+	]
 }

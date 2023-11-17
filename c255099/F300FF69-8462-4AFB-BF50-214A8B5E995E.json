@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:microsoft:visual_c\\+\\+:8.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F300FF69-8462-4AFB-BF50-214A8B5E995E",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:microsoft:visual_c\\+\\+:8.0:*:*:*:*:*:*:*",
-      "cpeNameId": "4152C9BF-ABD5-432A-A972-F33871945F9F"
-    }
-  ]
+	"criteria": "cpe:2.3:a:microsoft:visual_c\\+\\+:8.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F300FF69-8462-4AFB-BF50-214A8B5E995E",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:visual_c\\+\\+:8.0:*:*:*:*:*:*:*",
+			"cpeNameId": "4152C9BF-ABD5-432A-A972-F33871945F9F"
+		}
+	]
 }

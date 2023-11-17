@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:thinkpad_e590_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B46ABEFB-91C7-4405-B7B9-25DEB1F006A4",
-  "versionEndIncluding": "1.30",
-  "created": "2021-11-22T14:34:06.357",
-  "lastModified": "2021-11-22T14:34:06.357",
-  "cpeLastModified": "2021-11-23T14:50:25.553",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:thinkpad_e590_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "29F4AB42-3651-48EC-B175-F3187881E3B2"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:thinkpad_e590_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B46ABEFB-91C7-4405-B7B9-25DEB1F006A4",
+	"versionEndIncluding": "1.30",
+	"created": "2021-11-22T14:34:06.357",
+	"lastModified": "2021-11-22T14:34:06.357",
+	"cpeLastModified": "2021-11-23T14:50:25.553",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:thinkpad_e590_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "29F4AB42-3651-48EC-B175-F3187881E3B2"
+		}
+	]
 }

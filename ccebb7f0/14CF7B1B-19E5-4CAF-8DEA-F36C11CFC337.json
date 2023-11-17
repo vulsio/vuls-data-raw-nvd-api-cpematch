@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:lenovo:vantage:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "14CF7B1B-19E5-4CAF-8DEA-F36C11CFC337",
-  "versionEndExcluding": "10.2003.10.0",
-  "created": "2020-04-15T15:04:27.267",
-  "lastModified": "2020-04-15T15:04:27.267",
-  "cpeLastModified": "2020-04-15T15:33:29.847",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:lenovo:vantage:10.2001.12.0:*:*:*:*:*:*:*",
-      "cpeNameId": "A89D932E-1400-44ED-91AE-D5CF21BBA7EA"
-    }
-  ]
+	"criteria": "cpe:2.3:a:lenovo:vantage:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "14CF7B1B-19E5-4CAF-8DEA-F36C11CFC337",
+	"versionEndExcluding": "10.2003.10.0",
+	"created": "2020-04-15T15:04:27.267",
+	"lastModified": "2020-04-15T15:04:27.267",
+	"cpeLastModified": "2020-04-15T15:33:29.847",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:lenovo:vantage:10.2001.12.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A89D932E-1400-44ED-91AE-D5CF21BBA7EA"
+		}
+	]
 }

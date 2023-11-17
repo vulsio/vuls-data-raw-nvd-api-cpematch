@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:ssd_dc_p4500_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "2194A013-9603-41EE-8EA7-539DF0078C0B",
-  "versionEndExcluding": "qdv101b1",
-  "created": "2022-09-22T13:50:39.890",
-  "lastModified": "2022-09-22T13:50:39.890",
-  "cpeLastModified": "2022-09-22T13:50:39.890",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:ssd_dc_p4500_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "2923507F-37B4-4AE4-A5B7-6EAE04E41B57"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:ssd_dc_p4500_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2194A013-9603-41EE-8EA7-539DF0078C0B",
+	"versionEndExcluding": "qdv101b1",
+	"created": "2022-09-22T13:50:39.890",
+	"lastModified": "2022-09-22T13:50:39.890",
+	"cpeLastModified": "2022-09-22T13:50:39.890",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:ssd_dc_p4500_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2923507F-37B4-4AE4-A5B7-6EAE04E41B57"
+		}
+	]
 }

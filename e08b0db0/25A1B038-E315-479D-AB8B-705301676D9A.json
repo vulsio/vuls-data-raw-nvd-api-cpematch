@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:konicaminolta:bizhub_c4050i_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "25A1B038-E315-479D-AB8B-705301676D9A",
-  "versionEndExcluding": "g00-e9",
-  "created": "2022-01-11T15:32:18.680",
-  "lastModified": "2022-01-11T15:32:18.680",
-  "cpeLastModified": "2022-01-13T02:37:34.383",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:konicaminolta:bizhub_c4050i_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "BDCF058D-F808-43EA-B187-80D2DDC2CD90"
-    }
-  ]
+	"criteria": "cpe:2.3:o:konicaminolta:bizhub_c4050i_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "25A1B038-E315-479D-AB8B-705301676D9A",
+	"versionEndExcluding": "g00-e9",
+	"created": "2022-01-11T15:32:18.680",
+	"lastModified": "2022-01-11T15:32:18.680",
+	"cpeLastModified": "2022-01-13T02:37:34.383",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:konicaminolta:bizhub_c4050i_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BDCF058D-F808-43EA-B187-80D2DDC2CD90"
+		}
+	]
 }

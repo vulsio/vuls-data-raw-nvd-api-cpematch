@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:pentium_g4560t_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B3D1872D-0814-41B5-8042-D648BFB57F61",
-  "created": "2019-11-21T14:53:12.270",
-  "lastModified": "2019-11-21T14:53:12.270",
-  "cpeLastModified": "2019-12-06T13:05:37.927",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:pentium_g4560t_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "4BA8A011-4078-4F15-87A7-4E4A637D93FD"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:pentium_g4560t_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B3D1872D-0814-41B5-8042-D648BFB57F61",
+	"created": "2019-11-21T14:53:12.270",
+	"lastModified": "2019-11-21T14:53:12.270",
+	"cpeLastModified": "2019-12-06T13:05:37.927",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:pentium_g4560t_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4BA8A011-4078-4F15-87A7-4E4A637D93FD"
+		}
+	]
 }

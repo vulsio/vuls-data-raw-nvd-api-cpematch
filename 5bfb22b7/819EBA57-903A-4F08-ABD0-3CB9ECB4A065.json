@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:cisco:sf200e-48_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "819EBA57-903A-4F08-ABD0-3CB9ECB4A065",
-  "versionEndExcluding": "1.4.11",
-  "created": "2020-08-19T16:56:05.250",
-  "lastModified": "2020-08-19T16:56:05.250",
-  "cpeLastModified": "2020-08-19T16:56:05.267",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:sf200e-48_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "9E696F3E-F168-493F-9FC8-202F278D4B02"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:sf200e-48_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "819EBA57-903A-4F08-ABD0-3CB9ECB4A065",
+	"versionEndExcluding": "1.4.11",
+	"created": "2020-08-19T16:56:05.250",
+	"lastModified": "2020-08-19T16:56:05.250",
+	"cpeLastModified": "2020-08-19T16:56:05.267",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:sf200e-48_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9E696F3E-F168-493F-9FC8-202F278D4B02"
+		}
+	]
 }

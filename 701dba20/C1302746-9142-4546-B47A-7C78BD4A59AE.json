@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:nvidia:jetson_tk1:r21:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C1302746-9142-4546-B47A-7C78BD4A59AE",
-  "created": "2020-05-28T20:47:30.980",
-  "lastModified": "2020-05-28T20:47:30.980",
-  "cpeLastModified": "2020-05-29T15:23:18.007",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:nvidia:jetson_tk1:r21:*:*:*:*:*:*:*",
-      "cpeNameId": "729FD2CF-5E35-4B70-B034-7FFEE4F0FA2D"
-    }
-  ]
+	"criteria": "cpe:2.3:a:nvidia:jetson_tk1:r21:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C1302746-9142-4546-B47A-7C78BD4A59AE",
+	"created": "2020-05-28T20:47:30.980",
+	"lastModified": "2020-05-28T20:47:30.980",
+	"cpeLastModified": "2020-05-29T15:23:18.007",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:nvidia:jetson_tk1:r21:*:*:*:*:*:*:*",
+			"cpeNameId": "729FD2CF-5E35-4B70-B034-7FFEE4F0FA2D"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:cisco:1109-4p_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "BA214FF2-358E-4291-B803-58A9AC14ABEC",
-  "created": "2022-05-04T17:45:27.240",
-  "lastModified": "2022-07-12T15:45:40.327",
-  "cpeLastModified": "2022-07-29T23:25:10.673",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:1109-4p_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "EFBF4BB4-48B7-4611-8112-FD5EEA9BA9E3"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:1109-4p_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BA214FF2-358E-4291-B803-58A9AC14ABEC",
+	"created": "2022-05-04T17:45:27.240",
+	"lastModified": "2022-07-12T15:45:40.327",
+	"cpeLastModified": "2022-07-29T23:25:10.673",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:1109-4p_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EFBF4BB4-48B7-4611-8112-FD5EEA9BA9E3"
+		}
+	]
 }

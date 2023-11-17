@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:node-fetch_project:node-fetch:3.0.0:beta5:*:*:*:node.js:*:*",
-  "matchCriteriaId": "C0B46F27-637F-4C06-9637-44BEDC4610B7",
-  "created": "2020-09-11T18:48:25.940",
-  "lastModified": "2020-09-11T18:48:25.940",
-  "cpeLastModified": "2020-09-11T19:16:00.500",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:node-fetch_project:node-fetch:3.0.0:beta5:*:*:*:node.js:*:*",
-      "cpeNameId": "AF809ED4-E039-40E6-A813-569A19A6F493"
-    }
-  ]
+	"criteria": "cpe:2.3:a:node-fetch_project:node-fetch:3.0.0:beta5:*:*:*:node.js:*:*",
+	"matchCriteriaId": "C0B46F27-637F-4C06-9637-44BEDC4610B7",
+	"created": "2020-09-11T18:48:25.940",
+	"lastModified": "2020-09-11T18:48:25.940",
+	"cpeLastModified": "2020-09-11T19:16:00.500",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:node-fetch_project:node-fetch:3.0.0:beta5:*:*:*:node.js:*:*",
+			"cpeNameId": "AF809ED4-E039-40E6-A813-569A19A6F493"
+		}
+	]
 }

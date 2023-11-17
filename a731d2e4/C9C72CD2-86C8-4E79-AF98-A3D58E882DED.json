@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:siemens:simatic_wincc:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C9C72CD2-86C8-4E79-AF98-A3D58E882DED",
-  "versionEndExcluding": "7.2",
-  "created": "2022-03-31T17:06:22.737",
-  "lastModified": "2022-03-31T17:06:22.737",
-  "cpeLastModified": "2022-03-31T17:06:22.737",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:siemens:simatic_wincc:-:*:*:*:*:*:*:*",
-      "cpeNameId": "F6FDF0C9-4199-44BD-A4DE-69D228D48BC7"
-    },
-    {
-      "cpeName": "cpe:2.3:a:siemens:simatic_wincc:7.1:*:*:*:*:*:*:*",
-      "cpeNameId": "377F9107-1D49-47EA-BA92-D5531C354388"
-    }
-  ]
+	"criteria": "cpe:2.3:a:siemens:simatic_wincc:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C9C72CD2-86C8-4E79-AF98-A3D58E882DED",
+	"versionEndExcluding": "7.2",
+	"created": "2022-03-31T17:06:22.737",
+	"lastModified": "2022-03-31T17:06:22.737",
+	"cpeLastModified": "2022-03-31T17:06:22.737",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:siemens:simatic_wincc:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F6FDF0C9-4199-44BD-A4DE-69D228D48BC7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:siemens:simatic_wincc:7.1:*:*:*:*:*:*:*",
+			"cpeNameId": "377F9107-1D49-47EA-BA92-D5531C354388"
+		}
+	]
 }

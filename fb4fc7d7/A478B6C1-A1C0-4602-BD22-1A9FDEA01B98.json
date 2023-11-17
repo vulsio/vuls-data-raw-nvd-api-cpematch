@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.3:p2:*:*:*:*:*:*",
-  "matchCriteriaId": "A478B6C1-A1C0-4602-BD22-1A9FDEA01B98",
-  "created": "2020-04-17T16:47:54.593",
-  "lastModified": "2020-04-17T16:47:54.593",
-  "cpeLastModified": "2020-04-17T17:21:24.040",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.3:p2:*:*:*:*:*:*",
-      "cpeNameId": "FF6C3FA1-DFE2-40AC-A392-011A2EEF132E"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.3:p2:*:*:*:*:*:*",
+	"matchCriteriaId": "A478B6C1-A1C0-4602-BD22-1A9FDEA01B98",
+	"created": "2020-04-17T16:47:54.593",
+	"lastModified": "2020-04-17T16:47:54.593",
+	"cpeLastModified": "2020-04-17T17:21:24.040",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.3:p2:*:*:*:*:*:*",
+			"cpeNameId": "FF6C3FA1-DFE2-40AC-A392-011A2EEF132E"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:yarnpkg:website:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "34017A12-CF2F-4F6C-9713-8B44867FF171",
-  "versionEndIncluding": "2018-06-05",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2020-07-31T18:15:02.590",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:yarnpkg:website:2018-06-05:*:*:*:*:*:*:*",
-      "cpeNameId": "AEB6E673-5F03-4C2B-A633-20659AB6561F"
-    }
-  ]
+	"criteria": "cpe:2.3:a:yarnpkg:website:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "34017A12-CF2F-4F6C-9713-8B44867FF171",
+	"versionEndIncluding": "2018-06-05",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2020-07-31T18:15:02.590",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:yarnpkg:website:2018-06-05:*:*:*:*:*:*:*",
+			"cpeNameId": "AEB6E673-5F03-4C2B-A633-20659AB6561F"
+		}
+	]
 }

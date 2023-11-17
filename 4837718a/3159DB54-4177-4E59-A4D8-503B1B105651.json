@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:realtek:rtl8710af:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "3159DB54-4177-4E59-A4D8-503B1B105651",
-  "created": "2020-07-13T18:42:54.320",
-  "lastModified": "2020-07-13T18:42:54.320",
-  "cpeLastModified": "2020-09-23T17:45:22.767",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:realtek:rtl8710af:-:*:*:*:*:*:*:*",
-      "cpeNameId": "28AE1959-16BF-456B-9EF2-029B183CBA8B"
-    }
-  ]
+	"criteria": "cpe:2.3:h:realtek:rtl8710af:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3159DB54-4177-4E59-A4D8-503B1B105651",
+	"created": "2020-07-13T18:42:54.320",
+	"lastModified": "2020-07-13T18:42:54.320",
+	"cpeLastModified": "2020-09-23T17:45:22.767",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:realtek:rtl8710af:-:*:*:*:*:*:*:*",
+			"cpeNameId": "28AE1959-16BF-456B-9EF2-029B183CBA8B"
+		}
+	]
 }

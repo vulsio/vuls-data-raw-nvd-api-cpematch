@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:mitsubishielectric:m_commdtm-hart:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9C9ECB87-B07E-4E52-BF3F-8AD4AA03826B",
-  "versionEndExcluding": "1.01b",
-  "created": "2022-06-06T13:23:59.090",
-  "lastModified": "2022-06-06T13:29:05.647",
-  "cpeLastModified": "2020-08-11T16:05:27.967",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:mitsubishielectric:m_commdtm-hart:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E3E7F777-2ACC-4536-8657-58A110EC7357"
-    }
-  ]
+	"criteria": "cpe:2.3:a:mitsubishielectric:m_commdtm-hart:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9C9ECB87-B07E-4E52-BF3F-8AD4AA03826B",
+	"versionEndExcluding": "1.01b",
+	"created": "2022-06-06T13:23:59.090",
+	"lastModified": "2022-06-06T13:29:05.647",
+	"cpeLastModified": "2020-08-11T16:05:27.967",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:mitsubishielectric:m_commdtm-hart:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E3E7F777-2ACC-4536-8657-58A110EC7357"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:ncp-e:secure_enterprise_client:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8A1A98C3-B909-4053-8A22-2D03001822FC",
-  "versionEndIncluding": "10.15",
-  "created": "2020-07-29T18:33:36.143",
-  "lastModified": "2020-07-29T18:33:36.143",
-  "cpeLastModified": "2020-09-11T16:58:40.683",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ncp-e:secure_enterprise_client:10.14:*:*:*:*:*:*:*",
-      "cpeNameId": "0E5253C1-D785-4E42-9385-DF06995ABF10"
-    },
-    {
-      "cpeName": "cpe:2.3:a:ncp-e:secure_enterprise_client:10.15:*:*:*:*:*:*:*",
-      "cpeNameId": "6D7ECE56-AE6F-411C-9BD2-D27B369A8F91"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ncp-e:secure_enterprise_client:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8A1A98C3-B909-4053-8A22-2D03001822FC",
+	"versionEndIncluding": "10.15",
+	"created": "2020-07-29T18:33:36.143",
+	"lastModified": "2020-07-29T18:33:36.143",
+	"cpeLastModified": "2020-09-11T16:58:40.683",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ncp-e:secure_enterprise_client:10.14:*:*:*:*:*:*:*",
+			"cpeNameId": "0E5253C1-D785-4E42-9385-DF06995ABF10"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ncp-e:secure_enterprise_client:10.15:*:*:*:*:*:*:*",
+			"cpeNameId": "6D7ECE56-AE6F-411C-9BD2-D27B369A8F91"
+		}
+	]
 }

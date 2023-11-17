@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:berkeley:boinc:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9901A926-E8AD-44E7-AB44-B1A5888F9DC3",
-  "created": "2020-02-21T03:04:44.693",
-  "lastModified": "2020-02-21T03:04:44.693",
-  "cpeLastModified": "2020-02-21T18:30:58.167",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:berkeley:boinc:-:*:*:*:*:*:*:*",
-      "cpeNameId": "5BD4728F-C446-4415-9824-A5DA4702068C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:berkeley:boinc:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9901A926-E8AD-44E7-AB44-B1A5888F9DC3",
+	"created": "2020-02-21T03:04:44.693",
+	"lastModified": "2020-02-21T03:04:44.693",
+	"cpeLastModified": "2020-02-21T18:30:58.167",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:berkeley:boinc:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5BD4728F-C446-4415-9824-A5DA4702068C"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:apache:openoffice:2.4.1:*:*:*:*:*:*:*",
-  "matchCriteriaId": "73261E25-D3AA-49CF-8066-09F47B0F99FE",
-  "created": "2022-02-04T22:03:23.843",
-  "lastModified": "2022-02-04T22:03:23.843",
-  "cpeLastModified": "2022-02-07T17:04:07.233",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:apache:openoffice:2.4.1:*:*:*:*:*:*:*",
-      "cpeNameId": "CEEC8526-CBA6-43DD-B986-7AE5D9A65F2F"
-    }
-  ]
+	"criteria": "cpe:2.3:a:apache:openoffice:2.4.1:*:*:*:*:*:*:*",
+	"matchCriteriaId": "73261E25-D3AA-49CF-8066-09F47B0F99FE",
+	"created": "2022-02-04T22:03:23.843",
+	"lastModified": "2022-02-04T22:03:23.843",
+	"cpeLastModified": "2022-02-07T17:04:07.233",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apache:openoffice:2.4.1:*:*:*:*:*:*:*",
+			"cpeNameId": "CEEC8526-CBA6-43DD-B986-7AE5D9A65F2F"
+		}
+	]
 }

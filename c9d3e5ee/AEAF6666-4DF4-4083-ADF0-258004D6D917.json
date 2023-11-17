@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:thinkpad_s540_bios:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AEAF6666-4DF4-4083-ADF0-258004D6D917",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T22:53:51.837",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:thinkpad_s540_bios:-:*:*:*:*:*:*:*",
-      "cpeNameId": "869558A8-1DCA-4BFF-A13B-F4B9169F6360"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:thinkpad_s540_bios:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AEAF6666-4DF4-4083-ADF0-258004D6D917",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T22:53:51.837",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:thinkpad_s540_bios:-:*:*:*:*:*:*:*",
+			"cpeNameId": "869558A8-1DCA-4BFF-A13B-F4B9169F6360"
+		}
+	]
 }

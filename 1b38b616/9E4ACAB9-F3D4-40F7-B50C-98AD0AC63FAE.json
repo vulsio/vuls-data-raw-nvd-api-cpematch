@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:inspiron_3268_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9E4ACAB9-F3D4-40F7-B50C-98AD0AC63FAE",
-  "versionEndExcluding": "1.11.1",
-  "created": "2019-08-09T17:46:15.470",
-  "lastModified": "2019-08-09T17:46:15.470",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:inspiron_3268_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "DB789691-E3F8-4E04-92C7-27EF4F879258"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:inspiron_3268_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9E4ACAB9-F3D4-40F7-B50C-98AD0AC63FAE",
+	"versionEndExcluding": "1.11.1",
+	"created": "2019-08-09T17:46:15.470",
+	"lastModified": "2019-08-09T17:46:15.470",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_3268_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DB789691-E3F8-4E04-92C7-27EF4F879258"
+		}
+	]
 }

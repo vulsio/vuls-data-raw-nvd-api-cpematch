@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:vostro_3670_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9090B54D-54D5-4638-BA4C-18377FE81CBF",
-  "versionEndExcluding": "1.5.21",
-  "created": "2019-08-12T12:18:01.523",
-  "lastModified": "2019-08-12T12:18:01.523",
-  "cpeLastModified": "2020-03-06T20:01:23.513",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:vostro_3670_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "2E469577-3C14-4450-919B-50A866E7FAF1"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:vostro_3670_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9090B54D-54D5-4638-BA4C-18377FE81CBF",
+	"versionEndExcluding": "1.5.21",
+	"created": "2019-08-12T12:18:01.523",
+	"lastModified": "2019-08-12T12:18:01.523",
+	"cpeLastModified": "2020-03-06T20:01:23.513",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:vostro_3670_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2E469577-3C14-4450-919B-50A866E7FAF1"
+		}
+	]
 }

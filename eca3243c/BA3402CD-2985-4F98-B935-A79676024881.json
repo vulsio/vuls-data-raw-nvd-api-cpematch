@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:thinkpad_w540_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "BA3402CD-2985-4F98-B935-A79676024881",
-  "versionEndExcluding": "gnet93ww",
-  "created": "2020-06-16T18:52:10.400",
-  "lastModified": "2020-06-16T18:52:10.400",
-  "cpeLastModified": "2020-06-16T18:52:10.430",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:thinkpad_w540_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "CE7CEC02-2066-4179-A155-C4EC68145874"
-    },
-    {
-      "cpeName": "cpe:2.3:o:lenovo:thinkpad_w540_firmware:gnet92ww:*:*:*:*:*:*:*",
-      "cpeNameId": "0AF1C7C0-1A63-480C-BFBE-E1146CC4539B"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:thinkpad_w540_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BA3402CD-2985-4F98-B935-A79676024881",
+	"versionEndExcluding": "gnet93ww",
+	"created": "2020-06-16T18:52:10.400",
+	"lastModified": "2020-06-16T18:52:10.400",
+	"cpeLastModified": "2020-06-16T18:52:10.430",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:thinkpad_w540_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CE7CEC02-2066-4179-A155-C4EC68145874"
+		},
+		{
+			"cpeName": "cpe:2.3:o:lenovo:thinkpad_w540_firmware:gnet92ww:*:*:*:*:*:*:*",
+			"cpeNameId": "0AF1C7C0-1A63-480C-BFBE-E1146CC4539B"
+		}
+	]
 }

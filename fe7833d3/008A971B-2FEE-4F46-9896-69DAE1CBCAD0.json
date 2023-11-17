@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:alienware_m15_r6_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "008A971B-2FEE-4F46-9896-69DAE1CBCAD0",
-  "versionEndExcluding": "1.6.0",
-  "created": "2022-02-10T16:17:44.157",
-  "lastModified": "2022-02-10T16:17:44.157",
-  "cpeLastModified": "2022-02-16T15:26:01.320",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:alienware_m15_r6_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "230D8F1A-38E2-45CE-A788-B3003291070E"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:alienware_m15_r6_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "008A971B-2FEE-4F46-9896-69DAE1CBCAD0",
+	"versionEndExcluding": "1.6.0",
+	"created": "2022-02-10T16:17:44.157",
+	"lastModified": "2022-02-10T16:17:44.157",
+	"cpeLastModified": "2022-02-16T15:26:01.320",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:alienware_m15_r6_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "230D8F1A-38E2-45CE-A788-B3003291070E"
+		}
+	]
 }

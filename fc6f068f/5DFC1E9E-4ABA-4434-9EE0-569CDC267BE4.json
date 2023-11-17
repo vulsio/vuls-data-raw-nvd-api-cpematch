@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:seqrite:end_point_security:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5DFC1E9E-4ABA-4434-9EE0-569CDC267BE4",
-  "versionEndExcluding": "8.0",
-  "created": "2023-05-22T15:28:48.043",
-  "lastModified": "2023-05-22T15:28:48.043",
-  "cpeLastModified": "2023-05-22T15:28:48.043",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:seqrite:end_point_security:7.4:*:*:*:*:*:*:*",
-      "cpeNameId": "B8517B9C-3E39-472D-A24C-D2CDED130751"
-    }
-  ]
+	"criteria": "cpe:2.3:a:seqrite:end_point_security:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5DFC1E9E-4ABA-4434-9EE0-569CDC267BE4",
+	"versionEndExcluding": "8.0",
+	"created": "2023-05-22T15:28:48.043",
+	"lastModified": "2023-05-22T15:28:48.043",
+	"cpeLastModified": "2023-05-22T15:28:48.043",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:seqrite:end_point_security:7.4:*:*:*:*:*:*:*",
+			"cpeNameId": "B8517B9C-3E39-472D-A24C-D2CDED130751"
+		}
+	]
 }

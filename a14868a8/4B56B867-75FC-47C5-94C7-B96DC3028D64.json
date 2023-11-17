@@ -1,27 +1,27 @@
 {
-  "criteria": "cpe:2.3:a:redhat:amq_broker:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4B56B867-75FC-47C5-94C7-B96DC3028D64",
-  "versionEndExcluding": "7.10.0",
-  "created": "2022-08-26T16:07:13.080",
-  "lastModified": "2022-08-26T16:07:13.080",
-  "cpeLastModified": "2022-08-27T02:06:11.247",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:redhat:amq_broker:-:*:*:*:*:*:*:*",
-      "cpeNameId": "815065D8-0BB7-4902-B99A-00666D732004"
-    },
-    {
-      "cpeName": "cpe:2.3:a:redhat:amq_broker:7.8.2:*:*:*:*:*:*:*",
-      "cpeNameId": "3B7EADC8-5DD4-4FD4-84F4-9A67C09A9069"
-    },
-    {
-      "cpeName": "cpe:2.3:a:redhat:amq_broker:7.9.0:*:*:*:*:*:*:*",
-      "cpeNameId": "FAF6E1BA-8388-44F8-887C-2E2831BAEDDB"
-    },
-    {
-      "cpeName": "cpe:2.3:a:redhat:amq_broker:7.9.4:*:*:*:*:*:*:*",
-      "cpeNameId": "A317B798-3833-4DD8-82C8-B3F2FB5E38A7"
-    }
-  ]
+	"criteria": "cpe:2.3:a:redhat:amq_broker:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4B56B867-75FC-47C5-94C7-B96DC3028D64",
+	"versionEndExcluding": "7.10.0",
+	"created": "2022-08-26T16:07:13.080",
+	"lastModified": "2022-08-26T16:07:13.080",
+	"cpeLastModified": "2022-08-27T02:06:11.247",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:redhat:amq_broker:-:*:*:*:*:*:*:*",
+			"cpeNameId": "815065D8-0BB7-4902-B99A-00666D732004"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:amq_broker:7.8.2:*:*:*:*:*:*:*",
+			"cpeNameId": "3B7EADC8-5DD4-4FD4-84F4-9A67C09A9069"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:amq_broker:7.9.0:*:*:*:*:*:*:*",
+			"cpeNameId": "FAF6E1BA-8388-44F8-887C-2E2831BAEDDB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:amq_broker:7.9.4:*:*:*:*:*:*:*",
+			"cpeNameId": "A317B798-3833-4DD8-82C8-B3F2FB5E38A7"
+		}
+	]
 }

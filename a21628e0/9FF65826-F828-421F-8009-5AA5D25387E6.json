@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:arm:cortex-a53:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9FF65826-F828-421F-8009-5AA5D25387E6",
-  "created": "2020-06-10T19:12:59.283",
-  "lastModified": "2020-06-10T19:12:59.283",
-  "cpeLastModified": "2020-07-23T16:38:55.970",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:arm:cortex-a53:-:*:*:*:*:*:*:*",
-      "cpeNameId": "DD7AAF5A-E407-4C8E-89AA-D61D800ACB20"
-    }
-  ]
+	"criteria": "cpe:2.3:h:arm:cortex-a53:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9FF65826-F828-421F-8009-5AA5D25387E6",
+	"created": "2020-06-10T19:12:59.283",
+	"lastModified": "2020-06-10T19:12:59.283",
+	"cpeLastModified": "2020-07-23T16:38:55.970",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:arm:cortex-a53:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DD7AAF5A-E407-4C8E-89AA-D61D800ACB20"
+		}
+	]
 }

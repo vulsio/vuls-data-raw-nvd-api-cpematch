@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:hosting_project:hosting:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6F64F80C-4ED3-4027-BA13-4A545C90D951",
-  "versionEndIncluding": "2018-02-11",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2020-03-11T15:48:28.107",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:hosting_project:hosting:2018-02-11:*:*:*:*:*:*:*",
-      "cpeNameId": "D2601D74-C312-4488-AF39-EFE7E06E158B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:hosting_project:hosting:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6F64F80C-4ED3-4027-BA13-4A545C90D951",
+	"versionEndIncluding": "2018-02-11",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2020-03-11T15:48:28.107",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:hosting_project:hosting:2018-02-11:*:*:*:*:*:*:*",
+			"cpeNameId": "D2601D74-C312-4488-AF39-EFE7E06E158B"
+		}
+	]
 }

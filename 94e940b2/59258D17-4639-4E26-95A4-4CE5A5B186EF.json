@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:a:devolutions:remote_desktop_manager:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "59258D17-4639-4E26-95A4-4CE5A5B186EF",
-  "versionStartIncluding": "2022.3.13",
-  "versionEndExcluding": "2022.3.26",
-  "created": "2022-12-12T17:00:44.237",
-  "lastModified": "2023-01-09T15:26:24.560",
-  "cpeLastModified": "2023-01-09T15:26:24.560",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2022.3.13:*:*:*:*:*:*:*",
-      "cpeNameId": "5EF7C371-AA0D-4C47-AF94-E60678E48F36"
-    },
-    {
-      "cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2022.3.24:*:*:*:*:*:*:*",
-      "cpeNameId": "D4BADBF1-4793-4CA7-A662-79A97CB98C70"
-    }
-  ]
+	"criteria": "cpe:2.3:a:devolutions:remote_desktop_manager:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "59258D17-4639-4E26-95A4-4CE5A5B186EF",
+	"versionStartIncluding": "2022.3.13",
+	"versionEndExcluding": "2022.3.26",
+	"created": "2022-12-12T17:00:44.237",
+	"lastModified": "2023-01-09T15:26:24.560",
+	"cpeLastModified": "2023-01-09T15:26:24.560",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2022.3.13:*:*:*:*:*:*:*",
+			"cpeNameId": "5EF7C371-AA0D-4C47-AF94-E60678E48F36"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2022.3.24:*:*:*:*:*:*:*",
+			"cpeNameId": "D4BADBF1-4793-4CA7-A662-79A97CB98C70"
+		}
+	]
 }

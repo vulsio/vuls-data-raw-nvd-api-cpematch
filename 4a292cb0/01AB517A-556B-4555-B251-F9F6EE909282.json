@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:gnome:networkmanager:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "01AB517A-556B-4555-B251-F9F6EE909282",
-  "versionStartIncluding": "1.24.0",
-  "versionEndExcluding": "1.24.2",
-  "created": "2021-11-02T16:14:30.720",
-  "lastModified": "2021-11-02T16:14:30.720",
-  "cpeLastModified": "2021-11-02T17:12:54.973",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:gnome:networkmanager:1.24.0:*:*:*:*:*:*:*",
-      "cpeNameId": "C5005C07-9193-4D1E-9C51-D168C742A95C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:gnome:networkmanager:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "01AB517A-556B-4555-B251-F9F6EE909282",
+	"versionStartIncluding": "1.24.0",
+	"versionEndExcluding": "1.24.2",
+	"created": "2021-11-02T16:14:30.720",
+	"lastModified": "2021-11-02T16:14:30.720",
+	"cpeLastModified": "2021-11-02T17:12:54.973",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:gnome:networkmanager:1.24.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C5005C07-9193-4D1E-9C51-D168C742A95C"
+		}
+	]
 }

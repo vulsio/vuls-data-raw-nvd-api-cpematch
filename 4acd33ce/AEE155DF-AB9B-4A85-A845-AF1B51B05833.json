@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:siemens:7kg9501-0aa31-2aa1_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AEE155DF-AB9B-4A85-A845-AF1B51B05833",
-  "versionEndExcluding": "2.50",
-  "created": "2022-11-08T14:25:14.853",
-  "lastModified": "2022-11-09T17:50:26.953",
-  "cpeLastModified": "2022-11-08T14:25:14.853",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:7kg9501-0aa31-2aa1_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "8FA2B41C-2DAE-4B1F-8A09-A9D1FB0FFE2A"
-    },
-    {
-      "cpeName": "cpe:2.3:o:siemens:7kg9501-0aa31-2aa1_firmware:2.41:*:*:*:*:*:*:*",
-      "cpeNameId": "02E537DF-8344-4182-8353-5E2C47CAEF6C"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:7kg9501-0aa31-2aa1_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AEE155DF-AB9B-4A85-A845-AF1B51B05833",
+	"versionEndExcluding": "2.50",
+	"created": "2022-11-08T14:25:14.853",
+	"lastModified": "2022-11-09T17:50:26.953",
+	"cpeLastModified": "2022-11-08T14:25:14.853",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:7kg9501-0aa31-2aa1_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8FA2B41C-2DAE-4B1F-8A09-A9D1FB0FFE2A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:siemens:7kg9501-0aa31-2aa1_firmware:2.41:*:*:*:*:*:*:*",
+			"cpeNameId": "02E537DF-8344-4182-8353-5E2C47CAEF6C"
+		}
+	]
 }

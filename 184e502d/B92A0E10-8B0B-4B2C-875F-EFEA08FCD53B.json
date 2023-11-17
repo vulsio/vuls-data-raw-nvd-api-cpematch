@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:cisco:adaptive_security_appliance_software:9.3\\(3\\):*:*:*:*:*:*:*",
-  "matchCriteriaId": "B92A0E10-8B0B-4B2C-875F-EFEA08FCD53B",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2023-08-11T18:54:43.320",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:cisco:adaptive_security_appliance_software:9.3\\(3\\):*:*:*:*:*:*:*",
-      "cpeNameId": "AE725952-F437-4944-AD92-14D67651FA32"
-    }
-  ]
+	"criteria": "cpe:2.3:a:cisco:adaptive_security_appliance_software:9.3\\(3\\):*:*:*:*:*:*:*",
+	"matchCriteriaId": "B92A0E10-8B0B-4B2C-875F-EFEA08FCD53B",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2023-08-11T18:54:43.320",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:adaptive_security_appliance_software:9.3\\(3\\):*:*:*:*:*:*:*",
+			"cpeNameId": "AE725952-F437-4944-AD92-14D67651FA32"
+		}
+	]
 }

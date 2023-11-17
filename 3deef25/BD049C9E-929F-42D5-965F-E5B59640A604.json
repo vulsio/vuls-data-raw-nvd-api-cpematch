@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:titool:printmonitor:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "BD049C9E-929F-42D5-965F-E5B59640A604",
-  "versionEndExcluding": "pm18.2.1",
-  "created": "2019-12-18T13:06:59.597",
-  "lastModified": "2019-12-18T13:06:59.597",
-  "cpeLastModified": "2019-12-18T18:17:46.913",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:titool:printmonitor:-:*:*:*:*:*:*:*",
-      "cpeNameId": "10338F63-E52A-4257-A2C2-CEB6CE7DF5C6"
-    }
-  ]
+	"criteria": "cpe:2.3:a:titool:printmonitor:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BD049C9E-929F-42D5-965F-E5B59640A604",
+	"versionEndExcluding": "pm18.2.1",
+	"created": "2019-12-18T13:06:59.597",
+	"lastModified": "2019-12-18T13:06:59.597",
+	"cpeLastModified": "2019-12-18T18:17:46.913",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:titool:printmonitor:-:*:*:*:*:*:*:*",
+			"cpeNameId": "10338F63-E52A-4257-A2C2-CEB6CE7DF5C6"
+		}
+	]
 }

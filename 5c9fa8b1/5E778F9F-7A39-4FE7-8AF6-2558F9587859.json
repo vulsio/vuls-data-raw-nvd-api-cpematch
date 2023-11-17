@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:st:stm32f070c6_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5E778F9F-7A39-4FE7-8AF6-2558F9587859",
-  "created": "2021-04-30T20:03:33.167",
-  "lastModified": "2021-04-30T20:03:33.167",
-  "cpeLastModified": "2021-04-30T20:03:33.167",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:st:stm32f070c6_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "A9C42C4F-24CA-45E9-86AC-48F48791B767"
-    }
-  ]
+	"criteria": "cpe:2.3:o:st:stm32f070c6_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5E778F9F-7A39-4FE7-8AF6-2558F9587859",
+	"created": "2021-04-30T20:03:33.167",
+	"lastModified": "2021-04-30T20:03:33.167",
+	"cpeLastModified": "2021-04-30T20:03:33.167",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:st:stm32f070c6_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A9C42C4F-24CA-45E9-86AC-48F48791B767"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:dext5:dext5:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "463811D4-6618-43D8-B353-61101582C8A6",
-  "versionEndIncluding": "2.7.1402870",
-  "created": "2020-05-26T13:20:55.290",
-  "lastModified": "2020-05-26T13:20:55.290",
-  "cpeLastModified": "2020-05-27T20:25:26.833",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:dext5:dext5:2.7.1402870:*:*:*:*:*:*:*",
-      "cpeNameId": "04C3DEB8-FFFC-447F-BFE7-CCB4E5AB6B15"
-    }
-  ]
+	"criteria": "cpe:2.3:a:dext5:dext5:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "463811D4-6618-43D8-B353-61101582C8A6",
+	"versionEndIncluding": "2.7.1402870",
+	"created": "2020-05-26T13:20:55.290",
+	"lastModified": "2020-05-26T13:20:55.290",
+	"cpeLastModified": "2020-05-27T20:25:26.833",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:dext5:dext5:2.7.1402870:*:*:*:*:*:*:*",
+			"cpeNameId": "04C3DEB8-FFFC-447F-BFE7-CCB4E5AB6B15"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:dell:bsafe_ssl-j:6.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "514F2922-83FA-4A51-BA74-A17175643BE6",
-  "created": "2021-12-09T18:31:13.533",
-  "lastModified": "2021-12-09T18:31:13.533",
-  "cpeLastModified": "2021-12-09T18:31:15.063",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:dell:bsafe_ssl-j:6.0:*:*:*:*:*:*:*",
-      "cpeNameId": "B635B9FC-D8B3-426F-8322-801C768A8ABF"
-    }
-  ]
+	"criteria": "cpe:2.3:a:dell:bsafe_ssl-j:6.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "514F2922-83FA-4A51-BA74-A17175643BE6",
+	"created": "2021-12-09T18:31:13.533",
+	"lastModified": "2021-12-09T18:31:13.533",
+	"cpeLastModified": "2021-12-09T18:31:15.063",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:dell:bsafe_ssl-j:6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B635B9FC-D8B3-426F-8322-801C768A8ABF"
+		}
+	]
 }

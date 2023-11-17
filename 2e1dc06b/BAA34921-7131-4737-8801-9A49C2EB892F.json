@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:pentium_silver_n6005_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "BAA34921-7131-4737-8801-9A49C2EB892F",
-  "versionEndExcluding": "13.50.20",
-  "created": "2022-06-09T16:22:59.507",
-  "lastModified": "2022-06-09T16:22:59.507",
-  "cpeLastModified": "2021-11-22T17:25:59.927",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:pentium_silver_n6005_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "656E2142-E823-4505-B1B4-8239C0E45746"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:pentium_silver_n6005_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BAA34921-7131-4737-8801-9A49C2EB892F",
+	"versionEndExcluding": "13.50.20",
+	"created": "2022-06-09T16:22:59.507",
+	"lastModified": "2022-06-09T16:22:59.507",
+	"cpeLastModified": "2021-11-22T17:25:59.927",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:pentium_silver_n6005_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "656E2142-E823-4505-B1B4-8239C0E45746"
+		}
+	]
 }

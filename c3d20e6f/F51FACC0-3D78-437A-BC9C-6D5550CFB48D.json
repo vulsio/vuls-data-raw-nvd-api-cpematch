@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:apache:skywalking:6.6.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F51FACC0-3D78-437A-BC9C-6D5550CFB48D",
-  "created": "2020-08-06T15:08:28.890",
-  "lastModified": "2020-08-06T15:08:28.890",
-  "cpeLastModified": "2020-08-06T15:08:28.903",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:apache:skywalking:6.6.0:*:*:*:*:*:*:*",
-      "cpeNameId": "D5EEE643-3126-4BD2-AA45-2EC9A521CEC2"
-    }
-  ]
+	"criteria": "cpe:2.3:a:apache:skywalking:6.6.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F51FACC0-3D78-437A-BC9C-6D5550CFB48D",
+	"created": "2020-08-06T15:08:28.890",
+	"lastModified": "2020-08-06T15:08:28.890",
+	"cpeLastModified": "2020-08-06T15:08:28.903",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apache:skywalking:6.6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D5EEE643-3126-4BD2-AA45-2EC9A521CEC2"
+		}
+	]
 }

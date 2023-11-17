@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:intel:nuc_kit_nuc7cjyh_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C52871CB-F5DD-4359-9C40-CA5472E06FF2",
-  "versionEndExcluding": "jyglkcpx.86a.0057",
-  "created": "2021-06-28T15:43:19.727",
-  "lastModified": "2021-06-28T15:43:19.727",
-  "cpeLastModified": "2021-06-28T15:43:19.727",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:nuc_kit_nuc7cjyh_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "4D75A44F-24AA-4859-BD06-2B914D1A1CB0"
-    },
-    {
-      "cpeName": "cpe:2.3:o:intel:nuc_kit_nuc7cjyh_firmware:jyglkcpx.86a.0053:*:*:*:*:*:*:*",
-      "cpeNameId": "C2FED69E-8C7E-4818-84DA-2139AFDB0731"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:nuc_kit_nuc7cjyh_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C52871CB-F5DD-4359-9C40-CA5472E06FF2",
+	"versionEndExcluding": "jyglkcpx.86a.0057",
+	"created": "2021-06-28T15:43:19.727",
+	"lastModified": "2021-06-28T15:43:19.727",
+	"cpeLastModified": "2021-06-28T15:43:19.727",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:nuc_kit_nuc7cjyh_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4D75A44F-24AA-4859-BD06-2B914D1A1CB0"
+		},
+		{
+			"cpeName": "cpe:2.3:o:intel:nuc_kit_nuc7cjyh_firmware:jyglkcpx.86a.0053:*:*:*:*:*:*:*",
+			"cpeNameId": "C2FED69E-8C7E-4818-84DA-2139AFDB0731"
+		}
+	]
 }

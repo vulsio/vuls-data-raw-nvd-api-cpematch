@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:schneider-electric:unity_loader:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0182018C-6154-44CF-AB88-D3C9306AC939",
-  "created": "2022-01-31T19:42:55.933",
-  "lastModified": "2022-01-31T19:42:55.933",
-  "cpeLastModified": "2022-01-31T19:43:33.533",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:schneider-electric:unity_loader:-:*:*:*:*:*:*:*",
-      "cpeNameId": "D8966B76-FAC3-4BF2-AE6F-BD9567A50AF7"
-    }
-  ]
+	"criteria": "cpe:2.3:a:schneider-electric:unity_loader:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0182018C-6154-44CF-AB88-D3C9306AC939",
+	"created": "2022-01-31T19:42:55.933",
+	"lastModified": "2022-01-31T19:42:55.933",
+	"cpeLastModified": "2022-01-31T19:43:33.533",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:schneider-electric:unity_loader:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D8966B76-FAC3-4BF2-AE6F-BD9567A50AF7"
+		}
+	]
 }

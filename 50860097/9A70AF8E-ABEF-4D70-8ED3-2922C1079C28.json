@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:atom_x6427fe_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9A70AF8E-ABEF-4D70-8ED3-2922C1079C28",
-  "versionEndExcluding": "15.40.20",
-  "created": "2022-06-09T15:46:14.890",
-  "lastModified": "2022-06-09T15:46:14.890",
-  "cpeLastModified": "2022-02-11T20:56:53.857",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:atom_x6427fe_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "5FF5CF2B-D6BF-4CE6-8420-14DBEAA3CF6D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:atom_x6427fe_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9A70AF8E-ABEF-4D70-8ED3-2922C1079C28",
+	"versionEndExcluding": "15.40.20",
+	"created": "2022-06-09T15:46:14.890",
+	"lastModified": "2022-06-09T15:46:14.890",
+	"cpeLastModified": "2022-02-11T20:56:53.857",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:atom_x6427fe_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5FF5CF2B-D6BF-4CE6-8420-14DBEAA3CF6D"
+		}
+	]
 }

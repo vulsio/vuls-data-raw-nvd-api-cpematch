@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:jenkins:readonly_parameter:*:*:*:*:*:jenkins:*:*",
-  "matchCriteriaId": "524A3931-6DD1-486D-B73E-D9136FB802D7",
-  "versionEndIncluding": "1.0.0",
-  "created": "2022-06-28T17:17:57.980",
-  "lastModified": "2022-06-28T17:17:57.980",
-  "cpeLastModified": "2022-06-28T17:19:35.883",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:jenkins:readonly_parameter:1.0.0:*:*:*:*:jenkins:*:*",
-      "cpeNameId": "F6572894-4FC3-4AE0-8702-97B82E745CE1"
-    }
-  ]
+	"criteria": "cpe:2.3:a:jenkins:readonly_parameter:*:*:*:*:*:jenkins:*:*",
+	"matchCriteriaId": "524A3931-6DD1-486D-B73E-D9136FB802D7",
+	"versionEndIncluding": "1.0.0",
+	"created": "2022-06-28T17:17:57.980",
+	"lastModified": "2022-06-28T17:17:57.980",
+	"cpeLastModified": "2022-06-28T17:19:35.883",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:jenkins:readonly_parameter:1.0.0:*:*:*:*:jenkins:*:*",
+			"cpeNameId": "F6572894-4FC3-4AE0-8702-97B82E745CE1"
+		}
+	]
 }

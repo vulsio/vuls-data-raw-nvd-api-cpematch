@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:amd:ryzen_5_3450u:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "533144EB-802F-496D-8C09-15AEA537F89B",
-  "created": "2022-11-22T17:20:29.063",
-  "lastModified": "2022-11-22T18:35:56.230",
-  "cpeLastModified": "2022-11-22T18:35:56.230",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:amd:ryzen_5_3450u:-:*:*:*:*:*:*:*",
-      "cpeNameId": "D8E8E186-9E58-41FB-8D1A-1B39D6AA4920"
-    }
-  ]
+	"criteria": "cpe:2.3:h:amd:ryzen_5_3450u:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "533144EB-802F-496D-8C09-15AEA537F89B",
+	"created": "2022-11-22T17:20:29.063",
+	"lastModified": "2022-11-22T18:35:56.230",
+	"cpeLastModified": "2022-11-22T18:35:56.230",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:amd:ryzen_5_3450u:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D8E8E186-9E58-41FB-8D1A-1B39D6AA4920"
+		}
+	]
 }

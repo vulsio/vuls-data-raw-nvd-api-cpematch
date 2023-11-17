@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:http-file-server_project:http-file-server:0.2.4:*:*:*:*:node.js:*:*",
-  "matchCriteriaId": "D86310F7-D3F4-45AA-A001-B1941671FF12",
-  "created": "2019-07-31T03:21:32.233",
-  "lastModified": "2019-07-31T03:21:32.233",
-  "cpeLastModified": "2019-07-31T03:21:32.247",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:http-file-server_project:http-file-server:0.2.4:*:*:*:*:node.js:*:*",
-      "cpeNameId": "427915B1-6A62-4324-9874-E1774600C22F"
-    }
-  ]
+	"criteria": "cpe:2.3:a:http-file-server_project:http-file-server:0.2.4:*:*:*:*:node.js:*:*",
+	"matchCriteriaId": "D86310F7-D3F4-45AA-A001-B1941671FF12",
+	"created": "2019-07-31T03:21:32.233",
+	"lastModified": "2019-07-31T03:21:32.233",
+	"cpeLastModified": "2019-07-31T03:21:32.247",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:http-file-server_project:http-file-server:0.2.4:*:*:*:*:node.js:*:*",
+			"cpeNameId": "427915B1-6A62-4324-9874-E1774600C22F"
+		}
+	]
 }

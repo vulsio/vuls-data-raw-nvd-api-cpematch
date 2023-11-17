@@ -1,23 +1,23 @@
 {
-  "criteria": "cpe:2.3:a:sap:cloud_connector:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A8B82EF7-8C88-4070-83F0-6F7275B02853",
-  "versionEndExcluding": "2.11.3",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:sap:cloud_connector:2.10:*:*:*:*:*:*:*",
-      "cpeNameId": "DCF0D361-3683-41BB-A30E-929D94D70A8B"
-    },
-    {
-      "cpeName": "cpe:2.3:a:sap:cloud_connector:2.10.1:*:*:*:*:*:*:*",
-      "cpeNameId": "74D96352-8E54-4081-B9D8-03FCB4B61786"
-    },
-    {
-      "cpeName": "cpe:2.3:a:sap:cloud_connector:2.11:*:*:*:*:*:*:*",
-      "cpeNameId": "16F73B76-2E11-4672-83FB-5E5785652A1D"
-    }
-  ]
+	"criteria": "cpe:2.3:a:sap:cloud_connector:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A8B82EF7-8C88-4070-83F0-6F7275B02853",
+	"versionEndExcluding": "2.11.3",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sap:cloud_connector:2.10:*:*:*:*:*:*:*",
+			"cpeNameId": "DCF0D361-3683-41BB-A30E-929D94D70A8B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sap:cloud_connector:2.10.1:*:*:*:*:*:*:*",
+			"cpeNameId": "74D96352-8E54-4081-B9D8-03FCB4B61786"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sap:cloud_connector:2.11:*:*:*:*:*:*:*",
+			"cpeNameId": "16F73B76-2E11-4672-83FB-5E5785652A1D"
+		}
+	]
 }

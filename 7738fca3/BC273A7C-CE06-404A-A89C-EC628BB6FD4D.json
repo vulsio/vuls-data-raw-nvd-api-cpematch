@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:fujitsu:sparc_enterprise_m3000_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "BC273A7C-CE06-404A-A89C-EC628BB6FD4D",
-  "created": "2020-02-26T15:17:24.777",
-  "lastModified": "2020-02-26T15:17:24.777",
-  "cpeLastModified": "2020-03-04T15:38:57.973",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:fujitsu:sparc_enterprise_m3000_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "05AFBE4D-C2FB-49E7-ADB2-6FEDE88E8949"
-    }
-  ]
+	"criteria": "cpe:2.3:o:fujitsu:sparc_enterprise_m3000_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BC273A7C-CE06-404A-A89C-EC628BB6FD4D",
+	"created": "2020-02-26T15:17:24.777",
+	"lastModified": "2020-02-26T15:17:24.777",
+	"cpeLastModified": "2020-03-04T15:38:57.973",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:fujitsu:sparc_enterprise_m3000_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "05AFBE4D-C2FB-49E7-ADB2-6FEDE88E8949"
+		}
+	]
 }

@@ -1,84 +1,84 @@
 {
-  "criteria": "cpe:2.3:a:1password:1password:*:*:*:*:*:android:*:*",
-  "matchCriteriaId": "F9FE84D9-EF01-45B9-910A-5090D72AF496",
-  "versionStartIncluding": "7.0",
-  "versionEndExcluding": "7.9.3",
-  "created": "2022-06-24T14:03:10.453",
-  "lastModified": "2022-06-24T14:03:10.453",
-  "cpeLastModified": "2020-01-22T16:10:42.923",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.0:*:*:*:*:android:*:*",
-      "cpeNameId": "233D15D7-BEE6-42C5-8075-94FF542549DA"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.0.1:*:*:*:*:android:*:*",
-      "cpeNameId": "D61ABFEA-75CB-4D50-A53F-CFF90DA31FFC"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.0.2:*:*:*:*:android:*:*",
-      "cpeNameId": "70B2D819-A92E-4E84-8F49-A2BE1950C6E6"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.0.3:*:*:*:*:android:*:*",
-      "cpeNameId": "8D5DAAD6-1B13-458F-8855-9509E8FCC94D"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.0.4:*:*:*:*:android:*:*",
-      "cpeNameId": "7FA04FBE-6D3E-4497-A4F1-9229C1693C1B"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.0.5:*:*:*:*:android:*:*",
-      "cpeNameId": "C79F666D-3879-404E-A250-50DB39496CD7"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.0.6:*:*:*:*:android:*:*",
-      "cpeNameId": "E12C8621-AF53-48FF-B5B1-C476E159A773"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.0.7:*:*:*:*:android:*:*",
-      "cpeNameId": "5FE6525E-47E9-42B1-B84E-3C285F4F6D5F"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.0.8:*:*:*:*:android:*:*",
-      "cpeNameId": "C39F4DCA-FFF5-4F01-A506-4C1B9B438DC1"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.0.9:*:*:*:*:android:*:*",
-      "cpeNameId": "C9467ECA-F190-454A-9683-B66449539B35"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.1:*:*:*:*:android:*:*",
-      "cpeNameId": "C3F41258-BC6E-44E8-8B75-4F328766B97F"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.1.1:*:*:*:*:android:*:*",
-      "cpeNameId": "073E6C71-D9AA-45D1-BEAC-591ACB2DB30C"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.1.2:*:*:*:*:android:*:*",
-      "cpeNameId": "BFFB098C-7A54-4D11-8D8A-DDB3D1D7E9BA"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.1.3:*:*:*:*:android:*:*",
-      "cpeNameId": "FE70EB0F-35AB-470C-BA14-20527F7FD6CF"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.1.4:*:*:*:*:android:*:*",
-      "cpeNameId": "96597113-8FA4-46A1-8357-E81BFD468FEB"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.1.5:*:*:*:*:android:*:*",
-      "cpeNameId": "C5EA1699-5285-4B15-A057-B4D577F0E43B"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.2:*:*:*:*:android:*:*",
-      "cpeNameId": "5400A08A-8959-4FCB-AAC2-3BCE057BEC9D"
-    },
-    {
-      "cpeName": "cpe:2.3:a:1password:1password:7.3:*:*:*:*:android:*:*",
-      "cpeNameId": "D2D3798E-BD55-4D88-A137-B18C5996466B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:1password:1password:*:*:*:*:*:android:*:*",
+	"matchCriteriaId": "F9FE84D9-EF01-45B9-910A-5090D72AF496",
+	"versionStartIncluding": "7.0",
+	"versionEndExcluding": "7.9.3",
+	"created": "2022-06-24T14:03:10.453",
+	"lastModified": "2022-06-24T14:03:10.453",
+	"cpeLastModified": "2020-01-22T16:10:42.923",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.0:*:*:*:*:android:*:*",
+			"cpeNameId": "233D15D7-BEE6-42C5-8075-94FF542549DA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.0.1:*:*:*:*:android:*:*",
+			"cpeNameId": "D61ABFEA-75CB-4D50-A53F-CFF90DA31FFC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.0.2:*:*:*:*:android:*:*",
+			"cpeNameId": "70B2D819-A92E-4E84-8F49-A2BE1950C6E6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.0.3:*:*:*:*:android:*:*",
+			"cpeNameId": "8D5DAAD6-1B13-458F-8855-9509E8FCC94D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.0.4:*:*:*:*:android:*:*",
+			"cpeNameId": "7FA04FBE-6D3E-4497-A4F1-9229C1693C1B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.0.5:*:*:*:*:android:*:*",
+			"cpeNameId": "C79F666D-3879-404E-A250-50DB39496CD7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.0.6:*:*:*:*:android:*:*",
+			"cpeNameId": "E12C8621-AF53-48FF-B5B1-C476E159A773"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.0.7:*:*:*:*:android:*:*",
+			"cpeNameId": "5FE6525E-47E9-42B1-B84E-3C285F4F6D5F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.0.8:*:*:*:*:android:*:*",
+			"cpeNameId": "C39F4DCA-FFF5-4F01-A506-4C1B9B438DC1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.0.9:*:*:*:*:android:*:*",
+			"cpeNameId": "C9467ECA-F190-454A-9683-B66449539B35"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.1:*:*:*:*:android:*:*",
+			"cpeNameId": "C3F41258-BC6E-44E8-8B75-4F328766B97F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.1.1:*:*:*:*:android:*:*",
+			"cpeNameId": "073E6C71-D9AA-45D1-BEAC-591ACB2DB30C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.1.2:*:*:*:*:android:*:*",
+			"cpeNameId": "BFFB098C-7A54-4D11-8D8A-DDB3D1D7E9BA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.1.3:*:*:*:*:android:*:*",
+			"cpeNameId": "FE70EB0F-35AB-470C-BA14-20527F7FD6CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.1.4:*:*:*:*:android:*:*",
+			"cpeNameId": "96597113-8FA4-46A1-8357-E81BFD468FEB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.1.5:*:*:*:*:android:*:*",
+			"cpeNameId": "C5EA1699-5285-4B15-A057-B4D577F0E43B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.2:*:*:*:*:android:*:*",
+			"cpeNameId": "5400A08A-8959-4FCB-AAC2-3BCE057BEC9D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:7.3:*:*:*:*:android:*:*",
+			"cpeNameId": "D2D3798E-BD55-4D88-A137-B18C5996466B"
+		}
+	]
 }

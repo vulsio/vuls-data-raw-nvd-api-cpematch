@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:xeon_e3-1565l_v5_firmware:*:*:*:*:*:windows:*:*",
-  "matchCriteriaId": "A3A91D79-A183-45B0-9AB9-C9ACAB12C2BB",
-  "versionEndExcluding": "26.20.100.6859",
-  "created": "2019-11-26T15:57:36.420",
-  "lastModified": "2019-11-26T15:57:36.420",
-  "cpeLastModified": "2020-01-13T14:16:18.037",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:xeon_e3-1565l_v5_firmware:-:*:*:*:*:windows:*:*",
-      "cpeNameId": "B089FA73-433E-42E5-BA7E-4D61B8129C4C"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:xeon_e3-1565l_v5_firmware:*:*:*:*:*:windows:*:*",
+	"matchCriteriaId": "A3A91D79-A183-45B0-9AB9-C9ACAB12C2BB",
+	"versionEndExcluding": "26.20.100.6859",
+	"created": "2019-11-26T15:57:36.420",
+	"lastModified": "2019-11-26T15:57:36.420",
+	"cpeLastModified": "2020-01-13T14:16:18.037",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:xeon_e3-1565l_v5_firmware:-:*:*:*:*:windows:*:*",
+			"cpeNameId": "B089FA73-433E-42E5-BA7E-4D61B8129C4C"
+		}
+	]
 }

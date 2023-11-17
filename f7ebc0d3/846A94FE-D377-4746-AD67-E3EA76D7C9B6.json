@@ -1,59 +1,59 @@
 {
-  "criteria": "cpe:2.3:a:pingidentity:pingfederate:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "846A94FE-D377-4746-AD67-E3EA76D7C9B6",
-  "versionEndExcluding": "10.3.1",
-  "created": "2021-10-08T18:41:34.113",
-  "lastModified": "2021-10-08T18:41:34.113",
-  "cpeLastModified": "2023-09-28T11:09:50.100",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:pingidentity:pingfederate:-:*:*:*:*:*:*:*",
-      "cpeNameId": "4AEE1975-49E3-4EF8-8783-C0F909744598"
-    },
-    {
-      "cpeName": "cpe:2.3:a:pingidentity:pingfederate:6.10.1:*:*:*:*:*:*:*",
-      "cpeNameId": "23D2DEB4-9776-43A5-8A53-13955AF0DA05"
-    },
-    {
-      "cpeName": "cpe:2.3:a:pingidentity:pingfederate:9.3.0:*:*:*:*:*:*:*",
-      "cpeNameId": "24939257-7128-475C-9EF1-9F5C3FACD879"
-    },
-    {
-      "cpeName": "cpe:2.3:a:pingidentity:pingfederate:9.3.3:-:*:*:*:*:*:*",
-      "cpeNameId": "1C43D8A5-F581-4A41-82F0-E48EC1B89029"
-    },
-    {
-      "cpeName": "cpe:2.3:a:pingidentity:pingfederate:9.3.3:p15:*:*:*:*:*:*",
-      "cpeNameId": "DDB8F054-08D5-42CD-B3B6-8BC59DFE6B5A"
-    },
-    {
-      "cpeName": "cpe:2.3:a:pingidentity:pingfederate:10.0.0:*:*:*:*:*:*:*",
-      "cpeNameId": "0E18AFF2-8528-4859-B80C-583E285B5107"
-    },
-    {
-      "cpeName": "cpe:2.3:a:pingidentity:pingfederate:10.0.12:*:*:*:*:*:*:*",
-      "cpeNameId": "3795BAFE-5DC3-4104-BB30-F9BC83F1630A"
-    },
-    {
-      "cpeName": "cpe:2.3:a:pingidentity:pingfederate:10.1.0:*:*:*:*:*:*:*",
-      "cpeNameId": "654BB727-B205-43AF-83B1-D31ACEDC6A17"
-    },
-    {
-      "cpeName": "cpe:2.3:a:pingidentity:pingfederate:10.1.9:*:*:*:*:*:*:*",
-      "cpeNameId": "77D2124F-A397-449D-8A62-61EC6CF89F1D"
-    },
-    {
-      "cpeName": "cpe:2.3:a:pingidentity:pingfederate:10.2.0:*:*:*:*:*:*:*",
-      "cpeNameId": "957FDF92-A6F0-4D81-8F38-1328BC6370F7"
-    },
-    {
-      "cpeName": "cpe:2.3:a:pingidentity:pingfederate:10.2.7:*:*:*:*:*:*:*",
-      "cpeNameId": "E9D7F210-E876-4C0B-BEB6-FD5762ADB72B"
-    },
-    {
-      "cpeName": "cpe:2.3:a:pingidentity:pingfederate:10.3.0:*:*:*:*:*:*:*",
-      "cpeNameId": "E097E97B-AFBE-41AA-80C6-3EEF326B923A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:pingidentity:pingfederate:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "846A94FE-D377-4746-AD67-E3EA76D7C9B6",
+	"versionEndExcluding": "10.3.1",
+	"created": "2021-10-08T18:41:34.113",
+	"lastModified": "2021-10-08T18:41:34.113",
+	"cpeLastModified": "2023-09-28T11:09:50.100",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:pingidentity:pingfederate:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4AEE1975-49E3-4EF8-8783-C0F909744598"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pingidentity:pingfederate:6.10.1:*:*:*:*:*:*:*",
+			"cpeNameId": "23D2DEB4-9776-43A5-8A53-13955AF0DA05"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pingidentity:pingfederate:9.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "24939257-7128-475C-9EF1-9F5C3FACD879"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pingidentity:pingfederate:9.3.3:-:*:*:*:*:*:*",
+			"cpeNameId": "1C43D8A5-F581-4A41-82F0-E48EC1B89029"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pingidentity:pingfederate:9.3.3:p15:*:*:*:*:*:*",
+			"cpeNameId": "DDB8F054-08D5-42CD-B3B6-8BC59DFE6B5A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pingidentity:pingfederate:10.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "0E18AFF2-8528-4859-B80C-583E285B5107"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pingidentity:pingfederate:10.0.12:*:*:*:*:*:*:*",
+			"cpeNameId": "3795BAFE-5DC3-4104-BB30-F9BC83F1630A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pingidentity:pingfederate:10.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "654BB727-B205-43AF-83B1-D31ACEDC6A17"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pingidentity:pingfederate:10.1.9:*:*:*:*:*:*:*",
+			"cpeNameId": "77D2124F-A397-449D-8A62-61EC6CF89F1D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pingidentity:pingfederate:10.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "957FDF92-A6F0-4D81-8F38-1328BC6370F7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pingidentity:pingfederate:10.2.7:*:*:*:*:*:*:*",
+			"cpeNameId": "E9D7F210-E876-4C0B-BEB6-FD5762ADB72B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pingidentity:pingfederate:10.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E097E97B-AFBE-41AA-80C6-3EEF326B923A"
+		}
+	]
 }

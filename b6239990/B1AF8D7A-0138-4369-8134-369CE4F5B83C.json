@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:cisco:sf350-48_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B1AF8D7A-0138-4369-8134-369CE4F5B83C",
-  "created": "2020-08-18T11:01:29.917",
-  "lastModified": "2020-08-18T11:01:29.917",
-  "cpeLastModified": "2020-08-18T11:01:29.933",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:sf350-48_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "B18DF596-D720-4C6E-A868-3F762F5EC1EB"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:sf350-48_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B1AF8D7A-0138-4369-8134-369CE4F5B83C",
+	"created": "2020-08-18T11:01:29.917",
+	"lastModified": "2020-08-18T11:01:29.917",
+	"cpeLastModified": "2020-08-18T11:01:29.933",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:sf350-48_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B18DF596-D720-4C6E-A868-3F762F5EC1EB"
+		}
+	]
 }

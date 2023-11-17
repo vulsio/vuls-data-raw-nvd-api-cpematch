@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:intel:pentium_g5400t:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6A82B8D9-E751-48DA-948C-231ABEE90B54",
-  "created": "2020-02-24T13:45:50.630",
-  "lastModified": "2020-02-24T13:45:50.630",
-  "cpeLastModified": "2020-04-10T19:58:17.597",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:intel:pentium_g5400t:-:*:*:*:*:*:*:*",
-      "cpeNameId": "8DA1D244-7B57-4667-9324-D1D5635D1BE6"
-    }
-  ]
+	"criteria": "cpe:2.3:h:intel:pentium_g5400t:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6A82B8D9-E751-48DA-948C-231ABEE90B54",
+	"created": "2020-02-24T13:45:50.630",
+	"lastModified": "2020-02-24T13:45:50.630",
+	"cpeLastModified": "2020-04-10T19:58:17.597",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:pentium_g5400t:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8DA1D244-7B57-4667-9324-D1D5635D1BE6"
+		}
+	]
 }

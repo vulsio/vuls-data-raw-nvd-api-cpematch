@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:znc:znc_docker_image:1.6.5-slim:*:*:*:*:*:*:*",
-  "matchCriteriaId": "BD2C8218-2083-45D2-98BE-12B80AB742D1",
-  "created": "2020-12-18T19:22:10.680",
-  "lastModified": "2020-12-18T19:22:10.680",
-  "cpeLastModified": "2020-12-18T19:23:23.557",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:znc:znc_docker_image:1.6.5-slim:*:*:*:*:*:*:*",
-      "cpeNameId": "F27B74DC-CB96-4494-8519-7A9755547929"
-    }
-  ]
+	"criteria": "cpe:2.3:a:znc:znc_docker_image:1.6.5-slim:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BD2C8218-2083-45D2-98BE-12B80AB742D1",
+	"created": "2020-12-18T19:22:10.680",
+	"lastModified": "2020-12-18T19:22:10.680",
+	"cpeLastModified": "2020-12-18T19:23:23.557",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:znc:znc_docker_image:1.6.5-slim:*:*:*:*:*:*:*",
+			"cpeNameId": "F27B74DC-CB96-4494-8519-7A9755547929"
+		}
+	]
 }

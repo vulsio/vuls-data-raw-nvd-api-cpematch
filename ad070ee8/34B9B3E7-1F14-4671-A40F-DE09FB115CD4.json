@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:vostro_3515_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "34B9B3E7-1F14-4671-A40F-DE09FB115CD4",
-  "versionEndExcluding": "1.4.0",
-  "created": "2022-06-07T16:28:23.013",
-  "lastModified": "2022-06-07T16:28:23.013",
-  "cpeLastModified": "2022-06-08T13:14:44.890",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:vostro_3515_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "DE97717F-622D-4A87-A12A-1672F3908F67"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:vostro_3515_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "34B9B3E7-1F14-4671-A40F-DE09FB115CD4",
+	"versionEndExcluding": "1.4.0",
+	"created": "2022-06-07T16:28:23.013",
+	"lastModified": "2022-06-07T16:28:23.013",
+	"cpeLastModified": "2022-06-08T13:14:44.890",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:vostro_3515_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DE97717F-622D-4A87-A12A-1672F3908F67"
+		}
+	]
 }

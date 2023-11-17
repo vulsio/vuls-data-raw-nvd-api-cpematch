@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:okta:active_directory_agent:3.8.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "442B7B70-70D7-488D-BAC4-7B060CCB1388",
-  "created": "2022-09-08T17:10:36.337",
-  "lastModified": "2023-07-24T19:52:31.487",
-  "cpeLastModified": "2022-09-08T17:19:52.930",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:okta:active_directory_agent:3.8.0:*:*:*:*:*:*:*",
-      "cpeNameId": "A3006FF4-AFD9-484F-BC7B-2203D8A19A1B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:okta:active_directory_agent:3.8.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "442B7B70-70D7-488D-BAC4-7B060CCB1388",
+	"created": "2022-09-08T17:10:36.337",
+	"lastModified": "2023-07-24T19:52:31.487",
+	"cpeLastModified": "2022-09-08T17:19:52.930",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:okta:active_directory_agent:3.8.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A3006FF4-AFD9-484F-BC7B-2203D8A19A1B"
+		}
+	]
 }

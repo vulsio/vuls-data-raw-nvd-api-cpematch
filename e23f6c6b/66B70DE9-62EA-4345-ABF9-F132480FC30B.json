@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:fujitsu:serverview_resource_orchestrator:3.1.2:*:*:*:cloud:*:*:*",
-  "matchCriteriaId": "66B70DE9-62EA-4345-ABF9-F132480FC30B",
-  "created": "2020-02-26T18:14:41.230",
-  "lastModified": "2020-02-26T18:14:41.230",
-  "cpeLastModified": "2020-03-04T15:36:58.720",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:fujitsu:serverview_resource_orchestrator:3.1.2:*:*:*:cloud:*:*:*",
-      "cpeNameId": "2266991A-856C-4F70-B45E-3F4DB3DC16E4"
-    }
-  ]
+	"criteria": "cpe:2.3:a:fujitsu:serverview_resource_orchestrator:3.1.2:*:*:*:cloud:*:*:*",
+	"matchCriteriaId": "66B70DE9-62EA-4345-ABF9-F132480FC30B",
+	"created": "2020-02-26T18:14:41.230",
+	"lastModified": "2020-02-26T18:14:41.230",
+	"cpeLastModified": "2020-03-04T15:36:58.720",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:fujitsu:serverview_resource_orchestrator:3.1.2:*:*:*:cloud:*:*:*",
+			"cpeNameId": "2266991A-856C-4F70-B45E-3F4DB3DC16E4"
+		}
+	]
 }

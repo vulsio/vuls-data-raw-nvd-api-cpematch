@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:o:lexmark:xm3250_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "2DAF023F-2390-4C3B-996F-0304F418062E",
-  "versionStartIncluding": "mxtgm.052.200",
-  "versionEndIncluding": "mxtgm.052.204",
-  "created": "2019-07-01T16:05:05.257",
-  "lastModified": "2019-07-01T16:05:05.257",
-  "cpeLastModified": "2019-11-21T21:14:38.373",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lexmark:xm3250_firmware:mxtgm.052.200:*:*:*:*:*:*:*",
-      "cpeNameId": "4967554F-EE39-4793-9E43-DA40BA4B80B8"
-    },
-    {
-      "cpeName": "cpe:2.3:o:lexmark:xm3250_firmware:mxtgm.052.204:*:*:*:*:*:*:*",
-      "cpeNameId": "CBFDF10C-CA80-4B41-861D-892B5C401956"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lexmark:xm3250_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2DAF023F-2390-4C3B-996F-0304F418062E",
+	"versionStartIncluding": "mxtgm.052.200",
+	"versionEndIncluding": "mxtgm.052.204",
+	"created": "2019-07-01T16:05:05.257",
+	"lastModified": "2019-07-01T16:05:05.257",
+	"cpeLastModified": "2019-11-21T21:14:38.373",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lexmark:xm3250_firmware:mxtgm.052.200:*:*:*:*:*:*:*",
+			"cpeNameId": "4967554F-EE39-4793-9E43-DA40BA4B80B8"
+		},
+		{
+			"cpeName": "cpe:2.3:o:lexmark:xm3250_firmware:mxtgm.052.204:*:*:*:*:*:*:*",
+			"cpeNameId": "CBFDF10C-CA80-4B41-861D-892B5C401956"
+		}
+	]
 }

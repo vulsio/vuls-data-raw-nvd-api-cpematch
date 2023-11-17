@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lexmark:xc2130_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7CE2A7C1-FA4C-4BDD-911A-B4E744FBF6CD",
-  "versionEndIncluding": "lw73.gm4.p263",
-  "created": "2020-02-19T13:56:18.273",
-  "lastModified": "2020-02-19T13:56:18.273",
-  "cpeLastModified": "2020-03-06T17:06:15.557",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lexmark:xc2130_firmware:lw73.gm4.p263:*:*:*:*:*:*:*",
-      "cpeNameId": "93933F84-AFB9-4608-A55D-F6E4AAF03934"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lexmark:xc2130_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7CE2A7C1-FA4C-4BDD-911A-B4E744FBF6CD",
+	"versionEndIncluding": "lw73.gm4.p263",
+	"created": "2020-02-19T13:56:18.273",
+	"lastModified": "2020-02-19T13:56:18.273",
+	"cpeLastModified": "2020-03-06T17:06:15.557",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lexmark:xc2130_firmware:lw73.gm4.p263:*:*:*:*:*:*:*",
+			"cpeNameId": "93933F84-AFB9-4608-A55D-F6E4AAF03934"
+		}
+	]
 }

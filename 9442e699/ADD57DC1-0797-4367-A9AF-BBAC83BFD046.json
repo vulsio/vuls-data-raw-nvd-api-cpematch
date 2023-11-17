@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:backblaze:backblaze:*:*:*:*:*:macos:*:*",
-  "matchCriteriaId": "ADD57DC1-0797-4367-A9AF-BBAC83BFD046",
-  "versionEndExcluding": "7.0.1.434",
-  "created": "2020-12-29T20:45:57.723",
-  "lastModified": "2020-12-29T20:45:57.723",
-  "cpeLastModified": "2020-12-30T16:54:41.987",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:backblaze:backblaze:-:*:*:*:*:macos:*:*",
-      "cpeNameId": "33C707EA-F823-4FF2-A0DC-641943623BB8"
-    },
-    {
-      "cpeName": "cpe:2.3:a:backblaze:backblaze:7.0.0.439:*:*:*:*:macos:*:*",
-      "cpeNameId": "97D6B9B1-B0FC-4B97-AD0B-621F670F5897"
-    }
-  ]
+	"criteria": "cpe:2.3:a:backblaze:backblaze:*:*:*:*:*:macos:*:*",
+	"matchCriteriaId": "ADD57DC1-0797-4367-A9AF-BBAC83BFD046",
+	"versionEndExcluding": "7.0.1.434",
+	"created": "2020-12-29T20:45:57.723",
+	"lastModified": "2020-12-29T20:45:57.723",
+	"cpeLastModified": "2020-12-30T16:54:41.987",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:backblaze:backblaze:-:*:*:*:*:macos:*:*",
+			"cpeNameId": "33C707EA-F823-4FF2-A0DC-641943623BB8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:backblaze:backblaze:7.0.0.439:*:*:*:*:macos:*:*",
+			"cpeNameId": "97D6B9B1-B0FC-4B97-AD0B-621F670F5897"
+		}
+	]
 }

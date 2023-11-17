@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:moneyforward:money_forward_for_ymfg:*:*:*:*:*:android:*:*",
-  "matchCriteriaId": "9982DA7F-E4EF-48FC-9F26-EE5EC0C267BA",
-  "versionEndExcluding": "1.5.0",
-  "created": "2021-05-12T15:48:44.843",
-  "lastModified": "2021-05-12T15:48:44.843",
-  "cpeLastModified": "2021-05-12T15:48:44.843",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:moneyforward:money_forward_for_ymfg:-:*:*:*:*:android:*:*",
-      "cpeNameId": "437545B8-0AF2-4FE8-A09F-5BA2114BB9E5"
-    }
-  ]
+	"criteria": "cpe:2.3:a:moneyforward:money_forward_for_ymfg:*:*:*:*:*:android:*:*",
+	"matchCriteriaId": "9982DA7F-E4EF-48FC-9F26-EE5EC0C267BA",
+	"versionEndExcluding": "1.5.0",
+	"created": "2021-05-12T15:48:44.843",
+	"lastModified": "2021-05-12T15:48:44.843",
+	"cpeLastModified": "2021-05-12T15:48:44.843",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:moneyforward:money_forward_for_ymfg:-:*:*:*:*:android:*:*",
+			"cpeNameId": "437545B8-0AF2-4FE8-A09F-5BA2114BB9E5"
+		}
+	]
 }

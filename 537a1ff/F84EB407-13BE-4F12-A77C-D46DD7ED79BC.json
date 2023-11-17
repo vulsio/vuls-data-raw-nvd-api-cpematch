@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:dell:optiplex_7440_aio_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F84EB407-13BE-4F12-A77C-D46DD7ED79BC",
-  "versionEndExcluding": "1.18.0",
-  "created": "2022-09-13T13:55:25.983",
-  "lastModified": "2022-09-13T13:55:25.983",
-  "cpeLastModified": "2021-06-15T15:07:16.633",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:optiplex_7440_aio_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "8E4E4B9C-9340-4291-BB23-E1A9DEA4C259"
-    },
-    {
-      "cpeName": "cpe:2.3:o:dell:optiplex_7440_aio_firmware:1.10.0:*:*:*:*:*:*:*",
-      "cpeNameId": "D9FD69E5-B8EF-4A7B-AAE9-943143843907"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:optiplex_7440_aio_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F84EB407-13BE-4F12-A77C-D46DD7ED79BC",
+	"versionEndExcluding": "1.18.0",
+	"created": "2022-09-13T13:55:25.983",
+	"lastModified": "2022-09-13T13:55:25.983",
+	"cpeLastModified": "2021-06-15T15:07:16.633",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:optiplex_7440_aio_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8E4E4B9C-9340-4291-BB23-E1A9DEA4C259"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:optiplex_7440_aio_firmware:1.10.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D9FD69E5-B8EF-4A7B-AAE9-943143843907"
+		}
+	]
 }

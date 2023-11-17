@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:electronjs:electron:8.5.1:-:*:*:*:*:*:*",
-  "matchCriteriaId": "75B4DDBC-A3B3-4A5A-9D13-177D8E7459CA",
-  "created": "2020-10-08T06:26:26.470",
-  "lastModified": "2020-10-08T06:26:26.470",
-  "cpeLastModified": "2021-01-12T18:12:05.927",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:electronjs:electron:8.5.1:-:*:*:*:*:*:*",
-      "cpeNameId": "3956918A-D0EB-4435-91FF-B2840E337BD0"
-    }
-  ]
+	"criteria": "cpe:2.3:a:electronjs:electron:8.5.1:-:*:*:*:*:*:*",
+	"matchCriteriaId": "75B4DDBC-A3B3-4A5A-9D13-177D8E7459CA",
+	"created": "2020-10-08T06:26:26.470",
+	"lastModified": "2020-10-08T06:26:26.470",
+	"cpeLastModified": "2021-01-12T18:12:05.927",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:electronjs:electron:8.5.1:-:*:*:*:*:*:*",
+			"cpeNameId": "3956918A-D0EB-4435-91FF-B2840E337BD0"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:pagewide_377dw_j9v80b_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C34C2C72-A7A5-4554-8FF2-7EE2501444BE",
-  "versionEndExcluding": "001.1937d",
-  "created": "2021-11-12T17:38:29.810",
-  "lastModified": "2021-11-12T17:38:29.810",
-  "cpeLastModified": "2021-11-15T16:11:18.017",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:pagewide_377dw_j9v80b_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "F85FCD57-5ED1-44E1-B176-812FEE2FB2BE"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:pagewide_377dw_j9v80b_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C34C2C72-A7A5-4554-8FF2-7EE2501444BE",
+	"versionEndExcluding": "001.1937d",
+	"created": "2021-11-12T17:38:29.810",
+	"lastModified": "2021-11-12T17:38:29.810",
+	"cpeLastModified": "2021-11-15T16:11:18.017",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:pagewide_377dw_j9v80b_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F85FCD57-5ED1-44E1-B176-812FEE2FB2BE"
+		}
+	]
 }

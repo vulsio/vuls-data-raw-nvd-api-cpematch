@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:gnu:automake:1.5:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8A8CECA9-BDE4-4E0D-9D1A-3A8B705736CF",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:gnu:automake:1.5:*:*:*:*:*:*:*",
-      "cpeNameId": "0596171E-F971-4D95-BE15-A16DB5B32044"
-    }
-  ]
+	"criteria": "cpe:2.3:a:gnu:automake:1.5:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8A8CECA9-BDE4-4E0D-9D1A-3A8B705736CF",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:gnu:automake:1.5:*:*:*:*:*:*:*",
+			"cpeNameId": "0596171E-F971-4D95-BE15-A16DB5B32044"
+		}
+	]
 }

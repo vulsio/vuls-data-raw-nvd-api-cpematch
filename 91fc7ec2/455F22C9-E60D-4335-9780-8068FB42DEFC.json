@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:huawei:changxiang_8_plus_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "455F22C9-E60D-4335-9780-8068FB42DEFC",
-  "versionEndExcluding": "9.1.0.111\\(c00e111r1p6t8\\)",
-  "created": "2019-12-20T18:36:05.533",
-  "lastModified": "2019-12-20T18:36:05.533",
-  "cpeLastModified": "2020-01-05T14:30:16.230",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:huawei:changxiang_8_plus_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "C28874B7-3849-45B2-A87A-5E6D7CCEE13E"
-    }
-  ]
+	"criteria": "cpe:2.3:o:huawei:changxiang_8_plus_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "455F22C9-E60D-4335-9780-8068FB42DEFC",
+	"versionEndExcluding": "9.1.0.111\\(c00e111r1p6t8\\)",
+	"created": "2019-12-20T18:36:05.533",
+	"lastModified": "2019-12-20T18:36:05.533",
+	"cpeLastModified": "2020-01-05T14:30:16.230",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:huawei:changxiang_8_plus_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C28874B7-3849-45B2-A87A-5E6D7CCEE13E"
+		}
+	]
 }

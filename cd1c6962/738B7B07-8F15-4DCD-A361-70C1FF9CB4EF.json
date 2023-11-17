@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:amd:ryzen_3_4300u_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "738B7B07-8F15-4DCD-A361-70C1FF9CB4EF",
-  "created": "2022-06-28T14:23:37.777",
-  "lastModified": "2022-07-25T18:13:21.980",
-  "cpeLastModified": "2022-06-29T11:15:28.933",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:amd:ryzen_3_4300u_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "33565826-AC15-4762-9DAE-BD01245011AD"
-    }
-  ]
+	"criteria": "cpe:2.3:o:amd:ryzen_3_4300u_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "738B7B07-8F15-4DCD-A361-70C1FF9CB4EF",
+	"created": "2022-06-28T14:23:37.777",
+	"lastModified": "2022-07-25T18:13:21.980",
+	"cpeLastModified": "2022-06-29T11:15:28.933",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_3_4300u_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "33565826-AC15-4762-9DAE-BD01245011AD"
+		}
+	]
 }

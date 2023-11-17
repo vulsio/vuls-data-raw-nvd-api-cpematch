@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:checkpoint:ssl_network_extender:r80.20sp:take_314:*:*:*:-:*:*",
-  "matchCriteriaId": "C3CACD7D-9980-46FF-88A6-28C8C6ACFB1A",
-  "created": "2022-12-05T14:58:29.487",
-  "lastModified": "2022-12-05T15:30:55.470",
-  "cpeLastModified": "2022-12-05T15:30:55.470",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:checkpoint:ssl_network_extender:r80.20sp:take_314:*:*:*:-:*:*",
-      "cpeNameId": "927B2F42-0840-4B6E-901B-753235BAB63F"
-    }
-  ]
+	"criteria": "cpe:2.3:a:checkpoint:ssl_network_extender:r80.20sp:take_314:*:*:*:-:*:*",
+	"matchCriteriaId": "C3CACD7D-9980-46FF-88A6-28C8C6ACFB1A",
+	"created": "2022-12-05T14:58:29.487",
+	"lastModified": "2022-12-05T15:30:55.470",
+	"cpeLastModified": "2022-12-05T15:30:55.470",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:checkpoint:ssl_network_extender:r80.20sp:take_314:*:*:*:-:*:*",
+			"cpeNameId": "927B2F42-0840-4B6E-901B-753235BAB63F"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:fujifilm:apeosport_c2560_g_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "223C789F-1229-43EA-94C9-A20AD09FE201",
-  "versionEndExcluding": "1.60.9",
-  "created": "2022-03-21T14:35:24.570",
-  "lastModified": "2022-03-21T14:35:24.570",
-  "cpeLastModified": "2022-03-23T15:02:24.853",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:fujifilm:apeosport_c2560_g_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "689A8A0B-C737-4573-9511-7C08E951F400"
-    }
-  ]
+	"criteria": "cpe:2.3:o:fujifilm:apeosport_c2560_g_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "223C789F-1229-43EA-94C9-A20AD09FE201",
+	"versionEndExcluding": "1.60.9",
+	"created": "2022-03-21T14:35:24.570",
+	"lastModified": "2022-03-21T14:35:24.570",
+	"cpeLastModified": "2022-03-23T15:02:24.853",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:fujifilm:apeosport_c2560_g_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "689A8A0B-C737-4573-9511-7C08E951F400"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:laserjet_enterprise_m806_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "3982B9A7-37BB-4D20-A8A8-F5056C45037F",
-  "versionEndExcluding": "11.0.19240.832",
-  "created": "2021-11-24T02:17:25.880",
-  "lastModified": "2021-11-24T02:17:25.880",
-  "cpeLastModified": "2021-11-24T19:58:36.967",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:laserjet_enterprise_m806_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E79888F0-A226-4CA2-B64E-46137424E567"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:laserjet_enterprise_m806_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3982B9A7-37BB-4D20-A8A8-F5056C45037F",
+	"versionEndExcluding": "11.0.19240.832",
+	"created": "2021-11-24T02:17:25.880",
+	"lastModified": "2021-11-24T02:17:25.880",
+	"cpeLastModified": "2021-11-24T19:58:36.967",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:laserjet_enterprise_m806_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E79888F0-A226-4CA2-B64E-46137424E567"
+		}
+	]
 }

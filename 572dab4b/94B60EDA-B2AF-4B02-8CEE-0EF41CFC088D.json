@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:weidmueller:ie-sw-pl10m-3gt-7tx_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "94B60EDA-B2AF-4B02-8CEE-0EF41CFC088D",
-  "versionEndIncluding": "3.3.16",
-  "created": "2019-12-07T02:32:26.010",
-  "lastModified": "2019-12-07T02:32:26.010",
-  "cpeLastModified": "2022-04-01T15:48:41.350",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:weidmueller:ie-sw-pl10m-3gt-7tx_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "6EFB9279-CA46-46B6-B8A4-A1056DFCB747"
-    }
-  ]
+	"criteria": "cpe:2.3:o:weidmueller:ie-sw-pl10m-3gt-7tx_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "94B60EDA-B2AF-4B02-8CEE-0EF41CFC088D",
+	"versionEndIncluding": "3.3.16",
+	"created": "2019-12-07T02:32:26.010",
+	"lastModified": "2019-12-07T02:32:26.010",
+	"cpeLastModified": "2022-04-01T15:48:41.350",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:weidmueller:ie-sw-pl10m-3gt-7tx_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6EFB9279-CA46-46B6-B8A4-A1056DFCB747"
+		}
+	]
 }

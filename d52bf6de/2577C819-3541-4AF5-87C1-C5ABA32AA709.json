@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:xeon_d-1543n_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "2577C819-3541-4AF5-87C1-C5ABA32AA709",
-  "created": "2019-11-18T16:36:04.030",
-  "lastModified": "2023-02-24T19:24:33.533",
-  "cpeLastModified": "2020-03-23T18:00:24.583",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:xeon_d-1543n_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "12353D5A-2C67-497E-A1E0-F18AA583A10D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:xeon_d-1543n_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2577C819-3541-4AF5-87C1-C5ABA32AA709",
+	"created": "2019-11-18T16:36:04.030",
+	"lastModified": "2023-02-24T19:24:33.533",
+	"cpeLastModified": "2020-03-23T18:00:24.583",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:xeon_d-1543n_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "12353D5A-2C67-497E-A1E0-F18AA583A10D"
+		}
+	]
 }

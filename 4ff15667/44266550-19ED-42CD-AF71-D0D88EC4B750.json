@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:zte:zxcdn_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "44266550-19ED-42CD-AF71-D0D88EC4B750",
-  "versionEndExcluding": "zxcdn-iamv8.01.01.02",
-  "created": "2022-05-17T18:27:03.450",
-  "lastModified": "2022-10-05T16:19:14.363",
-  "cpeLastModified": "2022-10-05T16:19:14.363",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:zte:zxcdn_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "D571FDB9-CF4F-43F6-BADD-D906842AF792"
-    }
-  ]
+	"criteria": "cpe:2.3:o:zte:zxcdn_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "44266550-19ED-42CD-AF71-D0D88EC4B750",
+	"versionEndExcluding": "zxcdn-iamv8.01.01.02",
+	"created": "2022-05-17T18:27:03.450",
+	"lastModified": "2022-10-05T16:19:14.363",
+	"cpeLastModified": "2022-10-05T16:19:14.363",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:zte:zxcdn_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D571FDB9-CF4F-43F6-BADD-D906842AF792"
+		}
+	]
 }

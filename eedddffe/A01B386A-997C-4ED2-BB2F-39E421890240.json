@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:moxa:nport_6650-32-48v_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A01B386A-997C-4ED2-BB2F-39E421890240",
-  "versionEndIncluding": "1.21",
-  "created": "2023-11-06T19:27:24.287",
-  "lastModified": "2023-11-07T17:16:58.993",
-  "cpeLastModified": "2023-11-07T17:16:58.993",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:moxa:nport_6650-32-48v_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "17E87DAC-D56C-4F4F-B9B2-3980B171C138"
-    },
-    {
-      "cpeName": "cpe:2.3:o:moxa:nport_6650-32-48v_firmware:1.21:*:*:*:*:*:*:*",
-      "cpeNameId": "3D20B0BE-5689-4458-8BFC-076E2460385C"
-    }
-  ]
+	"criteria": "cpe:2.3:o:moxa:nport_6650-32-48v_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A01B386A-997C-4ED2-BB2F-39E421890240",
+	"versionEndIncluding": "1.21",
+	"created": "2023-11-06T19:27:24.287",
+	"lastModified": "2023-11-07T17:16:58.993",
+	"cpeLastModified": "2023-11-07T17:16:58.993",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:moxa:nport_6650-32-48v_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "17E87DAC-D56C-4F4F-B9B2-3980B171C138"
+		},
+		{
+			"cpeName": "cpe:2.3:o:moxa:nport_6650-32-48v_firmware:1.21:*:*:*:*:*:*:*",
+			"cpeNameId": "3D20B0BE-5689-4458-8BFC-076E2460385C"
+		}
+	]
 }

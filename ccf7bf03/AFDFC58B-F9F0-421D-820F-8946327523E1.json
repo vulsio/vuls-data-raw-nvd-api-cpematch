@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:bachmann:mpc293_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AFDFC58B-F9F0-421D-820F-8946327523E1",
-  "versionStartIncluding": "1.06.14",
-  "created": "2022-06-06T14:04:21.270",
-  "lastModified": "2022-06-06T14:04:21.270",
-  "cpeLastModified": "2022-06-06T17:04:22.433",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:bachmann:mpc293_firmware:1.06.14:*:*:*:*:*:*:*",
-      "cpeNameId": "07D0B159-F873-48B7-BA8B-E311FB625E70"
-    }
-  ]
+	"criteria": "cpe:2.3:o:bachmann:mpc293_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AFDFC58B-F9F0-421D-820F-8946327523E1",
+	"versionStartIncluding": "1.06.14",
+	"created": "2022-06-06T14:04:21.270",
+	"lastModified": "2022-06-06T14:04:21.270",
+	"cpeLastModified": "2022-06-06T17:04:22.433",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:bachmann:mpc293_firmware:1.06.14:*:*:*:*:*:*:*",
+			"cpeNameId": "07D0B159-F873-48B7-BA8B-E311FB625E70"
+		}
+	]
 }

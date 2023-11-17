@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:instawp:instawp_connect:*:*:*:*:*:wordpress:*:*",
-  "matchCriteriaId": "CA84D292-8449-4A87-8D0A-84D08318737F",
-  "versionEndIncluding": "0.0.9.18",
-  "created": "2023-08-02T14:13:04.430",
-  "lastModified": "2023-08-02T14:13:04.430",
-  "cpeLastModified": "2023-08-03T02:18:52.370",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:instawp:instawp_connect:0.0.9.18:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "BFF029DA-3BBC-4336-9B3E-1B4AD257310E"
-    }
-  ]
+	"criteria": "cpe:2.3:a:instawp:instawp_connect:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "CA84D292-8449-4A87-8D0A-84D08318737F",
+	"versionEndIncluding": "0.0.9.18",
+	"created": "2023-08-02T14:13:04.430",
+	"lastModified": "2023-08-02T14:13:04.430",
+	"cpeLastModified": "2023-08-03T02:18:52.370",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.0.9.18:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BFF029DA-3BBC-4336-9B3E-1B4AD257310E"
+		}
+	]
 }

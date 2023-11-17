@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:bitcoin:bitcoin_core:0.6.2:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AAD1B466-3E8D-4179-8AEE-07E51B04D396",
-  "created": "2020-03-18T17:29:12.267",
-  "lastModified": "2020-03-18T17:29:12.267",
-  "cpeLastModified": "2020-03-18T17:29:12.267",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.6.2:*:*:*:*:*:*:*",
-      "cpeNameId": "DD76C00D-475E-400B-B9F1-DF87DCD95D19"
-    }
-  ]
+	"criteria": "cpe:2.3:a:bitcoin:bitcoin_core:0.6.2:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AAD1B466-3E8D-4179-8AEE-07E51B04D396",
+	"created": "2020-03-18T17:29:12.267",
+	"lastModified": "2020-03-18T17:29:12.267",
+	"cpeLastModified": "2020-03-18T17:29:12.267",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.6.2:*:*:*:*:*:*:*",
+			"cpeNameId": "DD76C00D-475E-400B-B9F1-DF87DCD95D19"
+		}
+	]
 }

@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:hashicorp:consul:*:*:*:*:-:*:*:*",
-  "matchCriteriaId": "9D592391-F006-4F99-BF39-DAA3D2B86305",
-  "versionStartIncluding": "1.15.0",
-  "versionEndExcluding": "1.15.3",
-  "created": "2023-06-12T14:16:55.303",
-  "lastModified": "2023-06-12T14:16:55.303",
-  "cpeLastModified": "2023-07-21T22:07:15.803",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:hashicorp:consul:1.15.0:*:*:*:-:*:*:*",
-      "cpeNameId": "524724E8-732F-47A0-8AC0-A6111F2AE9DA"
-    }
-  ]
+	"criteria": "cpe:2.3:a:hashicorp:consul:*:*:*:*:-:*:*:*",
+	"matchCriteriaId": "9D592391-F006-4F99-BF39-DAA3D2B86305",
+	"versionStartIncluding": "1.15.0",
+	"versionEndExcluding": "1.15.3",
+	"created": "2023-06-12T14:16:55.303",
+	"lastModified": "2023-06-12T14:16:55.303",
+	"cpeLastModified": "2023-07-21T22:07:15.803",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:hashicorp:consul:1.15.0:*:*:*:-:*:*:*",
+			"cpeNameId": "524724E8-732F-47A0-8AC0-A6111F2AE9DA"
+		}
+	]
 }

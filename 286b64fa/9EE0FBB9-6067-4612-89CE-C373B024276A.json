@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:samsung:cameralyzer:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9EE0FBB9-6067-4612-89CE-C373B024276A",
-  "versionStartIncluding": "3.3.0",
-  "versionEndExcluding": "3.3.22",
-  "created": "2022-08-09T14:50:44.370",
-  "lastModified": "2022-08-09T14:50:44.370",
-  "cpeLastModified": "2021-07-09T16:11:52.620",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:samsung:cameralyzer:3.3.0:*:*:*:*:*:*:*",
-      "cpeNameId": "E1D6D4C8-B554-474F-A8D5-79EFF095F9D1"
-    }
-  ]
+	"criteria": "cpe:2.3:a:samsung:cameralyzer:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9EE0FBB9-6067-4612-89CE-C373B024276A",
+	"versionStartIncluding": "3.3.0",
+	"versionEndExcluding": "3.3.22",
+	"created": "2022-08-09T14:50:44.370",
+	"lastModified": "2022-08-09T14:50:44.370",
+	"cpeLastModified": "2021-07-09T16:11:52.620",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:samsung:cameralyzer:3.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E1D6D4C8-B554-474F-A8D5-79EFF095F9D1"
+		}
+	]
 }

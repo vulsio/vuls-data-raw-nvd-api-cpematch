@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:badgermeter:moni\\:\\:tool:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4B598365-9A76-412F-8FF0-7D4C4786C234",
-  "versionEndExcluding": "4.2",
-  "created": "2022-11-07T16:27:33.840",
-  "lastModified": "2022-11-07T17:29:18.050",
-  "cpeLastModified": "2022-11-07T17:29:18.050",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:badgermeter:moni\\:\\:tool:-:*:*:*:*:*:*:*",
-      "cpeNameId": "DEB7989A-C94D-4E1A-933D-77B8A99059EF"
-    }
-  ]
+	"criteria": "cpe:2.3:a:badgermeter:moni\\:\\:tool:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4B598365-9A76-412F-8FF0-7D4C4786C234",
+	"versionEndExcluding": "4.2",
+	"created": "2022-11-07T16:27:33.840",
+	"lastModified": "2022-11-07T17:29:18.050",
+	"cpeLastModified": "2022-11-07T17:29:18.050",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:badgermeter:moni\\:\\:tool:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DEB7989A-C94D-4E1A-933D-77B8A99059EF"
+		}
+	]
 }

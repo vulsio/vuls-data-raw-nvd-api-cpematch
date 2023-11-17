@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:telegram:messenger:1.8.2:*:*:*:*:android:*:*",
-  "matchCriteriaId": "5DC060B1-22E9-4F07-85E3-F5BE8EB25E98",
-  "created": "2020-05-13T11:54:59.470",
-  "lastModified": "2020-05-13T11:54:59.470",
-  "cpeLastModified": "2020-05-13T11:54:59.533",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:telegram:messenger:1.8.2:*:*:*:*:android:*:*",
-      "cpeNameId": "ACF9E582-3AAB-4503-8C39-ADA548F78851"
-    }
-  ]
+	"criteria": "cpe:2.3:a:telegram:messenger:1.8.2:*:*:*:*:android:*:*",
+	"matchCriteriaId": "5DC060B1-22E9-4F07-85E3-F5BE8EB25E98",
+	"created": "2020-05-13T11:54:59.470",
+	"lastModified": "2020-05-13T11:54:59.470",
+	"cpeLastModified": "2020-05-13T11:54:59.533",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:telegram:messenger:1.8.2:*:*:*:*:android:*:*",
+			"cpeNameId": "ACF9E582-3AAB-4503-8C39-ADA548F78851"
+		}
+	]
 }

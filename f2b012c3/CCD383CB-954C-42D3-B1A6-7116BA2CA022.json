@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:linuxfoundation:containerd:1.3.0:beta2:*:*:*:*:*:*",
-  "matchCriteriaId": "CCD383CB-954C-42D3-B1A6-7116BA2CA022",
-  "created": "2020-10-19T17:22:45.600",
-  "lastModified": "2020-10-19T17:22:45.600",
-  "cpeLastModified": "2020-12-02T16:05:23.587",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:linuxfoundation:containerd:1.3.0:beta2:*:*:*:*:*:*",
-      "cpeNameId": "CCCDA530-AABB-46C8-A521-CBFAC492D75E"
-    }
-  ]
+	"criteria": "cpe:2.3:a:linuxfoundation:containerd:1.3.0:beta2:*:*:*:*:*:*",
+	"matchCriteriaId": "CCD383CB-954C-42D3-B1A6-7116BA2CA022",
+	"created": "2020-10-19T17:22:45.600",
+	"lastModified": "2020-10-19T17:22:45.600",
+	"cpeLastModified": "2020-12-02T16:05:23.587",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:containerd:1.3.0:beta2:*:*:*:*:*:*",
+			"cpeNameId": "CCCDA530-AABB-46C8-A521-CBFAC492D75E"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:internet-soft:ftp_commander:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "449A9315-2C2F-4D5C-92C6-8C7D13444E14",
-  "versionEndIncluding": "8.02",
-  "created": "2020-09-22T15:44:06.967",
-  "lastModified": "2020-09-22T15:44:06.967",
-  "cpeLastModified": "2020-09-22T15:45:58.240",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:internet-soft:ftp_commander:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E94B7932-A443-40E2-A292-A674C755B985"
-    },
-    {
-      "cpeName": "cpe:2.3:a:internet-soft:ftp_commander:8.02:*:*:*:*:*:*:*",
-      "cpeNameId": "E05AC9F6-3ACB-4474-A7F5-FE08CA56AA88"
-    }
-  ]
+	"criteria": "cpe:2.3:a:internet-soft:ftp_commander:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "449A9315-2C2F-4D5C-92C6-8C7D13444E14",
+	"versionEndIncluding": "8.02",
+	"created": "2020-09-22T15:44:06.967",
+	"lastModified": "2020-09-22T15:44:06.967",
+	"cpeLastModified": "2020-09-22T15:45:58.240",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:internet-soft:ftp_commander:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E94B7932-A443-40E2-A292-A674C755B985"
+		},
+		{
+			"cpeName": "cpe:2.3:a:internet-soft:ftp_commander:8.02:*:*:*:*:*:*:*",
+			"cpeNameId": "E05AC9F6-3ACB-4474-A7F5-FE08CA56AA88"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:oracle:javafx:2.1:*:*:*:*:*:*:*",
-  "matchCriteriaId": "BBA3A1CE-1531-426A-A600-4DD6FB63D01A",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:oracle:javafx:2.1:*:*:*:*:*:*:*",
-      "cpeNameId": "DAD2FC55-0606-4A8C-85B1-55E1D556AA7E"
-    }
-  ]
+	"criteria": "cpe:2.3:a:oracle:javafx:2.1:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BBA3A1CE-1531-426A-A600-4DD6FB63D01A",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:javafx:2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "DAD2FC55-0606-4A8C-85B1-55E1D556AA7E"
+		}
+	]
 }

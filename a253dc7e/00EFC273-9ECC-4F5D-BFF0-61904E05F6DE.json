@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:zte:zxv10_b860av2.1_chinamobile_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "00EFC273-9ECC-4F5D-BFF0-61904E05F6DE",
-  "versionEndExcluding": "icnt_v1.3.3",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:zte:zxv10_b860av2.1_chinamobile_firmware:bestv_v1.2.2:*:*:*:*:*:*:*",
-      "cpeNameId": "F77CE807-BA9D-4CB8-BB12-F410AC313E2E"
-    },
-    {
-      "cpeName": "cpe:2.3:o:zte:zxv10_b860av2.1_chinamobile_firmware:bestv_v1.2.9:*:*:*:*:*:*:*",
-      "cpeNameId": "DB2AAA41-BE59-4F22-8586-175456566002"
-    }
-  ]
+	"criteria": "cpe:2.3:o:zte:zxv10_b860av2.1_chinamobile_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "00EFC273-9ECC-4F5D-BFF0-61904E05F6DE",
+	"versionEndExcluding": "icnt_v1.3.3",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:zte:zxv10_b860av2.1_chinamobile_firmware:bestv_v1.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "F77CE807-BA9D-4CB8-BB12-F410AC313E2E"
+		},
+		{
+			"cpeName": "cpe:2.3:o:zte:zxv10_b860av2.1_chinamobile_firmware:bestv_v1.2.9:*:*:*:*:*:*:*",
+			"cpeNameId": "DB2AAA41-BE59-4F22-8586-175456566002"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:cisco:unified_ip_phone_8851nr_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "79C63F44-F1B6-47A3-900E-BA9B7A2EDAE3",
-  "versionEndIncluding": "12.8\\(1\\)",
-  "created": "2020-06-23T16:31:44.533",
-  "lastModified": "2020-06-23T16:31:44.533",
-  "cpeLastModified": "2020-08-03T13:51:43.147",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:unified_ip_phone_8851nr_firmware:12.8\\(1\\):*:*:*:*:*:*:*",
-      "cpeNameId": "1CAE2D7C-17B2-4F55-80D1-A257F39F7BFA"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:unified_ip_phone_8851nr_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "79C63F44-F1B6-47A3-900E-BA9B7A2EDAE3",
+	"versionEndIncluding": "12.8\\(1\\)",
+	"created": "2020-06-23T16:31:44.533",
+	"lastModified": "2020-06-23T16:31:44.533",
+	"cpeLastModified": "2020-08-03T13:51:43.147",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:unified_ip_phone_8851nr_firmware:12.8\\(1\\):*:*:*:*:*:*:*",
+			"cpeNameId": "1CAE2D7C-17B2-4F55-80D1-A257F39F7BFA"
+		}
+	]
 }

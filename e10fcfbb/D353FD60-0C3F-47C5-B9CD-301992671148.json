@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:cpanel:cpanel:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D353FD60-0C3F-47C5-B9CD-301992671148",
-  "versionEndIncluding": "11.4.19",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:cpanel:cpanel:-:*:*:*:*:*:*:*",
-      "cpeNameId": "F0737248-155C-4EF5-AB46-16BCBCA2F7AD"
-    }
-  ]
+	"criteria": "cpe:2.3:a:cpanel:cpanel:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D353FD60-0C3F-47C5-B9CD-301992671148",
+	"versionEndIncluding": "11.4.19",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cpanel:cpanel:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F0737248-155C-4EF5-AB46-16BCBCA2F7AD"
+		}
+	]
 }

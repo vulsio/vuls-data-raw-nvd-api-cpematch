@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:i5-4350u_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8B02AD42-95AF-48E9-9198-C5D43446B84E",
-  "created": "2019-06-17T12:30:13.113",
-  "lastModified": "2019-06-17T12:30:13.113",
-  "cpeLastModified": "2020-06-29T13:02:13.950",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:i5-4350u_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "EF5A0F83-798D-4053-BBE1-C57BDC8F9152"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:i5-4350u_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8B02AD42-95AF-48E9-9198-C5D43446B84E",
+	"created": "2019-06-17T12:30:13.113",
+	"lastModified": "2019-06-17T12:30:13.113",
+	"cpeLastModified": "2020-06-29T13:02:13.950",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:i5-4350u_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EF5A0F83-798D-4053-BBE1-C57BDC8F9152"
+		}
+	]
 }

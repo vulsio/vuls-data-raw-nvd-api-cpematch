@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:gnome:gedit:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "54303254-1DFD-4272-AF8F-E06110C856D4",
-  "versionEndIncluding": "3.22.1",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-11-08T20:00:34.670",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:gnome:gedit:3.22.1:*:*:*:*:*:*:*",
-      "cpeNameId": "254CF7E4-A4B7-49E5-9625-4030FDF7233E"
-    }
-  ]
+	"criteria": "cpe:2.3:a:gnome:gedit:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "54303254-1DFD-4272-AF8F-E06110C856D4",
+	"versionEndIncluding": "3.22.1",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-11-08T20:00:34.670",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:gnome:gedit:3.22.1:*:*:*:*:*:*:*",
+			"cpeNameId": "254CF7E4-A4B7-49E5-9625-4030FDF7233E"
+		}
+	]
 }

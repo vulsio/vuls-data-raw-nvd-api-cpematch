@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:huawei:crr-l09_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6FDB7E0B-D284-49CA-8752-5631AD172BD4",
-  "versionEndExcluding": "crr-l09c605b355custc605d003",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2020-04-13T20:15:13.650",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:huawei:crr-l09_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "12123A76-635B-4291-B655-E2B42336E423"
-    },
-    {
-      "cpeName": "cpe:2.3:o:huawei:crr-l09_firmware:crr-l09c432b390:*:*:*:*:*:*:*",
-      "cpeNameId": "FEFDCA25-50D4-44A3-A8A6-BB2E6B161FA1"
-    }
-  ]
+	"criteria": "cpe:2.3:o:huawei:crr-l09_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6FDB7E0B-D284-49CA-8752-5631AD172BD4",
+	"versionEndExcluding": "crr-l09c605b355custc605d003",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2020-04-13T20:15:13.650",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:huawei:crr-l09_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "12123A76-635B-4291-B655-E2B42336E423"
+		},
+		{
+			"cpeName": "cpe:2.3:o:huawei:crr-l09_firmware:crr-l09c432b390:*:*:*:*:*:*:*",
+			"cpeNameId": "FEFDCA25-50D4-44A3-A8A6-BB2E6B161FA1"
+		}
+	]
 }

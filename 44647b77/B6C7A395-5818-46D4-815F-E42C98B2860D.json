@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:sap:hana_extended_application_services:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B6C7A395-5818-46D4-815F-E42C98B2860D",
-  "versionEndExcluding": "1.0.118",
-  "created": "2019-09-11T00:25:49.067",
-  "lastModified": "2019-09-11T00:25:49.067",
-  "cpeLastModified": "2019-09-11T00:25:49.080",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:sap:hana_extended_application_services:1.0:*:*:*:*:*:*:*",
-      "cpeNameId": "343968F3-D7BC-4D29-8FA5-3EBA70B4B10E"
-    }
-  ]
+	"criteria": "cpe:2.3:a:sap:hana_extended_application_services:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B6C7A395-5818-46D4-815F-E42C98B2860D",
+	"versionEndExcluding": "1.0.118",
+	"created": "2019-09-11T00:25:49.067",
+	"lastModified": "2019-09-11T00:25:49.067",
+	"cpeLastModified": "2019-09-11T00:25:49.080",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sap:hana_extended_application_services:1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "343968F3-D7BC-4D29-8FA5-3EBA70B4B10E"
+		}
+	]
 }

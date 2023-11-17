@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:cisco:unified_computing_system:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CDA70855-5DC0-4240-895B-D3A77F964C63",
-  "versionStartIncluding": "4.1",
-  "versionEndExcluding": "4.1\\(1e\\)",
-  "created": "2021-02-25T12:41:09.147",
-  "lastModified": "2021-02-25T12:41:09.147",
-  "cpeLastModified": "2021-02-25T15:46:38.360",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:cisco:unified_computing_system:4.1:*:*:*:*:*:*:*",
-      "cpeNameId": "1CED204C-A0FE-4641-9959-141C9D874687"
-    }
-  ]
+	"criteria": "cpe:2.3:a:cisco:unified_computing_system:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CDA70855-5DC0-4240-895B-D3A77F964C63",
+	"versionStartIncluding": "4.1",
+	"versionEndExcluding": "4.1\\(1e\\)",
+	"created": "2021-02-25T12:41:09.147",
+	"lastModified": "2021-02-25T12:41:09.147",
+	"cpeLastModified": "2021-02-25T15:46:38.360",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:unified_computing_system:4.1:*:*:*:*:*:*:*",
+			"cpeNameId": "1CED204C-A0FE-4641-9959-141C9D874687"
+		}
+	]
 }

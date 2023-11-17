@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:amd:amd_uprof:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6F9786CF-1DE5-4413-8E90-E15625028407",
-  "versionEndExcluding": "3.4.502",
-  "created": "2021-12-03T19:20:23.013",
-  "lastModified": "2021-12-03T19:20:23.013",
-  "cpeLastModified": "2021-12-03T19:20:28.700",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:amd:amd_uprof:3.4.494:*:*:*:*:*:*:*",
-      "cpeNameId": "AC467B72-5C21-44C4-B25E-D347CD7F688A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:amd:amd_uprof:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6F9786CF-1DE5-4413-8E90-E15625028407",
+	"versionEndExcluding": "3.4.502",
+	"created": "2021-12-03T19:20:23.013",
+	"lastModified": "2021-12-03T19:20:23.013",
+	"cpeLastModified": "2021-12-03T19:20:28.700",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:amd:amd_uprof:3.4.494:*:*:*:*:*:*:*",
+			"cpeNameId": "AC467B72-5C21-44C4-B25E-D347CD7F688A"
+		}
+	]
 }

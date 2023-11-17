@@ -1,23 +1,23 @@
 {
-  "criteria": "cpe:2.3:a:adobe:audition:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8C568F6E-F48F-4014-ABA9-26D29F2B6BA9",
-  "versionEndIncluding": "14.4",
-  "created": "2021-12-22T18:31:17.870",
-  "lastModified": "2021-12-22T18:31:17.870",
-  "cpeLastModified": "2022-03-22T17:50:50.443",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:adobe:audition:13.0.5:*:*:*:*:*:*:*",
-      "cpeNameId": "896CA761-C615-4671-8CBB-ECB91D17459A"
-    },
-    {
-      "cpeName": "cpe:2.3:a:adobe:audition:13.0.6:*:*:*:*:*:*:*",
-      "cpeNameId": "761A8271-BBA9-4C00-BC5D-33D23A036A3F"
-    },
-    {
-      "cpeName": "cpe:2.3:a:adobe:audition:14.4:*:*:*:*:*:*:*",
-      "cpeNameId": "80C59506-5E6A-4998-835C-28C967065902"
-    }
-  ]
+	"criteria": "cpe:2.3:a:adobe:audition:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8C568F6E-F48F-4014-ABA9-26D29F2B6BA9",
+	"versionEndIncluding": "14.4",
+	"created": "2021-12-22T18:31:17.870",
+	"lastModified": "2021-12-22T18:31:17.870",
+	"cpeLastModified": "2022-03-22T17:50:50.443",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:adobe:audition:13.0.5:*:*:*:*:*:*:*",
+			"cpeNameId": "896CA761-C615-4671-8CBB-ECB91D17459A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:audition:13.0.6:*:*:*:*:*:*:*",
+			"cpeNameId": "761A8271-BBA9-4C00-BC5D-33D23A036A3F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:audition:14.4:*:*:*:*:*:*:*",
+			"cpeNameId": "80C59506-5E6A-4998-835C-28C967065902"
+		}
+	]
 }

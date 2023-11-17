@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:qualcomm:sdm450_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8F3B5AFF-4AD4-4C10-9E39-C553C7E9E16E",
-  "created": "2019-11-25T17:32:40.117",
-  "lastModified": "2019-11-25T17:32:40.117",
-  "cpeLastModified": "2020-05-04T17:04:44.980",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:qualcomm:sdm450_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E47FDDE6-FD4A-4054-9D42-4DF60BED7294"
-    }
-  ]
+	"criteria": "cpe:2.3:o:qualcomm:sdm450_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8F3B5AFF-4AD4-4C10-9E39-C553C7E9E16E",
+	"created": "2019-11-25T17:32:40.117",
+	"lastModified": "2019-11-25T17:32:40.117",
+	"cpeLastModified": "2020-05-04T17:04:44.980",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:qualcomm:sdm450_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E47FDDE6-FD4A-4054-9D42-4DF60BED7294"
+		}
+	]
 }

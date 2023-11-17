@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:oracle:openjdk:13.0.1:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1704C904-6E0A-4972-BC94-326D8BC6315A",
-  "created": "2020-03-19T14:36:55.870",
-  "lastModified": "2020-03-19T14:36:55.870",
-  "cpeLastModified": "2020-03-19T14:36:55.900",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:oracle:openjdk:13.0.1:*:*:*:*:*:*:*",
-      "cpeNameId": "010D4D5F-C155-4CD8-8292-9084C304B501"
-    }
-  ]
+	"criteria": "cpe:2.3:a:oracle:openjdk:13.0.1:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1704C904-6E0A-4972-BC94-326D8BC6315A",
+	"created": "2020-03-19T14:36:55.870",
+	"lastModified": "2020-03-19T14:36:55.870",
+	"cpeLastModified": "2020-03-19T14:36:55.900",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:openjdk:13.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "010D4D5F-C155-4CD8-8292-9084C304B501"
+		}
+	]
 }

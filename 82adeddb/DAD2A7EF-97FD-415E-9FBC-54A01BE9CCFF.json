@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:huawei:knt_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "DAD2A7EF-97FD-415E-9FBC-54A01BE9CCFF",
-  "versionEndIncluding": "knt-al10c746b160",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:huawei:knt_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "2152161D-6ADA-478A-AB2E-919B7421DC4D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:huawei:knt_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DAD2A7EF-97FD-415E-9FBC-54A01BE9CCFF",
+	"versionEndIncluding": "knt-al10c746b160",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:huawei:knt_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2152161D-6ADA-478A-AB2E-919B7421DC4D"
+		}
+	]
 }

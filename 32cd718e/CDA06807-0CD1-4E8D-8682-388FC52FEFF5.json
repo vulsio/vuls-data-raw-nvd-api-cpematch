@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:kbase:metrics:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CDA06807-0CD1-4E8D-8682-388FC52FEFF5",
-  "versionEndExcluding": "2022-05-22",
-  "created": "2023-01-06T18:56:31.837",
-  "lastModified": "2023-01-06T18:56:31.837",
-  "cpeLastModified": "2023-01-06T18:56:31.837",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:kbase:metrics:-:*:*:*:*:*:*:*",
-      "cpeNameId": "C1BC2082-65C8-48A5-8AFB-517983396FEF"
-    }
-  ]
+	"criteria": "cpe:2.3:a:kbase:metrics:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CDA06807-0CD1-4E8D-8682-388FC52FEFF5",
+	"versionEndExcluding": "2022-05-22",
+	"created": "2023-01-06T18:56:31.837",
+	"lastModified": "2023-01-06T18:56:31.837",
+	"cpeLastModified": "2023-01-06T18:56:31.837",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:kbase:metrics:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C1BC2082-65C8-48A5-8AFB-517983396FEF"
+		}
+	]
 }

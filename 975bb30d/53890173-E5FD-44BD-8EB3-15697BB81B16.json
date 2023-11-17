@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lexmark:mx52x_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "53890173-E5FD-44BD-8EB3-15697BB81B16",
-  "versionEndIncluding": "mxtgm.052.024",
-  "created": "2019-07-01T16:05:04.913",
-  "lastModified": "2019-07-01T16:05:04.913",
-  "cpeLastModified": "2019-11-21T21:14:28.513",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lexmark:mx52x_firmware:mxtgm.052.024:*:*:*:*:*:*:*",
-      "cpeNameId": "2F5D70F9-7A96-4C11-BCA1-593117DDF3E9"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lexmark:mx52x_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "53890173-E5FD-44BD-8EB3-15697BB81B16",
+	"versionEndIncluding": "mxtgm.052.024",
+	"created": "2019-07-01T16:05:04.913",
+	"lastModified": "2019-07-01T16:05:04.913",
+	"cpeLastModified": "2019-11-21T21:14:28.513",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lexmark:mx52x_firmware:mxtgm.052.024:*:*:*:*:*:*:*",
+			"cpeNameId": "2F5D70F9-7A96-4C11-BCA1-593117DDF3E9"
+		}
+	]
 }

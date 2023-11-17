@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:vostro_7510_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4329150D-4AC9-4D30-ACB6-30EE5D07C10A",
-  "versionEndExcluding": "1.4.0",
-  "created": "2022-02-10T17:36:06.597",
-  "lastModified": "2022-02-10T17:36:06.597",
-  "cpeLastModified": "2022-02-16T15:26:01.320",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:vostro_7510_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "5918CF0C-2213-4DCD-93A1-EF0BCFAF850B"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:vostro_7510_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4329150D-4AC9-4D30-ACB6-30EE5D07C10A",
+	"versionEndExcluding": "1.4.0",
+	"created": "2022-02-10T17:36:06.597",
+	"lastModified": "2022-02-10T17:36:06.597",
+	"cpeLastModified": "2022-02-16T15:26:01.320",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:vostro_7510_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5918CF0C-2213-4DCD-93A1-EF0BCFAF850B"
+		}
+	]
 }

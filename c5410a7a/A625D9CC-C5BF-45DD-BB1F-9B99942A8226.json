@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hiwifi:max-c300n_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A625D9CC-C5BF-45DD-BB1F-9B99942A8226",
-  "versionEndIncluding": "2019-12-12",
-  "created": "2020-02-04T20:11:14.987",
-  "lastModified": "2020-02-04T20:11:14.987",
-  "cpeLastModified": "2020-02-10T20:14:43.210",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hiwifi:max-c300n_firmware:2019-12-12:*:*:*:*:*:*:*",
-      "cpeNameId": "27C7A6FB-FB4B-4F11-B062-BDAADBB6BD0A"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hiwifi:max-c300n_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A625D9CC-C5BF-45DD-BB1F-9B99942A8226",
+	"versionEndIncluding": "2019-12-12",
+	"created": "2020-02-04T20:11:14.987",
+	"lastModified": "2020-02-04T20:11:14.987",
+	"cpeLastModified": "2020-02-10T20:14:43.210",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hiwifi:max-c300n_firmware:2019-12-12:*:*:*:*:*:*:*",
+			"cpeNameId": "27C7A6FB-FB4B-4F11-B062-BDAADBB6BD0A"
+		}
+	]
 }

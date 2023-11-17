@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:moxa:oncell_g3110-hspa-t_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "BC3AB286-734A-4FFA-84F5-168A523A5A28",
-  "versionEndIncluding": "1.4",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:moxa:oncell_g3110-hspa-t_firmware:1.4:*:*:*:*:*:*:*",
-      "cpeNameId": "E34B49CE-4195-4FCF-A168-A9347DBBEBC3"
-    }
-  ]
+	"criteria": "cpe:2.3:o:moxa:oncell_g3110-hspa-t_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BC3AB286-734A-4FFA-84F5-168A523A5A28",
+	"versionEndIncluding": "1.4",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:moxa:oncell_g3110-hspa-t_firmware:1.4:*:*:*:*:*:*:*",
+			"cpeNameId": "E34B49CE-4195-4FCF-A168-A9347DBBEBC3"
+		}
+	]
 }

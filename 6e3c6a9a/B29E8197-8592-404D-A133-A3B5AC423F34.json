@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:schneider-electric:modicon_mc80_bmkc8020301_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B29E8197-8592-404D-A133-A3B5AC423F34",
-  "versionEndExcluding": "1.8",
-  "created": "2022-11-29T18:44:37.450",
-  "lastModified": "2022-11-29T18:44:37.450",
-  "cpeLastModified": "2023-08-29T11:10:45.437",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:schneider-electric:modicon_mc80_bmkc8020301_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "9311236E-CA36-4AE8-A282-AA4476D8B281"
-    }
-  ]
+	"criteria": "cpe:2.3:o:schneider-electric:modicon_mc80_bmkc8020301_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B29E8197-8592-404D-A133-A3B5AC423F34",
+	"versionEndExcluding": "1.8",
+	"created": "2022-11-29T18:44:37.450",
+	"lastModified": "2022-11-29T18:44:37.450",
+	"cpeLastModified": "2023-08-29T11:10:45.437",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:schneider-electric:modicon_mc80_bmkc8020301_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9311236E-CA36-4AE8-A282-AA4476D8B281"
+		}
+	]
 }

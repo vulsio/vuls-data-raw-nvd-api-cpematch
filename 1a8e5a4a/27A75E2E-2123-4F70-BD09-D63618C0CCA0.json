@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:qualcomm:qat5522_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "27A75E2E-2123-4F70-BD09-D63618C0CCA0",
-  "created": "2021-01-26T11:59:10.030",
-  "lastModified": "2021-01-26T11:59:10.030",
-  "cpeLastModified": "2021-03-09T22:31:09.510",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:qualcomm:qat5522_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "0B4720B4-ED90-445B-811D-D57E69E07522"
-    }
-  ]
+	"criteria": "cpe:2.3:o:qualcomm:qat5522_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "27A75E2E-2123-4F70-BD09-D63618C0CCA0",
+	"created": "2021-01-26T11:59:10.030",
+	"lastModified": "2021-01-26T11:59:10.030",
+	"cpeLastModified": "2021-03-09T22:31:09.510",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:qualcomm:qat5522_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0B4720B4-ED90-445B-811D-D57E69E07522"
+		}
+	]
 }

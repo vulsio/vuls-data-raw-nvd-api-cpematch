@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:mcafee:virusscan_enterprise:8.8:patch1:*:*:*:windows:*:*",
-  "matchCriteriaId": "66F4B2B4-93EF-4BF2-A949-4EABB6E2D5CD",
-  "created": "2020-05-15T12:24:36.340",
-  "lastModified": "2020-05-15T12:24:36.340",
-  "cpeLastModified": "2020-05-15T14:23:40.720",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:mcafee:virusscan_enterprise:8.8:patch1:*:*:*:windows:*:*",
-      "cpeNameId": "08BB3CC9-556A-4AC6-BFCA-05C581BE0F2C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:mcafee:virusscan_enterprise:8.8:patch1:*:*:*:windows:*:*",
+	"matchCriteriaId": "66F4B2B4-93EF-4BF2-A949-4EABB6E2D5CD",
+	"created": "2020-05-15T12:24:36.340",
+	"lastModified": "2020-05-15T12:24:36.340",
+	"cpeLastModified": "2020-05-15T14:23:40.720",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:mcafee:virusscan_enterprise:8.8:patch1:*:*:*:windows:*:*",
+			"cpeNameId": "08BB3CC9-556A-4AC6-BFCA-05C581BE0F2C"
+		}
+	]
 }

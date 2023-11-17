@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:siemens:6gk5766-1je00-3da0_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "800E0542-02E5-4390-9AF0-82F3DD0B2523",
-  "versionEndExcluding": "1.2",
-  "created": "2022-04-08T19:08:36.337",
-  "lastModified": "2022-04-08T19:08:36.337",
-  "cpeLastModified": "2022-05-13T20:54:03.730",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:6gk5766-1je00-3da0_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "2F890AF4-B49C-4FC4-8716-121CCD169F43"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:6gk5766-1je00-3da0_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "800E0542-02E5-4390-9AF0-82F3DD0B2523",
+	"versionEndExcluding": "1.2",
+	"created": "2022-04-08T19:08:36.337",
+	"lastModified": "2022-04-08T19:08:36.337",
+	"cpeLastModified": "2022-05-13T20:54:03.730",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:6gk5766-1je00-3da0_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2F890AF4-B49C-4FC4-8716-121CCD169F43"
+		}
+	]
 }

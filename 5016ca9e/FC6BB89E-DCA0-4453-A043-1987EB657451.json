@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:oracle:webcenter_content:12.2.1.4.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FC6BB89E-DCA0-4453-A043-1987EB657451",
-  "created": "2022-07-25T15:57:59.930",
-  "lastModified": "2022-07-25T15:57:59.930",
-  "cpeLastModified": "2022-07-26T13:19:45.320",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:oracle:webcenter_content:12.2.1.4.0:*:*:*:*:*:*:*",
-      "cpeNameId": "15730A53-2C7B-4567-9213-C75054406807"
-    }
-  ]
+	"criteria": "cpe:2.3:a:oracle:webcenter_content:12.2.1.4.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FC6BB89E-DCA0-4453-A043-1987EB657451",
+	"created": "2022-07-25T15:57:59.930",
+	"lastModified": "2022-07-25T15:57:59.930",
+	"cpeLastModified": "2022-07-26T13:19:45.320",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:webcenter_content:12.2.1.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "15730A53-2C7B-4567-9213-C75054406807"
+		}
+	]
 }

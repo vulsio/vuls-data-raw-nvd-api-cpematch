@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:mcafee:endpoint_security:10.6.1:october_2019:*:*:*:windows:*:*",
-  "matchCriteriaId": "154181E9-8BF3-4D3F-A683-25BFE85A9FC0",
-  "created": "2021-04-26T13:56:50.487",
-  "lastModified": "2021-04-26T13:56:50.487",
-  "cpeLastModified": "2021-04-26T13:59:32.843",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:mcafee:endpoint_security:10.6.1:october_2019:*:*:*:windows:*:*",
-      "cpeNameId": "BAC233E6-CE53-4F4B-9FFC-F6949200E109"
-    }
-  ]
+	"criteria": "cpe:2.3:a:mcafee:endpoint_security:10.6.1:october_2019:*:*:*:windows:*:*",
+	"matchCriteriaId": "154181E9-8BF3-4D3F-A683-25BFE85A9FC0",
+	"created": "2021-04-26T13:56:50.487",
+	"lastModified": "2021-04-26T13:56:50.487",
+	"cpeLastModified": "2021-04-26T13:59:32.843",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:mcafee:endpoint_security:10.6.1:october_2019:*:*:*:windows:*:*",
+			"cpeNameId": "BAC233E6-CE53-4F4B-9FFC-F6949200E109"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:esri:arcgis_for_server:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D49E9A97-5C9A-4975-8DD1-9CF3BB50DEA0",
-  "versionEndIncluding": "10.2.2",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:esri:arcgis_for_server:10.1.1:*:*:*:*:*:*:*",
-      "cpeNameId": "7C7D70F3-8E86-41BB-B13D-3188311DA35B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:esri:arcgis_for_server:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D49E9A97-5C9A-4975-8DD1-9CF3BB50DEA0",
+	"versionEndIncluding": "10.2.2",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:esri:arcgis_for_server:10.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "7C7D70F3-8E86-41BB-B13D-3188311DA35B"
+		}
+	]
 }

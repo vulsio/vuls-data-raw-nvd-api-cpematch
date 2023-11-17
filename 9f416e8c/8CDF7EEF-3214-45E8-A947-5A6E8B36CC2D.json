@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:lenovo:accelerator_application:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8CDF7EEF-3214-45E8-A947-5A6E8B36CC2D",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2020-05-11T12:25:58.100",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:lenovo:accelerator_application:-:*:*:*:*:windows_10:*:*",
-      "cpeNameId": "9DAF3B6F-1D65-45D0-97CD-EDF51166E9DA"
-    }
-  ]
+	"criteria": "cpe:2.3:a:lenovo:accelerator_application:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8CDF7EEF-3214-45E8-A947-5A6E8B36CC2D",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2020-05-11T12:25:58.100",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:lenovo:accelerator_application:-:*:*:*:*:windows_10:*:*",
+			"cpeNameId": "9DAF3B6F-1D65-45D0-97CD-EDF51166E9DA"
+		}
+	]
 }

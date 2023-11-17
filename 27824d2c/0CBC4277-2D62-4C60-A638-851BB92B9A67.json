@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:grandstream:ht818_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0CBC4277-2D62-4C60-A638-851BB92B9A67",
-  "versionEndIncluding": "1.0.17.5",
-  "created": "2020-07-29T19:43:45.033",
-  "lastModified": "2020-07-29T19:43:45.033",
-  "cpeLastModified": "2020-09-11T17:26:41.443",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:grandstream:ht818_firmware:1.0.17.5:*:*:*:*:*:*:*",
-      "cpeNameId": "12723592-310D-4731-ACD0-0FF07DE29C0F"
-    }
-  ]
+	"criteria": "cpe:2.3:o:grandstream:ht818_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0CBC4277-2D62-4C60-A638-851BB92B9A67",
+	"versionEndIncluding": "1.0.17.5",
+	"created": "2020-07-29T19:43:45.033",
+	"lastModified": "2020-07-29T19:43:45.033",
+	"cpeLastModified": "2020-09-11T17:26:41.443",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:grandstream:ht818_firmware:1.0.17.5:*:*:*:*:*:*:*",
+			"cpeNameId": "12723592-310D-4731-ACD0-0FF07DE29C0F"
+		}
+	]
 }

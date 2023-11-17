@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:cisco:catalyst_c9300-24t:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9A46D298-1685-410E-879C-2EBC45C185AC",
-  "created": "2019-10-09T12:58:10.960",
-  "lastModified": "2019-10-09T12:58:10.960",
-  "cpeLastModified": "2020-03-31T18:37:21.610",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:cisco:catalyst_c9300-24t:-:*:*:*:*:*:*:*",
-      "cpeNameId": "C2ECE140-70B3-4F54-8CE8-5889160C342B"
-    }
-  ]
+	"criteria": "cpe:2.3:h:cisco:catalyst_c9300-24t:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9A46D298-1685-410E-879C-2EBC45C185AC",
+	"created": "2019-10-09T12:58:10.960",
+	"lastModified": "2019-10-09T12:58:10.960",
+	"cpeLastModified": "2020-03-31T18:37:21.610",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:cisco:catalyst_c9300-24t:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C2ECE140-70B3-4F54-8CE8-5889160C342B"
+		}
+	]
 }

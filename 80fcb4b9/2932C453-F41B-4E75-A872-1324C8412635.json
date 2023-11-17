@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:pentium_gold_g5600_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "2932C453-F41B-4E75-A872-1324C8412635",
-  "versionEndExcluding": "15.0.40",
-  "created": "2022-06-09T16:19:14.340",
-  "lastModified": "2022-06-09T16:19:14.340",
-  "cpeLastModified": "2020-03-23T17:59:57.217",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:pentium_gold_g5600_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "8ACA2B31-D88D-4387-91FB-FCC377AF74C4"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:pentium_gold_g5600_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2932C453-F41B-4E75-A872-1324C8412635",
+	"versionEndExcluding": "15.0.40",
+	"created": "2022-06-09T16:19:14.340",
+	"lastModified": "2022-06-09T16:19:14.340",
+	"cpeLastModified": "2020-03-23T17:59:57.217",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:pentium_gold_g5600_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8ACA2B31-D88D-4387-91FB-FCC377AF74C4"
+		}
+	]
 }

@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:f5:big-ip_local_traffic_manager:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AD3A9176-70E0-4E5B-B93E-76E6B436ECF8",
-  "versionStartIncluding": "11.6.1",
-  "versionEndExcluding": "11.6.2",
-  "created": "2020-10-01T14:59:03.867",
-  "lastModified": "2020-10-01T14:59:03.867",
-  "cpeLastModified": "2020-10-01T14:59:03.880",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:f5:big-ip_local_traffic_manager:11.6.1:*:*:*:*:*:*:*",
-      "cpeNameId": "3532D097-50C9-4757-98BA-701CDBD138C7"
-    }
-  ]
+	"criteria": "cpe:2.3:a:f5:big-ip_local_traffic_manager:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AD3A9176-70E0-4E5B-B93E-76E6B436ECF8",
+	"versionStartIncluding": "11.6.1",
+	"versionEndExcluding": "11.6.2",
+	"created": "2020-10-01T14:59:03.867",
+	"lastModified": "2020-10-01T14:59:03.867",
+	"cpeLastModified": "2020-10-01T14:59:03.880",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:f5:big-ip_local_traffic_manager:11.6.1:*:*:*:*:*:*:*",
+			"cpeNameId": "3532D097-50C9-4757-98BA-701CDBD138C7"
+		}
+	]
 }

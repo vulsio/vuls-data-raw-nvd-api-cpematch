@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:siemens:simatic_profinet_driver:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "526493E9-EF74-4836-9A8F-134B625035AA",
-  "created": "2019-10-11T14:15:45.763",
-  "lastModified": "2019-10-11T14:15:45.763",
-  "cpeLastModified": "2020-01-16T13:43:43.850",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:siemens:simatic_profinet_driver:-:*:*:*:*:*:*:*",
-      "cpeNameId": "CA08A2BD-F8C4-4490-AF9A-03E7427FDF56"
-    }
-  ]
+	"criteria": "cpe:2.3:h:siemens:simatic_profinet_driver:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "526493E9-EF74-4836-9A8F-134B625035AA",
+	"created": "2019-10-11T14:15:45.763",
+	"lastModified": "2019-10-11T14:15:45.763",
+	"cpeLastModified": "2020-01-16T13:43:43.850",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:siemens:simatic_profinet_driver:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CA08A2BD-F8C4-4490-AF9A-03E7427FDF56"
+		}
+	]
 }

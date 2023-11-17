@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:intel:pentium_g3220t:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "851A04D2-49C2-451C-9CAE-40E98C729EAE",
-  "created": "2020-03-20T17:26:05.060",
-  "lastModified": "2020-03-20T17:26:05.060",
-  "cpeLastModified": "2020-03-26T13:41:21.200",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:intel:pentium_g3220t:-:*:*:*:*:*:*:*",
-      "cpeNameId": "5D009F60-3837-41AE-9FD2-22820131CB40"
-    }
-  ]
+	"criteria": "cpe:2.3:h:intel:pentium_g3220t:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "851A04D2-49C2-451C-9CAE-40E98C729EAE",
+	"created": "2020-03-20T17:26:05.060",
+	"lastModified": "2020-03-20T17:26:05.060",
+	"cpeLastModified": "2020-03-26T13:41:21.200",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:pentium_g3220t:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5D009F60-3837-41AE-9FD2-22820131CB40"
+		}
+	]
 }

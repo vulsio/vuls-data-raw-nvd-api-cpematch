@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:zyxel:zld:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1969FFC2-E9AA-457C-9108-1625BEDD5A49",
-  "versionEndExcluding": "4.55",
-  "created": "2021-01-05T13:39:18.290",
-  "lastModified": "2021-01-05T13:39:18.290",
-  "cpeLastModified": "2021-03-15T13:28:48.963",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:zyxel:zld:4.39:*:*:*:*:*:*:*",
-      "cpeNameId": "754CA436-98E5-4C90-B3ED-48F7D0F37205"
-    }
-  ]
+	"criteria": "cpe:2.3:o:zyxel:zld:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1969FFC2-E9AA-457C-9108-1625BEDD5A49",
+	"versionEndExcluding": "4.55",
+	"created": "2021-01-05T13:39:18.290",
+	"lastModified": "2021-01-05T13:39:18.290",
+	"cpeLastModified": "2021-03-15T13:28:48.963",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:zyxel:zld:4.39:*:*:*:*:*:*:*",
+			"cpeNameId": "754CA436-98E5-4C90-B3ED-48F7D0F37205"
+		}
+	]
 }

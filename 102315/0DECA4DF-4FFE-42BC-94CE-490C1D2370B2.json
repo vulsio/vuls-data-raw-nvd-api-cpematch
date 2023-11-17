@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:ovarro:tbox_lt2-530_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0DECA4DF-4FFE-42BC-94CE-490C1D2370B2",
-  "versionEndExcluding": "1.46",
-  "created": "2022-08-03T16:15:21.957",
-  "lastModified": "2022-08-03T16:15:21.957",
-  "cpeLastModified": "2022-08-03T16:56:50.837",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:ovarro:tbox_lt2-530_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "9B03EB5D-F7C7-4914-A48C-D465D410C45D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:ovarro:tbox_lt2-530_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0DECA4DF-4FFE-42BC-94CE-490C1D2370B2",
+	"versionEndExcluding": "1.46",
+	"created": "2022-08-03T16:15:21.957",
+	"lastModified": "2022-08-03T16:15:21.957",
+	"cpeLastModified": "2022-08-03T16:56:50.837",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:ovarro:tbox_lt2-530_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9B03EB5D-F7C7-4914-A48C-D465D410C45D"
+		}
+	]
 }

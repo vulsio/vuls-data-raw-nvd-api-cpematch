@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:mitsubishielectric:got2000_gt23_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5EF0C5C9-AF4E-4E31-8B41-06FBC0A7FEC5",
-  "versionEndIncluding": "01.39.000",
-  "created": "2022-11-28T14:06:30.937",
-  "lastModified": "2022-11-28T14:06:30.937",
-  "cpeLastModified": "2022-11-28T14:06:30.937",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:mitsubishielectric:got2000_gt23_firmware:01.19.000:*:*:*:*:*:*:*",
-      "cpeNameId": "80EC1175-900C-447D-BBCA-BA7A09DFE4DD"
-    }
-  ]
+	"criteria": "cpe:2.3:o:mitsubishielectric:got2000_gt23_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5EF0C5C9-AF4E-4E31-8B41-06FBC0A7FEC5",
+	"versionEndIncluding": "01.39.000",
+	"created": "2022-11-28T14:06:30.937",
+	"lastModified": "2022-11-28T14:06:30.937",
+	"cpeLastModified": "2022-11-28T14:06:30.937",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:mitsubishielectric:got2000_gt23_firmware:01.19.000:*:*:*:*:*:*:*",
+			"cpeNameId": "80EC1175-900C-447D-BBCA-BA7A09DFE4DD"
+		}
+	]
 }

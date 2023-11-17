@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:python:python:3.8.0:-:*:*:*:*:*:*",
-  "matchCriteriaId": "707791F5-F864-4DE1-8E54-58A00E17B85F",
-  "created": "2019-10-21T19:18:27.150",
-  "lastModified": "2019-10-21T19:18:27.150",
-  "cpeLastModified": "2019-10-29T12:09:43.737",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:python:python:3.8.0:-:*:*:*:*:*:*",
-      "cpeNameId": "08552529-A860-4BE9-8AA6-7A3C90438F1D"
-    }
-  ]
+	"criteria": "cpe:2.3:a:python:python:3.8.0:-:*:*:*:*:*:*",
+	"matchCriteriaId": "707791F5-F864-4DE1-8E54-58A00E17B85F",
+	"created": "2019-10-21T19:18:27.150",
+	"lastModified": "2019-10-21T19:18:27.150",
+	"cpeLastModified": "2019-10-29T12:09:43.737",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:python:python:3.8.0:-:*:*:*:*:*:*",
+			"cpeNameId": "08552529-A860-4BE9-8AA6-7A3C90438F1D"
+		}
+	]
 }

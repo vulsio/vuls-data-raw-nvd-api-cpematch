@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:mifos:mifos-mobile:*:*:*:*:*:android:*:*",
-  "matchCriteriaId": "06D0F700-A34C-4383-97E7-0C7FE2707CDD",
-  "versionEndExcluding": "2021-03-14",
-  "created": "2021-03-25T13:46:41.330",
-  "lastModified": "2021-03-25T13:46:41.330",
-  "cpeLastModified": "2021-04-14T16:13:01.177",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:mifos:mifos-mobile:1.0.0:*:*:*:*:android:*:*",
-      "cpeNameId": "E454D558-6EDD-4083-9ADA-077A9B570150"
-    }
-  ]
+	"criteria": "cpe:2.3:a:mifos:mifos-mobile:*:*:*:*:*:android:*:*",
+	"matchCriteriaId": "06D0F700-A34C-4383-97E7-0C7FE2707CDD",
+	"versionEndExcluding": "2021-03-14",
+	"created": "2021-03-25T13:46:41.330",
+	"lastModified": "2021-03-25T13:46:41.330",
+	"cpeLastModified": "2021-04-14T16:13:01.177",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:mifos:mifos-mobile:1.0.0:*:*:*:*:android:*:*",
+			"cpeNameId": "E454D558-6EDD-4083-9ADA-077A9B570150"
+		}
+	]
 }

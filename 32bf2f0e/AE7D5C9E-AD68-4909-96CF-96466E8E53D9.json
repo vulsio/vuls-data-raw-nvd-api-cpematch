@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:ibm:emptoris_spend_analysis:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AE7D5C9E-AD68-4909-96CF-96466E8E53D9",
-  "versionStartIncluding": "10.1.1.0",
-  "versionEndExcluding": "10.1.1.35",
-  "created": "2021-01-11T22:02:08.137",
-  "lastModified": "2021-01-11T22:02:08.137",
-  "cpeLastModified": "2021-01-11T22:02:08.150",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ibm:emptoris_spend_analysis:10.1.1.0:*:*:*:*:*:*:*",
-      "cpeNameId": "9C412D6F-ACB8-4A5E-AB9A-17C8F74CEE15"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ibm:emptoris_spend_analysis:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AE7D5C9E-AD68-4909-96CF-96466E8E53D9",
+	"versionStartIncluding": "10.1.1.0",
+	"versionEndExcluding": "10.1.1.35",
+	"created": "2021-01-11T22:02:08.137",
+	"lastModified": "2021-01-11T22:02:08.137",
+	"cpeLastModified": "2021-01-11T22:02:08.150",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ibm:emptoris_spend_analysis:10.1.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "9C412D6F-ACB8-4A5E-AB9A-17C8F74CEE15"
+		}
+	]
 }

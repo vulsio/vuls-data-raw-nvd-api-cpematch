@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:usrsctp_project:usrsctp:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1DE09463-9EA6-49EF-BCBF-568BE6E965B8",
-  "versionEndExcluding": "2019-12-20",
-  "created": "2020-03-09T15:30:18.510",
-  "lastModified": "2020-03-09T15:30:18.510",
-  "cpeLastModified": "2020-03-10T17:33:56.887",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:usrsctp_project:usrsctp:0.9.3.0:*:*:*:*:*:*:*",
-      "cpeNameId": "87B391F1-03E5-4C95-8E27-0C2C6A8E24B0"
-    }
-  ]
+	"criteria": "cpe:2.3:a:usrsctp_project:usrsctp:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1DE09463-9EA6-49EF-BCBF-568BE6E965B8",
+	"versionEndExcluding": "2019-12-20",
+	"created": "2020-03-09T15:30:18.510",
+	"lastModified": "2020-03-09T15:30:18.510",
+	"cpeLastModified": "2020-03-10T17:33:56.887",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:usrsctp_project:usrsctp:0.9.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "87B391F1-03E5-4C95-8E27-0C2C6A8E24B0"
+		}
+	]
 }

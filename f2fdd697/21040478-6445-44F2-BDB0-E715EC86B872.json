@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:intel:power_management_controller:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "21040478-6445-44F2-BDB0-E715EC86B872",
-  "versionEndExcluding": "pmc_fw_lbg_b0-21ww02a",
-  "created": "2022-02-15T13:55:41.130",
-  "lastModified": "2022-02-15T13:55:41.130",
-  "cpeLastModified": "2022-02-15T21:10:38.283",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:intel:power_management_controller:-:*:*:*:*:*:*:*",
-      "cpeNameId": "13475F98-FCAF-485E-B55F-D4E82DE8BFB6"
-    }
-  ]
+	"criteria": "cpe:2.3:a:intel:power_management_controller:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "21040478-6445-44F2-BDB0-E715EC86B872",
+	"versionEndExcluding": "pmc_fw_lbg_b0-21ww02a",
+	"created": "2022-02-15T13:55:41.130",
+	"lastModified": "2022-02-15T13:55:41.130",
+	"cpeLastModified": "2022-02-15T21:10:38.283",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:intel:power_management_controller:-:*:*:*:*:*:*:*",
+			"cpeNameId": "13475F98-FCAF-485E-B55F-D4E82DE8BFB6"
+		}
+	]
 }

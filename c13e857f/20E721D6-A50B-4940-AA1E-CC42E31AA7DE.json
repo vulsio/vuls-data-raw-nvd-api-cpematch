@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:rpcbind_project:rpcbind:0.2.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "20E721D6-A50B-4940-AA1E-CC42E31AA7DE",
-  "created": "2019-11-01T16:25:24.857",
-  "lastModified": "2019-11-01T16:25:24.857",
-  "cpeLastModified": "2019-11-01T16:25:24.873",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:rpcbind_project:rpcbind:0.2.0:*:*:*:*:*:*:*",
-      "cpeNameId": "0DD49B34-4799-464F-B45A-E19E0F52F872"
-    }
-  ]
+	"criteria": "cpe:2.3:a:rpcbind_project:rpcbind:0.2.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "20E721D6-A50B-4940-AA1E-CC42E31AA7DE",
+	"created": "2019-11-01T16:25:24.857",
+	"lastModified": "2019-11-01T16:25:24.857",
+	"cpeLastModified": "2019-11-01T16:25:24.873",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:rpcbind_project:rpcbind:0.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "0DD49B34-4799-464F-B45A-E19E0F52F872"
+		}
+	]
 }

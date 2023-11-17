@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:huawei:s5700_firmware:v200r010c00spc600:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6D60424B-15CE-415E-8E6C-34E5DC52E6C4",
-  "created": "2021-10-28T11:29:10.820",
-  "lastModified": "2021-10-28T11:29:10.820",
-  "cpeLastModified": "2021-10-28T17:04:48.490",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:huawei:s5700_firmware:v200r010c00spc600:*:*:*:*:*:*:*",
-      "cpeNameId": "1ED8D4E8-AF32-4DDA-B892-1AC4451BCF21"
-    }
-  ]
+	"criteria": "cpe:2.3:o:huawei:s5700_firmware:v200r010c00spc600:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6D60424B-15CE-415E-8E6C-34E5DC52E6C4",
+	"created": "2021-10-28T11:29:10.820",
+	"lastModified": "2021-10-28T11:29:10.820",
+	"cpeLastModified": "2021-10-28T17:04:48.490",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:huawei:s5700_firmware:v200r010c00spc600:*:*:*:*:*:*:*",
+			"cpeNameId": "1ED8D4E8-AF32-4DDA-B892-1AC4451BCF21"
+		}
+	]
 }

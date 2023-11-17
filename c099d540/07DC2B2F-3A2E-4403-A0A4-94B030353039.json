@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:celeron_j_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "07DC2B2F-3A2E-4403-A0A4-94B030353039",
-  "created": "2020-02-14T00:07:37.637",
-  "lastModified": "2020-02-14T00:07:37.637",
-  "cpeLastModified": "2020-02-25T15:52:28.790",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:celeron_j_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "A7AA2D0F-4F4D-4A8A-9CFD-C075AEBC224B"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:celeron_j_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "07DC2B2F-3A2E-4403-A0A4-94B030353039",
+	"created": "2020-02-14T00:07:37.637",
+	"lastModified": "2020-02-14T00:07:37.637",
+	"cpeLastModified": "2020-02-25T15:52:28.790",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:celeron_j_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A7AA2D0F-4F4D-4A8A-9CFD-C075AEBC224B"
+		}
+	]
 }

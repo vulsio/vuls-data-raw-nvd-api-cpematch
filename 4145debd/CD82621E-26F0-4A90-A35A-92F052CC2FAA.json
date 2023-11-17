@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:roonlabs:roon_server:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CD82621E-26F0-4A90-A35A-92F052CC2FAA",
-  "versionEndExcluding": "2021-05-18",
-  "created": "2021-06-21T15:02:42.673",
-  "lastModified": "2021-06-21T15:02:42.673",
-  "cpeLastModified": "2021-06-21T15:03:38.030",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:roonlabs:roon_server:-:*:*:*:*:*:*:*",
-      "cpeNameId": "99394F4A-DB78-4608-ACF5-FD25E547DC0F"
-    },
-    {
-      "cpeName": "cpe:2.3:a:roonlabs:roon_server:2021-02-01:*:*:*:*:*:*:*",
-      "cpeNameId": "1C6BAAD6-A470-42A7-AE46-D24EBC0A6BEC"
-    }
-  ]
+	"criteria": "cpe:2.3:a:roonlabs:roon_server:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CD82621E-26F0-4A90-A35A-92F052CC2FAA",
+	"versionEndExcluding": "2021-05-18",
+	"created": "2021-06-21T15:02:42.673",
+	"lastModified": "2021-06-21T15:02:42.673",
+	"cpeLastModified": "2021-06-21T15:03:38.030",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:roonlabs:roon_server:-:*:*:*:*:*:*:*",
+			"cpeNameId": "99394F4A-DB78-4608-ACF5-FD25E547DC0F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:roonlabs:roon_server:2021-02-01:*:*:*:*:*:*:*",
+			"cpeNameId": "1C6BAAD6-A470-42A7-AE46-D24EBC0A6BEC"
+		}
+	]
 }

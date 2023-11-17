@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:sharp:aquos_mini_sh-m03_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "12BF766E-4616-4D6C-B0C0-B5091CB29C77",
-  "versionEndIncluding": "01.00.04",
-  "created": "2020-04-24T15:58:35.717",
-  "lastModified": "2020-04-24T15:58:35.717",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:sharp:aquos_mini_sh-m03_firmware:01.00.01:*:*:*:*:*:*:*",
-      "cpeNameId": "56C15547-B515-4E98-B2C6-E654A807D715"
-    },
-    {
-      "cpeName": "cpe:2.3:o:sharp:aquos_mini_sh-m03_firmware:01.00.04:*:*:*:*:*:*:*",
-      "cpeNameId": "4B0CC9DC-C274-4101-8F98-63C5A70E2519"
-    }
-  ]
+	"criteria": "cpe:2.3:o:sharp:aquos_mini_sh-m03_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "12BF766E-4616-4D6C-B0C0-B5091CB29C77",
+	"versionEndIncluding": "01.00.04",
+	"created": "2020-04-24T15:58:35.717",
+	"lastModified": "2020-04-24T15:58:35.717",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:sharp:aquos_mini_sh-m03_firmware:01.00.01:*:*:*:*:*:*:*",
+			"cpeNameId": "56C15547-B515-4E98-B2C6-E654A807D715"
+		},
+		{
+			"cpeName": "cpe:2.3:o:sharp:aquos_mini_sh-m03_firmware:01.00.04:*:*:*:*:*:*:*",
+			"cpeNameId": "4B0CC9DC-C274-4101-8F98-63C5A70E2519"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:ibm:eni:7.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4C3EC655-99F2-4DA2-A5D9-3F858562F63A",
-  "created": "2020-09-04T12:58:40.890",
-  "lastModified": "2020-09-04T12:58:40.890",
-  "cpeLastModified": "2020-11-03T19:27:34.300",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ibm:eni:7.0:*:*:*:*:*:*:*",
-      "cpeNameId": "C5830989-4DAB-4225-A1E7-E4C7349A22E2"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ibm:eni:7.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4C3EC655-99F2-4DA2-A5D9-3F858562F63A",
+	"created": "2020-09-04T12:58:40.890",
+	"lastModified": "2020-09-04T12:58:40.890",
+	"cpeLastModified": "2020-11-03T19:27:34.300",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ibm:eni:7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C5830989-4DAB-4225-A1E7-E4C7349A22E2"
+		}
+	]
 }

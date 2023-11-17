@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lexmark:cs727_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AB330288-F101-46AE-82CE-286FB3B9A786",
-  "versionEndExcluding": "cstat.076.294",
-  "created": "2022-01-26T14:22:53.897",
-  "lastModified": "2022-01-26T14:22:53.897",
-  "cpeLastModified": "2022-01-27T15:31:13.463",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lexmark:cs727_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "BD81ED38-9C7B-42E8-AD6A-E9AF395BFEB3"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lexmark:cs727_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AB330288-F101-46AE-82CE-286FB3B9A786",
+	"versionEndExcluding": "cstat.076.294",
+	"created": "2022-01-26T14:22:53.897",
+	"lastModified": "2022-01-26T14:22:53.897",
+	"cpeLastModified": "2022-01-27T15:31:13.463",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lexmark:cs727_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BD81ED38-9C7B-42E8-AD6A-E9AF395BFEB3"
+		}
+	]
 }

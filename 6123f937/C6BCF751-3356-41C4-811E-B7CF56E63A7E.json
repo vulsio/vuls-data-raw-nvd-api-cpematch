@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:cisco:sf302-08pp_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C6BCF751-3356-41C4-811E-B7CF56E63A7E",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2020-02-26T12:57:32.847",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:sf302-08pp_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "7EF2ECFF-32F1-4E43-A3E6-726956722706"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:sf302-08pp_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C6BCF751-3356-41C4-811E-B7CF56E63A7E",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2020-02-26T12:57:32.847",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:sf302-08pp_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7EF2ECFF-32F1-4E43-A3E6-726956722706"
+		}
+	]
 }

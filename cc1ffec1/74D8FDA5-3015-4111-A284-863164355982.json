@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:core_i5_9600_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "74D8FDA5-3015-4111-A284-863164355982",
-  "created": "2022-05-11T16:21:02.897",
-  "lastModified": "2022-05-11T16:21:02.897",
-  "cpeLastModified": "2022-06-03T22:24:01.257",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:core_i5_9600_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "756EF032-CF9D-4F27-A146-14631A7DEE14"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:core_i5_9600_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "74D8FDA5-3015-4111-A284-863164355982",
+	"created": "2022-05-11T16:21:02.897",
+	"lastModified": "2022-05-11T16:21:02.897",
+	"cpeLastModified": "2022-06-03T22:24:01.257",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:core_i5_9600_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "756EF032-CF9D-4F27-A146-14631A7DEE14"
+		}
+	]
 }

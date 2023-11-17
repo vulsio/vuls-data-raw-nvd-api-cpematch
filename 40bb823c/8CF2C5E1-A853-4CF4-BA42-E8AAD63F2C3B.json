@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:moxa:dacenter:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8CF2C5E1-A853-4CF4-BA42-E8AAD63F2C3B",
-  "versionEndIncluding": "1.4",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T22:53:51.837",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:moxa:dacenter:1.4:*:*:*:*:*:*:*",
-      "cpeNameId": "01BDD78F-9FFB-481A-9C0F-185E67319B7B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:moxa:dacenter:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8CF2C5E1-A853-4CF4-BA42-E8AAD63F2C3B",
+	"versionEndIncluding": "1.4",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T22:53:51.837",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:moxa:dacenter:1.4:*:*:*:*:*:*:*",
+			"cpeNameId": "01BDD78F-9FFB-481A-9C0F-185E67319B7B"
+		}
+	]
 }

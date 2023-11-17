@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:lexmark:c762_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8E33BCBE-0CC3-4BBC-8442-4F6691143B39",
-  "versionEndIncluding": "971.001",
-  "created": "2020-03-10T18:51:54.700",
-  "lastModified": "2020-03-10T18:51:54.700",
-  "cpeLastModified": "2020-04-14T14:14:57.720",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lexmark:c762_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "8EFB49B9-2891-4828-9728-0950192E2CF0"
-    },
-    {
-      "cpeName": "cpe:2.3:o:lexmark:c762_firmware:971.001:*:*:*:*:*:*:*",
-      "cpeNameId": "88359EA0-C1CE-41A5-ABF5-79838D182B3E"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lexmark:c762_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8E33BCBE-0CC3-4BBC-8442-4F6691143B39",
+	"versionEndIncluding": "971.001",
+	"created": "2020-03-10T18:51:54.700",
+	"lastModified": "2020-03-10T18:51:54.700",
+	"cpeLastModified": "2020-04-14T14:14:57.720",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lexmark:c762_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8EFB49B9-2891-4828-9728-0950192E2CF0"
+		},
+		{
+			"cpeName": "cpe:2.3:o:lexmark:c762_firmware:971.001:*:*:*:*:*:*:*",
+			"cpeNameId": "88359EA0-C1CE-41A5-ABF5-79838D182B3E"
+		}
+	]
 }

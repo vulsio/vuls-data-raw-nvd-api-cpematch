@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:tp-link:tapo_c200_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7E99E304-A052-416A-BE1E-3A97198BE328",
-  "versionEndIncluding": "2020-02-09",
-  "created": "2020-04-10T13:49:23.157",
-  "lastModified": "2023-08-29T11:34:59.340",
-  "cpeLastModified": "2023-08-29T11:34:59.340",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:tp-link:tapo_c200_firmware:1.2.2:build_220725:*:*:*:*:*:*",
-      "cpeNameId": "77342D5D-33CA-49F1-A8AA-07D6411F6F2D"
-    },
-    {
-      "cpeName": "cpe:2.3:o:tp-link:tapo_c200_firmware:2020-02-09:*:*:*:*:*:*:*",
-      "cpeNameId": "A7BB0F1D-B09F-4AE2-84FC-337898A84076"
-    }
-  ]
+	"criteria": "cpe:2.3:o:tp-link:tapo_c200_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7E99E304-A052-416A-BE1E-3A97198BE328",
+	"versionEndIncluding": "2020-02-09",
+	"created": "2020-04-10T13:49:23.157",
+	"lastModified": "2023-08-29T11:34:59.340",
+	"cpeLastModified": "2023-08-29T11:34:59.340",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:tp-link:tapo_c200_firmware:1.2.2:build_220725:*:*:*:*:*:*",
+			"cpeNameId": "77342D5D-33CA-49F1-A8AA-07D6411F6F2D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:tp-link:tapo_c200_firmware:2020-02-09:*:*:*:*:*:*:*",
+			"cpeNameId": "A7BB0F1D-B09F-4AE2-84FC-337898A84076"
+		}
+	]
 }

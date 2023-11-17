@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:lexmark:e350_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "168688E3-DE6C-4C12-B481-1484611C6BF1",
-  "versionEndIncluding": "le.ph.p121",
-  "created": "2020-03-10T18:45:17.107",
-  "lastModified": "2020-03-10T18:45:17.107",
-  "cpeLastModified": "2020-04-14T14:15:19.280",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lexmark:e350_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "B721ED28-C58B-467F-AD94-D27D8B75B55F"
-    },
-    {
-      "cpeName": "cpe:2.3:o:lexmark:e350_firmware:le.ph.p121:*:*:*:*:*:*:*",
-      "cpeNameId": "E8D71079-3AE5-4EF6-B0F3-B2C32E2EB980"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lexmark:e350_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "168688E3-DE6C-4C12-B481-1484611C6BF1",
+	"versionEndIncluding": "le.ph.p121",
+	"created": "2020-03-10T18:45:17.107",
+	"lastModified": "2020-03-10T18:45:17.107",
+	"cpeLastModified": "2020-04-14T14:15:19.280",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lexmark:e350_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B721ED28-C58B-467F-AD94-D27D8B75B55F"
+		},
+		{
+			"cpeName": "cpe:2.3:o:lexmark:e350_firmware:le.ph.p121:*:*:*:*:*:*:*",
+			"cpeNameId": "E8D71079-3AE5-4EF6-B0F3-B2C32E2EB980"
+		}
+	]
 }

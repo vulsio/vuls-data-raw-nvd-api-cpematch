@@ -1,32 +1,32 @@
 {
-  "criteria": "cpe:2.3:o:wago:touch_panel_600_standard_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "98F0C3C2-DE57-4134-AC3C-3D000A33528A",
-  "versionStartIncluding": "16",
-  "versionEndIncluding": "26",
-  "created": "2023-10-23T15:09:13.373",
-  "lastModified": "2023-10-23T15:09:13.373",
-  "cpeLastModified": "2023-10-23T15:09:13.373",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:wago:touch_panel_600_standard_firmware:16:*:*:*:*:*:*:*",
-      "cpeNameId": "7B31795B-A62A-4968-B764-88530A1DF315"
-    },
-    {
-      "cpeName": "cpe:2.3:o:wago:touch_panel_600_standard_firmware:22:-:*:*:*:*:*:*",
-      "cpeNameId": "3D520C4D-8A3D-4CA5-BD7A-CC4846FDFE27"
-    },
-    {
-      "cpeName": "cpe:2.3:o:wago:touch_panel_600_standard_firmware:22:patch_1:*:*:*:*:*:*",
-      "cpeNameId": "42D87A91-FE3D-4BAC-BBBC-70C86D85B97C"
-    },
-    {
-      "cpeName": "cpe:2.3:o:wago:touch_panel_600_standard_firmware:23:*:*:*:*:*:*:*",
-      "cpeNameId": "D4A33E98-DF0E-4812-8868-2E61C325F98C"
-    },
-    {
-      "cpeName": "cpe:2.3:o:wago:touch_panel_600_standard_firmware:24:*:*:*:*:*:*:*",
-      "cpeNameId": "DFFC5650-A332-481B-8443-03E09C27D481"
-    }
-  ]
+	"criteria": "cpe:2.3:o:wago:touch_panel_600_standard_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "98F0C3C2-DE57-4134-AC3C-3D000A33528A",
+	"versionStartIncluding": "16",
+	"versionEndIncluding": "26",
+	"created": "2023-10-23T15:09:13.373",
+	"lastModified": "2023-10-23T15:09:13.373",
+	"cpeLastModified": "2023-10-23T15:09:13.373",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:wago:touch_panel_600_standard_firmware:16:*:*:*:*:*:*:*",
+			"cpeNameId": "7B31795B-A62A-4968-B764-88530A1DF315"
+		},
+		{
+			"cpeName": "cpe:2.3:o:wago:touch_panel_600_standard_firmware:22:-:*:*:*:*:*:*",
+			"cpeNameId": "3D520C4D-8A3D-4CA5-BD7A-CC4846FDFE27"
+		},
+		{
+			"cpeName": "cpe:2.3:o:wago:touch_panel_600_standard_firmware:22:patch_1:*:*:*:*:*:*",
+			"cpeNameId": "42D87A91-FE3D-4BAC-BBBC-70C86D85B97C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:wago:touch_panel_600_standard_firmware:23:*:*:*:*:*:*:*",
+			"cpeNameId": "D4A33E98-DF0E-4812-8868-2E61C325F98C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:wago:touch_panel_600_standard_firmware:24:*:*:*:*:*:*:*",
+			"cpeNameId": "DFFC5650-A332-481B-8443-03E09C27D481"
+		}
+	]
 }

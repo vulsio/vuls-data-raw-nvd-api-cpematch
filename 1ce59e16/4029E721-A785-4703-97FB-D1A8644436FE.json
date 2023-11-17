@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:zohocorp:manageengine_vulnerability_manager_plus:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4029E721-A785-4703-97FB-D1A8644436FE",
-  "versionEndIncluding": "10.1.2220.17",
-  "created": "2023-01-25T16:03:26.520",
-  "lastModified": "2023-01-25T16:03:26.520",
-  "cpeLastModified": "2023-01-25T16:03:26.520",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:zohocorp:manageengine_vulnerability_manager_plus:9.0.0:*:*:*:*:*:*:*",
-      "cpeNameId": "72247410-53AA-459A-8B89-F16C925652FE"
-    }
-  ]
+	"criteria": "cpe:2.3:a:zohocorp:manageengine_vulnerability_manager_plus:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4029E721-A785-4703-97FB-D1A8644436FE",
+	"versionEndIncluding": "10.1.2220.17",
+	"created": "2023-01-25T16:03:26.520",
+	"lastModified": "2023-01-25T16:03:26.520",
+	"cpeLastModified": "2023-01-25T16:03:26.520",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_vulnerability_manager_plus:9.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "72247410-53AA-459A-8B89-F16C925652FE"
+		}
+	]
 }

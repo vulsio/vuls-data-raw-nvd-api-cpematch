@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:netgear:rbr40_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D130E198-E9F5-4250-9C52-E39DF5C96711",
-  "versionEndExcluding": "2.3.0.28",
-  "created": "2021-01-04T13:52:21.183",
-  "lastModified": "2021-01-04T13:52:21.183",
-  "cpeLastModified": "2021-08-19T14:53:41.083",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:netgear:rbr40_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "48657E76-EE48-44A6-98AB-A0698474906E"
-    }
-  ]
+	"criteria": "cpe:2.3:o:netgear:rbr40_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D130E198-E9F5-4250-9C52-E39DF5C96711",
+	"versionEndExcluding": "2.3.0.28",
+	"created": "2021-01-04T13:52:21.183",
+	"lastModified": "2021-01-04T13:52:21.183",
+	"cpeLastModified": "2021-08-19T14:53:41.083",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netgear:rbr40_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "48657E76-EE48-44A6-98AB-A0698474906E"
+		}
+	]
 }

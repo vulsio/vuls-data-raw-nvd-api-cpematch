@@ -1,9 +1,9 @@
 {
-  "criteria": "cpe:2.3:a:influxdata:telegraf:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "362FD2AA-9EF3-45AD-B5E9-A2961EE65E0E",
-  "versionStartIncluding": "0.13.0-alpine",
-  "versionEndExcluding": "1.9.4-alpine",
-  "created": "2020-12-17T16:12:13.613",
-  "lastModified": "2020-12-17T16:12:13.613",
-  "status": "Active"
+	"criteria": "cpe:2.3:a:influxdata:telegraf:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "362FD2AA-9EF3-45AD-B5E9-A2961EE65E0E",
+	"versionStartIncluding": "0.13.0-alpine",
+	"versionEndExcluding": "1.9.4-alpine",
+	"created": "2020-12-17T16:12:13.613",
+	"lastModified": "2020-12-17T16:12:13.613",
+	"status": "Active"
 }

@@ -1,18 +1,18 @@
 {
-  "criteria": "cpe:2.3:a:microsoft:internet_explorer:9:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C043EDDD-41BF-4718-BDCF-158BBBDB6360",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2020-09-03T19:25:35.567",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:microsoft:internet_explorer:9:*:*:*:*:*:*:*",
-      "cpeNameId": "DB21150C-18E4-47FD-A50E-60C6B4965BB6"
-    },
-    {
-      "cpeName": "cpe:2.3:a:microsoft:internet_explorer:9:-:*:*:*:*:*:*",
-      "cpeNameId": "EE78A187-1117-426C-8EC5-3FCFC031EF06"
-    }
-  ]
+	"criteria": "cpe:2.3:a:microsoft:internet_explorer:9:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C043EDDD-41BF-4718-BDCF-158BBBDB6360",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2020-09-03T19:25:35.567",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:internet_explorer:9:*:*:*:*:*:*:*",
+			"cpeNameId": "DB21150C-18E4-47FD-A50E-60C6B4965BB6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:internet_explorer:9:-:*:*:*:*:*:*",
+			"cpeNameId": "EE78A187-1117-426C-8EC5-3FCFC031EF06"
+		}
+	]
 }

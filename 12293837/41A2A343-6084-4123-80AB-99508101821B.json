@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:avaya:agent_access:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "41A2A343-6084-4123-80AB-99508101821B",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:avaya:agent_access:-:*:*:*:*:*:*:*",
-      "cpeNameId": "EF05D689-8119-4F45-8513-90D2A2EF19EA"
-    }
-  ]
+	"criteria": "cpe:2.3:a:avaya:agent_access:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "41A2A343-6084-4123-80AB-99508101821B",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:avaya:agent_access:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EF05D689-8119-4F45-8513-90D2A2EF19EA"
+		}
+	]
 }

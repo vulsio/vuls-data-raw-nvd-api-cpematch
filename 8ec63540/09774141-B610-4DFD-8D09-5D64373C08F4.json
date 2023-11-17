@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:suse:linux_enterprise_high_availability_extension:12:sp5:*:*:*:*:*:*",
-  "matchCriteriaId": "09774141-B610-4DFD-8D09-5D64373C08F4",
-  "created": "2021-04-20T15:52:33.390",
-  "lastModified": "2021-04-20T15:52:33.390",
-  "cpeLastModified": "2021-04-20T15:52:34.977",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:suse:linux_enterprise_high_availability_extension:12:sp5:*:*:*:*:*:*",
-      "cpeNameId": "28CCE8C5-68E9-4505-BBF9-33BEEBB69AE5"
-    }
-  ]
+	"criteria": "cpe:2.3:o:suse:linux_enterprise_high_availability_extension:12:sp5:*:*:*:*:*:*",
+	"matchCriteriaId": "09774141-B610-4DFD-8D09-5D64373C08F4",
+	"created": "2021-04-20T15:52:33.390",
+	"lastModified": "2021-04-20T15:52:33.390",
+	"cpeLastModified": "2021-04-20T15:52:34.977",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:suse:linux_enterprise_high_availability_extension:12:sp5:*:*:*:*:*:*",
+			"cpeNameId": "28CCE8C5-68E9-4505-BBF9-33BEEBB69AE5"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:laserjet_enterprise_m609x_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6AADFED4-1EF5-404C-99BB-DBBFD64CA446",
-  "versionEndExcluding": "2406048_029638",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:laserjet_enterprise_m609x_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "17E2D059-E055-4D95-BC70-595AE509A540"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:laserjet_enterprise_m609x_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6AADFED4-1EF5-404C-99BB-DBBFD64CA446",
+	"versionEndExcluding": "2406048_029638",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:laserjet_enterprise_m609x_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "17E2D059-E055-4D95-BC70-595AE509A540"
+		}
+	]
 }

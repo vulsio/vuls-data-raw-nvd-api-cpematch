@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:microsoft:internet_information_services:6.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9B4DF95D-B4B1-4FB6-9D27-A6D359EEACFA",
-  "created": "2020-11-23T16:52:26.853",
-  "lastModified": "2020-11-23T16:52:26.853",
-  "cpeLastModified": "2020-11-23T19:49:19.487",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:microsoft:internet_information_services:6.0:*:*:*:*:*:*:*",
-      "cpeNameId": "8AF04EE0-17E6-4D75-83B0-31632A2D862F"
-    }
-  ]
+	"criteria": "cpe:2.3:a:microsoft:internet_information_services:6.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9B4DF95D-B4B1-4FB6-9D27-A6D359EEACFA",
+	"created": "2020-11-23T16:52:26.853",
+	"lastModified": "2020-11-23T16:52:26.853",
+	"cpeLastModified": "2020-11-23T19:49:19.487",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:internet_information_services:6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "8AF04EE0-17E6-4D75-83B0-31632A2D862F"
+		}
+	]
 }

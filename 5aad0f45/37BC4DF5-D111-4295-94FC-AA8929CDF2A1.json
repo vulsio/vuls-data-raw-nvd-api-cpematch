@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:zimbra:collaboration:8.8.15:p2:*:*:*:*:*:*",
-  "matchCriteriaId": "37BC4DF5-D111-4295-94FC-AA8929CDF2A1",
-  "created": "2020-12-21T21:58:53.440",
-  "lastModified": "2020-12-21T21:58:53.440",
-  "cpeLastModified": "2021-03-05T15:39:32.887",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:zimbra:collaboration:8.8.15:p2:*:*:*:*:*:*",
-      "cpeNameId": "B86A0185-325B-4A54-AF80-3AAAD29F031D"
-    }
-  ]
+	"criteria": "cpe:2.3:a:zimbra:collaboration:8.8.15:p2:*:*:*:*:*:*",
+	"matchCriteriaId": "37BC4DF5-D111-4295-94FC-AA8929CDF2A1",
+	"created": "2020-12-21T21:58:53.440",
+	"lastModified": "2020-12-21T21:58:53.440",
+	"cpeLastModified": "2021-03-05T15:39:32.887",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:zimbra:collaboration:8.8.15:p2:*:*:*:*:*:*",
+			"cpeNameId": "B86A0185-325B-4A54-AF80-3AAAD29F031D"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:topdesk:topdesk:5.7:service_release2:*:*:*:*:*:*",
-  "matchCriteriaId": "3F815228-4F86-42C1-86BB-E26B1B2D11D4",
-  "created": "2020-07-16T14:17:20.430",
-  "lastModified": "2020-07-16T14:17:20.430",
-  "cpeLastModified": "2020-07-16T14:17:20.447",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:topdesk:topdesk:5.7:service_release2:*:*:*:*:*:*",
-      "cpeNameId": "AD011679-BDDE-49D2-BB0F-948FA735EABF"
-    }
-  ]
+	"criteria": "cpe:2.3:a:topdesk:topdesk:5.7:service_release2:*:*:*:*:*:*",
+	"matchCriteriaId": "3F815228-4F86-42C1-86BB-E26B1B2D11D4",
+	"created": "2020-07-16T14:17:20.430",
+	"lastModified": "2020-07-16T14:17:20.430",
+	"cpeLastModified": "2020-07-16T14:17:20.447",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:topdesk:topdesk:5.7:service_release2:*:*:*:*:*:*",
+			"cpeNameId": "AD011679-BDDE-49D2-BB0F-948FA735EABF"
+		}
+	]
 }

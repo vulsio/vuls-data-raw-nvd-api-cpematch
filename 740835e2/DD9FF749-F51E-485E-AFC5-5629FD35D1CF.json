@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:inspiron_5770_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "DD9FF749-F51E-485E-AFC5-5629FD35D1CF",
-  "versionEndExcluding": "1.2.1",
-  "created": "2019-08-09T17:50:25.897",
-  "lastModified": "2019-08-09T17:50:25.897",
-  "cpeLastModified": "2020-03-06T19:58:17.850",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:inspiron_5770_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "154954CF-4288-4359-B551-B7DD1DC0EB67"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:inspiron_5770_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DD9FF749-F51E-485E-AFC5-5629FD35D1CF",
+	"versionEndExcluding": "1.2.1",
+	"created": "2019-08-09T17:50:25.897",
+	"lastModified": "2019-08-09T17:50:25.897",
+	"cpeLastModified": "2020-03-06T19:58:17.850",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_5770_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "154954CF-4288-4359-B551-B7DD1DC0EB67"
+		}
+	]
 }

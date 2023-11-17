@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:szuray:iptv\\/h.264_video_encoder_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A715A089-5F76-4B05-9D27-ECF926B29BCD",
-  "versionEndIncluding": "1.97",
-  "created": "2020-10-07T14:58:30.580",
-  "lastModified": "2020-10-07T14:58:30.580",
-  "cpeLastModified": "2020-11-19T18:17:48.833",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:szuray:iptv\\/h.264_video_encoder_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "0E489BD9-468D-48D9-AE05-06490C99E172"
-    },
-    {
-      "cpeName": "cpe:2.3:o:szuray:iptv\\/h.264_video_encoder_firmware:1.97:*:*:*:*:*:*:*",
-      "cpeNameId": "FCD2D45F-4BCC-40DA-91BE-3E376FBFD811"
-    }
-  ]
+	"criteria": "cpe:2.3:o:szuray:iptv\\/h.264_video_encoder_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A715A089-5F76-4B05-9D27-ECF926B29BCD",
+	"versionEndIncluding": "1.97",
+	"created": "2020-10-07T14:58:30.580",
+	"lastModified": "2020-10-07T14:58:30.580",
+	"cpeLastModified": "2020-11-19T18:17:48.833",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:szuray:iptv\\/h.264_video_encoder_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0E489BD9-468D-48D9-AE05-06490C99E172"
+		},
+		{
+			"cpeName": "cpe:2.3:o:szuray:iptv\\/h.264_video_encoder_firmware:1.97:*:*:*:*:*:*:*",
+			"cpeNameId": "FCD2D45F-4BCC-40DA-91BE-3E376FBFD811"
+		}
+	]
 }

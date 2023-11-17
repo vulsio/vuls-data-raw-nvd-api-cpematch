@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:siemens:scalance_xr552_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D3897836-E47F-4606-BE7A-CEB96CC24DE5",
-  "versionEndExcluding": "6.0",
-  "created": "2020-02-18T17:23:26.803",
-  "lastModified": "2020-02-18T17:23:26.803",
-  "cpeLastModified": "2020-02-24T15:00:46.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:scalance_xr552_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "3D1B7CC2-BBE7-46AC-ADED-28B96D22A06E"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:scalance_xr552_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D3897836-E47F-4606-BE7A-CEB96CC24DE5",
+	"versionEndExcluding": "6.0",
+	"created": "2020-02-18T17:23:26.803",
+	"lastModified": "2020-02-18T17:23:26.803",
+	"cpeLastModified": "2020-02-24T15:00:46.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:scalance_xr552_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3D1B7CC2-BBE7-46AC-ADED-28B96D22A06E"
+		}
+	]
 }

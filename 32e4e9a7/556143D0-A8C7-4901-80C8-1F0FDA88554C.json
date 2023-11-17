@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:gocron_project:gocron:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "556143D0-A8C7-4901-80C8-1F0FDA88554C",
-  "versionEndIncluding": "1.5.3",
-  "created": "2022-09-15T18:19:38.430",
-  "lastModified": "2022-09-15T18:19:38.430",
-  "cpeLastModified": "2022-10-25T16:55:22.737",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:gocron_project:gocron:1.5.3:*:*:*:*:*:*:*",
-      "cpeNameId": "19040CF3-BDAF-4AC7-B00F-FBA00C313415"
-    }
-  ]
+	"criteria": "cpe:2.3:a:gocron_project:gocron:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "556143D0-A8C7-4901-80C8-1F0FDA88554C",
+	"versionEndIncluding": "1.5.3",
+	"created": "2022-09-15T18:19:38.430",
+	"lastModified": "2022-09-15T18:19:38.430",
+	"cpeLastModified": "2022-10-25T16:55:22.737",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:gocron_project:gocron:1.5.3:*:*:*:*:*:*:*",
+			"cpeNameId": "19040CF3-BDAF-4AC7-B00F-FBA00C313415"
+		}
+	]
 }

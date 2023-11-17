@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:siemens:desigo_pxc22-e.d_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C850BBCD-CEA3-4D40-A545-F560CEFDFF2D",
-  "versionEndIncluding": "2.3",
-  "created": "2022-10-11T16:52:24.803",
-  "lastModified": "2022-10-11T16:52:24.803",
-  "cpeLastModified": "2022-10-11T16:52:24.803",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:desigo_pxc22-e.d_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "3FE6A17F-1860-44FB-B0F6-FA43F050256A"
-    },
-    {
-      "cpeName": "cpe:2.3:o:siemens:desigo_pxc22-e.d_firmware:2.3:*:*:*:*:*:*:*",
-      "cpeNameId": "C8889413-B0F5-431B-BD26-B6483ACE4104"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:desigo_pxc22-e.d_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C850BBCD-CEA3-4D40-A545-F560CEFDFF2D",
+	"versionEndIncluding": "2.3",
+	"created": "2022-10-11T16:52:24.803",
+	"lastModified": "2022-10-11T16:52:24.803",
+	"cpeLastModified": "2022-10-11T16:52:24.803",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:desigo_pxc22-e.d_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3FE6A17F-1860-44FB-B0F6-FA43F050256A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:siemens:desigo_pxc22-e.d_firmware:2.3:*:*:*:*:*:*:*",
+			"cpeNameId": "C8889413-B0F5-431B-BD26-B6483ACE4104"
+		}
+	]
 }

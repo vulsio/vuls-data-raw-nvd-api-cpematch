@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:intel:cd1p64gk:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7D70643B-FE67-40CA-B63F-825E78D7D670",
-  "created": "2019-12-30T16:05:31.360",
-  "lastModified": "2019-12-30T16:05:31.360",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:intel:cd1p64gk:-:*:*:*:*:*:*:*",
-      "cpeNameId": "B39A2D3E-682C-4599-927F-9BA49DBB974A"
-    }
-  ]
+	"criteria": "cpe:2.3:h:intel:cd1p64gk:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7D70643B-FE67-40CA-B63F-825E78D7D670",
+	"created": "2019-12-30T16:05:31.360",
+	"lastModified": "2019-12-30T16:05:31.360",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:cd1p64gk:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B39A2D3E-682C-4599-927F-9BA49DBB974A"
+		}
+	]
 }

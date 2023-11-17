@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:nvidia:geforce_gtx_1660:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "573887F7-E422-48AA-8205-56166D81536C",
-  "created": "2021-11-23T20:41:56.110",
-  "lastModified": "2021-11-23T20:41:56.110",
-  "cpeLastModified": "2021-11-24T15:18:53.713",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:nvidia:geforce_gtx_1660:-:*:*:*:*:*:*:*",
-      "cpeNameId": "1F3A9B1F-CA61-4B38-ABB9-328E08C524B6"
-    }
-  ]
+	"criteria": "cpe:2.3:h:nvidia:geforce_gtx_1660:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "573887F7-E422-48AA-8205-56166D81536C",
+	"created": "2021-11-23T20:41:56.110",
+	"lastModified": "2021-11-23T20:41:56.110",
+	"cpeLastModified": "2021-11-24T15:18:53.713",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:nvidia:geforce_gtx_1660:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1F3A9B1F-CA61-4B38-ABB9-328E08C524B6"
+		}
+	]
 }

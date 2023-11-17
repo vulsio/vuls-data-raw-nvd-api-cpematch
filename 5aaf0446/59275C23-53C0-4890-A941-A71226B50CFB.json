@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:oracle:communications_contacts_server:8.0.0.3.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "59275C23-53C0-4890-A941-A71226B50CFB",
-  "created": "2022-02-14T14:37:10.883",
-  "lastModified": "2022-05-23T13:27:00.780",
-  "cpeLastModified": "2022-02-20T06:22:53.880",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:oracle:communications_contacts_server:8.0.0.3.0:*:*:*:*:*:*:*",
-      "cpeNameId": "AE53D5D4-4B30-4DC2-B7AF-3A59D8325FCE"
-    }
-  ]
+	"criteria": "cpe:2.3:a:oracle:communications_contacts_server:8.0.0.3.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "59275C23-53C0-4890-A941-A71226B50CFB",
+	"created": "2022-02-14T14:37:10.883",
+	"lastModified": "2022-05-23T13:27:00.780",
+	"cpeLastModified": "2022-02-20T06:22:53.880",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:communications_contacts_server:8.0.0.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "AE53D5D4-4B30-4DC2-B7AF-3A59D8325FCE"
+		}
+	]
 }

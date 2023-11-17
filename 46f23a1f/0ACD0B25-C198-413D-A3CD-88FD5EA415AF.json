@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:a:sysaid:okta_sso:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0ACD0B25-C198-413D-A3CD-88FD5EA415AF",
-  "versionStartIncluding": "22.1.49",
-  "versionEndIncluding": "22.1.63",
-  "created": "2022-07-05T12:18:42.493",
-  "lastModified": "2022-07-05T12:18:42.493",
-  "cpeLastModified": "2022-11-09T20:55:24.740",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:sysaid:okta_sso:22.1.49:*:*:*:*:*:*:*",
-      "cpeNameId": "8A2F0B39-AD3F-41C1-9C1E-875C19A39188"
-    },
-    {
-      "cpeName": "cpe:2.3:a:sysaid:okta_sso:22.1.63:*:*:*:*:*:*:*",
-      "cpeNameId": "BF0D28A2-83DA-4208-AB5F-0EED08F9D18C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:sysaid:okta_sso:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0ACD0B25-C198-413D-A3CD-88FD5EA415AF",
+	"versionStartIncluding": "22.1.49",
+	"versionEndIncluding": "22.1.63",
+	"created": "2022-07-05T12:18:42.493",
+	"lastModified": "2022-07-05T12:18:42.493",
+	"cpeLastModified": "2022-11-09T20:55:24.740",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sysaid:okta_sso:22.1.49:*:*:*:*:*:*:*",
+			"cpeNameId": "8A2F0B39-AD3F-41C1-9C1E-875C19A39188"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sysaid:okta_sso:22.1.63:*:*:*:*:*:*:*",
+			"cpeNameId": "BF0D28A2-83DA-4208-AB5F-0EED08F9D18C"
+		}
+	]
 }

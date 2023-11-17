@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:apache:batik:1.14:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0F4442FE-A805-4B59-BA99-9E492F793BAB",
-  "created": "2022-09-23T03:40:56.190",
-  "lastModified": "2022-11-03T13:56:09.700",
-  "cpeLastModified": "2022-11-03T13:56:09.700",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:apache:batik:1.14:*:*:*:*:*:*:*",
-      "cpeNameId": "2850877A-9DC8-474A-8CB6-F2FF7060EDC6"
-    }
-  ]
+	"criteria": "cpe:2.3:a:apache:batik:1.14:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0F4442FE-A805-4B59-BA99-9E492F793BAB",
+	"created": "2022-09-23T03:40:56.190",
+	"lastModified": "2022-11-03T13:56:09.700",
+	"cpeLastModified": "2022-11-03T13:56:09.700",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apache:batik:1.14:*:*:*:*:*:*:*",
+			"cpeNameId": "2850877A-9DC8-474A-8CB6-F2FF7060EDC6"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:xeon_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "71189D33-0B4B-4E1C-B395-E2888BE068D0",
-  "created": "2022-05-11T16:21:02.897",
-  "lastModified": "2022-05-11T16:21:02.897",
-  "cpeLastModified": "2022-06-03T22:24:01.257",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:xeon_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "0338EEA8-7DAA-485E-AB95-16F67DD94FA8"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:xeon_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "71189D33-0B4B-4E1C-B395-E2888BE068D0",
+	"created": "2022-05-11T16:21:02.897",
+	"lastModified": "2022-05-11T16:21:02.897",
+	"cpeLastModified": "2022-06-03T22:24:01.257",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:xeon_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0338EEA8-7DAA-485E-AB95-16F67DD94FA8"
+		}
+	]
 }

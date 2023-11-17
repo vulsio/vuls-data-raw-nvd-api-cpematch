@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:cisco:ios_xe:3.12s_3.12.0s:*:*:*:*:*:*:*",
-  "matchCriteriaId": "2C2BB58F-437A-4051-8FC4-C16CFD99AC12",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2020-05-11T11:51:50.400",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:ios_xe:3.12s_3.12.0s:*:*:*:*:*:*:*",
-      "cpeNameId": "1614D358-EB56-4446-9EA0-0C98BA9B8F5C"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:ios_xe:3.12s_3.12.0s:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2C2BB58F-437A-4051-8FC4-C16CFD99AC12",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2020-05-11T11:51:50.400",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios_xe:3.12s_3.12.0s:*:*:*:*:*:*:*",
+			"cpeNameId": "1614D358-EB56-4446-9EA0-0C98BA9B8F5C"
+		}
+	]
 }

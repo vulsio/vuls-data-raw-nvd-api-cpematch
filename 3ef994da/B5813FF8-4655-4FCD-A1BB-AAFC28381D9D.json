@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:xeon_w-1300_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B5813FF8-4655-4FCD-A1BB-AAFC28381D9D",
-  "versionEndExcluding": "15.0.40",
-  "created": "2022-06-09T16:04:41.193",
-  "lastModified": "2022-06-09T16:04:41.193",
-  "cpeLastModified": "2022-06-03T22:24:01.257",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:xeon_w-1300_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "5EF1441A-E349-4235-9CEE-AC8A7989E548"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:xeon_w-1300_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B5813FF8-4655-4FCD-A1BB-AAFC28381D9D",
+	"versionEndExcluding": "15.0.40",
+	"created": "2022-06-09T16:04:41.193",
+	"lastModified": "2022-06-09T16:04:41.193",
+	"cpeLastModified": "2022-06-03T22:24:01.257",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:xeon_w-1300_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5EF1441A-E349-4235-9CEE-AC8A7989E548"
+		}
+	]
 }

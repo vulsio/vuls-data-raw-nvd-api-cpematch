@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:glarysoft:glary_utilities:*:*:*:*:pro:*:*:*",
-  "matchCriteriaId": "933025C5-CB3F-4584-856E-14F02A49AB3A",
-  "versionEndIncluding": "5.99",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-09-17T16:26:58.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:glarysoft:glary_utilities:5.99:*:*:*:pro:*:*:*",
-      "cpeNameId": "0B9E0171-3AE6-4309-854D-2CF7A38AC939"
-    }
-  ]
+	"criteria": "cpe:2.3:a:glarysoft:glary_utilities:*:*:*:*:pro:*:*:*",
+	"matchCriteriaId": "933025C5-CB3F-4584-856E-14F02A49AB3A",
+	"versionEndIncluding": "5.99",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-09-17T16:26:58.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:glarysoft:glary_utilities:5.99:*:*:*:pro:*:*:*",
+			"cpeNameId": "0B9E0171-3AE6-4309-854D-2CF7A38AC939"
+		}
+	]
 }

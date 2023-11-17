@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:wire:wire-server:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "90144601-EF7E-4BEB-B24F-5ECB072B585D",
-  "versionEndExcluding": "2022-03-01",
-  "created": "2022-04-20T18:24:27.093",
-  "lastModified": "2022-04-20T18:24:27.093",
-  "cpeLastModified": "2022-04-21T17:13:47.217",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:wire:wire-server:2021-08-16:*:*:*:*:*:*:*",
-      "cpeNameId": "90603F74-B372-42AF-AB08-39EFE652D628"
-    }
-  ]
+	"criteria": "cpe:2.3:a:wire:wire-server:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "90144601-EF7E-4BEB-B24F-5ECB072B585D",
+	"versionEndExcluding": "2022-03-01",
+	"created": "2022-04-20T18:24:27.093",
+	"lastModified": "2022-04-20T18:24:27.093",
+	"cpeLastModified": "2022-04-21T17:13:47.217",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wire:wire-server:2021-08-16:*:*:*:*:*:*:*",
+			"cpeNameId": "90603F74-B372-42AF-AB08-39EFE652D628"
+		}
+	]
 }

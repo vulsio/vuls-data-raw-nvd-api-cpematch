@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:tibco:spotfire_desktop:11.8.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "45724495-A8C3-45FA-988D-AB43174C1C2F",
-  "created": "2022-11-17T14:00:04.447",
-  "lastModified": "2022-11-17T14:14:17.127",
-  "cpeLastModified": "2022-11-17T14:14:17.127",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:tibco:spotfire_desktop:11.8.0:*:*:*:*:*:*:*",
-      "cpeNameId": "034ABC01-F382-4328-AF6A-0BD9FC2AC0EC"
-    }
-  ]
+	"criteria": "cpe:2.3:a:tibco:spotfire_desktop:11.8.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "45724495-A8C3-45FA-988D-AB43174C1C2F",
+	"created": "2022-11-17T14:00:04.447",
+	"lastModified": "2022-11-17T14:14:17.127",
+	"cpeLastModified": "2022-11-17T14:14:17.127",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:tibco:spotfire_desktop:11.8.0:*:*:*:*:*:*:*",
+			"cpeNameId": "034ABC01-F382-4328-AF6A-0BD9FC2AC0EC"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:amd:radeon_rx_5300m:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "02AA337B-595F-4859-A82A-DEC7BB346773",
-  "created": "2022-11-22T16:38:51.830",
-  "lastModified": "2022-11-22T18:35:56.230",
-  "cpeLastModified": "2022-11-22T18:35:56.230",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:amd:radeon_rx_5300m:-:*:*:*:*:*:*:*",
-      "cpeNameId": "F82A8646-C61B-4CAE-83C5-5EE51D32B273"
-    }
-  ]
+	"criteria": "cpe:2.3:h:amd:radeon_rx_5300m:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "02AA337B-595F-4859-A82A-DEC7BB346773",
+	"created": "2022-11-22T16:38:51.830",
+	"lastModified": "2022-11-22T18:35:56.230",
+	"cpeLastModified": "2022-11-22T18:35:56.230",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_rx_5300m:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F82A8646-C61B-4CAE-83C5-5EE51D32B273"
+		}
+	]
 }

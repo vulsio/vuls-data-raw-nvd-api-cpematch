@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:broadcom:ca_client_automation:14.3:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B383D46F-7BF7-415A-9277-792DAF5BE70E",
-  "created": "2019-12-31T19:04:53.610",
-  "lastModified": "2019-12-31T19:04:53.610",
-  "cpeLastModified": "2020-01-02T14:55:02.267",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:broadcom:ca_client_automation:14.3:*:*:*:*:*:*:*",
-      "cpeNameId": "055E6989-AF38-47A9-800E-613517B68D9C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:broadcom:ca_client_automation:14.3:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B383D46F-7BF7-415A-9277-792DAF5BE70E",
+	"created": "2019-12-31T19:04:53.610",
+	"lastModified": "2019-12-31T19:04:53.610",
+	"cpeLastModified": "2020-01-02T14:55:02.267",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:broadcom:ca_client_automation:14.3:*:*:*:*:*:*:*",
+			"cpeNameId": "055E6989-AF38-47A9-800E-613517B68D9C"
+		}
+	]
 }

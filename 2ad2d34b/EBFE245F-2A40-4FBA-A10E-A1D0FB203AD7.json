@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:peplink:max_hd4_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "EBFE245F-2A40-4FBA-A10E-A1D0FB203AD7",
-  "versionEndIncluding": "8.1.0",
-  "created": "2020-10-08T15:01:55.477",
-  "lastModified": "2020-10-08T15:01:55.477",
-  "cpeLastModified": "2020-11-06T13:52:55.603",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:peplink:max_hd4_firmware:8.1.0:*:*:*:*:*:*:*",
-      "cpeNameId": "699F1302-994F-4AF5-B52C-C079A7047244"
-    }
-  ]
+	"criteria": "cpe:2.3:o:peplink:max_hd4_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "EBFE245F-2A40-4FBA-A10E-A1D0FB203AD7",
+	"versionEndIncluding": "8.1.0",
+	"created": "2020-10-08T15:01:55.477",
+	"lastModified": "2020-10-08T15:01:55.477",
+	"cpeLastModified": "2020-11-06T13:52:55.603",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:peplink:max_hd4_firmware:8.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "699F1302-994F-4AF5-B52C-C079A7047244"
+		}
+	]
 }

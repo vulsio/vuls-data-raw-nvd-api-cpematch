@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:vmware:spring_security:4.2.0:release:*:*:*:*:*:*",
-  "matchCriteriaId": "338A64C7-7CF3-4E9C-AA2E-7EEB4B4446EC",
-  "created": "2021-06-08T18:21:49.287",
-  "lastModified": "2021-06-08T18:21:49.287",
-  "cpeLastModified": "2021-06-08T18:21:49.287",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:vmware:spring_security:4.2.0:release:*:*:*:*:*:*",
-      "cpeNameId": "C9C99584-8B06-48E7-86E3-33414DEFB212"
-    }
-  ]
+	"criteria": "cpe:2.3:a:vmware:spring_security:4.2.0:release:*:*:*:*:*:*",
+	"matchCriteriaId": "338A64C7-7CF3-4E9C-AA2E-7EEB4B4446EC",
+	"created": "2021-06-08T18:21:49.287",
+	"lastModified": "2021-06-08T18:21:49.287",
+	"cpeLastModified": "2021-06-08T18:21:49.287",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:vmware:spring_security:4.2.0:release:*:*:*:*:*:*",
+			"cpeNameId": "C9C99584-8B06-48E7-86E3-33414DEFB212"
+		}
+	]
 }

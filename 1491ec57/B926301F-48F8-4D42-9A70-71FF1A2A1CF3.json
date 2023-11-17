@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:konicaminolta:bizhub_458e_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B926301F-48F8-4D42-9A70-71FF1A2A1CF3",
-  "versionEndExcluding": "gca-y1",
-  "created": "2022-01-11T15:15:28.923",
-  "lastModified": "2022-01-11T15:15:28.923",
-  "cpeLastModified": "2022-01-13T02:37:34.383",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:konicaminolta:bizhub_458e_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E4E0C676-F815-4382-B77B-BB6BCF23895E"
-    }
-  ]
+	"criteria": "cpe:2.3:o:konicaminolta:bizhub_458e_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B926301F-48F8-4D42-9A70-71FF1A2A1CF3",
+	"versionEndExcluding": "gca-y1",
+	"created": "2022-01-11T15:15:28.923",
+	"lastModified": "2022-01-11T15:15:28.923",
+	"cpeLastModified": "2022-01-13T02:37:34.383",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:konicaminolta:bizhub_458e_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E4E0C676-F815-4382-B77B-BB6BCF23895E"
+		}
+	]
 }

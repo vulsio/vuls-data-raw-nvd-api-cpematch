@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:xeon_e5520_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E5BDCD70-DD57-4B9B-AA3C-F91C161B590D",
-  "created": "2019-11-18T16:37:00.953",
-  "lastModified": "2019-11-18T16:37:00.953",
-  "cpeLastModified": "2020-03-23T17:31:27.213",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:xeon_e5520_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "572D1C61-6A4B-4A4C-87BE-AC1DE9F45A6F"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:xeon_e5520_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E5BDCD70-DD57-4B9B-AA3C-F91C161B590D",
+	"created": "2019-11-18T16:37:00.953",
+	"lastModified": "2019-11-18T16:37:00.953",
+	"cpeLastModified": "2020-03-23T17:31:27.213",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:xeon_e5520_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "572D1C61-6A4B-4A4C-87BE-AC1DE9F45A6F"
+		}
+	]
 }

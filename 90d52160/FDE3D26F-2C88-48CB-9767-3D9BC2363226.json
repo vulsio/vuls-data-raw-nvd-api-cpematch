@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:microchip:atsama5d28c-d1g-cur_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FDE3D26F-2C88-48CB-9767-3D9BC2363226",
-  "created": "2020-09-15T14:17:59.880",
-  "lastModified": "2020-09-15T14:17:59.880",
-  "cpeLastModified": "2020-09-21T14:10:33.890",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:microchip:atsama5d28c-d1g-cur_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "373D9CC1-D853-447C-9802-EC13C46FA453"
-    }
-  ]
+	"criteria": "cpe:2.3:o:microchip:atsama5d28c-d1g-cur_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FDE3D26F-2C88-48CB-9767-3D9BC2363226",
+	"created": "2020-09-15T14:17:59.880",
+	"lastModified": "2020-09-15T14:17:59.880",
+	"cpeLastModified": "2020-09-21T14:10:33.890",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:microchip:atsama5d28c-d1g-cur_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "373D9CC1-D853-447C-9802-EC13C46FA453"
+		}
+	]
 }

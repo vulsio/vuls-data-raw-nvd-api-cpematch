@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:synergy_480_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "575B564D-D52C-4194-843D-3F14FEC199E4",
-  "versionEndExcluding": "2.20",
-  "created": "2019-11-20T13:37:46.203",
-  "lastModified": "2022-05-25T13:43:03.647",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:synergy_480_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "76541D49-3DCC-4FE8-A7A5-D1E4C82D6A3A"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:synergy_480_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "575B564D-D52C-4194-843D-3F14FEC199E4",
+	"versionEndExcluding": "2.20",
+	"created": "2019-11-20T13:37:46.203",
+	"lastModified": "2022-05-25T13:43:03.647",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:synergy_480_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "76541D49-3DCC-4FE8-A7A5-D1E4C82D6A3A"
+		}
+	]
 }

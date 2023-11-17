@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:arraynetworks:arrayos_ag:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AA309503-9419-47EC-A4A5-312C5CF77EB8",
-  "versionEndIncluding": "9.4.0.469",
-  "created": "2022-10-13T17:02:33.813",
-  "lastModified": "2022-10-13T20:08:50.667",
-  "cpeLastModified": "2022-10-13T20:08:50.667",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:arraynetworks:arrayos_ag:-:*:*:*:*:*:*:*",
-      "cpeNameId": "311BCF53-BBA3-4339-9519-DAC69A5377C3"
-    },
-    {
-      "cpeName": "cpe:2.3:o:arraynetworks:arrayos_ag:9.4.0.469:*:*:*:*:*:*:*",
-      "cpeNameId": "777B073A-BA68-460E-A43C-AD05467A4588"
-    }
-  ]
+	"criteria": "cpe:2.3:o:arraynetworks:arrayos_ag:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AA309503-9419-47EC-A4A5-312C5CF77EB8",
+	"versionEndIncluding": "9.4.0.469",
+	"created": "2022-10-13T17:02:33.813",
+	"lastModified": "2022-10-13T20:08:50.667",
+	"cpeLastModified": "2022-10-13T20:08:50.667",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:arraynetworks:arrayos_ag:-:*:*:*:*:*:*:*",
+			"cpeNameId": "311BCF53-BBA3-4339-9519-DAC69A5377C3"
+		},
+		{
+			"cpeName": "cpe:2.3:o:arraynetworks:arrayos_ag:9.4.0.469:*:*:*:*:*:*:*",
+			"cpeNameId": "777B073A-BA68-460E-A43C-AD05467A4588"
+		}
+	]
 }

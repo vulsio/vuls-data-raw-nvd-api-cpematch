@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:thinkserver_rd540_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D0D2D3BB-77F2-4798-BF81-B9EDB607CE94",
-  "versionEndExcluding": "50.00",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:thinkserver_rd540_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "775D4D4E-C78F-4A18-92AC-C0B591441DBD"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:thinkserver_rd540_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D0D2D3BB-77F2-4798-BF81-B9EDB607CE94",
+	"versionEndExcluding": "50.00",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:thinkserver_rd540_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "775D4D4E-C78F-4A18-92AC-C0B591441DBD"
+		}
+	]
 }

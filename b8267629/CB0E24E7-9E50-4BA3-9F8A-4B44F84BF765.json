@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:medtronic:mmt-1351_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CB0E24E7-9E50-4BA3-9F8A-4B44F84BF765",
-  "created": "2022-12-13T15:09:36.333",
-  "lastModified": "2022-12-13T15:42:51.563",
-  "cpeLastModified": "2022-12-13T15:42:51.563",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:medtronic:mmt-1351_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "764DEF5C-3C82-450B-B85D-6B758F0ABB02"
-    }
-  ]
+	"criteria": "cpe:2.3:o:medtronic:mmt-1351_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CB0E24E7-9E50-4BA3-9F8A-4B44F84BF765",
+	"created": "2022-12-13T15:09:36.333",
+	"lastModified": "2022-12-13T15:42:51.563",
+	"cpeLastModified": "2022-12-13T15:42:51.563",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:medtronic:mmt-1351_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "764DEF5C-3C82-450B-B85D-6B758F0ABB02"
+		}
+	]
 }

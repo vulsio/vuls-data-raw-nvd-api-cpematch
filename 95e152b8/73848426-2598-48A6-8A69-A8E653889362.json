@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:nuc11btmi7_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "73848426-2598-48A6-8A69-A8E653889362",
-  "versionEndExcluding": "dbtgl579.0055",
-  "created": "2022-05-19T15:57:49.390",
-  "lastModified": "2022-05-19T15:57:49.390",
-  "cpeLastModified": "2022-05-19T16:33:47.700",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:nuc11btmi7_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "6AC6110A-34BC-4F34-819A-D8CBE0E7C721"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:nuc11btmi7_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "73848426-2598-48A6-8A69-A8E653889362",
+	"versionEndExcluding": "dbtgl579.0055",
+	"created": "2022-05-19T15:57:49.390",
+	"lastModified": "2022-05-19T15:57:49.390",
+	"cpeLastModified": "2022-05-19T16:33:47.700",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:nuc11btmi7_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6AC6110A-34BC-4F34-819A-D8CBE0E7C721"
+		}
+	]
 }

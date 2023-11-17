@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:linux:linux_kernel:5.12:rc3:*:*:*:*:*:*",
-  "matchCriteriaId": "E5371152-7515-4908-BB7E-494805EA5DF2",
-  "created": "2021-03-29T13:20:03.760",
-  "lastModified": "2022-05-23T16:00:19.353",
-  "cpeLastModified": "2021-03-29T13:20:18.150",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:linux:linux_kernel:5.12:rc3:*:*:*:*:*:*",
-      "cpeNameId": "18273D65-2C56-44F3-86BB-210E8183A30E"
-    }
-  ]
+	"criteria": "cpe:2.3:o:linux:linux_kernel:5.12:rc3:*:*:*:*:*:*",
+	"matchCriteriaId": "E5371152-7515-4908-BB7E-494805EA5DF2",
+	"created": "2021-03-29T13:20:03.760",
+	"lastModified": "2022-05-23T16:00:19.353",
+	"cpeLastModified": "2021-03-29T13:20:18.150",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:5.12:rc3:*:*:*:*:*:*",
+			"cpeNameId": "18273D65-2C56-44F3-86BB-210E8183A30E"
+		}
+	]
 }

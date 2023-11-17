@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:siemens:simatic_s7-1500:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "53E68667-655F-45A9-9BCC-9122F933DE4B",
-  "versionEndExcluding": "2.0",
-  "created": "2020-04-15T14:02:30.900",
-  "lastModified": "2020-04-15T14:02:30.900",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:siemens:simatic_s7-1500:-:*:*:*:*:*:*:*",
-      "cpeNameId": "36D1F2C3-6967-485E-9B4B-987472719D86"
-    }
-  ]
+	"criteria": "cpe:2.3:a:siemens:simatic_s7-1500:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "53E68667-655F-45A9-9BCC-9122F933DE4B",
+	"versionEndExcluding": "2.0",
+	"created": "2020-04-15T14:02:30.900",
+	"lastModified": "2020-04-15T14:02:30.900",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:siemens:simatic_s7-1500:-:*:*:*:*:*:*:*",
+			"cpeNameId": "36D1F2C3-6967-485E-9B4B-987472719D86"
+		}
+	]
 }

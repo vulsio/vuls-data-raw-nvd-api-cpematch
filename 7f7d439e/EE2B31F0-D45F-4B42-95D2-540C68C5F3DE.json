@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:siemens:sinamics_s150_firmware:4.7:-:*:*:*:*:*:*",
-  "matchCriteriaId": "EE2B31F0-D45F-4B42-95D2-540C68C5F3DE",
-  "created": "2020-09-29T12:50:59.993",
-  "lastModified": "2020-09-29T12:50:59.993",
-  "cpeLastModified": "2021-01-14T19:46:18.493",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:sinamics_s150_firmware:4.7:-:*:*:*:*:*:*",
-      "cpeNameId": "C55F4CC4-C455-44EE-BF60-E5A48EBC2AAF"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:sinamics_s150_firmware:4.7:-:*:*:*:*:*:*",
+	"matchCriteriaId": "EE2B31F0-D45F-4B42-95D2-540C68C5F3DE",
+	"created": "2020-09-29T12:50:59.993",
+	"lastModified": "2020-09-29T12:50:59.993",
+	"cpeLastModified": "2021-01-14T19:46:18.493",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:sinamics_s150_firmware:4.7:-:*:*:*:*:*:*",
+			"cpeNameId": "C55F4CC4-C455-44EE-BF60-E5A48EBC2AAF"
+		}
+	]
 }

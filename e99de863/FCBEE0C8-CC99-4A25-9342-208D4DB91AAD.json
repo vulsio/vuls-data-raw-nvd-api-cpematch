@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:oracle:fujitsu_m12-2_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FCBEE0C8-CC99-4A25-9342-208D4DB91AAD",
-  "created": "2022-02-11T20:10:00.920",
-  "lastModified": "2022-02-11T20:10:00.920",
-  "cpeLastModified": "2022-02-20T06:22:53.880",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:oracle:fujitsu_m12-2_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "F2666A18-2A17-44E3-9606-9032C5F7746F"
-    }
-  ]
+	"criteria": "cpe:2.3:o:oracle:fujitsu_m12-2_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FCBEE0C8-CC99-4A25-9342-208D4DB91AAD",
+	"created": "2022-02-11T20:10:00.920",
+	"lastModified": "2022-02-11T20:10:00.920",
+	"cpeLastModified": "2022-02-20T06:22:53.880",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:oracle:fujitsu_m12-2_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F2666A18-2A17-44E3-9606-9032C5F7746F"
+		}
+	]
 }

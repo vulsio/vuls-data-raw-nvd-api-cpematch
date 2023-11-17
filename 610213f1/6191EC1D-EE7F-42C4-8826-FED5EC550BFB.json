@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:sharp-nec-display:un552s_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6191EC1D-EE7F-42C4-8826-FED5EC550BFB",
-  "versionEndIncluding": "r1.300",
-  "created": "2021-06-14T12:48:12.260",
-  "lastModified": "2022-05-23T13:47:43.173",
-  "cpeLastModified": "2022-05-23T14:11:28.027",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:sharp-nec-display:un552s_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "4D9515C7-DCB0-4785-BBFA-6F2A2EBEEF9E"
-    },
-    {
-      "cpeName": "cpe:2.3:o:sharp-nec-display:un552s_firmware:r1.300:*:*:*:*:*:*:*",
-      "cpeNameId": "2FE1E36D-B7A7-47F9-889F-A23B1F550F29"
-    }
-  ]
+	"criteria": "cpe:2.3:o:sharp-nec-display:un552s_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6191EC1D-EE7F-42C4-8826-FED5EC550BFB",
+	"versionEndIncluding": "r1.300",
+	"created": "2021-06-14T12:48:12.260",
+	"lastModified": "2022-05-23T13:47:43.173",
+	"cpeLastModified": "2022-05-23T14:11:28.027",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:sharp-nec-display:un552s_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4D9515C7-DCB0-4785-BBFA-6F2A2EBEEF9E"
+		},
+		{
+			"cpeName": "cpe:2.3:o:sharp-nec-display:un552s_firmware:r1.300:*:*:*:*:*:*:*",
+			"cpeNameId": "2FE1E36D-B7A7-47F9-889F-A23B1F550F29"
+		}
+	]
 }

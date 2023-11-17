@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:asus:pb60v:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "3819ED72-D8BA-475A-BC75-1AFDD32355CE",
-  "created": "2022-01-26T21:04:20.880",
-  "lastModified": "2022-01-26T21:04:20.880",
-  "cpeLastModified": "2022-01-27T16:30:04.277",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:asus:pb60v:-:*:*:*:*:*:*:*",
-      "cpeNameId": "33300CCA-EC50-4050-944A-F23289579D20"
-    }
-  ]
+	"criteria": "cpe:2.3:h:asus:pb60v:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3819ED72-D8BA-475A-BC75-1AFDD32355CE",
+	"created": "2022-01-26T21:04:20.880",
+	"lastModified": "2022-01-26T21:04:20.880",
+	"cpeLastModified": "2022-01-27T16:30:04.277",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:asus:pb60v:-:*:*:*:*:*:*:*",
+			"cpeNameId": "33300CCA-EC50-4050-944A-F23289579D20"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:core_i5-9500_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "443C4081-E238-4AF4-AABE-AB5489756333",
-  "created": "2019-11-18T14:39:03.007",
-  "lastModified": "2022-09-01T17:15:33.260",
-  "cpeLastModified": "2020-03-23T18:34:32.580",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:core_i5-9500_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "EB553AD1-1622-405E-985B-6B018FAEF0FD"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:core_i5-9500_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "443C4081-E238-4AF4-AABE-AB5489756333",
+	"created": "2019-11-18T14:39:03.007",
+	"lastModified": "2022-09-01T17:15:33.260",
+	"cpeLastModified": "2020-03-23T18:34:32.580",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:core_i5-9500_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EB553AD1-1622-405E-985B-6B018FAEF0FD"
+		}
+	]
 }

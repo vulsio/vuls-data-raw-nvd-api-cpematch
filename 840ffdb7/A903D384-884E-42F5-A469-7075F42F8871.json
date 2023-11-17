@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:supermicro:x9drl-3\\/if_firmware:3.3:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A903D384-884E-42F5-A469-7075F42F8871",
-  "created": "2019-09-23T14:24:19.077",
-  "lastModified": "2019-09-23T14:24:19.077",
-  "cpeLastModified": "2020-04-27T17:20:45.117",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:supermicro:x9drl-3\\/if_firmware:3.3:*:*:*:*:*:*:*",
-      "cpeNameId": "6AD24B0B-14E8-48E3-83B3-88C1491A711A"
-    }
-  ]
+	"criteria": "cpe:2.3:o:supermicro:x9drl-3\\/if_firmware:3.3:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A903D384-884E-42F5-A469-7075F42F8871",
+	"created": "2019-09-23T14:24:19.077",
+	"lastModified": "2019-09-23T14:24:19.077",
+	"cpeLastModified": "2020-04-27T17:20:45.117",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:supermicro:x9drl-3\\/if_firmware:3.3:*:*:*:*:*:*:*",
+			"cpeNameId": "6AD24B0B-14E8-48E3-83B3-88C1491A711A"
+		}
+	]
 }

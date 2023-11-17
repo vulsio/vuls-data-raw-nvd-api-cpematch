@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp3420102_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F4C75AF4-DB31-491B-8635-E7E0E3614476",
-  "versionEndExcluding": "3.50",
-  "created": "2022-09-15T13:18:04.547",
-  "lastModified": "2022-09-15T13:18:04.547",
-  "cpeLastModified": "2022-09-15T14:27:26.280",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp3420102_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "778FFE9C-37DA-44B1-88F0-B267B5582841"
-    },
-    {
-      "cpeName": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp3420102_firmware:3.40:*:*:*:*:*:*:*",
-      "cpeNameId": "CC00F8B1-D550-4605-867E-8B7D052B2EC8"
-    }
-  ]
+	"criteria": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp3420102_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F4C75AF4-DB31-491B-8635-E7E0E3614476",
+	"versionEndExcluding": "3.50",
+	"created": "2022-09-15T13:18:04.547",
+	"lastModified": "2022-09-15T13:18:04.547",
+	"cpeLastModified": "2022-09-15T14:27:26.280",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp3420102_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "778FFE9C-37DA-44B1-88F0-B267B5582841"
+		},
+		{
+			"cpeName": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp3420102_firmware:3.40:*:*:*:*:*:*:*",
+			"cpeNameId": "CC00F8B1-D550-4605-867E-8B7D052B2EC8"
+		}
+	]
 }

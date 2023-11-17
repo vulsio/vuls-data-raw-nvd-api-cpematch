@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:nec:infocage_siteshell:*:*:*:*:*:iis:*:*",
-  "matchCriteriaId": "9D0CF31F-FADA-4676-88E3-D3F0FD604696",
-  "versionStartIncluding": "4.1.0.0",
-  "versionEndExcluding": "4.1.0.5",
-  "created": "2020-10-13T18:21:20.440",
-  "lastModified": "2020-10-13T18:21:20.440",
-  "cpeLastModified": "2020-12-22T16:23:40.633",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:nec:infocage_siteshell:4.1.0.0:*:*:*:*:iis:*:*",
-      "cpeNameId": "A7F94249-6324-49C5-9750-10B667E3F037"
-    }
-  ]
+	"criteria": "cpe:2.3:a:nec:infocage_siteshell:*:*:*:*:*:iis:*:*",
+	"matchCriteriaId": "9D0CF31F-FADA-4676-88E3-D3F0FD604696",
+	"versionStartIncluding": "4.1.0.0",
+	"versionEndExcluding": "4.1.0.5",
+	"created": "2020-10-13T18:21:20.440",
+	"lastModified": "2020-10-13T18:21:20.440",
+	"cpeLastModified": "2020-12-22T16:23:40.633",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:nec:infocage_siteshell:4.1.0.0:*:*:*:*:iis:*:*",
+			"cpeNameId": "A7F94249-6324-49C5-9750-10B667E3F037"
+		}
+	]
 }

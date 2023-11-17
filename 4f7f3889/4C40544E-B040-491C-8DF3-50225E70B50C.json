@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:qualcomm:sa6155_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4C40544E-B040-491C-8DF3-50225E70B50C",
-  "created": "2020-06-03T16:16:57.953",
-  "lastModified": "2022-09-19T01:02:11.200",
-  "cpeLastModified": "2020-12-21T17:58:56.697",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:qualcomm:sa6155_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "FADE5663-D8B7-4164-991C-AF91E02433FC"
-    }
-  ]
+	"criteria": "cpe:2.3:o:qualcomm:sa6155_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4C40544E-B040-491C-8DF3-50225E70B50C",
+	"created": "2020-06-03T16:16:57.953",
+	"lastModified": "2022-09-19T01:02:11.200",
+	"cpeLastModified": "2020-12-21T17:58:56.697",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:qualcomm:sa6155_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FADE5663-D8B7-4164-991C-AF91E02433FC"
+		}
+	]
 }

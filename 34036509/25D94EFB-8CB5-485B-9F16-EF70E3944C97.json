@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:siemens:tim_4r-ie:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "25D94EFB-8CB5-485B-9F16-EF70E3944C97",
-  "created": "2022-02-01T17:53:57.910",
-  "lastModified": "2022-02-01T17:53:57.910",
-  "cpeLastModified": "2022-02-01T18:13:05.533",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:siemens:tim_4r-ie:-:*:*:*:*:*:*:*",
-      "cpeNameId": "AB0A2988-C9BA-4146-8FA1-945DB474F80B"
-    }
-  ]
+	"criteria": "cpe:2.3:h:siemens:tim_4r-ie:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "25D94EFB-8CB5-485B-9F16-EF70E3944C97",
+	"created": "2022-02-01T17:53:57.910",
+	"lastModified": "2022-02-01T17:53:57.910",
+	"cpeLastModified": "2022-02-01T18:13:05.533",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:siemens:tim_4r-ie:-:*:*:*:*:*:*:*",
+			"cpeNameId": "AB0A2988-C9BA-4146-8FA1-945DB474F80B"
+		}
+	]
 }

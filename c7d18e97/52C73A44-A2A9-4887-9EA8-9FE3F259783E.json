@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:xeon_silver_4210t_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "52C73A44-A2A9-4887-9EA8-9FE3F259783E",
-  "created": "2021-09-01T00:25:55.603",
-  "lastModified": "2023-02-24T19:24:33.533",
-  "cpeLastModified": "2021-09-01T13:02:25.277",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:xeon_silver_4210t_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "4FF6EB71-B3E1-47BB-9970-82B09DC77F45"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:xeon_silver_4210t_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "52C73A44-A2A9-4887-9EA8-9FE3F259783E",
+	"created": "2021-09-01T00:25:55.603",
+	"lastModified": "2023-02-24T19:24:33.533",
+	"cpeLastModified": "2021-09-01T13:02:25.277",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:xeon_silver_4210t_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4FF6EB71-B3E1-47BB-9970-82B09DC77F45"
+		}
+	]
 }

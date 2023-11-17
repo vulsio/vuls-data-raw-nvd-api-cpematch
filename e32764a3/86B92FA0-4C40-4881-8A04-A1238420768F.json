@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:thinkserver_ts150_firmware:fbktc3a:*:*:*:*:*:*:*",
-  "matchCriteriaId": "86B92FA0-4C40-4881-8A04-A1238420768F",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T22:53:51.837",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:thinkserver_ts150_firmware:fbktc3a:*:*:*:*:*:*:*",
-      "cpeNameId": "46AA57A6-46AE-4005-A27A-B12244C4B5CC"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:thinkserver_ts150_firmware:fbktc3a:*:*:*:*:*:*:*",
+	"matchCriteriaId": "86B92FA0-4C40-4881-8A04-A1238420768F",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T22:53:51.837",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:thinkserver_ts150_firmware:fbktc3a:*:*:*:*:*:*:*",
+			"cpeNameId": "46AA57A6-46AE-4005-A27A-B12244C4B5CC"
+		}
+	]
 }

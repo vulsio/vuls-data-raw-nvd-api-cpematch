@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:phoenixcontact:tc_mguard_rs4000_4g_att_vpn_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "67439834-834F-4EBA-90DA-31CA956F3B1C",
-  "versionEndExcluding": "8.8.3",
-  "created": "2020-12-18T14:36:15.317",
-  "lastModified": "2020-12-18T14:36:15.317",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:phoenixcontact:tc_mguard_rs4000_4g_att_vpn_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "D689ACC3-7FC0-40DB-A512-73106C6870BF"
-    }
-  ]
+	"criteria": "cpe:2.3:o:phoenixcontact:tc_mguard_rs4000_4g_att_vpn_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "67439834-834F-4EBA-90DA-31CA956F3B1C",
+	"versionEndExcluding": "8.8.3",
+	"created": "2020-12-18T14:36:15.317",
+	"lastModified": "2020-12-18T14:36:15.317",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:phoenixcontact:tc_mguard_rs4000_4g_att_vpn_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D689ACC3-7FC0-40DB-A512-73106C6870BF"
+		}
+	]
 }

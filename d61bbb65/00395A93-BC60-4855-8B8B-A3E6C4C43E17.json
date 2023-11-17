@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:syltek:syltek:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "00395A93-BC60-4855-8B8B-A3E6C4C43E17",
-  "versionEndExcluding": "10.22.00",
-  "created": "2022-03-29T14:44:24.130",
-  "lastModified": "2022-03-29T14:44:24.130",
-  "cpeLastModified": "2022-03-29T14:44:46.437",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:syltek:syltek:-:*:*:*:*:*:*:*",
-      "cpeNameId": "196A599F-42A9-42FD-970E-15AB37726F9E"
-    }
-  ]
+	"criteria": "cpe:2.3:a:syltek:syltek:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "00395A93-BC60-4855-8B8B-A3E6C4C43E17",
+	"versionEndExcluding": "10.22.00",
+	"created": "2022-03-29T14:44:24.130",
+	"lastModified": "2022-03-29T14:44:24.130",
+	"cpeLastModified": "2022-03-29T14:44:46.437",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:syltek:syltek:-:*:*:*:*:*:*:*",
+			"cpeNameId": "196A599F-42A9-42FD-970E-15AB37726F9E"
+		}
+	]
 }

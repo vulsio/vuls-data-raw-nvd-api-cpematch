@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:hp:deskjet_ink_advantage_5000_m2u86a_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "79B06298-380B-4544-BEAE-B3A285813AF1",
-  "versionEndExcluding": "003.2008a",
-  "created": "2020-03-18T15:14:20.043",
-  "lastModified": "2020-03-18T15:14:20.043",
-  "cpeLastModified": "2020-03-18T15:14:20.060",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:deskjet_ink_advantage_5000_m2u86a_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "0ECF6191-C4D3-44D4-81E6-F318F7D4D880"
-    },
-    {
-      "cpeName": "cpe:2.3:o:hp:deskjet_ink_advantage_5000_m2u86a_firmware:003.1925a:*:*:*:*:*:*:*",
-      "cpeNameId": "7327418B-1B13-4B46-B22C-CDC20E100A66"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:deskjet_ink_advantage_5000_m2u86a_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "79B06298-380B-4544-BEAE-B3A285813AF1",
+	"versionEndExcluding": "003.2008a",
+	"created": "2020-03-18T15:14:20.043",
+	"lastModified": "2020-03-18T15:14:20.043",
+	"cpeLastModified": "2020-03-18T15:14:20.060",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:deskjet_ink_advantage_5000_m2u86a_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0ECF6191-C4D3-44D4-81E6-F318F7D4D880"
+		},
+		{
+			"cpeName": "cpe:2.3:o:hp:deskjet_ink_advantage_5000_m2u86a_firmware:003.1925a:*:*:*:*:*:*:*",
+			"cpeNameId": "7327418B-1B13-4B46-B22C-CDC20E100A66"
+		}
+	]
 }

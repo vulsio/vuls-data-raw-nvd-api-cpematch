@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:cisco:aironet_4800_firmware:8.10\\(1.255\\):*:*:*:*:*:*:*",
-  "matchCriteriaId": "D4D7F5DD-253F-4838-9D03-881138F52EAE",
-  "created": "2020-04-23T16:08:18.513",
-  "lastModified": "2020-04-23T16:08:18.513",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:aironet_4800_firmware:8.10\\(1.255\\):*:*:*:*:*:*:*",
-      "cpeNameId": "9BEB9C5D-D919-47F2-BDCB-A69747BA1AB7"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:aironet_4800_firmware:8.10\\(1.255\\):*:*:*:*:*:*:*",
+	"matchCriteriaId": "D4D7F5DD-253F-4838-9D03-881138F52EAE",
+	"created": "2020-04-23T16:08:18.513",
+	"lastModified": "2020-04-23T16:08:18.513",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:aironet_4800_firmware:8.10\\(1.255\\):*:*:*:*:*:*:*",
+			"cpeNameId": "9BEB9C5D-D919-47F2-BDCB-A69747BA1AB7"
+		}
+	]
 }

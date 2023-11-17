@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:emerson:rx3i_cpe310_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7BCDEDD6-EAE9-4526-89DA-205BA8B7F149",
-  "versionEndExcluding": "r9.90",
-  "created": "2020-01-24T12:52:53.927",
-  "lastModified": "2020-01-24T12:52:53.927",
-  "cpeLastModified": "2020-02-24T18:53:09.817",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:emerson:rx3i_cpe310_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "7715AD13-D631-44BE-A7C3-534D79145CE5"
-    }
-  ]
+	"criteria": "cpe:2.3:o:emerson:rx3i_cpe310_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7BCDEDD6-EAE9-4526-89DA-205BA8B7F149",
+	"versionEndExcluding": "r9.90",
+	"created": "2020-01-24T12:52:53.927",
+	"lastModified": "2020-01-24T12:52:53.927",
+	"cpeLastModified": "2020-02-24T18:53:09.817",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:emerson:rx3i_cpe310_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7715AD13-D631-44BE-A7C3-534D79145CE5"
+		}
+	]
 }

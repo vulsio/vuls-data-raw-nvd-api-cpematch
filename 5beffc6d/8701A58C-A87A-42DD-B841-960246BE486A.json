@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:btcd_project:btcd:0.3.2:alpha:*:*:*:*:*:*",
-  "matchCriteriaId": "8701A58C-A87A-42DD-B841-960246BE486A",
-  "created": "2020-09-11T13:41:03.237",
-  "lastModified": "2020-09-11T13:41:03.237",
-  "cpeLastModified": "2020-09-23T16:00:48.190",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:btcd_project:btcd:0.3.2:alpha:*:*:*:*:*:*",
-      "cpeNameId": "6A63CB9D-B976-4518-AF21-15F0F87EAF8C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:btcd_project:btcd:0.3.2:alpha:*:*:*:*:*:*",
+	"matchCriteriaId": "8701A58C-A87A-42DD-B841-960246BE486A",
+	"created": "2020-09-11T13:41:03.237",
+	"lastModified": "2020-09-11T13:41:03.237",
+	"cpeLastModified": "2020-09-23T16:00:48.190",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:btcd_project:btcd:0.3.2:alpha:*:*:*:*:*:*",
+			"cpeNameId": "6A63CB9D-B976-4518-AF21-15F0F87EAF8C"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:qualcomm:ipq5332_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A795F64D-6DE9-4D56-AA22-D77470B9E5AD",
-  "created": "2023-10-04T17:26:04.390",
-  "lastModified": "2023-10-05T21:41:55.350",
-  "cpeLastModified": "2023-10-05T21:41:55.350",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:qualcomm:ipq5332_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "ED28B994-10F4-4622-8686-C711B3962FA4"
-    }
-  ]
+	"criteria": "cpe:2.3:o:qualcomm:ipq5332_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A795F64D-6DE9-4D56-AA22-D77470B9E5AD",
+	"created": "2023-10-04T17:26:04.390",
+	"lastModified": "2023-10-05T21:41:55.350",
+	"cpeLastModified": "2023-10-05T21:41:55.350",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:qualcomm:ipq5332_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "ED28B994-10F4-4622-8686-C711B3962FA4"
+		}
+	]
 }

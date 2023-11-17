@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:peplink:max_br1_mini_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6A8F84D7-58A8-4B07-91EC-56014DAA974E",
-  "versionEndIncluding": "8.1.0",
-  "created": "2020-10-08T15:01:54.680",
-  "lastModified": "2020-10-08T15:01:54.680",
-  "cpeLastModified": "2020-11-06T13:52:52.247",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:peplink:max_br1_mini_firmware:8.1.0:*:*:*:*:*:*:*",
-      "cpeNameId": "B536BD0A-71EC-43FC-A53D-8A7BD30D7B2A"
-    }
-  ]
+	"criteria": "cpe:2.3:o:peplink:max_br1_mini_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6A8F84D7-58A8-4B07-91EC-56014DAA974E",
+	"versionEndIncluding": "8.1.0",
+	"created": "2020-10-08T15:01:54.680",
+	"lastModified": "2020-10-08T15:01:54.680",
+	"cpeLastModified": "2020-11-06T13:52:52.247",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:peplink:max_br1_mini_firmware:8.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B536BD0A-71EC-43FC-A53D-8A7BD30D7B2A"
+		}
+	]
 }

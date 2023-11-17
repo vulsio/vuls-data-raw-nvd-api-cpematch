@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:oracle:advanced_networking_option:18c:*:*:*:*:*:*:.",
-  "matchCriteriaId": "A581A1BC-5AD1-4BB1-84B1-3FA369EB46D6",
-  "created": "2021-01-25T12:56:08.207",
-  "lastModified": "2021-01-25T12:56:08.207",
-  "cpeLastModified": "2021-01-25T17:38:40.447",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:oracle:advanced_networking_option:18c:*:*:*:*:*:*:.",
-      "cpeNameId": "A3A8F5E8-876A-4F5C-BFC3-047CD30CFA97"
-    }
-  ]
+	"criteria": "cpe:2.3:a:oracle:advanced_networking_option:18c:*:*:*:*:*:*:.",
+	"matchCriteriaId": "A581A1BC-5AD1-4BB1-84B1-3FA369EB46D6",
+	"created": "2021-01-25T12:56:08.207",
+	"lastModified": "2021-01-25T12:56:08.207",
+	"cpeLastModified": "2021-01-25T17:38:40.447",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:advanced_networking_option:18c:*:*:*:*:*:*:.",
+			"cpeNameId": "A3A8F5E8-876A-4F5C-BFC3-047CD30CFA97"
+		}
+	]
 }

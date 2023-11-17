@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:parsecgaming:parsec:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9885E1F4-7091-419D-B092-C4058EB910F4",
-  "versionEndExcluding": "140-3",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:parsecgaming:parsec:140-1:*:*:*:*:*:*:*",
-      "cpeNameId": "57B8015C-D829-4B00-AE6E-CDEBDC7551A2"
-    }
-  ]
+	"criteria": "cpe:2.3:a:parsecgaming:parsec:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9885E1F4-7091-419D-B092-C4058EB910F4",
+	"versionEndExcluding": "140-3",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:parsecgaming:parsec:140-1:*:*:*:*:*:*:*",
+			"cpeNameId": "57B8015C-D829-4B00-AE6E-CDEBDC7551A2"
+		}
+	]
 }

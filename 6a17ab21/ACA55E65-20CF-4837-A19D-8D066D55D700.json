@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:nec:aterm_wg1200hs2_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "ACA55E65-20CF-4837-A19D-8D066D55D700",
-  "versionEndIncluding": "2.5.0",
-  "created": "2021-04-30T13:54:39.930",
-  "lastModified": "2021-04-30T13:54:39.930",
-  "cpeLastModified": "2021-04-30T13:57:57.463",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:nec:aterm_wg1200hs2_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "4D700372-A302-4AF0-8C97-7A700FC6FD6B"
-    },
-    {
-      "cpeName": "cpe:2.3:o:nec:aterm_wg1200hs2_firmware:2.5.0:*:*:*:*:*:*:*",
-      "cpeNameId": "4F7A9A43-58C5-4763-846A-A0448EDA6203"
-    }
-  ]
+	"criteria": "cpe:2.3:o:nec:aterm_wg1200hs2_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "ACA55E65-20CF-4837-A19D-8D066D55D700",
+	"versionEndIncluding": "2.5.0",
+	"created": "2021-04-30T13:54:39.930",
+	"lastModified": "2021-04-30T13:54:39.930",
+	"cpeLastModified": "2021-04-30T13:57:57.463",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:nec:aterm_wg1200hs2_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4D700372-A302-4AF0-8C97-7A700FC6FD6B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:nec:aterm_wg1200hs2_firmware:2.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "4F7A9A43-58C5-4763-846A-A0448EDA6203"
+		}
+	]
 }

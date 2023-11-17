@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:_akindo_sushiro_co_ltd:sushiro:2.1.16.1:*:*:*:*:ios:*:*",
-  "matchCriteriaId": "175AE0AC-0D6D-44A6-8B56-EAFF62C4352A",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-02-25T12:07:32.520",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:akindo-sushiro:sushiro:2.1.16.1:*:*:*:*:iphone_os:*:*",
-      "cpeNameId": "750B84BA-BF18-4CEC-B847-EE5EEC61EFC0"
-    }
-  ]
+	"criteria": "cpe:2.3:a:_akindo_sushiro_co_ltd:sushiro:2.1.16.1:*:*:*:*:ios:*:*",
+	"matchCriteriaId": "175AE0AC-0D6D-44A6-8B56-EAFF62C4352A",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-02-25T12:07:32.520",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:akindo-sushiro:sushiro:2.1.16.1:*:*:*:*:iphone_os:*:*",
+			"cpeNameId": "750B84BA-BF18-4CEC-B847-EE5EEC61EFC0"
+		}
+	]
 }

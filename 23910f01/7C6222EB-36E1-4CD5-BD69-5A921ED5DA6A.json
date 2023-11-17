@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:cisco:virtualized_voice_browser:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7C6222EB-36E1-4CD5-BD69-5A921ED5DA6A",
-  "versionEndExcluding": "12.5\\(1\\)",
-  "created": "2021-12-16T19:04:17.840",
-  "lastModified": "2021-12-16T19:04:17.840",
-  "cpeLastModified": "2021-12-16T19:56:48.887",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:cisco:virtualized_voice_browser:11.6:*:*:*:*:*:*:*",
-      "cpeNameId": "75910944-61A4-4348-A109-A877B16E3100"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:virtualized_voice_browser:11.6\\(1\\):*:*:*:*:*:*:*",
-      "cpeNameId": "4C7D1286-7A85-47C6-8E61-85C1B7B6BB11"
-    }
-  ]
+	"criteria": "cpe:2.3:a:cisco:virtualized_voice_browser:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7C6222EB-36E1-4CD5-BD69-5A921ED5DA6A",
+	"versionEndExcluding": "12.5\\(1\\)",
+	"created": "2021-12-16T19:04:17.840",
+	"lastModified": "2021-12-16T19:04:17.840",
+	"cpeLastModified": "2021-12-16T19:56:48.887",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:virtualized_voice_browser:11.6:*:*:*:*:*:*:*",
+			"cpeNameId": "75910944-61A4-4348-A109-A877B16E3100"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:virtualized_voice_browser:11.6\\(1\\):*:*:*:*:*:*:*",
+			"cpeNameId": "4C7D1286-7A85-47C6-8E61-85C1B7B6BB11"
+		}
+	]
 }

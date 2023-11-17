@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:qualcomm:wcd9306_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FC012AD0-BCEE-4B1E-9B15-5D77D78CEA01",
-  "created": "2021-02-23T14:32:40.113",
-  "lastModified": "2022-06-16T14:11:27.503",
-  "cpeLastModified": "2021-03-08T14:06:53.447",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:qualcomm:wcd9306_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "C29FDBB5-FE32-4EAA-A404-826B52A0265F"
-    }
-  ]
+	"criteria": "cpe:2.3:o:qualcomm:wcd9306_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FC012AD0-BCEE-4B1E-9B15-5D77D78CEA01",
+	"created": "2021-02-23T14:32:40.113",
+	"lastModified": "2022-06-16T14:11:27.503",
+	"cpeLastModified": "2021-03-08T14:06:53.447",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:qualcomm:wcd9306_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C29FDBB5-FE32-4EAA-A404-826B52A0265F"
+		}
+	]
 }

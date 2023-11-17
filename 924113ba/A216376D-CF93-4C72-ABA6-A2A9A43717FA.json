@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:fujitsu:ipcom_ve2_sc_plus_200_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A216376D-CF93-4C72-ABA6-A2A9A43717FA",
-  "versionEndExcluding": "e20l33_nf1101",
-  "created": "2022-05-31T15:01:57.927",
-  "lastModified": "2022-05-31T15:01:57.927",
-  "cpeLastModified": "2022-05-31T15:26:07.483",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:fujitsu:ipcom_ve2_sc_plus_200_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "D1D5A9F0-119C-4D10-B982-D73E8A03BACB"
-    }
-  ]
+	"criteria": "cpe:2.3:o:fujitsu:ipcom_ve2_sc_plus_200_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A216376D-CF93-4C72-ABA6-A2A9A43717FA",
+	"versionEndExcluding": "e20l33_nf1101",
+	"created": "2022-05-31T15:01:57.927",
+	"lastModified": "2022-05-31T15:01:57.927",
+	"cpeLastModified": "2022-05-31T15:26:07.483",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:fujitsu:ipcom_ve2_sc_plus_200_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D1D5A9F0-119C-4D10-B982-D73E8A03BACB"
+		}
+	]
 }

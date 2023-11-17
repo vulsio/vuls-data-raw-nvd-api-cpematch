@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:phalconeye_project:phalconeye:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "09D5FE06-1135-4DE2-BC49-9FA16E53976C",
-  "versionEndIncluding": "0.4.1",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2020-02-25T14:48:36.983",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:phalconeye_project:phalconeye:0.4.0:*:*:*:*:*:*:*",
-      "cpeNameId": "658C454E-BB3D-40B1-979A-E403BEDE01C3"
-    },
-    {
-      "cpeName": "cpe:2.3:a:phalconeye_project:phalconeye:0.4.1:*:*:*:*:*:*:*",
-      "cpeNameId": "2124E8FC-ECD0-49A4-BB97-DAC66F989F3E"
-    }
-  ]
+	"criteria": "cpe:2.3:a:phalconeye_project:phalconeye:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "09D5FE06-1135-4DE2-BC49-9FA16E53976C",
+	"versionEndIncluding": "0.4.1",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2020-02-25T14:48:36.983",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:phalconeye_project:phalconeye:0.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "658C454E-BB3D-40B1-979A-E403BEDE01C3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:phalconeye_project:phalconeye:0.4.1:*:*:*:*:*:*:*",
+			"cpeNameId": "2124E8FC-ECD0-49A4-BB97-DAC66F989F3E"
+		}
+	]
 }

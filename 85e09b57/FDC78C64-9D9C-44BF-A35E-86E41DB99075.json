@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1517f-3_pn\\/dp_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FDC78C64-9D9C-44BF-A35E-86E41DB99075",
-  "versionEndExcluding": "2.0",
-  "created": "2020-04-15T14:02:30.777",
-  "lastModified": "2022-11-09T17:50:26.953",
-  "cpeLastModified": "2022-11-09T17:50:26.953",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1517f-3_pn\\/dp_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "06580728-32D0-4B55-B50A-8F844BFD5CAD"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1517f-3_pn\\/dp_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FDC78C64-9D9C-44BF-A35E-86E41DB99075",
+	"versionEndExcluding": "2.0",
+	"created": "2020-04-15T14:02:30.777",
+	"lastModified": "2022-11-09T17:50:26.953",
+	"cpeLastModified": "2022-11-09T17:50:26.953",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1517f-3_pn\\/dp_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "06580728-32D0-4B55-B50A-8F844BFD5CAD"
+		}
+	]
 }

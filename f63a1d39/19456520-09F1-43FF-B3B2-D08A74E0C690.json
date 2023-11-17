@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:qualcomm:smr546_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "19456520-09F1-43FF-B3B2-D08A74E0C690",
-  "created": "2021-01-26T12:00:06.990",
-  "lastModified": "2021-01-26T12:00:06.990",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:qualcomm:smr546_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "2D421E9C-E970-4AA1-8E3E-9A76F9538D27"
-    }
-  ]
+	"criteria": "cpe:2.3:o:qualcomm:smr546_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "19456520-09F1-43FF-B3B2-D08A74E0C690",
+	"created": "2021-01-26T12:00:06.990",
+	"lastModified": "2021-01-26T12:00:06.990",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:qualcomm:smr546_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2D421E9C-E970-4AA1-8E3E-9A76F9538D27"
+		}
+	]
 }

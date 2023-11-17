@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:weintek:easybuilder_pro:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CFCF1DCF-C041-4A39-B84B-52D80CBEE863",
-  "versionEndExcluding": "6.07.02.480",
-  "created": "2023-03-01T18:51:02.797",
-  "lastModified": "2023-06-16T23:14:15.963",
-  "cpeLastModified": "2023-09-22T21:13:32.977",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:weintek:easybuilder_pro:6.07.02.246:*:*:*:*:*:*:*",
-      "cpeNameId": "31602E51-684D-464C-BAA5-800E52512E79"
-    },
-    {
-      "cpeName": "cpe:2.3:a:weintek:easybuilder_pro:6.07.02.320:*:*:*:*:*:*:*",
-      "cpeNameId": "5D69942F-2D6C-4073-9C61-9DA0BCB1B437"
-    }
-  ]
+	"criteria": "cpe:2.3:a:weintek:easybuilder_pro:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CFCF1DCF-C041-4A39-B84B-52D80CBEE863",
+	"versionEndExcluding": "6.07.02.480",
+	"created": "2023-03-01T18:51:02.797",
+	"lastModified": "2023-06-16T23:14:15.963",
+	"cpeLastModified": "2023-09-22T21:13:32.977",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:weintek:easybuilder_pro:6.07.02.246:*:*:*:*:*:*:*",
+			"cpeNameId": "31602E51-684D-464C-BAA5-800E52512E79"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weintek:easybuilder_pro:6.07.02.320:*:*:*:*:*:*:*",
+			"cpeNameId": "5D69942F-2D6C-4073-9C61-9DA0BCB1B437"
+		}
+	]
 }

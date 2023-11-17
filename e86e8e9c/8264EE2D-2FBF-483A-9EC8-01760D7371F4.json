@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:intel:nuc_11_performance_kit_nuc11pahi5_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8264EE2D-2FBF-483A-9EC8-01760D7371F4",
-  "versionEndExcluding": "patgl357.0040",
-  "created": "2021-11-19T13:59:28.140",
-  "lastModified": "2021-11-19T13:59:28.140",
-  "cpeLastModified": "2021-11-19T16:39:48.013",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:nuc_11_performance_kit_nuc11pahi5_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "C1817C13-19F8-4FA9-BE4B-E64A967A05AC"
-    },
-    {
-      "cpeName": "cpe:2.3:o:intel:nuc_11_performance_kit_nuc11pahi5_firmware:patgl357.0037:*:*:*:*:*:*:*",
-      "cpeNameId": "4D872857-86A9-4540-9E88-3BAEF79F0AFA"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:nuc_11_performance_kit_nuc11pahi5_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8264EE2D-2FBF-483A-9EC8-01760D7371F4",
+	"versionEndExcluding": "patgl357.0040",
+	"created": "2021-11-19T13:59:28.140",
+	"lastModified": "2021-11-19T13:59:28.140",
+	"cpeLastModified": "2021-11-19T16:39:48.013",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:nuc_11_performance_kit_nuc11pahi5_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C1817C13-19F8-4FA9-BE4B-E64A967A05AC"
+		},
+		{
+			"cpeName": "cpe:2.3:o:intel:nuc_11_performance_kit_nuc11pahi5_firmware:patgl357.0037:*:*:*:*:*:*:*",
+			"cpeNameId": "4D872857-86A9-4540-9E88-3BAEF79F0AFA"
+		}
+	]
 }

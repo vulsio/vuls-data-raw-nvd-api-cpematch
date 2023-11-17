@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:powertekpdus:piml_pdu_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E5AABA79-C8D8-4C7F-8140-8B95E176CE3D",
-  "versionEndExcluding": "3.30.30",
-  "created": "2022-06-16T15:45:53.420",
-  "lastModified": "2022-06-16T15:45:53.420",
-  "cpeLastModified": "2022-07-27T16:21:20.713",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:powertekpdus:piml_pdu_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "71F09B1A-AF73-4C7F-8355-1FF5DD0533F7"
-    }
-  ]
+	"criteria": "cpe:2.3:o:powertekpdus:piml_pdu_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E5AABA79-C8D8-4C7F-8140-8B95E176CE3D",
+	"versionEndExcluding": "3.30.30",
+	"created": "2022-06-16T15:45:53.420",
+	"lastModified": "2022-06-16T15:45:53.420",
+	"cpeLastModified": "2022-07-27T16:21:20.713",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:powertekpdus:piml_pdu_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "71F09B1A-AF73-4C7F-8355-1FF5DD0533F7"
+		}
+	]
 }

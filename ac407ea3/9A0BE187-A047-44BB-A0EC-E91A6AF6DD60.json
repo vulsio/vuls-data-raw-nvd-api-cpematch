@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:buildah_project:buildah:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9A0BE187-A047-44BB-A0EC-E91A6AF6DD60",
-  "created": "2019-12-18T13:06:15.360",
-  "lastModified": "2019-12-18T13:06:15.360",
-  "cpeLastModified": "2019-12-18T16:05:19.930",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:buildah_project:buildah:-:*:*:*:*:*:*:*",
-      "cpeNameId": "89437474-EF12-4ACD-9FA3-62E64971DBB4"
-    }
-  ]
+	"criteria": "cpe:2.3:a:buildah_project:buildah:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9A0BE187-A047-44BB-A0EC-E91A6AF6DD60",
+	"created": "2019-12-18T13:06:15.360",
+	"lastModified": "2019-12-18T13:06:15.360",
+	"cpeLastModified": "2019-12-18T16:05:19.930",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:buildah_project:buildah:-:*:*:*:*:*:*:*",
+			"cpeNameId": "89437474-EF12-4ACD-9FA3-62E64971DBB4"
+		}
+	]
 }

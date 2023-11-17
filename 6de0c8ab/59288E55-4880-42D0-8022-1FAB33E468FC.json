@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:core_m-5y10c_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "59288E55-4880-42D0-8022-1FAB33E468FC",
-  "created": "2019-11-18T14:39:15.727",
-  "lastModified": "2019-11-18T14:39:15.727",
-  "cpeLastModified": "2020-03-23T18:35:18.023",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:core_m-5y10c_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "3FA9517C-3965-46D5-AD16-8FA5B46DA703"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:core_m-5y10c_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "59288E55-4880-42D0-8022-1FAB33E468FC",
+	"created": "2019-11-18T14:39:15.727",
+	"lastModified": "2019-11-18T14:39:15.727",
+	"cpeLastModified": "2020-03-23T18:35:18.023",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:core_m-5y10c_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3FA9517C-3965-46D5-AD16-8FA5B46DA703"
+		}
+	]
 }

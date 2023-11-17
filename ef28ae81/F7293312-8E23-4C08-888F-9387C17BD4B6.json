@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:g7_7500_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F7293312-8E23-4C08-888F-9387C17BD4B6",
-  "versionEndExcluding": "1.11.1",
-  "created": "2022-02-02T15:49:33.980",
-  "lastModified": "2022-02-02T15:49:33.980",
-  "cpeLastModified": "2022-02-04T14:52:40.430",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:g7_7500_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "11DA26D7-443E-4944-A2EE-520EFF5DB449"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:g7_7500_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F7293312-8E23-4C08-888F-9387C17BD4B6",
+	"versionEndExcluding": "1.11.1",
+	"created": "2022-02-02T15:49:33.980",
+	"lastModified": "2022-02-02T15:49:33.980",
+	"cpeLastModified": "2022-02-04T14:52:40.430",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:g7_7500_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "11DA26D7-443E-4944-A2EE-520EFF5DB449"
+		}
+	]
 }

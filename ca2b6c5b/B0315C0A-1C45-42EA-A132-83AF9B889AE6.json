@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:oracle:banking_corporate_lending:14.3.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B0315C0A-1C45-42EA-A132-83AF9B889AE6",
-  "created": "2021-01-30T01:38:39.507",
-  "lastModified": "2021-01-30T01:38:39.507",
-  "cpeLastModified": "2021-01-30T01:38:39.537",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:oracle:banking_corporate_lending:14.3.0:*:*:*:*:*:*:*",
-      "cpeNameId": "C315C9DD-F099-438B-AD49-E4E058DA7FED"
-    }
-  ]
+	"criteria": "cpe:2.3:a:oracle:banking_corporate_lending:14.3.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B0315C0A-1C45-42EA-A132-83AF9B889AE6",
+	"created": "2021-01-30T01:38:39.507",
+	"lastModified": "2021-01-30T01:38:39.507",
+	"cpeLastModified": "2021-01-30T01:38:39.537",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:banking_corporate_lending:14.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C315C9DD-F099-438B-AD49-E4E058DA7FED"
+		}
+	]
 }

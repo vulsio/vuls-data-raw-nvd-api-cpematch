@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:proset_ac_9260_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A36CD654-5806-4472-9985-280C621E5095",
-  "versionEndExcluding": "22.60",
-  "created": "2022-02-11T17:49:42.410",
-  "lastModified": "2022-02-11T17:49:42.410",
-  "cpeLastModified": "2022-02-14T19:33:14.597",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:proset_ac_9260_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "3BDC1ACA-D8DB-4CD8-AA74-AC1CB99F23D0"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:proset_ac_9260_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A36CD654-5806-4472-9985-280C621E5095",
+	"versionEndExcluding": "22.60",
+	"created": "2022-02-11T17:49:42.410",
+	"lastModified": "2022-02-11T17:49:42.410",
+	"cpeLastModified": "2022-02-14T19:33:14.597",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:proset_ac_9260_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3BDC1ACA-D8DB-4CD8-AA74-AC1CB99F23D0"
+		}
+	]
 }

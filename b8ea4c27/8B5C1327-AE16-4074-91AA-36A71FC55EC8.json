@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:broadcom:release_automation:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "8B5C1327-AE16-4074-91AA-36A71FC55EC8",
-  "versionStartIncluding": "5.5.1",
-  "versionEndExcluding": "5.5.1-1616",
-  "created": "2021-04-12T14:14:15.857",
-  "lastModified": "2021-04-12T14:14:15.857",
-  "cpeLastModified": "2021-04-12T14:14:15.857",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:broadcom:release_automation:5.5.1:*:*:*:*:*:*:*",
-      "cpeNameId": "3E4F2367-346B-47A4-8DC6-1D7146EFC323"
-    }
-  ]
+	"criteria": "cpe:2.3:a:broadcom:release_automation:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8B5C1327-AE16-4074-91AA-36A71FC55EC8",
+	"versionStartIncluding": "5.5.1",
+	"versionEndExcluding": "5.5.1-1616",
+	"created": "2021-04-12T14:14:15.857",
+	"lastModified": "2021-04-12T14:14:15.857",
+	"cpeLastModified": "2021-04-12T14:14:15.857",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:broadcom:release_automation:5.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "3E4F2367-346B-47A4-8DC6-1D7146EFC323"
+		}
+	]
 }

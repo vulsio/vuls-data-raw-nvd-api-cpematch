@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:qemu:qemu:2.10.0:rc2:*:*:*:*:*:*",
-  "matchCriteriaId": "C4F82EF5-A116-4676-9D24-1C45E7F49D50",
-  "created": "2020-11-03T12:50:43.447",
-  "lastModified": "2020-11-03T12:50:43.447",
-  "cpeLastModified": "2020-11-03T12:50:43.463",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:qemu:qemu:2.10.0:rc2:*:*:*:*:*:*",
-      "cpeNameId": "DAC47569-9CC3-4A3D-9731-AD8460C4F572"
-    }
-  ]
+	"criteria": "cpe:2.3:a:qemu:qemu:2.10.0:rc2:*:*:*:*:*:*",
+	"matchCriteriaId": "C4F82EF5-A116-4676-9D24-1C45E7F49D50",
+	"created": "2020-11-03T12:50:43.447",
+	"lastModified": "2020-11-03T12:50:43.447",
+	"cpeLastModified": "2020-11-03T12:50:43.463",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:qemu:qemu:2.10.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "DAC47569-9CC3-4A3D-9731-AD8460C4F572"
+		}
+	]
 }

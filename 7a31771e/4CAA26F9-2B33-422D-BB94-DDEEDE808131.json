@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:amd:epyc_7262_firmware:romepi_1.0.0.a:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4CAA26F9-2B33-422D-BB94-DDEEDE808131",
-  "created": "2023-05-17T21:52:44.890",
-  "lastModified": "2023-07-14T15:17:12.493",
-  "cpeLastModified": "2023-07-14T15:17:12.493",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:amd:epyc_7262_firmware:romepi_1.0.0.a:*:*:*:*:*:*:*",
-      "cpeNameId": "BA1D809D-17C8-4442-8705-A10965221752"
-    }
-  ]
+	"criteria": "cpe:2.3:o:amd:epyc_7262_firmware:romepi_1.0.0.a:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4CAA26F9-2B33-422D-BB94-DDEEDE808131",
+	"created": "2023-05-17T21:52:44.890",
+	"lastModified": "2023-07-14T15:17:12.493",
+	"cpeLastModified": "2023-07-14T15:17:12.493",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:epyc_7262_firmware:romepi_1.0.0.a:*:*:*:*:*:*:*",
+			"cpeNameId": "BA1D809D-17C8-4442-8705-A10965221752"
+		}
+	]
 }

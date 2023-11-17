@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:aio_910-27ish_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D5D7D034-5B86-4EB3-9ECD-C15F4A6EF5A1",
-  "versionEndExcluding": "6.0.8924.1",
-  "created": "2023-01-04T13:21:46.040",
-  "lastModified": "2023-01-12T13:57:44.327",
-  "cpeLastModified": "2023-01-12T13:57:44.327",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:aio_910-27ish_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "A24494CB-FC30-451F-9DE1-8E97BC6FFA23"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:aio_910-27ish_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D5D7D034-5B86-4EB3-9ECD-C15F4A6EF5A1",
+	"versionEndExcluding": "6.0.8924.1",
+	"created": "2023-01-04T13:21:46.040",
+	"lastModified": "2023-01-12T13:57:44.327",
+	"cpeLastModified": "2023-01-12T13:57:44.327",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:aio_910-27ish_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A24494CB-FC30-451F-9DE1-8E97BC6FFA23"
+		}
+	]
 }

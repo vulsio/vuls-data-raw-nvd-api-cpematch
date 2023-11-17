@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:color_laserjet_managed_e55040dw_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "58C0326F-888D-432F-8811-50CC7416F36F",
-  "versionEndExcluding": "2406048_029643",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:color_laserjet_managed_e55040dw_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "17C68509-2018-4CCF-AC27-B04287BC9C19"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:color_laserjet_managed_e55040dw_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "58C0326F-888D-432F-8811-50CC7416F36F",
+	"versionEndExcluding": "2406048_029643",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:color_laserjet_managed_e55040dw_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "17C68509-2018-4CCF-AC27-B04287BC9C19"
+		}
+	]
 }

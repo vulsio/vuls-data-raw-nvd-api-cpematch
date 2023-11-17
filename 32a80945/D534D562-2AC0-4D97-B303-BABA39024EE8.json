@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:crowbar-openstack_project:crowbar-openstack:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D534D562-2AC0-4D97-B303-BABA39024EE8",
-  "created": "2020-09-08T12:27:36.777",
-  "lastModified": "2020-09-08T12:27:36.777",
-  "cpeLastModified": "2020-09-08T12:27:36.807",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:crowbar-openstack_project:crowbar-openstack:-:*:*:*:*:*:*:*",
-      "cpeNameId": "9C9102F4-63B4-45B3-84E7-3872417B92E6"
-    }
-  ]
+	"criteria": "cpe:2.3:a:crowbar-openstack_project:crowbar-openstack:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D534D562-2AC0-4D97-B303-BABA39024EE8",
+	"created": "2020-09-08T12:27:36.777",
+	"lastModified": "2020-09-08T12:27:36.777",
+	"cpeLastModified": "2020-09-08T12:27:36.807",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:crowbar-openstack_project:crowbar-openstack:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9C9102F4-63B4-45B3-84E7-3872417B92E6"
+		}
+	]
 }

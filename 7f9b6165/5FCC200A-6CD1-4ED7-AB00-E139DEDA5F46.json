@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:intel:pentium_g860:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5FCC200A-6CD1-4ED7-AB00-E139DEDA5F46",
-  "created": "2020-03-23T13:01:56.173",
-  "lastModified": "2020-03-23T13:01:56.173",
-  "cpeLastModified": "2020-03-26T13:31:40.380",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:intel:pentium_g860:-:*:*:*:*:*:*:*",
-      "cpeNameId": "F550E1C6-794D-43F3-9D61-ABA48C1873B2"
-    }
-  ]
+	"criteria": "cpe:2.3:h:intel:pentium_g860:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5FCC200A-6CD1-4ED7-AB00-E139DEDA5F46",
+	"created": "2020-03-23T13:01:56.173",
+	"lastModified": "2020-03-23T13:01:56.173",
+	"cpeLastModified": "2020-03-26T13:31:40.380",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:pentium_g860:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F550E1C6-794D-43F3-9D61-ABA48C1873B2"
+		}
+	]
 }

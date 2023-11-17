@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:backblaze:backblaze:*:*:*:*:*:windows:*:*",
-  "matchCriteriaId": "F7051153-3CAD-442F-BD4B-8C780431FBD4",
-  "versionEndExcluding": "7.0.0.439",
-  "created": "2020-12-29T20:49:58.630",
-  "lastModified": "2020-12-29T20:49:58.630",
-  "cpeLastModified": "2020-12-30T14:49:41.250",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:backblaze:backblaze:-:*:*:*:*:windows:*:*",
-      "cpeNameId": "B87D10A8-19B4-45BF-9221-0D40E2308362"
-    }
-  ]
+	"criteria": "cpe:2.3:a:backblaze:backblaze:*:*:*:*:*:windows:*:*",
+	"matchCriteriaId": "F7051153-3CAD-442F-BD4B-8C780431FBD4",
+	"versionEndExcluding": "7.0.0.439",
+	"created": "2020-12-29T20:49:58.630",
+	"lastModified": "2020-12-29T20:49:58.630",
+	"cpeLastModified": "2020-12-30T14:49:41.250",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:backblaze:backblaze:-:*:*:*:*:windows:*:*",
+			"cpeNameId": "B87D10A8-19B4-45BF-9221-0D40E2308362"
+		}
+	]
 }

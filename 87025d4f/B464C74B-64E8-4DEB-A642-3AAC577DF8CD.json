@@ -1,23 +1,23 @@
 {
-  "criteria": "cpe:2.3:a:cisco:webex_player:*:*:*:*:*:windows:*:*",
-  "matchCriteriaId": "B464C74B-64E8-4DEB-A642-3AAC577DF8CD",
-  "versionEndIncluding": "3.0",
-  "created": "2020-06-10T17:54:25.410",
-  "lastModified": "2020-06-10T17:54:25.410",
-  "cpeLastModified": "2021-07-22T18:01:20.790",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_player:-:*:*:*:*:windows:*:*",
-      "cpeNameId": "D52C0131-FA27-4473-B60C-6E11C1D0F39B"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_player:3.0:-:*:*:*:windows:*:*",
-      "cpeNameId": "EED0FC37-B9F2-4959-8474-D0FF5A1D57F8"
-    },
-    {
-      "cpeName": "cpe:2.3:a:cisco:webex_player:3.0:maintenance_release2:*:*:*:windows:*:*",
-      "cpeNameId": "2BFA698E-16CD-49D7-95BB-74DBC2577E71"
-    }
-  ]
+	"criteria": "cpe:2.3:a:cisco:webex_player:*:*:*:*:*:windows:*:*",
+	"matchCriteriaId": "B464C74B-64E8-4DEB-A642-3AAC577DF8CD",
+	"versionEndIncluding": "3.0",
+	"created": "2020-06-10T17:54:25.410",
+	"lastModified": "2020-06-10T17:54:25.410",
+	"cpeLastModified": "2021-07-22T18:01:20.790",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_player:-:*:*:*:*:windows:*:*",
+			"cpeNameId": "D52C0131-FA27-4473-B60C-6E11C1D0F39B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_player:3.0:-:*:*:*:windows:*:*",
+			"cpeNameId": "EED0FC37-B9F2-4959-8474-D0FF5A1D57F8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:webex_player:3.0:maintenance_release2:*:*:*:windows:*:*",
+			"cpeNameId": "2BFA698E-16CD-49D7-95BB-74DBC2577E71"
+		}
+	]
 }

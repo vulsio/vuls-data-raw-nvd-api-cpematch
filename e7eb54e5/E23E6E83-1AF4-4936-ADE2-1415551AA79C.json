@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:evernote:evernote:6.17.7:*:*:*:*:windows:*:*",
-  "matchCriteriaId": "E23E6E83-1AF4-4936-ADE2-1415551AA79C",
-  "created": "2021-06-29T11:28:36.203",
-  "lastModified": "2021-06-29T11:28:36.203",
-  "cpeLastModified": "2021-06-29T11:28:40.950",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:evernote:evernote:6.17.7:*:*:*:*:windows:*:*",
-      "cpeNameId": "3032E5C9-8A32-4C5C-9BF6-77F3EDC69A5C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:evernote:evernote:6.17.7:*:*:*:*:windows:*:*",
+	"matchCriteriaId": "E23E6E83-1AF4-4936-ADE2-1415551AA79C",
+	"created": "2021-06-29T11:28:36.203",
+	"lastModified": "2021-06-29T11:28:36.203",
+	"cpeLastModified": "2021-06-29T11:28:40.950",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:evernote:evernote:6.17.7:*:*:*:*:windows:*:*",
+			"cpeNameId": "3032E5C9-8A32-4C5C-9BF6-77F3EDC69A5C"
+		}
+	]
 }

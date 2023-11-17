@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:a:oracle:essbase:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "3197F464-F0A5-4BD4-9068-65CD448D8F4C",
-  "versionStartIncluding": "21.0",
-  "versionEndExcluding": "21.3",
-  "created": "2022-02-14T15:27:42.703",
-  "lastModified": "2022-02-14T15:27:42.703",
-  "cpeLastModified": "2022-02-20T06:22:53.880",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:oracle:essbase:21.1:*:*:*:*:*:*:*",
-      "cpeNameId": "8402AF12-2E30-4A10-AFC1-9C88AAF80932"
-    },
-    {
-      "cpeName": "cpe:2.3:a:oracle:essbase:21.2:*:*:*:*:*:*:*",
-      "cpeNameId": "6C02EDF9-0F28-4E85-87B8-0C83DDDFA3BB"
-    }
-  ]
+	"criteria": "cpe:2.3:a:oracle:essbase:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3197F464-F0A5-4BD4-9068-65CD448D8F4C",
+	"versionStartIncluding": "21.0",
+	"versionEndExcluding": "21.3",
+	"created": "2022-02-14T15:27:42.703",
+	"lastModified": "2022-02-14T15:27:42.703",
+	"cpeLastModified": "2022-02-20T06:22:53.880",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:essbase:21.1:*:*:*:*:*:*:*",
+			"cpeNameId": "8402AF12-2E30-4A10-AFC1-9C88AAF80932"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:essbase:21.2:*:*:*:*:*:*:*",
+			"cpeNameId": "6C02EDF9-0F28-4E85-87B8-0C83DDDFA3BB"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:siemens:polarion_alm:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "3BF50F47-0B99-4E3D-A968-84394548BE13",
-  "versionEndExcluding": "21.0",
-  "created": "2022-07-28T18:11:36.390",
-  "lastModified": "2023-10-17T14:21:42.430",
-  "cpeLastModified": "2022-12-16T14:29:18.107",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:siemens:polarion_alm:-:*:*:*:*:*:*:*",
-      "cpeNameId": "7129F302-0314-462E-BC5E-CC85F1DA2EB6"
-    }
-  ]
+	"criteria": "cpe:2.3:a:siemens:polarion_alm:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3BF50F47-0B99-4E3D-A968-84394548BE13",
+	"versionEndExcluding": "21.0",
+	"created": "2022-07-28T18:11:36.390",
+	"lastModified": "2023-10-17T14:21:42.430",
+	"cpeLastModified": "2022-12-16T14:29:18.107",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:siemens:polarion_alm:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7129F302-0314-462E-BC5E-CC85F1DA2EB6"
+		}
+	]
 }

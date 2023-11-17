@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hpe:synergy_480_gen10_compute_module_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "139B10CE-1A41-44B7-9005-E69ABAF6AF6C",
-  "versionEndExcluding": "2.20",
-  "created": "2019-11-20T17:43:33.877",
-  "lastModified": "2019-11-20T17:43:33.877",
-  "cpeLastModified": "2020-04-27T20:06:57.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hpe:synergy_480_gen10_compute_module_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "11C9EBA9-05A3-4F43-93EE-21168AD63B98"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hpe:synergy_480_gen10_compute_module_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "139B10CE-1A41-44B7-9005-E69ABAF6AF6C",
+	"versionEndExcluding": "2.20",
+	"created": "2019-11-20T17:43:33.877",
+	"lastModified": "2019-11-20T17:43:33.877",
+	"cpeLastModified": "2020-04-27T20:06:57.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hpe:synergy_480_gen10_compute_module_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "11C9EBA9-05A3-4F43-93EE-21168AD63B98"
+		}
+	]
 }

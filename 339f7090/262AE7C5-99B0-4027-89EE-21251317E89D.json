@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:redsoftware:pdfescape:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "262AE7C5-99B0-4027-89EE-21251317E89D",
-  "versionEndIncluding": "4.0.22",
-  "created": "2020-03-05T21:49:42.873",
-  "lastModified": "2020-03-05T21:49:42.873",
-  "cpeLastModified": "2020-03-06T15:18:56.737",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:redsoftware:pdfescape:4.0.22:*:*:*:*:*:*:*",
-      "cpeNameId": "1497E03E-B9FF-4BAC-870A-B4778A0B16DB"
-    }
-  ]
+	"criteria": "cpe:2.3:a:redsoftware:pdfescape:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "262AE7C5-99B0-4027-89EE-21251317E89D",
+	"versionEndIncluding": "4.0.22",
+	"created": "2020-03-05T21:49:42.873",
+	"lastModified": "2020-03-05T21:49:42.873",
+	"cpeLastModified": "2020-03-06T15:18:56.737",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:redsoftware:pdfescape:4.0.22:*:*:*:*:*:*:*",
+			"cpeNameId": "1497E03E-B9FF-4BAC-870A-B4778A0B16DB"
+		}
+	]
 }

@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:enalean:tuleap:*:*:*:*:enterprise:*:*:*",
-  "matchCriteriaId": "B2BBE4EC-1B9E-44C6-A191-A23182941E2B",
-  "versionStartIncluding": "14.0",
-  "versionEndExcluding": "14.0-3",
-  "created": "2022-10-21T16:04:19.630",
-  "lastModified": "2022-10-21T16:04:19.630",
-  "cpeLastModified": "2022-10-28T16:34:27.650",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:enalean:tuleap:14.0:*:*:*:enterprise:*:*:*",
-      "cpeNameId": "0835293C-DE62-4B77-9F9F-421E2AD507A2"
-    }
-  ]
+	"criteria": "cpe:2.3:a:enalean:tuleap:*:*:*:*:enterprise:*:*:*",
+	"matchCriteriaId": "B2BBE4EC-1B9E-44C6-A191-A23182941E2B",
+	"versionStartIncluding": "14.0",
+	"versionEndExcluding": "14.0-3",
+	"created": "2022-10-21T16:04:19.630",
+	"lastModified": "2022-10-21T16:04:19.630",
+	"cpeLastModified": "2022-10-28T16:34:27.650",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:enalean:tuleap:14.0:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "0835293C-DE62-4B77-9F9F-421E2AD507A2"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:schneider-electric:srt_series_1024_ups_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "450266CB-95A0-4345-8889-0BF5833F90AD",
-  "versionEndIncluding": "01.0",
-  "created": "2022-03-17T14:54:24.500",
-  "lastModified": "2022-03-17T14:54:24.500",
-  "cpeLastModified": "2022-03-18T15:48:31.337",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:schneider-electric:srt_series_1024_ups_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "0CC53DB2-B41C-4CC1-84A3-D1566AEE5A06"
-    }
-  ]
+	"criteria": "cpe:2.3:o:schneider-electric:srt_series_1024_ups_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "450266CB-95A0-4345-8889-0BF5833F90AD",
+	"versionEndIncluding": "01.0",
+	"created": "2022-03-17T14:54:24.500",
+	"lastModified": "2022-03-17T14:54:24.500",
+	"cpeLastModified": "2022-03-18T15:48:31.337",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:schneider-electric:srt_series_1024_ups_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0CC53DB2-B41C-4CC1-84A3-D1566AEE5A06"
+		}
+	]
 }

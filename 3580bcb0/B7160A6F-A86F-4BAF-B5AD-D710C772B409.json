@@ -1,36 +1,36 @@
 {
-  "criteria": "cpe:2.3:a:microsoft:nuget:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B7160A6F-A86F-4BAF-B5AD-D710C772B409",
-  "versionStartIncluding": "3.0.0",
-  "versionEndExcluding": "4.8.5",
-  "created": "2022-11-29T13:58:02.343",
-  "lastModified": "2022-11-29T13:58:02.343",
-  "cpeLastModified": "2022-11-29T13:58:02.343",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:microsoft:nuget:4.3.1:*:*:*:*:*:*:*",
-      "cpeNameId": "5B2D2AF5-4F3B-402E-A5BA-7BC8D26D932A"
-    },
-    {
-      "cpeName": "cpe:2.3:a:microsoft:nuget:4.4.2:*:*:*:*:*:*:*",
-      "cpeNameId": "00B2C5D7-0A3B-41CE-9348-94046D4DD4D5"
-    },
-    {
-      "cpeName": "cpe:2.3:a:microsoft:nuget:4.5.2:*:*:*:*:*:*:*",
-      "cpeNameId": "4444609C-EC84-4399-B5E7-260EF05E0EDC"
-    },
-    {
-      "cpeName": "cpe:2.3:a:microsoft:nuget:4.6.3:*:*:*:*:*:*:*",
-      "cpeNameId": "487B50FD-C778-403D-A62E-FAE70B390BA6"
-    },
-    {
-      "cpeName": "cpe:2.3:a:microsoft:nuget:4.7.2:*:*:*:*:*:*:*",
-      "cpeNameId": "5F74A4A1-C74A-40CC-97F1-7BC991B3E485"
-    },
-    {
-      "cpeName": "cpe:2.3:a:microsoft:nuget:4.8.2:*:*:*:*:*:*:*",
-      "cpeNameId": "6411E236-44AF-4162-87F7-3800334A5B98"
-    }
-  ]
+	"criteria": "cpe:2.3:a:microsoft:nuget:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B7160A6F-A86F-4BAF-B5AD-D710C772B409",
+	"versionStartIncluding": "3.0.0",
+	"versionEndExcluding": "4.8.5",
+	"created": "2022-11-29T13:58:02.343",
+	"lastModified": "2022-11-29T13:58:02.343",
+	"cpeLastModified": "2022-11-29T13:58:02.343",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:nuget:4.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "5B2D2AF5-4F3B-402E-A5BA-7BC8D26D932A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:nuget:4.4.2:*:*:*:*:*:*:*",
+			"cpeNameId": "00B2C5D7-0A3B-41CE-9348-94046D4DD4D5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:nuget:4.5.2:*:*:*:*:*:*:*",
+			"cpeNameId": "4444609C-EC84-4399-B5E7-260EF05E0EDC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:nuget:4.6.3:*:*:*:*:*:*:*",
+			"cpeNameId": "487B50FD-C778-403D-A62E-FAE70B390BA6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:nuget:4.7.2:*:*:*:*:*:*:*",
+			"cpeNameId": "5F74A4A1-C74A-40CC-97F1-7BC991B3E485"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:nuget:4.8.2:*:*:*:*:*:*:*",
+			"cpeNameId": "6411E236-44AF-4162-87F7-3800334A5B98"
+		}
+	]
 }

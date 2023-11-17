@@ -1,23 +1,23 @@
 {
-  "criteria": "cpe:2.3:o:siemens:sicam_a8000_cp-8050_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F36DBDD9-A13A-42D2-8DA1-9430C9A6A9CF",
-  "versionEndExcluding": "4.80",
-  "created": "2022-04-18T14:08:21.780",
-  "lastModified": "2022-04-18T14:08:21.780",
-  "cpeLastModified": "2022-04-19T18:26:10.757",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:sicam_a8000_cp-8050_firmware:1.00:*:*:*:*:*:*:*",
-      "cpeNameId": "9D9E86B1-7766-44A8-B723-DD705555A0E9"
-    },
-    {
-      "cpeName": "cpe:2.3:o:siemens:sicam_a8000_cp-8050_firmware:1.20:*:*:*:*:*:*:*",
-      "cpeNameId": "BDE1C28E-23DE-46F5-BB2A-D5B01F0E2E4E"
-    },
-    {
-      "cpeName": "cpe:2.3:o:siemens:sicam_a8000_cp-8050_firmware:2.00:*:*:*:*:*:*:*",
-      "cpeNameId": "DB02511C-F6F8-4B4D-B0CB-0F1ACD3157D9"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:sicam_a8000_cp-8050_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F36DBDD9-A13A-42D2-8DA1-9430C9A6A9CF",
+	"versionEndExcluding": "4.80",
+	"created": "2022-04-18T14:08:21.780",
+	"lastModified": "2022-04-18T14:08:21.780",
+	"cpeLastModified": "2022-04-19T18:26:10.757",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:sicam_a8000_cp-8050_firmware:1.00:*:*:*:*:*:*:*",
+			"cpeNameId": "9D9E86B1-7766-44A8-B723-DD705555A0E9"
+		},
+		{
+			"cpeName": "cpe:2.3:o:siemens:sicam_a8000_cp-8050_firmware:1.20:*:*:*:*:*:*:*",
+			"cpeNameId": "BDE1C28E-23DE-46F5-BB2A-D5B01F0E2E4E"
+		},
+		{
+			"cpeName": "cpe:2.3:o:siemens:sicam_a8000_cp-8050_firmware:2.00:*:*:*:*:*:*:*",
+			"cpeNameId": "DB02511C-F6F8-4B4D-B0CB-0F1ACD3157D9"
+		}
+	]
 }

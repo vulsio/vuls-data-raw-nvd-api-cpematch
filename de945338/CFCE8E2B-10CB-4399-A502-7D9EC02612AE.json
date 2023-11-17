@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:qualcomm:sd6905g_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CFCE8E2B-10CB-4399-A502-7D9EC02612AE",
-  "created": "2021-02-24T15:53:05.980",
-  "lastModified": "2021-02-24T15:53:05.980",
-  "cpeLastModified": "2021-02-24T15:54:07.433",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:qualcomm:sd6905g_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "B17A5DAB-8CB3-4FFD-A960-734DA89DA6FB"
-    }
-  ]
+	"criteria": "cpe:2.3:o:qualcomm:sd6905g_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CFCE8E2B-10CB-4399-A502-7D9EC02612AE",
+	"created": "2021-02-24T15:53:05.980",
+	"lastModified": "2021-02-24T15:53:05.980",
+	"cpeLastModified": "2021-02-24T15:54:07.433",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:qualcomm:sd6905g_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B17A5DAB-8CB3-4FFD-A960-734DA89DA6FB"
+		}
+	]
 }

@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:progress:openedge:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C744F491-618C-491A-8A80-047FE9AF36AF",
-  "versionStartIncluding": "12.0.0",
-  "versionEndExcluding": "12.2.9",
-  "created": "2022-05-09T16:46:56.053",
-  "lastModified": "2022-05-09T16:46:56.053",
-  "cpeLastModified": "2019-12-09T15:37:43.427",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:progress:openedge:12.1:*:*:*:*:*:*:*",
-      "cpeNameId": "EA9D3EF0-26E1-4261-8584-4135E096F568"
-    }
-  ]
+	"criteria": "cpe:2.3:a:progress:openedge:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C744F491-618C-491A-8A80-047FE9AF36AF",
+	"versionStartIncluding": "12.0.0",
+	"versionEndExcluding": "12.2.9",
+	"created": "2022-05-09T16:46:56.053",
+	"lastModified": "2022-05-09T16:46:56.053",
+	"cpeLastModified": "2019-12-09T15:37:43.427",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:progress:openedge:12.1:*:*:*:*:*:*:*",
+			"cpeNameId": "EA9D3EF0-26E1-4261-8584-4135E096F568"
+		}
+	]
 }

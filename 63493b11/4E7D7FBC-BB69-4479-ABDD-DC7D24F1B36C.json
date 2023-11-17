@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:microsoft:webp_image_extension:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4E7D7FBC-BB69-4479-ABDD-DC7D24F1B36C",
-  "versionEndExcluding": "1.0.32731.0",
-  "created": "2020-12-01T19:47:59.807",
-  "lastModified": "2020-12-01T19:47:59.807",
-  "cpeLastModified": "2020-12-15T15:21:26.507",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:microsoft:webp_image_extension:-:*:*:*:*:*:*:*",
-      "cpeNameId": "71223662-F8D6-4F1A-9790-C5B132E09C86"
-    }
-  ]
+	"criteria": "cpe:2.3:a:microsoft:webp_image_extension:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4E7D7FBC-BB69-4479-ABDD-DC7D24F1B36C",
+	"versionEndExcluding": "1.0.32731.0",
+	"created": "2020-12-01T19:47:59.807",
+	"lastModified": "2020-12-01T19:47:59.807",
+	"cpeLastModified": "2020-12-15T15:21:26.507",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:webp_image_extension:-:*:*:*:*:*:*:*",
+			"cpeNameId": "71223662-F8D6-4F1A-9790-C5B132E09C86"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "criteria": "cpe:2.3:a:darkhttpd_project:darkhttpd:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D467091C-F584-49CD-BD7D-CF8E2037F32A",
-  "versionEndIncluding": "1.13-1",
-  "created": "2022-04-08T11:23:50.357",
-  "lastModified": "2022-04-08T11:23:50.357",
-  "cpeLastModified": "2022-04-08T16:29:49.883",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:darkhttpd_project:darkhttpd:-:*:*:*:*:*:*:*",
-      "cpeNameId": "245DFA45-E739-4766-83F9-D5EAE99CD25F"
-    },
-    {
-      "cpeName": "cpe:2.3:a:darkhttpd_project:darkhttpd:1.13:*:*:*:*:*:*:*",
-      "cpeNameId": "27085E10-599C-4865-AE5E-C20048DD8E0E"
-    },
-    {
-      "cpeName": "cpe:2.3:a:darkhttpd_project:darkhttpd:1.13-1:*:*:*:*:*:*:*",
-      "cpeNameId": "6350884B-00C8-4972-97C0-989B18C3EDB6"
-    }
-  ]
+	"criteria": "cpe:2.3:a:darkhttpd_project:darkhttpd:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D467091C-F584-49CD-BD7D-CF8E2037F32A",
+	"versionEndIncluding": "1.13-1",
+	"created": "2022-04-08T11:23:50.357",
+	"lastModified": "2022-04-08T11:23:50.357",
+	"cpeLastModified": "2022-04-08T16:29:49.883",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:darkhttpd_project:darkhttpd:-:*:*:*:*:*:*:*",
+			"cpeNameId": "245DFA45-E739-4766-83F9-D5EAE99CD25F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:darkhttpd_project:darkhttpd:1.13:*:*:*:*:*:*:*",
+			"cpeNameId": "27085E10-599C-4865-AE5E-C20048DD8E0E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:darkhttpd_project:darkhttpd:1.13-1:*:*:*:*:*:*:*",
+			"cpeNameId": "6350884B-00C8-4972-97C0-989B18C3EDB6"
+		}
+	]
 }

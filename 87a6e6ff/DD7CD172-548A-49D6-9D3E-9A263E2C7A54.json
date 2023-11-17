@@ -1,23 +1,23 @@
 {
-  "criteria": "cpe:2.3:o:dlink:dir-815_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "DD7CD172-548A-49D6-9D3E-9A263E2C7A54",
-  "versionEndIncluding": "2.07.b01",
-  "created": "2023-04-26T19:27:52.350",
-  "lastModified": "2023-07-24T19:51:09.903",
-  "cpeLastModified": "2023-08-21T13:38:51.947",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dlink:dir-815_firmware:1.0.1:*:*:*:*:*:*:*",
-      "cpeNameId": "17DB5A69-2583-45BB-A646-80DB68BE8D85"
-    },
-    {
-      "cpeName": "cpe:2.3:o:dlink:dir-815_firmware:2.03.b02:*:*:*:*:*:*:*",
-      "cpeNameId": "B667BDF9-D618-44BA-999A-B456322408A2"
-    },
-    {
-      "cpeName": "cpe:2.3:o:dlink:dir-815_firmware:2.07.b01:*:*:*:*:*:*:*",
-      "cpeNameId": "3ADE9CB1-AE91-4C2B-A52D-36DFFB5B17B5"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dlink:dir-815_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DD7CD172-548A-49D6-9D3E-9A263E2C7A54",
+	"versionEndIncluding": "2.07.b01",
+	"created": "2023-04-26T19:27:52.350",
+	"lastModified": "2023-07-24T19:51:09.903",
+	"cpeLastModified": "2023-08-21T13:38:51.947",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dlink:dir-815_firmware:1.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "17DB5A69-2583-45BB-A646-80DB68BE8D85"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dlink:dir-815_firmware:2.03.b02:*:*:*:*:*:*:*",
+			"cpeNameId": "B667BDF9-D618-44BA-999A-B456322408A2"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dlink:dir-815_firmware:2.07.b01:*:*:*:*:*:*:*",
+			"cpeNameId": "3ADE9CB1-AE91-4C2B-A52D-36DFFB5B17B5"
+		}
+	]
 }

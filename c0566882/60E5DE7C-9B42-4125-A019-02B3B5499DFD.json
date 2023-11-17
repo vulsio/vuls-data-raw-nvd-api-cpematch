@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:honeywell:intermec_pc43_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "60E5DE7C-9B42-4125-A019-02B3B5499DFD",
-  "versionEndIncluding": "10.10.011406",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T22:53:51.837",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:honeywell:intermec_pc43_firmware:10.10.011406:*:*:*:*:*:*:*",
-      "cpeNameId": "7D3FAF9A-0CB2-4CC7-939C-13FEC3F8EAAC"
-    }
-  ]
+	"criteria": "cpe:2.3:o:honeywell:intermec_pc43_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "60E5DE7C-9B42-4125-A019-02B3B5499DFD",
+	"versionEndIncluding": "10.10.011406",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T22:53:51.837",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:honeywell:intermec_pc43_firmware:10.10.011406:*:*:*:*:*:*:*",
+			"cpeNameId": "7D3FAF9A-0CB2-4CC7-939C-13FEC3F8EAAC"
+		}
+	]
 }

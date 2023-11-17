@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:latitude_3580_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "14A30A9A-CAF1-4669-A6F1-633491076783",
-  "versionEndExcluding": "1.11.0",
-  "created": "2019-08-09T17:59:00.267",
-  "lastModified": "2019-08-09T17:59:00.267",
-  "cpeLastModified": "2020-03-06T19:58:34.053",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:latitude_3580_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "C802CF5A-C4AC-4F2B-A91D-98A8C1CC1BAF"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:latitude_3580_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "14A30A9A-CAF1-4669-A6F1-633491076783",
+	"versionEndExcluding": "1.11.0",
+	"created": "2019-08-09T17:59:00.267",
+	"lastModified": "2019-08-09T17:59:00.267",
+	"cpeLastModified": "2020-03-06T19:58:34.053",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_3580_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C802CF5A-C4AC-4F2B-A91D-98A8C1CC1BAF"
+		}
+	]
 }

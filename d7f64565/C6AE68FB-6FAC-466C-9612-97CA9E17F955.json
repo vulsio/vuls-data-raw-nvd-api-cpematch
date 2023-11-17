@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lexmark:cx517_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C6AE68FB-6FAC-466C-9612-97CA9E17F955",
-  "versionEndExcluding": "lw80.gm7.p210",
-  "created": "2022-01-26T15:36:29.837",
-  "lastModified": "2022-01-26T15:36:29.837",
-  "cpeLastModified": "2022-01-27T15:31:13.463",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lexmark:cx517_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "BB8BA601-EB3F-4B95-B974-3D18BD723B05"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lexmark:cx517_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C6AE68FB-6FAC-466C-9612-97CA9E17F955",
+	"versionEndExcluding": "lw80.gm7.p210",
+	"created": "2022-01-26T15:36:29.837",
+	"lastModified": "2022-01-26T15:36:29.837",
+	"cpeLastModified": "2022-01-27T15:31:13.463",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lexmark:cx517_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BB8BA601-EB3F-4B95-B974-3D18BD723B05"
+		}
+	]
 }

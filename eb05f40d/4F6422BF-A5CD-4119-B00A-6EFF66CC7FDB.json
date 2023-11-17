@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:iodata:ts-wptcam_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4F6422BF-A5CD-4119-B00A-6EFF66CC7FDB",
-  "versionEndIncluding": "1.18",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T22:21:48.897",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:iodata:ts-wptcam_firmware:1.18:*:*:*:*:*:*:*",
-      "cpeNameId": "AD683E52-BD8E-4FA4-AA75-4802A0ECA6FB"
-    }
-  ]
+	"criteria": "cpe:2.3:o:iodata:ts-wptcam_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4F6422BF-A5CD-4119-B00A-6EFF66CC7FDB",
+	"versionEndIncluding": "1.18",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T22:21:48.897",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:iodata:ts-wptcam_firmware:1.18:*:*:*:*:*:*:*",
+			"cpeNameId": "AD683E52-BD8E-4FA4-AA75-4802A0ECA6FB"
+		}
+	]
 }

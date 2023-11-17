@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:siemens:scalance_xm408-4c_l3_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B9BDA5C5-F6C7-46D7-B097-E1F9FD910FFA",
-  "versionEndExcluding": "6.5",
-  "created": "2022-06-24T01:03:35.513",
-  "lastModified": "2022-06-24T01:03:35.513",
-  "cpeLastModified": "2022-08-12T20:48:22.767",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:scalance_xm408-4c_l3_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "442BA650-B2F7-4792-A713-351A5CA8E278"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:scalance_xm408-4c_l3_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B9BDA5C5-F6C7-46D7-B097-E1F9FD910FFA",
+	"versionEndExcluding": "6.5",
+	"created": "2022-06-24T01:03:35.513",
+	"lastModified": "2022-06-24T01:03:35.513",
+	"cpeLastModified": "2022-08-12T20:48:22.767",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:scalance_xm408-4c_l3_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "442BA650-B2F7-4792-A713-351A5CA8E278"
+		}
+	]
 }

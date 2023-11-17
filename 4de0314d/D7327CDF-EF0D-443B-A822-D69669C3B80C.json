@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:siemens:scalance_xb205-3ld_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D7327CDF-EF0D-443B-A822-D69669C3B80C",
-  "versionEndExcluding": "5.2.5",
-  "created": "2022-04-01T14:30:10.833",
-  "lastModified": "2022-04-01T14:30:10.833",
-  "cpeLastModified": "2022-07-01T18:53:39.423",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:scalance_xb205-3ld_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "76801E5F-28F5-4D9E-B138-C9466A55A6A2"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:scalance_xb205-3ld_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D7327CDF-EF0D-443B-A822-D69669C3B80C",
+	"versionEndExcluding": "5.2.5",
+	"created": "2022-04-01T14:30:10.833",
+	"lastModified": "2022-04-01T14:30:10.833",
+	"cpeLastModified": "2022-07-01T18:53:39.423",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:scalance_xb205-3ld_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "76801E5F-28F5-4D9E-B138-C9466A55A6A2"
+		}
+	]
 }

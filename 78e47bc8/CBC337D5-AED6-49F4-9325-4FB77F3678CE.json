@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:intel:5520_chipset:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CBC337D5-AED6-49F4-9325-4FB77F3678CE",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:intel:5520_chipset:-:*:*:*:*:*:*:*",
-      "cpeNameId": "897509BC-7611-4635-80CA-5C46D222C3F4"
-    }
-  ]
+	"criteria": "cpe:2.3:h:intel:5520_chipset:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CBC337D5-AED6-49F4-9325-4FB77F3678CE",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:5520_chipset:-:*:*:*:*:*:*:*",
+			"cpeNameId": "897509BC-7611-4635-80CA-5C46D222C3F4"
+		}
+	]
 }

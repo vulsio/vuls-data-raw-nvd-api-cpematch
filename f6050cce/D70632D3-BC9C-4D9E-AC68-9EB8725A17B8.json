@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:a:paloaltonetworks:globalprotect:*:*:*:*:*:linux:*:*",
-  "matchCriteriaId": "D70632D3-BC9C-4D9E-AC68-9EB8725A17B8",
-  "versionStartIncluding": "5.0",
-  "versionEndExcluding": "5.0.8",
-  "created": "2020-04-09T15:38:11.580",
-  "lastModified": "2020-04-09T15:38:11.580",
-  "cpeLastModified": "2020-04-13T16:04:57.990",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:paloaltonetworks:globalprotect:5.0:*:*:*:*:linux:*:*",
-      "cpeNameId": "14CACB0E-9F0C-46F7-98EC-BF7FD2211EE4"
-    },
-    {
-      "cpeName": "cpe:2.3:a:paloaltonetworks:globalprotect:5.0.4:*:*:*:*:linux:*:*",
-      "cpeNameId": "A0A55613-2DB6-4686-AE84-1B4F0C1EB441"
-    }
-  ]
+	"criteria": "cpe:2.3:a:paloaltonetworks:globalprotect:*:*:*:*:*:linux:*:*",
+	"matchCriteriaId": "D70632D3-BC9C-4D9E-AC68-9EB8725A17B8",
+	"versionStartIncluding": "5.0",
+	"versionEndExcluding": "5.0.8",
+	"created": "2020-04-09T15:38:11.580",
+	"lastModified": "2020-04-09T15:38:11.580",
+	"cpeLastModified": "2020-04-13T16:04:57.990",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:paloaltonetworks:globalprotect:5.0:*:*:*:*:linux:*:*",
+			"cpeNameId": "14CACB0E-9F0C-46F7-98EC-BF7FD2211EE4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:paloaltonetworks:globalprotect:5.0.4:*:*:*:*:linux:*:*",
+			"cpeNameId": "A0A55613-2DB6-4686-AE84-1B4F0C1EB441"
+		}
+	]
 }

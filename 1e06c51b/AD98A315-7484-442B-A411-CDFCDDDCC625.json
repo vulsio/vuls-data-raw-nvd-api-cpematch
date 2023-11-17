@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:draytek:vigor2866ax_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AD98A315-7484-442B-A411-CDFCDDDCC625",
-  "versionEndExcluding": "4.4.0",
-  "created": "2022-08-30T17:52:37.600",
-  "lastModified": "2022-08-30T17:52:37.600",
-  "cpeLastModified": "2022-08-31T12:51:25.280",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:draytek:vigor2866ax_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "CE4D9BB9-877A-49CB-B05A-5C1438FFF887"
-    }
-  ]
+	"criteria": "cpe:2.3:o:draytek:vigor2866ax_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AD98A315-7484-442B-A411-CDFCDDDCC625",
+	"versionEndExcluding": "4.4.0",
+	"created": "2022-08-30T17:52:37.600",
+	"lastModified": "2022-08-30T17:52:37.600",
+	"cpeLastModified": "2022-08-31T12:51:25.280",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:draytek:vigor2866ax_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CE4D9BB9-877A-49CB-B05A-5C1438FFF887"
+		}
+	]
 }

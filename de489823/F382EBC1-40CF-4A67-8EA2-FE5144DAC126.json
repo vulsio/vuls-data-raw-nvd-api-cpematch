@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:loway:queuemetrics:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F382EBC1-40CF-4A67-8EA2-FE5144DAC126",
-  "versionEndExcluding": "19.04.1",
-  "created": "2020-09-10T15:41:25.190",
-  "lastModified": "2020-09-10T15:41:25.190",
-  "cpeLastModified": "2020-09-10T16:47:48.557",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:loway:queuemetrics:-:*:*:*:*:*:*:*",
-      "cpeNameId": "46D171DC-09CD-4599-9F19-D8B84F70F077"
-    }
-  ]
+	"criteria": "cpe:2.3:a:loway:queuemetrics:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F382EBC1-40CF-4A67-8EA2-FE5144DAC126",
+	"versionEndExcluding": "19.04.1",
+	"created": "2020-09-10T15:41:25.190",
+	"lastModified": "2020-09-10T15:41:25.190",
+	"cpeLastModified": "2020-09-10T16:47:48.557",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:loway:queuemetrics:-:*:*:*:*:*:*:*",
+			"cpeNameId": "46D171DC-09CD-4599-9F19-D8B84F70F077"
+		}
+	]
 }

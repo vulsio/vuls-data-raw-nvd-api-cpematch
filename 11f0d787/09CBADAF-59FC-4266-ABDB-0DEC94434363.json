@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:dell:vostro_3459_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "09CBADAF-59FC-4266-ABDB-0DEC94434363",
-  "versionEndExcluding": "1.8.0",
-  "created": "2020-06-22T13:00:57.020",
-  "lastModified": "2020-06-22T13:00:57.020",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:vostro_3459_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "1B421B03-A461-42F8-8532-8A7EE2980827"
-    },
-    {
-      "cpeName": "cpe:2.3:o:dell:vostro_3459_firmware:1.6.0:*:*:*:*:*:*:*",
-      "cpeNameId": "CD0C89DC-E255-4C91-8519-E60637296B64"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:vostro_3459_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "09CBADAF-59FC-4266-ABDB-0DEC94434363",
+	"versionEndExcluding": "1.8.0",
+	"created": "2020-06-22T13:00:57.020",
+	"lastModified": "2020-06-22T13:00:57.020",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:vostro_3459_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1B421B03-A461-42F8-8532-8A7EE2980827"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:vostro_3459_firmware:1.6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "CD0C89DC-E255-4C91-8519-E60637296B64"
+		}
+	]
 }

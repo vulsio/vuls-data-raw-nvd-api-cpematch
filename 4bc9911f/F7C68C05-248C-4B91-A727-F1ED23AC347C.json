@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:o:cisco:meraki_vmx_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F7C68C05-248C-4B91-A727-F1ED23AC347C",
-  "versionStartIncluding": "17.0.0",
-  "versionEndExcluding": "17.10.1",
-  "created": "2022-10-31T13:54:25.610",
-  "lastModified": "2022-10-31T13:54:25.610",
-  "cpeLastModified": "2022-10-31T14:17:58.057",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:meraki_vmx_firmware:17.0.0:*:*:*:*:*:*:*",
-      "cpeNameId": "983F7FE9-B200-4CA0-84D9-FF083E2DD20E"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:meraki_vmx_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F7C68C05-248C-4B91-A727-F1ED23AC347C",
+	"versionStartIncluding": "17.0.0",
+	"versionEndExcluding": "17.10.1",
+	"created": "2022-10-31T13:54:25.610",
+	"lastModified": "2022-10-31T13:54:25.610",
+	"cpeLastModified": "2022-10-31T14:17:58.057",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:meraki_vmx_firmware:17.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "983F7FE9-B200-4CA0-84D9-FF083E2DD20E"
+		}
+	]
 }

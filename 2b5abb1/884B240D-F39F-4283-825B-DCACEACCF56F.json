@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:xmldom_project:xmldom:0.9.0:beta1:*:*:*:node.js:*:*",
-  "matchCriteriaId": "884B240D-F39F-4283-825B-DCACEACCF56F",
-  "created": "2022-10-27T14:46:47.727",
-  "lastModified": "2022-10-27T15:16:10.187",
-  "cpeLastModified": "2022-10-27T15:16:10.187",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:xmldom_project:xmldom:0.9.0:beta1:*:*:*:node.js:*:*",
-      "cpeNameId": "85669AB7-8ED9-4496-B887-DF86BDD3D5BD"
-    }
-  ]
+	"criteria": "cpe:2.3:a:xmldom_project:xmldom:0.9.0:beta1:*:*:*:node.js:*:*",
+	"matchCriteriaId": "884B240D-F39F-4283-825B-DCACEACCF56F",
+	"created": "2022-10-27T14:46:47.727",
+	"lastModified": "2022-10-27T15:16:10.187",
+	"cpeLastModified": "2022-10-27T15:16:10.187",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:xmldom_project:xmldom:0.9.0:beta1:*:*:*:node.js:*:*",
+			"cpeNameId": "85669AB7-8ED9-4496-B887-DF86BDD3D5BD"
+		}
+	]
 }

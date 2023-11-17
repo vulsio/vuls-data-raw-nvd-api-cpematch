@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:cisco:catalyst_9105ax:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C76DACE3-7D3B-4FE6-8567-0C9D43FF7A7E",
-  "created": "2022-10-03T12:18:13.910",
-  "lastModified": "2022-10-04T23:18:26.897",
-  "cpeLastModified": "2022-10-04T23:18:26.897",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:cisco:catalyst_9105ax:-:*:*:*:*:*:*:*",
-      "cpeNameId": "42A91BAE-100B-4E4E-8F37-C745BDF69FD1"
-    }
-  ]
+	"criteria": "cpe:2.3:h:cisco:catalyst_9105ax:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C76DACE3-7D3B-4FE6-8567-0C9D43FF7A7E",
+	"created": "2022-10-03T12:18:13.910",
+	"lastModified": "2022-10-04T23:18:26.897",
+	"cpeLastModified": "2022-10-04T23:18:26.897",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:cisco:catalyst_9105ax:-:*:*:*:*:*:*:*",
+			"cpeNameId": "42A91BAE-100B-4E4E-8F37-C745BDF69FD1"
+		}
+	]
 }

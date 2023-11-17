@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dahuasecurity:ipc-hdbw2531e-s-s2_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A4A638CB-336F-4B3A-B549-A14B33758B93",
-  "versionEndExcluding": "2022-04",
-  "created": "2022-07-08T12:11:08.630",
-  "lastModified": "2022-07-08T12:11:08.630",
-  "cpeLastModified": "2022-07-11T12:28:58.180",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dahuasecurity:ipc-hdbw2531e-s-s2_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "B74D302A-58CB-44D4-9901-F8FAE9449EDF"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dahuasecurity:ipc-hdbw2531e-s-s2_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A4A638CB-336F-4B3A-B549-A14B33758B93",
+	"versionEndExcluding": "2022-04",
+	"created": "2022-07-08T12:11:08.630",
+	"lastModified": "2022-07-08T12:11:08.630",
+	"cpeLastModified": "2022-07-11T12:28:58.180",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dahuasecurity:ipc-hdbw2531e-s-s2_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B74D302A-58CB-44D4-9901-F8FAE9449EDF"
+		}
+	]
 }

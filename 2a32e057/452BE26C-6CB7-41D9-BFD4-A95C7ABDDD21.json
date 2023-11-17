@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:sra-admin_project:sra-admin:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "452BE26C-6CB7-41D9-BFD4-A95C7ABDDD21",
-  "versionEndIncluding": "1.1.1",
-  "created": "2022-10-20T19:46:01.983",
-  "lastModified": "2022-10-20T19:46:01.983",
-  "cpeLastModified": "2022-11-07T20:28:12.290",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:sra-admin_project:sra-admin:1.1.1:*:*:*:*:*:*:*",
-      "cpeNameId": "C6611104-CE90-41A3-9ACC-2F1E239DB20C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:sra-admin_project:sra-admin:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "452BE26C-6CB7-41D9-BFD4-A95C7ABDDD21",
+	"versionEndIncluding": "1.1.1",
+	"created": "2022-10-20T19:46:01.983",
+	"lastModified": "2022-10-20T19:46:01.983",
+	"cpeLastModified": "2022-11-07T20:28:12.290",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sra-admin_project:sra-admin:1.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "C6611104-CE90-41A3-9ACC-2F1E239DB20C"
+		}
+	]
 }

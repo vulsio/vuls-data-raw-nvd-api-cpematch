@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:core_i3-8100h_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9398CE48-A299-45C9-8348-0D835C053161",
-  "versionEndExcluding": "11.8.92",
-  "created": "2022-06-09T14:34:38.640",
-  "lastModified": "2022-06-09T14:34:38.640",
-  "cpeLastModified": "2021-05-04T11:06:51.620",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:core_i3-8100h_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "8CC8D68F-1420-4F1B-90D9-3A459C817F44"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:core_i3-8100h_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9398CE48-A299-45C9-8348-0D835C053161",
+	"versionEndExcluding": "11.8.92",
+	"created": "2022-06-09T14:34:38.640",
+	"lastModified": "2022-06-09T14:34:38.640",
+	"cpeLastModified": "2021-05-04T11:06:51.620",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:core_i3-8100h_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8CC8D68F-1420-4F1B-90D9-3A459C817F44"
+		}
+	]
 }

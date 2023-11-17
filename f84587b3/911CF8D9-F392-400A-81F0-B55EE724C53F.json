@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:schneider-electric:andover_continuum_5740_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "911CF8D9-F392-400A-81F0-B55EE724C53F",
-  "created": "2020-03-24T10:37:59.707",
-  "lastModified": "2020-03-24T10:37:59.707",
-  "cpeLastModified": "2020-03-24T10:37:59.737",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:schneider-electric:andover_continuum_5740_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "1FA61BAB-2684-4829-9115-3D52AD002992"
-    }
-  ]
+	"criteria": "cpe:2.3:o:schneider-electric:andover_continuum_5740_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "911CF8D9-F392-400A-81F0-B55EE724C53F",
+	"created": "2020-03-24T10:37:59.707",
+	"lastModified": "2020-03-24T10:37:59.707",
+	"cpeLastModified": "2020-03-24T10:37:59.737",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:schneider-electric:andover_continuum_5740_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1FA61BAB-2684-4829-9115-3D52AD002992"
+		}
+	]
 }

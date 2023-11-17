@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:hp:helion_openstack_glance:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A6A18432-A414-4BED-8A25-76986470CEED",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2020-09-15T20:32:47.673",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:hp:helion_openstack_glance:-:*:*:*:*:*:*:*",
-      "cpeNameId": "A3AD5CDD-EA43-4E70-A76E-6A8A4D266FEB"
-    }
-  ]
+	"criteria": "cpe:2.3:a:hp:helion_openstack_glance:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A6A18432-A414-4BED-8A25-76986470CEED",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2020-09-15T20:32:47.673",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:hp:helion_openstack_glance:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A3AD5CDD-EA43-4E70-A76E-6A8A4D266FEB"
+		}
+	]
 }

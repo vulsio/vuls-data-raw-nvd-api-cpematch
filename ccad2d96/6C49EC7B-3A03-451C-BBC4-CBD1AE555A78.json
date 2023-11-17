@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:zoom:rooms:*:*:*:*:*:android:*:*",
-  "matchCriteriaId": "6C49EC7B-3A03-451C-BBC4-CBD1AE555A78",
-  "versionEndExcluding": "5.12.6",
-  "created": "2022-11-16T11:59:30.360",
-  "lastModified": "2022-11-17T17:14:54.393",
-  "cpeLastModified": "2022-11-17T17:14:54.393",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:zoom:rooms:-:*:*:*:*:android:*:*",
-      "cpeNameId": "80048A65-6A83-40E0-A735-78BCDA2B55EC"
-    }
-  ]
+	"criteria": "cpe:2.3:a:zoom:rooms:*:*:*:*:*:android:*:*",
+	"matchCriteriaId": "6C49EC7B-3A03-451C-BBC4-CBD1AE555A78",
+	"versionEndExcluding": "5.12.6",
+	"created": "2022-11-16T11:59:30.360",
+	"lastModified": "2022-11-17T17:14:54.393",
+	"cpeLastModified": "2022-11-17T17:14:54.393",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:zoom:rooms:-:*:*:*:*:android:*:*",
+			"cpeNameId": "80048A65-6A83-40E0-A735-78BCDA2B55EC"
+		}
+	]
 }

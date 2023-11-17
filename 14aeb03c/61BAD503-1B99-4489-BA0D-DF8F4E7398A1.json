@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:cisco:isrv:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "61BAD503-1B99-4489-BA0D-DF8F4E7398A1",
-  "created": "2020-10-23T02:02:06.097",
-  "lastModified": "2020-10-23T02:02:06.097",
-  "cpeLastModified": "2020-11-02T20:56:42.860",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:cisco:isrv:-:*:*:*:*:*:*:*",
-      "cpeNameId": "47FA52A6-01ED-4F2B-980B-8770180FD1E7"
-    }
-  ]
+	"criteria": "cpe:2.3:a:cisco:isrv:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "61BAD503-1B99-4489-BA0D-DF8F4E7398A1",
+	"created": "2020-10-23T02:02:06.097",
+	"lastModified": "2020-10-23T02:02:06.097",
+	"cpeLastModified": "2020-11-02T20:56:42.860",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:isrv:-:*:*:*:*:*:*:*",
+			"cpeNameId": "47FA52A6-01ED-4F2B-980B-8770180FD1E7"
+		}
+	]
 }

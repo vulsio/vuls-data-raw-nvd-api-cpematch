@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:fujifilm:apeosport_c3070_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "314719EE-91AD-4F19-B4D7-7899014B7EFE",
-  "versionEndExcluding": "1.60.9",
-  "created": "2022-03-21T14:35:29.010",
-  "lastModified": "2022-03-21T14:35:29.010",
-  "cpeLastModified": "2022-03-23T15:02:24.853",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:fujifilm:apeosport_c3070_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "D5939679-7475-4594-B9DB-A676885E3F12"
-    }
-  ]
+	"criteria": "cpe:2.3:o:fujifilm:apeosport_c3070_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "314719EE-91AD-4F19-B4D7-7899014B7EFE",
+	"versionEndExcluding": "1.60.9",
+	"created": "2022-03-21T14:35:29.010",
+	"lastModified": "2022-03-21T14:35:29.010",
+	"cpeLastModified": "2022-03-23T15:02:24.853",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:fujifilm:apeosport_c3070_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D5939679-7475-4594-B9DB-A676885E3F12"
+		}
+	]
 }

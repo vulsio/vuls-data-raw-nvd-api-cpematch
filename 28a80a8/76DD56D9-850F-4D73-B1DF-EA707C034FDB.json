@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:sony:r5c_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "76DD56D9-850F-4D73-B1DF-EA707C034FDB",
-  "versionEndExcluding": "8.590",
-  "created": "2019-06-24T13:49:29.603",
-  "lastModified": "2019-06-24T13:49:29.603",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:sony:r5c_firmware:8.588:*:*:*:*:*:*:*",
-      "cpeNameId": "AD694072-1007-4014-B8D7-5BED7055767B"
-    }
-  ]
+	"criteria": "cpe:2.3:o:sony:r5c_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "76DD56D9-850F-4D73-B1DF-EA707C034FDB",
+	"versionEndExcluding": "8.590",
+	"created": "2019-06-24T13:49:29.603",
+	"lastModified": "2019-06-24T13:49:29.603",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:sony:r5c_firmware:8.588:*:*:*:*:*:*:*",
+			"cpeNameId": "AD694072-1007-4014-B8D7-5BED7055767B"
+		}
+	]
 }

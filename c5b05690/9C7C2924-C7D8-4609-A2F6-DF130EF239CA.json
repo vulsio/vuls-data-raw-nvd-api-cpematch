@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:peplink:balance_30_lte_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9C7C2924-C7D8-4609-A2F6-DF130EF239CA",
-  "versionEndIncluding": "8.1.0",
-  "created": "2020-10-08T15:01:50.210",
-  "lastModified": "2020-10-08T15:01:50.210",
-  "cpeLastModified": "2020-11-06T13:52:47.120",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:peplink:balance_30_lte_firmware:8.1.0:*:*:*:*:*:*:*",
-      "cpeNameId": "708D59E0-1C6D-4089-827C-360FF79AEA27"
-    }
-  ]
+	"criteria": "cpe:2.3:o:peplink:balance_30_lte_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9C7C2924-C7D8-4609-A2F6-DF130EF239CA",
+	"versionEndIncluding": "8.1.0",
+	"created": "2020-10-08T15:01:50.210",
+	"lastModified": "2020-10-08T15:01:50.210",
+	"cpeLastModified": "2020-11-06T13:52:47.120",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:peplink:balance_30_lte_firmware:8.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "708D59E0-1C6D-4089-827C-360FF79AEA27"
+		}
+	]
 }

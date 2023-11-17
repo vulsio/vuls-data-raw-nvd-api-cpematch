@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:huawei:p20_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "048DA7E4-D86C-4AF3-B2DC-5C1E4DEEF88E",
-  "versionEndExcluding": "8.0.1.16\\(c00\\)",
-  "created": "2020-09-11T16:45:33.483",
-  "lastModified": "2020-09-11T16:45:33.483",
-  "cpeLastModified": "2020-09-11T16:45:33.513",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:huawei:p20_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "FF61FD01-F8CD-4E43-B408-633B919AB5AE"
-    }
-  ]
+	"criteria": "cpe:2.3:o:huawei:p20_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "048DA7E4-D86C-4AF3-B2DC-5C1E4DEEF88E",
+	"versionEndExcluding": "8.0.1.16\\(c00\\)",
+	"created": "2020-09-11T16:45:33.483",
+	"lastModified": "2020-09-11T16:45:33.483",
+	"cpeLastModified": "2020-09-11T16:45:33.513",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:huawei:p20_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FF61FD01-F8CD-4E43-B408-633B919AB5AE"
+		}
+	]
 }

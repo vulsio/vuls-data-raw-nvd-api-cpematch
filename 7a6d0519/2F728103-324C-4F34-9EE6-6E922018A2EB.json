@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:sophos:firewall:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "2F728103-324C-4F34-9EE6-6E922018A2EB",
-  "created": "2022-05-12T01:40:11.773",
-  "lastModified": "2022-10-06T15:03:41.887",
-  "cpeLastModified": "2022-10-06T15:03:41.887",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:sophos:firewall:-:*:*:*:*:*:*:*",
-      "cpeNameId": "89D9D93F-E1F8-4154-A6DB-0D6CAE289F45"
-    }
-  ]
+	"criteria": "cpe:2.3:h:sophos:firewall:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2F728103-324C-4F34-9EE6-6E922018A2EB",
+	"created": "2022-05-12T01:40:11.773",
+	"lastModified": "2022-10-06T15:03:41.887",
+	"cpeLastModified": "2022-10-06T15:03:41.887",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:sophos:firewall:-:*:*:*:*:*:*:*",
+			"cpeNameId": "89D9D93F-E1F8-4154-A6DB-0D6CAE289F45"
+		}
+	]
 }

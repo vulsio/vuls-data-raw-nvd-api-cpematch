@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:microsoft:windows_subsystem_for_linux:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6CE00820-9E9F-4E1B-ADD1-35797133AA4F",
-  "created": "2022-11-10T12:58:44.603",
-  "lastModified": "2022-12-15T12:50:45.330",
-  "cpeLastModified": "2022-11-27T13:33:47.967",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:microsoft:windows_subsystem_for_linux:-:*:*:*:*:*:*:*",
-      "cpeNameId": "24C5C2CD-A282-4E77-A152-8073F9E769F7"
-    }
-  ]
+	"criteria": "cpe:2.3:a:microsoft:windows_subsystem_for_linux:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6CE00820-9E9F-4E1B-ADD1-35797133AA4F",
+	"created": "2022-11-10T12:58:44.603",
+	"lastModified": "2022-12-15T12:50:45.330",
+	"cpeLastModified": "2022-11-27T13:33:47.967",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:windows_subsystem_for_linux:-:*:*:*:*:*:*:*",
+			"cpeNameId": "24C5C2CD-A282-4E77-A152-8073F9E769F7"
+		}
+	]
 }

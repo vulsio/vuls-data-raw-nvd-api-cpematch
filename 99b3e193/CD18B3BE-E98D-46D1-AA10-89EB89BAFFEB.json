@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:siemens:scalance_x202-2pirt_siplus_net_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CD18B3BE-E98D-46D1-AA10-89EB89BAFFEB",
-  "versionEndExcluding": "5.5.0",
-  "created": "2022-04-01T14:29:56.350",
-  "lastModified": "2022-04-01T14:29:56.350",
-  "cpeLastModified": "2022-07-01T18:53:39.423",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:scalance_x202-2pirt_siplus_net_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "B0864F4C-DEB6-4744-899B-6485F07700DE"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:scalance_x202-2pirt_siplus_net_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CD18B3BE-E98D-46D1-AA10-89EB89BAFFEB",
+	"versionEndExcluding": "5.5.0",
+	"created": "2022-04-01T14:29:56.350",
+	"lastModified": "2022-04-01T14:29:56.350",
+	"cpeLastModified": "2022-07-01T18:53:39.423",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:scalance_x202-2pirt_siplus_net_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B0864F4C-DEB6-4744-899B-6485F07700DE"
+		}
+	]
 }

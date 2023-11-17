@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:autodesk:advance_steel:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CAE14E69-8BCB-4E00-8BAB-CB7F1688DC27",
-  "versionStartIncluding": "2022",
-  "versionEndExcluding": "2022.0.1",
-  "created": "2022-03-24T16:05:36.447",
-  "lastModified": "2022-03-24T16:05:36.447",
-  "cpeLastModified": "2022-05-13T17:31:45.983",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:autodesk:advance_steel:2022:*:*:*:*:*:*:*",
-      "cpeNameId": "557579A5-0DEF-4647-9FAA-BA739C506AF4"
-    }
-  ]
+	"criteria": "cpe:2.3:a:autodesk:advance_steel:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CAE14E69-8BCB-4E00-8BAB-CB7F1688DC27",
+	"versionStartIncluding": "2022",
+	"versionEndExcluding": "2022.0.1",
+	"created": "2022-03-24T16:05:36.447",
+	"lastModified": "2022-03-24T16:05:36.447",
+	"cpeLastModified": "2022-05-13T17:31:45.983",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:autodesk:advance_steel:2022:*:*:*:*:*:*:*",
+			"cpeNameId": "557579A5-0DEF-4647-9FAA-BA739C506AF4"
+		}
+	]
 }

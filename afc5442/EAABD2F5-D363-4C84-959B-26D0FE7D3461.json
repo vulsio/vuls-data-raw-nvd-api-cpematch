@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:lexmark:ms818_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "EAABD2F5-D363-4C84-959B-26D0FE7D3461",
-  "versionEndIncluding": "lw71.dn2.p229",
-  "created": "2019-08-28T22:37:02.170",
-  "lastModified": "2019-08-28T22:37:02.170",
-  "cpeLastModified": "2019-11-21T19:08:11.683",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lexmark:ms818_firmware:lw71.dn2.p228:*:*:*:*:*:*:*",
-      "cpeNameId": "C62312DD-C8C1-409A-8D09-78D7AE75CCC3"
-    },
-    {
-      "cpeName": "cpe:2.3:o:lexmark:ms818_firmware:lw71.dn2.p229:*:*:*:*:*:*:*",
-      "cpeNameId": "73FAA5EB-BBD9-43BD-9C31-651BE7217386"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lexmark:ms818_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "EAABD2F5-D363-4C84-959B-26D0FE7D3461",
+	"versionEndIncluding": "lw71.dn2.p229",
+	"created": "2019-08-28T22:37:02.170",
+	"lastModified": "2019-08-28T22:37:02.170",
+	"cpeLastModified": "2019-11-21T19:08:11.683",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lexmark:ms818_firmware:lw71.dn2.p228:*:*:*:*:*:*:*",
+			"cpeNameId": "C62312DD-C8C1-409A-8D09-78D7AE75CCC3"
+		},
+		{
+			"cpeName": "cpe:2.3:o:lexmark:ms818_firmware:lw71.dn2.p229:*:*:*:*:*:*:*",
+			"cpeNameId": "73FAA5EB-BBD9-43BD-9C31-651BE7217386"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:amd:xilinx_z-7035_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FB0637D7-806D-4D97-97AA-ED951740FD2E",
-  "created": "2022-02-15T17:10:17.170",
-  "lastModified": "2022-02-15T17:10:17.170",
-  "cpeLastModified": "2022-02-17T17:26:30.417",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:amd:xilinx_z-7035_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "BEA707DD-30A7-494E-BAD9-4CDE78C81AD0"
-    }
-  ]
+	"criteria": "cpe:2.3:o:amd:xilinx_z-7035_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FB0637D7-806D-4D97-97AA-ED951740FD2E",
+	"created": "2022-02-15T17:10:17.170",
+	"lastModified": "2022-02-15T17:10:17.170",
+	"cpeLastModified": "2022-02-17T17:26:30.417",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:xilinx_z-7035_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BEA707DD-30A7-494E-BAD9-4CDE78C81AD0"
+		}
+	]
 }

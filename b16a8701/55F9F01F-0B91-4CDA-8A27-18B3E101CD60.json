@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:pagewide_pro_552dw_d3q17a_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "55F9F01F-0B91-4CDA-8A27-18B3E101CD60",
-  "versionEndExcluding": "001.1937d",
-  "created": "2021-11-12T17:38:09.067",
-  "lastModified": "2021-11-12T17:38:09.067",
-  "cpeLastModified": "2022-12-14T20:30:59.897",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:pagewide_pro_552dw_d3q17a_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "171F3507-0004-44F3-A1C1-044942DC2016"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:pagewide_pro_552dw_d3q17a_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "55F9F01F-0B91-4CDA-8A27-18B3E101CD60",
+	"versionEndExcluding": "001.1937d",
+	"created": "2021-11-12T17:38:09.067",
+	"lastModified": "2021-11-12T17:38:09.067",
+	"cpeLastModified": "2022-12-14T20:30:59.897",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:pagewide_pro_552dw_d3q17a_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "171F3507-0004-44F3-A1C1-044942DC2016"
+		}
+	]
 }

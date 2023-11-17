@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:iconics:hyper_historian:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7E1A1270-25BA-4B22-823D-BE031A7BC908",
-  "versionEndIncluding": "10.97",
-  "created": "2022-01-27T18:34:41.187",
-  "lastModified": "2022-01-27T18:34:41.187",
-  "cpeLastModified": "2022-01-27T20:42:27.580",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:iconics:hyper_historian:-:*:*:*:*:*:*:*",
-      "cpeNameId": "6730B9AC-5A07-4A80-AAB8-4A1B63018702"
-    }
-  ]
+	"criteria": "cpe:2.3:a:iconics:hyper_historian:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7E1A1270-25BA-4B22-823D-BE031A7BC908",
+	"versionEndIncluding": "10.97",
+	"created": "2022-01-27T18:34:41.187",
+	"lastModified": "2022-01-27T18:34:41.187",
+	"cpeLastModified": "2022-01-27T20:42:27.580",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:iconics:hyper_historian:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6730B9AC-5A07-4A80-AAB8-4A1B63018702"
+		}
+	]
 }

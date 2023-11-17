@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:qualcomm:smb1360:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FB1D7205-33E9-452B-BECD-F551801071DE",
-  "created": "2021-01-26T12:00:03.817",
-  "lastModified": "2021-01-26T12:00:03.817",
-  "cpeLastModified": "2021-01-28T18:35:21.203",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:qualcomm:smb1360:-:*:*:*:*:*:*:*",
-      "cpeNameId": "EDDA0203-6200-455A-BBEB-31888F5C881E"
-    }
-  ]
+	"criteria": "cpe:2.3:h:qualcomm:smb1360:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FB1D7205-33E9-452B-BECD-F551801071DE",
+	"created": "2021-01-26T12:00:03.817",
+	"lastModified": "2021-01-26T12:00:03.817",
+	"cpeLastModified": "2021-01-28T18:35:21.203",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:smb1360:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EDDA0203-6200-455A-BBEB-31888F5C881E"
+		}
+	]
 }

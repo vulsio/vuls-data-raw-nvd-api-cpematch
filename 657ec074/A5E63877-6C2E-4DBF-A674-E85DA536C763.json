@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:draytek:virgor2865ax_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A5E63877-6C2E-4DBF-A674-E85DA536C763",
-  "versionEndExcluding": "4.4.1.1",
-  "created": "2023-03-09T16:12:47.537",
-  "lastModified": "2023-03-20T16:51:17.380",
-  "cpeLastModified": "2023-03-20T16:51:17.380",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:draytek:virgor2865ax_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "3BD887A6-BA63-47AB-9C5A-916F291EC182"
-    }
-  ]
+	"criteria": "cpe:2.3:o:draytek:virgor2865ax_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A5E63877-6C2E-4DBF-A674-E85DA536C763",
+	"versionEndExcluding": "4.4.1.1",
+	"created": "2023-03-09T16:12:47.537",
+	"lastModified": "2023-03-20T16:51:17.380",
+	"cpeLastModified": "2023-03-20T16:51:17.380",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:draytek:virgor2865ax_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3BD887A6-BA63-47AB-9C5A-916F291EC182"
+		}
+	]
 }

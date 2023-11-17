@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:opensuse:leap:15.2:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B009C22E-30A4-4288-BCF6-C3E81DEAF45A",
-  "created": "2020-07-15T16:40:55.880",
-  "lastModified": "2022-09-27T17:22:44.037",
-  "cpeLastModified": "2020-09-16T16:23:01.687",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:opensuse:leap:15.2:*:*:*:*:*:*:*",
-      "cpeNameId": "003DE298-A4DE-4230-9897-294FE985412E"
-    }
-  ]
+	"criteria": "cpe:2.3:o:opensuse:leap:15.2:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B009C22E-30A4-4288-BCF6-C3E81DEAF45A",
+	"created": "2020-07-15T16:40:55.880",
+	"lastModified": "2022-09-27T17:22:44.037",
+	"cpeLastModified": "2020-09-16T16:23:01.687",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:opensuse:leap:15.2:*:*:*:*:*:*:*",
+			"cpeNameId": "003DE298-A4DE-4230-9897-294FE985412E"
+		}
+	]
 }

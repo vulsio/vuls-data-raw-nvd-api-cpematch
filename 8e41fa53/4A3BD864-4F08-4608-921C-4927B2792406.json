@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:kde:kde-workspace:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4A3BD864-4F08-4608-921C-4927B2792406",
-  "versionEndExcluding": "4.10.5",
-  "created": "2019-12-16T20:33:51.973",
-  "lastModified": "2019-12-16T20:33:51.973",
-  "cpeLastModified": "2019-12-16T20:33:52.007",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:kde:kde-workspace:4.2.0:*:*:*:*:*:*:*",
-      "cpeNameId": "489F1929-7ADF-40A5-ADEA-4E32C673CEC2"
-    }
-  ]
+	"criteria": "cpe:2.3:a:kde:kde-workspace:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4A3BD864-4F08-4608-921C-4927B2792406",
+	"versionEndExcluding": "4.10.5",
+	"created": "2019-12-16T20:33:51.973",
+	"lastModified": "2019-12-16T20:33:51.973",
+	"cpeLastModified": "2019-12-16T20:33:52.007",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:kde:kde-workspace:4.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "489F1929-7ADF-40A5-ADEA-4E32C673CEC2"
+		}
+	]
 }

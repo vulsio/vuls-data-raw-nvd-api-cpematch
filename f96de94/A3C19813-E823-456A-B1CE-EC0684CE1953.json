@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:netapp:hci_management_node:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A3C19813-E823-456A-B1CE-EC0684CE1953",
-  "created": "2020-05-28T12:24:42.357",
-  "lastModified": "2022-09-23T17:39:08.353",
-  "cpeLastModified": "2020-07-24T16:05:14.190",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:netapp:hci_management_node:-:*:*:*:*:*:*:*",
-      "cpeNameId": "45245177-50F1-440A-9F67-139EDD6CC602"
-    }
-  ]
+	"criteria": "cpe:2.3:a:netapp:hci_management_node:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A3C19813-E823-456A-B1CE-EC0684CE1953",
+	"created": "2020-05-28T12:24:42.357",
+	"lastModified": "2022-09-23T17:39:08.353",
+	"cpeLastModified": "2020-07-24T16:05:14.190",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:netapp:hci_management_node:-:*:*:*:*:*:*:*",
+			"cpeNameId": "45245177-50F1-440A-9F67-139EDD6CC602"
+		}
+	]
 }

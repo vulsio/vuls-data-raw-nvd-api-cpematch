@@ -1,24 +1,24 @@
 {
-  "criteria": "cpe:2.3:a:ctolog:thinkadmin:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "887A93B0-B419-4E1E-A812-D6A0400A1EDB",
-  "versionStartIncluding": "4.0",
-  "versionEndIncluding": "6.0",
-  "created": "2021-01-14T16:39:37.710",
-  "lastModified": "2021-01-14T16:39:37.710",
-  "cpeLastModified": "2021-01-14T16:39:37.803",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ctolog:thinkadmin:4.0:*:*:*:*:*:*:*",
-      "cpeNameId": "AE1D59A2-C145-47E9-B58F-C6A374A7A6F9"
-    },
-    {
-      "cpeName": "cpe:2.3:a:ctolog:thinkadmin:5.0:*:*:*:*:*:*:*",
-      "cpeNameId": "392B1713-B7E2-4F41-AD44-ADF23A5DF554"
-    },
-    {
-      "cpeName": "cpe:2.3:a:ctolog:thinkadmin:6.0:*:*:*:*:*:*:*",
-      "cpeNameId": "E37E042F-DDFA-4FAB-86C7-0D27A1320D25"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ctolog:thinkadmin:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "887A93B0-B419-4E1E-A812-D6A0400A1EDB",
+	"versionStartIncluding": "4.0",
+	"versionEndIncluding": "6.0",
+	"created": "2021-01-14T16:39:37.710",
+	"lastModified": "2021-01-14T16:39:37.710",
+	"cpeLastModified": "2021-01-14T16:39:37.803",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ctolog:thinkadmin:4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "AE1D59A2-C145-47E9-B58F-C6A374A7A6F9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ctolog:thinkadmin:5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "392B1713-B7E2-4F41-AD44-ADF23A5DF554"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ctolog:thinkadmin:6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E37E042F-DDFA-4FAB-86C7-0D27A1320D25"
+		}
+	]
 }

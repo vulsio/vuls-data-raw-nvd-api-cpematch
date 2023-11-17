@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:mockery_project:mockery:2.1.0:*:*:*:*:node.js:*:*",
-  "matchCriteriaId": "AFBB2D4B-0E19-44C3-9554-410411CE5F89",
-  "created": "2022-10-14T13:28:10.373",
-  "lastModified": "2022-10-14T14:36:40.270",
-  "cpeLastModified": "2022-10-14T14:36:40.270",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:mockery_project:mockery:2.1.0:*:*:*:*:node.js:*:*",
-      "cpeNameId": "A37EE711-6744-41BB-8CD1-805D8DF0FA11"
-    }
-  ]
+	"criteria": "cpe:2.3:a:mockery_project:mockery:2.1.0:*:*:*:*:node.js:*:*",
+	"matchCriteriaId": "AFBB2D4B-0E19-44C3-9554-410411CE5F89",
+	"created": "2022-10-14T13:28:10.373",
+	"lastModified": "2022-10-14T14:36:40.270",
+	"cpeLastModified": "2022-10-14T14:36:40.270",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:mockery_project:mockery:2.1.0:*:*:*:*:node.js:*:*",
+			"cpeNameId": "A37EE711-6744-41BB-8CD1-805D8DF0FA11"
+		}
+	]
 }

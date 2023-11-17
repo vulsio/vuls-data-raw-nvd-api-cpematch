@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:freebsd:freebsd:6.3:p9:*:*:*:*:*:*",
-  "matchCriteriaId": "6A9AEE2B-EE04-4B51-B28E-E401E99BF63B",
-  "created": "2019-07-24T17:19:52.487",
-  "lastModified": "2019-07-24T17:19:52.487",
-  "cpeLastModified": "2019-07-24T17:19:52.500",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:freebsd:freebsd:6.3:p9:*:*:*:*:*:*",
-      "cpeNameId": "A6589EB2-CFE5-4908-9882-C99512AB797D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:freebsd:freebsd:6.3:p9:*:*:*:*:*:*",
+	"matchCriteriaId": "6A9AEE2B-EE04-4B51-B28E-E401E99BF63B",
+	"created": "2019-07-24T17:19:52.487",
+	"lastModified": "2019-07-24T17:19:52.487",
+	"cpeLastModified": "2019-07-24T17:19:52.500",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:6.3:p9:*:*:*:*:*:*",
+			"cpeNameId": "A6589EB2-CFE5-4908-9882-C99512AB797D"
+		}
+	]
 }

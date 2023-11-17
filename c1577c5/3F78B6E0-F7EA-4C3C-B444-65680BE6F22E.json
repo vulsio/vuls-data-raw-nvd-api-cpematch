@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:siemens:siplus_s7-1500_cpu_1515r-2_pn_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "3F78B6E0-F7EA-4C3C-B444-65680BE6F22E",
-  "versionEndExcluding": "2.9.7",
-  "created": "2023-09-19T21:20:10.563",
-  "lastModified": "2023-09-19T21:20:10.563",
-  "cpeLastModified": "2023-09-19T21:20:10.563",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:siplus_s7-1500_cpu_1515r-2_pn_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "14954F18-2551-4C55-AFE5-573FF8816DD6"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:siplus_s7-1500_cpu_1515r-2_pn_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3F78B6E0-F7EA-4C3C-B444-65680BE6F22E",
+	"versionEndExcluding": "2.9.7",
+	"created": "2023-09-19T21:20:10.563",
+	"lastModified": "2023-09-19T21:20:10.563",
+	"cpeLastModified": "2023-09-19T21:20:10.563",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:siplus_s7-1500_cpu_1515r-2_pn_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "14954F18-2551-4C55-AFE5-573FF8816DD6"
+		}
+	]
 }

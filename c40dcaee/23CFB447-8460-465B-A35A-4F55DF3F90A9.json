@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:splunk:universal_forwarder:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "23CFB447-8460-465B-A35A-4F55DF3F90A9",
-  "versionEndExcluding": "9.0",
-  "created": "2022-06-23T14:08:21.297",
-  "lastModified": "2022-06-23T14:08:21.297",
-  "cpeLastModified": "2012-07-10T03:20:18.713",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:splunk:universal_forwarder:4.2.3.105575:*:*:*:*:*:*:*",
-      "cpeNameId": "7C7ABD1A-E1C6-4A3E-ADF4-20EDED50BF4C"
-    },
-    {
-      "cpeName": "cpe:2.3:a:splunk:universal_forwarder:4.2.4.110225:*:*:*:*:*:*:*",
-      "cpeNameId": "A2E4DA8E-318D-4970-9C47-C17BB89DA44F"
-    }
-  ]
+	"criteria": "cpe:2.3:a:splunk:universal_forwarder:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "23CFB447-8460-465B-A35A-4F55DF3F90A9",
+	"versionEndExcluding": "9.0",
+	"created": "2022-06-23T14:08:21.297",
+	"lastModified": "2022-06-23T14:08:21.297",
+	"cpeLastModified": "2012-07-10T03:20:18.713",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:splunk:universal_forwarder:4.2.3.105575:*:*:*:*:*:*:*",
+			"cpeNameId": "7C7ABD1A-E1C6-4A3E-ADF4-20EDED50BF4C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:splunk:universal_forwarder:4.2.4.110225:*:*:*:*:*:*:*",
+			"cpeNameId": "A2E4DA8E-318D-4970-9C47-C17BB89DA44F"
+		}
+	]
 }

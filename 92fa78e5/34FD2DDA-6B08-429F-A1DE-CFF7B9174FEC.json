@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:matomo:piwik_fpm-alpine_docker_image:3.5:*:*:*:*:*:*:*",
-  "matchCriteriaId": "34FD2DDA-6B08-429F-A1DE-CFF7B9174FEC",
-  "created": "2020-12-18T19:35:07.320",
-  "lastModified": "2020-12-18T19:35:07.320",
-  "cpeLastModified": "2020-12-18T19:36:32.693",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:matomo:piwik_fpm-alpine_docker_image:3.5:*:*:*:*:*:*:*",
-      "cpeNameId": "0C309393-3B34-486D-AD8A-B6154F807424"
-    }
-  ]
+	"criteria": "cpe:2.3:a:matomo:piwik_fpm-alpine_docker_image:3.5:*:*:*:*:*:*:*",
+	"matchCriteriaId": "34FD2DDA-6B08-429F-A1DE-CFF7B9174FEC",
+	"created": "2020-12-18T19:35:07.320",
+	"lastModified": "2020-12-18T19:35:07.320",
+	"cpeLastModified": "2020-12-18T19:36:32.693",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:matomo:piwik_fpm-alpine_docker_image:3.5:*:*:*:*:*:*:*",
+			"cpeNameId": "0C309393-3B34-486D-AD8A-B6154F807424"
+		}
+	]
 }

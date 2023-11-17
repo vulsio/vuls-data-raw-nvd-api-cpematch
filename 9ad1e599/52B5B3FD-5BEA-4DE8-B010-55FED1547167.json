@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:intel:core_i3:4100e:*:*:*:*:*:*:*",
-  "matchCriteriaId": "52B5B3FD-5BEA-4DE8-B010-55FED1547167",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2023-09-25T19:50:28.567",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:intel:core_i3:4100e:*:*:*:*:*:*:*",
-      "cpeNameId": "EE483A97-6A18-4419-A151-DFD84EB94D9D"
-    }
-  ]
+	"criteria": "cpe:2.3:h:intel:core_i3:4100e:*:*:*:*:*:*:*",
+	"matchCriteriaId": "52B5B3FD-5BEA-4DE8-B010-55FED1547167",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2023-09-25T19:50:28.567",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:core_i3:4100e:*:*:*:*:*:*:*",
+			"cpeNameId": "EE483A97-6A18-4419-A151-DFD84EB94D9D"
+		}
+	]
 }

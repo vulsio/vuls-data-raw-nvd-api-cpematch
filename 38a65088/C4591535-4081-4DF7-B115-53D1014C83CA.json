@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:vmware:vcenter_server:6.0:update3d:*:*:*:*:*:*",
-  "matchCriteriaId": "C4591535-4081-4DF7-B115-53D1014C83CA",
-  "created": "2021-08-24T10:58:34.527",
-  "lastModified": "2021-08-24T10:58:34.527",
-  "cpeLastModified": "2021-08-24T10:59:06.270",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:vmware:vcenter_server:6.0:update3d:*:*:*:*:*:*",
-      "cpeNameId": "4D39889A-3D05-484D-BA7D-AF4E35A5117C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:vmware:vcenter_server:6.0:update3d:*:*:*:*:*:*",
+	"matchCriteriaId": "C4591535-4081-4DF7-B115-53D1014C83CA",
+	"created": "2021-08-24T10:58:34.527",
+	"lastModified": "2021-08-24T10:58:34.527",
+	"cpeLastModified": "2021-08-24T10:59:06.270",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:vmware:vcenter_server:6.0:update3d:*:*:*:*:*:*",
+			"cpeNameId": "4D39889A-3D05-484D-BA7D-AF4E35A5117C"
+		}
+	]
 }

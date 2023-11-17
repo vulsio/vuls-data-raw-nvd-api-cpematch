@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:dell:unisphere_for_powermax:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B34D944B-D1B6-4B10-9120-BBFC0CC244BA",
-  "versionEndExcluding": "9.1.0.31",
-  "created": "2022-01-27T19:48:37.303",
-  "lastModified": "2022-01-27T19:48:37.303",
-  "cpeLastModified": "2022-01-28T15:11:59.010",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:dell:unisphere_for_powermax:-:*:*:*:*:*:*:*",
-      "cpeNameId": "4AAA1C91-0560-432E-BACB-14C48A663536"
-    }
-  ]
+	"criteria": "cpe:2.3:a:dell:unisphere_for_powermax:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B34D944B-D1B6-4B10-9120-BBFC0CC244BA",
+	"versionEndExcluding": "9.1.0.31",
+	"created": "2022-01-27T19:48:37.303",
+	"lastModified": "2022-01-27T19:48:37.303",
+	"cpeLastModified": "2022-01-28T15:11:59.010",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:dell:unisphere_for_powermax:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4AAA1C91-0560-432E-BACB-14C48A663536"
+		}
+	]
 }

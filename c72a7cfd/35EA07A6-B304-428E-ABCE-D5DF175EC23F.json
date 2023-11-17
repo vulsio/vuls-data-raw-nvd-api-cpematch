@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:silextechnology:geh-sd-320an_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "35EA07A6-B304-428E-ABCE-D5DF175EC23F",
-  "versionEndIncluding": "geh-1.1",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:silextechnology:geh-sd-320an_firmware:geh-1.1:*:*:*:*:*:*:*",
-      "cpeNameId": "8D8A7662-FD36-4559-BECE-0833DD371CE5"
-    }
-  ]
+	"criteria": "cpe:2.3:o:silextechnology:geh-sd-320an_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "35EA07A6-B304-428E-ABCE-D5DF175EC23F",
+	"versionEndIncluding": "geh-1.1",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:silextechnology:geh-sd-320an_firmware:geh-1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "8D8A7662-FD36-4559-BECE-0833DD371CE5"
+		}
+	]
 }

@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:gog:galaxy:2.0.46:*:*:*:*:windows:*:*",
-  "matchCriteriaId": "737CAAFE-729D-4F83-A1BF-351EDA74D692",
-  "created": "2022-08-18T16:33:04.920",
-  "lastModified": "2022-08-18T16:33:04.920",
-  "cpeLastModified": "2022-09-03T03:59:50.990",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:gog:galaxy:2.0.46:*:*:*:*:windows:*:*",
-      "cpeNameId": "EDC2EB13-D445-4650-96C9-B203FED275DB"
-    }
-  ]
+	"criteria": "cpe:2.3:a:gog:galaxy:2.0.46:*:*:*:*:windows:*:*",
+	"matchCriteriaId": "737CAAFE-729D-4F83-A1BF-351EDA74D692",
+	"created": "2022-08-18T16:33:04.920",
+	"lastModified": "2022-08-18T16:33:04.920",
+	"cpeLastModified": "2022-09-03T03:59:50.990",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:gog:galaxy:2.0.46:*:*:*:*:windows:*:*",
+			"cpeNameId": "EDC2EB13-D445-4650-96C9-B203FED275DB"
+		}
+	]
 }

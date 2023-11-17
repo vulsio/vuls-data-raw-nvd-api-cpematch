@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:latitude_7414_rugged_extreme_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C82B3BE5-FA1D-4AB9-B048-6AD99C9792D2",
-  "versionEndExcluding": "1.33.0",
-  "created": "2022-09-13T13:13:39.433",
-  "lastModified": "2022-09-13T13:13:39.433",
-  "cpeLastModified": "2022-03-04T19:37:31.503",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:latitude_7414_rugged_extreme_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E7381F10-B6F0-4003-8452-90DFE6F46847"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:latitude_7414_rugged_extreme_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C82B3BE5-FA1D-4AB9-B048-6AD99C9792D2",
+	"versionEndExcluding": "1.33.0",
+	"created": "2022-09-13T13:13:39.433",
+	"lastModified": "2022-09-13T13:13:39.433",
+	"cpeLastModified": "2022-03-04T19:37:31.503",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_7414_rugged_extreme_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E7381F10-B6F0-4003-8452-90DFE6F46847"
+		}
+	]
 }

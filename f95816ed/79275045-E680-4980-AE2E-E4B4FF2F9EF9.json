@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:designjet_z6_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "79275045-E680-4980-AE2E-E4B4FF2F9EF9",
-  "versionEndExcluding": "jgr6_09_22_51.2",
-  "created": "2023-05-08T16:15:35.403",
-  "lastModified": "2023-09-09T03:09:34.913",
-  "cpeLastModified": "2023-09-09T03:09:34.913",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:designjet_z6_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "83972326-1DCF-4B92-9B5D-579AD33AB74D"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:designjet_z6_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "79275045-E680-4980-AE2E-E4B4FF2F9EF9",
+	"versionEndExcluding": "jgr6_09_22_51.2",
+	"created": "2023-05-08T16:15:35.403",
+	"lastModified": "2023-09-09T03:09:34.913",
+	"cpeLastModified": "2023-09-09T03:09:34.913",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:designjet_z6_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "83972326-1DCF-4B92-9B5D-579AD33AB74D"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:samsung_m436dn_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "92417CB7-D872-4A6A-9DF5-D8FD6ADC2619",
-  "versionEndExcluding": "3.82.01.20",
-  "created": "2019-10-16T12:47:47.487",
-  "lastModified": "2019-10-16T12:47:47.487",
-  "cpeLastModified": "2020-01-15T19:25:48.207",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:samsung_m436dn_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E3463951-C67A-4FB3-82C8-7CDD881FEDED"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:samsung_m436dn_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "92417CB7-D872-4A6A-9DF5-D8FD6ADC2619",
+	"versionEndExcluding": "3.82.01.20",
+	"created": "2019-10-16T12:47:47.487",
+	"lastModified": "2019-10-16T12:47:47.487",
+	"cpeLastModified": "2020-01-15T19:25:48.207",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:samsung_m436dn_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E3463951-C67A-4FB3-82C8-7CDD881FEDED"
+		}
+	]
 }

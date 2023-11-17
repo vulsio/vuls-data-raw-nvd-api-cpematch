@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:starwindsoftware:starwind_virtual_san:v8:build13586:*:*:*:vsphere:*:*",
-  "matchCriteriaId": "F67B6B43-FF39-4B05-8704-EDFCED4117E6",
-  "created": "2022-10-18T15:40:34.127",
-  "lastModified": "2022-10-21T21:03:13.570",
-  "cpeLastModified": "2022-10-21T21:03:13.570",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:starwindsoftware:starwind_virtual_san:v8:build13586:*:*:*:vsphere:*:*",
-      "cpeNameId": "20F59654-6BD1-4E36-8035-B072E587910B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:starwindsoftware:starwind_virtual_san:v8:build13586:*:*:*:vsphere:*:*",
+	"matchCriteriaId": "F67B6B43-FF39-4B05-8704-EDFCED4117E6",
+	"created": "2022-10-18T15:40:34.127",
+	"lastModified": "2022-10-21T21:03:13.570",
+	"cpeLastModified": "2022-10-21T21:03:13.570",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:starwindsoftware:starwind_virtual_san:v8:build13586:*:*:*:vsphere:*:*",
+			"cpeNameId": "20F59654-6BD1-4E36-8035-B072E587910B"
+		}
+	]
 }

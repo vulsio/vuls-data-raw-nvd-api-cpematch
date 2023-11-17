@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:latitude_5501_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "EFD424FD-C327-4F9E-B48A-C7227761D949",
-  "versionEndExcluding": "1.2.11",
-  "created": "2020-03-02T13:00:56.830",
-  "lastModified": "2020-03-02T13:00:56.830",
-  "cpeLastModified": "2020-03-06T19:59:01.350",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:latitude_5501_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "35628220-0222-4C34-A7BF-A5D541BB1406"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:latitude_5501_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "EFD424FD-C327-4F9E-B48A-C7227761D949",
+	"versionEndExcluding": "1.2.11",
+	"created": "2020-03-02T13:00:56.830",
+	"lastModified": "2020-03-02T13:00:56.830",
+	"cpeLastModified": "2020-03-06T19:59:01.350",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_5501_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "35628220-0222-4C34-A7BF-A5D541BB1406"
+		}
+	]
 }

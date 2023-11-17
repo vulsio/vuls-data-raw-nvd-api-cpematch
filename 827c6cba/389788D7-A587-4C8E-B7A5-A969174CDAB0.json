@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:officejet_5742_b9s81a_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "389788D7-A587-4C8E-B7A5-A969174CDAB0",
-  "versionEndExcluding": "40.13.1176",
-  "created": "2021-11-12T12:09:05.480",
-  "lastModified": "2021-11-12T12:09:05.480",
-  "cpeLastModified": "2021-11-15T15:21:02.643",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:officejet_5742_b9s81a_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "4517C310-E89F-4DB5-8300-B7392E3FD3C1"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:officejet_5742_b9s81a_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "389788D7-A587-4C8E-B7A5-A969174CDAB0",
+	"versionEndExcluding": "40.13.1176",
+	"created": "2021-11-12T12:09:05.480",
+	"lastModified": "2021-11-12T12:09:05.480",
+	"cpeLastModified": "2021-11-15T15:21:02.643",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:officejet_5742_b9s81a_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4517C310-E89F-4DB5-8300-B7392E3FD3C1"
+		}
+	]
 }

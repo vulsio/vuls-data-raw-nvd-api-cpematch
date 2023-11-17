@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:amd:ryzen_4600g_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A4117E0E-227A-4860-A5CA-910203327649",
-  "created": "2022-02-09T13:34:59.500",
-  "lastModified": "2022-02-09T13:34:59.500",
-  "cpeLastModified": "2022-02-10T06:43:10.347",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:amd:ryzen_4600g_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E900C73D-4691-49DC-8E73-B889F9E624AD"
-    }
-  ]
+	"criteria": "cpe:2.3:o:amd:ryzen_4600g_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A4117E0E-227A-4860-A5CA-910203327649",
+	"created": "2022-02-09T13:34:59.500",
+	"lastModified": "2022-02-09T13:34:59.500",
+	"cpeLastModified": "2022-02-10T06:43:10.347",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_4600g_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E900C73D-4691-49DC-8E73-B889F9E624AD"
+		}
+	]
 }

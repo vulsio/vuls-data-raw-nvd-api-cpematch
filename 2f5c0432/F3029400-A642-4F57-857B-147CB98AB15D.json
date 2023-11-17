@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:thinkpad_s5_2nd_gen_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F3029400-A642-4F57-857B-147CB98AB15D",
-  "versionEndExcluding": "2020-07-10",
-  "created": "2020-06-16T14:38:10.140",
-  "lastModified": "2020-06-16T14:38:10.140",
-  "cpeLastModified": "2021-11-23T19:54:15.257",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:thinkpad_s5_2nd_gen_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "D7E8DFCA-3793-4ED5-8EDD-E172D2844D13"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:thinkpad_s5_2nd_gen_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F3029400-A642-4F57-857B-147CB98AB15D",
+	"versionEndExcluding": "2020-07-10",
+	"created": "2020-06-16T14:38:10.140",
+	"lastModified": "2020-06-16T14:38:10.140",
+	"cpeLastModified": "2021-11-23T19:54:15.257",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:thinkpad_s5_2nd_gen_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D7E8DFCA-3793-4ED5-8EDD-E172D2844D13"
+		}
+	]
 }

@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:mozilla:firefox_esr:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A371727A-F400-43DB-AACF-17909C73DDFD",
-  "versionStartIncluding": "24.1.0",
-  "versionEndExcluding": "24.1.1",
-  "created": "2020-11-23T16:32:26.183",
-  "lastModified": "2020-11-23T16:32:26.183",
-  "cpeLastModified": "2020-11-23T16:32:26.200",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:mozilla:firefox_esr:24.1.0:*:*:*:*:*:*:*",
-      "cpeNameId": "58A0697C-A537-43EA-8D6B-52021C797F52"
-    }
-  ]
+	"criteria": "cpe:2.3:a:mozilla:firefox_esr:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A371727A-F400-43DB-AACF-17909C73DDFD",
+	"versionStartIncluding": "24.1.0",
+	"versionEndExcluding": "24.1.1",
+	"created": "2020-11-23T16:32:26.183",
+	"lastModified": "2020-11-23T16:32:26.183",
+	"cpeLastModified": "2020-11-23T16:32:26.200",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox_esr:24.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "58A0697C-A537-43EA-8D6B-52021C797F52"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:amd:ryzen_9_5900_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "06CED870-9C13-4B57-9EE4-8B21FFE93614",
-  "versionEndExcluding": "comboam4_v2_pi_1.2.0.a",
-  "created": "2023-08-21T11:47:30.047",
-  "lastModified": "2023-08-21T18:35:07.823",
-  "cpeLastModified": "2023-08-21T11:47:30.047",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:amd:ryzen_9_5900_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "0368981C-ACA4-4364-AAEC-20E1129AA105"
-    }
-  ]
+	"criteria": "cpe:2.3:o:amd:ryzen_9_5900_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "06CED870-9C13-4B57-9EE4-8B21FFE93614",
+	"versionEndExcluding": "comboam4_v2_pi_1.2.0.a",
+	"created": "2023-08-21T11:47:30.047",
+	"lastModified": "2023-08-21T18:35:07.823",
+	"cpeLastModified": "2023-08-21T11:47:30.047",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_9_5900_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0368981C-ACA4-4364-AAEC-20E1129AA105"
+		}
+	]
 }

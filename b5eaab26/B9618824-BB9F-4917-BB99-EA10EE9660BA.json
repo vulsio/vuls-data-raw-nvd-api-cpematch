@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:vxrail_s570_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B9618824-BB9F-4917-BB99-EA10EE9660BA",
-  "versionEndExcluding": "8.0.100",
-  "created": "2023-07-05T14:00:26.553",
-  "lastModified": "2023-07-05T14:00:26.553",
-  "cpeLastModified": "2023-07-06T15:33:44.393",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:vxrail_s570_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "7DB227DA-C4DE-417A-9913-11F3133E294F"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:vxrail_s570_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B9618824-BB9F-4917-BB99-EA10EE9660BA",
+	"versionEndExcluding": "8.0.100",
+	"created": "2023-07-05T14:00:26.553",
+	"lastModified": "2023-07-05T14:00:26.553",
+	"cpeLastModified": "2023-07-06T15:33:44.393",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:vxrail_s570_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7DB227DA-C4DE-417A-9913-11F3133E294F"
+		}
+	]
 }

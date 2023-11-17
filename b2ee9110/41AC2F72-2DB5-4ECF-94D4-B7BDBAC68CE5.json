@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:taogogo:taocms:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "41AC2F72-2DB5-4ECF-94D4-B7BDBAC68CE5",
-  "versionEndIncluding": "3.0.2",
-  "created": "2023-07-08T03:17:54.513",
-  "lastModified": "2023-07-08T03:17:54.513",
-  "cpeLastModified": "2023-07-08T03:17:54.513",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:taogogo:taocms:3.0.1:*:*:*:*:*:*:*",
-      "cpeNameId": "7E023C7A-80D9-4E30-9BD2-CDC31D78B046"
-    },
-    {
-      "cpeName": "cpe:2.3:a:taogogo:taocms:3.0.2:*:*:*:*:*:*:*",
-      "cpeNameId": "143784E0-1F34-43AB-A197-962AAEF9F717"
-    }
-  ]
+	"criteria": "cpe:2.3:a:taogogo:taocms:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "41AC2F72-2DB5-4ECF-94D4-B7BDBAC68CE5",
+	"versionEndIncluding": "3.0.2",
+	"created": "2023-07-08T03:17:54.513",
+	"lastModified": "2023-07-08T03:17:54.513",
+	"cpeLastModified": "2023-07-08T03:17:54.513",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:taogogo:taocms:3.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "7E023C7A-80D9-4E30-9BD2-CDC31D78B046"
+		},
+		{
+			"cpeName": "cpe:2.3:a:taogogo:taocms:3.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "143784E0-1F34-43AB-A197-962AAEF9F717"
+		}
+	]
 }

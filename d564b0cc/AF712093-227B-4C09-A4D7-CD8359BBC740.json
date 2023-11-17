@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:cisco:nc55-rp:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AF712093-227B-4C09-A4D7-CD8359BBC740",
-  "created": "2020-11-13T19:32:42.480",
-  "lastModified": "2020-11-13T19:32:42.480",
-  "cpeLastModified": "2020-12-18T14:16:58.077",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:cisco:nc55-rp:-:*:*:*:*:*:*:*",
-      "cpeNameId": "FBACC3B2-47BB-4560-9E43-1C9B66366C02"
-    }
-  ]
+	"criteria": "cpe:2.3:h:cisco:nc55-rp:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AF712093-227B-4C09-A4D7-CD8359BBC740",
+	"created": "2020-11-13T19:32:42.480",
+	"lastModified": "2020-11-13T19:32:42.480",
+	"cpeLastModified": "2020-12-18T14:16:58.077",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:cisco:nc55-rp:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FBACC3B2-47BB-4560-9E43-1C9B66366C02"
+		}
+	]
 }

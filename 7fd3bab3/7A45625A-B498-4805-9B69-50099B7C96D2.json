@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:siemens:sentron_pac2200_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7A45625A-B498-4805-9B69-50099B7C96D2",
-  "versionEndExcluding": "3.2.2",
-  "created": "2022-05-25T15:04:30.497",
-  "lastModified": "2022-05-25T15:04:30.497",
-  "cpeLastModified": "2022-05-26T02:43:59.833",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:sentron_pac2200_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "7EB98C38-84A2-42A8-8DAB-EABBFD5A1C66"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:sentron_pac2200_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7A45625A-B498-4805-9B69-50099B7C96D2",
+	"versionEndExcluding": "3.2.2",
+	"created": "2022-05-25T15:04:30.497",
+	"lastModified": "2022-05-25T15:04:30.497",
+	"cpeLastModified": "2022-05-26T02:43:59.833",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:sentron_pac2200_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7EB98C38-84A2-42A8-8DAB-EABBFD5A1C66"
+		}
+	]
 }

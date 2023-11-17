@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:mxlinux:mx_linux:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "3A6F2A9A-4668-471E-84E9-60CE10284634",
-  "created": "2020-03-17T17:33:01.063",
-  "lastModified": "2020-03-17T17:33:01.063",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:mxlinux:mx_linux:-:*:*:*:*:*:*:*",
-      "cpeNameId": "A22AB645-E7DD-435E-A461-6E36AAC2914E"
-    }
-  ]
+	"criteria": "cpe:2.3:o:mxlinux:mx_linux:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3A6F2A9A-4668-471E-84E9-60CE10284634",
+	"created": "2020-03-17T17:33:01.063",
+	"lastModified": "2020-03-17T17:33:01.063",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:mxlinux:mx_linux:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A22AB645-E7DD-435E-A461-6E36AAC2914E"
+		}
+	]
 }

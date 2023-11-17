@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:atlassian:bamboo:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D182C1B1-A5FF-4777-9835-4E9114BB68DC",
-  "versionStartIncluding": "8.2.0",
-  "versionEndExcluding": "8.2.4",
-  "created": "2022-08-02T00:46:44.330",
-  "lastModified": "2022-08-02T00:46:44.330",
-  "cpeLastModified": "2022-08-02T11:05:29.740",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:atlassian:bamboo:8.2.0:*:*:*:*:*:*:*",
-      "cpeNameId": "69321E94-43B8-4AED-8F61-1931C4D7E62F"
-    }
-  ]
+	"criteria": "cpe:2.3:a:atlassian:bamboo:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D182C1B1-A5FF-4777-9835-4E9114BB68DC",
+	"versionStartIncluding": "8.2.0",
+	"versionEndExcluding": "8.2.4",
+	"created": "2022-08-02T00:46:44.330",
+	"lastModified": "2022-08-02T00:46:44.330",
+	"cpeLastModified": "2022-08-02T11:05:29.740",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:atlassian:bamboo:8.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "69321E94-43B8-4AED-8F61-1931C4D7E62F"
+		}
+	]
 }

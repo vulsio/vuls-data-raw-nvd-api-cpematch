@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:rp2_retail_system_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C31EF4AA-B59E-4930-8CC1-2408BA456695",
-  "versionEndExcluding": "2.21",
-  "created": "2019-11-07T18:21:20.910",
-  "lastModified": "2019-11-07T18:21:20.910",
-  "cpeLastModified": "2019-12-06T18:47:29.830",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:rp2_retail_system_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "CF2684E7-FBB2-411B-BF2F-9B3D26409996"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:rp2_retail_system_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C31EF4AA-B59E-4930-8CC1-2408BA456695",
+	"versionEndExcluding": "2.21",
+	"created": "2019-11-07T18:21:20.910",
+	"lastModified": "2019-11-07T18:21:20.910",
+	"cpeLastModified": "2019-12-06T18:47:29.830",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:rp2_retail_system_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CF2684E7-FBB2-411B-BF2F-9B3D26409996"
+		}
+	]
 }

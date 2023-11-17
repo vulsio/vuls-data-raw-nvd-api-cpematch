@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:xeon_x3370_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D55A542A-D2CE-4D5A-9840-2E3BA4D96750",
-  "created": "2019-11-18T16:39:05.673",
-  "lastModified": "2019-11-18T16:39:05.673",
-  "cpeLastModified": "2020-03-23T17:34:05.740",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:xeon_x3370_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "ED24DA6C-DB42-4771-BDFF-1B8656DB349C"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:xeon_x3370_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D55A542A-D2CE-4D5A-9840-2E3BA4D96750",
+	"created": "2019-11-18T16:39:05.673",
+	"lastModified": "2019-11-18T16:39:05.673",
+	"cpeLastModified": "2020-03-23T17:34:05.740",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:xeon_x3370_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "ED24DA6C-DB42-4771-BDFF-1B8656DB349C"
+		}
+	]
 }

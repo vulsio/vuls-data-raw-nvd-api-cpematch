@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:pfizer:symbiq_infusion_system_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0C60690B-14F5-401E-8204-1516A2A6CD1C",
-  "versionEndIncluding": "3.13",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2020-02-04T16:34:25.200",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:pfizer:symbiq_infusion_system_firmware:3.13:*:*:*:*:*:*:*",
-      "cpeNameId": "FF96BCCE-E28D-43CA-982F-2B1B6FAB67A5"
-    }
-  ]
+	"criteria": "cpe:2.3:o:pfizer:symbiq_infusion_system_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0C60690B-14F5-401E-8204-1516A2A6CD1C",
+	"versionEndIncluding": "3.13",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2020-02-04T16:34:25.200",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:pfizer:symbiq_infusion_system_firmware:3.13:*:*:*:*:*:*:*",
+			"cpeNameId": "FF96BCCE-E28D-43CA-982F-2B1B6FAB67A5"
+		}
+	]
 }

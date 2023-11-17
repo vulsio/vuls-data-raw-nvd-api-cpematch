@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:officejet_pro_8715_j6x80a_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D763FCF5-7072-4AC8-A2C4-C993053F11D8",
-  "versionEndExcluding": "40.12.1161",
-  "created": "2021-11-12T12:32:23.090",
-  "lastModified": "2021-11-12T12:32:23.090",
-  "cpeLastModified": "2021-11-15T15:21:02.643",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:officejet_pro_8715_j6x80a_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "9CF161FD-CF11-44B6-A5BC-6E763B8440B2"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:officejet_pro_8715_j6x80a_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D763FCF5-7072-4AC8-A2C4-C993053F11D8",
+	"versionEndExcluding": "40.12.1161",
+	"created": "2021-11-12T12:32:23.090",
+	"lastModified": "2021-11-12T12:32:23.090",
+	"cpeLastModified": "2021-11-15T15:21:02.643",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:officejet_pro_8715_j6x80a_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9CF161FD-CF11-44B6-A5BC-6E763B8440B2"
+		}
+	]
 }

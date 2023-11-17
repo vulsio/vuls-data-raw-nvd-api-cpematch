@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:kaspersky:total_security:2019:patch_f:*:*:*:*:*:*",
-  "matchCriteriaId": "2B132D5E-B498-48E3-A994-F94ABDC8172D",
-  "created": "2019-12-16T18:36:50.560",
-  "lastModified": "2019-12-16T18:36:50.560",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:kaspersky:total_security:2019:patch_f:*:*:*:*:*:*",
-      "cpeNameId": "68813E9F-A8E6-46BE-A036-84221317011D"
-    }
-  ]
+	"criteria": "cpe:2.3:a:kaspersky:total_security:2019:patch_f:*:*:*:*:*:*",
+	"matchCriteriaId": "2B132D5E-B498-48E3-A994-F94ABDC8172D",
+	"created": "2019-12-16T18:36:50.560",
+	"lastModified": "2019-12-16T18:36:50.560",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:kaspersky:total_security:2019:patch_f:*:*:*:*:*:*",
+			"cpeNameId": "68813E9F-A8E6-46BE-A036-84221317011D"
+		}
+	]
 }

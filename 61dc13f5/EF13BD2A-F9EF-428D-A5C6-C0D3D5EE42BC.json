@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:konicaminolta:bizhub_650i_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "EF13BD2A-F9EF-428D-A5C6-C0D3D5EE42BC",
-  "versionEndExcluding": "g00-e9",
-  "created": "2022-01-11T15:05:58.073",
-  "lastModified": "2022-01-11T15:05:58.073",
-  "cpeLastModified": "2022-01-13T02:37:34.383",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:konicaminolta:bizhub_650i_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "5721BACC-0F2B-4B52-B377-749CBDBF0827"
-    }
-  ]
+	"criteria": "cpe:2.3:o:konicaminolta:bizhub_650i_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "EF13BD2A-F9EF-428D-A5C6-C0D3D5EE42BC",
+	"versionEndExcluding": "g00-e9",
+	"created": "2022-01-11T15:05:58.073",
+	"lastModified": "2022-01-11T15:05:58.073",
+	"cpeLastModified": "2022-01-13T02:37:34.383",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:konicaminolta:bizhub_650i_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5721BACC-0F2B-4B52-B377-749CBDBF0827"
+		}
+	]
 }

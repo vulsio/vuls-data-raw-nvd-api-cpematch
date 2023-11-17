@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lexmark:c925_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F4C10D0A-6AD9-46A7-9EDF-867A8808AD9A",
-  "versionEndExcluding": "lhs60.hv.p683",
-  "created": "2020-03-18T15:16:30.670",
-  "lastModified": "2020-03-18T15:16:30.670",
-  "cpeLastModified": "2020-04-27T16:45:17.407",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lexmark:c925_firmware:lhs60.hk.p736:*:*:*:*:*:*:*",
-      "cpeNameId": "07C197E1-F196-4B99-B153-723DB2EDEB76"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lexmark:c925_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F4C10D0A-6AD9-46A7-9EDF-867A8808AD9A",
+	"versionEndExcluding": "lhs60.hv.p683",
+	"created": "2020-03-18T15:16:30.670",
+	"lastModified": "2020-03-18T15:16:30.670",
+	"cpeLastModified": "2020-04-27T16:45:17.407",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lexmark:c925_firmware:lhs60.hk.p736:*:*:*:*:*:*:*",
+			"cpeNameId": "07C197E1-F196-4B99-B153-723DB2EDEB76"
+		}
+	]
 }

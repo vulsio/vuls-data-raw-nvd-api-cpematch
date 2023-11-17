@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:deltaww:dopsoft:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E7692892-E8B5-452B-A899-97DAB3BFEC8C",
-  "versionEndExcluding": "4.00.08.15",
-  "created": "2020-07-07T19:25:55.083",
-  "lastModified": "2020-07-07T19:25:55.083",
-  "cpeLastModified": "2021-07-06T12:37:01.250",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:deltaww:dopsoft:-:*:*:*:*:*:*:*",
-      "cpeNameId": "6E2ADF18-25AC-4088-A930-2BE412A0223A"
-    },
-    {
-      "cpeName": "cpe:2.3:a:deltaww:dopsoft:2.00.07:*:*:*:*:*:*:*",
-      "cpeNameId": "29958F51-C00F-47B5-9B9A-6CDFD599456C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:deltaww:dopsoft:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E7692892-E8B5-452B-A899-97DAB3BFEC8C",
+	"versionEndExcluding": "4.00.08.15",
+	"created": "2020-07-07T19:25:55.083",
+	"lastModified": "2020-07-07T19:25:55.083",
+	"cpeLastModified": "2021-07-06T12:37:01.250",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:deltaww:dopsoft:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6E2ADF18-25AC-4088-A930-2BE412A0223A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:deltaww:dopsoft:2.00.07:*:*:*:*:*:*:*",
+			"cpeNameId": "29958F51-C00F-47B5-9B9A-6CDFD599456C"
+		}
+	]
 }

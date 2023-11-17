@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:intel:core_i5-10400f:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B3025301-52D3-43D7-B6AB-F3F0A5C882DC",
-  "created": "2020-11-17T12:18:04.617",
-  "lastModified": "2022-11-18T16:13:22.927",
-  "cpeLastModified": "2021-03-22T20:02:38.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:intel:core_i5-10400f:-:*:*:*:*:*:*:*",
-      "cpeNameId": "AE7C724D-758B-4929-9637-B06E220CABD3"
-    }
-  ]
+	"criteria": "cpe:2.3:h:intel:core_i5-10400f:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B3025301-52D3-43D7-B6AB-F3F0A5C882DC",
+	"created": "2020-11-17T12:18:04.617",
+	"lastModified": "2022-11-18T16:13:22.927",
+	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:core_i5-10400f:-:*:*:*:*:*:*:*",
+			"cpeNameId": "AE7C724D-758B-4929-9637-B06E220CABD3"
+		}
+	]
 }

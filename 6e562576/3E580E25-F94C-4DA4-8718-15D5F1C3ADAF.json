@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:linuxfoundation:runc:1.0.0:rc3:*:*:*:*:*:*",
-  "matchCriteriaId": "3E580E25-F94C-4DA4-8718-15D5F1C3ADAF",
-  "created": "2019-09-27T13:28:20.323",
-  "lastModified": "2019-09-27T13:28:20.323",
-  "cpeLastModified": "2020-04-29T14:17:54.197",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:linuxfoundation:runc:1.0.0:rc3:*:*:*:*:*:*",
-      "cpeNameId": "992BC7C2-1961-4DF1-A410-DE7722C77747"
-    }
-  ]
+	"criteria": "cpe:2.3:a:linuxfoundation:runc:1.0.0:rc3:*:*:*:*:*:*",
+	"matchCriteriaId": "3E580E25-F94C-4DA4-8718-15D5F1C3ADAF",
+	"created": "2019-09-27T13:28:20.323",
+	"lastModified": "2019-09-27T13:28:20.323",
+	"cpeLastModified": "2020-04-29T14:17:54.197",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:runc:1.0.0:rc3:*:*:*:*:*:*",
+			"cpeNameId": "992BC7C2-1961-4DF1-A410-DE7722C77747"
+		}
+	]
 }

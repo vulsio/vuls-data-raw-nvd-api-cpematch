@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:a:fortinet:fortiadc:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5CD59735-2B45-41EC-B3F9-C425E87092DD",
-  "versionStartIncluding": "6.0.0",
-  "versionEndIncluding": "6.0.1",
-  "created": "2021-11-03T13:46:06.920",
-  "lastModified": "2021-11-03T13:46:06.920",
-  "cpeLastModified": "2021-11-04T17:25:50.663",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:fortinet:fortiadc:6.0.0:*:*:*:*:*:*:*",
-      "cpeNameId": "CBDB8E66-364E-40AC-AE61-C6F7933D7049"
-    },
-    {
-      "cpeName": "cpe:2.3:a:fortinet:fortiadc:6.0.1:*:*:*:*:*:*:*",
-      "cpeNameId": "0246A81F-483F-43B6-99D7-ACD6A8A9072A"
-    }
-  ]
+	"criteria": "cpe:2.3:a:fortinet:fortiadc:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5CD59735-2B45-41EC-B3F9-C425E87092DD",
+	"versionStartIncluding": "6.0.0",
+	"versionEndIncluding": "6.0.1",
+	"created": "2021-11-03T13:46:06.920",
+	"lastModified": "2021-11-03T13:46:06.920",
+	"cpeLastModified": "2021-11-04T17:25:50.663",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiadc:6.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "CBDB8E66-364E-40AC-AE61-C6F7933D7049"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiadc:6.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "0246A81F-483F-43B6-99D7-ACD6A8A9072A"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:meritlilin:z2r8022ex25_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D4262E24-A9EE-446D-906D-DFCA9F388751",
-  "versionEndExcluding": "7.1.94.8908",
-  "created": "2021-05-04T15:46:27.233",
-  "lastModified": "2021-05-04T15:46:27.233",
-  "cpeLastModified": "2021-05-04T16:18:51.117",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:meritlilin:z2r8022ex25_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "B992D18F-F0AC-40F1-8702-00A41964EEAE"
-    }
-  ]
+	"criteria": "cpe:2.3:o:meritlilin:z2r8022ex25_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D4262E24-A9EE-446D-906D-DFCA9F388751",
+	"versionEndExcluding": "7.1.94.8908",
+	"created": "2021-05-04T15:46:27.233",
+	"lastModified": "2021-05-04T15:46:27.233",
+	"cpeLastModified": "2021-05-04T16:18:51.117",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:meritlilin:z2r8022ex25_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B992D18F-F0AC-40F1-8702-00A41964EEAE"
+		}
+	]
 }

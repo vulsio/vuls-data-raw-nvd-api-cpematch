@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:d-bus_project:d-bus:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CCE7175A-41EF-4A02-8C5C-19F54E864395",
-  "versionStartIncluding": "1.15.0",
-  "versionEndExcluding": "1.15.2",
-  "created": "2022-10-11T15:05:06.827",
-  "lastModified": "2022-10-11T15:05:06.827",
-  "cpeLastModified": "2022-10-13T16:02:43.493",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:d-bus_project:d-bus:1.15.0:*:*:*:*:*:*:*",
-      "cpeNameId": "2D62AD54-1375-4EB7-B36D-49F75589396E"
-    }
-  ]
+	"criteria": "cpe:2.3:a:d-bus_project:d-bus:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CCE7175A-41EF-4A02-8C5C-19F54E864395",
+	"versionStartIncluding": "1.15.0",
+	"versionEndExcluding": "1.15.2",
+	"created": "2022-10-11T15:05:06.827",
+	"lastModified": "2022-10-11T15:05:06.827",
+	"cpeLastModified": "2022-10-13T16:02:43.493",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:d-bus_project:d-bus:1.15.0:*:*:*:*:*:*:*",
+			"cpeNameId": "2D62AD54-1375-4EB7-B36D-49F75589396E"
+		}
+	]
 }

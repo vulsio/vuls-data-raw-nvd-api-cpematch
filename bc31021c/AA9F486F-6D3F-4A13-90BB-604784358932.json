@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lenovo:thinkcentre_m90n-1_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AA9F486F-6D3F-4A13-90BB-604784358932",
-  "versionEndExcluding": "m2akt19a",
-  "created": "2020-02-28T03:52:00.377",
-  "lastModified": "2020-02-28T03:52:00.377",
-  "cpeLastModified": "2020-02-28T03:52:00.440",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lenovo:thinkcentre_m90n-1_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "AE6C08AA-90BD-4CC6-86D9-EA3AECA0819C"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lenovo:thinkcentre_m90n-1_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AA9F486F-6D3F-4A13-90BB-604784358932",
+	"versionEndExcluding": "m2akt19a",
+	"created": "2020-02-28T03:52:00.377",
+	"lastModified": "2020-02-28T03:52:00.377",
+	"cpeLastModified": "2020-02-28T03:52:00.440",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lenovo:thinkcentre_m90n-1_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "AE6C08AA-90BD-4CC6-86D9-EA3AECA0819C"
+		}
+	]
 }

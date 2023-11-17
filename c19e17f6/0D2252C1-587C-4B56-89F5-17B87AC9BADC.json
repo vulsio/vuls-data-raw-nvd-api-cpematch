@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:siemens:ruggedcom_ros_rmc20:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "0D2252C1-587C-4B56-89F5-17B87AC9BADC",
-  "versionEndExcluding": "4.3.7",
-  "created": "2021-08-20T19:00:43.897",
-  "lastModified": "2021-08-20T19:00:43.897",
-  "cpeLastModified": "2021-08-24T14:42:42.713",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:ruggedcom_ros_rmc20:-:*:*:*:*:*:*:*",
-      "cpeNameId": "677DC57F-BD16-49B6-95F9-1A9F71064927"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:ruggedcom_ros_rmc20:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0D2252C1-587C-4B56-89F5-17B87AC9BADC",
+	"versionEndExcluding": "4.3.7",
+	"created": "2021-08-20T19:00:43.897",
+	"lastModified": "2021-08-20T19:00:43.897",
+	"cpeLastModified": "2021-08-24T14:42:42.713",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:ruggedcom_ros_rmc20:-:*:*:*:*:*:*:*",
+			"cpeNameId": "677DC57F-BD16-49B6-95F9-1A9F71064927"
+		}
+	]
 }

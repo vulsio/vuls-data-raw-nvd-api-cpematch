@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:radiustheme:classified_listing_store_\\&_membership:*:*:*:*:*:wordpress:*:*",
-  "matchCriteriaId": "EC749AA4-4196-4FBE-A603-DBD93CA8F7F3",
-  "versionEndExcluding": "1.4.20",
-  "created": "2022-09-16T14:52:04.540",
-  "lastModified": "2022-11-04T22:50:19.350",
-  "cpeLastModified": "2022-11-04T22:50:19.350",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:radiustheme:classified_listing_store_\\&_membership:-:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "7C7FE5ED-648A-4717-B6E2-A468ACD8E2D8"
-    }
-  ]
+	"criteria": "cpe:2.3:a:radiustheme:classified_listing_store_\\&_membership:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "EC749AA4-4196-4FBE-A603-DBD93CA8F7F3",
+	"versionEndExcluding": "1.4.20",
+	"created": "2022-09-16T14:52:04.540",
+	"lastModified": "2022-11-04T22:50:19.350",
+	"cpeLastModified": "2022-11-04T22:50:19.350",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:radiustheme:classified_listing_store_\\&_membership:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7C7FE5ED-648A-4717-B6E2-A468ACD8E2D8"
+		}
+	]
 }

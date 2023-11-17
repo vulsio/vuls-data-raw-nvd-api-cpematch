@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:weidmueller:ie-sw-pl08mt-6tx-2st_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6D53938C-F643-4DC8-833F-D38587513037",
-  "versionEndIncluding": "3.3.8",
-  "created": "2019-12-07T02:32:25.400",
-  "lastModified": "2019-12-07T02:32:25.400",
-  "cpeLastModified": "2022-04-01T15:48:41.350",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:weidmueller:ie-sw-pl08mt-6tx-2st_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "53AAA3FF-6A65-4F26-BB68-BE36A4DFF8F0"
-    }
-  ]
+	"criteria": "cpe:2.3:o:weidmueller:ie-sw-pl08mt-6tx-2st_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6D53938C-F643-4DC8-833F-D38587513037",
+	"versionEndIncluding": "3.3.8",
+	"created": "2019-12-07T02:32:25.400",
+	"lastModified": "2019-12-07T02:32:25.400",
+	"cpeLastModified": "2022-04-01T15:48:41.350",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:weidmueller:ie-sw-pl08mt-6tx-2st_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "53AAA3FF-6A65-4F26-BB68-BE36A4DFF8F0"
+		}
+	]
 }

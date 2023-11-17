@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:krakend:krakend:*:*:*:*:enterprise:*:*:*",
-  "matchCriteriaId": "3A6E0144-4F80-47D1-800E-809580D1C525",
-  "versionEndExcluding": "2.0.0",
-  "created": "2022-08-05T17:17:28.657",
-  "lastModified": "2022-08-05T17:17:28.657",
-  "cpeLastModified": "2022-08-17T14:33:49.813",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:krakend:krakend:-:*:*:*:enterprise:*:*:*",
-      "cpeNameId": "D1A54EB1-1900-4AFB-89DF-0DC020766159"
-    }
-  ]
+	"criteria": "cpe:2.3:a:krakend:krakend:*:*:*:*:enterprise:*:*:*",
+	"matchCriteriaId": "3A6E0144-4F80-47D1-800E-809580D1C525",
+	"versionEndExcluding": "2.0.0",
+	"created": "2022-08-05T17:17:28.657",
+	"lastModified": "2022-08-05T17:17:28.657",
+	"cpeLastModified": "2022-08-17T14:33:49.813",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:krakend:krakend:-:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "D1A54EB1-1900-4AFB-89DF-0DC020766159"
+		}
+	]
 }

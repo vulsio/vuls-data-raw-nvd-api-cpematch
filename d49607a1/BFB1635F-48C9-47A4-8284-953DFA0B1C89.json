@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:cisco:ws-c3650-24pd:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "BFB1635F-48C9-47A4-8284-953DFA0B1C89",
-  "created": "2020-06-03T21:29:47.300",
-  "lastModified": "2020-06-03T21:29:47.300",
-  "cpeLastModified": "2020-08-03T14:27:59.507",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:cisco:ws-c3650-24pd:-:*:*:*:*:*:*:*",
-      "cpeNameId": "6700B8D0-1DF9-43A0-BD32-D5485FE40DE0"
-    }
-  ]
+	"criteria": "cpe:2.3:h:cisco:ws-c3650-24pd:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BFB1635F-48C9-47A4-8284-953DFA0B1C89",
+	"created": "2020-06-03T21:29:47.300",
+	"lastModified": "2020-06-03T21:29:47.300",
+	"cpeLastModified": "2020-08-03T14:27:59.507",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:cisco:ws-c3650-24pd:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6700B8D0-1DF9-43A0-BD32-D5485FE40DE0"
+		}
+	]
 }

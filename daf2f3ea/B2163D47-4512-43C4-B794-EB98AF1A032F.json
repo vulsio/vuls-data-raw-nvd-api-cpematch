@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:netgear:gs724tp_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B2163D47-4512-43C4-B794-EB98AF1A032F",
-  "versionEndExcluding": "2.0.4.3",
-  "created": "2021-05-26T18:42:10.527",
-  "lastModified": "2021-05-26T18:42:10.527",
-  "cpeLastModified": "2021-05-26T18:42:10.527",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:netgear:gs724tp_firmware:1.1.1.29:*:*:*:*:*:*:*",
-      "cpeNameId": "2F04B754-A85D-4B05-B15C-BC7DDF17121C"
-    }
-  ]
+	"criteria": "cpe:2.3:o:netgear:gs724tp_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B2163D47-4512-43C4-B794-EB98AF1A032F",
+	"versionEndExcluding": "2.0.4.3",
+	"created": "2021-05-26T18:42:10.527",
+	"lastModified": "2021-05-26T18:42:10.527",
+	"cpeLastModified": "2021-05-26T18:42:10.527",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netgear:gs724tp_firmware:1.1.1.29:*:*:*:*:*:*:*",
+			"cpeNameId": "2F04B754-A85D-4B05-B15C-BC7DDF17121C"
+		}
+	]
 }

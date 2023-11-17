@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:omron:nj501-140_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "B4A80DE2-ECC9-4B35-B999-57573D386581",
-  "versionEndIncluding": "1.48",
-  "created": "2022-07-14T18:21:48.083",
-  "lastModified": "2022-07-14T18:21:48.083",
-  "cpeLastModified": "2022-07-14T19:11:34.233",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:omron:nj501-140_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "FFD3BA09-D598-44A6-8663-28970AC43BF1"
-    }
-  ]
+	"criteria": "cpe:2.3:o:omron:nj501-140_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "B4A80DE2-ECC9-4B35-B999-57573D386581",
+	"versionEndIncluding": "1.48",
+	"created": "2022-07-14T18:21:48.083",
+	"lastModified": "2022-07-14T18:21:48.083",
+	"cpeLastModified": "2022-07-14T19:11:34.233",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:omron:nj501-140_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FFD3BA09-D598-44A6-8663-28970AC43BF1"
+		}
+	]
 }

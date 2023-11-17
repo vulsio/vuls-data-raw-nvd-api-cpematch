@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:gradle:enterprise:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A8444169-8B88-425E-84A9-3661242130EA",
-  "versionStartIncluding": "2020.4",
-  "versionEndExcluding": "2021.3",
-  "created": "2021-11-03T12:12:25.507",
-  "lastModified": "2021-11-03T12:12:25.507",
-  "cpeLastModified": "2022-10-14T22:00:24.337",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:gradle:enterprise:2020.4:*:*:*:*:*:*:*",
-      "cpeNameId": "4E692E82-CF67-4DFC-A728-F5B3AF6EABBB"
-    }
-  ]
+	"criteria": "cpe:2.3:a:gradle:enterprise:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A8444169-8B88-425E-84A9-3661242130EA",
+	"versionStartIncluding": "2020.4",
+	"versionEndExcluding": "2021.3",
+	"created": "2021-11-03T12:12:25.507",
+	"lastModified": "2021-11-03T12:12:25.507",
+	"cpeLastModified": "2022-10-14T22:00:24.337",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:gradle:enterprise:2020.4:*:*:*:*:*:*:*",
+			"cpeNameId": "4E692E82-CF67-4DFC-A728-F5B3AF6EABBB"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:netgear:r8000_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "9A6831F5-19C9-4577-9BC0-FD1F2211EC6B",
-  "versionEndExcluding": "1.0.3.22",
-  "created": "2020-04-23T11:30:06.243",
-  "lastModified": "2020-04-23T11:30:06.243",
-  "cpeLastModified": "2020-04-23T11:30:06.277",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:netgear:r8000_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "7703BC22-900D-4EF2-A368-D302ADC960B5"
-    }
-  ]
+	"criteria": "cpe:2.3:o:netgear:r8000_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9A6831F5-19C9-4577-9BC0-FD1F2211EC6B",
+	"versionEndExcluding": "1.0.3.22",
+	"created": "2020-04-23T11:30:06.243",
+	"lastModified": "2020-04-23T11:30:06.243",
+	"cpeLastModified": "2020-04-23T11:30:06.277",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netgear:r8000_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7703BC22-900D-4EF2-A368-D302ADC960B5"
+		}
+	]
 }

@@ -1,22 +1,22 @@
 {
-  "criteria": "cpe:2.3:a:nodejs:node.js:4.4.2:*:*:*:*:*:*:*",
-  "matchCriteriaId": "714EBE27-F0D0-4B2E-90E1-4C73DF7FAA81",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2020-02-10T17:54:27.517",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:nodejs:node.js:4.4.2:*:*:*:*:*:*:*",
-      "cpeNameId": "9DB6DCD6-41F9-45BC-853D-2DB88ADF80D5"
-    },
-    {
-      "cpeName": "cpe:2.3:a:nodejs:node.js:4.4.2:*:*:*:-:*:*:*",
-      "cpeNameId": "0FA0683B-B775-4972-9B89-73FBA5BE5E4F"
-    },
-    {
-      "cpeName": "cpe:2.3:a:nodejs:node.js:4.4.2:*:*:*:lts:*:*:*",
-      "cpeNameId": "81B30FD7-A814-4508-92BD-AE31EA399832"
-    }
-  ]
+	"criteria": "cpe:2.3:a:nodejs:node.js:4.4.2:*:*:*:*:*:*:*",
+	"matchCriteriaId": "714EBE27-F0D0-4B2E-90E1-4C73DF7FAA81",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2020-02-10T17:54:27.517",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:4.4.2:*:*:*:*:*:*:*",
+			"cpeNameId": "9DB6DCD6-41F9-45BC-853D-2DB88ADF80D5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:4.4.2:*:*:*:-:*:*:*",
+			"cpeNameId": "0FA0683B-B775-4972-9B89-73FBA5BE5E4F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:4.4.2:*:*:*:lts:*:*:*",
+			"cpeNameId": "81B30FD7-A814-4508-92BD-AE31EA399832"
+		}
+	]
 }

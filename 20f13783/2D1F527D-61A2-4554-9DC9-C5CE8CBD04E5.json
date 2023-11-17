@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:konicaminolta:bizhub_c750i_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "2D1F527D-61A2-4554-9DC9-C5CE8CBD04E5",
-  "versionEndExcluding": "g00-e9",
-  "created": "2022-01-11T15:05:51.480",
-  "lastModified": "2022-01-11T15:05:51.480",
-  "cpeLastModified": "2022-01-13T02:37:34.383",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:konicaminolta:bizhub_c750i_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E934B946-29CE-431B-A1D2-A7379E9586A1"
-    }
-  ]
+	"criteria": "cpe:2.3:o:konicaminolta:bizhub_c750i_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2D1F527D-61A2-4554-9DC9-C5CE8CBD04E5",
+	"versionEndExcluding": "g00-e9",
+	"created": "2022-01-11T15:05:51.480",
+	"lastModified": "2022-01-11T15:05:51.480",
+	"cpeLastModified": "2022-01-13T02:37:34.383",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:konicaminolta:bizhub_c750i_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E934B946-29CE-431B-A1D2-A7379E9586A1"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:pentium_gold_6500y_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F678ACD3-A5FA-4F94-A977-848A6EBA10E3",
-  "versionEndExcluding": "15.0.40",
-  "created": "2022-06-09T16:19:14.340",
-  "lastModified": "2022-06-09T16:19:14.340",
-  "cpeLastModified": "2022-05-26T00:01:33.617",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:pentium_gold_6500y_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "C36D3613-C506-4D36-88FA-A1B1F78B2813"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:pentium_gold_6500y_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F678ACD3-A5FA-4F94-A977-848A6EBA10E3",
+	"versionEndExcluding": "15.0.40",
+	"created": "2022-06-09T16:19:14.340",
+	"lastModified": "2022-06-09T16:19:14.340",
+	"cpeLastModified": "2022-05-26T00:01:33.617",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:pentium_gold_6500y_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C36D3613-C506-4D36-88FA-A1B1F78B2813"
+		}
+	]
 }

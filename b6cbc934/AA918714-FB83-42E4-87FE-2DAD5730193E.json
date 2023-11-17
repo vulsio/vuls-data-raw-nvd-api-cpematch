@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:amd:ryzen_5_2600_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AA918714-FB83-42E4-87FE-2DAD5730193E",
-  "versionEndExcluding": "comboam4v2_pi_1.2.0.6c",
-  "created": "2022-07-28T14:33:02.713",
-  "lastModified": "2023-08-15T13:33:56.977",
-  "cpeLastModified": "2022-03-21T17:41:09.220",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:amd:ryzen_5_2600_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "BF1D349F-DC4F-4A54-BD35-23B316505CD0"
-    }
-  ]
+	"criteria": "cpe:2.3:o:amd:ryzen_5_2600_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AA918714-FB83-42E4-87FE-2DAD5730193E",
+	"versionEndExcluding": "comboam4v2_pi_1.2.0.6c",
+	"created": "2022-07-28T14:33:02.713",
+	"lastModified": "2023-08-15T13:33:56.977",
+	"cpeLastModified": "2022-03-21T17:41:09.220",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_5_2600_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BF1D349F-DC4F-4A54-BD35-23B316505CD0"
+		}
+	]
 }

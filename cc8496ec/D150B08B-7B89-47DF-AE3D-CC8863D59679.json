@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:pilz:pmi_v807_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D150B08B-7B89-47DF-AE3D-CC8863D59679",
-  "versionEndExcluding": "1.6.102",
-  "created": "2022-11-28T14:43:26.697",
-  "lastModified": "2022-11-28T15:01:23.817",
-  "cpeLastModified": "2022-11-28T15:01:23.817",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:pilz:pmi_v807_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "9EB65547-CFB2-4B7F-9ACE-D00B1B01E52A"
-    }
-  ]
+	"criteria": "cpe:2.3:o:pilz:pmi_v807_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D150B08B-7B89-47DF-AE3D-CC8863D59679",
+	"versionEndExcluding": "1.6.102",
+	"created": "2022-11-28T14:43:26.697",
+	"lastModified": "2022-11-28T15:01:23.817",
+	"cpeLastModified": "2022-11-28T15:01:23.817",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:pilz:pmi_v807_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9EB65547-CFB2-4B7F-9ACE-D00B1B01E52A"
+		}
+	]
 }

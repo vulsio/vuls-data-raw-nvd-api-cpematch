@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:intel:graphics_performance_analyzers:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C0731A6A-F2CA-4F60-8BC4-75EDE91A605C",
-  "versionEndExcluding": "21.2",
-  "created": "2022-02-11T18:04:19.317",
-  "lastModified": "2022-02-11T18:04:19.317",
-  "cpeLastModified": "2022-02-15T17:51:25.090",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:intel:graphics_performance_analyzers:-:*:*:*:*:*:*:*",
-      "cpeNameId": "ABE84739-E94D-4401-8268-43865E87701C"
-    }
-  ]
+	"criteria": "cpe:2.3:a:intel:graphics_performance_analyzers:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C0731A6A-F2CA-4F60-8BC4-75EDE91A605C",
+	"versionEndExcluding": "21.2",
+	"created": "2022-02-11T18:04:19.317",
+	"lastModified": "2022-02-11T18:04:19.317",
+	"cpeLastModified": "2022-02-15T17:51:25.090",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:intel:graphics_performance_analyzers:-:*:*:*:*:*:*:*",
+			"cpeNameId": "ABE84739-E94D-4401-8268-43865E87701C"
+		}
+	]
 }

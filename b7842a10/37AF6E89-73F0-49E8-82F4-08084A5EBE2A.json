@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:qlik:qlik_sense:august_2022:patch_12:*:*:enterprise:windows:*:*",
-  "matchCriteriaId": "37AF6E89-73F0-49E8-82F4-08084A5EBE2A",
-  "created": "2023-09-08T04:11:22.113",
-  "lastModified": "2023-10-25T17:46:51.907",
-  "cpeLastModified": "2023-10-25T17:46:51.907",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:qlik:qlik_sense:august_2022:patch_12:*:*:enterprise:windows:*:*",
-      "cpeNameId": "99CB3EE3-4DCD-4D24-A405-41FE9CF0EF61"
-    }
-  ]
+	"criteria": "cpe:2.3:a:qlik:qlik_sense:august_2022:patch_12:*:*:enterprise:windows:*:*",
+	"matchCriteriaId": "37AF6E89-73F0-49E8-82F4-08084A5EBE2A",
+	"created": "2023-09-08T04:11:22.113",
+	"lastModified": "2023-10-25T17:46:51.907",
+	"cpeLastModified": "2023-10-25T17:46:51.907",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:qlik:qlik_sense:august_2022:patch_12:*:*:enterprise:windows:*:*",
+			"cpeNameId": "99CB3EE3-4DCD-4D24-A405-41FE9CF0EF61"
+		}
+	]
 }

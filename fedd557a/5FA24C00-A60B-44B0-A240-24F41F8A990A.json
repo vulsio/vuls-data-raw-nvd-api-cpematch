@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:vivotek:fd8382-etv_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "5FA24C00-A60B-44B0-A240-24F41F8A990A",
-  "versionEndIncluding": "0222g",
-  "created": "2020-05-29T14:33:55.490",
-  "lastModified": "2020-05-29T14:33:55.490",
-  "cpeLastModified": "2020-08-20T15:10:03.773",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:vivotek:fd8382-etv_firmware:0113b:*:*:*:*:*:*:*",
-      "cpeNameId": "D92906CB-B3AA-492E-A8EC-8E316AA91CB1"
-    }
-  ]
+	"criteria": "cpe:2.3:o:vivotek:fd8382-etv_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5FA24C00-A60B-44B0-A240-24F41F8A990A",
+	"versionEndIncluding": "0222g",
+	"created": "2020-05-29T14:33:55.490",
+	"lastModified": "2020-05-29T14:33:55.490",
+	"cpeLastModified": "2020-08-20T15:10:03.773",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:vivotek:fd8382-etv_firmware:0113b:*:*:*:*:*:*:*",
+			"cpeNameId": "D92906CB-B3AA-492E-A8EC-8E316AA91CB1"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:sap:commoncryptolib:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "A2139664-76C3-4317-B30C-BC3427A0CF31",
-  "versionEndIncluding": "8.5.38",
-  "created": "2021-09-22T18:59:48.627",
-  "lastModified": "2021-09-22T18:59:48.627",
-  "cpeLastModified": "2021-09-22T19:28:27.760",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:sap:commoncryptolib:8.4.29:*:*:*:*:*:*:*",
-      "cpeNameId": "F9E19D77-27B6-4CB5-86A9-C750BD1B818A"
-    },
-    {
-      "cpeName": "cpe:2.3:a:sap:commoncryptolib:8.5.38:*:*:*:*:*:*:*",
-      "cpeNameId": "1DADAED5-C420-4170-A488-C032E28BA9F8"
-    }
-  ]
+	"criteria": "cpe:2.3:a:sap:commoncryptolib:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A2139664-76C3-4317-B30C-BC3427A0CF31",
+	"versionEndIncluding": "8.5.38",
+	"created": "2021-09-22T18:59:48.627",
+	"lastModified": "2021-09-22T18:59:48.627",
+	"cpeLastModified": "2021-09-22T19:28:27.760",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sap:commoncryptolib:8.4.29:*:*:*:*:*:*:*",
+			"cpeNameId": "F9E19D77-27B6-4CB5-86A9-C750BD1B818A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sap:commoncryptolib:8.5.38:*:*:*:*:*:*:*",
+			"cpeNameId": "1DADAED5-C420-4170-A488-C032E28BA9F8"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:dell:chengming_3967_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D3DC8DC9-8AD8-45DB-A144-D9E6BB063EEF",
-  "versionEndExcluding": "1.5.0",
-  "created": "2019-08-09T17:35:23.013",
-  "lastModified": "2019-08-09T17:35:23.013",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:dell:chengming_3967_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "CCCEDD39-C88A-4B62-8EA9-2AEDC460760B"
-    }
-  ]
+	"criteria": "cpe:2.3:o:dell:chengming_3967_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D3DC8DC9-8AD8-45DB-A144-D9E6BB063EEF",
+	"versionEndExcluding": "1.5.0",
+	"created": "2019-08-09T17:35:23.013",
+	"lastModified": "2019-08-09T17:35:23.013",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:chengming_3967_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CCCEDD39-C88A-4B62-8EA9-2AEDC460760B"
+		}
+	]
 }

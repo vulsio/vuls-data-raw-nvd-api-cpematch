@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:netgear:wac104_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1224F2C1-E4AE-4A21-B45D-1F1BE32AB318",
-  "versionEndIncluding": "1.0.4.13",
-  "created": "2022-03-23T14:58:59.730",
-  "lastModified": "2022-03-23T14:58:59.730",
-  "cpeLastModified": "2022-03-23T18:49:46.580",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:netgear:wac104_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "B21D763E-A64A-4293-9C4C-58D68EE0E0C8"
-    },
-    {
-      "cpeName": "cpe:2.3:o:netgear:wac104_firmware:1.0.4.13:*:*:*:*:*:*:*",
-      "cpeNameId": "49D27892-4AE8-4945-98EF-06F90861201F"
-    }
-  ]
+	"criteria": "cpe:2.3:o:netgear:wac104_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1224F2C1-E4AE-4A21-B45D-1F1BE32AB318",
+	"versionEndIncluding": "1.0.4.13",
+	"created": "2022-03-23T14:58:59.730",
+	"lastModified": "2022-03-23T14:58:59.730",
+	"cpeLastModified": "2022-03-23T18:49:46.580",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netgear:wac104_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B21D763E-A64A-4293-9C4C-58D68EE0E0C8"
+		},
+		{
+			"cpeName": "cpe:2.3:o:netgear:wac104_firmware:1.0.4.13:*:*:*:*:*:*:*",
+			"cpeNameId": "49D27892-4AE8-4945-98EF-06F90861201F"
+		}
+	]
 }

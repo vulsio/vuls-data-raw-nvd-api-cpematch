@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:cisco:web_security_appliance:11.7.0-256:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FA16DA3E-FD12-475B-997F-C5FDBC13AADA",
-  "created": "2019-07-08T17:40:05.190",
-  "lastModified": "2019-07-08T17:40:05.190",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:cisco:web_security_appliance:11.7.0-256:*:*:*:*:*:*:*",
-      "cpeNameId": "84E56ED1-3659-4C7F-8E49-53BBD0251498"
-    }
-  ]
+	"criteria": "cpe:2.3:a:cisco:web_security_appliance:11.7.0-256:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FA16DA3E-FD12-475B-997F-C5FDBC13AADA",
+	"created": "2019-07-08T17:40:05.190",
+	"lastModified": "2019-07-08T17:40:05.190",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:web_security_appliance:11.7.0-256:*:*:*:*:*:*:*",
+			"cpeNameId": "84E56ED1-3659-4C7F-8E49-53BBD0251498"
+		}
+	]
 }

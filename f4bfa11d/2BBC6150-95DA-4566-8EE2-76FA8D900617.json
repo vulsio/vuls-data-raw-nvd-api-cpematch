@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:lexmark:mx6500_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "2BBC6150-95DA-4566-8EE2-76FA8D900617",
-  "versionEndIncluding": "lw70.jd.p204",
-  "created": "2019-07-01T15:04:25.030",
-  "lastModified": "2019-07-01T15:04:25.030",
-  "cpeLastModified": "2019-11-22T14:32:20.143",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:lexmark:mx6500_firmware:lw70.jd.p204:*:*:*:*:*:*:*",
-      "cpeNameId": "FD5D9049-0264-46BD-B2EF-A9F5E7A597F7"
-    }
-  ]
+	"criteria": "cpe:2.3:o:lexmark:mx6500_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2BBC6150-95DA-4566-8EE2-76FA8D900617",
+	"versionEndIncluding": "lw70.jd.p204",
+	"created": "2019-07-01T15:04:25.030",
+	"lastModified": "2019-07-01T15:04:25.030",
+	"cpeLastModified": "2019-11-22T14:32:20.143",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lexmark:mx6500_firmware:lw70.jd.p204:*:*:*:*:*:*:*",
+			"cpeNameId": "FD5D9049-0264-46BD-B2EF-A9F5E7A597F7"
+		}
+	]
 }

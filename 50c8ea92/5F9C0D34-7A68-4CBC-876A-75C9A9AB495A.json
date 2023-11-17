@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:citrix:xenserver:5.0:update_3:*:*:*:*:*:*",
-  "matchCriteriaId": "5F9C0D34-7A68-4CBC-876A-75C9A9AB495A",
-  "created": "2020-01-30T18:47:33.097",
-  "lastModified": "2020-01-30T18:47:33.097",
-  "cpeLastModified": "2020-02-11T20:18:50.740",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:citrix:xenserver:5.0:update_3:*:*:*:*:*:*",
-      "cpeNameId": "A3E488AD-84EB-41A7-A895-6555C6F0DB58"
-    }
-  ]
+	"criteria": "cpe:2.3:a:citrix:xenserver:5.0:update_3:*:*:*:*:*:*",
+	"matchCriteriaId": "5F9C0D34-7A68-4CBC-876A-75C9A9AB495A",
+	"created": "2020-01-30T18:47:33.097",
+	"lastModified": "2020-01-30T18:47:33.097",
+	"cpeLastModified": "2020-02-11T20:18:50.740",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:citrix:xenserver:5.0:update_3:*:*:*:*:*:*",
+			"cpeNameId": "A3E488AD-84EB-41A7-A895-6555C6F0DB58"
+		}
+	]
 }

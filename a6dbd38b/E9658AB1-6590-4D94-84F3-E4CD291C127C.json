@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:lightning_network_daemon_project:lightning_network_daemon:0.4.1:beta:*:*:*:*:*:*",
-  "matchCriteriaId": "E9658AB1-6590-4D94-84F3-E4CD291C127C",
-  "created": "2020-10-22T17:35:37.100",
-  "lastModified": "2020-10-22T17:35:37.100",
-  "cpeLastModified": "2020-10-28T19:27:03.330",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:lightning_network_daemon_project:lightning_network_daemon:0.4.1:beta:*:*:*:*:*:*",
-      "cpeNameId": "6D0AA50D-6301-42AB-9AC3-F4D4152828BE"
-    }
-  ]
+	"criteria": "cpe:2.3:a:lightning_network_daemon_project:lightning_network_daemon:0.4.1:beta:*:*:*:*:*:*",
+	"matchCriteriaId": "E9658AB1-6590-4D94-84F3-E4CD291C127C",
+	"created": "2020-10-22T17:35:37.100",
+	"lastModified": "2020-10-22T17:35:37.100",
+	"cpeLastModified": "2020-10-28T19:27:03.330",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:lightning_network_daemon_project:lightning_network_daemon:0.4.1:beta:*:*:*:*:*:*",
+			"cpeNameId": "6D0AA50D-6301-42AB-9AC3-F4D4152828BE"
+		}
+	]
 }

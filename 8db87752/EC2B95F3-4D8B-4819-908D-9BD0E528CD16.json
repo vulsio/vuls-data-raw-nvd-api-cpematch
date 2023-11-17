@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:h:intel:atom_e680:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "EC2B95F3-4D8B-4819-908D-9BD0E528CD16",
-  "created": "2020-02-10T18:51:01.227",
-  "lastModified": "2020-02-10T18:51:01.227",
-  "cpeLastModified": "2020-02-25T15:51:37.633",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:h:intel:atom_e680:-:*:*:*:*:*:*:*",
-      "cpeNameId": "DCE61F9C-8ABD-4BA5-86AC-EE37F69A8AD6"
-    }
-  ]
+	"criteria": "cpe:2.3:h:intel:atom_e680:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "EC2B95F3-4D8B-4819-908D-9BD0E528CD16",
+	"created": "2020-02-10T18:51:01.227",
+	"lastModified": "2020-02-10T18:51:01.227",
+	"cpeLastModified": "2020-02-25T15:51:37.633",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:atom_e680:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DCE61F9C-8ABD-4BA5-86AC-EE37F69A8AD6"
+		}
+	]
 }

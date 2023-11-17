@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:probook_640_g3_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "4F7CB465-CFC7-4216-9004-DA377E186F8D",
-  "versionEndExcluding": "1.43",
-  "created": "2023-06-29T13:22:14.157",
-  "lastModified": "2023-09-09T03:09:34.913",
-  "cpeLastModified": "2023-06-29T13:22:14.157",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:probook_640_g3_firmware:1.41:*:*:*:*:*:*:*",
-      "cpeNameId": "32836BE1-5781-4AF5-BD96-FDED3BD17AAD"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:probook_640_g3_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4F7CB465-CFC7-4216-9004-DA377E186F8D",
+	"versionEndExcluding": "1.43",
+	"created": "2023-06-29T13:22:14.157",
+	"lastModified": "2023-09-09T03:09:34.913",
+	"cpeLastModified": "2023-06-29T13:22:14.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:probook_640_g3_firmware:1.41:*:*:*:*:*:*:*",
+			"cpeNameId": "32836BE1-5781-4AF5-BD96-FDED3BD17AAD"
+		}
+	]
 }

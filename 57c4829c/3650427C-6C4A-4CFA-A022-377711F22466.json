@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:hikvision:ds-2cd3586g2-is_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "3650427C-6C4A-4CFA-A022-377711F22466",
-  "created": "2021-10-05T15:23:35.680",
-  "lastModified": "2021-10-05T15:23:35.680",
-  "cpeLastModified": "2021-10-15T17:12:55.180",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hikvision:ds-2cd3586g2-is_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "982AFD15-7585-46C2-84E9-5C82D515AA07"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hikvision:ds-2cd3586g2-is_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3650427C-6C4A-4CFA-A022-377711F22466",
+	"created": "2021-10-05T15:23:35.680",
+	"lastModified": "2021-10-05T15:23:35.680",
+	"cpeLastModified": "2021-10-15T17:12:55.180",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hikvision:ds-2cd3586g2-is_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "982AFD15-7585-46C2-84E9-5C82D515AA07"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:hamilton-medical:hamilton-t1_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "425D6578-CE4D-4417-B92C-12C10C837EC2",
-  "versionEndIncluding": "2.2.3",
-  "created": "2021-03-16T15:46:28.657",
-  "lastModified": "2021-03-16T15:46:28.657",
-  "cpeLastModified": "2021-03-16T15:51:29.443",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hamilton-medical:hamilton-t1_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "83D3EB64-1D85-47BB-B3F2-C95E22756D7D"
-    },
-    {
-      "cpeName": "cpe:2.3:o:hamilton-medical:hamilton-t1_firmware:2.2.3:*:*:*:*:*:*:*",
-      "cpeNameId": "B827C3BD-FFF4-475A-9213-06F9CB23C148"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hamilton-medical:hamilton-t1_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "425D6578-CE4D-4417-B92C-12C10C837EC2",
+	"versionEndIncluding": "2.2.3",
+	"created": "2021-03-16T15:46:28.657",
+	"lastModified": "2021-03-16T15:46:28.657",
+	"cpeLastModified": "2021-03-16T15:51:29.443",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hamilton-medical:hamilton-t1_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "83D3EB64-1D85-47BB-B3F2-C95E22756D7D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:hamilton-medical:hamilton-t1_firmware:2.2.3:*:*:*:*:*:*:*",
+			"cpeNameId": "B827C3BD-FFF4-475A-9213-06F9CB23C148"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hpe:proliant_dl120_gen9_server_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "C3F2383A-A686-4D99-90AA-853424468825",
-  "versionEndExcluding": "2.76",
-  "created": "2019-11-20T17:43:36.503",
-  "lastModified": "2019-11-20T17:43:36.503",
-  "cpeLastModified": "2020-04-27T20:06:17.253",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hpe:proliant_dl120_gen9_server_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "3662E40A-10D2-481E-BC98-1622FC17DE76"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hpe:proliant_dl120_gen9_server_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C3F2383A-A686-4D99-90AA-853424468825",
+	"versionEndExcluding": "2.76",
+	"created": "2019-11-20T17:43:36.503",
+	"lastModified": "2019-11-20T17:43:36.503",
+	"cpeLastModified": "2020-04-27T20:06:17.253",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hpe:proliant_dl120_gen9_server_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3662E40A-10D2-481E-BC98-1622FC17DE76"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:netgear:dgnd2200b_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AE696277-6FBD-4345-B372-FA375B0F763B",
-  "versionEndExcluding": "1.0.0.102",
-  "created": "2020-04-22T11:38:51.450",
-  "lastModified": "2020-04-22T11:38:51.450",
-  "cpeLastModified": "2020-05-07T14:51:28.440",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:netgear:dgnd2200b_firmware:1.0.0.86:*:*:*:*:*:*:*",
-      "cpeNameId": "BA1C4285-F76F-447B-BA04-5792A2AC4229"
-    }
-  ]
+	"criteria": "cpe:2.3:o:netgear:dgnd2200b_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AE696277-6FBD-4345-B372-FA375B0F763B",
+	"versionEndExcluding": "1.0.0.102",
+	"created": "2020-04-22T11:38:51.450",
+	"lastModified": "2020-04-22T11:38:51.450",
+	"cpeLastModified": "2020-05-07T14:51:28.440",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netgear:dgnd2200b_firmware:1.0.0.86:*:*:*:*:*:*:*",
+			"cpeNameId": "BA1C4285-F76F-447B-BA04-5792A2AC4229"
+		}
+	]
 }

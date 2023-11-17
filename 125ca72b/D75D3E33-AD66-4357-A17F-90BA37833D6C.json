@@ -1,16 +1,16 @@
 {
-  "criteria": "cpe:2.3:a:intel:server_platform_services:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D75D3E33-AD66-4357-A17F-90BA37833D6C",
-  "versionStartIncluding": "sps_e5_04.00.00.000.0",
-  "versionEndExcluding": "sps_e5_04.01.04.380.0",
-  "created": "2020-06-18T16:14:44.430",
-  "lastModified": "2020-06-18T16:14:44.430",
-  "cpeLastModified": "2020-06-18T16:14:44.443",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:intel:server_platform_services:sps_e5_04.00.04.381.0:*:*:*:*:*:*:*",
-      "cpeNameId": "539FF04A-C672-4AB5-8D66-86FCB120291F"
-    }
-  ]
+	"criteria": "cpe:2.3:a:intel:server_platform_services:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D75D3E33-AD66-4357-A17F-90BA37833D6C",
+	"versionStartIncluding": "sps_e5_04.00.00.000.0",
+	"versionEndExcluding": "sps_e5_04.01.04.380.0",
+	"created": "2020-06-18T16:14:44.430",
+	"lastModified": "2020-06-18T16:14:44.430",
+	"cpeLastModified": "2020-06-18T16:14:44.443",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:intel:server_platform_services:sps_e5_04.00.04.381.0:*:*:*:*:*:*:*",
+			"cpeNameId": "539FF04A-C672-4AB5-8D66-86FCB120291F"
+		}
+	]
 }

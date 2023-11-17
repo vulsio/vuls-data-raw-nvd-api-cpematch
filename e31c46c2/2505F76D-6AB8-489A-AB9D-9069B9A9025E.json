@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:dell:emc_avamar_server:7.5.0:*:*:*:*:*:*:*",
-  "matchCriteriaId": "2505F76D-6AB8-489A-AB9D-9069B9A9025E",
-  "created": "2019-10-11T18:54:24.160",
-  "lastModified": "2019-10-11T18:54:24.160",
-  "cpeLastModified": "2019-12-11T19:55:52.957",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:dell:emc_avamar_server:7.5.0:*:*:*:*:*:*:*",
-      "cpeNameId": "B570E815-83CF-4D7F-AB85-BA54B4CA30B6"
-    }
-  ]
+	"criteria": "cpe:2.3:a:dell:emc_avamar_server:7.5.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2505F76D-6AB8-489A-AB9D-9069B9A9025E",
+	"created": "2019-10-11T18:54:24.160",
+	"lastModified": "2019-10-11T18:54:24.160",
+	"cpeLastModified": "2019-12-11T19:55:52.957",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:dell:emc_avamar_server:7.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B570E815-83CF-4D7F-AB85-BA54B4CA30B6"
+		}
+	]
 }

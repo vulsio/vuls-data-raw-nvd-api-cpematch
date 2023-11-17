@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:oracle:jdk:1.6.0:update31:*:*:*:*:*:*",
-  "matchCriteriaId": "F85DB431-FEA4-42E7-AC29-6B66174DCD9E",
-  "created": "2022-05-13T14:33:07.583",
-  "lastModified": "2022-05-13T14:33:07.583",
-  "cpeLastModified": "2022-05-13T14:33:07.583",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:oracle:jdk:1.6.0:update31:*:*:*:*:*:*",
-      "cpeNameId": "39A66ACA-6536-4C96-AA50-7F486A59A450"
-    }
-  ]
+	"criteria": "cpe:2.3:a:oracle:jdk:1.6.0:update31:*:*:*:*:*:*",
+	"matchCriteriaId": "F85DB431-FEA4-42E7-AC29-6B66174DCD9E",
+	"created": "2022-05-13T14:33:07.583",
+	"lastModified": "2022-05-13T14:33:07.583",
+	"cpeLastModified": "2022-05-13T14:33:07.583",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:jdk:1.6.0:update31:*:*:*:*:*:*",
+			"cpeNameId": "39A66ACA-6536-4C96-AA50-7F486A59A450"
+		}
+	]
 }

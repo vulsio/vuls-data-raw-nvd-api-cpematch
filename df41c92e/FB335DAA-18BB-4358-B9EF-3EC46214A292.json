@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:o:pepperl-fuchs:icrl-m-16rj45\\/4cp-g-din_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "FB335DAA-18BB-4358-B9EF-3EC46214A292",
-  "versionEndIncluding": "1.2.3",
-  "created": "2020-10-19T12:48:14.993",
-  "lastModified": "2020-10-19T12:48:14.993",
-  "cpeLastModified": "2020-12-21T18:40:42.257",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:pepperl-fuchs:icrl-m-16rj45\\/4cp-g-din_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "E5E43AD2-3C61-4A64-8558-EF6DBA473610"
-    },
-    {
-      "cpeName": "cpe:2.3:o:pepperl-fuchs:icrl-m-16rj45\\/4cp-g-din_firmware:1.2.3:*:*:*:*:*:*:*",
-      "cpeNameId": "74D47ADB-DBA3-4A31-A830-8BF70757B05E"
-    }
-  ]
+	"criteria": "cpe:2.3:o:pepperl-fuchs:icrl-m-16rj45\\/4cp-g-din_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FB335DAA-18BB-4358-B9EF-3EC46214A292",
+	"versionEndIncluding": "1.2.3",
+	"created": "2020-10-19T12:48:14.993",
+	"lastModified": "2020-10-19T12:48:14.993",
+	"cpeLastModified": "2020-12-21T18:40:42.257",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:pepperl-fuchs:icrl-m-16rj45\\/4cp-g-din_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E5E43AD2-3C61-4A64-8558-EF6DBA473610"
+		},
+		{
+			"cpeName": "cpe:2.3:o:pepperl-fuchs:icrl-m-16rj45\\/4cp-g-din_firmware:1.2.3:*:*:*:*:*:*:*",
+			"cpeNameId": "74D47ADB-DBA3-4A31-A830-8BF70757B05E"
+		}
+	]
 }

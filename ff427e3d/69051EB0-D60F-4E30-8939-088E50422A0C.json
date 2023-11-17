@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:cisco:nx-os:12.2\\(3r\\):*:*:*:*:*:*:*",
-  "matchCriteriaId": "69051EB0-D60F-4E30-8939-088E50422A0C",
-  "created": "2021-03-01T15:24:44.433",
-  "lastModified": "2021-03-01T15:24:44.433",
-  "cpeLastModified": "2021-03-01T15:24:44.450",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:nx-os:12.2\\(3r\\):*:*:*:*:*:*:*",
-      "cpeNameId": "880FB28C-3550-4606-BB1A-08B11F2DA932"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:nx-os:12.2\\(3r\\):*:*:*:*:*:*:*",
+	"matchCriteriaId": "69051EB0-D60F-4E30-8939-088E50422A0C",
+	"created": "2021-03-01T15:24:44.433",
+	"lastModified": "2021-03-01T15:24:44.433",
+	"cpeLastModified": "2021-03-01T15:24:44.450",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:nx-os:12.2\\(3r\\):*:*:*:*:*:*:*",
+			"cpeNameId": "880FB28C-3550-4606-BB1A-08B11F2DA932"
+		}
+	]
 }

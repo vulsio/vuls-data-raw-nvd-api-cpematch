@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:cisco:c245_m6_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "1216C5A1-F429-40E9-B0E1-8ED45ED81B48",
-  "versionEndIncluding": "4.1\\(2f\\)",
-  "created": "2021-05-12T12:01:26.420",
-  "lastModified": "2021-05-12T12:01:26.420",
-  "cpeLastModified": "2021-05-12T12:25:30.617",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:c245_m6_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "66955CA0-17EF-4F34-8A60-F7C1F4A9BF03"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:c245_m6_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1216C5A1-F429-40E9-B0E1-8ED45ED81B48",
+	"versionEndIncluding": "4.1\\(2f\\)",
+	"created": "2021-05-12T12:01:26.420",
+	"lastModified": "2021-05-12T12:01:26.420",
+	"cpeLastModified": "2021-05-12T12:25:30.617",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:c245_m6_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "66955CA0-17EF-4F34-8A60-F7C1F4A9BF03"
+		}
+	]
 }

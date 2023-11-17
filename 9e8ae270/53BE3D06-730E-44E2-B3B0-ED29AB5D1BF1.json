@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:cisco:webex_dx80_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "53BE3D06-730E-44E2-B3B0-ED29AB5D1BF1",
-  "created": "2020-09-25T19:37:26.810",
-  "lastModified": "2022-07-12T15:45:40.327",
-  "cpeLastModified": "2020-10-13T13:01:55.620",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:cisco:webex_dx80_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "6F2B5BF1-0C1E-471B-924D-97FDE796C2F8"
-    }
-  ]
+	"criteria": "cpe:2.3:o:cisco:webex_dx80_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "53BE3D06-730E-44E2-B3B0-ED29AB5D1BF1",
+	"created": "2020-09-25T19:37:26.810",
+	"lastModified": "2022-07-12T15:45:40.327",
+	"cpeLastModified": "2020-10-13T13:01:55.620",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:webex_dx80_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6F2B5BF1-0C1E-471B-924D-97FDE796C2F8"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:siemens:simatic_rtu3010c_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "22BE5ED5-4690-4D60-AA95-915CC02266E2",
-  "versionEndExcluding": "5.0.14",
-  "created": "2022-07-28T14:05:40.170",
-  "lastModified": "2022-07-28T14:05:40.170",
-  "cpeLastModified": "2022-04-04T17:37:55.343",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:siemens:simatic_rtu3010c_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "6C52ACDA-1E8C-4105-A905-22F23E282435"
-    }
-  ]
+	"criteria": "cpe:2.3:o:siemens:simatic_rtu3010c_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "22BE5ED5-4690-4D60-AA95-915CC02266E2",
+	"versionEndExcluding": "5.0.14",
+	"created": "2022-07-28T14:05:40.170",
+	"lastModified": "2022-07-28T14:05:40.170",
+	"cpeLastModified": "2022-04-04T17:37:55.343",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:simatic_rtu3010c_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6C52ACDA-1E8C-4105-A905-22F23E282435"
+		}
+	]
 }

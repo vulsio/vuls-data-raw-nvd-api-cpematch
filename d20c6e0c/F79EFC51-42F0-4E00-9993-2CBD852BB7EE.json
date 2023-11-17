@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:cisco:sd-wan_vedge_cloud:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F79EFC51-42F0-4E00-9993-2CBD852BB7EE",
-  "created": "2022-05-12T05:47:15.037",
-  "lastModified": "2022-11-04T18:01:13.923",
-  "cpeLastModified": "2022-11-04T18:01:13.923",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:cisco:sd-wan_vedge_cloud:-:*:*:*:*:*:*:*",
-      "cpeNameId": "DE8475EC-0F6D-4EB0-A100-E144A47297CD"
-    }
-  ]
+	"criteria": "cpe:2.3:a:cisco:sd-wan_vedge_cloud:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F79EFC51-42F0-4E00-9993-2CBD852BB7EE",
+	"created": "2022-05-12T05:47:15.037",
+	"lastModified": "2022-11-04T18:01:13.923",
+	"cpeLastModified": "2022-11-04T18:01:13.923",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:sd-wan_vedge_cloud:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DE8475EC-0F6D-4EB0-A100-E144A47297CD"
+		}
+	]
 }

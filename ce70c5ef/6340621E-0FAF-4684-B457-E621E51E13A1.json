@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:siemens:tracealertserverplus:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "6340621E-0FAF-4684-B457-E621E51E13A1",
-  "created": "2022-02-07T18:32:56.903",
-  "lastModified": "2022-02-07T18:32:56.903",
-  "cpeLastModified": "2022-02-19T04:42:59.847",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:siemens:tracealertserverplus:-:*:*:*:*:*:*:*",
-      "cpeNameId": "3147FE07-4229-46E7-824C-CC0E837B9E5F"
-    }
-  ]
+	"criteria": "cpe:2.3:a:siemens:tracealertserverplus:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6340621E-0FAF-4684-B457-E621E51E13A1",
+	"created": "2022-02-07T18:32:56.903",
+	"lastModified": "2022-02-07T18:32:56.903",
+	"cpeLastModified": "2022-02-19T04:42:59.847",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:siemens:tracealertserverplus:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3147FE07-4229-46E7-824C-CC0E837B9E5F"
+		}
+	]
 }

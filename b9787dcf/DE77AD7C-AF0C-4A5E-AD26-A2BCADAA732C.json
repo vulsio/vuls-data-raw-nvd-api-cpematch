@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:a:ruby-lang:ruby193:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "DE77AD7C-AF0C-4A5E-AD26-A2BCADAA732C",
-  "created": "2019-11-04T15:11:46.397",
-  "lastModified": "2019-11-04T15:11:46.397",
-  "cpeLastModified": "2019-12-10T16:21:52.790",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:ruby-lang:ruby193:-:*:*:*:*:*:*:*",
-      "cpeNameId": "FC68AB18-0E8D-4644-A62A-CF666B02E765"
-    }
-  ]
+	"criteria": "cpe:2.3:a:ruby-lang:ruby193:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DE77AD7C-AF0C-4A5E-AD26-A2BCADAA732C",
+	"created": "2019-11-04T15:11:46.397",
+	"lastModified": "2019-11-04T15:11:46.397",
+	"cpeLastModified": "2019-12-10T16:21:52.790",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ruby-lang:ruby193:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FC68AB18-0E8D-4644-A62A-CF666B02E765"
+		}
+	]
 }

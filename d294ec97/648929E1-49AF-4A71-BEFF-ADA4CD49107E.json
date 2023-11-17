@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:hp:elitebook_820_g1_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "648929E1-49AF-4A71-BEFF-ADA4CD49107E",
-  "versionEndExcluding": "1.48",
-  "created": "2019-11-07T17:59:10.177",
-  "lastModified": "2019-11-07T17:59:10.177",
-  "cpeLastModified": "2019-12-06T18:46:27.280",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:hp:elitebook_820_g1_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "CB8B7C8D-CD12-45D0-BBC6-1148F423CB78"
-    }
-  ]
+	"criteria": "cpe:2.3:o:hp:elitebook_820_g1_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "648929E1-49AF-4A71-BEFF-ADA4CD49107E",
+	"versionEndExcluding": "1.48",
+	"created": "2019-11-07T17:59:10.177",
+	"lastModified": "2019-11-07T17:59:10.177",
+	"cpeLastModified": "2019-12-06T18:46:27.280",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:elitebook_820_g1_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CB8B7C8D-CD12-45D0-BBC6-1148F423CB78"
+		}
+	]
 }

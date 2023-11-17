@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:apc:powerchute:*:*:*:*:business:*:*:*",
-  "matchCriteriaId": "6D7EDEA3-6AEC-425E-BA02-03C9CD95FB63",
-  "versionEndExcluding": "9.1",
-  "created": "2020-09-01T12:05:42.683",
-  "lastModified": "2020-09-01T12:05:42.683",
-  "cpeLastModified": "2020-09-01T12:05:42.713",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:apc:powerchute:9.0.1.606:*:*:*:business:*:*:*",
-      "cpeNameId": "D4E4FB7F-DF8C-4BA5-9D5D-E87CBBCDC84B"
-    }
-  ]
+	"criteria": "cpe:2.3:a:apc:powerchute:*:*:*:*:business:*:*:*",
+	"matchCriteriaId": "6D7EDEA3-6AEC-425E-BA02-03C9CD95FB63",
+	"versionEndExcluding": "9.1",
+	"created": "2020-09-01T12:05:42.683",
+	"lastModified": "2020-09-01T12:05:42.683",
+	"cpeLastModified": "2020-09-01T12:05:42.713",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apc:powerchute:9.0.1.606:*:*:*:business:*:*:*",
+			"cpeNameId": "D4E4FB7F-DF8C-4BA5-9D5D-E87CBBCDC84B"
+		}
+	]
 }

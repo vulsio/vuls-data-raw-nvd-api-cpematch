@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:xeon_e3-1275_v5_firmware:*:*:*:*:*:windows:*:*",
-  "matchCriteriaId": "F1E71584-23E5-47BF-ABEF-2E84A4FB03FF",
-  "versionEndExcluding": "26.20.100.6859",
-  "created": "2019-11-26T15:57:37.907",
-  "lastModified": "2019-11-26T15:57:37.907",
-  "cpeLastModified": "2020-01-13T14:16:00.863",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:xeon_e3-1275_v5_firmware:-:*:*:*:*:windows:*:*",
-      "cpeNameId": "3D26FC1B-2D8B-45C0-ADB4-98666C84BD9F"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:xeon_e3-1275_v5_firmware:*:*:*:*:*:windows:*:*",
+	"matchCriteriaId": "F1E71584-23E5-47BF-ABEF-2E84A4FB03FF",
+	"versionEndExcluding": "26.20.100.6859",
+	"created": "2019-11-26T15:57:37.907",
+	"lastModified": "2019-11-26T15:57:37.907",
+	"cpeLastModified": "2020-01-13T14:16:00.863",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:xeon_e3-1275_v5_firmware:-:*:*:*:*:windows:*:*",
+			"cpeNameId": "3D26FC1B-2D8B-45C0-ADB4-98666C84BD9F"
+		}
+	]
 }

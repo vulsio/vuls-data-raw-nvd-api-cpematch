@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:o:zyxel:usg_2200-vpn_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E0597A0E-9416-4D2E-BAF5-BEFAAE1BB93E",
-  "versionStartIncluding": "4.09",
-  "versionEndIncluding": "4.71",
-  "created": "2022-06-06T12:50:22.613",
-  "lastModified": "2022-06-06T12:50:22.613",
-  "cpeLastModified": "2023-08-04T19:55:06.673",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:zyxel:usg_2200-vpn_firmware:4.20:*:*:*:*:*:*:*",
-      "cpeNameId": "7AFAD61B-3BAD-4322-8B58-E4D62879CABE"
-    },
-    {
-      "cpeName": "cpe:2.3:o:zyxel:usg_2200-vpn_firmware:4.30:*:*:*:*:*:*:*",
-      "cpeNameId": "FCD5D95E-17FC-4250-93F9-5633A1D87ABA"
-    }
-  ]
+	"criteria": "cpe:2.3:o:zyxel:usg_2200-vpn_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E0597A0E-9416-4D2E-BAF5-BEFAAE1BB93E",
+	"versionStartIncluding": "4.09",
+	"versionEndIncluding": "4.71",
+	"created": "2022-06-06T12:50:22.613",
+	"lastModified": "2022-06-06T12:50:22.613",
+	"cpeLastModified": "2023-08-04T19:55:06.673",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:zyxel:usg_2200-vpn_firmware:4.20:*:*:*:*:*:*:*",
+			"cpeNameId": "7AFAD61B-3BAD-4322-8B58-E4D62879CABE"
+		},
+		{
+			"cpeName": "cpe:2.3:o:zyxel:usg_2200-vpn_firmware:4.30:*:*:*:*:*:*:*",
+			"cpeNameId": "FCD5D95E-17FC-4250-93F9-5633A1D87ABA"
+		}
+	]
 }

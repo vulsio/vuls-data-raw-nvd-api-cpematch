@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:weidmueller:ie-sw-pl18m-2gc14tx2st_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "D0AF4EC2-25BC-47A1-83ED-E3461D0D6E9A",
-  "versionEndIncluding": "3.4.4",
-  "created": "2019-12-07T02:23:04.433",
-  "lastModified": "2019-12-07T02:23:04.433",
-  "cpeLastModified": "2022-04-01T15:48:41.350",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:weidmueller:ie-sw-pl18m-2gc14tx2st_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "6576C94A-1972-4079-95AA-0499EEBF2E42"
-    }
-  ]
+	"criteria": "cpe:2.3:o:weidmueller:ie-sw-pl18m-2gc14tx2st_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D0AF4EC2-25BC-47A1-83ED-E3461D0D6E9A",
+	"versionEndIncluding": "3.4.4",
+	"created": "2019-12-07T02:23:04.433",
+	"lastModified": "2019-12-07T02:23:04.433",
+	"cpeLastModified": "2022-04-01T15:48:41.350",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:weidmueller:ie-sw-pl18m-2gc14tx2st_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6576C94A-1972-4079-95AA-0499EEBF2E42"
+		}
+	]
 }

@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CDF560E8-4134-43F2-8401-77D416C1062D",
-  "versionStartIncluding": "14.0.0.5",
-  "versionEndExcluding": "14.0.1.1",
-  "created": "2019-12-30T18:09:58.283",
-  "lastModified": "2019-12-30T18:09:58.283",
-  "cpeLastModified": "2019-12-30T18:09:58.300",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:f5:big-ip_domain_name_system:14.0.0.5:*:*:*:*:*:*:*",
-      "cpeNameId": "C141EA8B-8A87-45DA-BD70-9AC652C07BEA"
-    },
-    {
-      "cpeName": "cpe:2.3:a:f5:big-ip_domain_name_system:14.0.1:*:*:*:*:*:*:*",
-      "cpeNameId": "FA4C598C-6C8F-4108-B118-410CFD0A0EE7"
-    }
-  ]
+	"criteria": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CDF560E8-4134-43F2-8401-77D416C1062D",
+	"versionStartIncluding": "14.0.0.5",
+	"versionEndExcluding": "14.0.1.1",
+	"created": "2019-12-30T18:09:58.283",
+	"lastModified": "2019-12-30T18:09:58.283",
+	"cpeLastModified": "2019-12-30T18:09:58.300",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:f5:big-ip_domain_name_system:14.0.0.5:*:*:*:*:*:*:*",
+			"cpeNameId": "C141EA8B-8A87-45DA-BD70-9AC652C07BEA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:f5:big-ip_domain_name_system:14.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "FA4C598C-6C8F-4108-B118-410CFD0A0EE7"
+		}
+	]
 }

@@ -1,43 +1,43 @@
 {
-  "criteria": "cpe:2.3:a:aiohttp_project:aiohttp:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "728B59B5-934C-4602-A40A-2CEBF520AEC5",
-  "versionEndExcluding": "3.7.4",
-  "created": "2021-02-26T14:08:37.107",
-  "lastModified": "2021-02-26T14:08:37.107",
-  "cpeLastModified": "2021-02-26T14:09:52.920",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:aiohttp_project:aiohttp:3.6.2:*:*:*:*:*:*:*",
-      "cpeNameId": "3F2DF9EF-2832-452E-8B5F-FEDCA9BA8504"
-    },
-    {
-      "cpeName": "cpe:2.3:a:aiohttp_project:aiohttp:3.6.3:*:*:*:*:*:*:*",
-      "cpeNameId": "95B34C88-23F8-4CA5-B98A-A0B0B6EEF2A0"
-    },
-    {
-      "cpeName": "cpe:2.3:a:aiohttp_project:aiohttp:3.7.0:-:*:*:*:*:*:*",
-      "cpeNameId": "AB22A586-BB6E-44D6-9D75-E3B68747D259"
-    },
-    {
-      "cpeName": "cpe:2.3:a:aiohttp_project:aiohttp:3.7.0:beta0:*:*:*:*:*:*",
-      "cpeNameId": "7EA7F5BC-34B5-4DD9-8EBB-18EC9EBAF80A"
-    },
-    {
-      "cpeName": "cpe:2.3:a:aiohttp_project:aiohttp:3.7.0:beta1:*:*:*:*:*:*",
-      "cpeNameId": "B26FB76E-7F79-4F7F-BAC2-7138B6A7E148"
-    },
-    {
-      "cpeName": "cpe:2.3:a:aiohttp_project:aiohttp:3.7.1:*:*:*:*:*:*:*",
-      "cpeNameId": "A43D331D-4330-4F5B-A613-39FB91EABAC2"
-    },
-    {
-      "cpeName": "cpe:2.3:a:aiohttp_project:aiohttp:3.7.2:*:*:*:*:*:*:*",
-      "cpeNameId": "08D6168B-EF09-441D-B60E-EB9ADF1D32F5"
-    },
-    {
-      "cpeName": "cpe:2.3:a:aiohttp_project:aiohttp:3.7.3:*:*:*:*:*:*:*",
-      "cpeNameId": "92C4A3FD-A6DF-4DC3-9813-6BAC0A6E5EF4"
-    }
-  ]
+	"criteria": "cpe:2.3:a:aiohttp_project:aiohttp:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "728B59B5-934C-4602-A40A-2CEBF520AEC5",
+	"versionEndExcluding": "3.7.4",
+	"created": "2021-02-26T14:08:37.107",
+	"lastModified": "2021-02-26T14:08:37.107",
+	"cpeLastModified": "2021-02-26T14:09:52.920",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:aiohttp_project:aiohttp:3.6.2:*:*:*:*:*:*:*",
+			"cpeNameId": "3F2DF9EF-2832-452E-8B5F-FEDCA9BA8504"
+		},
+		{
+			"cpeName": "cpe:2.3:a:aiohttp_project:aiohttp:3.6.3:*:*:*:*:*:*:*",
+			"cpeNameId": "95B34C88-23F8-4CA5-B98A-A0B0B6EEF2A0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:aiohttp_project:aiohttp:3.7.0:-:*:*:*:*:*:*",
+			"cpeNameId": "AB22A586-BB6E-44D6-9D75-E3B68747D259"
+		},
+		{
+			"cpeName": "cpe:2.3:a:aiohttp_project:aiohttp:3.7.0:beta0:*:*:*:*:*:*",
+			"cpeNameId": "7EA7F5BC-34B5-4DD9-8EBB-18EC9EBAF80A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:aiohttp_project:aiohttp:3.7.0:beta1:*:*:*:*:*:*",
+			"cpeNameId": "B26FB76E-7F79-4F7F-BAC2-7138B6A7E148"
+		},
+		{
+			"cpeName": "cpe:2.3:a:aiohttp_project:aiohttp:3.7.1:*:*:*:*:*:*:*",
+			"cpeNameId": "A43D331D-4330-4F5B-A613-39FB91EABAC2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:aiohttp_project:aiohttp:3.7.2:*:*:*:*:*:*:*",
+			"cpeNameId": "08D6168B-EF09-441D-B60E-EB9ADF1D32F5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:aiohttp_project:aiohttp:3.7.3:*:*:*:*:*:*:*",
+			"cpeNameId": "92C4A3FD-A6DF-4DC3-9813-6BAC0A6E5EF4"
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:triplc:nano-10_plc_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "E158ECEB-9D7D-4A89-9CDA-75F735B573C0",
-  "versionEndIncluding": "r80",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2019-07-22T16:37:38.133",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:triplc:nano-10_plc_firmware:r80:*:*:*:*:*:*:*",
-      "cpeNameId": "705A73A4-FF04-4126-A3A6-0EF4B7E97FC4"
-    }
-  ]
+	"criteria": "cpe:2.3:o:triplc:nano-10_plc_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E158ECEB-9D7D-4A89-9CDA-75F735B573C0",
+	"versionEndIncluding": "r80",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:triplc:nano-10_plc_firmware:r80:*:*:*:*:*:*:*",
+			"cpeNameId": "705A73A4-FF04-4126-A3A6-0EF4B7E97FC4"
+		}
+	]
 }

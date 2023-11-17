@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:intel:e3-1286_firmware:-:*:*:*:*:*:*:*",
-  "matchCriteriaId": "27462E11-A86F-4B66-8832-DE0D1F78D8F8",
-  "created": "2019-06-17T13:51:42.310",
-  "lastModified": "2019-06-17T13:51:42.310",
-  "cpeLastModified": "2020-06-29T13:01:01.963",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:e3-1286_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "1C240881-FCEF-4F69-AB5B-93727F1B7158"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:e3-1286_firmware:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "27462E11-A86F-4B66-8832-DE0D1F78D8F8",
+	"created": "2019-06-17T13:51:42.310",
+	"lastModified": "2019-06-17T13:51:42.310",
+	"cpeLastModified": "2020-06-29T13:01:01.963",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:e3-1286_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1C240881-FCEF-4F69-AB5B-93727F1B7158"
+		}
+	]
 }

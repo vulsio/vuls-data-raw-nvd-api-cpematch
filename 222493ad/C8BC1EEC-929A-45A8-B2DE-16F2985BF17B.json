@@ -1,19 +1,19 @@
 {
-  "criteria": "cpe:2.3:a:mapsplugin:googlemaps:*:*:*:*:*:joomla\\!:*:*",
-  "matchCriteriaId": "C8BC1EEC-929A-45A8-B2DE-16F2985BF17B",
-  "versionEndIncluding": "3.2",
-  "created": "2019-06-17T09:16:33.960",
-  "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2021-03-03T23:02:44.753",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:mapsplugin:googlemaps:3.0:*:*:*:*:joomla\\!:*:*",
-      "cpeNameId": "FFF3EE43-93E2-4A2A-99A3-E599395CD8BA"
-    },
-    {
-      "cpeName": "cpe:2.3:a:mapsplugin:googlemaps:3.2:*:*:*:*:joomla\\!:*:*",
-      "cpeNameId": "02C8B18C-0C88-4628-BEB7-7C281E138BD5"
-    }
-  ]
+	"criteria": "cpe:2.3:a:mapsplugin:googlemaps:*:*:*:*:*:joomla\\!:*:*",
+	"matchCriteriaId": "C8BC1EEC-929A-45A8-B2DE-16F2985BF17B",
+	"versionEndIncluding": "3.2",
+	"created": "2019-06-17T09:16:33.960",
+	"lastModified": "2019-06-17T09:16:33.960",
+	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:mapsplugin:googlemaps:3.0:*:*:*:*:joomla\\!:*:*",
+			"cpeNameId": "FFF3EE43-93E2-4A2A-99A3-E599395CD8BA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mapsplugin:googlemaps:3.2:*:*:*:*:joomla\\!:*:*",
+			"cpeNameId": "02C8B18C-0C88-4628-BEB7-7C281E138BD5"
+		}
+	]
 }

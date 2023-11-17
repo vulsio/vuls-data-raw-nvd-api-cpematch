@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:intel:core_i3-8300t_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "7D8DB059-05F7-49EB-8A5B-6B9ECDEF83F5",
-  "versionEndExcluding": "11.8.92",
-  "created": "2022-06-09T14:34:38.640",
-  "lastModified": "2022-06-09T14:34:38.640",
-  "cpeLastModified": "2020-03-23T18:33:59.117",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:intel:core_i3-8300t_firmware:-:*:*:*:*:*:*:*",
-      "cpeNameId": "BDDCEBBA-A61D-4B09-B6CD-E1962561A679"
-    }
-  ]
+	"criteria": "cpe:2.3:o:intel:core_i3-8300t_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7D8DB059-05F7-49EB-8A5B-6B9ECDEF83F5",
+	"versionEndExcluding": "11.8.92",
+	"created": "2022-06-09T14:34:38.640",
+	"lastModified": "2022-06-09T14:34:38.640",
+	"cpeLastModified": "2020-03-23T18:33:59.117",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:core_i3-8300t_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BDDCEBBA-A61D-4B09-B6CD-E1962561A679"
+		}
+	]
 }

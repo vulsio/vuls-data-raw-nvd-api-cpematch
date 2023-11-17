@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:o:bachmann:cs200_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "CBCA1F60-0575-49EF-8C32-B729F5D5C472",
-  "versionStartIncluding": "1.06.14",
-  "created": "2022-06-06T14:04:21.270",
-  "lastModified": "2022-06-06T14:04:21.270",
-  "cpeLastModified": "2022-06-06T17:04:22.433",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:bachmann:cs200_firmware:1.06.14:*:*:*:*:*:*:*",
-      "cpeNameId": "4B319F7C-3A42-45E7-8600-DFD0121F4F71"
-    }
-  ]
+	"criteria": "cpe:2.3:o:bachmann:cs200_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CBCA1F60-0575-49EF-8C32-B729F5D5C472",
+	"versionStartIncluding": "1.06.14",
+	"created": "2022-06-06T14:04:21.270",
+	"lastModified": "2022-06-06T14:04:21.270",
+	"cpeLastModified": "2022-06-06T17:04:22.433",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:bachmann:cs200_firmware:1.06.14:*:*:*:*:*:*:*",
+			"cpeNameId": "4B319F7C-3A42-45E7-8600-DFD0121F4F71"
+		}
+	]
 }

@@ -1,20 +1,20 @@
 {
-  "criteria": "cpe:2.3:o:wago:edge_controller_firmware:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "F31F6E66-78B4-4F7B-BAE6-0C38D1307A4B",
-  "versionStartIncluding": "16",
-  "versionEndIncluding": "22",
-  "created": "2023-01-25T18:49:56.593",
-  "lastModified": "2023-01-25T18:49:56.593",
-  "cpeLastModified": "2023-09-28T21:37:07.280",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:wago:edge_controller_firmware:16:*:*:*:*:*:*:*",
-      "cpeNameId": "9378107F-9FBB-4CAA-A4FD-1D6CB39A8E94"
-    },
-    {
-      "cpeName": "cpe:2.3:o:wago:edge_controller_firmware:22:*:*:*:*:*:*:*",
-      "cpeNameId": "1CE35C30-C452-45F9-B6E6-13548DD1D184"
-    }
-  ]
+	"criteria": "cpe:2.3:o:wago:edge_controller_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F31F6E66-78B4-4F7B-BAE6-0C38D1307A4B",
+	"versionStartIncluding": "16",
+	"versionEndIncluding": "22",
+	"created": "2023-01-25T18:49:56.593",
+	"lastModified": "2023-01-25T18:49:56.593",
+	"cpeLastModified": "2023-09-28T21:37:07.280",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:wago:edge_controller_firmware:16:*:*:*:*:*:*:*",
+			"cpeNameId": "9378107F-9FBB-4CAA-A4FD-1D6CB39A8E94"
+		},
+		{
+			"cpeName": "cpe:2.3:o:wago:edge_controller_firmware:22:*:*:*:*:*:*:*",
+			"cpeNameId": "1CE35C30-C452-45F9-B6E6-13548DD1D184"
+		}
+	]
 }

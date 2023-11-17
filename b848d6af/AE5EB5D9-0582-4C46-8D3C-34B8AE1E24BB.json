@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:iconics:mobilehmi:*:*:*:*:*:*:*:*",
-  "matchCriteriaId": "AE5EB5D9-0582-4C46-8D3C-34B8AE1E24BB",
-  "versionEndIncluding": "10.96.2",
-  "created": "2022-01-27T18:39:24.100",
-  "lastModified": "2022-01-27T18:39:24.100",
-  "cpeLastModified": "2022-01-27T20:03:07.637",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:iconics:mobilehmi:-:*:*:*:*:*:*:*",
-      "cpeNameId": "06D1C5BA-E4AF-49D8-99F7-1951890AA5FD"
-    }
-  ]
+	"criteria": "cpe:2.3:a:iconics:mobilehmi:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AE5EB5D9-0582-4C46-8D3C-34B8AE1E24BB",
+	"versionEndIncluding": "10.96.2",
+	"created": "2022-01-27T18:39:24.100",
+	"lastModified": "2022-01-27T18:39:24.100",
+	"cpeLastModified": "2022-01-27T20:03:07.637",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:iconics:mobilehmi:-:*:*:*:*:*:*:*",
+			"cpeNameId": "06D1C5BA-E4AF-49D8-99F7-1951890AA5FD"
+		}
+	]
 }

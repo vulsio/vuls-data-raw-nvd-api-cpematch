@@ -1,14 +1,14 @@
 {
-  "criteria": "cpe:2.3:o:netapp:clustered_data_ontap:9.6:p4:*:*:*:*:*:*",
-  "matchCriteriaId": "D87CEFA8-5853-4E97-A193-E762E3168424",
-  "created": "2020-07-21T16:33:23.887",
-  "lastModified": "2020-07-21T16:33:23.887",
-  "cpeLastModified": "2020-07-21T16:33:23.900",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:o:netapp:clustered_data_ontap:9.6:p4:*:*:*:*:*:*",
-      "cpeNameId": "92B9C784-E089-4C78-A994-DA5225121FC6"
-    }
-  ]
+	"criteria": "cpe:2.3:o:netapp:clustered_data_ontap:9.6:p4:*:*:*:*:*:*",
+	"matchCriteriaId": "D87CEFA8-5853-4E97-A193-E762E3168424",
+	"created": "2020-07-21T16:33:23.887",
+	"lastModified": "2020-07-21T16:33:23.887",
+	"cpeLastModified": "2020-07-21T16:33:23.900",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netapp:clustered_data_ontap:9.6:p4:*:*:*:*:*:*",
+			"cpeNameId": "92B9C784-E089-4C78-A994-DA5225121FC6"
+		}
+	]
 }

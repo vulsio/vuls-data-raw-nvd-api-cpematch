@@ -1,15 +1,15 @@
 {
-  "criteria": "cpe:2.3:a:arubanetworks:aruba_edgeconnect_enterprise_orchestrator:*:*:*:*:sp:*:*:*",
-  "matchCriteriaId": "4F8E179A-99CE-4AA3-98F6-D7EC673789A1",
-  "versionEndIncluding": "8.10.23.40015",
-  "created": "2023-01-09T18:40:08.190",
-  "lastModified": "2023-01-09T18:40:08.190",
-  "cpeLastModified": "2023-01-20T15:16:16.700",
-  "status": "Active",
-  "matches": [
-    {
-      "cpeName": "cpe:2.3:a:arubanetworks:aruba_edgeconnect_enterprise_orchestrator:-:*:*:*:sp:*:*:*",
-      "cpeNameId": "E5A4E208-8A52-4FEB-A3E9-C741A2DA25E0"
-    }
-  ]
+	"criteria": "cpe:2.3:a:arubanetworks:aruba_edgeconnect_enterprise_orchestrator:*:*:*:*:sp:*:*:*",
+	"matchCriteriaId": "4F8E179A-99CE-4AA3-98F6-D7EC673789A1",
+	"versionEndIncluding": "8.10.23.40015",
+	"created": "2023-01-09T18:40:08.190",
+	"lastModified": "2023-01-09T18:40:08.190",
+	"cpeLastModified": "2023-01-20T15:16:16.700",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:arubanetworks:aruba_edgeconnect_enterprise_orchestrator:-:*:*:*:sp:*:*:*",
+			"cpeNameId": "E5A4E208-8A52-4FEB-A3E9-C741A2DA25E0"
+		}
+	]
 }
