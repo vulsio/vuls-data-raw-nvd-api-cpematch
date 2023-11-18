@@ -3,7 +3,7 @@
 	"matchCriteriaId": "03EF4360-8E24-4018-A0F2-9E39F7590670",
 	"created": "2022-05-23T16:45:56.380",
 	"lastModified": "2023-08-21T12:03:02.873",
-	"cpeLastModified": "2023-11-15T23:08:05.647",
+	"cpeLastModified": "2023-11-18T04:38:38.883",
 	"status": "Active",
 	"matches": [
 		{
@@ -17,6 +17,162 @@
 		{
 			"cpeName": "cpe:2.3:h:amd:athlon_3015e:-:*:*:*:*:*:*:*",
 			"cpeNameId": "90C70523-CA43-4FC8-B874-F0D43B553C0C"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_7203:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F31040C2-BB65-41BB-BF92-C1692CA2AC38"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_7203p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "01D11AF3-6FB5-44E5-AE77-F7E7D5728442"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_7303:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3A3516AC-0F85-4A15-A7D0-B7F1702718EC"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_7303p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5BE2528E-BBE4-4F04-92CF-A2EEDA6DAECE"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_7643p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B05DACE2-F5A2-4AD2-96CA-AA8570C91FFC"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_7663p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C510463E-261F-4550-B740-6A66C7584B5D"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_8024p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5BD3BD40-408D-4A61-93AF-6B1D3344B530"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_8024pn:-:*:*:*:*:*:*:*",
+			"cpeNameId": "10C604DE-11E7-4672-9F16-013074BD4ACD"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_8124p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5848D727-5B4F-442C-8BA2-AC62866527A9"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_8124pn:-:*:*:*:*:*:*:*",
+			"cpeNameId": "464FAB2C-9619-4B35-AFBD-6ED031F2A8B6"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_8224p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "225F4659-69BF-4630-B524-52A26249599A"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_8224pn:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D2F90231-9ED4-4554-93E4-B644CF9F5AB0"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_8324p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B7F04336-B280-415A-9B0A-BB381A4C8795"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_8324pn:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6E29E177-7B94-4358-973B-B12F163E5A17"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_8434p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A35286C6-E12D-4814-8A6E-F93BD0DF26A9"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_8434pn:-:*:*:*:*:*:*:*",
+			"cpeNameId": "609E5300-4610-4E19-BBF0-0F68551C6C1A"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_8534p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "470F314D-BDE1-45A0-BE08-312E0B6EFDAE"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_8534pn:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6759247B-7218-4C7C-9ECF-7CD3D7CB7987"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_pro_w6300:-:*:*:*:*:*:*:*",
+			"cpeNameId": "261BD42D-3577-4889-8DF7-0222D8A3C08A"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_pro_w7500:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F5D24814-D3BB-40C3-A247-A6C67E28E62B"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_pro_w7600:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3E6E34F9-44ED-49D8-8FB8-F56A25CD678E"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_pro_w7800:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3454573C-16E4-474C-81F4-2F802C573CD7"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_pro_w7900:-:*:*:*:*:*:*:*",
+			"cpeNameId": "67991FB5-2CDF-4CCF-9D4B-C33C978A6899"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_rx_6450m:-:*:*:*:*:*:*:*",
+			"cpeNameId": "10AF8DBA-589B-49F8-B61B-E6B24392E333"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_rx_6550m:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A36A5451-316D-42F8-AF91-414B9798E30E"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_rx_6550s:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3694FA7C-2F6A-4FA9-A1F3-619A2670AFA8"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_rx_6750_gre_10gb:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BC9F30C6-7779-43A6-9B34-57304D3BB4D9"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_rx_6750_gre_12gb:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DEB4DADD-EEAA-41D1-A11A-E31AAC4905AB"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_rx_7600:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B2E96FA0-AD14-4246-A8CB-3DF31DB93A84"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_rx_7600m:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A14E63B8-D2AF-4463-886D-B7D5E33E4D95"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_rx_7600m_xt:-:*:*:*:*:*:*:*",
+			"cpeNameId": "95A251FC-2CC8-46DD-AD24-B04132436734"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_rx_7600s:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B012CA9C-D83F-437D-AAEC-A524596F65AE"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_rx_7700_xt:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CF78F34A-5405-412E-9E2C-CEB3DCB93809"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_rx_7700s:-:*:*:*:*:*:*:*",
+			"cpeNameId": "463A55ED-5852-4367-B527-BCAC9450FB63"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_rx_7800_xt:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2FE07819-03C6-4B4A-BC2E-406F43BBF3CA"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_rx_7900_gre:-:*:*:*:*:*:*:*",
+			"cpeNameId": "65E652CE-9877-4002-9AED-E6F7E9957847"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_rx_7900_xt:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BFA7B711-BFB8-408D-9C86-8A3D4C4948CA"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_rx_7900_xtx:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E635324E-1551-4477-8CF1-BC6A3CAFD81E"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_rx_7900m:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6DAF1A32-3543-44AF-A443-3B99273C58E8"
 		},
 		{
 			"cpeName": "cpe:2.3:h:amd:ryzen_3_3300:-:*:*:*:*:*:*:*",
@@ -265,6 +421,10 @@
 		{
 			"cpeName": "cpe:2.3:h:amd:ryzen_9_pro_7640hs:-:*:*:*:*:*:*:*",
 			"cpeNameId": "1BDBF311-DDD5-4401-AD22-811D3B76489F"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:ryzen_9_pro_7940hs:-:*:*:*:*:*:*:*",
+			"cpeNameId": "99C36781-DDB6-4D0E-8721-67BF6A5109B5"
 		},
 		{
 			"cpeName": "cpe:2.3:h:amd:ryzen_9_pro_7945:-:*:*:*:*:*:*:*",
