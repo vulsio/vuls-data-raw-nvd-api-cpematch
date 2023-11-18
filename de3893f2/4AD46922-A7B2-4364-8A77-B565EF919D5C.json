@@ -3,8 +3,8 @@
 	"matchCriteriaId": "4AD46922-A7B2-4364-8A77-B565EF919D5C",
 	"versionEndExcluding": "2.0.40",
 	"created": "2023-11-06T17:17:38.600",
-	"lastModified": "2023-11-06T17:17:38.600",
-	"cpeLastModified": "2023-11-06T17:17:38.600",
+	"lastModified": "2023-11-17T21:42:57.150",
+	"cpeLastModified": "2023-11-17T21:42:57.150",
 	"status": "Active",
 	"matches": [
 		{
@@ -90,6 +90,26 @@
 		{
 			"cpeName": "cpe:2.3:a:securepoint:openvpn-client:2.0.34:*:*:*:*:windows:*:*",
 			"cpeNameId": "B84E86AB-7D42-4D79-853B-23D2B7849936"
+		},
+		{
+			"cpeName": "cpe:2.3:a:securepoint:openvpn-client:2.0.35:*:*:*:*:windows:*:*",
+			"cpeNameId": "DE916736-ED09-4F16-930F-8E34A478AF38"
+		},
+		{
+			"cpeName": "cpe:2.3:a:securepoint:openvpn-client:2.0.36:*:*:*:*:windows:*:*",
+			"cpeNameId": "6E5E737A-0075-4A21-B953-5E8144B3E8CA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:securepoint:openvpn-client:2.0.37:*:*:*:*:windows:*:*",
+			"cpeNameId": "0E402FB0-D8D3-4EF9-BFCE-2C3B64775DF8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:securepoint:openvpn-client:2.0.38:*:*:*:*:windows:*:*",
+			"cpeNameId": "AD42AF0E-69C9-4C71-972E-36E55C1831DD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:securepoint:openvpn-client:2.0.39:*:*:*:*:windows:*:*",
+			"cpeNameId": "E7DA3E43-C54D-4B4F-A194-05053775703B"
 		}
 	]
 }

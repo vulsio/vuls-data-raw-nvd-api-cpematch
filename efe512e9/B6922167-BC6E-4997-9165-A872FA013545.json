@@ -4,9 +4,13 @@
 	"versionEndIncluding": "1.8.12",
 	"created": "2022-11-04T04:12:35.237",
 	"lastModified": "2022-11-04T04:12:35.237",
-	"cpeLastModified": "2022-11-04T04:12:35.237",
+	"cpeLastModified": "2023-11-17T15:28:23.127",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:coleds:simple_seo:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "71A6CB6F-63B4-426C-AF99-AA2836EC3FA1"
+		},
 		{
 			"cpeName": "cpe:2.3:a:coleds:simple_seo:1.1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "05E27674-4D73-4469-B29E-03338BF593E0"

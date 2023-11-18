@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:apple:macos:13.4:*:*:*:*:*:*:*",
 	"matchCriteriaId": "440DDB1E-BC6D-48A6-924D-E3534495BABA",
 	"created": "2023-06-28T17:40:21.003",
-	"lastModified": "2023-06-28T20:47:18.390",
-	"cpeLastModified": "2023-06-28T17:40:21.003",
-	"status": "Inactive"
+	"lastModified": "2023-11-17T19:07:10.587",
+	"cpeLastModified": "2023-11-17T19:07:10.587",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:apple:macos:13.4:*:*:*:*:*:*:*",
+			"cpeNameId": "CDB4FF3E-B1AD-4031-924A-04591E72E2A5"
+		}
+	]
 }

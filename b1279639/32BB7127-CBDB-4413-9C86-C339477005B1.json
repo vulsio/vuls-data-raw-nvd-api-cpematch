@@ -5,12 +5,16 @@
 	"versionEndExcluding": "6.5.9.1",
 	"created": "2023-07-06T12:00:08.070",
 	"lastModified": "2023-07-06T13:49:55.197",
-	"cpeLastModified": "2023-07-06T13:49:55.197",
+	"cpeLastModified": "2023-11-17T15:24:25.877",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:apereo:central_authentication_service:6.5.0:*:*:*:*:*:*:*",
 			"cpeNameId": "7F51D0AF-2505-414A-BEB3-B0B1E4EA1D4D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apereo:central_authentication_service:6.5.0:-:*:*:*:*:*:*",
+			"cpeNameId": "8DCB23FA-062C-4673-9F73-647E73F0C6E9"
 		},
 		{
 			"cpeName": "cpe:2.3:a:apereo:central_authentication_service:6.5.0:rc1:*:*:*:*:*:*",
@@ -23,6 +27,14 @@
 		{
 			"cpeName": "cpe:2.3:a:apereo:central_authentication_service:6.5.0:rc3:*:*:*:*:*:*",
 			"cpeNameId": "2FC8828A-0A23-4D73-9ECF-F37BFF82758F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apereo:central_authentication_service:6.5.0:rc4:*:*:*:*:*:*",
+			"cpeNameId": "F3011811-D6C6-4B31-85D9-CD1AF5EB49AC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apereo:central_authentication_service:6.5.0:rc5:*:*:*:*:*:*",
+			"cpeNameId": "33361330-72DB-4AAF-82D0-8C637327E86C"
 		},
 		{
 			"cpeName": "cpe:2.3:a:apereo:central_authentication_service:6.5.1:*:*:*:*:*:*:*",

@@ -1,0 +1,399 @@
+{
+	"criteria": "cpe:2.3:a:wpengine:wpgraphql:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "5106F09D-5508-4BFB-96BF-862829C95E67",
+	"versionEndIncluding": "1.14.5",
+	"created": "2023-11-17T18:39:55.837",
+	"lastModified": "2023-11-17T18:39:55.837",
+	"cpeLastModified": "2023-11-17T18:39:55.837",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7FA1B8F1-566D-4F9A-92F5-1DE2D8BA8C6C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A88F307D-2ADA-4F0C-A14F-7FB7D7EB7613"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.0.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EC5E793F-6BF6-43FE-9F0F-D7680144C86C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.0.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CF134BC5-B730-40C2-85E4-A466C2D111CB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.0.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2FF96A0B-06E2-4159-988E-38206A51B2C0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.0.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "ACF3A855-F1C0-4FDB-AE15-5EE07AF12A18"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "ECD17F27-B93B-4954-94E9-C3FD8C83ACFC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.1.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "21654460-1FB7-4CDB-BB35-6E13FB64A1E2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.1.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F785F7E6-2178-484F-8F46-74308D034265"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.1.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2F86D133-90E3-4775-B4A9-DD7399E67157"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.1.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B9D53762-6AF4-40DF-B4DB-0A03A1C33664"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.1.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5A966E17-5D8F-4194-9496-A5F16F585328"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.1.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C9221032-415B-4F78-B7C2-1EBBF8409411"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.1.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "60C71B96-66D4-49A9-8381-CC025E693421"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.1.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "353BB40F-767B-4804-BE16-F1AEB5F7297D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D727307C-2C97-4D27-882C-F788DFA02411"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C2FBD512-537F-4353-89D1-DBDB89B400D0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.2.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3B361BA0-FB57-4682-932B-BAE53A05BEE4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.2.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B0EAD2E7-E4D4-43F3-99DF-0BDCB1306632"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.2.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "03102B93-7DC5-4655-8E21-7FED9C31CE44"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.2.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A36F5ACA-E7D4-4CB7-8BC1-81F641E78FE6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.2.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5C533489-5979-4591-A28B-D98A0398DB30"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.3.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B3F7060E-53FF-4F0C-BD17-370D24A607A9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.3.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6E3574B5-7788-4929-BE86-310C1F698347"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.3.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E69D4651-30F6-44E1-A890-040EEB7E5344"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.3.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E63A5A31-409B-464F-862E-43BD462A4539"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.3.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1B4DED27-498A-43FF-BD07-8F45AAF7BABC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.3.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E97CB897-A2B8-411E-B30A-1FE95B862364"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.3.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "481F10ED-86E3-4E16-B063-4035088465C5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.3.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5070A339-F67E-491B-B908-9301718B289A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.3.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4AED3991-CDD9-49E1-A22A-86BC7AE6F94F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.3.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "35FE8832-8DD8-44A9-A6FA-D127ACAAC8ED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.3.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0F4789D7-E900-4CC6-B953-B1DACD8F3132"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.4.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CD318371-7C80-4646-9C8C-C049741AD86D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.4.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9F5EA1D1-3ECA-465B-A9DE-140025707D16"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.4.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0890953C-EB84-49AB-B7DA-BD3701AFF5B8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.4.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EAAF6EE3-97E6-4C38-AAEC-3711F7F06542"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.5.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3B69B090-5F11-468C-9B1A-1B0A150C01CE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.5.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F31737A9-9224-4844-BF24-3CCD45CA61C3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.5.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "16B67FC1-0BE6-42AD-865C-F4A68694A0BD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.5.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E7DDA9F9-2FA9-4035-9DAA-81D23F808384"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.5.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6D2F54F4-83D3-4DFE-B8BC-F52A9F202013"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.5.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "36B07908-06CB-4D5D-83FB-8CF720FBF865"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.5.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E058B89C-1451-44A3-A916-B4FA5D8F7450"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.5.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "597295C7-19E1-4F8D-B301-5CE4803AE763"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.5.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B2BBFC65-0784-4091-977B-33E3F72FA9B3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.6.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A633213C-4BF1-488A-807A-89EA78FE5D87"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.6.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0D1154BA-C6F7-4271-9C4E-20A2F6589320"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.6.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "29AFF2E9-025C-4F6A-B72B-09ECB7D40277"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.6.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8ECC5664-7A94-4C71-9F1F-2121F39E556C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.6.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "613DCF51-702E-41B2-8AB6-4C23DF00D96C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.6.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DDA4D900-EE5B-49DC-85FB-75919CF3DEA5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.6.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "82FDA2B0-599F-4426-B97C-43C18E689659"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.6.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "640F05E7-906E-44FE-841E-3707383AD9F5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.6.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8D108381-8B04-4B2C-8D4D-6E7E658D4751"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.6.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DA4A15F0-D6BC-47D9-8EA8-7A387EF97533"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.6.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A23D9B55-C05C-4970-A4F2-4F5285072AF0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.6.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1F854D7D-2F8E-4474-BC8D-93AD43C09A74"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.6.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5B965907-170C-47B6-861A-64E395AC5B70"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.7.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "74D5703C-AD5F-4679-9066-B4E948B86BBE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.7.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FE1FB015-84A5-48F4-808B-11112031A9D9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.7.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "30E252E0-7264-4E93-B251-43F921C4F615"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.8.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E5C9BB96-711F-4357-B8E8-E27FB57F9569"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.8.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "10856FC3-8350-4E84-9F42-F1ACD5A031E8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.8.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "18D2964B-21FB-48BB-B77B-47427BCA4513"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.8.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3B7B24AC-63BA-4128-ADF8-4E19F64B3E16"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.8.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C4F2C0F0-F773-4388-8E41-CC3AB467581F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.8.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EAC9F58D-6D0E-415F-A8F8-321A601CED1E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.8.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BDD50D52-BB92-4F4E-AE76-A36B11B78E9E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.8.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F8BA60C9-C14A-4679-B4D8-A65272E34A1D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.9.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "53B06A57-B32A-4350-85C1-7BB34103AD3A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.9.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4E12976F-8C8E-4FBC-8111-F3C73D765309"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.10.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E0270B78-6F9B-47DB-B2EC-792DE3725751"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.11.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "12F558F4-7AE6-4131-BEF2-EE2752C3F28F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.11.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "57584741-89F6-4D6B-AEC5-9CB953B24575"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.11.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "723B7EE5-EDAD-4914-A377-006FE82FE9D7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.11.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5F1B885B-3DC3-42DF-9993-88910EAC5741"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.12.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1FDA3100-9E21-4E62-966D-534F0AFEFC09"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.12.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3FAF1154-AFE6-40B1-AB37-F0EC86F943CC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.12.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A429FB8A-3888-4420-A5DD-183761F4C809"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.13.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "500D63D6-2B4C-497F-88A4-81706B46F5F3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.13.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FC4F9ADC-A1B9-4819-946E-D9771EFDF0FF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.13.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "52F07918-677D-474A-870E-9A74179FB3CD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.13.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9EE1BB76-77FE-4F43-A9A0-9ACEE286516D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.13.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "441DF178-6810-429E-AFDB-578C4793A156"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.13.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F5AD3A05-1B77-45BC-9B4C-19CF168EFCAA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.13.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C98C84A4-6BE6-4B2A-A200-D604DE7FC6A4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.13.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6C4BAF7A-D697-4571-BABC-C47F232B8E04"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.13.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5C358287-BF9A-47F0-B2CD-0A9944F0C3AF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.13.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8F130600-9568-42A1-8FE1-A19E5CA6305A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.13.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7CC56B91-221B-4C86-B277-DD8CB6F108AF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.14.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7D714A09-4C1F-4564-A970-A28DAE57E4BE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.14.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7E01F3A9-57C4-4FA8-B85D-EA03DC459601"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.14.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "058EBC03-CA1F-4C27-AA60-595403D361A3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.14.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A2B80B8D-6A12-498E-B9AE-C891D752CB1A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.14.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1A667CBA-05B6-4BC4-9949-E2164480E18F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpengine:wpgraphql:1.14.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "06C864CF-B9A4-4F50-B832-659915167280"
+		}
+	]
+}
