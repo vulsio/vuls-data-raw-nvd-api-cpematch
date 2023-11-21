@@ -1,0 +1,23 @@
+{
+	"criteria": "cpe:2.3:o:dell:precision_5820_tower_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "518F05EA-0660-4703-8301-E10343B6DE07",
+	"versionEndExcluding": "2.32.0",
+	"created": "2023-11-20T17:40:05.743",
+	"lastModified": "2023-11-20T17:40:05.743",
+	"cpeLastModified": "2023-11-20T17:40:05.743",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_5820_tower_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CCBAF764-E2E6-4339-8A2C-EB2ADE37224B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_5820_tower_firmware:2.24.0:*:*:*:*:*:*:*",
+			"cpeNameId": "CC6FEF36-C16B-48D5-92E4-0AC8A6A7C858"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_5820_tower_firmware:2.31.0:*:*:*:*:*:*:*",
+			"cpeNameId": "1BD1CC7A-7187-481B-894E-2F585DE54C89"
+		}
+	]
+}

@@ -4,6 +4,12 @@
 	"versionEndExcluding": "10.0.22621.2715",
 	"created": "2023-11-18T00:36:18.213",
 	"lastModified": "2023-11-18T00:36:18.213",
-	"cpeLastModified": "2023-11-18T00:36:18.213",
-	"status": "Active"
+	"cpeLastModified": "2023-11-20T19:51:41.900",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_11_23h2:-:*:*:*:*:*:arm64:*",
+			"cpeNameId": "B67A6D11-2989-48D0-956E-23CC8658DA2A"
+		}
+	]
 }

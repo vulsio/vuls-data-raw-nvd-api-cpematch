@@ -3,8 +3,8 @@
 	"matchCriteriaId": "92DD0993-7BE1-4BDF-AA45-6214F80F8476",
 	"versionEndExcluding": "6.4.3",
 	"created": "2022-08-04T16:24:30.887",
-	"lastModified": "2022-08-04T16:24:30.887",
-	"cpeLastModified": "2022-11-21T18:46:35.917",
+	"lastModified": "2023-11-20T14:10:47.160",
+	"cpeLastModified": "2023-11-20T14:10:47.160",
 	"status": "Active",
 	"matches": [
 		{
@@ -342,6 +342,50 @@
 		{
 			"cpeName": "cpe:2.3:a:yop-poll:yop_poll:6.3.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "1BEAD897-67B6-45FF-BA87-30E9C49A1E6F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:yop-poll:yop_poll:6.3.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CBFAC358-3BF6-45E9-9DF4-32201C1AE93E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:yop-poll:yop_poll:6.3.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4ACCC95B-6067-4B71-B468-DE2E84DA9FE6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:yop-poll:yop_poll:6.3.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E93BB4D9-0280-4DA4-8C51-BBCFD26F8141"
+		},
+		{
+			"cpeName": "cpe:2.3:a:yop-poll:yop_poll:6.3.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BD7F477B-1B4E-42D0-85F6-F7A108CCE978"
+		},
+		{
+			"cpeName": "cpe:2.3:a:yop-poll:yop_poll:6.3.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "79DE761F-5041-4DF6-A7E6-EA10C154FFC1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:yop-poll:yop_poll:6.3.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2B14E01D-8D82-4A16-AC71-EDAD19D42A6D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:yop-poll:yop_poll:6.3.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3590323D-6182-4ED4-9237-DE05EC8FCC53"
+		},
+		{
+			"cpeName": "cpe:2.3:a:yop-poll:yop_poll:6.3.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2816820B-F7AC-4921-AB1D-FCE166BB0539"
+		},
+		{
+			"cpeName": "cpe:2.3:a:yop-poll:yop_poll:6.4.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "90658245-1E27-43D1-9ED5-A018A65E1C41"
+		},
+		{
+			"cpeName": "cpe:2.3:a:yop-poll:yop_poll:6.4.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7F7CD439-84A5-4549-AE7C-8C8834A303BA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:yop-poll:yop_poll:6.4.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "184F3F02-B48C-4EBC-A0AF-330F5A1ECEC8"
 		}
 	]
 }
