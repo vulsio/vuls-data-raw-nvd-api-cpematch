@@ -1,0 +1,60 @@
+{
+	"criteria": "cpe:2.3:o:mikrotik:routeros:*:*:*:*:-:*:*:*",
+	"matchCriteriaId": "3E9E61C3-F25A-43A2-AA35-A495453C2670",
+	"versionStartIncluding": "7.1",
+	"versionEndExcluding": "7.12",
+	"created": "2023-11-21T11:54:16.930",
+	"lastModified": "2023-11-21T11:54:16.930",
+	"cpeLastModified": "2023-11-21T12:00:56.243",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:mikrotik:routeros:7.4:-:*:*:-:*:*:*",
+			"cpeNameId": "678C175A-F061-4FBA-A19D-E8FB347B000C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:mikrotik:routeros:7.4:beta4:*:*:-:*:*:*",
+			"cpeNameId": "6F066D09-4C70-430F-9859-95FC1E2EA9DC"
+		},
+		{
+			"cpeName": "cpe:2.3:o:mikrotik:routeros:7.4:beta5:*:*:-:*:*:*",
+			"cpeNameId": "E245D948-20EB-4408-80E5-CE5B8E4594F5"
+		},
+		{
+			"cpeName": "cpe:2.3:o:mikrotik:routeros:7.4:rc1:*:*:-:*:*:*",
+			"cpeNameId": "75A688E2-AB43-4583-AAE4-F739B484F026"
+		},
+		{
+			"cpeName": "cpe:2.3:o:mikrotik:routeros:7.4:rc2:*:*:-:*:*:*",
+			"cpeNameId": "3C8C4F5F-7FA5-4794-9B7F-B0E7AEE45D7A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:mikrotik:routeros:7.4.1:*:*:*:-:*:*:*",
+			"cpeNameId": "8CFEFEF3-930B-4D05-97C2-E9B6DFE40D1B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:mikrotik:routeros:7.5:beta11:*:*:-:*:*:*",
+			"cpeNameId": "5BE75E15-80B8-4D20-AA6F-4CA47211D786"
+		},
+		{
+			"cpeName": "cpe:2.3:o:mikrotik:routeros:7.5:beta4:*:*:-:*:*:*",
+			"cpeNameId": "AC71899D-1982-4333-A9E4-F27E47F85BEC"
+		},
+		{
+			"cpeName": "cpe:2.3:o:mikrotik:routeros:7.5:beta5:*:*:-:*:*:*",
+			"cpeNameId": "5749C3F5-B19F-4923-839E-BA71E4A2A42E"
+		},
+		{
+			"cpeName": "cpe:2.3:o:mikrotik:routeros:7.5:beta8:*:*:-:*:*:*",
+			"cpeNameId": "7B7FEE3D-C24C-4404-82E1-29C1AAE5BA0F"
+		},
+		{
+			"cpeName": "cpe:2.3:o:mikrotik:routeros:7.5:rc1:*:*:-:*:*:*",
+			"cpeNameId": "F427E4B2-618F-4EEB-AC75-B8D37755644D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:mikrotik:routeros:7.5:rc2:*:*:-:*:*:*",
+			"cpeNameId": "B3FCD5B5-02AA-49D9-97F6-9B6B53E4C131"
+		}
+	]
+}
