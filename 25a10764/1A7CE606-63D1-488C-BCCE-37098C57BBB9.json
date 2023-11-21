@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:o:amd:epyc_9734_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1A7CE606-63D1-488C-BCCE-37098C57BBB9",
+	"versionEndExcluding": "genoapi_1.0.0.1",
+	"created": "2023-11-21T15:48:45.313",
+	"lastModified": "2023-11-21T15:48:45.313",
+	"cpeLastModified": "2023-11-21T15:48:45.313",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:epyc_9734_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DE5DE866-9D8F-4E4B-B5F0-32A0EC8E426D"
+		}
+	]
+}

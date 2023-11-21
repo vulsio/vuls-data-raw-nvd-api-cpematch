@@ -4,7 +4,7 @@
 	"versionEndExcluding": "7.2.0",
 	"created": "2022-09-08T18:32:25.663",
 	"lastModified": "2022-11-03T16:03:41.803",
-	"cpeLastModified": "2022-11-03T16:03:41.803",
+	"cpeLastModified": "2023-11-21T15:35:25.033",
 	"status": "Active",
 	"matches": [
 		{
@@ -392,6 +392,10 @@
 			"cpeNameId": "6B52942B-01CD-41A2-8B62-F2041E807688"
 		},
 		{
+			"cpeName": "cpe:2.3:a:fortinet:fortimail:6.4.8:*:*:*:*:*:*:*",
+			"cpeNameId": "33ED8B90-A963-46D0-A804-A23452B07D00"
+		},
+		{
 			"cpeName": "cpe:2.3:a:fortinet:fortimail:7.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "32860792-5201-45B1-A522-748444FBCC07"
 		},
@@ -406,6 +410,14 @@
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortimail:7.0.3:*:*:*:*:*:*:*",
 			"cpeNameId": "6EAC96B9-EC53-4552-9F08-5E40EDB6FF6D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortimail:7.0.4:*:*:*:*:*:*:*",
+			"cpeNameId": "30187F1A-5369-42ED-A3AB-F2A1654641B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortimail:7.0.5:*:*:*:*:*:*:*",
+			"cpeNameId": "04E665EE-BBCA-4F26-9949-87DCD76A98EA"
 		}
 	]
 }

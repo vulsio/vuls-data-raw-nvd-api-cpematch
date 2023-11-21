@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2.4.6",
 	"created": "2022-08-19T14:28:00.500",
 	"lastModified": "2022-08-19T14:28:00.500",
-	"cpeLastModified": "2023-02-16T17:52:40.250",
+	"cpeLastModified": "2023-11-21T17:51:07.687",
 	"status": "Active",
 	"matches": [
 		{
@@ -218,6 +218,34 @@
 		{
 			"cpeName": "cpe:2.3:a:hyperledger:fabric:2.2.7:*:*:*:*:*:*:*",
 			"cpeNameId": "AD438D38-2D78-415D-B1F2-5A411F63E91C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hyperledger:fabric:2.2.8:*:*:*:*:*:*:*",
+			"cpeNameId": "513C5782-946C-4DCF-B82D-173F03F057D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hyperledger:fabric:2.2.9:*:*:*:*:*:*:*",
+			"cpeNameId": "79AECC54-69DC-419D-B9DA-D74422EAD657"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hyperledger:fabric:2.2.10:*:*:*:*:*:*:*",
+			"cpeNameId": "27F661D0-DD30-4D31-809E-54D90EB4DE73"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hyperledger:fabric:2.2.11:*:*:*:*:*:*:*",
+			"cpeNameId": "66C6EA53-FDB2-4C19-A900-230F942413A6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hyperledger:fabric:2.2.12:*:*:*:*:*:*:*",
+			"cpeNameId": "3DD4AD63-0859-49DA-AD0F-82B8CD03FAEC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hyperledger:fabric:2.2.13:*:*:*:*:*:*:*",
+			"cpeNameId": "8E5DDCB5-2741-4070-AD46-1E39B4EB6364"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hyperledger:fabric:2.2.14:*:*:*:*:*:*:*",
+			"cpeNameId": "3EE7C423-DE5D-4722-AA46-2DFD6A04EDC5"
 		},
 		{
 			"cpeName": "cpe:2.3:a:hyperledger:fabric:2.3:*:*:*:*:*:*:*",

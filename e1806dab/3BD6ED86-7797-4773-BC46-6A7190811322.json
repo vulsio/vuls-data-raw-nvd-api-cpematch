@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2022-02-25",
 	"created": "2022-04-29T14:01:28.563",
 	"lastModified": "2022-04-29T14:01:28.563",
-	"cpeLastModified": "2023-09-29T18:25:25.483",
+	"cpeLastModified": "2023-11-21T15:35:25.033",
 	"status": "Active",
 	"matches": [
 		{
@@ -54,6 +54,10 @@
 		{
 			"cpeName": "cpe:2.3:a:lenovo:system_update:5.08.01.0005:*:*:*:*:*:*:*",
 			"cpeNameId": "4D53F737-78B4-4849-BB2B-F10DCC87F0F6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:lenovo:system_update:5.08.02.25:*:*:*:*:*:*:*",
+			"cpeNameId": "EAD2C820-6283-4ECE-B1AE-E3FD0E63DDF4"
 		}
 	]
 }
