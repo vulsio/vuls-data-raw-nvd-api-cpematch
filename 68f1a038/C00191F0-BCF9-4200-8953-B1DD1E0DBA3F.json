@@ -3,8 +3,8 @@
 	"matchCriteriaId": "C00191F0-BCF9-4200-8953-B1DD1E0DBA3F",
 	"versionEndExcluding": "5.16.0",
 	"created": "2023-11-20T19:58:40.330",
-	"lastModified": "2023-11-20T19:58:40.330",
-	"cpeLastModified": "2023-11-20T19:58:40.330",
+	"lastModified": "2023-11-21T20:14:55.480",
+	"cpeLastModified": "2023-11-21T20:14:55.480",
 	"status": "Active",
 	"matches": [
 		{
@@ -218,6 +218,10 @@
 		{
 			"cpeName": "cpe:2.3:a:zoom:meetings:5.15.0:*:*:*:*:macos:*:*",
 			"cpeNameId": "4EA520FD-3A75-41D7-9AD9-3EB19D2BFE34"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zoom:meetings:5.15.10:*:*:*:*:macos:*:*",
+			"cpeNameId": "C85B011F-D369-464A-A48C-DF510F83427E"
 		}
 	]
 }

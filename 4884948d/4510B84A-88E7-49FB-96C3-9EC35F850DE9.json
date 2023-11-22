@@ -1,0 +1,20 @@
+{
+	"criteria": "cpe:2.3:a:pivotal:reactor_netty:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4510B84A-88E7-49FB-96C3-9EC35F850DE9",
+	"versionStartIncluding": "1.0.0",
+	"versionEndExcluding": "1.0.39",
+	"created": "2023-11-21T20:11:38.613",
+	"lastModified": "2023-11-21T20:11:38.613",
+	"cpeLastModified": "2023-11-21T20:11:38.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:pivotal:reactor_netty:1.0.11:*:*:*:*:*:*:*",
+			"cpeNameId": "9CDE9B82-C15A-4D81-9454-F5980FDC1357"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:reactor_netty:1.0.23:*:*:*:*:*:*:*",
+			"cpeNameId": "F7CC0F45-FDCA-46CE-946D-4BEEACB9F886"
+		}
+	]
+}

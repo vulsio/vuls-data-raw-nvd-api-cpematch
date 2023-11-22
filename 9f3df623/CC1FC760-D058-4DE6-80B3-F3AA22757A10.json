@@ -3,12 +3,16 @@
 	"matchCriteriaId": "CC1FC760-D058-4DE6-80B3-F3AA22757A10",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-10-23T19:50:15.680",
+	"cpeLastModified": "2023-11-21T19:43:01.930",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:ibm:db2:8.0:*:*:*:*:*:*:*",
 			"cpeNameId": "A8E5D77E-7887-499E-97D4-9BF15CFDFD3D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:db2:8.0:-:*:*:*:*:*:*",
+			"cpeNameId": "BEFEF243-0BCD-4C17-B657-F95167E10641"
 		},
 		{
 			"cpeName": "cpe:2.3:a:ibm:db2:8.0:fixpak1:*:*:*:*:*:*",
