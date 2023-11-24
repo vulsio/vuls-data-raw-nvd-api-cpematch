@@ -4,12 +4,16 @@
 	"versionEndExcluding": "comboam5_1.0.8.0",
 	"created": "2023-08-21T14:09:06.113",
 	"lastModified": "2023-08-21T18:35:07.823",
-	"cpeLastModified": "2023-08-21T18:35:07.823",
+	"cpeLastModified": "2023-11-24T13:47:15.597",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:o:amd:ryzen_9_7900x3d_firmware:-:*:*:*:*:*:*:*",
 			"cpeNameId": "D933C938-0AD8-4779-A996-7E706E397D5E"
+		},
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_9_7900x3d_firmware:comboam5_1.0.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "C3BC944C-42D1-4F10-9984-F054E809CBEA"
 		},
 		{
 			"cpeName": "cpe:2.3:o:amd:ryzen_9_7900x3d_firmware:comboam5_1.0.0.6:*:*:*:*:*:*:*",

@@ -4,7 +4,7 @@
 	"versionEndExcluding": "8.7.49",
 	"created": "2022-12-16T14:54:55.023",
 	"lastModified": "2022-12-21T20:43:41.527",
-	"cpeLastModified": "2023-08-14T18:26:09.300",
+	"cpeLastModified": "2023-11-24T17:19:19.177",
 	"status": "Active",
 	"matches": [
 		{
@@ -1446,6 +1446,10 @@
 		{
 			"cpeName": "cpe:2.3:a:typo3:typo3:8.7.40:*:*:*:*:*:*:*",
 			"cpeNameId": "79CE468E-7A72-49FF-B1A3-306A816FAAA2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:typo3:typo3:8.7.42:*:*:*:elts:*:*:*",
+			"cpeNameId": "AF1D022C-4D57-4524-AB50-EA71B4DAA4A7"
 		},
 		{
 			"cpeName": "cpe:2.3:a:typo3:typo3:8.7.46:*:*:*:*:*:*:*",

@@ -5,6 +5,16 @@
 	"versionEndIncluding": "2.4.53",
 	"created": "2023-11-21T12:49:12.830",
 	"lastModified": "2023-11-21T12:49:12.830",
-	"cpeLastModified": "2023-11-21T12:49:12.830",
-	"status": "Active"
+	"cpeLastModified": "2023-11-22T14:07:15.350",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:activedesign:newsletterpop:2.3.1:*:*:*:*:prestashop:*:*",
+			"cpeNameId": "08D2D848-5C8F-4F33-97ED-DFEFA16ED8C6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:activedesign:newsletterpop:2.4.53:*:*:*:*:prestashop:*:*",
+			"cpeNameId": "4B504D6E-3E82-4395-877D-7A7A7F8B0B8C"
+		}
+	]
 }

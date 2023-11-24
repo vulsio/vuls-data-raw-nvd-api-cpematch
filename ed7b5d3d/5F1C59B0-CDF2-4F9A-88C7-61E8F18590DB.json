@@ -3,7 +3,7 @@
 	"matchCriteriaId": "5F1C59B0-CDF2-4F9A-88C7-61E8F18590DB",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-11-20T16:30:38.950",
+	"cpeLastModified": "2023-11-24T17:19:19.177",
 	"status": "Active",
 	"matches": [
 		{
@@ -1447,6 +1447,10 @@
 			"cpeNameId": "79CE468E-7A72-49FF-B1A3-306A816FAAA2"
 		},
 		{
+			"cpeName": "cpe:2.3:a:typo3:typo3:8.7.42:*:*:*:elts:*:*:*",
+			"cpeNameId": "AF1D022C-4D57-4524-AB50-EA71B4DAA4A7"
+		},
+		{
 			"cpeName": "cpe:2.3:a:typo3:typo3:8.7.46:*:*:*:*:*:*:*",
 			"cpeNameId": "FCE72646-869B-490B-80D9-C3832548ED58"
 		},
@@ -1469,6 +1473,14 @@
 		{
 			"cpeName": "cpe:2.3:a:typo3:typo3:8.7.49:*:*:*:*:*:*:*",
 			"cpeNameId": "8A51C134-4E2F-43B3-857F-0E88181F6E29"
+		},
+		{
+			"cpeName": "cpe:2.3:a:typo3:typo3:8.7.54:*:*:*:elts:*:*:*",
+			"cpeNameId": "B0BCDBE7-6FCD-43B4-BD46-A7F3D954E653"
+		},
+		{
+			"cpeName": "cpe:2.3:a:typo3:typo3:8.7.55:*:*:*:elts:*:*:*",
+			"cpeNameId": "6B05BBA1-7614-4D74-B31D-7BA4CAD8364D"
 		},
 		{
 			"cpeName": "cpe:2.3:a:typo3:typo3:9.0.0:*:*:*:*:*:*:*",
@@ -1647,6 +1659,10 @@
 			"cpeNameId": "D3C987ED-7367-4098-B75C-2C017669676F"
 		},
 		{
+			"cpeName": "cpe:2.3:a:typo3:typo3:9.5.29:*:*:*:elts:*:*:*",
+			"cpeNameId": "2719B7DE-04A0-4081-86C2-8A8831C62264"
+		},
+		{
 			"cpeName": "cpe:2.3:a:typo3:typo3:9.5.30:*:*:*:*:*:*:*",
 			"cpeNameId": "F5AE7E80-0F08-4AD2-BABF-B0AD522115E3"
 		},
@@ -1687,8 +1703,20 @@
 			"cpeNameId": "2A91A16F-C567-4D32-B2E1-9CC60DC1A9E1"
 		},
 		{
+			"cpeName": "cpe:2.3:a:typo3:typo3:9.5.43:*:*:*:elts:*:*:*",
+			"cpeNameId": "288E9E36-9AFF-4A27-BF13-EB80CA7356B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:typo3:typo3:9.5.44:*:*:*:elts:*:*:*",
+			"cpeNameId": "D7459D01-8A76-49C4-B70B-E529319FDAE1"
+		},
+		{
 			"cpeName": "cpe:2.3:a:typo3:typo3:10.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "32DE5028-93D3-4184-9173-AF15EC15CF30"
+		},
+		{
+			"cpeName": "cpe:2.3:a:typo3:typo3:10.0.0:*:*:*:elts:*:*:*",
+			"cpeNameId": "4543B422-7D09-463E-BF31-2AB1A239E144"
 		},
 		{
 			"cpeName": "cpe:2.3:a:typo3:typo3:10.0.9:*:*:*:*:*:*:*",
@@ -1799,6 +1827,10 @@
 			"cpeNameId": "7CC62E46-F2D5-44DE-8791-05847A00FDF9"
 		},
 		{
+			"cpeName": "cpe:2.3:a:typo3:typo3:10.4.19:*:*:*:elts:*:*:*",
+			"cpeNameId": "EDB6F61A-756A-48DD-BA2A-5D1A1069FEAD"
+		},
+		{
 			"cpeName": "cpe:2.3:a:typo3:typo3:10.4.20:*:*:*:*:*:*:*",
 			"cpeNameId": "125C3E91-5345-4791-836E-2E59F95D440B"
 		},
@@ -1875,6 +1907,14 @@
 			"cpeNameId": "8ACDA61F-14C3-436D-A392-219002E4CABD"
 		},
 		{
+			"cpeName": "cpe:2.3:a:typo3:typo3:10.4.40:*:*:*:elts:*:*:*",
+			"cpeNameId": "F02FA2D6-AF7A-460B-861A-7091C3C0FFFC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:typo3:typo3:10.4.41:*:*:*:elts:*:*:*",
+			"cpeNameId": "1AD1D2B8-4A78-487A-A528-0534DBC8B1E4"
+		},
+		{
 			"cpeName": "cpe:2.3:a:typo3:typo3:11.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "7DAFC37A-515D-4E95-B44F-EC7CCC41D443"
 		},
@@ -1909,6 +1949,10 @@
 		{
 			"cpeName": "cpe:2.3:a:typo3:typo3:11.3.2:*:*:*:*:*:*:*",
 			"cpeNameId": "AAF65E39-5EA5-4E30-853E-3CAF48A011E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:typo3:typo3:11.3.2:*:*:*:-:*:*:*",
+			"cpeNameId": "45BC3AD4-B522-4FFE-B8F8-266F3DA6641F"
 		},
 		{
 			"cpeName": "cpe:2.3:a:typo3:typo3:11.3.3:*:*:*:*:*:*:*",
@@ -2043,6 +2087,14 @@
 			"cpeNameId": "5DD87C35-E5D3-4C70-989A-47E40AAB4941"
 		},
 		{
+			"cpeName": "cpe:2.3:a:typo3:typo3:11.5.32:*:*:*:*:*:*:*",
+			"cpeNameId": "E9C020E5-F7CF-490D-B1E1-78468694D882"
+		},
+		{
+			"cpeName": "cpe:2.3:a:typo3:typo3:11.5.33:*:*:*:*:*:*:*",
+			"cpeNameId": "5927F67C-526D-4EAF-B3CA-30407999C72A"
+		},
+		{
 			"cpeName": "cpe:2.3:a:typo3:typo3:12.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "172092B0-A0F7-4849-A5F1-4A0D4AB442FB"
 		},
@@ -2093,6 +2145,14 @@
 		{
 			"cpeName": "cpe:2.3:a:typo3:typo3:12.4.5:*:*:*:*:*:*:*",
 			"cpeNameId": "0D52C7BD-DB05-47D4-A130-DBD7BEC7F6B9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:typo3:typo3:12.4.7:*:*:*:*:*:*:*",
+			"cpeNameId": "5AE9C909-6864-4EF8-BB57-5D89D2EFE362"
+		},
+		{
+			"cpeName": "cpe:2.3:a:typo3:typo3:12.4.8:*:*:*:*:*:*:*",
+			"cpeNameId": "B05955CC-0888-4C0F-B182-A1FC7D5C43CA"
 		}
 	]
 }

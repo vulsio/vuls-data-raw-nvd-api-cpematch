@@ -4,7 +4,7 @@
 	"versionEndExcluding": "milanpi_1.0.0.c",
 	"created": "2023-08-21T14:23:42.527",
 	"lastModified": "2023-08-21T18:35:07.823",
-	"cpeLastModified": "2023-09-22T19:58:27.180",
+	"cpeLastModified": "2023-11-24T16:34:56.640",
 	"status": "Active",
 	"matches": [
 		{
@@ -40,6 +40,10 @@
 			"cpeNameId": "0F1A7A4A-39A0-4020-8C02-E3B930B9F3E5"
 		},
 		{
+			"cpeName": "cpe:2.3:o:amd:epyc_7713_firmware:milanpi_1.0.0.7:*:*:*:*:*:*:*",
+			"cpeNameId": "58287045-E9F5-474D-99A2-6BC5DE570EBD"
+		},
+		{
 			"cpeName": "cpe:2.3:o:amd:epyc_7713_firmware:milanpi_1.0.0.8:*:*:*:*:*:*:*",
 			"cpeNameId": "08E89D59-15D9-4B7D-8A32-1459F77226FC"
 		},
@@ -50,6 +54,10 @@
 		{
 			"cpeName": "cpe:2.3:o:amd:epyc_7713_firmware:milanpi_1.0.0.a:*:*:*:*:*:*:*",
 			"cpeNameId": "D66D8DE8-FFAE-464D-8A29-992680804A23"
+		},
+		{
+			"cpeName": "cpe:2.3:o:amd:epyc_7713_firmware:milanpi_1.0.0.b:*:*:*:*:*:*:*",
+			"cpeNameId": "A475F56B-2974-40A7-8398-FCA2D6178D38"
 		}
 	]
 }

@@ -3,7 +3,7 @@
 	"matchCriteriaId": "89CBE93C-BB36-4F26-9F73-554C9BB8E131",
 	"created": "2022-06-24T13:53:07.433",
 	"lastModified": "2022-06-28T15:03:59.020",
-	"cpeLastModified": "2023-11-21T15:35:25.033",
+	"cpeLastModified": "2023-11-22T20:56:41.073",
 	"status": "Active",
 	"matches": [
 		{
@@ -1789,6 +1789,22 @@
 		{
 			"cpeName": "cpe:2.3:h:intel:nuc_8_rugged_kit_nuc8cchkrn:-:*:*:*:*:*:*:*",
 			"cpeNameId": "9CEF95DA-5574-4233-89E1-E4835473F97D"
+		},
+		{
+			"cpeName": "cpe:2.3:h:intel:nuc_9_extreme_laptop_kit_lapqc71a:-:*:*:*:*:*:*:*",
+			"cpeNameId": "527BF76E-70DE-4223-8E00-87DCD60F23C5"
+		},
+		{
+			"cpeName": "cpe:2.3:h:intel:nuc_9_extreme_laptop_kit_lapqc71b:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E0CA495B-2BB1-457F-8156-44FCBAA6FB00"
+		},
+		{
+			"cpeName": "cpe:2.3:h:intel:nuc_9_extreme_laptop_kit_lapqc71c:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C9A684A3-294B-4566-9F9F-0DFDE154E458"
+		},
+		{
+			"cpeName": "cpe:2.3:h:intel:nuc_9_extreme_laptop_kit_lapqc71d:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4DD6E717-44AE-4D8E-8BEC-C3CE19168855"
 		},
 		{
 			"cpeName": "cpe:2.3:h:intel:nuc_9_pro_compute_element_nuc9v7qnx:-:*:*:*:*:*:*:*",

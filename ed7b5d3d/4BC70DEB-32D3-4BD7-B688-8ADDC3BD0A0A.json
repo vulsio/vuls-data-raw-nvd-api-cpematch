@@ -5,12 +5,16 @@
 	"versionEndIncluding": "10.4.17",
 	"created": "2021-07-26T19:00:37.100",
 	"lastModified": "2021-07-26T19:00:37.100",
-	"cpeLastModified": "2023-08-14T18:26:09.300",
+	"cpeLastModified": "2023-11-24T17:19:19.177",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:typo3:typo3:10.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "32DE5028-93D3-4184-9173-AF15EC15CF30"
+		},
+		{
+			"cpeName": "cpe:2.3:a:typo3:typo3:10.0.0:*:*:*:elts:*:*:*",
+			"cpeNameId": "4543B422-7D09-463E-BF31-2AB1A239E144"
 		},
 		{
 			"cpeName": "cpe:2.3:a:typo3:typo3:10.0.9:*:*:*:*:*:*:*",

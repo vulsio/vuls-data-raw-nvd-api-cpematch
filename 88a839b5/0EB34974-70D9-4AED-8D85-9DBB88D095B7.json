@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:o:amd:ryzen_5_6600hs_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0EB34974-70D9-4AED-8D85-9DBB88D095B7",
+	"versionEndExcluding": "rembrandtpi-fp7_1.0.0.5",
+	"created": "2023-11-22T15:04:16.017",
+	"lastModified": "2023-11-24T13:47:15.597",
+	"cpeLastModified": "2023-11-22T15:04:16.017",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_5_6600hs_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8FC78024-0D7B-47F2-AD83-96973D0D21AE"
+		}
+	]
+}

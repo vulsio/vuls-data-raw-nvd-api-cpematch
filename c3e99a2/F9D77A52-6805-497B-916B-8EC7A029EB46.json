@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:o:siemens:scalance_xc208g_eec_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F9D77A52-6805-497B-916B-8EC7A029EB46",
+	"versionEndExcluding": "4.5",
+	"created": "2023-11-22T19:35:41.680",
+	"lastModified": "2023-11-22T19:35:41.680",
+	"cpeLastModified": "2023-11-22T19:35:41.680",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:scalance_xc208g_eec_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BCAC6994-5F00-462B-8D04-C063373A4B9A"
+		}
+	]
+}

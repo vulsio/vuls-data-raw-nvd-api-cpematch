@@ -4,7 +4,7 @@
 	"versionEndExcluding": "cezannepi-fp6_1.0.0.fa",
 	"created": "2023-08-21T14:09:06.113",
 	"lastModified": "2023-08-21T18:35:07.823",
-	"cpeLastModified": "2023-08-21T18:35:07.823",
+	"cpeLastModified": "2023-11-24T13:47:15.597",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:amd:ryzen_9_5900hx_firmware:cezannepi-fp6_1.0.0.9:*:*:*:*:*:*:*",
 			"cpeNameId": "B1DD3DC0-D48D-4FAF-B794-EA9A46D1F210"
+		},
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_9_5900hx_firmware:cezannepi-fp6_1.0.0.c:*:*:*:*:*:*:*",
+			"cpeNameId": "2B236A55-9B7C-4F7F-B273-93E70598536E"
 		},
 		{
 			"cpeName": "cpe:2.3:o:amd:ryzen_9_5900hx_firmware:cezannepi-fp6_1.0.0.e:*:*:*:*:*:*:*",

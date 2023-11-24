@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:o:amd:ryzen_7_5800x_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C74A112C-799B-4473-A704-50D75A050B77",
+	"versionEndExcluding": "comboam4v2_pi_1.2.0.9",
+	"created": "2023-11-24T15:16:31.820",
+	"lastModified": "2023-11-24T15:16:31.820",
+	"cpeLastModified": "2023-11-24T15:16:31.820",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_7_5800x_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1BD5F9FC-7178-47B9-BDA5-0573D883574B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_7_5800x_firmware:comboam4_v2_pi_1.2.0.a:*:*:*:*:*:*:*",
+			"cpeNameId": "D1806935-09F9-402E-AF04-A7CDD024B64D"
+		}
+	]
+}

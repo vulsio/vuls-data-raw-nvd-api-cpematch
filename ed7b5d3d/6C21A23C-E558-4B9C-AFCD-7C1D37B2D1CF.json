@@ -4,8 +4,8 @@
 	"versionStartIncluding": "11.0.0",
 	"versionEndExcluding": "11.5.33",
 	"created": "2023-11-20T19:08:11.397",
-	"lastModified": "2023-11-20T19:08:11.397",
-	"cpeLastModified": "2023-11-20T19:08:11.397",
+	"lastModified": "2023-11-24T17:19:19.177",
+	"cpeLastModified": "2023-11-24T17:19:19.177",
 	"status": "Active",
 	"matches": [
 		{
@@ -43,6 +43,10 @@
 		{
 			"cpeName": "cpe:2.3:a:typo3:typo3:11.3.2:*:*:*:*:*:*:*",
 			"cpeNameId": "AAF65E39-5EA5-4E30-853E-3CAF48A011E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:typo3:typo3:11.3.2:*:*:*:-:*:*:*",
+			"cpeNameId": "45BC3AD4-B522-4FFE-B8F8-266F3DA6641F"
 		},
 		{
 			"cpeName": "cpe:2.3:a:typo3:typo3:11.3.3:*:*:*:*:*:*:*",
@@ -175,6 +179,10 @@
 		{
 			"cpeName": "cpe:2.3:a:typo3:typo3:11.5.30:*:*:*:*:*:*:*",
 			"cpeNameId": "5DD87C35-E5D3-4C70-989A-47E40AAB4941"
+		},
+		{
+			"cpeName": "cpe:2.3:a:typo3:typo3:11.5.32:*:*:*:*:*:*:*",
+			"cpeNameId": "E9C020E5-F7CF-490D-B1E1-78468694D882"
 		}
 	]
 }

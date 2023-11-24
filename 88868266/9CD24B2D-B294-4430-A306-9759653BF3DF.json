@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:o:amd:ryzen_9_5900_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9CD24B2D-B294-4430-A306-9759653BF3DF",
+	"versionEndExcluding": "comboam4v2_pi_1.2.0.9",
+	"created": "2023-11-24T15:16:31.820",
+	"lastModified": "2023-11-24T15:16:31.820",
+	"cpeLastModified": "2023-11-24T15:16:31.820",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_9_5900_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0368981C-ACA4-4364-AAEC-20E1129AA105"
+		},
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_9_5900_firmware:comboam4_v2_pi_1.2.0.a:*:*:*:*:*:*:*",
+			"cpeNameId": "1E921D67-7C39-44A4-BBBC-1A25D565B975"
+		}
+	]
+}

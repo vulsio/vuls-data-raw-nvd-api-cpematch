@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:o:amd:ryzen_7_5800h_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DC91C0DC-2664-4B58-AA54-0434288D7560",
+	"versionEndExcluding": "cezannepi-fp6_1.0.0.c",
+	"created": "2023-11-22T15:00:39.023",
+	"lastModified": "2023-11-24T13:47:15.597",
+	"cpeLastModified": "2023-11-22T15:00:39.023",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_7_5800h_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "852E22F9-904F-4966-91B6-3EF1681A13C4"
+		},
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_7_5800h_firmware:cezannepi-fp6_1.0.0.9:*:*:*:*:*:*:*",
+			"cpeNameId": "8819A862-0FBD-4854-852A-9CEEFEB4D04E"
+		}
+	]
+}

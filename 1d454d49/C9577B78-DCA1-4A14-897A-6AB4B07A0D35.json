@@ -4,7 +4,7 @@
 	"versionEndExcluding": "9.0.2068",
 	"created": "2023-11-03T20:18:21.063",
 	"lastModified": "2023-11-03T20:18:21.063",
-	"cpeLastModified": "2023-11-03T20:18:21.063",
+	"cpeLastModified": "2023-11-22T15:13:10.160",
 	"status": "Active",
 	"matches": [
 		{
@@ -50502,6 +50502,298 @@
 		{
 			"cpeName": "cpe:2.3:a:vim:vim:9.0.1994:*:*:*:*:*:*:*",
 			"cpeNameId": "1AD12A0A-A80F-4ECF-B688-03268A9319A5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.1995:*:*:*:*:*:*:*",
+			"cpeNameId": "72CD537A-EBE3-4E18-B4E3-D53E1FC0CE8F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.1996:*:*:*:*:*:*:*",
+			"cpeNameId": "19912081-126D-41CD-A78F-5ECEDF6EEBE6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.1997:*:*:*:*:*:*:*",
+			"cpeNameId": "EE3F96ED-21A5-40B7-B005-59C0C1938207"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.1998:*:*:*:*:*:*:*",
+			"cpeNameId": "60BA8590-837F-46B8-997D-C72B3FE5FDEA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.1999:*:*:*:*:*:*:*",
+			"cpeNameId": "E71C8CC8-494B-4A1C-8885-ACE58EB0804D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2000:*:*:*:*:*:*:*",
+			"cpeNameId": "63502D82-931D-4FC0-A544-C331D9EF8FD9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2001:*:*:*:*:*:*:*",
+			"cpeNameId": "C4AE5E48-2895-4E98-A44D-0EDF481D8052"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2002:*:*:*:*:*:*:*",
+			"cpeNameId": "140834C9-73DD-4DFF-93F2-B11AA48C584F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2003:*:*:*:*:*:*:*",
+			"cpeNameId": "7DB18A3A-1CB0-42A3-A5D3-B14ECB58E690"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2004:*:*:*:*:*:*:*",
+			"cpeNameId": "A6E6DD03-6B02-4BE1-9955-0C6713E9F043"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2005:*:*:*:*:*:*:*",
+			"cpeNameId": "9501CF3B-67E7-41CB-A842-8040F8C2EEE3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2006:*:*:*:*:*:*:*",
+			"cpeNameId": "D0132A2E-5040-4249-8A63-0B143198A685"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2007:*:*:*:*:*:*:*",
+			"cpeNameId": "C868DFE2-35FF-4346-A643-76ABB14E0A0B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2008:*:*:*:*:*:*:*",
+			"cpeNameId": "8A67FCD7-1B62-4E8C-A1C4-2043D34505FF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2009:*:*:*:*:*:*:*",
+			"cpeNameId": "B86B861C-75E5-4685-947B-7F62007239E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2010:*:*:*:*:*:*:*",
+			"cpeNameId": "9CF02044-D51E-41F2-BE86-B5BC46960A80"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2011:*:*:*:*:*:*:*",
+			"cpeNameId": "9D1A157E-A318-4A63-AF6D-690EEE141973"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2012:*:*:*:*:*:*:*",
+			"cpeNameId": "5CB8452E-442A-451F-ACA0-B035367A31FB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2013:*:*:*:*:*:*:*",
+			"cpeNameId": "6A349092-5B3C-4E64-9052-E0B60C61D3AF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2014:*:*:*:*:*:*:*",
+			"cpeNameId": "6FD0C20D-F8D0-4629-B792-6E3E7CDAFBD5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2015:*:*:*:*:*:*:*",
+			"cpeNameId": "45530C35-E049-428C-9BE7-3E04E6FADC08"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2016:*:*:*:*:*:*:*",
+			"cpeNameId": "305D3635-73F6-4546-B557-65DE3A402418"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2017:*:*:*:*:*:*:*",
+			"cpeNameId": "7047D725-B070-4E3D-94EA-8BB2F31BA034"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2018:*:*:*:*:*:*:*",
+			"cpeNameId": "88E4327E-0F36-4F28-BABF-4C5409539E4D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2019:*:*:*:*:*:*:*",
+			"cpeNameId": "2F87AB5B-E970-4CAF-9299-47EB71A890B2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2020:*:*:*:*:*:*:*",
+			"cpeNameId": "014C63B7-0D98-48E7-8392-0A1E5363C690"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2021:*:*:*:*:*:*:*",
+			"cpeNameId": "4D2448E5-8C5A-449E-A9B8-B1377A0B3B29"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2022:*:*:*:*:*:*:*",
+			"cpeNameId": "790AEF4C-3377-4DFA-BE0F-C6B8B7C78426"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2023:*:*:*:*:*:*:*",
+			"cpeNameId": "CACDD2F4-9874-4C9A-8AAF-71E29AA6A0C9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2024:*:*:*:*:*:*:*",
+			"cpeNameId": "C86BCD1A-4D8F-4639-9DE2-A1AAF5A5CA04"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2025:*:*:*:*:*:*:*",
+			"cpeNameId": "F5A8E84F-ED86-450B-B044-819487C45ACD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2026:*:*:*:*:*:*:*",
+			"cpeNameId": "0760AAFE-6F27-4EAB-968D-C00FE61936C1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2027:*:*:*:*:*:*:*",
+			"cpeNameId": "D3D14D21-5C9C-4CB5-A8A0-A59D6D2D7759"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2028:*:*:*:*:*:*:*",
+			"cpeNameId": "B02DD158-AC31-499F-BD87-75569E3CBB52"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2029:*:*:*:*:*:*:*",
+			"cpeNameId": "55362EDF-0B13-437C-9EC3-1572BA716671"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2030:*:*:*:*:*:*:*",
+			"cpeNameId": "2F2C508D-9871-49B8-B8F8-A3F6F2028172"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2031:*:*:*:*:*:*:*",
+			"cpeNameId": "088863D9-87AB-4B8C-9A2B-A342DDFC5E5C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2032:*:*:*:*:*:*:*",
+			"cpeNameId": "63F44324-7F33-455D-BEFC-17075DD48A8E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2033:*:*:*:*:*:*:*",
+			"cpeNameId": "385AA9D8-9965-44AC-9BC5-98588165CE23"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2034:*:*:*:*:*:*:*",
+			"cpeNameId": "B5A919E9-44EC-4681-8059-AAB2A4EA314D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2035:*:*:*:*:*:*:*",
+			"cpeNameId": "A351865F-FEB1-4236-A05E-0424C313915F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2036:*:*:*:*:*:*:*",
+			"cpeNameId": "0741482A-B96C-4CFF-B883-23D078559695"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2037:*:*:*:*:*:*:*",
+			"cpeNameId": "A7C369EF-2FC8-4BD7-82ED-79BB9A3F6F36"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2038:*:*:*:*:*:*:*",
+			"cpeNameId": "50640C01-FC2D-442C-81B0-5A4AD890912D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2039:*:*:*:*:*:*:*",
+			"cpeNameId": "4EB545D9-E25B-481E-90B8-254842EF1EF4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2040:*:*:*:*:*:*:*",
+			"cpeNameId": "BF7E1D3B-B8EF-4ED4-9C19-CAEC8E9CC08A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2041:*:*:*:*:*:*:*",
+			"cpeNameId": "BBF3A977-A78E-4D1E-8788-2AD899AC1029"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2042:*:*:*:*:*:*:*",
+			"cpeNameId": "83F423C6-43D0-4EF2-B1FB-D26E46657081"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2043:*:*:*:*:*:*:*",
+			"cpeNameId": "35E3CFC0-5A5B-430E-9DB2-C90DBF5AA2FA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2044:*:*:*:*:*:*:*",
+			"cpeNameId": "359083DD-3D8F-4813-B8DC-15976BD8B918"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2045:*:*:*:*:*:*:*",
+			"cpeNameId": "8ECCF39A-DD90-466C-A3DA-5544C6E0B163"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2046:*:*:*:*:*:*:*",
+			"cpeNameId": "910B6EC0-E465-486B-ACBF-0E667F6D5342"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2047:*:*:*:*:*:*:*",
+			"cpeNameId": "54B470E5-3552-4BB1-BB10-356DD9B3F921"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2048:*:*:*:*:*:*:*",
+			"cpeNameId": "42AE3C31-E5EA-46E0-B347-9178F851A7A0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2049:*:*:*:*:*:*:*",
+			"cpeNameId": "8430520B-E627-47D0-A037-47A3252E275C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2050:*:*:*:*:*:*:*",
+			"cpeNameId": "39448330-5B86-4C83-B746-128A306CABCF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2051:*:*:*:*:*:*:*",
+			"cpeNameId": "4C303AAD-51BD-44A3-A582-B52F00966FC4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2052:*:*:*:*:*:*:*",
+			"cpeNameId": "F3A8B322-D0E8-4A2F-8288-CC6E88755DF7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2053:*:*:*:*:*:*:*",
+			"cpeNameId": "96E05691-0B65-4BD4-92FF-F5BAF97835BA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2054:*:*:*:*:*:*:*",
+			"cpeNameId": "2BF00568-027C-462E-871D-E6A7704BD145"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2055:*:*:*:*:*:*:*",
+			"cpeNameId": "B71E5669-C696-48E8-A72F-30FC5D5FDBFC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2056:*:*:*:*:*:*:*",
+			"cpeNameId": "9E072CA2-3BD4-4955-8D8E-99EC2271A22D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2057:*:*:*:*:*:*:*",
+			"cpeNameId": "F4E8086D-46CB-4AE4-8025-81D3034C9487"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2058:*:*:*:*:*:*:*",
+			"cpeNameId": "5E25A0F3-12AF-4182-A1BD-30C7D9EB037E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2059:*:*:*:*:*:*:*",
+			"cpeNameId": "A95F2983-C10E-4A31-9421-BD929B06DD3F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2060:*:*:*:*:*:*:*",
+			"cpeNameId": "DD67E50C-A578-493F-833E-6E8D362BAFA8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2061:*:*:*:*:*:*:*",
+			"cpeNameId": "755C1A91-7053-4758-AA02-3B2887C94C25"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2062:*:*:*:*:*:*:*",
+			"cpeNameId": "E5950BED-0E93-4D43-A251-70029F9FE192"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2063:*:*:*:*:*:*:*",
+			"cpeNameId": "B21D6F66-E86C-4179-BD59-F50D54083F2F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2064:*:*:*:*:*:*:*",
+			"cpeNameId": "9B4AB885-0CDB-4B78-8A0B-D47B4964AAE6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2065:*:*:*:*:*:*:*",
+			"cpeNameId": "92D3DA45-41CA-45B6-B4DD-0D581CBBA029"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2066:*:*:*:*:*:*:*",
+			"cpeNameId": "A1249515-279E-4921-AD4C-6C198DB189D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vim:vim:9.0.2067:*:*:*:*:*:*:*",
+			"cpeNameId": "B1071624-50F4-43FA-B776-AF53F7BED92E"
 		}
 	]
 }
