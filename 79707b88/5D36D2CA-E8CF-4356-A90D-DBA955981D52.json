@@ -3,8 +3,8 @@
 	"matchCriteriaId": "5D36D2CA-E8CF-4356-A90D-DBA955981D52",
 	"versionEndIncluding": "5.785",
 	"created": "2023-10-24T11:25:44.583",
-	"lastModified": "2023-10-24T11:25:44.583",
-	"cpeLastModified": "2023-10-24T11:25:44.583",
+	"lastModified": "2023-11-25T03:54:19.637",
+	"cpeLastModified": "2023-11-25T03:54:19.637",
 	"status": "Active",
 	"matches": [
 		{
@@ -598,6 +598,10 @@
 		{
 			"cpeName": "cpe:2.3:a:shopfiles:ebook_store:5.782:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "618775AF-F8E1-44C8-820E-A8E9DC0BD1D8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:shopfiles:ebook_store:5.785:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "17884EB9-3708-4205-A827-5C0D5B27E6CC"
 		}
 	]
 }

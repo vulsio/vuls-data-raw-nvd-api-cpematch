@@ -4,8 +4,8 @@
 	"versionStartIncluding": "1.27.0",
 	"versionEndExcluding": "1.27.8",
 	"created": "2023-11-22T16:03:17.267",
-	"lastModified": "2023-11-22T16:03:17.267",
-	"cpeLastModified": "2023-11-22T16:03:17.267",
+	"lastModified": "2023-11-24T23:42:56.143",
+	"cpeLastModified": "2023-11-24T23:42:56.143",
 	"status": "Active",
 	"matches": [
 		{
@@ -47,6 +47,14 @@
 		{
 			"cpeName": "cpe:2.3:a:kubernetes:kubernetes:1.27.2:*:*:*:*:*:*:*",
 			"cpeNameId": "43DE23D7-BCBC-475D-9193-5BF314EFDA35"
+		},
+		{
+			"cpeName": "cpe:2.3:a:kubernetes:kubernetes:1.27.6:*:*:*:*:*:*:*",
+			"cpeNameId": "2763FC5A-9E50-4E17-B683-9F211380A4D8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:kubernetes:kubernetes:1.27.7:*:*:*:*:*:*:*",
+			"cpeNameId": "CEDD40FD-F45D-4CEB-A66F-5DFA4582C385"
 		}
 	]
 }

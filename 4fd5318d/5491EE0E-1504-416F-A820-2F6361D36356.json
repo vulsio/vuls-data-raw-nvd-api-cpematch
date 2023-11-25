@@ -4,7 +4,7 @@
 	"versionEndExcluding": "5.9.0",
 	"created": "2022-02-14T13:11:27.410",
 	"lastModified": "2022-02-14T13:11:27.410",
-	"cpeLastModified": "2022-02-16T02:46:15.673",
+	"cpeLastModified": "2023-11-25T04:34:25.230",
 	"status": "Active",
 	"matches": [
 		{
@@ -758,6 +758,14 @@
 		{
 			"cpeName": "cpe:2.3:a:keybase:keybase:5.8.0:*:*:*:*:-:*:*",
 			"cpeNameId": "86E2499A-0B12-4081-A171-3157C45B2FF5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:keybase:keybase:5.8.0:*:*:*:*:android:*:*",
+			"cpeNameId": "7A4D97E0-1F4D-47B6-AD98-7CE18A7344EA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:keybase:keybase:5.8.0:*:*:*:*:iphone_os:*:*",
+			"cpeNameId": "0D19DC9A-218E-48CF-AB72-F3E806D3C828"
 		},
 		{
 			"cpeName": "cpe:2.3:a:keybase:keybase:5.8.1:*:*:*:*:-:*:*",

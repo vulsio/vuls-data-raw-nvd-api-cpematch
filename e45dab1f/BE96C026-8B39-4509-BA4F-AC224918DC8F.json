@@ -3,8 +3,8 @@
 	"matchCriteriaId": "BE96C026-8B39-4509-BA4F-AC224918DC8F",
 	"versionEndExcluding": "5.16.0",
 	"created": "2023-11-20T19:58:40.330",
-	"lastModified": "2023-11-20T19:58:40.330",
-	"cpeLastModified": "2023-11-20T19:58:40.330",
+	"lastModified": "2023-11-25T03:54:19.637",
+	"cpeLastModified": "2023-11-25T03:54:19.637",
 	"status": "Active",
 	"matches": [
 		{
@@ -310,6 +310,10 @@
 		{
 			"cpeName": "cpe:2.3:a:zoom:zoom:5.15.5:*:*:*:*:iphone_os:*:*",
 			"cpeNameId": "1C2451CC-7BF5-4A0C-94C6-A3D63BAD3DAB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zoom:zoom:5.15.10:*:*:*:*:iphone_os:*:*",
+			"cpeNameId": "B85F9237-8989-4EDA-B421-AC0771184CE6"
 		}
 	]
 }

@@ -5,6 +5,12 @@
 	"versionEndExcluding": "2302.0004",
 	"created": "2023-11-17T17:40:10.517",
 	"lastModified": "2023-11-17T17:40:10.517",
-	"cpeLastModified": "2023-11-17T17:40:10.517",
-	"status": "Active"
+	"cpeLastModified": "2023-11-25T03:54:19.637",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:siemens:tecnomatix_plant_simulation:2302.0:*:*:*:*:*:*:*",
+			"cpeNameId": "CEE4D967-597E-4B26-91CD-FCE39612B8AA"
+		}
+	]
 }

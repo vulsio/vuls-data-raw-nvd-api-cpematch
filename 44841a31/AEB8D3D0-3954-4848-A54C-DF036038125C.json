@@ -3,8 +3,8 @@
 	"matchCriteriaId": "AEB8D3D0-3954-4848-A54C-DF036038125C",
 	"versionEndIncluding": "2.10",
 	"created": "2023-11-08T20:30:55.720",
-	"lastModified": "2023-11-08T20:30:55.720",
-	"cpeLastModified": "2023-11-08T20:30:55.720",
+	"lastModified": "2023-11-25T04:34:25.230",
+	"cpeLastModified": "2023-11-25T04:34:25.230",
 	"status": "Active",
 	"matches": [
 		{
@@ -270,6 +270,10 @@
 		{
 			"cpeName": "cpe:2.3:a:kimai:kimai:1.30.0:*:*:*:*:*:*:*",
 			"cpeNameId": "4E2F221B-BBA9-4BF1-98DC-D8C557C922C8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:kimai:kimai:2.10:*:*:*:*:*:*:*",
+			"cpeNameId": "397AF57C-4A0D-4B01-A1FB-49B77F4D35C4"
 		}
 	]
 }

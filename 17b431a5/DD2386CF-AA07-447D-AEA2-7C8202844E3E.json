@@ -5,7 +5,7 @@
 	"versionEndIncluding": "4.0.6",
 	"created": "2023-03-11T13:20:08.593",
 	"lastModified": "2023-03-11T13:20:08.593",
-	"cpeLastModified": "2023-07-08T03:15:03.530",
+	"cpeLastModified": "2023-11-25T04:35:20.817",
 	"status": "Active",
 	"matches": [
 		{
@@ -55,6 +55,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ec-cube:ec-cube:4.0.6:p2:*:*:*:*:*:*",
 			"cpeNameId": "0D82F6EF-BDB7-44CD-9D0C-924B2E15C494"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ec-cube:ec-cube:4.0.6:p3:*:*:*:*:*:*",
+			"cpeNameId": "5DDEE16C-1A14-45F3-9377-CB757E9E91E7"
 		}
 	]
 }

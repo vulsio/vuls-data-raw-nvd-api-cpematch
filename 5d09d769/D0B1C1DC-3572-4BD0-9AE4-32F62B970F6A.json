@@ -3,8 +3,8 @@
 	"matchCriteriaId": "D0B1C1DC-3572-4BD0-9AE4-32F62B970F6A",
 	"versionEndExcluding": "0.41.0",
 	"created": "2023-11-22T16:18:00.450",
-	"lastModified": "2023-11-22T16:18:00.450",
-	"cpeLastModified": "2023-11-22T16:18:00.450",
+	"lastModified": "2023-11-24T23:37:53.723",
+	"cpeLastModified": "2023-11-24T23:37:53.723",
 	"status": "Active",
 	"matches": [
 		{
@@ -474,6 +474,30 @@
 		{
 			"cpeName": "cpe:2.3:a:eclipse:openj9:0.35.0:rc1:*:*:*:*:*:*",
 			"cpeNameId": "0B38A8B7-FD89-430D-AFBF-62A33095A138"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eclipse:openj9:0.36.0:*:*:*:*:*:*:*",
+			"cpeNameId": "041B28F5-505B-48A2-BE75-91446DB3299F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eclipse:openj9:0.36.1:*:*:*:*:*:*:*",
+			"cpeNameId": "FABFCAA0-4596-43F5-A713-420F8E0C591E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eclipse:openj9:0.37.0:*:*:*:*:*:*:*",
+			"cpeNameId": "234A58EA-06DE-476E-B34A-4E3E0D6D96EB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eclipse:openj9:0.38.0:*:*:*:*:*:*:*",
+			"cpeNameId": "466FED76-FA27-437B-9483-894731C736B7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eclipse:openj9:0.39.0:*:*:*:*:*:*:*",
+			"cpeNameId": "3FA59566-D9F2-4692-B609-A4974C85B55D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eclipse:openj9:0.40.0:*:*:*:*:*:*:*",
+			"cpeNameId": "74B02104-6722-4471-ABAA-281EB78BF270"
 		}
 	]
 }

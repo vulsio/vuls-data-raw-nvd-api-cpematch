@@ -5,7 +5,7 @@
 	"versionEndIncluding": "2.5.3",
 	"created": "2023-01-20T17:42:14.123",
 	"lastModified": "2023-01-20T17:42:14.123",
-	"cpeLastModified": "2023-11-15T17:05:38.640",
+	"cpeLastModified": "2023-11-25T04:35:20.817",
 	"status": "Active",
 	"matches": [
 		{
@@ -427,6 +427,10 @@
 		{
 			"cpeName": "cpe:2.3:a:linuxfoundation:harbor:1.10.8:rc1:*:*:*:*:*:*",
 			"cpeNameId": "4ED1106B-CF9A-4C79-AE0B-2A85EA72AEA3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:harbor:1.10.17:-:*:*:*:*:*:*",
+			"cpeNameId": "20DD3ECB-EBF7-4881-9467-0A172064D977"
 		},
 		{
 			"cpeName": "cpe:2.3:a:linuxfoundation:harbor:2.0:*:*:*:*:*:*:*",

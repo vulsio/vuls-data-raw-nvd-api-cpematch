@@ -5,7 +5,7 @@
 	"versionEndExcluding": "5.0.3",
 	"created": "2022-07-21T13:29:28.413",
 	"lastModified": "2022-07-21T13:29:28.413",
-	"cpeLastModified": "2022-04-13T11:47:36.647",
+	"cpeLastModified": "2023-11-24T23:55:30.080",
 	"status": "Active",
 	"matches": [
 		{
@@ -13,8 +13,16 @@
 			"cpeNameId": "4E276091-D5AB-496A-8EB9-41F90E965687"
 		},
 		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiedr:5.0.0:*:*:*:*:windows:*:*",
+			"cpeNameId": "11BE216E-33F5-4E17-8DFE-C68BF392A78A"
+		},
+		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiedr:5.0.1:*:*:*:*:*:*:*",
 			"cpeNameId": "27D7821C-A5F8-4003-AC31-1C28EF7F656A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiedr:5.0.1:*:*:*:*:windows:*:*",
+			"cpeNameId": "522A3E20-36EB-447C-B147-0669C057BB89"
 		},
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiedr:5.0.2:*:*:*:*:*:*:*",

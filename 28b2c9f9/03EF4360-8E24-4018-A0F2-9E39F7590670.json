@@ -3,7 +3,7 @@
 	"matchCriteriaId": "03EF4360-8E24-4018-A0F2-9E39F7590670",
 	"created": "2022-05-23T16:45:56.380",
 	"lastModified": "2023-08-21T12:03:02.873",
-	"cpeLastModified": "2023-11-18T04:38:38.883",
+	"cpeLastModified": "2023-11-24T23:48:52.517",
 	"status": "Active",
 	"matches": [
 		{
@@ -275,8 +275,20 @@
 			"cpeNameId": "0A5B3AF9-DB8B-4A4E-928C-BC9598D8A72F"
 		},
 		{
+			"cpeName": "cpe:2.3:h:amd:ryzen_5_pro_7540u:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DAF8B9E8-D0BE-453D-BCF0-0F44EA828A2E"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:ryzen_5_pro_7545u:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A5A55DD1-C11B-45C5-9FF8-DB3F2326F144"
+		},
+		{
 			"cpeName": "cpe:2.3:h:amd:ryzen_5_pro_7640hs:-:*:*:*:*:*:*:*",
 			"cpeNameId": "C5B338E6-338F-4C0C-BA81-666FA833F6E7"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:ryzen_5_pro_7640u:-:*:*:*:*:*:*:*",
+			"cpeNameId": "74C5C0BC-5948-4096-B1E3-F9F2BA356743"
 		},
 		{
 			"cpeName": "cpe:2.3:h:amd:ryzen_5_pro_7645:-:*:*:*:*:*:*:*",
@@ -357,6 +369,10 @@
 		{
 			"cpeName": "cpe:2.3:h:amd:ryzen_7_pro_7840hs:-:*:*:*:*:*:*:*",
 			"cpeNameId": "F77ED38A-E155-4FC8-8910-D0C4001620FC"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:ryzen_7_pro_7840u:-:*:*:*:*:*:*:*",
+			"cpeNameId": "93933CE7-DFDD-4AE6-86C7-44BA0AC06DD4"
 		},
 		{
 			"cpeName": "cpe:2.3:h:amd:ryzen_9_3800x:-:*:*:*:*:*:*:*",

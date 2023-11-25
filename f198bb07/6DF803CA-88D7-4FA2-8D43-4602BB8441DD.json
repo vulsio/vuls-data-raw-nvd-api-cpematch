@@ -4,9 +4,13 @@
 	"versionEndExcluding": "1.5.4",
 	"created": "2023-03-27T14:19:12.023",
 	"lastModified": "2023-08-29T11:27:27.510",
-	"cpeLastModified": "2023-03-27T14:19:12.023",
+	"cpeLastModified": "2023-11-25T04:34:25.230",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:jettison_project:jettison:-:*:*:*:*:*:*:*",
+			"cpeNameId": "21959BD8-F146-487B-9DD3-96DDCD613D16"
+		},
 		{
 			"cpeName": "cpe:2.3:a:jettison_project:jettison:1.0:-:*:*:*:*:*:*",
 			"cpeNameId": "DA879F78-6EE1-488A-AA55-249D88B59812"

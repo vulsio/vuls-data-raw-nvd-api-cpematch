@@ -5,7 +5,7 @@
 	"versionEndIncluding": "10.0.2",
 	"created": "2020-12-18T14:11:39.233",
 	"lastModified": "2020-12-18T14:11:39.233",
-	"cpeLastModified": "2022-12-28T16:05:24.427",
+	"cpeLastModified": "2023-11-25T04:35:20.817",
 	"status": "Active",
 	"matches": [
 		{
@@ -83,6 +83,10 @@
 		{
 			"cpeName": "cpe:2.3:a:hcltech:bigfix_platform:9.5.21:*:*:*:*:*:*:*",
 			"cpeNameId": "537DE497-9F1D-447D-83AC-8E978FEB5CE3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hcltech:bigfix_platform:9.5.23:*:*:*:*:*:*:*",
+			"cpeNameId": "70A09EA4-A1B7-4C7B-B4E4-88DC7E287985"
 		},
 		{
 			"cpeName": "cpe:2.3:a:hcltech:bigfix_platform:10:*:*:*:*:*:*:*",

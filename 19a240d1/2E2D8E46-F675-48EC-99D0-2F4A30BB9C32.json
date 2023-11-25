@@ -5,6 +5,12 @@
 	"versionEndExcluding": "7.1.319.111",
 	"created": "2023-10-30T15:52:32.973",
 	"lastModified": "2023-10-30T15:52:32.973",
-	"cpeLastModified": "2023-10-30T15:52:32.973",
-	"status": "Active"
+	"cpeLastModified": "2023-11-25T03:54:19.637",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sisqualwfm:sisqualwfm:7.1.319.103:*:*:*:*:android:*:*",
+			"cpeNameId": "DA18E71C-71CB-498A-8A80-86C4F6ED6C1B"
+		}
+	]
 }

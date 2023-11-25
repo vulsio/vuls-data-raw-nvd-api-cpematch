@@ -4,9 +4,13 @@
 	"versionEndExcluding": "8.0.0",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"cpeLastModified": "2023-11-25T04:34:25.230",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:openstack:heat:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3FB8AED6-CCA9-44E0-A748-65D8F694DE17"
+		},
 		{
 			"cpeName": "cpe:2.3:a:openstack:heat:5.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "3E296926-9140-451B-B27F-B157F977F40D"

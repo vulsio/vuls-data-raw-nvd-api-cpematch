@@ -4,6 +4,12 @@
 	"versionEndExcluding": "2023-10-15",
 	"created": "2023-11-07T15:09:25.813",
 	"lastModified": "2023-11-07T15:09:25.813",
-	"cpeLastModified": "2023-11-07T15:09:25.813",
-	"status": "Active"
+	"cpeLastModified": "2023-11-25T03:54:19.637",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:dmpop:mejiro:-:*:*:*:*:*:*:*",
+			"cpeNameId": "903570F0-2631-447A-A2E9-9DF3D58400FD"
+		}
+	]
 }

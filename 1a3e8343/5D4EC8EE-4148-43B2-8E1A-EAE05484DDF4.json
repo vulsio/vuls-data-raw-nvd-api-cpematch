@@ -3,8 +3,8 @@
 	"matchCriteriaId": "5D4EC8EE-4148-43B2-8E1A-EAE05484DDF4",
 	"versionEndExcluding": "12.2.6",
 	"created": "2023-10-25T11:34:53.527",
-	"lastModified": "2023-10-25T11:34:53.527",
-	"cpeLastModified": "2023-10-25T11:34:53.527",
+	"lastModified": "2023-11-25T03:54:19.637",
+	"cpeLastModified": "2023-11-25T03:54:19.637",
 	"status": "Active",
 	"matches": [
 		{
@@ -342,6 +342,10 @@
 		{
 			"cpeName": "cpe:2.3:a:santesoft:dicom_viewer_pro:11.9.2:*:*:*:*:*:*:*",
 			"cpeNameId": "673EDF9A-7E7A-4BE6-B69F-44A8429F373C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:santesoft:dicom_viewer_pro:12.2.4:*:*:*:*:*:*:*",
+			"cpeNameId": "B574C354-EF67-449F-8A0C-06620DCD1B7F"
 		}
 	]
 }

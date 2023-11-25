@@ -5,6 +5,12 @@
 	"versionEndExcluding": "2306.0001",
 	"created": "2023-11-17T17:57:39.460",
 	"lastModified": "2023-11-17T17:57:39.460",
-	"cpeLastModified": "2023-11-17T17:57:39.460",
-	"status": "Active"
+	"cpeLastModified": "2023-11-25T03:54:19.637",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:siemens:simcenter_femap:2306.0:*:*:*:*:*:*:*",
+			"cpeNameId": "254F5445-2D02-4DF0-962A-EF67DF4D501C"
+		}
+	]
 }
