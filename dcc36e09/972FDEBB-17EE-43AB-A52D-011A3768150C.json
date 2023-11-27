@@ -3,8 +3,8 @@
 	"matchCriteriaId": "972FDEBB-17EE-43AB-A52D-011A3768150C",
 	"versionEndIncluding": "2022",
 	"created": "2023-11-22T18:02:23.817",
-	"lastModified": "2023-11-22T18:02:23.817",
-	"cpeLastModified": "2023-11-22T18:02:23.817",
+	"lastModified": "2023-11-27T01:29:37.017",
+	"cpeLastModified": "2023-11-27T01:29:37.017",
 	"status": "Active",
 	"matches": [
 		{
@@ -186,6 +186,10 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:framemaker:2020.0.4:*:*:*:*:*:*:*",
 			"cpeNameId": "75C11A37-25C3-4CD1-9915-423309436188"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:framemaker:2022:*:*:*:*:*:*:*",
+			"cpeNameId": "6D90530D-56C0-4F6B-9BFB-8961699894FF"
 		}
 	]
 }

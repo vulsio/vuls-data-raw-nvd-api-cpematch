@@ -5,7 +5,7 @@
 	"versionEndExcluding": "3.0.66",
 	"created": "2022-10-14T20:33:49.327",
 	"lastModified": "2022-10-14T20:33:49.327",
-	"cpeLastModified": "2022-10-14T20:33:49.327",
+	"cpeLastModified": "2023-11-27T13:47:20.973",
 	"status": "Active",
 	"matches": [
 		{
@@ -63,6 +63,22 @@
 		{
 			"cpeName": "cpe:2.3:a:octobercms:october:3.0.61:*:*:*:*:*:*:*",
 			"cpeNameId": "31CF790E-0D7E-449B-92FA-9C52BEDF5125"
+		},
+		{
+			"cpeName": "cpe:2.3:a:octobercms:october:3.0.62:*:*:*:*:*:*:*",
+			"cpeNameId": "54CCAED2-5CD8-48EA-BAE6-79BC9978747A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:octobercms:october:3.0.63:*:*:*:*:*:*:*",
+			"cpeNameId": "810FBFE6-C2EE-4C63-BBB2-C7EF4146D2C6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:octobercms:october:3.0.64:*:*:*:*:*:*:*",
+			"cpeNameId": "48C00899-37C3-4F9B-B996-90609D739F9A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:octobercms:october:3.0.65:*:*:*:*:*:*:*",
+			"cpeNameId": "BB52750B-1C3D-4349-BF10-EECA693435A7"
 		}
 	]
 }

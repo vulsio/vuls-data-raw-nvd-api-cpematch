@@ -3,8 +3,8 @@
 	"matchCriteriaId": "821779B9-B2C8-4055-A279-E3FE3F956E5A",
 	"versionEndExcluding": "3.25.2",
 	"created": "2023-11-13T14:03:52.350",
-	"lastModified": "2023-11-13T14:03:52.350",
-	"cpeLastModified": "2023-11-13T14:03:52.350",
+	"lastModified": "2023-11-27T00:11:03.163",
+	"cpeLastModified": "2023-11-27T00:11:03.163",
 	"status": "Active",
 	"matches": [
 		{
@@ -30,6 +30,10 @@
 		{
 			"cpeName": "cpe:2.3:o:tigera:calico_os:3.22.2:*:*:*:*:*:*:*",
 			"cpeNameId": "D8D736AD-F264-4816-9C4D-5B71D40D62F1"
+		},
+		{
+			"cpeName": "cpe:2.3:o:tigera:calico_os:3.25.1:*:*:*:*:*:*:*",
+			"cpeNameId": "92ED6558-79BE-4066-A367-4D16227C75AF"
 		}
 	]
 }

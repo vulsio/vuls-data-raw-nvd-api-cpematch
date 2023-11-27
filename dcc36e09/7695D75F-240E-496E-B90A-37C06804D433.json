@@ -3,7 +3,7 @@
 	"matchCriteriaId": "7695D75F-240E-496E-B90A-37C06804D433",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2021-03-10T18:35:41.433",
+	"cpeLastModified": "2023-11-27T01:29:37.017",
 	"status": "Active",
 	"matches": [
 		{
@@ -185,6 +185,10 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:framemaker:2020.0.4:*:*:*:*:*:*:*",
 			"cpeNameId": "75C11A37-25C3-4CD1-9915-423309436188"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:framemaker:2022:*:*:*:*:*:*:*",
+			"cpeNameId": "6D90530D-56C0-4F6B-9BFB-8961699894FF"
 		}
 	]
 }

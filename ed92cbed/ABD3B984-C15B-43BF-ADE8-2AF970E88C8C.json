@@ -3,8 +3,8 @@
 	"matchCriteriaId": "ABD3B984-C15B-43BF-ADE8-2AF970E88C8C",
 	"versionEndExcluding": "3.2.2",
 	"created": "2023-11-02T18:37:11.913",
-	"lastModified": "2023-11-02T18:37:11.913",
-	"cpeLastModified": "2023-11-02T18:37:11.913",
+	"lastModified": "2023-11-27T01:37:15.180",
+	"cpeLastModified": "2023-11-27T01:37:15.180",
 	"status": "Active",
 	"matches": [
 		{
@@ -1022,6 +1022,10 @@
 		{
 			"cpeName": "cpe:2.3:a:phpmyfaq:phpmyfaq:3.2.0:beta2:*:*:*:*:*:*",
 			"cpeNameId": "CB944B7D-FF01-4033-9B38-F1B24551F667"
+		},
+		{
+			"cpeName": "cpe:2.3:a:phpmyfaq:phpmyfaq:3.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "1BD55961-B364-440D-AFA8-ACCDDC5611BB"
 		}
 	]
 }

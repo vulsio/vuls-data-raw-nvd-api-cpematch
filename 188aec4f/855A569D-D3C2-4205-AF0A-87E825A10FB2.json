@@ -3,8 +3,8 @@
 	"matchCriteriaId": "855A569D-D3C2-4205-AF0A-87E825A10FB2",
 	"versionEndIncluding": "12.1.1.15289",
 	"created": "2023-05-25T14:08:18.233",
-	"lastModified": "2023-05-25T14:08:18.233",
-	"cpeLastModified": "2023-09-28T08:24:40.860",
+	"lastModified": "2023-11-27T00:39:56.060",
+	"cpeLastModified": "2023-11-27T00:39:56.060",
 	"status": "Active",
 	"matches": [
 		{
@@ -76,12 +76,20 @@
 			"cpeNameId": "29C485A7-5A8C-4583-9EBF-BA771F0FAB13"
 		},
 		{
+			"cpeName": "cpe:2.3:a:foxit:pdf_reader:12.0.1.12430:*:*:*:*:*:*:*",
+			"cpeNameId": "7AF52478-DDB4-4A62-B8E5-737492A81C27"
+		},
+		{
 			"cpeName": "cpe:2.3:a:foxit:pdf_reader:12.0.2:*:*:*:*:*:*:*",
 			"cpeNameId": "807322CC-7C62-45C0-9AF3-C8C3F0FA0EB0"
 		},
 		{
 			"cpeName": "cpe:2.3:a:foxit:pdf_reader:12.1:*:*:*:*:*:*:*",
 			"cpeNameId": "AC55098B-8BEC-43B6-BF42-098A3F7ECD86"
+		},
+		{
+			"cpeName": "cpe:2.3:a:foxit:pdf_reader:12.1.1.15289:*:*:*:*:*:*:*",
+			"cpeNameId": "E110C4B5-28EA-41E4-B19A-6D20E1DFCF79"
 		}
 	]
 }

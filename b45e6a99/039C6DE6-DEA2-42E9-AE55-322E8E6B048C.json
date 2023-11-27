@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:a:zohocorp:manageengine_oputils:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "039C6DE6-DEA2-42E9-AE55-322E8E6B048C",
+	"versionEndExcluding": "12.5",
+	"created": "2023-11-27T15:33:38.820",
+	"lastModified": "2023-11-27T15:33:38.820",
+	"cpeLastModified": "2023-11-27T15:33:38.820",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_oputils:-:*:*:*:*:*:*:*",
+			"cpeNameId": "95B6D43D-5809-4C60-B3AB-F94B25CA6287"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_oputils:11.0:*:*:*:*:*:*:*",
+			"cpeNameId": "95F86681-EA97-40E8-B7E3-40EEDD309A2B"
+		}
+	]
+}

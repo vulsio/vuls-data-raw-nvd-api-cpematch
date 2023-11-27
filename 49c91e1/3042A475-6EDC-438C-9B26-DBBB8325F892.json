@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:qnap:quts_hero:h5.0.0.2022:build_20220428:*:*:*:*:*:*",
 	"matchCriteriaId": "3042A475-6EDC-438C-9B26-DBBB8325F892",
 	"created": "2023-11-17T16:05:50.290",
-	"lastModified": "2023-11-17T16:05:50.290",
-	"cpeLastModified": "2023-11-17T16:05:50.290",
-	"status": "Active"
+	"lastModified": "2023-11-27T16:16:22.980",
+	"cpeLastModified": "2023-11-27T16:16:22.980",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:qnap:quts_hero:h5.0.0.2022:build_20220428:*:*:*:*:*:*",
+			"cpeNameId": "8205F365-F4F2-42D5-BEE5-583216898D7D"
+		}
+	]
 }
