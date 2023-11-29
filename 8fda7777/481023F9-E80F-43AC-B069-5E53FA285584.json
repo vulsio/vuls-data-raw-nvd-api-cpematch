@@ -5,12 +5,32 @@
 	"versionEndExcluding": "2.0.3",
 	"created": "2023-10-31T11:25:04.097",
 	"lastModified": "2023-11-01T14:27:45.230",
-	"cpeLastModified": "2023-11-28T19:54:44.320",
+	"cpeLastModified": "2023-11-29T13:01:12.033",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:networktocode:nautobot:2.0.0:-:*:*:*:*:*:*",
 			"cpeNameId": "62CA86A8-F56C-40A9-B2C1-F12709987A8B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:networktocode:nautobot:2.0.0:alpha1:*:*:*:*:*:*",
+			"cpeNameId": "4D06B161-3DF1-4EEA-BEBF-DD7493E2D47C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:networktocode:nautobot:2.0.0:alpha2:*:*:*:*:*:*",
+			"cpeNameId": "5C18ABEB-8C0E-4F5A-8062-61907B83A9D0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:networktocode:nautobot:2.0.0:alpha3:*:*:*:*:*:*",
+			"cpeNameId": "10234183-F862-4E8E-9692-DCB7719CB9CD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:networktocode:nautobot:2.0.0:beta1:*:*:*:*:*:*",
+			"cpeNameId": "1A68EA01-0AD2-41DE-A884-BF35CAA19F78"
+		},
+		{
+			"cpeName": "cpe:2.3:a:networktocode:nautobot:2.0.0:beta2:*:*:*:*:*:*",
+			"cpeNameId": "63844989-75B9-4106-AB3B-30F505B04E23"
 		},
 		{
 			"cpeName": "cpe:2.3:a:networktocode:nautobot:2.0.0:rc1:*:*:*:*:*:*",
