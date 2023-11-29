@@ -1,10 +1,10 @@
 {
 	"criteria": "cpe:2.3:a:networktocode:nautobot:*:*:*:*:*:*:*:*",
-	"matchCriteriaId": "481023F9-E80F-43AC-B069-5E53FA285584",
+	"matchCriteriaId": "AEA9BE2A-BB72-4EFE-A376-B91223E0F6F0",
 	"versionStartIncluding": "2.0.0",
-	"versionEndExcluding": "2.0.3",
-	"created": "2023-10-31T11:25:04.097",
-	"lastModified": "2023-11-01T14:27:45.230",
+	"versionEndExcluding": "2.0.5",
+	"created": "2023-11-28T19:53:15.990",
+	"lastModified": "2023-11-28T19:53:15.990",
 	"cpeLastModified": "2023-11-28T19:54:44.320",
 	"status": "Active",
 	"matches": [
@@ -35,6 +35,10 @@
 		{
 			"cpeName": "cpe:2.3:a:networktocode:nautobot:2.0.2:*:*:*:*:*:*:*",
 			"cpeNameId": "F15DF52A-513B-425B-AB73-E07A016E6A93"
+		},
+		{
+			"cpeName": "cpe:2.3:a:networktocode:nautobot:2.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "6670A6D5-1F4F-40E1-8CAD-94A6671B8DE2"
 		}
 	]
 }

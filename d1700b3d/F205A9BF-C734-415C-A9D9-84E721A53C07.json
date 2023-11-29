@@ -3,8 +3,8 @@
 	"matchCriteriaId": "F205A9BF-C734-415C-A9D9-84E721A53C07",
 	"versionEndExcluding": "1.95.1",
 	"created": "2023-11-06T18:18:50.343",
-	"lastModified": "2023-11-06T18:18:50.343",
-	"cpeLastModified": "2023-11-06T18:19:26.233",
+	"lastModified": "2023-11-28T18:36:18.767",
+	"cpeLastModified": "2023-11-28T18:36:18.767",
 	"status": "Active",
 	"matches": [
 		{
@@ -2118,6 +2118,22 @@
 		{
 			"cpeName": "cpe:2.3:a:matrix:synapse:1.93.0:rc1:*:*:*:*:*:*",
 			"cpeNameId": "BFB244F7-0EFD-4C3E-B916-F421AAC8C5DA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:matrix:synapse:1.94.0:-:*:*:*:*:*:*",
+			"cpeNameId": "21E140BC-3CA7-4163-86E8-26FB57CBBD8F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:matrix:synapse:1.94.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "9F617065-95F7-40A5-BBF5-4FFAE8CC188C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:matrix:synapse:1.95.0:-:*:*:*:*:*:*",
+			"cpeNameId": "E21E7EC5-1BFA-4DA6-9F47-CF1CB93B164A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:matrix:synapse:1.95.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "996A2904-AE8A-43D7-A3E2-32BD71C57AAF"
 		}
 	]
 }

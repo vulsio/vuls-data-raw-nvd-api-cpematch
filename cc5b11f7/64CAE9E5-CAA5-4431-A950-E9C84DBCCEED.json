@@ -4,7 +4,7 @@
 	"versionEndIncluding": "4.2.7",
 	"created": "2023-11-16T18:39:34.783",
 	"lastModified": "2023-11-17T16:31:12.240",
-	"cpeLastModified": "2023-11-17T16:31:12.240",
+	"cpeLastModified": "2023-11-28T18:16:22.433",
 	"status": "Active",
 	"matches": [
 		{
@@ -16,6 +16,10 @@
 			"cpeNameId": "81FD568F-8C12-4877-B0A4-636E45666C44"
 		},
 		{
+			"cpeName": "cpe:2.3:a:wbolt:all-in-one_search_automatic_push_management:1.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9C5219EC-F2FE-4A8E-9F04-36F537858CBF"
+		},
+		{
 			"cpeName": "cpe:2.3:a:wbolt:all-in-one_search_automatic_push_management:1.1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "6429EEAE-868B-436A-ABD4-7C5D41B0E42E"
 		},
@@ -24,8 +28,28 @@
 			"cpeNameId": "9A291B05-E044-44EF-9B98-488452767976"
 		},
 		{
+			"cpeName": "cpe:2.3:a:wbolt:all-in-one_search_automatic_push_management:1.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8581C255-C77E-4E45-ADCB-6BCAEAFE009A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wbolt:all-in-one_search_automatic_push_management:1.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5EC9F8FA-3898-4333-B887-CB35CC64D308"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wbolt:all-in-one_search_automatic_push_management:1.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C639675A-CAF7-4DB7-965E-7DCD9881DA38"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wbolt:all-in-one_search_automatic_push_management:1.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8769EF64-B4D2-4A30-9E5D-469A784AFF14"
+		},
+		{
 			"cpeName": "cpe:2.3:a:wbolt:all-in-one_search_automatic_push_management:2.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "46B80854-D6D4-4403-B95B-053CA50E4299"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wbolt:all-in-one_search_automatic_push_management:2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3B96859E-314D-401D-9632-19F9502F333C"
 		},
 		{
 			"cpeName": "cpe:2.3:a:wbolt:all-in-one_search_automatic_push_management:2.1.0:*:*:*:*:wordpress:*:*",
@@ -60,6 +84,22 @@
 			"cpeNameId": "8239B06E-E348-487B-B1C3-54049B919CD3"
 		},
 		{
+			"cpeName": "cpe:2.3:a:wbolt:all-in-one_search_automatic_push_management:2.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "37026C7E-BE67-4DE1-9ADD-6C8B8282432D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wbolt:all-in-one_search_automatic_push_management:2.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C898E0B9-B9E2-4EA9-BA12-C22966B5457F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wbolt:all-in-one_search_automatic_push_management:2.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F7672DEC-849B-4A3D-B9F5-FAF899C4F140"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wbolt:all-in-one_search_automatic_push_management:2.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "316CBF12-2EE7-4122-9E16-F7AB5464FE31"
+		},
+		{
 			"cpeName": "cpe:2.3:a:wbolt:all-in-one_search_automatic_push_management:3.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "93E475B6-D614-4590-8B04-F0914D737043"
 		},
@@ -80,12 +120,20 @@
 			"cpeNameId": "74583CC5-0A56-48AE-B9C5-75A9A6469868"
 		},
 		{
+			"cpeName": "cpe:2.3:a:wbolt:all-in-one_search_automatic_push_management:3.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D121D30D-25C7-4B0D-9D31-A5839929CDA6"
+		},
+		{
 			"cpeName": "cpe:2.3:a:wbolt:all-in-one_search_automatic_push_management:3.1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "82438BD5-C6B9-4FF6-97FF-2840BC06E31E"
 		},
 		{
 			"cpeName": "cpe:2.3:a:wbolt:all-in-one_search_automatic_push_management:3.1.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "7B804C7F-F1FA-4533-8B70-0D7E3BC5BFB4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wbolt:all-in-one_search_automatic_push_management:3.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9F10DE4C-D6E8-4882-9D12-5D9E4E38810F"
 		},
 		{
 			"cpeName": "cpe:2.3:a:wbolt:all-in-one_search_automatic_push_management:3.2.0:*:*:*:*:wordpress:*:*",
@@ -126,6 +174,10 @@
 		{
 			"cpeName": "cpe:2.3:a:wbolt:all-in-one_search_automatic_push_management:3.2.9:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "F460B5E5-803D-4AAC-9F87-BE8547A8A2E7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wbolt:all-in-one_search_automatic_push_management:3.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DAF060DA-F9FA-461A-B634-A198DA7D686B"
 		},
 		{
 			"cpeName": "cpe:2.3:a:wbolt:all-in-one_search_automatic_push_management:3.3.0:*:*:*:*:wordpress:*:*",
