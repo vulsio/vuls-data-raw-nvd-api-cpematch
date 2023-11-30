@@ -3,8 +3,8 @@
 	"matchCriteriaId": "974AB954-A6BE-486A-8319-A1D83B131933",
 	"versionEndExcluding": "2.7.1",
 	"created": "2023-11-29T17:00:51.777",
-	"lastModified": "2023-11-29T17:00:51.777",
-	"cpeLastModified": "2023-11-29T17:00:51.777",
+	"lastModified": "2023-11-30T17:41:37.293",
+	"cpeLastModified": "2023-11-30T17:41:37.293",
 	"status": "Active",
 	"matches": [
 		{
@@ -570,6 +570,22 @@
 		{
 			"cpeName": "cpe:2.3:a:asgaros:asgaros_forum:2.4.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "26B28D51-AB6F-4687-87FC-B8562DFE3B72"
+		},
+		{
+			"cpeName": "cpe:2.3:a:asgaros:asgaros_forum:2.5.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A22EA1A7-5DE4-4AEB-9D47-56BA53003AAE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:asgaros:asgaros_forum:2.5.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0A5B1827-D768-4202-9A2F-273459CEBD6B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:asgaros:asgaros_forum:2.6.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B8316AB4-090D-4C94-A8A8-B8B121571D27"
+		},
+		{
+			"cpeName": "cpe:2.3:a:asgaros:asgaros_forum:2.7.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CE6B24A7-184D-40AB-9BD9-40C6684979F3"
 		}
 	]
 }

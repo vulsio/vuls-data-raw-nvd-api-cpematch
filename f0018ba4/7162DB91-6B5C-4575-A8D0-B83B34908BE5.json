@@ -4,6 +4,12 @@
 	"versionEndExcluding": "23.9.2",
 	"created": "2023-10-27T11:14:21.417",
 	"lastModified": "2023-10-27T11:14:21.417",
-	"cpeLastModified": "2023-10-27T11:14:21.417",
-	"status": "Active"
+	"cpeLastModified": "2023-11-30T16:19:09.947",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:amd:radeon_software:23.7.1:*:*:*:adrenalin:*:*:*",
+			"cpeNameId": "5D467851-D3A6-4180-8983-16E49F1B67EF"
+		}
+	]
 }

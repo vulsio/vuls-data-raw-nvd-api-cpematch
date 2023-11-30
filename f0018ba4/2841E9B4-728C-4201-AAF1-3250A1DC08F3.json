@@ -4,6 +4,12 @@
 	"versionEndExcluding": "23.q4",
 	"created": "2023-10-27T11:14:21.417",
 	"lastModified": "2023-10-27T11:14:21.417",
-	"cpeLastModified": "2023-10-27T11:14:21.417",
-	"status": "Active"
+	"cpeLastModified": "2023-11-30T16:19:09.947",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:amd:radeon_software:23.q3:*:*:*:pro:*:*:*",
+			"cpeNameId": "0D20AAC4-B186-4CC4-B6B7-6DF5E84BA19D"
+		}
+	]
 }

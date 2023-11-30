@@ -3,8 +3,8 @@
 	"matchCriteriaId": "B7782710-73A4-4698-872E-CD9FE4362872",
 	"versionEndIncluding": "7.17.12",
 	"created": "2023-11-01T15:49:33.357",
-	"lastModified": "2023-11-01T15:49:33.357",
-	"cpeLastModified": "2023-11-01T15:49:33.357",
+	"lastModified": "2023-11-30T13:42:07.083",
+	"cpeLastModified": "2023-11-30T16:11:39.593",
 	"status": "Active",
 	"matches": [
 		{
@@ -1298,6 +1298,34 @@
 		{
 			"cpeName": "cpe:2.3:a:elastic:elasticsearch:7.17.5:*:*:*:*:*:*:*",
 			"cpeNameId": "8FD00C61-861A-4159-A024-3D8B91FAD647"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:elasticsearch:7.17.6:*:*:*:*:*:*:*",
+			"cpeNameId": "9D5AFA15-B4BA-4ECD-A911-A2C28C692CDC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:elasticsearch:7.17.7:*:*:*:*:*:*:*",
+			"cpeNameId": "27D33146-0A7D-4468-B42B-CA68CE8D4204"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:elasticsearch:7.17.8:*:*:*:*:*:*:*",
+			"cpeNameId": "40C3A7A5-9FC2-45AF-AC5A-5C0BEF9A2251"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:elasticsearch:7.17.9:*:*:*:*:*:*:*",
+			"cpeNameId": "42F6F294-4A71-42CA-AAE8-70216B759835"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:elasticsearch:7.17.10:*:*:*:*:*:*:*",
+			"cpeNameId": "D4696530-C805-4C26-80DD-980DB8729FF8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:elasticsearch:7.17.11:*:*:*:*:*:*:*",
+			"cpeNameId": "3501D98F-6983-4664-8045-65B46ABF45AC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:elasticsearch:7.17.12:*:*:*:*:*:*:*",
+			"cpeNameId": "FBB81EFA-3436-4C73-B1C6-D93CCB96D9A7"
 		}
 	]
 }
