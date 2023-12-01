@@ -3,7 +3,7 @@
 	"matchCriteriaId": "8255F035-04C8-4158-B301-82101711939C",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2022-09-19T18:28:27.280",
-	"cpeLastModified": "2023-08-12T00:03:36.850",
+	"cpeLastModified": "2023-12-01T15:29:36.947",
 	"status": "Active",
 	"matches": [
 		{
@@ -313,6 +313,10 @@
 		{
 			"cpeName": "cpe:2.3:o:google:android:13.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "167B0FC6-2750-4BCD-AF32-AE1D748325EF"
+		},
+		{
+			"cpeName": "cpe:2.3:o:google:android:14.0:*:*:*:*:*:*:*",
+			"cpeNameId": "0E01D460-A5E7-46B6-8D76-3F97B6BEF1B4"
 		},
 		{
 			"cpeName": "cpe:2.3:o:google:android:2020-06-01:*:*:*:*:*:*:*",

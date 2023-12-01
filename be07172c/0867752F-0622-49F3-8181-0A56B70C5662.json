@@ -4,7 +4,7 @@
 	"versionEndExcluding": "14.5.01.1",
 	"created": "2023-11-13T15:22:12.080",
 	"lastModified": "2023-11-13T15:22:12.080",
-	"cpeLastModified": "2023-11-13T15:22:12.080",
+	"cpeLastModified": "2023-12-01T15:29:36.947",
 	"status": "Active",
 	"matches": [
 		{
@@ -34,6 +34,10 @@
 		{
 			"cpeName": "cpe:2.3:a:samsung:account:13.5.01.3:*:*:*:*:*:*:*",
 			"cpeNameId": "0F682C3B-86FD-4E11-AFE8-A89BDB147800"
+		},
+		{
+			"cpeName": "cpe:2.3:a:samsung:account:14.5.00.7:*:*:*:*:*:*:*",
+			"cpeNameId": "3F1DFC67-90A8-4DDA-A7F2-881562E4CB7E"
 		}
 	]
 }

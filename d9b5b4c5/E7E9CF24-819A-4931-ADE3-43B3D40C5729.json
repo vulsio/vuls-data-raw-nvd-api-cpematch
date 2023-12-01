@@ -5,6 +5,12 @@
 	"versionEndExcluding": "4.4.51",
 	"created": "2023-11-16T19:43:42.207",
 	"lastModified": "2023-11-16T19:43:42.207",
-	"cpeLastModified": "2023-11-16T19:43:42.207",
-	"status": "Active"
+	"cpeLastModified": "2023-12-01T13:06:12.100",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sensiolabs:twig:2.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "39BD9291-5039-414E-8381-D15192281048"
+		}
+	]
 }

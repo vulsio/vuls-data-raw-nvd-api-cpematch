@@ -3,8 +3,8 @@
 	"matchCriteriaId": "25CCC3CE-0577-4E09-9F82-ED779C049890",
 	"versionEndIncluding": "8.14.1",
 	"created": "2023-11-30T18:59:34.363",
-	"lastModified": "2023-11-30T18:59:34.363",
-	"cpeLastModified": "2023-11-30T18:59:34.363",
+	"lastModified": "2023-12-01T13:04:32.233",
+	"cpeLastModified": "2023-12-01T14:51:09.653",
 	"status": "Active",
 	"matches": [
 		{
@@ -142,6 +142,22 @@
 		{
 			"cpeName": "cpe:2.3:a:monsterinsights:monsterinsights:8.12.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "7C93AA20-2421-4318-B96B-12DFC2AC3F1B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:monsterinsights:monsterinsights:8.13:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C39C7067-559A-4A6E-8480-8C52505946EA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:monsterinsights:monsterinsights:8.13.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AD5E7A9A-9A6E-435D-91E3-05D21A3E6914"
+		},
+		{
+			"cpeName": "cpe:2.3:a:monsterinsights:monsterinsights:8.14:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E97D0E98-6D5B-4E19-8967-9F0227FAC1A1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:monsterinsights:monsterinsights:8.14.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "573AEDC8-2056-4D7E-88DC-DF4B3EDA3E74"
 		}
 	]
 }

@@ -5,6 +5,12 @@
 	"versionEndExcluding": "0.37.3",
 	"created": "2023-11-08T20:44:55.387",
 	"lastModified": "2023-11-08T20:44:55.387",
-	"cpeLastModified": "2023-11-08T20:44:55.387",
-	"status": "Active"
+	"cpeLastModified": "2023-12-01T15:29:36.947",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:quic-go_project:quic-go:0.37.0:*:*:*:*:*:*:*",
+			"cpeNameId": "FAD1F695-3E45-4480-8EDD-367ED73ACC3A"
+		}
+	]
 }

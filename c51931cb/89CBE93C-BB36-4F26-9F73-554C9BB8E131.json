@@ -3,7 +3,7 @@
 	"matchCriteriaId": "89CBE93C-BB36-4F26-9F73-554C9BB8E131",
 	"created": "2022-06-24T13:53:07.433",
 	"lastModified": "2022-06-28T15:03:59.020",
-	"cpeLastModified": "2023-11-22T20:56:41.073",
+	"cpeLastModified": "2023-12-01T13:06:12.100",
 	"status": "Active",
 	"matches": [
 		{
@@ -325,6 +325,10 @@
 		{
 			"cpeName": "cpe:2.3:h:intel:compute_element_stk2mv64cc:-:*:*:*:*:*:*:*",
 			"cpeNameId": "17DA3100-0C1A-4355-AAFD-B4E158239867"
+		},
+		{
+			"cpeName": "cpe:2.3:h:intel:compute_module_hns2600bpbrct:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BE0295BE-6B60-475C-8D13-AB89D1EDB7D4"
 		},
 		{
 			"cpeName": "cpe:2.3:h:intel:compute_module_liquid-cooled_hns2600bpbrct:-:*:*:*:*:*:*:*",
@@ -3325,6 +3329,14 @@
 		{
 			"cpeName": "cpe:2.3:h:intel:qm580e:-:*:*:*:*:*:*:*",
 			"cpeNameId": "3EDC335C-830F-48B9-8901-15257FD526F8"
+		},
+		{
+			"cpeName": "cpe:2.3:h:intel:quickassist_technology_driver:1.0:*:*:*:*:windows:*:*",
+			"cpeNameId": "186D5AF9-C654-4D4B-A62A-B591D1931D3E"
+		},
+		{
+			"cpeName": "cpe:2.3:h:intel:quickassist_technology_driver:2.0:*:*:*:*:windows:*:*",
+			"cpeNameId": "3C34587E-CA17-4079-9E1C-4800211AEDD1"
 		},
 		{
 			"cpeName": "cpe:2.3:h:intel:r2000wf:-:*:*:*:*:*:*:*",

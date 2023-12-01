@@ -4,7 +4,7 @@
 	"versionEndExcluding": "5.3.15",
 	"created": "2022-02-04T14:09:04.760",
 	"lastModified": "2022-02-04T14:09:04.760",
-	"cpeLastModified": "2023-02-13T17:23:11.720",
+	"cpeLastModified": "2023-12-01T13:06:12.100",
 	"status": "Active",
 	"matches": [
 		{
@@ -2110,6 +2110,10 @@
 		{
 			"cpeName": "cpe:2.3:a:sensiolabs:symfony:4.4.50:*:*:*:*:*:*:*",
 			"cpeNameId": "A8276151-6652-46C7-99F1-C438C91D5386"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sensiolabs:symfony:4.4.51:*:*:*:*:*:*:*",
+			"cpeNameId": "C332CD05-91F6-48B3-BC60-C9D52DAE67B1"
 		},
 		{
 			"cpeName": "cpe:2.3:a:sensiolabs:symfony:5.0.0:-:*:*:*:*:*:*",

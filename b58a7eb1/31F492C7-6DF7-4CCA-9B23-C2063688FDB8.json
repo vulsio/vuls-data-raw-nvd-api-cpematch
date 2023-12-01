@@ -3,7 +3,7 @@
 	"matchCriteriaId": "31F492C7-6DF7-4CCA-9B23-C2063688FDB8",
 	"created": "2021-03-15T23:46:23.307",
 	"lastModified": "2021-03-15T23:46:23.307",
-	"cpeLastModified": "2021-03-15T23:48:35.280",
+	"cpeLastModified": "2023-12-01T15:29:36.947",
 	"status": "Active",
 	"matches": [
 		{
@@ -397,6 +397,10 @@
 		{
 			"cpeName": "cpe:2.3:a:tyk:tyk:3.2.0:rc1:*:*:*:*:*:*",
 			"cpeNameId": "E2E6AE09-D4E7-4300-BA32-5E5AE5E4EB25"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tyk:tyk:5.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "1E1C76A7-534E-4A30-8AC4-0AB2081C3AD8"
 		}
 	]
 }

@@ -4,8 +4,8 @@
 	"versionStartIncluding": "2.0.0",
 	"versionEndExcluding": "2.18.4.0",
 	"created": "2023-11-16T11:49:06.390",
-	"lastModified": "2023-11-16T11:49:06.390",
-	"cpeLastModified": "2023-11-16T11:49:06.390",
+	"lastModified": "2023-12-01T15:29:36.947",
+	"cpeLastModified": "2023-12-01T15:29:36.947",
 	"status": "Active",
 	"matches": [
 		{
@@ -381,6 +381,10 @@
 			"cpeNameId": "B66E6290-CF9F-4EE2-9BC1-C0EEC3F124DA"
 		},
 		{
+			"cpeName": "cpe:2.3:a:yugabyte:yugabytedb:2.14.14.0:*:*:*:*:*:*:*",
+			"cpeNameId": "8CA5AE14-9EF4-452A-A978-B5CE1A39B00F"
+		},
+		{
 			"cpeName": "cpe:2.3:a:yugabyte:yugabytedb:2.15.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "F2C8B9E2-5176-4D03-A046-5EB6F90BBF8C"
 		},
@@ -447,6 +451,10 @@
 		{
 			"cpeName": "cpe:2.3:a:yugabyte:yugabytedb:2.16.6.1:*:*:*:*:*:*:*",
 			"cpeNameId": "444354E4-4C1E-44D6-89DC-D34A7DB21692"
+		},
+		{
+			"cpeName": "cpe:2.3:a:yugabyte:yugabytedb:2.16.8.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D4EAAAFF-6745-4169-ACBE-B53BB53D1D70"
 		},
 		{
 			"cpeName": "cpe:2.3:a:yugabyte:yugabytedb:2.17.0.0:*:*:*:*:*:*:*",

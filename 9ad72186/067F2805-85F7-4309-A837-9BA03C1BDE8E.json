@@ -3,8 +3,8 @@
 	"matchCriteriaId": "067F2805-85F7-4309-A837-9BA03C1BDE8E",
 	"versionEndIncluding": "1.23.11.6",
 	"created": "2023-11-18T03:51:44.670",
-	"lastModified": "2023-11-18T03:51:44.670",
-	"cpeLastModified": "2023-11-18T03:51:44.670",
+	"lastModified": "2023-12-01T13:06:12.100",
+	"cpeLastModified": "2023-12-01T13:06:12.100",
 	"status": "Active",
 	"matches": [
 		{
@@ -870,6 +870,10 @@
 		{
 			"cpeName": "cpe:2.3:a:pressified:sendpress:1.22.3.31:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "BC9B6AC6-7506-4C25-8F61-0DFA9495FB37"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pressified:sendpress:1.23.11.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "645DD707-3B4B-4807-AC4E-F98828B46961"
 		}
 	]
 }
