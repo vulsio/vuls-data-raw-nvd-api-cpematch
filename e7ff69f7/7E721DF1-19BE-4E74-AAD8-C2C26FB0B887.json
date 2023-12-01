@@ -4,9 +4,13 @@
 	"versionEndIncluding": "0.6.2",
 	"created": "2023-10-30T15:31:16.207",
 	"lastModified": "2023-10-30T15:31:16.207",
-	"cpeLastModified": "2023-10-30T15:31:16.207",
+	"cpeLastModified": "2023-12-01T10:42:50.113",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:archivebox:archivebox:-:*:*:*:*:*:*:*",
+			"cpeNameId": "22B558E9-ACF5-4A94-96DF-BD17AAB4D3D9"
+		},
 		{
 			"cpeName": "cpe:2.3:a:archivebox:archivebox:0.0.1:*:*:*:*:*:*:*",
 			"cpeNameId": "BFE0F845-695A-4714-B81F-603D930CCF92"

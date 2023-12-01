@@ -4,9 +4,13 @@
 	"versionEndExcluding": "0.6.2",
 	"created": "2023-10-10T15:50:20.153",
 	"lastModified": "2023-10-13T11:08:22.727",
-	"cpeLastModified": "2023-10-13T11:08:22.727",
+	"cpeLastModified": "2023-12-01T10:42:50.113",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:charm:soft_serve:-:*:*:*:*:go:*:*",
+			"cpeNameId": "152F0163-117D-48F0-A3E3-005E3BB3B0BC"
+		},
 		{
 			"cpeName": "cpe:2.3:a:charm:soft_serve:0.1.0:*:*:*:*:go:*:*",
 			"cpeNameId": "079DABF6-3755-4305-85EF-6C1609B8E732"

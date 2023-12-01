@@ -4,13 +4,17 @@
 	"versionStartIncluding": "r41p0",
 	"versionEndExcluding": "r43p0",
 	"created": "2023-11-14T12:40:10.493",
-	"lastModified": "2023-11-14T12:40:10.493",
-	"cpeLastModified": "2023-11-14T12:40:10.493",
+	"lastModified": "2023-12-01T10:42:50.113",
+	"cpeLastModified": "2023-12-01T10:42:50.113",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:arm:mali_gpu_kernel_driver:r41p0:*:*:*:*:*:*:*",
 			"cpeNameId": "528742C3-932F-4937-8E3D-9170911D3A34"
+		},
+		{
+			"cpeName": "cpe:2.3:a:arm:mali_gpu_kernel_driver:r42p0:*:*:*:*:*:*:*",
+			"cpeNameId": "A6AE8D50-7D26-4EDF-9388-A6181C75FB07"
 		}
 	]
 }

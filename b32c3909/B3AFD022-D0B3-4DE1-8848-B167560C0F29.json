@@ -3,8 +3,8 @@
 	"matchCriteriaId": "B3AFD022-D0B3-4DE1-8848-B167560C0F29",
 	"versionEndExcluding": "4.5.2",
 	"created": "2023-11-14T17:08:26.640",
-	"lastModified": "2023-11-14T17:08:26.640",
-	"cpeLastModified": "2023-11-14T17:08:26.640",
+	"lastModified": "2023-12-01T10:45:30.163",
+	"cpeLastModified": "2023-12-01T10:45:30.163",
 	"status": "Active",
 	"matches": [
 		{
@@ -58,6 +58,10 @@
 		{
 			"cpeName": "cpe:2.3:a:matbao:wp_helper_premium:4.4.4:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "F289C9A0-6B07-41AE-97BE-AF74FB6E955A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:matbao:wp_helper_premium:4.5.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B277EEB6-2604-4105-9001-573ED0B91F95"
 		}
 	]
 }
