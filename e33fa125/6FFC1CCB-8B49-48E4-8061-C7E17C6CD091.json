@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:a:kyverno:kyverno:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6FFC1CCB-8B49-48E4-8061-C7E17C6CD091",
+	"versionEndExcluding": "1.10.5",
+	"created": "2023-11-30T18:53:47.050",
+	"lastModified": "2023-11-30T18:53:47.050",
+	"cpeLastModified": "2023-11-30T19:04:16.070",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:kyverno:kyverno:1.8.3:-:*:*:*:*:*:*",
+			"cpeNameId": "5C75C040-2EE9-42BE-BB05-B9DE673EBA42"
+		},
+		{
+			"cpeName": "cpe:2.3:a:kyverno:kyverno:1.8.4:-:*:*:*:*:*:*",
+			"cpeNameId": "A84F4C8C-9A2B-44CD-A57C-8AFFAF7851E5"
+		}
+	]
+}
