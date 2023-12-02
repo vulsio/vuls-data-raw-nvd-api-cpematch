@@ -4,10 +4,14 @@
 	"versionStartIncluding": "31.7.0",
 	"versionEndExcluding": "31.7.2",
 	"created": "2023-10-26T13:40:46.317",
-	"lastModified": "2023-10-26T13:40:46.317",
-	"cpeLastModified": "2023-10-26T13:40:46.317",
+	"lastModified": "2023-12-01T22:41:12.713",
+	"cpeLastModified": "2023-12-01T22:41:12.713",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:extremenetworks:exos:31.7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "25562594-7DBE-44E8-99CB-2E8AB06CE557"
+		},
 		{
 			"cpeName": "cpe:2.3:o:extremenetworks:exos:31.7.1:*:*:*:*:*:*:*",
 			"cpeNameId": "1337504B-60EB-4F7D-AF43-94996C81B107"

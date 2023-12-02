@@ -3,7 +3,7 @@
 	"matchCriteriaId": "F88AFAB1-0415-47A6-B1B6-4C845AAFFF82",
 	"created": "2022-10-18T16:30:55.690",
 	"lastModified": "2022-10-18T16:30:55.690",
-	"cpeLastModified": "2023-11-07T17:16:58.993",
+	"cpeLastModified": "2023-12-01T22:43:31.047",
 	"status": "Active",
 	"matches": [
 		{
@@ -571,6 +571,10 @@
 			"cpeNameId": "CDBAF6B2-4A1B-48CD-9A3F-0854820E5B41"
 		},
 		{
+			"cpeName": "cpe:2.3:a:tenable:nessus:10.4.4:*:*:*:*:*:*:*",
+			"cpeNameId": "62679E7E-15DF-4102-AD7C-2E7E4F35CAD5"
+		},
+		{
 			"cpeName": "cpe:2.3:a:tenable:nessus:10.5.0:*:*:*:*:*:*:*",
 			"cpeNameId": "ECBCB6E8-5BAE-445D-B555-F2FF6650AE77"
 		},
@@ -599,6 +603,10 @@
 			"cpeNameId": "70BB7F62-7CF2-4919-A3FD-B5C6EAA82F5C"
 		},
 		{
+			"cpeName": "cpe:2.3:a:tenable:nessus:10.5.7:*:*:*:*:*:*:*",
+			"cpeNameId": "BDCC0E58-FB9F-4A2A-8F0D-95D176CC8741"
+		},
+		{
 			"cpeName": "cpe:2.3:a:tenable:nessus:10.6.0:*:*:*:*:*:*:*",
 			"cpeNameId": "EB2DEA9E-65D8-44E8-9D5B-DFE9ABFBF56A"
 		},
@@ -609,6 +617,10 @@
 		{
 			"cpeName": "cpe:2.3:a:tenable:nessus:10.6.2:*:*:*:*:*:*:*",
 			"cpeNameId": "A48BC8E7-688E-40B4-837E-4E2A51067DC1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tenable:nessus:10.6.3:*:*:*:*:*:*:*",
+			"cpeNameId": "0EA23169-B705-44A7-85EC-09C3A063EABF"
 		}
 	]
 }

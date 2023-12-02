@@ -4,6 +4,12 @@
 	"versionEndExcluding": "2.04",
 	"created": "2023-11-25T13:48:44.250",
 	"lastModified": "2023-11-25T13:48:44.250",
-	"cpeLastModified": "2023-11-25T13:48:44.250",
-	"status": "Active"
+	"cpeLastModified": "2023-12-01T22:41:12.713",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:quickassist_technology_driver_firmware:1.10:*:*:*:*:windows:*:*",
+			"cpeNameId": "9FA6076E-1BA3-44D9-AD8E-A7D4E5A824FA"
+		}
+	]
 }

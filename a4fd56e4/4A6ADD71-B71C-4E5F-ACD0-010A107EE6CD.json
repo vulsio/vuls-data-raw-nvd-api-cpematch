@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:acer:sk-9662:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "4A6ADD71-B71C-4E5F-ACD0-010A107EE6CD",
 	"created": "2023-12-01T15:28:50.540",
-	"lastModified": "2023-12-01T15:28:50.540",
-	"cpeLastModified": "2023-12-01T15:28:50.540",
-	"status": "Active"
+	"lastModified": "2023-12-01T22:43:31.047",
+	"cpeLastModified": "2023-12-01T22:43:31.047",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:acer:sk-9662:-:*:*:*:*:*:*:*",
+			"cpeNameId": "76ED2024-9554-40CE-A631-14A947079D35"
+		}
+	]
 }

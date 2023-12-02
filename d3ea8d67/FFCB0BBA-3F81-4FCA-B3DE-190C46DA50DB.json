@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:qualcomm:sc8380xp:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "FFCB0BBA-3F81-4FCA-B3DE-190C46DA50DB",
 	"created": "2023-11-09T19:30:10.660",
-	"lastModified": "2023-11-09T19:30:10.660",
-	"cpeLastModified": "2023-11-09T19:30:10.660",
-	"status": "Active"
+	"lastModified": "2023-12-01T22:41:12.713",
+	"cpeLastModified": "2023-12-01T22:41:12.713",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:sc8380xp:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D6ABFEA8-DF2E-4877-A5AF-32ED975E9AE4"
+		}
+	]
 }

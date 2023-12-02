@@ -3,8 +3,8 @@
 	"matchCriteriaId": "7D04A19E-D1D5-4629-992D-B5493FF1F8A3",
 	"versionEndExcluding": "7.0.0",
 	"created": "2023-12-01T16:00:08.800",
-	"lastModified": "2023-12-01T16:00:08.800",
-	"cpeLastModified": "2023-12-01T16:00:08.800",
+	"lastModified": "2023-12-01T22:41:12.713",
+	"cpeLastModified": "2023-12-01T22:41:12.713",
 	"status": "Active",
 	"matches": [
 		{
@@ -374,6 +374,22 @@
 		{
 			"cpeName": "cpe:2.3:a:getshortcodes:shortcodes_ultimate:5.12.8:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "AEAB4F30-7684-4064-99B6-BE19B5D6C024"
+		},
+		{
+			"cpeName": "cpe:2.3:a:getshortcodes:shortcodes_ultimate:5.12.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DCA96639-7F63-4468-8B0D-B2149E8D3E2E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:getshortcodes:shortcodes_ultimate:5.12.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A897C7B5-8F44-4F63-A451-E7051C4DEAB0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:getshortcodes:shortcodes_ultimate:5.13.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DC67442F-52F4-4484-9807-CE217BD152E7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:getshortcodes:shortcodes_ultimate:5.13.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "376D7C03-1C13-4152-9291-03A81B5C7653"
 		}
 	]
 }

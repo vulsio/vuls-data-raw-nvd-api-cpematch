@@ -4,7 +4,7 @@
 	"versionEndExcluding": "525916_2020-02-12",
 	"created": "2020-03-16T20:29:21.840",
 	"lastModified": "2020-03-16T20:29:21.840",
-	"cpeLastModified": "2023-11-15T21:41:09.850",
+	"cpeLastModified": "2023-12-01T22:41:12.713",
 	"status": "Active",
 	"matches": [
 		{
@@ -3842,6 +3842,10 @@
 		{
 			"cpeName": "cpe:2.3:o:freebsd:freebsd:13.2:p5:*:*:*:*:*:*",
 			"cpeNameId": "3DB768B5-785D-4B0B-BF70-A082AE63C741"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:14.0:-:*:*:*:*:*:*",
+			"cpeNameId": "82330AAF-50A4-479B-805B-471298D9E6C4"
 		}
 	]
 }

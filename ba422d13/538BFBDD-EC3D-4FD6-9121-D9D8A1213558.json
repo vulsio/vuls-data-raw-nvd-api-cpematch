@@ -3,8 +3,8 @@
 	"matchCriteriaId": "538BFBDD-EC3D-4FD6-9121-D9D8A1213558",
 	"versionEndExcluding": "2.7.6",
 	"created": "2023-11-29T19:44:51.390",
-	"lastModified": "2023-11-29T19:44:51.390",
-	"cpeLastModified": "2023-11-29T19:44:51.390",
+	"lastModified": "2023-12-01T18:28:42.207",
+	"cpeLastModified": "2023-12-01T18:28:42.207",
 	"status": "Active",
 	"matches": [
 		{
@@ -198,6 +198,42 @@
 		{
 			"cpeName": "cpe:2.3:a:glewlwyd_sso_server_project:glewlwyd_sso_server:2.5.4:*:*:*:*:*:*:*",
 			"cpeNameId": "8AE82EA4-42BE-4D84-B418-CD4F0242F640"
+		},
+		{
+			"cpeName": "cpe:2.3:a:glewlwyd_sso_server_project:glewlwyd_sso_server:2.6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "68641B69-E82E-4FBB-89AC-2708600483F6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:glewlwyd_sso_server_project:glewlwyd_sso_server:2.6.1:*:*:*:*:*:*:*",
+			"cpeNameId": "AA9F1ABC-1748-4679-B3C7-F1A39BF235D8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:glewlwyd_sso_server_project:glewlwyd_sso_server:2.6.2:*:*:*:*:*:*:*",
+			"cpeNameId": "6692F7C9-32E6-4161-8232-7FEE58CD7559"
+		},
+		{
+			"cpeName": "cpe:2.3:a:glewlwyd_sso_server_project:glewlwyd_sso_server:2.7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B66B8603-ED8E-4592-A643-1AAD6735943B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:glewlwyd_sso_server_project:glewlwyd_sso_server:2.7.1:*:*:*:*:*:*:*",
+			"cpeNameId": "EE7DC384-CF03-413A-9044-30211F5EFB85"
+		},
+		{
+			"cpeName": "cpe:2.3:a:glewlwyd_sso_server_project:glewlwyd_sso_server:2.7.2:*:*:*:*:*:*:*",
+			"cpeNameId": "F4436B37-8417-46D2-B76E-86D044178B54"
+		},
+		{
+			"cpeName": "cpe:2.3:a:glewlwyd_sso_server_project:glewlwyd_sso_server:2.7.3:*:*:*:*:*:*:*",
+			"cpeNameId": "718DBFE9-738D-473F-A744-3E0481CBF4B3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:glewlwyd_sso_server_project:glewlwyd_sso_server:2.7.4:*:*:*:*:*:*:*",
+			"cpeNameId": "5469926A-CC7B-4CF1-BB94-BB82FE871A7B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:glewlwyd_sso_server_project:glewlwyd_sso_server:2.7.5:*:*:*:*:*:*:*",
+			"cpeNameId": "B12ED2FE-73A2-4A23-B335-7DD078AF3085"
 		}
 	]
 }

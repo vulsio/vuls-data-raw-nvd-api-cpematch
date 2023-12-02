@@ -3,7 +3,7 @@
 	"matchCriteriaId": "D9EC02F3-3905-460D-8949-3B26394215CA",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2023-02-16T14:40:57.227",
-	"cpeLastModified": "2023-11-15T21:41:09.850",
+	"cpeLastModified": "2023-12-01T22:41:12.713",
 	"status": "Active",
 	"matches": [
 		{
@@ -3841,6 +3841,10 @@
 		{
 			"cpeName": "cpe:2.3:o:freebsd:freebsd:13.2:p5:*:*:*:*:*:*",
 			"cpeNameId": "3DB768B5-785D-4B0B-BF70-A082AE63C741"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:14.0:-:*:*:*:*:*:*",
+			"cpeNameId": "82330AAF-50A4-479B-805B-471298D9E6C4"
 		},
 		{
 			"cpeName": "cpe:2.3:o:freebsd:freebsd:525916_2020-02-12:*:*:*:*:*:*:*",
