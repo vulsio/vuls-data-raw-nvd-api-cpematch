@@ -4,8 +4,8 @@
 	"versionStartIncluding": "3.0.0",
 	"versionEndExcluding": "3.0.34",
 	"created": "2023-12-01T15:10:19.593",
-	"lastModified": "2023-12-01T15:10:19.593",
-	"cpeLastModified": "2023-12-01T15:10:19.593",
+	"lastModified": "2023-12-02T03:37:44.170",
+	"cpeLastModified": "2023-12-02T03:37:44.170",
 	"status": "Active",
 	"matches": [
 		{
@@ -87,6 +87,26 @@
 		{
 			"cpeName": "cpe:2.3:a:phpseclib:phpseclib:3.0.19:*:*:*:*:*:*:*",
 			"cpeNameId": "D381E31E-3FA3-4EC7-8BFA-C0EDCD26528A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:phpseclib:phpseclib:3.0.20:*:*:*:*:*:*:*",
+			"cpeNameId": "A5054ECC-672E-4855-8558-C0AB3C2C7FBB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:phpseclib:phpseclib:3.0.21:*:*:*:*:*:*:*",
+			"cpeNameId": "835F3B4B-1258-40CC-BB1D-B8F0A469CBDD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:phpseclib:phpseclib:3.0.22:*:*:*:*:*:*:*",
+			"cpeNameId": "BCC30CDF-3881-48FC-A4BC-444E25327A05"
+		},
+		{
+			"cpeName": "cpe:2.3:a:phpseclib:phpseclib:3.0.23:*:*:*:*:*:*:*",
+			"cpeNameId": "F3BD67B4-6F11-4278-BFD9-AECF07DA07AF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:phpseclib:phpseclib:3.0.33:*:*:*:*:*:*:*",
+			"cpeNameId": "31D7B6F9-A71A-4564-A471-AE70463188FF"
 		}
 	]
 }
