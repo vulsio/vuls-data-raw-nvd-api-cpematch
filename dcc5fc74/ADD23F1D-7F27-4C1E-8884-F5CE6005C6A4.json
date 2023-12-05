@@ -4,7 +4,7 @@
 	"versionEndExcluding": "6.2.6",
 	"created": "2023-09-15T11:47:10.443",
 	"lastModified": "2023-09-15T11:47:10.443",
-	"cpeLastModified": "2023-09-15T11:47:10.443",
+	"cpeLastModified": "2023-12-04T19:42:01.483",
 	"status": "Active",
 	"matches": [
 		{
@@ -220,6 +220,10 @@
 			"cpeNameId": "6B437E89-A0FA-4E8C-9F47-66860117A29F"
 		},
 		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiadc:5.2.0:-:*:*:*:*:*:*",
+			"cpeNameId": "77264B21-858F-45A3-8D64-F93D63D7B7A7"
+		},
+		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiadc:5.2.1:*:*:*:*:*:*:*",
 			"cpeNameId": "D4010997-4B2A-413B-8208-3A5EDF87D968"
 		},
@@ -256,6 +260,10 @@
 			"cpeNameId": "1F15EA64-B5AA-48FD-8517-6C7215C38233"
 		},
 		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiadc:5.3.0:-:*:*:*:*:*:*",
+			"cpeNameId": "81465E10-E434-4547-814B-C4B98A0D5C6C"
+		},
+		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiadc:5.3.1:*:*:*:*:*:*:*",
 			"cpeNameId": "4D7C3EB4-32CF-46C5-8417-F70FBC79D66F"
 		},
@@ -288,6 +296,10 @@
 			"cpeNameId": "2A2BFEF5-8528-46AB-9229-90B8FC2BCEAC"
 		},
 		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiadc:5.4.0:-:*:*:*:*:*:*",
+			"cpeNameId": "A857063E-071B-4828-A380-6E1CB79C3A72"
+		},
+		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiadc:5.4.1:*:*:*:*:*:*:*",
 			"cpeNameId": "6D486DB0-CD38-41EF-BA11-1FB5DEFDB1E9"
 		},
@@ -308,6 +320,10 @@
 			"cpeNameId": "CBDB8E66-364E-40AC-AE61-C6F7933D7049"
 		},
 		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiadc:6.0.0:-:*:*:*:*:*:*",
+			"cpeNameId": "C9904A4B-E81D-4665-A7F9-2757C701875B"
+		},
+		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiadc:6.0.1:*:*:*:*:*:*:*",
 			"cpeNameId": "0246A81F-483F-43B6-99D7-ACD6A8A9072A"
 		},
@@ -326,6 +342,10 @@
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiadc:6.1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "C446F765-36C8-4C1D-9783-8307DB81E1BF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiadc:6.1.0:-:*:*:*:*:*:*",
+			"cpeNameId": "7A988BAC-6C6A-4048-965C-EA9FFC144CED"
 		},
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiadc:6.1.1:*:*:*:*:*:*:*",
@@ -354,6 +374,10 @@
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiadc:6.2.0:*:*:*:*:*:*:*",
 			"cpeNameId": "63441A8A-A7D2-49AB-BDF9-312920F18641"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiadc:6.2.0:-:*:*:*:*:*:*",
+			"cpeNameId": "C932AEA9-3145-4751-A212-64C930D4E044"
 		},
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiadc:6.2.1:*:*:*:*:*:*:*",

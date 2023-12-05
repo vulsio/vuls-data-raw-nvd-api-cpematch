@@ -5,12 +5,16 @@
 	"versionEndIncluding": "6.0.3",
 	"created": "2021-12-08T19:43:29.727",
 	"lastModified": "2021-12-08T19:43:29.727",
-	"cpeLastModified": "2021-12-10T22:35:37.800",
+	"cpeLastModified": "2023-12-04T19:42:01.483",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiadc:6.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "CBDB8E66-364E-40AC-AE61-C6F7933D7049"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiadc:6.0.0:-:*:*:*:*:*:*",
+			"cpeNameId": "C9904A4B-E81D-4665-A7F9-2757C701875B"
 		},
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiadc:6.0.1:*:*:*:*:*:*:*",

@@ -5,6 +5,12 @@
 	"versionEndExcluding": "17.11.1a",
 	"created": "2023-11-07T16:19:01.900",
 	"lastModified": "2023-11-07T16:19:01.900",
-	"cpeLastModified": "2023-11-07T16:19:01.900",
-	"status": "Active"
+	"cpeLastModified": "2023-12-04T19:37:18.530",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:unified_threat_defense:17.11:*:*:*:*:*:*:*",
+			"cpeNameId": "91E00C0F-5309-48FE-A929-D9EBF8CA3D96"
+		}
+	]
 }
