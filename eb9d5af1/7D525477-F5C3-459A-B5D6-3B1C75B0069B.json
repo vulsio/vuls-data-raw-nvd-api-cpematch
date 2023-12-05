@@ -5,6 +5,16 @@
 	"versionEndIncluding": "r42p0",
 	"created": "2023-10-04T13:50:31.750",
 	"lastModified": "2023-10-04T13:50:31.750",
-	"cpeLastModified": "2023-10-04T13:50:31.750",
-	"status": "Active"
+	"cpeLastModified": "2023-12-05T16:48:42.560",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:arm:5th_gen_gpu_architecture_kernel_driver:r41p0:*:*:*:*:*:*:*",
+			"cpeNameId": "0E4504E3-94F0-46F0-AD01-DACCA39E959E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:arm:5th_gen_gpu_architecture_kernel_driver:r42p0:*:*:*:*:*:*:*",
+			"cpeNameId": "909ED9A4-82A4-4241-A2C0-152D5F6BD6F1"
+		}
+	]
 }

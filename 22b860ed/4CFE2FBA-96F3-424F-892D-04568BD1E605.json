@@ -1,0 +1,20 @@
+{
+	"criteria": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4CFE2FBA-96F3-424F-892D-04568BD1E605",
+	"versionStartIncluding": "r44p0",
+	"versionEndExcluding": "r46p0",
+	"created": "2023-12-05T15:12:32.063",
+	"lastModified": "2023-12-05T15:12:32.063",
+	"cpeLastModified": "2023-12-05T15:12:32.063",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r44p0:*:*:*:*:*:*:*",
+			"cpeNameId": "366FBDF2-1A6A-478B-8132-0CF771D3823C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r44p1:*:*:*:*:*:*:*",
+			"cpeNameId": "6FAD7FC8-14D5-4F5A-A09B-9AB9B68420BF"
+		}
+	]
+}

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "53061F55-E040-4E23-AE2B-83F3EFF78B12",
 	"versionEndIncluding": "117",
 	"created": "2023-09-28T13:46:53.897",
-	"lastModified": "2023-09-28T13:46:53.897",
-	"cpeLastModified": "2023-09-28T13:46:53.897",
+	"lastModified": "2023-12-05T17:30:39.690",
+	"cpeLastModified": "2023-12-05T17:30:39.690",
 	"status": "Active",
 	"matches": [
 		{
@@ -98,6 +98,14 @@
 		{
 			"cpeName": "cpe:2.3:a:getlasso:simple_urls:115:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "18A2BB9C-48A3-4753-BB8F-C20DF9C0E6D8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:getlasso:simple_urls:116:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3CC2E322-E839-43A5-B691-57056E95EF74"
+		},
+		{
+			"cpeName": "cpe:2.3:a:getlasso:simple_urls:117:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "17EB4212-5BFF-46C7-B445-C88866EA68F3"
 		}
 	]
 }

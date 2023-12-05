@@ -3,8 +3,8 @@
 	"matchCriteriaId": "FB99F7C8-7DB8-41EB-817C-CCA0B26A8573",
 	"versionEndExcluding": "17.1.2",
 	"created": "2023-12-04T19:49:44.360",
-	"lastModified": "2023-12-04T19:49:44.360",
-	"cpeLastModified": "2023-12-04T19:49:44.360",
+	"lastModified": "2023-12-05T16:42:57.190",
+	"cpeLastModified": "2023-12-05T16:42:57.190",
 	"status": "Active",
 	"matches": [
 		{
@@ -790,6 +790,10 @@
 		{
 			"cpeName": "cpe:2.3:a:apple:safari:17.0:*:*:*:*:*:*:*",
 			"cpeNameId": "EE42D34E-6A31-4893-B672-6865B58C1D43"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apple:safari:17.1:*:*:*:*:*:*:*",
+			"cpeNameId": "C652B46B-E991-4042-B8BF-1274E2B7D304"
 		}
 	]
 }

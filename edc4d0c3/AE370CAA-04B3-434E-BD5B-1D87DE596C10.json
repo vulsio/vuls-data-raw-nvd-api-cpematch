@@ -3,7 +3,7 @@
 	"matchCriteriaId": "AE370CAA-04B3-434E-BD5B-1D87DE596C10",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-09-28T10:32:05.773",
+	"cpeLastModified": "2023-12-05T16:42:57.190",
 	"status": "Active",
 	"matches": [
 		{
@@ -789,6 +789,14 @@
 		{
 			"cpeName": "cpe:2.3:a:apple:safari:17.0:*:*:*:*:*:*:*",
 			"cpeNameId": "EE42D34E-6A31-4893-B672-6865B58C1D43"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apple:safari:17.1:*:*:*:*:*:*:*",
+			"cpeNameId": "C652B46B-E991-4042-B8BF-1274E2B7D304"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apple:safari:17.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "89DF0889-A581-414A-A94E-0552978BEA4E"
 		},
 		{
 			"cpeName": "cpe:2.3:a:apple:safari:18:*:*:*:technology_preview:*:*:*",
