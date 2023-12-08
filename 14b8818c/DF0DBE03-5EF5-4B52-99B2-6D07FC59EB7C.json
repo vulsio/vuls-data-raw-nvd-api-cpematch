@@ -4,7 +4,7 @@
 	"versionEndExcluding": "5.0.3",
 	"created": "2022-07-19T13:38:05.177",
 	"lastModified": "2022-07-19T13:38:05.177",
-	"cpeLastModified": "2022-07-19T13:37:01.987",
+	"cpeLastModified": "2023-12-08T15:05:20.820",
 	"status": "Active",
 	"matches": [
 		{
@@ -414,6 +414,10 @@
 		{
 			"cpeName": "cpe:2.3:a:bestpractical:request_tracker:4.4.6:*:*:*:*:*:*:*",
 			"cpeNameId": "6EB3B8FD-187B-4828-B8EC-6FE771F7D247"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bestpractical:request_tracker:4.4.7:*:*:*:*:*:*:*",
+			"cpeNameId": "5255E481-44B2-4E3E-B421-823ED427D18F"
 		},
 		{
 			"cpeName": "cpe:2.3:a:bestpractical:request_tracker:5.0.0:*:*:*:*:*:*:*",

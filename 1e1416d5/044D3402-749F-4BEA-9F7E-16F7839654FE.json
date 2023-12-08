@@ -3,7 +3,7 @@
 	"matchCriteriaId": "044D3402-749F-4BEA-9F7E-16F7839654FE",
 	"created": "2021-01-26T15:16:55.187",
 	"lastModified": "2021-01-26T15:16:55.187",
-	"cpeLastModified": "2023-11-24T23:42:56.143",
+	"cpeLastModified": "2023-12-08T18:02:37.947",
 	"status": "Active",
 	"matches": [
 		{
@@ -4207,6 +4207,10 @@
 			"cpeNameId": "73F784F6-708E-46FC-93D2-C6BA7DC90150"
 		},
 		{
+			"cpeName": "cpe:2.3:a:kubernetes:kubernetes:1.24.17:*:*:*:*:*:*:*",
+			"cpeNameId": "64A9C7C9-FE0D-4EE2-AFEB-AB433A89E405"
+		},
+		{
 			"cpeName": "cpe:2.3:a:kubernetes:kubernetes:1.25.0:-:*:*:*:*:*:*",
 			"cpeNameId": "F2763D73-0CDF-4074-9718-4B68B940457C"
 		},
@@ -4287,6 +4291,10 @@
 			"cpeNameId": "20388A8E-6FFD-4BA4-A54A-842DB2F35E72"
 		},
 		{
+			"cpeName": "cpe:2.3:a:kubernetes:kubernetes:1.25.13:*:*:*:*:*:*:*",
+			"cpeNameId": "6E4FB2CD-2F21-47A2-BE36-1A90E8EE8928"
+		},
+		{
 			"cpeName": "cpe:2.3:a:kubernetes:kubernetes:1.25.14:*:*:*:*:*:*:*",
 			"cpeNameId": "2CBB4888-C3BA-4E59-A271-F4EF3A6DC3B0"
 		},
@@ -4363,6 +4371,10 @@
 			"cpeNameId": "39290FB4-9836-49DE-994B-C64B743955DB"
 		},
 		{
+			"cpeName": "cpe:2.3:a:kubernetes:kubernetes:1.26.8:*:*:*:*:*:*:*",
+			"cpeNameId": "24B9AB2C-5B7E-4AE1-B523-4EE1B06A1878"
+		},
+		{
 			"cpeName": "cpe:2.3:a:kubernetes:kubernetes:1.26.9:*:*:*:*:*:*:*",
 			"cpeNameId": "DF2A3D2A-1E9F-4F36-8680-F04135F47172"
 		},
@@ -4415,6 +4427,10 @@
 			"cpeNameId": "43DE23D7-BCBC-475D-9193-5BF314EFDA35"
 		},
 		{
+			"cpeName": "cpe:2.3:a:kubernetes:kubernetes:1.27.5:*:*:*:*:*:*:*",
+			"cpeNameId": "C0AE5A86-746F-4E27-BB1E-9E90ECAD1FDA"
+		},
+		{
 			"cpeName": "cpe:2.3:a:kubernetes:kubernetes:1.27.6:*:*:*:*:*:*:*",
 			"cpeNameId": "2763FC5A-9E50-4E17-B683-9F211380A4D8"
 		},
@@ -4425,6 +4441,14 @@
 		{
 			"cpeName": "cpe:2.3:a:kubernetes:kubernetes:1.27.8:*:*:*:*:*:*:*",
 			"cpeNameId": "5ED0E787-D777-4B9B-95B4-FCC0F04E6F18"
+		},
+		{
+			"cpeName": "cpe:2.3:a:kubernetes:kubernetes:1.28.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C06C05DF-6382-443E-9AEC-44A7444CAD75"
+		},
+		{
+			"cpeName": "cpe:2.3:a:kubernetes:kubernetes:1.28.1:*:*:*:*:*:*:*",
+			"cpeNameId": "519F4F65-AEB6-4A2E-BFF1-1329D987761C"
 		},
 		{
 			"cpeName": "cpe:2.3:a:kubernetes:kubernetes:1.28.2:*:*:*:*:*:*:*",

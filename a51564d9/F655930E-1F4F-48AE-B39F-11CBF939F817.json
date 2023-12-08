@@ -3,8 +3,8 @@
 	"matchCriteriaId": "F655930E-1F4F-48AE-B39F-11CBF939F817",
 	"versionEndExcluding": "4.13.3",
 	"created": "2023-12-04T18:31:21.753",
-	"lastModified": "2023-12-04T18:31:21.753",
-	"cpeLastModified": "2023-12-04T18:31:21.753",
+	"lastModified": "2023-12-08T16:48:53.657",
+	"cpeLastModified": "2023-12-08T16:48:53.657",
 	"status": "Active",
 	"matches": [
 		{
@@ -758,6 +758,30 @@
 		{
 			"cpeName": "cpe:2.3:a:properfraction:profilepress:4.10.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "367D514E-B8C7-46F2-BF26-B9801035E49B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:properfraction:profilepress:4.10.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EE25441E-110B-4EA1-8CAD-6EA9602081E6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:properfraction:profilepress:4.11.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4F0FA32D-1DBB-414D-9AA1-D1101DAAD197"
+		},
+		{
+			"cpeName": "cpe:2.3:a:properfraction:profilepress:4.12.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0718B53B-F0BD-45CC-AE29-D66B4B803FE2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:properfraction:profilepress:4.13.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "02C4C9C0-B886-400D-8DD9-339939077D1D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:properfraction:profilepress:4.13.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E88E8907-EAF4-48C8-BD9D-9AEC1E20E414"
+		},
+		{
+			"cpeName": "cpe:2.3:a:properfraction:profilepress:4.13.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "63B307FB-D612-4340-A9C9-335DEE4C43FC"
 		}
 	]
 }

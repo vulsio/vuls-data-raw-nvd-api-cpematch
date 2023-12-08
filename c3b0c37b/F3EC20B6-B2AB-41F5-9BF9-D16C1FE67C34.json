@@ -5,7 +5,7 @@
 	"versionEndIncluding": "9.0.80",
 	"created": "2023-10-18T13:56:09.727",
 	"lastModified": "2023-10-18T13:56:09.727",
-	"cpeLastModified": "2023-10-18T13:56:09.727",
+	"cpeLastModified": "2023-12-08T16:42:33.263",
 	"status": "Active",
 	"matches": [
 		{
@@ -511,6 +511,10 @@
 		{
 			"cpeName": "cpe:2.3:a:apache:tomcat:9.0.70:*:*:*:*:*:*:*",
 			"cpeNameId": "06FA682B-6242-476D-AD4B-1A47F26CC984"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:tomcat:9.0.71:*:*:*:*:*:*:*",
+			"cpeNameId": "5BF0402F-CB80-4D51-8D89-D78D7187D374"
 		},
 		{
 			"cpeName": "cpe:2.3:a:apache:tomcat:9.0.72:*:*:*:*:*:*:*",

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "D2AF385B-24CA-4DFB-A10B-866AC9FF31BD",
 	"versionEndIncluding": "7.5.2",
 	"created": "2023-12-04T14:47:07.047",
-	"lastModified": "2023-12-04T14:47:07.047",
-	"cpeLastModified": "2023-12-04T14:51:03.440",
+	"lastModified": "2023-12-08T15:41:19.600",
+	"cpeLastModified": "2023-12-08T15:42:27.563",
 	"status": "Active",
 	"matches": [
 		{
@@ -890,6 +890,82 @@
 		{
 			"cpeName": "cpe:2.3:a:espocrm:espocrm:7.2.3:*:*:*:*:*:*:*",
 			"cpeNameId": "031015CB-BAC0-4642-8BA1-51ED9F2EFE47"
+		},
+		{
+			"cpeName": "cpe:2.3:a:espocrm:espocrm:7.2.4:*:*:*:*:*:*:*",
+			"cpeNameId": "93207AEB-0D8B-4480-980D-148CE8ABCA8D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:espocrm:espocrm:7.2.5:*:*:*:*:*:*:*",
+			"cpeNameId": "1CA71E6F-504F-402B-8A73-434188CD4E91"
+		},
+		{
+			"cpeName": "cpe:2.3:a:espocrm:espocrm:7.2.6:*:*:*:*:*:*:*",
+			"cpeNameId": "04D0AB29-B3F4-4C27-B41C-A4C9F050BAD8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:espocrm:espocrm:7.2.7:*:*:*:*:*:*:*",
+			"cpeNameId": "1EBF4F0C-67A2-445D-A508-C7D3FAC124B8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:espocrm:espocrm:7.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B9112266-0D7A-4013-BF19-42E537D7C77F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:espocrm:espocrm:7.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "331369C9-4BE2-4877-8823-7C2FEE7D925F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:espocrm:espocrm:7.3.2:*:*:*:*:*:*:*",
+			"cpeNameId": "B10F2DC4-32FD-4333-A959-6F7BE0288876"
+		},
+		{
+			"cpeName": "cpe:2.3:a:espocrm:espocrm:7.3.3:*:*:*:*:*:*:*",
+			"cpeNameId": "4FD30ED6-2615-4E44-9A44-E9F80A277DDC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:espocrm:espocrm:7.3.4:*:*:*:*:*:*:*",
+			"cpeNameId": "5CDC7C58-54D2-4A7D-BB93-3384301C4B3B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:espocrm:espocrm:7.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "3B907C68-47A8-4AA8-B4B8-046E4E6DF1B7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:espocrm:espocrm:7.4.1:*:*:*:*:*:*:*",
+			"cpeNameId": "B0AF01C7-556B-4F40-B9F0-766A3A315102"
+		},
+		{
+			"cpeName": "cpe:2.3:a:espocrm:espocrm:7.4.2:*:*:*:*:*:*:*",
+			"cpeNameId": "4159C8BA-D4BD-4FA4-A663-44A847D0753B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:espocrm:espocrm:7.4.3:*:*:*:*:*:*:*",
+			"cpeNameId": "A7A999B3-296C-4607-8634-E3D6245BC8FB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:espocrm:espocrm:7.4.4:*:*:*:*:*:*:*",
+			"cpeNameId": "40C06818-BD9B-499C-9EDA-0531F2C7B339"
+		},
+		{
+			"cpeName": "cpe:2.3:a:espocrm:espocrm:7.4.5:*:*:*:*:*:*:*",
+			"cpeNameId": "70DE90A5-6E60-44E8-9F10-82CF74C4A211"
+		},
+		{
+			"cpeName": "cpe:2.3:a:espocrm:espocrm:7.4.6:*:*:*:*:*:*:*",
+			"cpeNameId": "8ECC0FDE-7EA8-4748-B01C-5008EBD8EFDB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:espocrm:espocrm:7.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "8C924B51-C9B7-4CA1-A58F-95AB8D9F37F7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:espocrm:espocrm:7.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "4F644E1D-E32B-47AC-9A2B-45E48383ECBD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:espocrm:espocrm:7.5.2:*:*:*:*:*:*:*",
+			"cpeNameId": "383A5760-2714-49CD-B753-B6B11EFED342"
 		}
 	]
 }

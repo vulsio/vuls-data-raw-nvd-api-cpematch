@@ -5,6 +5,12 @@
 	"versionEndExcluding": "5.22.29",
 	"created": "2023-11-07T15:03:36.683",
 	"lastModified": "2023-11-07T15:03:36.683",
-	"cpeLastModified": "2023-11-07T15:03:36.683",
-	"status": "Active"
+	"cpeLastModified": "2023-12-08T15:05:20.820",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:chef:inspec:5.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A33F49C4-F499-4820-BB26-204D42AEB2B4"
+		}
+	]
 }

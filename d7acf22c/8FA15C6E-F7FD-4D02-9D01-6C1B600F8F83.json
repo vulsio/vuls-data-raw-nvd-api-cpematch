@@ -1,0 +1,47 @@
+{
+	"criteria": "cpe:2.3:o:sonicwall:sma_100_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8FA15C6E-F7FD-4D02-9D01-6C1B600F8F83",
+	"versionEndIncluding": "10.2.1.9-57sv",
+	"created": "2023-12-08T15:56:15.763",
+	"lastModified": "2023-12-08T15:56:15.763",
+	"cpeLastModified": "2023-12-08T15:56:15.763",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:sonicwall:sma_100_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F998A1EF-C022-4937-B938-DA7A8F275523"
+		},
+		{
+			"cpeName": "cpe:2.3:o:sonicwall:sma_100_firmware:9.0.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "9EE3BB65-DBC7-41FC-B853-89AB88151C59"
+		},
+		{
+			"cpeName": "cpe:2.3:o:sonicwall:sma_100_firmware:9.0.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "8E34100D-D365-43E9-AFEF-22561AA346A9"
+		},
+		{
+			"cpeName": "cpe:2.3:o:sonicwall:sma_100_firmware:9.0.0.4:*:*:*:*:*:*:*",
+			"cpeNameId": "785F598F-0518-4520-8FB4-DF938050C7C0"
+		},
+		{
+			"cpeName": "cpe:2.3:o:sonicwall:sma_100_firmware:10.0.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B43D8A76-59A3-40FF-9CDD-1F53B6E93A43"
+		},
+		{
+			"cpeName": "cpe:2.3:o:sonicwall:sma_100_firmware:10.2.0.2-20sv:*:*:*:*:*:*:*",
+			"cpeNameId": "2B463D03-7758-4854-869B-1A668408CC26"
+		},
+		{
+			"cpeName": "cpe:2.3:o:sonicwall:sma_100_firmware:10.2.0.5-d-29sv:*:*:*:*:*:*:*",
+			"cpeNameId": "55715F5B-F9CE-49D1-BCD2-6227A3F5BAA0"
+		},
+		{
+			"cpeName": "cpe:2.3:o:sonicwall:sma_100_firmware:10.2.0.8-37sv:*:*:*:*:*:*:*",
+			"cpeNameId": "19BCEBC3-E411-4EED-8C3C-012B145554C0"
+		},
+		{
+			"cpeName": "cpe:2.3:o:sonicwall:sma_100_firmware:10.2.1.2-24sv:*:*:*:*:*:*:*",
+			"cpeNameId": "122BC70D-2E10-4472-B3FE-FE23F1B404E2"
+		}
+	]
+}
