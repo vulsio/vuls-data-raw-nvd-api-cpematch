@@ -4,7 +4,7 @@
 	"versionEndIncluding": "4.1.8",
 	"created": "2023-03-09T18:13:21.020",
 	"lastModified": "2023-09-28T14:54:17.860",
-	"cpeLastModified": "2023-09-28T14:54:17.860",
+	"cpeLastModified": "2023-12-09T04:57:34.540",
 	"status": "Active",
 	"matches": [
 		{
@@ -26,6 +26,10 @@
 		{
 			"cpeName": "cpe:2.3:a:shopex:ecshop:4.1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "EEE6B788-072F-4D8C-B610-5AEC24EC817F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:shopex:ecshop:4.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "00DE9C9C-558C-45B1-A26E-6B870D53A3AC"
 		},
 		{
 			"cpeName": "cpe:2.3:a:shopex:ecshop:4.1.5:*:*:*:*:*:*:*",

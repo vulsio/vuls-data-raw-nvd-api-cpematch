@@ -3,7 +3,7 @@
 	"matchCriteriaId": "05924C67-F9A0-450E-A5B8-059651DD32E3",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-02-09T01:44:45.907",
+	"cpeLastModified": "2023-12-09T04:57:34.540",
 	"status": "Active",
 	"matches": [
 		{
@@ -85,6 +85,10 @@
 		{
 			"cpeName": "cpe:2.3:o:oracle:solaris:11:*:*:*:*:*:*:*",
 			"cpeNameId": "C4C460BE-C110-4B92-9939-1ABB8787A44F"
+		},
+		{
+			"cpeName": "cpe:2.3:o:oracle:solaris:11:*:*:*:*:*:sparc:*",
+			"cpeNameId": "CF112475-5DBB-4FEC-A3EF-027C52E9FB81"
 		},
 		{
 			"cpeName": "cpe:2.3:o:oracle:solaris:11.1:*:*:*:*:*:*:*",

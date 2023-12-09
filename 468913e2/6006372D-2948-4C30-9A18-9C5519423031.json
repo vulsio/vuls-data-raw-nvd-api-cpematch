@@ -3,8 +3,8 @@
 	"matchCriteriaId": "6006372D-2948-4C30-9A18-9C5519423031",
 	"versionEndIncluding": "22.3.24",
 	"created": "2023-12-05T16:22:01.007",
-	"lastModified": "2023-12-05T16:22:01.007",
-	"cpeLastModified": "2023-12-05T16:22:01.007",
+	"lastModified": "2023-12-09T00:36:38.487",
+	"cpeLastModified": "2023-12-09T00:36:38.487",
 	"status": "Active",
 	"matches": [
 		{
@@ -626,6 +626,10 @@
 		{
 			"cpeName": "cpe:2.3:a:electronjs:electron:22.3.23:*:*:*:*:node.js:*:*",
 			"cpeNameId": "74EE763F-6E2E-4011-A63D-BCC16C0655FD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:electronjs:electron:22.3.24:*:*:*:*:node.js:*:*",
+			"cpeNameId": "992A42E4-E810-477F-BD8C-A86D34B9F723"
 		}
 	]
 }

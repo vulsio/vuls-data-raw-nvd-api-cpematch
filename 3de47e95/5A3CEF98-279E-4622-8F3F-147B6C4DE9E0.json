@@ -4,7 +4,7 @@
 	"versionEndIncluding": "23.4",
 	"created": "2023-09-06T00:28:54.993",
 	"lastModified": "2023-09-06T00:28:54.993",
-	"cpeLastModified": "2023-10-19T17:47:14.880",
+	"cpeLastModified": "2023-12-09T00:30:32.643",
 	"status": "Active",
 	"matches": [
 		{
@@ -4104,6 +4104,10 @@
 			"cpeNameId": "185DE264-D651-496B-A8EA-F2F8E38662C5"
 		},
 		{
+			"cpeName": "cpe:2.3:o:juniper:junos:22.1:-:*:*:*:*:*:*",
+			"cpeNameId": "93B6FF94-C623-4D94-8B6B-7429BD9BCDC3"
+		},
+		{
 			"cpeName": "cpe:2.3:o:juniper:junos:22.1:r1:*:*:*:*:*:*",
 			"cpeNameId": "25CF5D48-2C66-4191-B051-75E71475E233"
 		},
@@ -4144,6 +4148,10 @@
 			"cpeNameId": "4526F87A-9905-423B-ABB3-273259FF2AF8"
 		},
 		{
+			"cpeName": "cpe:2.3:o:juniper:junos:22.2:-:*:*:*:*:*:*",
+			"cpeNameId": "33CB59A8-0102-4D14-83EE-CDB16592A71D"
+		},
+		{
 			"cpeName": "cpe:2.3:o:juniper:junos:22.2:r1:*:*:*:*:*:*",
 			"cpeNameId": "7F004DAE-05AC-4B11-9BF3-D7789496E51E"
 		},
@@ -4180,6 +4188,10 @@
 			"cpeNameId": "15DB47ED-D3F8-4E2C-A057-AB56CC3AC34F"
 		},
 		{
+			"cpeName": "cpe:2.3:o:juniper:junos:22.3:-:*:*:*:*:*:*",
+			"cpeNameId": "8ADF9432-83BC-4DBF-8478-62DD8707488A"
+		},
+		{
 			"cpeName": "cpe:2.3:o:juniper:junos:22.3:r1:*:*:*:*:*:*",
 			"cpeNameId": "1158AA2D-24A0-41B0-81C0-FEC92D1E51D7"
 		},
@@ -4206,6 +4218,10 @@
 		{
 			"cpeName": "cpe:2.3:o:juniper:junos:22.3:r3:*:*:*:*:*:*",
 			"cpeNameId": "7F21B8CB-31F2-4E70-9B36-44ADCEBFD7A0"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos:22.4:-:*:*:*:*:*:*",
+			"cpeNameId": "4E357612-AE73-43EC-8A7C-FF247D1483B5"
 		},
 		{
 			"cpeName": "cpe:2.3:o:juniper:junos:22.4:r1:*:*:*:*:*:*",

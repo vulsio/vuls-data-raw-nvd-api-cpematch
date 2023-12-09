@@ -3,7 +3,7 @@
 	"matchCriteriaId": "863E0BB0-7FEE-44EB-B151-E4CCC0F7BF42",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-09-29T17:15:18.243",
+	"cpeLastModified": "2023-12-09T04:57:34.540",
 	"status": "Active",
 	"matches": [
 		{
@@ -281,6 +281,10 @@
 		{
 			"cpeName": "cpe:2.3:a:gnu:binutils:2.38:*:*:*:*:*:*:*",
 			"cpeNameId": "B354BBEE-926D-4EE9-B160-E15C8E0DA372"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gnu:binutils:2.38.50:*:*:*:*:*:*:*",
+			"cpeNameId": "39584E00-0039-4355-A188-3A2F9E44BB76"
 		},
 		{
 			"cpeName": "cpe:2.3:a:gnu:binutils:2.39:*:*:*:*:*:*:*",

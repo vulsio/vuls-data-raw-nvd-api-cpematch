@@ -5,7 +5,7 @@
 	"versionEndIncluding": "6.1.0.3",
 	"created": "2021-10-07T13:49:49.890",
 	"lastModified": "2021-10-07T13:49:49.890",
-	"cpeLastModified": "2023-09-29T17:15:18.243",
+	"cpeLastModified": "2023-12-09T04:54:11.803",
 	"status": "Active",
 	"matches": [
 		{
@@ -111,6 +111,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ibm:sterling_b2b_integrator:6.0.3.8:*:*:*:standard:*:*:*",
 			"cpeNameId": "442E894E-6346-46F6-81B1-2E13BBC3AC3D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:sterling_b2b_integrator:6.0.3.9:*:*:*:standard:*:*:*",
+			"cpeNameId": "12474AD3-801F-4DF6-B660-037B2B592882"
 		},
 		{
 			"cpeName": "cpe:2.3:a:ibm:sterling_b2b_integrator:6.1.0.0:*:*:*:standard:*:*:*",

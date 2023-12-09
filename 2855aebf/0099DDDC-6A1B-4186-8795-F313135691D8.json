@@ -3,7 +3,7 @@
 	"matchCriteriaId": "0099DDDC-6A1B-4186-8795-F313135691D8",
 	"created": "2020-11-20T14:39:42.417",
 	"lastModified": "2020-11-20T14:39:42.417",
-	"cpeLastModified": "2023-02-07T19:01:22.290",
+	"cpeLastModified": "2023-12-09T04:57:34.540",
 	"status": "Active",
 	"matches": [
 		{
@@ -149,6 +149,10 @@
 		{
 			"cpeName": "cpe:2.3:a:libsndfile_project:libsndfile:1.0.30:*:*:*:*:*:*:*",
 			"cpeNameId": "C1E3700D-D994-443C-870D-896487ADF354"
+		},
+		{
+			"cpeName": "cpe:2.3:a:libsndfile_project:libsndfile:1.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "4F127283-1DE7-4424-AC4C-72F7DA301A69"
 		},
 		{
 			"cpeName": "cpe:2.3:a:libsndfile_project:libsndfile:1.1.10:*:*:*:*:*:*:*",

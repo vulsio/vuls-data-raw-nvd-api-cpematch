@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:netapp:astra_control_center:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "EC5EBD2A-32A3-46D5-B155-B44DCB7F6902",
 	"created": "2023-10-18T16:10:40.513",
-	"lastModified": "2023-10-18T16:10:40.513",
-	"cpeLastModified": "2023-10-18T16:10:40.513",
-	"status": "Active"
+	"lastModified": "2023-12-09T00:30:32.643",
+	"cpeLastModified": "2023-12-09T00:30:32.643",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:netapp:astra_control_center:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B4592FE9-E47D-457D-B080-B6EBD51D1540"
+		}
+	]
 }

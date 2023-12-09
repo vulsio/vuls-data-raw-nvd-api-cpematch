@@ -3,8 +3,8 @@
 	"matchCriteriaId": "7CC8C881-E9BE-4BE6-9B70-FEEE8D3D14D1",
 	"versionEndIncluding": "5.7.111",
 	"created": "2023-09-29T04:53:40.427",
-	"lastModified": "2023-09-29T04:53:40.427",
-	"cpeLastModified": "2023-09-29T11:33:57.233",
+	"lastModified": "2023-12-09T04:57:34.540",
+	"cpeLastModified": "2023-12-09T04:57:34.540",
 	"status": "Active",
 	"matches": [
 		{
@@ -374,6 +374,10 @@
 		{
 			"cpeName": "cpe:2.3:a:dedecms:dedecms:5.7.110:*:*:*:*:*:*:*",
 			"cpeNameId": "B53185BD-8D8B-49EF-A8FA-F84CC53352D3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dedecms:dedecms:5.7.111:*:*:*:*:*:*:*",
+			"cpeNameId": "45431C9F-0EF8-4950-A49A-EA7907B350B8"
 		}
 	]
 }

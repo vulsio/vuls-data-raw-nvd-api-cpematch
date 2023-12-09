@@ -3,7 +3,7 @@
 	"matchCriteriaId": "9546ECC5-77AE-4238-B704-AB952ECD01D0",
 	"created": "2019-08-21T16:45:42.513",
 	"lastModified": "2019-08-21T16:45:42.513",
-	"cpeLastModified": "2023-11-03T18:11:52.033",
+	"cpeLastModified": "2023-12-09T00:23:49.020",
 	"status": "Active",
 	"matches": [
 		{
@@ -283,12 +283,20 @@
 			"cpeNameId": "736431FC-AF87-46BC-8FE9-F57B3F786D1B"
 		},
 		{
+			"cpeName": "cpe:2.3:a:apache:activemq:5.16.6:*:*:*:*:*:*:*",
+			"cpeNameId": "D16A2CE0-22EE-47B3-B8EA-0BBFE1DCDF11"
+		},
+		{
 			"cpeName": "cpe:2.3:a:apache:activemq:5.16.7:*:*:*:*:*:*:*",
 			"cpeNameId": "111DC4F5-D30E-4F1F-8980-505F73666C8F"
 		},
 		{
 			"cpeName": "cpe:2.3:a:apache:activemq:5.17.0:*:*:*:*:*:*:*",
 			"cpeNameId": "8CBA602C-E792-400C-985E-BEF39ED69359"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:activemq:5.17.4:*:*:*:*:*:*:*",
+			"cpeNameId": "17F9D893-FF6A-4C35-9738-87C67B6484C4"
 		},
 		{
 			"cpeName": "cpe:2.3:a:apache:activemq:5.17.6:*:*:*:*:*:*:*",

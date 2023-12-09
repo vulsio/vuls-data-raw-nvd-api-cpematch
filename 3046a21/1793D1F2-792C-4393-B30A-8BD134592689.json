@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2.0.4",
 	"created": "2023-11-17T15:35:02.950",
 	"lastModified": "2023-11-17T16:32:56.637",
-	"cpeLastModified": "2023-11-17T16:32:56.637",
+	"cpeLastModified": "2023-12-09T04:57:34.540",
 	"status": "Active",
 	"matches": [
 		{
@@ -42,6 +42,10 @@
 		{
 			"cpeName": "cpe:2.3:a:star-emea:star_cloudprnt_for_woocommerce:2.0.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "07579982-B012-45FB-B3E6-31627A56DBA6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:star-emea:star_cloudprnt_for_woocommerce:2.0.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BD759374-5C47-4B9F-9417-7B7C59D24614"
 		}
 	]
 }

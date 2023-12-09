@@ -3,10 +3,14 @@
 	"matchCriteriaId": "36CA0C12-B5C4-43E8-9E13-092261DD1CE9",
 	"versionEndIncluding": "3.17.0",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"lastModified": "2023-12-09T04:57:34.540",
+	"cpeLastModified": "2023-12-09T04:57:34.540",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:freeimage_project:freeimage:1.18.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5A9DB37B-EDB5-4A91-89CC-67B43092893C"
+		},
 		{
 			"cpeName": "cpe:2.3:a:freeimage_project:freeimage:3.17.0:*:*:*:*:*:*:*",
 			"cpeNameId": "3D984A06-31AE-4CD0-B92E-5ADE6F0830F8"

@@ -3,7 +3,7 @@
 	"matchCriteriaId": "407BAF27-8E5E-49F3-9B83-2FDEEE87D981",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-09-27T11:49:27.253",
+	"cpeLastModified": "2023-12-09T00:30:32.643",
 	"status": "Active",
 	"matches": [
 		{
@@ -61,6 +61,10 @@
 		{
 			"cpeName": "cpe:2.3:o:canonical:ubuntu_linux:7.10:*:*:*:*:*:*:*",
 			"cpeNameId": "11F0D5A7-8345-4EDC-AB94-80D1980CC8FE"
+		},
+		{
+			"cpeName": "cpe:2.3:o:canonical:ubuntu_linux:8.04:*:*:*:*:*:*:*",
+			"cpeNameId": "EBE3AB87-3B43-4AFA-B554-8FC30BBFAC73"
 		},
 		{
 			"cpeName": "cpe:2.3:o:canonical:ubuntu_linux:8.04:*:*:*:-:*:*:*",

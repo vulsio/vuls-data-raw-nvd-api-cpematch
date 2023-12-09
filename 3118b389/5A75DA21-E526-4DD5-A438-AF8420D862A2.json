@@ -5,7 +5,7 @@
 	"versionEndExcluding": "1.2.13",
 	"created": "2023-12-05T20:51:53.830",
 	"lastModified": "2023-12-05T20:51:53.830",
-	"cpeLastModified": "2023-12-05T20:51:53.830",
+	"cpeLastModified": "2023-12-09T00:23:49.020",
 	"status": "Active",
 	"matches": [
 		{
@@ -47,6 +47,10 @@
 		{
 			"cpeName": "cpe:2.3:a:qos:logback:1.2.9:*:*:*:*:*:*:*",
 			"cpeNameId": "F67486AD-CAB2-4EC3-84BC-3F4BFBE35D4D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qos:logback:1.2.12:*:*:*:*:*:*:*",
+			"cpeNameId": "07E39A2C-A1C8-43FB-B6FC-99C2704E8068"
 		}
 	]
 }

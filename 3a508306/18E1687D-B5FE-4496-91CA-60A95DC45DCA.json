@@ -4,7 +4,7 @@
 	"versionEndExcluding": "9.3.3",
 	"created": "2023-01-08T05:28:38.330",
 	"lastModified": "2023-01-08T05:28:38.330",
-	"cpeLastModified": "2023-01-08T05:28:38.330",
+	"cpeLastModified": "2023-12-09T00:23:49.020",
 	"status": "Active",
 	"matches": [
 		{
@@ -94,6 +94,14 @@
 		{
 			"cpeName": "cpe:2.3:a:cerber:wp_cerber_security\\,_anti-spam_\\&_malware_scan:8.9.6:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "1E3777B4-B9D1-4E17-98F7-BEA9E6BFE2B9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cerber:wp_cerber_security\\,_anti-spam_\\&_malware_scan:9.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DE2D9E70-17AC-48BE-A19A-1D9AC75B07BE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cerber:wp_cerber_security\\,_anti-spam_\\&_malware_scan:9.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D87012ED-C936-4152-A94D-FF8765981CE9"
 		}
 	]
 }

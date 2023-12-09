@@ -3,8 +3,8 @@
 	"matchCriteriaId": "9BFFCB33-0E37-4307-9FAD-0EB9E6946549",
 	"versionEndIncluding": "3.3.26",
 	"created": "2023-11-28T21:06:56.097",
-	"lastModified": "2023-11-28T21:06:56.097",
-	"cpeLastModified": "2023-11-28T21:06:56.097",
+	"lastModified": "2023-12-09T04:54:11.803",
+	"cpeLastModified": "2023-12-09T04:54:11.803",
 	"status": "Active",
 	"matches": [
 		{
@@ -1250,6 +1250,10 @@
 		{
 			"cpeName": "cpe:2.3:a:implecode:ecommerce_product_catalog:3.3.9:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "1B546EBF-0C92-4498-97B6-1CE93366EB7F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:implecode:ecommerce_product_catalog:3.3.26:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A413CD2C-68EB-4475-8855-C379F311046D"
 		}
 	]
 }

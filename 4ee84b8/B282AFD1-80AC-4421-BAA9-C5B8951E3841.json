@@ -4,6 +4,12 @@
 	"versionEndExcluding": "1.0.2",
 	"created": "2023-11-13T15:08:49.357",
 	"lastModified": "2023-11-13T15:08:49.357",
-	"cpeLastModified": "2023-11-13T15:08:49.357",
-	"status": "Active"
+	"cpeLastModified": "2023-12-09T00:23:49.020",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:clickbar:dot-diver:-:*:*:*:*:node.js:*:*",
+			"cpeNameId": "9B1EDCB8-A323-424B-B7B1-8D1825A0DBFD"
+		}
+	]
 }

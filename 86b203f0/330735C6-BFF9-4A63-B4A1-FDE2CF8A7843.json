@@ -4,7 +4,7 @@
 	"versionEndIncluding": "3.1.0",
 	"created": "2023-11-14T18:08:44.580",
 	"lastModified": "2023-11-14T18:08:44.580",
-	"cpeLastModified": "2023-11-14T18:08:44.580",
+	"cpeLastModified": "2023-12-09T00:30:32.643",
 	"status": "Active",
 	"matches": [
 		{
@@ -322,6 +322,10 @@
 		{
 			"cpeName": "cpe:2.3:a:nasa:openmct:2.2.4:*:*:*:*:*:*:*",
 			"cpeNameId": "228D65A7-CFC9-4AD6-B9DD-ACC52C5EC767"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nasa:openmct:2.2.5:*:*:*:*:*:*:*",
+			"cpeNameId": "6D2C139B-B120-47DD-B8C6-263EE4709E1B"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nasa:openmct:3.0.0:*:*:*:*:*:*:*",

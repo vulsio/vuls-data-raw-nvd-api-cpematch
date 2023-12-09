@@ -4,7 +4,7 @@
 	"versionEndExcluding": "12.6",
 	"created": "2022-11-16T17:35:50.370",
 	"lastModified": "2022-11-16T17:35:50.370",
-	"cpeLastModified": "2023-09-28T11:24:57.807",
+	"cpeLastModified": "2023-12-09T04:57:34.540",
 	"status": "Active",
 	"matches": [
 		{
@@ -538,6 +538,10 @@
 		{
 			"cpeName": "cpe:2.3:a:seacms:seacms:11.6:*:*:*:*:*:*:*",
 			"cpeNameId": "887D411D-ED55-4C59-8AD8-6D2061C2DEC5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:seacms:seacms:12.1:*:*:*:*:*:*:*",
+			"cpeNameId": "40020A65-6B73-4810-9666-66AAB63573CF"
 		}
 	]
 }

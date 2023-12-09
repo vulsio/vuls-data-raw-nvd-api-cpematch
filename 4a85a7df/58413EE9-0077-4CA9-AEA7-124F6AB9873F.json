@@ -3,8 +3,8 @@
 	"matchCriteriaId": "58413EE9-0077-4CA9-AEA7-124F6AB9873F",
 	"versionEndExcluding": "119.0.2151.72",
 	"created": "2023-11-22T18:12:10.290",
-	"lastModified": "2023-11-22T18:12:10.290",
-	"cpeLastModified": "2023-12-01T13:06:12.100",
+	"lastModified": "2023-12-09T04:54:11.803",
+	"cpeLastModified": "2023-12-09T00:30:32.643",
 	"status": "Active",
 	"matches": [
 		{
@@ -492,12 +492,24 @@
 			"cpeNameId": "6DF1DA40-0752-46EF-9DF7-D91823253A25"
 		},
 		{
+			"cpeName": "cpe:2.3:a:microsoft:edge_chromium:118.0.2088.76:*:*:*:*:*:*:*",
+			"cpeNameId": "9EABFEE3-ADED-4008-B767-E64D1B79EF7B"
+		},
+		{
 			"cpeName": "cpe:2.3:a:microsoft:edge_chromium:118.0.2088.88:*:*:*:extended_stable:*:*:*",
 			"cpeNameId": "259404A9-B172-46AF-8F86-9F64819AB8E7"
 		},
 		{
+			"cpeName": "cpe:2.3:a:microsoft:edge_chromium:118.0.2088.102:*:*:*:extended_stable:*:*:*",
+			"cpeNameId": "0C11B65F-6FCA-4EBC-BB48-987B9C5043B5"
+		},
+		{
 			"cpeName": "cpe:2.3:a:microsoft:edge_chromium:119.0.2151.44:*:*:*:*:*:*:*",
 			"cpeNameId": "2C82F640-84E3-44DA-AEFE-84A7EC2162C8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge_chromium:119.0.2151.58:*:*:*:*:*:*:*",
+			"cpeNameId": "8414760E-88C2-4E73-B2E7-86844F6BE37C"
 		}
 	]
 }

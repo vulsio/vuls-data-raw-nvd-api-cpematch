@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2.12.0",
 	"created": "2023-03-28T10:59:32.837",
 	"lastModified": "2023-03-28T10:59:32.837",
-	"cpeLastModified": "2023-03-28T10:59:32.837",
+	"cpeLastModified": "2023-12-09T00:30:32.643",
 	"status": "Active",
 	"matches": [
 		{
@@ -1770,6 +1770,10 @@
 		{
 			"cpeName": "cpe:2.3:a:google:tensorflow:2.11.0:rc2:*:*:*:*:*:*",
 			"cpeNameId": "BD6A4D3F-AC49-4072-9929-6FCB7AC47E32"
+		},
+		{
+			"cpeName": "cpe:2.3:a:google:tensorflow:2.11.1:*:*:*:*:*:*:*",
+			"cpeNameId": "55D0C0CB-014F-451D-A0EF-ADA265E43F2A"
 		}
 	]
 }

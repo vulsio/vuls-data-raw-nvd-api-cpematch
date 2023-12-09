@@ -5,7 +5,7 @@
 	"versionEndIncluding": "9.6.1",
 	"created": "2023-12-08T14:46:22.623",
 	"lastModified": "2023-12-08T14:46:22.623",
-	"cpeLastModified": "2023-12-08T14:46:22.623",
+	"cpeLastModified": "2023-12-09T00:23:49.020",
 	"status": "Active",
 	"matches": [
 		{
@@ -99,6 +99,10 @@
 		{
 			"cpeName": "cpe:2.3:a:dell:powerscale_onefs:9.5.0.6:*:*:*:*:*:*:*",
 			"cpeNameId": "8E32212E-9C14-42FA-B1B2-8EE43560EE76"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dell:powerscale_onefs:9.6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "AF6DA01D-2339-45B7-9FD6-1C319A825C4A"
 		}
 	]
 }

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "181D80EC-D9FA-4EE9-AB6D-64CF451F8BED",
 	"versionEndExcluding": "2.4.179",
 	"created": "2023-12-06T14:02:07.127",
-	"lastModified": "2023-12-06T14:02:07.127",
-	"cpeLastModified": "2023-12-06T14:02:07.127",
+	"lastModified": "2023-12-09T00:36:38.487",
+	"cpeLastModified": "2023-12-09T00:36:38.487",
 	"status": "Active",
 	"matches": [
 		{
@@ -1362,6 +1362,22 @@
 		{
 			"cpeName": "cpe:2.3:a:misp:misp:2.4.174:*:*:*:*:*:*:*",
 			"cpeNameId": "639A6354-621D-4BCD-907E-E6485847BD85"
+		},
+		{
+			"cpeName": "cpe:2.3:a:misp:misp:2.4.175:*:*:*:*:*:*:*",
+			"cpeNameId": "FB51CCC2-0C89-47B2-A64F-21204698887A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:misp:misp:2.4.176:*:*:*:*:*:*:*",
+			"cpeNameId": "CF5A17B4-D0D0-47F9-97E1-1C3F7492E3C5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:misp:misp:2.4.177:*:*:*:*:*:*:*",
+			"cpeNameId": "3C5BE7A6-F105-4170-9032-AA677EADE833"
+		},
+		{
+			"cpeName": "cpe:2.3:a:misp:misp:2.4.178:*:*:*:*:*:*:*",
+			"cpeNameId": "48CC8AAE-066A-475D-AE05-FE90CD8E9DD1"
 		}
 	]
 }

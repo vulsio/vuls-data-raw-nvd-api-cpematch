@@ -4,8 +4,8 @@
 	"versionStartIncluding": "11.5",
 	"versionEndIncluding": "11.5.8",
 	"created": "2023-10-19T14:03:54.937",
-	"lastModified": "2023-10-19T14:03:54.937",
-	"cpeLastModified": "2023-10-19T14:03:54.937",
+	"lastModified": "2023-12-09T00:30:32.643",
+	"cpeLastModified": "2023-12-09T00:30:32.643",
 	"status": "Active",
 	"matches": [
 		{
@@ -31,6 +31,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ibm:db2:11.5.5.0:*:*:*:*:*:*:*",
 			"cpeNameId": "6CD9E5C0-3C53-46D8-8777-5D6AF28B9CEE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:db2:11.5.8:*:*:*:*:*:*:*",
+			"cpeNameId": "08A8AA3E-16BC-455A-B320-A56D71889EBF"
 		}
 	]
 }

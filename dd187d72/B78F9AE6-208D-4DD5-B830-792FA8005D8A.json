@@ -4,6 +4,12 @@
 	"versionEndExcluding": "1.5.6",
 	"created": "2023-09-18T17:19:11.613",
 	"lastModified": "2023-09-18T17:19:11.613",
-	"cpeLastModified": "2023-09-18T17:19:11.613",
-	"status": "Active"
+	"cpeLastModified": "2023-12-09T00:36:38.487",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:poweredge_mx760c_firmware:1.4.4:*:*:*:*:*:*:*",
+			"cpeNameId": "B9B50955-A3AA-4F51-9B51-32185085B80D"
+		}
+	]
 }

@@ -3,7 +3,7 @@
 	"matchCriteriaId": "0B5AA1AC-79E9-4150-BBFB-A07F648CD9A3",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-07-27T18:25:20.780",
+	"cpeLastModified": "2023-12-09T00:30:32.643",
 	"status": "Active",
 	"matches": [
 		{
@@ -391,8 +391,16 @@
 			"cpeNameId": "265EF397-3843-4D10-BA30-0944B380A47D"
 		},
 		{
+			"cpeName": "cpe:2.3:a:microsoft:sql_server:2019:cumulative_update_22:*:*:*:*:*:*",
+			"cpeNameId": "B5ACF9FB-A0F9-4B56-9E7F-5476FF93B2AE"
+		},
+		{
 			"cpeName": "cpe:2.3:a:microsoft:sql_server:2022:*:*:*:*:*:x64:*",
 			"cpeNameId": "206812E0-5F2C-493B-A1AE-78DDA320DA68"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:sql_server:2022:cumulative_update_8:*:*:*:*:*:*",
+			"cpeNameId": "69488C95-7964-4998-B837-795C90D0E8A3"
 		}
 	]
 }

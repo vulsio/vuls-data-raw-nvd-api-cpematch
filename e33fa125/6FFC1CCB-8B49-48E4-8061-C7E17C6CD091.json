@@ -4,9 +4,13 @@
 	"versionEndExcluding": "1.10.5",
 	"created": "2023-11-30T18:53:47.050",
 	"lastModified": "2023-12-01T10:42:50.113",
-	"cpeLastModified": "2023-12-01T10:42:50.113",
+	"cpeLastModified": "2023-12-09T04:54:11.803",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:kyverno:kyverno:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5A1E9566-6D34-40AD-B716-D3BB0A61FAC4"
+		},
 		{
 			"cpeName": "cpe:2.3:a:kyverno:kyverno:0.1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "D94CD02B-FAB9-4C7C-8C1C-3B34808AE5A7"

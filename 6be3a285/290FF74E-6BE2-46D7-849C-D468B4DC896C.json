@@ -4,7 +4,7 @@
 	"versionEndIncluding": "1.1.0b",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-08-12T00:31:00.810",
+	"cpeLastModified": "2023-12-09T00:30:32.643",
 	"status": "Active",
 	"matches": [
 		{
@@ -806,6 +806,10 @@
 		{
 			"cpeName": "cpe:2.3:a:openssl:openssl:1.0.2zi:*:*:*:*:*:*:*",
 			"cpeNameId": "8E7CBC4C-7291-48EB-88B0-64FCC9A5646B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openssl:openssl:1.0.2zj:*:*:*:*:*:*:*",
+			"cpeNameId": "DB138F94-10F6-4659-8AC7-FE05AEAAD7A8"
 		},
 		{
 			"cpeName": "cpe:2.3:a:openssl:openssl:1.1.0:*:*:*:*:*:*:*",

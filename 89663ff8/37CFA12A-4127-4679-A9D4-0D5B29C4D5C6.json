@@ -4,6 +4,12 @@
 	"versionEndExcluding": "1.5.6",
 	"created": "2023-09-18T17:20:58.410",
 	"lastModified": "2023-09-18T17:20:58.410",
-	"cpeLastModified": "2023-09-18T17:20:58.410",
-	"status": "Active"
+	"cpeLastModified": "2023-12-09T00:36:38.487",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:poweredge_r760xd2_firmware:1.4.4:*:*:*:*:*:*:*",
+			"cpeNameId": "914ED14B-6EB1-4DCE-8F76-DA683CBDCAF7"
+		}
+	]
 }

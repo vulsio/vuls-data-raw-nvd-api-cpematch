@@ -3,7 +3,7 @@
 	"matchCriteriaId": "87F1A94F-C3C5-4F33-9BA3-70BC3ABED4C1",
 	"created": "2021-12-08T19:43:29.727",
 	"lastModified": "2021-12-08T19:43:29.727",
-	"cpeLastModified": "2023-11-21T15:35:25.033",
+	"cpeLastModified": "2023-12-09T00:44:36.833",
 	"status": "Active",
 	"matches": [
 		{
@@ -441,6 +441,10 @@
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortimail:7.2.5:*:*:*:*:*:*:*",
 			"cpeNameId": "52FC6D16-FD7C-4745-BA3C-9F8FB9E5B4C9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortimail:7.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "12195098-9442-4EFD-B129-C58E4F8EB777"
 		},
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortimail:7.4.1:*:*:*:*:*:*:*",

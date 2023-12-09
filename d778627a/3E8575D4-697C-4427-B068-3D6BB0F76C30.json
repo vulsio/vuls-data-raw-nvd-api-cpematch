@@ -4,7 +4,7 @@
 	"versionEndExcluding": "17.9.1.1009.5",
 	"created": "2021-06-28T16:26:42.667",
 	"lastModified": "2021-06-28T16:26:42.667",
-	"cpeLastModified": "2021-06-28T17:58:52.317",
+	"cpeLastModified": "2023-12-09T00:30:32.643",
 	"status": "Active",
 	"matches": [
 		{
@@ -82,6 +82,10 @@
 		{
 			"cpeName": "cpe:2.3:a:intel:rapid_storage_technology:16.8.3.1003:*:*:*:*:*:*:*",
 			"cpeNameId": "400CD22C-182E-4BCB-A4C0-15BF4BF4547B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:intel:rapid_storage_technology:16.8.5.1014.9:*:*:*:*:*:*:*",
+			"cpeNameId": "F5DA7DEE-3BE1-4E62-A973-68DA04BEA650"
 		},
 		{
 			"cpeName": "cpe:2.3:a:intel:rapid_storage_technology:17.5.2.1024:*:*:*:*:*:*:*",
