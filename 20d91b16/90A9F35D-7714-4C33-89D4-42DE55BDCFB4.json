@@ -3,8 +3,8 @@
 	"matchCriteriaId": "90A9F35D-7714-4C33-89D4-42DE55BDCFB4",
 	"versionEndIncluding": "22.5",
 	"created": "2023-11-29T16:31:20.387",
-	"lastModified": "2023-11-29T16:31:20.387",
-	"cpeLastModified": "2023-11-29T16:31:20.387",
+	"lastModified": "2023-12-09T15:00:37.453",
+	"cpeLastModified": "2023-12-09T15:00:37.453",
 	"status": "Active",
 	"matches": [
 		{
@@ -714,6 +714,10 @@
 		{
 			"cpeName": "cpe:2.3:a:booking-wp-plugin:bookly:22.4.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "DA0B2203-A51C-45CA-8025-E5CDA6605BD0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:booking-wp-plugin:bookly:22.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3B346776-4D67-479F-8161-76728280ADC3"
 		}
 	]
 }

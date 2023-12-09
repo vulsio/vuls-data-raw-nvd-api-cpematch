@@ -4,6 +4,12 @@
 	"versionEndIncluding": "4.3.1",
 	"created": "2023-12-01T15:51:54.687",
 	"lastModified": "2023-12-01T15:51:54.687",
-	"cpeLastModified": "2023-12-01T15:51:54.687",
-	"status": "Active"
+	"cpeLastModified": "2023-12-09T14:49:28.020",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:addonmaster:bootstrap_shortcodes_ultimate:4.3.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0D5EE65A-71E1-4197-95C1-DF2737C22EE6"
+		}
+	]
 }
