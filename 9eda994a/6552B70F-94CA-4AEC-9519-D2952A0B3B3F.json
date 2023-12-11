@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:o:supermicro:h13dsg-o-cpu-d_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6552B70F-94CA-4AEC-9519-D2952A0B3B3F",
+	"versionEndIncluding": "3.17.02",
+	"created": "2023-12-11T18:09:35.743",
+	"lastModified": "2023-12-11T18:09:35.743",
+	"cpeLastModified": "2023-12-11T18:09:35.743",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:supermicro:h13dsg-o-cpu-d_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B4EBBFF0-682B-4568-98D1-08DD4254D14D"
+		}
+	]
+}

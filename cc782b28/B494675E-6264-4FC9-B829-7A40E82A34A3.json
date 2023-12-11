@@ -3,12 +3,16 @@
 	"matchCriteriaId": "B494675E-6264-4FC9-B829-7A40E82A34A3",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"cpeLastModified": "2023-12-11T12:23:04.927",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.8.7:*:*:*:*:*:*:*",
 			"cpeNameId": "CCE6AC02-0464-4273-9FEC-1355326EDB96"
+		},
+		{
+			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.8.7:-:*:*:*:*:*:*",
+			"cpeNameId": "B4626714-9E73-4B0A-9FEA-E4B93AED3BDA"
 		},
 		{
 			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.8.7:alpha1:*:*:*:*:*:*",

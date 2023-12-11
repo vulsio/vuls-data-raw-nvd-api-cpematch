@@ -4,7 +4,7 @@
 	"versionEndIncluding": "1.9.6",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"cpeLastModified": "2023-12-11T12:23:04.927",
 	"status": "Active",
 	"matches": [
 		{
@@ -16,12 +16,20 @@
 			"cpeNameId": "1CC6092C-2D3A-42ED-A68D-8A21BD31E94A"
 		},
 		{
+			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.8.6.2:-:*:*:*:*:*:*",
+			"cpeNameId": "C63F6309-D047-422D-8727-03434B71953E"
+		},
+		{
 			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.8.6.2:beta1:*:*:*:*:*:*",
 			"cpeNameId": "AAC499BA-6458-4C95-BC36-1790CEC3043F"
 		},
 		{
 			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.8.7:*:*:*:*:*:*:*",
 			"cpeNameId": "CCE6AC02-0464-4273-9FEC-1355326EDB96"
+		},
+		{
+			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.8.7:-:*:*:*:*:*:*",
+			"cpeNameId": "B4626714-9E73-4B0A-9FEA-E4B93AED3BDA"
 		},
 		{
 			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.8.7:alpha1:*:*:*:*:*:*",
@@ -72,6 +80,10 @@
 			"cpeNameId": "00B4AA65-6162-4066-8A0B-F76E2322A149"
 		},
 		{
+			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.8.8.2:-:*:*:*:*:*:*",
+			"cpeNameId": "D1447020-D519-4F00-A8B7-4F01982B454C"
+		},
+		{
 			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.8.8.2:rc1:*:*:*:*:*:*",
 			"cpeNameId": "40D215FC-432F-4491-97A5-6365E5CC8A0C"
 		},
@@ -84,6 +96,10 @@
 			"cpeNameId": "0B545792-3AE3-4419-863A-D6FBB50A6657"
 		},
 		{
+			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.8.8.4:-:*:*:*:*:*:*",
+			"cpeNameId": "3B4E8DCF-87E1-49E1-9B12-3D33BE8C23DD"
+		},
+		{
 			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.8.8.4:beta1:*:*:*:*:*:*",
 			"cpeNameId": "5FA7723B-0B2B-48F1-B8B6-C21709339478"
 		},
@@ -94,6 +110,10 @@
 		{
 			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.9.0:*:*:*:*:*:*:*",
 			"cpeNameId": "C97741F7-350B-4A08-A360-F1C4CB8C4A3B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.9.0:-:*:*:*:*:*:*",
+			"cpeNameId": "8707D119-2996-4F98-AACC-8A67E65C32D7"
 		},
 		{
 			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.9.0:alpha1:*:*:*:*:*:*",
@@ -140,6 +160,10 @@
 			"cpeNameId": "1D1D570E-22FF-4A71-B65D-2F5D98701F54"
 		},
 		{
+			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.9.4:-:*:*:*:*:*:*",
+			"cpeNameId": "2FC02E1A-6DE0-43CA-B68F-D567BBB34E4B"
+		},
+		{
 			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.9.4:alpha1:*:*:*:*:*:*",
 			"cpeNameId": "25B0C406-F5D3-414F-8E45-295791174B37"
 		},
@@ -150,6 +174,10 @@
 		{
 			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.9.6:*:*:*:*:*:*:*",
 			"cpeNameId": "4FE4E09C-003A-4BD3-ABFC-F3DB46260E0A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.9.6:-:*:*:*:*:*:*",
+			"cpeNameId": "2020DE26-377C-4C32-8900-CCFD1FBA2F81"
 		},
 		{
 			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.9.6:rc1:*:*:*:*:*:*",

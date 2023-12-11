@@ -3,8 +3,8 @@
 	"matchCriteriaId": "2274FD09-F6AF-4F35-AAD6-9D48F8045BB7",
 	"versionEndExcluding": "3.6.2",
 	"created": "2023-12-07T16:52:25.620",
-	"lastModified": "2023-12-07T16:52:25.620",
-	"cpeLastModified": "2023-12-07T16:52:25.620",
+	"lastModified": "2023-12-11T13:08:37.533",
+	"cpeLastModified": "2023-12-11T13:08:37.533",
 	"status": "Active",
 	"matches": [
 		{
@@ -218,6 +218,22 @@
 		{
 			"cpeName": "cpe:2.3:a:fishshell:fish:3.4.1:*:*:*:*:*:*:*",
 			"cpeNameId": "B1BC87D7-3015-4076-92A0-154545334126"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fishshell:fish:3.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "EDAA7BB0-CD10-4C31-9FC7-5478D9FB6D64"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fishshell:fish:3.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "C15C3578-56C2-4AE9-9C30-3DC321F67A67"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fishshell:fish:3.6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "3DDE46C4-FD2F-457E-AA3B-9045F724496B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fishshell:fish:3.6.1:*:*:*:*:*:*:*",
+			"cpeNameId": "2C9C79E8-3649-4E98-93CE-2DD4ACEBBC2C"
 		}
 	]
 }

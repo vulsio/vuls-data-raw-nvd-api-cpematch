@@ -5,6 +5,12 @@
 	"versionEndExcluding": "1.109.1",
 	"created": "2023-12-11T12:10:31.127",
 	"lastModified": "2023-12-11T12:10:31.127",
-	"cpeLastModified": "2023-12-11T12:10:31.127",
-	"status": "Active"
+	"cpeLastModified": "2023-12-11T17:14:47.943",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:graph:1.16.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5EC97B64-DA99-4E43-8BCA-92F67896EA39"
+		}
+	]
 }

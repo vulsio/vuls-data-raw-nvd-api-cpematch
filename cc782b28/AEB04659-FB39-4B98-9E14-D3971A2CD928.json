@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.8.8.6",
 	"created": "2020-01-13T19:57:50.710",
 	"lastModified": "2020-01-13T19:57:50.710",
-	"cpeLastModified": "2020-01-13T19:57:50.723",
+	"cpeLastModified": "2023-12-11T12:23:04.927",
 	"status": "Active",
 	"matches": [
 		{
@@ -16,12 +16,20 @@
 			"cpeNameId": "1CC6092C-2D3A-42ED-A68D-8A21BD31E94A"
 		},
 		{
+			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.8.6.2:-:*:*:*:*:*:*",
+			"cpeNameId": "C63F6309-D047-422D-8727-03434B71953E"
+		},
+		{
 			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.8.6.2:beta1:*:*:*:*:*:*",
 			"cpeNameId": "AAC499BA-6458-4C95-BC36-1790CEC3043F"
 		},
 		{
 			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.8.7:*:*:*:*:*:*:*",
 			"cpeNameId": "CCE6AC02-0464-4273-9FEC-1355326EDB96"
+		},
+		{
+			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.8.7:-:*:*:*:*:*:*",
+			"cpeNameId": "B4626714-9E73-4B0A-9FEA-E4B93AED3BDA"
 		},
 		{
 			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.8.7:alpha1:*:*:*:*:*:*",
@@ -72,6 +80,10 @@
 			"cpeNameId": "00B4AA65-6162-4066-8A0B-F76E2322A149"
 		},
 		{
+			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.8.8.2:-:*:*:*:*:*:*",
+			"cpeNameId": "D1447020-D519-4F00-A8B7-4F01982B454C"
+		},
+		{
 			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.8.8.2:rc1:*:*:*:*:*:*",
 			"cpeNameId": "40D215FC-432F-4491-97A5-6365E5CC8A0C"
 		},
@@ -82,6 +94,10 @@
 		{
 			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.8.8.4:*:*:*:*:*:*:*",
 			"cpeNameId": "0B545792-3AE3-4419-863A-D6FBB50A6657"
+		},
+		{
+			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.8.8.4:-:*:*:*:*:*:*",
+			"cpeNameId": "3B4E8DCF-87E1-49E1-9B12-3D33BE8C23DD"
 		},
 		{
 			"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.8.8.4:beta1:*:*:*:*:*:*",

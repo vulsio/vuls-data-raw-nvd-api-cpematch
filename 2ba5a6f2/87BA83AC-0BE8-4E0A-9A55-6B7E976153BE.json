@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:o:supermicro:h13srd-f_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "87BA83AC-0BE8-4E0A-9A55-6B7E976153BE",
+	"versionEndIncluding": "3.17.02",
+	"created": "2023-12-11T18:09:35.743",
+	"lastModified": "2023-12-11T18:09:35.743",
+	"cpeLastModified": "2023-12-11T18:09:35.743",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:supermicro:h13srd-f_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "33101654-1BBB-43DD-B74A-1097E318E0B7"
+		}
+	]
+}
