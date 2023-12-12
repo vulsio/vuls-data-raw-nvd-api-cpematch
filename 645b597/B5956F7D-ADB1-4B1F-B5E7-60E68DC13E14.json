@@ -3,8 +3,8 @@
 	"matchCriteriaId": "B5956F7D-ADB1-4B1F-B5E7-60E68DC13E14",
 	"versionEndIncluding": "3.17.02",
 	"created": "2023-12-11T19:11:34.947",
-	"lastModified": "2023-12-11T19:11:34.947",
-	"cpeLastModified": "2023-12-11T19:11:34.947",
+	"lastModified": "2023-12-12T13:55:58.383",
+	"cpeLastModified": "2023-12-12T13:55:58.383",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:supermicro:x11spm-f_firmware:1.71.6:*:*:*:*:*:*:*",
 			"cpeNameId": "34D62D5F-1622-4FC4-8A26-7BE4AD5164CE"
+		},
+		{
+			"cpeName": "cpe:2.3:o:supermicro:x11spm-f_firmware:3.17.02:*:*:*:*:*:*:*",
+			"cpeNameId": "2972B8D2-CD2A-407C-AE68-B69EF23CE048"
 		}
 	]
 }

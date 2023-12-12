@@ -3,8 +3,8 @@
 	"matchCriteriaId": "0DB9D702-FD85-4DF2-8CC6-8C3291FD0ABE",
 	"versionEndExcluding": "7.2.6.21",
 	"created": "2023-12-11T20:09:07.740",
-	"lastModified": "2023-12-11T20:09:07.740",
-	"cpeLastModified": "2023-12-11T20:09:07.740",
+	"lastModified": "2023-12-12T17:54:25.390",
+	"cpeLastModified": "2023-12-12T17:54:25.390",
 	"status": "Active",
 	"matches": [
 		{
@@ -30,6 +30,38 @@
 		{
 			"cpeName": "cpe:2.3:o:netgear:rbr750_firmware:3.2.17.12:*:*:*:*:*:*:*",
 			"cpeNameId": "8C70D0B0-2034-4261-8BA4-63E28B75C32E"
+		},
+		{
+			"cpeName": "cpe:2.3:o:netgear:rbr750_firmware:3.2.18.1:*:*:*:*:*:*:*",
+			"cpeNameId": "C2FCA6E0-836A-4FAF-A95F-71631DA87684"
+		},
+		{
+			"cpeName": "cpe:2.3:o:netgear:rbr750_firmware:4.6.3.7:*:*:*:*:*:*:*",
+			"cpeNameId": "260DE6AF-A306-49DA-B2C4-5653201F82DA"
+		},
+		{
+			"cpeName": "cpe:2.3:o:netgear:rbr750_firmware:4.6.3.16:*:*:*:*:*:*:*",
+			"cpeNameId": "0A4F8800-63CF-4508-A0A3-DD3B178F2123"
+		},
+		{
+			"cpeName": "cpe:2.3:o:netgear:rbr750_firmware:4.6.5.14:*:*:*:*:*:*:*",
+			"cpeNameId": "A4D85264-59E9-4CB8-8444-8D010521DD75"
+		},
+		{
+			"cpeName": "cpe:2.3:o:netgear:rbr750_firmware:4.6.8.5:*:*:*:*:*:*:*",
+			"cpeNameId": "2FE6FCEB-3F37-472C-BF1F-9C405348212D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:netgear:rbr750_firmware:4.6.9.11:*:*:*:*:*:*:*",
+			"cpeNameId": "CFBEB6FF-F9B2-4831-9FD1-A01DB0FCC787"
+		},
+		{
+			"cpeName": "cpe:2.3:o:netgear:rbr750_firmware:4.6.11.1:*:*:*:*:*:*:*",
+			"cpeNameId": "8B13C9A5-B7AF-4BBB-8189-6F0B04EA0CEB"
+		},
+		{
+			"cpeName": "cpe:2.3:o:netgear:rbr750_firmware:4.6.14.3:*:*:*:*:*:*:*",
+			"cpeNameId": "74A52C68-7C77-483F-BF70-535A01C80C00"
 		}
 	]
 }

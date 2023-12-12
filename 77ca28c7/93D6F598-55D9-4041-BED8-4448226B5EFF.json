@@ -3,8 +3,8 @@
 	"matchCriteriaId": "93D6F598-55D9-4041-BED8-4448226B5EFF",
 	"versionEndExcluding": "10.8.13",
 	"created": "2023-12-11T13:56:30.393",
-	"lastModified": "2023-12-11T13:56:30.393",
-	"cpeLastModified": "2023-12-11T13:56:30.393",
+	"lastModified": "2023-12-12T17:54:25.390",
+	"cpeLastModified": "2023-12-12T17:54:25.390",
 	"status": "Active",
 	"matches": [
 		{
@@ -230,6 +230,14 @@
 		{
 			"cpeName": "cpe:2.3:a:jellyfin:jellyfin:10.8.10:*:*:*:*:*:*:*",
 			"cpeNameId": "E6BC89A4-195B-4402-9ECC-80472E0118EE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jellyfin:jellyfin:10.8.11:*:*:*:*:*:*:*",
+			"cpeNameId": "686DF4A0-CAA1-484A-A8AF-44077A177D75"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jellyfin:jellyfin:10.8.12:*:*:*:*:*:*:*",
+			"cpeNameId": "AEB5C210-C021-4612-9301-174E135A9236"
 		}
 	]
 }

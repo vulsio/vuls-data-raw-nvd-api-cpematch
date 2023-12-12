@@ -3,7 +3,7 @@
 	"matchCriteriaId": "6F1A2370-7E7A-4F71-BAE8-93CDF9F0E642",
 	"created": "2022-08-18T13:10:57.463",
 	"lastModified": "2022-08-18T13:10:57.463",
-	"cpeLastModified": "2023-12-09T00:30:32.643",
+	"cpeLastModified": "2023-12-12T17:54:25.390",
 	"status": "Active",
 	"matches": [
 		{
@@ -141,6 +141,10 @@
 		{
 			"cpeName": "cpe:2.3:a:gpac:gpac:2.3-dev-rev573-g201320819-master:*:*:*:*:*:*:*",
 			"cpeNameId": "D5E8C0C0-8CA5-474A-B0C2-BF8184A8A083"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gpac:gpac:2.3-dev-rev602-ged8424300-master:*:*:*:*:*:*:*",
+			"cpeNameId": "81E80800-4A7B-4E40-B886-D526AB6DAD91"
 		},
 		{
 			"cpeName": "cpe:2.3:a:gpac:gpac:2.3-dev-rev617-g671976fcc-master:*:*:*:*:*:*:*",

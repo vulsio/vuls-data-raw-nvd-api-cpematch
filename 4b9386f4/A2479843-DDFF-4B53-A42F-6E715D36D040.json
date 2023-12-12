@@ -3,8 +3,8 @@
 	"matchCriteriaId": "A2479843-DDFF-4B53-A42F-6E715D36D040",
 	"versionEndIncluding": "3.17.02",
 	"created": "2023-12-11T19:11:34.947",
-	"lastModified": "2023-12-11T19:11:34.947",
-	"cpeLastModified": "2023-12-11T19:11:34.947",
+	"lastModified": "2023-12-12T13:55:58.383",
+	"cpeLastModified": "2023-12-12T13:55:58.383",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:supermicro:x11ssh-gf-1585_firmware:1.56:*:*:*:*:*:*:*",
 			"cpeNameId": "5E5022BD-0CE1-4431-9AED-595C1845925D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:supermicro:x11ssh-gf-1585_firmware:3.17.02:*:*:*:*:*:*:*",
+			"cpeNameId": "C8D5406B-9183-4F0A-97A7-54C573C09C7B"
 		}
 	]
 }

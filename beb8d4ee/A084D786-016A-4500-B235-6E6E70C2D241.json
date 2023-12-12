@@ -3,8 +3,8 @@
 	"matchCriteriaId": "A084D786-016A-4500-B235-6E6E70C2D241",
 	"versionEndExcluding": "4.30.0",
 	"created": "2023-12-11T20:17:29.780",
-	"lastModified": "2023-12-11T20:17:29.780",
-	"cpeLastModified": "2023-12-11T20:17:29.780",
+	"lastModified": "2023-12-12T17:54:25.390",
+	"cpeLastModified": "2023-12-12T17:54:25.390",
 	"status": "Active",
 	"matches": [
 		{
@@ -738,6 +738,10 @@
 		{
 			"cpeName": "cpe:2.3:a:gladysassistant:gladys_assistant:4.28.0:*:*:*:*:*:*:*",
 			"cpeNameId": "B7ECA479-E2DB-4C98-9E36-53D11270F42B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gladysassistant:gladys_assistant:4.29.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C865356E-48EA-4340-98F1-A2F763DF4E9D"
 		}
 	]
 }

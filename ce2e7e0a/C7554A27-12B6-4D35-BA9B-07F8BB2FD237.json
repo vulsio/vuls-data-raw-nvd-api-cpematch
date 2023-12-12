@@ -3,8 +3,8 @@
 	"matchCriteriaId": "C7554A27-12B6-4D35-BA9B-07F8BB2FD237",
 	"versionEndIncluding": "3.17.02",
 	"created": "2023-12-11T19:08:30.643",
-	"lastModified": "2023-12-11T19:08:30.643",
-	"cpeLastModified": "2023-12-11T19:08:30.643",
+	"lastModified": "2023-12-12T13:55:58.383",
+	"cpeLastModified": "2023-12-12T13:55:58.383",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:supermicro:x11dpg-ot-cpu_firmware:1.71.5:*:*:*:*:*:*:*",
 			"cpeNameId": "6184A2C7-CC27-4C5D-83EE-B0DDBD83FD4D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:supermicro:x11dpg-ot-cpu_firmware:3.17.02:*:*:*:*:*:*:*",
+			"cpeNameId": "D51F56D6-969F-4B44-A1F2-826A7A4BBA95"
 		}
 	]
 }
