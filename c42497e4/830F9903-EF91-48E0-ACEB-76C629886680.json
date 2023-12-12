@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:supermicro:x11swn-e:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "830F9903-EF91-48E0-ACEB-76C629886680",
 	"created": "2023-12-11T18:07:20.293",
-	"lastModified": "2023-12-11T18:07:20.293",
-	"cpeLastModified": "2023-12-11T18:07:20.293",
-	"status": "Active"
+	"lastModified": "2023-12-11T21:02:55.840",
+	"cpeLastModified": "2023-12-11T21:02:55.840",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:supermicro:x11swn-e:-:*:*:*:*:*:*:*",
+			"cpeNameId": "771E1B4A-D66E-49DF-B604-A7EC25BE5932"
+		}
+	]
 }

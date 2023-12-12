@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:o:supermicro:x12spm-ln6tf_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A06CA5D7-4D15-4F8C-BD44-8CFD10675911",
+	"versionEndIncluding": "3.17.02",
+	"created": "2023-12-11T19:05:59.583",
+	"lastModified": "2023-12-11T19:05:59.583",
+	"cpeLastModified": "2023-12-11T19:05:59.583",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:supermicro:x12spm-ln6tf_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D0419E47-D19C-40E9-A3F8-F4DB98DD7136"
+		}
+	]
+}

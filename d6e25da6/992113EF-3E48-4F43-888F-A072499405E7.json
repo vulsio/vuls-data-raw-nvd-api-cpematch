@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:o:supermicro:x11ddw-nt_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "992113EF-3E48-4F43-888F-A072499405E7",
+	"versionEndIncluding": "3.17.02",
+	"created": "2023-12-11T19:05:59.583",
+	"lastModified": "2023-12-11T19:05:59.583",
+	"cpeLastModified": "2023-12-11T19:05:59.583",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:supermicro:x11ddw-nt_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E683224A-9B0D-4DE3-BFED-0FDE133D5357"
+		},
+		{
+			"cpeName": "cpe:2.3:o:supermicro:x11ddw-nt_firmware:1.71.5:*:*:*:*:*:*:*",
+			"cpeNameId": "7904BEFD-7334-4104-92F1-C2735447D696"
+		}
+	]
+}

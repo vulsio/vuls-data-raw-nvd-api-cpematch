@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:o:supermicro:x13sew-tf_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DF6C8519-1FFD-4BD8-9FB5-BD8124B1DAA6",
+	"versionEndIncluding": "3.17.02",
+	"created": "2023-12-11T18:59:59.960",
+	"lastModified": "2023-12-11T18:59:59.960",
+	"cpeLastModified": "2023-12-11T18:59:59.960",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:supermicro:x13sew-tf_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D124F9ED-4F54-4E81-884A-AF14456A8CB1"
+		}
+	]
+}

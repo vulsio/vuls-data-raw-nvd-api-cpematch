@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:o:supermicro:x11spl-f_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "ED404BD7-9873-485F-ABC4-D27470ED113A",
+	"versionEndIncluding": "3.17.02",
+	"created": "2023-12-11T19:11:34.947",
+	"lastModified": "2023-12-11T19:11:34.947",
+	"cpeLastModified": "2023-12-11T19:11:34.947",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:supermicro:x11spl-f_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5A3D30DB-D32D-4849-BEE5-A0723339636A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:supermicro:x11spl-f_firmware:1.71.6:*:*:*:*:*:*:*",
+			"cpeNameId": "D03BCD27-616D-42F5-9D7C-ACC4352B103C"
+		}
+	]
+}

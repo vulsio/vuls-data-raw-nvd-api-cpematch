@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:o:supermicro:x11sds-16c_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "240EEEC9-91DC-48C9-A4A6-C753F2C1756B",
+	"versionEndIncluding": "3.17.02",
+	"created": "2023-12-11T19:09:49.260",
+	"lastModified": "2023-12-11T19:09:49.260",
+	"cpeLastModified": "2023-12-11T19:09:49.260",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:supermicro:x11sds-16c_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "10D94D33-A365-4960-9DAA-1359C850E87C"
+		}
+	]
+}

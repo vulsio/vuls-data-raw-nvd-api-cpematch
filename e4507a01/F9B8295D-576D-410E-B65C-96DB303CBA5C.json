@@ -4,8 +4,8 @@
 	"versionStartIncluding": "1.21.0-0",
 	"versionEndExcluding": "1.21.5",
 	"created": "2023-12-11T14:45:16.290",
-	"lastModified": "2023-12-11T14:45:16.290",
-	"cpeLastModified": "2023-12-11T14:45:16.290",
+	"lastModified": "2023-12-11T19:31:55.350",
+	"cpeLastModified": "2023-12-11T19:31:55.350",
 	"status": "Active",
 	"matches": [
 		{
@@ -23,6 +23,10 @@
 		{
 			"cpeName": "cpe:2.3:a:golang:go:1.21.3:*:*:*:*:*:*:*",
 			"cpeNameId": "520400DF-DA8E-4096-B209-CB58C817FFB8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:golang:go:1.21.4:*:*:*:*:*:*:*",
+			"cpeNameId": "AB84A45B-F4BB-4258-884F-1DEC0CD0C41A"
 		}
 	]
 }

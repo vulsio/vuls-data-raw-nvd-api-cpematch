@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:o:supermicro:x12sped-f_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2F18CE69-1024-4AC4-85CA-16D6FFC4CAB1",
+	"versionEndIncluding": "3.17.02",
+	"created": "2023-12-11T19:05:59.583",
+	"lastModified": "2023-12-11T19:05:59.583",
+	"cpeLastModified": "2023-12-11T19:05:59.583",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:supermicro:x12sped-f_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "271684E3-432C-4F59-B58E-0EDD31992194"
+		}
+	]
+}

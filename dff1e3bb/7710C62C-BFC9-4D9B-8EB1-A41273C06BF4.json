@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:supermicro:x11dpt-br:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "7710C62C-BFC9-4D9B-8EB1-A41273C06BF4",
 	"created": "2023-12-11T18:07:20.293",
-	"lastModified": "2023-12-11T18:07:20.293",
-	"cpeLastModified": "2023-12-11T18:07:20.293",
-	"status": "Active"
+	"lastModified": "2023-12-11T21:02:55.840",
+	"cpeLastModified": "2023-12-11T21:02:55.840",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:supermicro:x11dpt-br:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9819B7AB-280C-4A9D-966A-105AC4F289A7"
+		}
+	]
 }

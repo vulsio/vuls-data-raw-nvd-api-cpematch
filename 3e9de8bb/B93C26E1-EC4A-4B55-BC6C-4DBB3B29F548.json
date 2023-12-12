@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:supermicro:h13dsg-om:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "B93C26E1-EC4A-4B55-BC6C-4DBB3B29F548",
 	"created": "2023-12-11T18:07:20.293",
-	"lastModified": "2023-12-11T18:07:20.293",
-	"cpeLastModified": "2023-12-11T18:07:20.293",
-	"status": "Active"
+	"lastModified": "2023-12-11T21:02:55.840",
+	"cpeLastModified": "2023-12-11T21:02:55.840",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:supermicro:h13dsg-om:-:*:*:*:*:*:*:*",
+			"cpeNameId": "35A9B470-8897-42D8-8FAF-39FE16AC2571"
+		}
+	]
 }

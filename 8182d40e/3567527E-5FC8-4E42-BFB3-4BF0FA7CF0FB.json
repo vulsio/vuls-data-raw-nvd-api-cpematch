@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:o:supermicro:x11dph-tq_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3567527E-5FC8-4E42-BFB3-4BF0FA7CF0FB",
+	"versionEndIncluding": "3.17.02",
+	"created": "2023-12-11T19:08:30.643",
+	"lastModified": "2023-12-11T19:08:30.643",
+	"cpeLastModified": "2023-12-11T19:08:30.643",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:supermicro:x11dph-tq_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "92662319-D7C1-453F-B21B-4E9F2AE0CAA9"
+		},
+		{
+			"cpeName": "cpe:2.3:o:supermicro:x11dph-tq_firmware:1.71.5:*:*:*:*:*:*:*",
+			"cpeNameId": "B3E4C3A9-25ED-4491-A452-4BAAF786EA2D"
+		}
+	]
+}

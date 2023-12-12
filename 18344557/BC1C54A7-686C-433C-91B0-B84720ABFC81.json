@@ -3,7 +3,7 @@
 	"matchCriteriaId": "BC1C54A7-686C-433C-91B0-B84720ABFC81",
 	"created": "2023-08-08T13:50:54.657",
 	"lastModified": "2023-08-08T13:50:54.657",
-	"cpeLastModified": "2023-08-11T12:57:39.343",
+	"cpeLastModified": "2023-12-11T19:10:10.150",
 	"status": "Active",
 	"matches": [
 		{
@@ -93,6 +93,10 @@
 		{
 			"cpeName": "cpe:2.3:a:codesys:control_for_raspberry_pi_sl:4.10.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "FC74F868-CFCD-4884-9B82-5D0B71DA2637"
+		},
+		{
+			"cpeName": "cpe:2.3:a:codesys:control_for_raspberry_pi_sl:4.11.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "FCE22B5F-5868-4214-8FB3-1F6FABFF9B73"
 		}
 	]
 }

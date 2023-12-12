@@ -5,6 +5,12 @@
 	"versionEndExcluding": "5.4.85.5",
 	"created": "2023-12-11T17:39:26.370",
 	"lastModified": "2023-12-11T17:39:26.370",
-	"cpeLastModified": "2023-12-11T17:39:26.370",
-	"status": "Active"
+	"cpeLastModified": "2023-12-11T18:50:12.490",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:samsung:samsung_keyboard:5.4.85.0:*:*:*:*:*:*:*",
+			"cpeNameId": "915E66C2-FD0E-471E-8B51-E6D4095E9917"
+		}
+	]
 }

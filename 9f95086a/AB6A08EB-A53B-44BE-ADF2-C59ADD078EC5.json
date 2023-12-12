@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:o:supermicro:h12ssw-inl_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AB6A08EB-A53B-44BE-ADF2-C59ADD078EC5",
+	"versionEndIncluding": "3.17.02",
+	"created": "2023-12-11T19:05:59.583",
+	"lastModified": "2023-12-11T19:05:59.583",
+	"cpeLastModified": "2023-12-11T19:05:59.583",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:supermicro:h12ssw-inl_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A111AEFB-E2CC-49F9-9B73-3313613134B0"
+		}
+	]
+}
