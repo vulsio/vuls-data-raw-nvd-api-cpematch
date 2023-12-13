@@ -3,8 +3,8 @@
 	"matchCriteriaId": "3D7F1EC6-FEE9-4A43-B466-6A3C2C52EE35",
 	"versionEndExcluding": "6.6.0",
 	"created": "2022-07-18T02:16:41.717",
-	"lastModified": "2022-07-18T02:16:41.717",
-	"cpeLastModified": "2021-08-05T18:08:14.110",
+	"lastModified": "2023-12-12T21:22:32.480",
+	"cpeLastModified": "2023-12-12T21:22:32.480",
 	"status": "Active",
 	"matches": [
 		{
@@ -1584,12 +1584,104 @@
 			"cpeNameId": "5B5A3C98-430B-4CC2-975C-F6C73D784040"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.5.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CDC891D4-D3AD-4008-B106-372D841939D0"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.6.0:beta1:*:*:*:wordpress:*:*",
 			"cpeNameId": "EB32CF40-32DE-48D6-B223-4F96D3DC6F70"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.6.0:rc1:*:*:*:wordpress:*:*",
 			"cpeNameId": "BEBEC10D-6DBE-4DA1-A16E-0A17C4093116"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.6.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BB5AD1CF-C8FA-42A5-9D61-A4CFAA899335"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.7.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "484D2A29-4949-4338-B6F5-12F4214C96CB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.7.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EDBEF039-DD58-4F5A-B4BB-9F7F4696211A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.7.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AD7172AF-6468-408D-B701-41B9BFE8BAFA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.8.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AA2AF214-88F6-41D6-BEBE-7E42BFD78560"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.8.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7FD432D6-149F-46C0-A5C2-7F96433C2572"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.9.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5FE931EB-4839-41B7-AC09-5869B79CC559"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.9.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CAF0AF42-3CD8-458D-B78E-68CB2C718967"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:6.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B0703942-6080-4685-BD33-D07AA3FB6A5C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:6.0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "960108B0-36CA-4AA7-BF38-C4EAAABB7E34"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:6.1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B2E3650E-977F-4BE2-900E-72FABE81941A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:6.1.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5C576421-8935-4253-80AE-02753BD5B43C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:6.1.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4B8A72CF-5FA2-482A-80BE-DC4765BDAF57"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:6.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "485B926F-C6DD-4423-92C4-F61C48DFE7BF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:6.2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0B877FB7-CB49-498E-8D15-19979583FD51"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:6.2.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3938488D-2481-416F-9F9E-8D34921ED3B8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:6.3.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "311EAB43-B2FB-4580-93B4-A3C7A5CB1FEE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:6.3.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "78658B9B-F59B-461E-9426-ED5E44AAE047"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:6.4.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5943786D-EC03-4EA7-A509-B6C784D53740"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:6.4.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "44E5177A-3184-481A-A283-710D5A94B390"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:6.5.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "619C4532-1D0B-4284-82B1-2D579BA64D4B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:6.5.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CD49A03F-E908-49A0-AB0B-940123CB0386"
 		}
 	]
 }
