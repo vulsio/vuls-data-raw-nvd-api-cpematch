@@ -1,0 +1,27 @@
+{
+	"criteria": "cpe:2.3:a:zoom:meeting_software_development_kit:*:*:*:*:*:android:*:*",
+	"matchCriteriaId": "E725B855-C1FD-40B0-B5DD-164CB83D0F53",
+	"versionEndExcluding": "5.16.0",
+	"created": "2023-12-15T17:12:00.930",
+	"lastModified": "2023-12-15T17:12:00.930",
+	"cpeLastModified": "2023-12-15T17:12:00.930",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:zoom:meeting_software_development_kit:-:*:*:*:*:android:*:*",
+			"cpeNameId": "61EE0CD0-A004-4EB8-9C1A-E096742A8B58"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zoom:meeting_software_development_kit:5.14.7:*:*:*:*:android:*:*",
+			"cpeNameId": "DCB318B4-CAB0-4FDD-B783-4331ADB86E0A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zoom:meeting_software_development_kit:5.14.10:*:*:*:*:android:*:*",
+			"cpeNameId": "700F5C95-88C0-4D4A-AEF8-0A430117DAE6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zoom:meeting_software_development_kit:5.15.5:*:*:*:*:android:*:*",
+			"cpeNameId": "F4427AC4-D65C-486F-9972-36CB7FA6354F"
+		}
+	]
+}
