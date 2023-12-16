@@ -4,9 +4,13 @@
 	"versionEndExcluding": "2.0.0",
 	"created": "2022-07-29T16:50:40.743",
 	"lastModified": "2022-07-29T16:50:40.743",
-	"cpeLastModified": "2021-09-28T00:47:29.620",
+	"cpeLastModified": "2023-12-16T04:28:17.570",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:vuelidate_project:vuelidate:-:*:*:*:*:*:*:*",
+			"cpeNameId": "17F835FC-763D-4027-BDBD-1A931FC55E52"
+		},
 		{
 			"cpeName": "cpe:2.3:a:vuelidate_project:vuelidate:0.1.0:*:*:*:*:node.js:*:*",
 			"cpeNameId": "1E61819C-8484-4998-989E-63C4CEF49A53"

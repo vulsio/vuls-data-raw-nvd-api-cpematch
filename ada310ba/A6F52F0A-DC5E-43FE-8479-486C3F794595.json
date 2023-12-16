@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:surelinesystems:sureedge_migrator:7.0.7.29360:*:*:*:*:*:*:*",
 	"matchCriteriaId": "A6F52F0A-DC5E-43FE-8479-486C3F794595",
 	"created": "2021-09-30T17:16:44.033",
-	"lastModified": "2021-09-30T17:16:44.033",
-	"cpeLastModified": "2021-10-01T14:00:57.830",
-	"status": "Active"
+	"lastModified": "2023-12-16T04:28:17.570",
+	"cpeLastModified": "2023-12-16T04:28:17.570",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:surelinesystems:sureedge_migrator:7.0.7.29360:*:*:*:*:*:*:*",
+			"cpeNameId": "10646968-40A2-422B-88E6-11D5E7180ECE"
+		}
+	]
 }

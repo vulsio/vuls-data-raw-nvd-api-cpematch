@@ -4,7 +4,7 @@
 	"versionEndExcluding": "3.2.0",
 	"created": "2022-11-03T14:58:12.183",
 	"lastModified": "2022-11-03T14:58:12.183",
-	"cpeLastModified": "2022-11-03T14:58:12.183",
+	"cpeLastModified": "2023-12-16T04:28:17.570",
 	"status": "Active",
 	"matches": [
 		{
@@ -342,6 +342,10 @@
 		{
 			"cpeName": "cpe:2.3:a:nodered:node-red-dashboard:2.27.0:*:*:*:*:node.js:*:*",
 			"cpeNameId": "FA2AA357-FCA6-4FFE-A4FE-3466A6D98A01"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodered:node-red-dashboard:3.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "A8536917-4837-441E-B4D9-9C92F1A7339C"
 		}
 	]
 }

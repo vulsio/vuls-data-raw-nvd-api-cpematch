@@ -4,12 +4,16 @@
 	"versionEndIncluding": "1.6.0-636",
 	"created": "2021-08-12T17:03:23.343",
 	"lastModified": "2021-08-12T17:03:23.343",
-	"cpeLastModified": "2022-11-04T16:12:15.153",
+	"cpeLastModified": "2023-12-16T04:28:17.570",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:axiosys:bento4:-:*:*:*:*:*:*:*",
 			"cpeNameId": "2C5C536C-9FFF-40A3-AFFF-511BAC9853E4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:axiosys:bento4:1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "F6819FB0-E80E-4C67-9521-1A02AD197FBB"
 		},
 		{
 			"cpeName": "cpe:2.3:a:axiosys:bento4:1.4.2-584:*:*:*:*:*:*:*",

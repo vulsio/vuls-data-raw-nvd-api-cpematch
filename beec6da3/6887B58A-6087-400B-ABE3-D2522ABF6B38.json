@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:sixfab-tool_project:sixfab-tool:0.0.2:*:*:*:*:*:*:*",
 	"matchCriteriaId": "6887B58A-6087-400B-ABE3-D2522ABF6B38",
 	"created": "2022-07-06T18:23:33.260",
-	"lastModified": "2022-07-06T18:23:33.260",
-	"cpeLastModified": "2022-07-06T18:52:34.697",
-	"status": "Active"
+	"lastModified": "2023-12-16T04:28:17.570",
+	"cpeLastModified": "2023-12-16T04:28:17.570",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sixfab-tool_project:sixfab-tool:0.0.2:*:*:*:*:pypi:*:*",
+			"cpeNameId": "BBB43AEE-6A88-42E9-9A3F-FE27AAE5BA6B"
+		}
+	]
 }

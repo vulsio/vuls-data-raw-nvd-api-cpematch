@@ -3,8 +3,8 @@
 	"matchCriteriaId": "162978C6-2C74-4ADC-981E-8955A387654F",
 	"versionEndIncluding": "9.7.8",
 	"created": "2023-11-21T16:49:48.580",
-	"lastModified": "2023-11-21T16:49:48.580",
-	"cpeLastModified": "2023-11-21T16:49:48.580",
+	"lastModified": "2023-12-16T03:42:31.200",
+	"cpeLastModified": "2023-12-16T03:42:31.200",
 	"status": "Active",
 	"matches": [
 		{
@@ -658,6 +658,10 @@
 		{
 			"cpeName": "cpe:2.3:a:shareaholic:shareaholic:9.7.6:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "69C4EB3D-40F8-4581-B0BE-14643546FCE7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:shareaholic:shareaholic:9.7.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D50B9413-3AC2-4F91-B45D-63EE7959EA2A"
 		}
 	]
 }

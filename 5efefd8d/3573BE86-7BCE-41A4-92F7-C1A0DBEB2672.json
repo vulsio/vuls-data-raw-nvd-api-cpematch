@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:pulsesecure:pulse_policy_secure:9.1:r4.3:*:*:*:*:*:*",
 	"matchCriteriaId": "3573BE86-7BCE-41A4-92F7-C1A0DBEB2672",
 	"created": "2020-10-02T14:53:37.457",
-	"lastModified": "2020-10-02T14:53:37.457",
-	"cpeLastModified": "2022-08-01T15:15:08.583",
-	"status": "Active"
+	"lastModified": "2023-12-16T04:28:17.570",
+	"cpeLastModified": "2023-12-16T04:28:17.570",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:pulsesecure:pulse_policy_secure:9.1:r4.3:*:*:*:*:*:*",
+			"cpeNameId": "3B897A0E-C7FB-4635-9873-0F52C092FC38"
+		}
+	]
 }

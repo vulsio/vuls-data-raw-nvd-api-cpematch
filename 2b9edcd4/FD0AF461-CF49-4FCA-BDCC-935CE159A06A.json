@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:martmbithi:internet_banking_system:1.0:*:*:*:*:*:*:*",
 	"matchCriteriaId": "FD0AF461-CF49-4FCA-BDCC-935CE159A06A",
 	"created": "2023-10-26T13:11:17.880",
-	"lastModified": "2023-10-26T13:11:17.880",
-	"cpeLastModified": "2023-10-26T13:11:17.880",
-	"status": "Active"
+	"lastModified": "2023-12-16T03:42:31.200",
+	"cpeLastModified": "2023-12-16T03:42:31.200",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:martmbithi:internet_banking_system:1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "13AD2F98-175D-4FCA-BEA7-DF8CCF5E71CD"
+		}
+	]
 }

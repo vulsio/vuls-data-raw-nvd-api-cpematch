@@ -5,7 +5,7 @@
 	"versionEndIncluding": "5.5",
 	"created": "2022-09-23T13:46:19.630",
 	"lastModified": "2022-09-27T05:00:49.590",
-	"cpeLastModified": "2023-11-25T04:35:20.817",
+	"cpeLastModified": "2023-12-16T03:29:20.353",
 	"status": "Active",
 	"matches": [
 		{
@@ -33,6 +33,10 @@
 			"cpeNameId": "E621630C-4549-4659-B603-70DDE255574B"
 		},
 		{
+			"cpeName": "cpe:2.3:a:insyde:insydeh2o:5.2.05.28.47:*:*:*:*:*:*:*",
+			"cpeNameId": "637F06EF-5DE2-4539-A337-6DD505EBDBB7"
+		},
+		{
 			"cpeName": "cpe:2.3:a:insyde:insydeh2o:5.3:*:*:*:*:*:*:*",
 			"cpeNameId": "5C9AFB7A-4BF0-4E7C-A9F7-9DE25D2CF172"
 		},
@@ -49,6 +53,10 @@
 			"cpeNameId": "6D030863-47F5-4165-92EB-19442DE4FF94"
 		},
 		{
+			"cpeName": "cpe:2.3:a:insyde:insydeh2o:5.3.05.37.47:*:*:*:*:*:*:*",
+			"cpeNameId": "89022A7C-871A-463E-B51B-3F312F14E0A3"
+		},
+		{
 			"cpeName": "cpe:2.3:a:insyde:insydeh2o:5.4:*:*:*:*:*:*:*",
 			"cpeNameId": "F4D8849B-D92E-4C7C-AE8A-1F7242C05D18"
 		},
@@ -63,6 +71,10 @@
 		{
 			"cpeName": "cpe:2.3:a:insyde:insydeh2o:5.4.05.45.33:*:*:*:*:*:*:*",
 			"cpeNameId": "10295A75-AA9F-4DFD-8E6D-1616466D1B64"
+		},
+		{
+			"cpeName": "cpe:2.3:a:insyde:insydeh2o:5.4.05.45.47:*:*:*:*:*:*:*",
+			"cpeNameId": "7EA041B1-7FA4-4699-9445-EC78DCCDFFA0"
 		},
 		{
 			"cpeName": "cpe:2.3:a:insyde:insydeh2o:5.5:*:*:*:*:*:*:*",

@@ -3,7 +3,7 @@
 	"matchCriteriaId": "2CCEAA33-FE5C-4E66-ADCC-74F2F7897210",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-07-03T19:11:32.547",
+	"cpeLastModified": "2023-12-16T03:42:31.200",
 	"status": "Active",
 	"matches": [
 		{
@@ -1129,6 +1129,10 @@
 		{
 			"cpeName": "cpe:2.3:a:automattic:jetpack:12.2.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "68F8EB66-57C3-4612-8A0E-3FFFF27C2B22"
+		},
+		{
+			"cpeName": "cpe:2.3:a:automattic:jetpack:12.8-a.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A077ABFF-95CD-40C6-AFC5-40E9408F1DB2"
 		}
 	]
 }

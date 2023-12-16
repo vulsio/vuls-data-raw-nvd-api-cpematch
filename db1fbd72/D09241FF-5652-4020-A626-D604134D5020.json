@@ -3,7 +3,7 @@
 	"matchCriteriaId": "D09241FF-5652-4020-A626-D604134D5020",
 	"created": "2022-09-28T14:02:57.437",
 	"lastModified": "2022-09-28T14:02:57.437",
-	"cpeLastModified": "2022-11-09T20:55:24.740",
+	"cpeLastModified": "2023-12-16T03:42:31.200",
 	"status": "Active",
 	"matches": [
 		{
@@ -25,6 +25,10 @@
 		{
 			"cpeName": "cpe:2.3:a:siemens:sinec_nms:1.0.3:*:*:*:*:*:*:*",
 			"cpeNameId": "671C1F2A-54CD-4F21-9035-B7BF55BD2461"
+		},
+		{
+			"cpeName": "cpe:2.3:a:siemens:sinec_nms:2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "9D0240AC-B7F3-4894-AA8B-E805D821C670"
 		}
 	]
 }

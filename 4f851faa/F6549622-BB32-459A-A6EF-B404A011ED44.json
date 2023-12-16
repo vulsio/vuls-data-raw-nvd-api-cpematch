@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:inhabit:move_crm:4:build_260:*:*:*:*:*:*",
 	"matchCriteriaId": "F6549622-BB32-459A-A6EF-B404A011ED44",
 	"created": "2022-12-23T17:35:32.967",
-	"lastModified": "2022-12-23T17:35:32.967",
-	"cpeLastModified": "2022-12-23T17:35:32.967",
-	"status": "Active"
+	"lastModified": "2023-12-16T04:05:58.243",
+	"cpeLastModified": "2023-12-16T04:05:58.243",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:inhabit:move_crm:4:build_260:*:*:*:*:*:*",
+			"cpeNameId": "7625D41F-186C-465A-AD57-688CCE307AF1"
+		}
+	]
 }

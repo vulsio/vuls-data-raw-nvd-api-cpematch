@@ -4,6 +4,12 @@
 	"versionEndIncluding": "1.5",
 	"created": "2023-11-09T12:12:16.427",
 	"lastModified": "2023-11-09T12:12:16.427",
-	"cpeLastModified": "2023-11-09T12:12:16.427",
-	"status": "Active"
+	"cpeLastModified": "2023-12-16T03:42:31.200",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:josie:auto_excerpt_everywhere:1.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DF48CA1D-CD31-4994-91A5-601F792DE534"
+		}
+	]
 }

@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:honda:civic_2012:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "CCCCEB59-3267-4A20-B47A-D1BAD28874F9",
 	"created": "2022-01-18T13:32:38.697",
-	"lastModified": "2022-01-18T13:32:38.697",
-	"cpeLastModified": "2022-01-18T17:43:14.963",
-	"status": "Active"
+	"lastModified": "2023-12-16T04:28:17.570",
+	"cpeLastModified": "2023-12-16T04:28:17.570",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:honda:civic_2012:-:*:*:*:*:*:*:*",
+			"cpeNameId": "48A912C3-6AE5-45C5-9BD3-0243DE25828E"
+		}
+	]
 }

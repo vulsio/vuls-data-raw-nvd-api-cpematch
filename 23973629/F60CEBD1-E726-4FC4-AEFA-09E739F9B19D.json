@@ -3,8 +3,8 @@
 	"matchCriteriaId": "F60CEBD1-E726-4FC4-AEFA-09E739F9B19D",
 	"versionEndIncluding": "3.6.4",
 	"created": "2023-11-01T14:02:51.240",
-	"lastModified": "2023-11-01T14:02:51.240",
-	"cpeLastModified": "2023-11-01T14:02:51.240",
+	"lastModified": "2023-12-16T03:42:31.200",
+	"cpeLastModified": "2023-12-16T03:42:31.200",
 	"status": "Active",
 	"matches": [
 		{
@@ -630,6 +630,10 @@
 		{
 			"cpeName": "cpe:2.3:a:mintty_project:mintty:3.6.3:*:*:*:*:*:*:*",
 			"cpeNameId": "3E281E0E-49E6-44F5-B3EB-AF5B0CAC0E43"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mintty_project:mintty:3.6.4:*:*:*:*:*:*:*",
+			"cpeNameId": "7654BDCA-5466-409D-8192-6C600E6F4EFD"
 		}
 	]
 }

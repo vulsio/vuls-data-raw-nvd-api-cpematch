@@ -3,8 +3,8 @@
 	"matchCriteriaId": "5CE8A2C7-DA59-4397-80B0-F90A8E3445A9",
 	"versionEndIncluding": "1.27.0",
 	"created": "2023-11-21T16:55:59.347",
-	"lastModified": "2023-11-21T16:55:59.347",
-	"cpeLastModified": "2023-11-21T16:55:59.347",
+	"lastModified": "2023-12-16T03:42:31.200",
+	"cpeLastModified": "2023-12-16T03:42:31.200",
 	"status": "Active",
 	"matches": [
 		{
@@ -374,6 +374,10 @@
 		{
 			"cpeName": "cpe:2.3:a:incsub:forminator:1.25.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "0D17D5A4-354F-4E62-A3F8-7B9BC896CE36"
+		},
+		{
+			"cpeName": "cpe:2.3:a:incsub:forminator:1.27.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FB0114D2-F482-4CED-B60E-789F67ED7B52"
 		}
 	]
 }

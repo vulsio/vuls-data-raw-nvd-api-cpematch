@@ -3,8 +3,8 @@
 	"matchCriteriaId": "C74B8BD8-C2D0-4E46-B228-97E539D033AD",
 	"versionEndIncluding": "6.2.0",
 	"created": "2023-01-31T16:05:12.163",
-	"lastModified": "2023-01-31T16:05:12.163",
-	"cpeLastModified": "2023-01-31T16:05:12.163",
+	"lastModified": "2023-12-16T04:05:58.243",
+	"cpeLastModified": "2023-12-16T04:05:58.243",
 	"status": "Active",
 	"matches": [
 		{
@@ -1246,6 +1246,10 @@
 		{
 			"cpeName": "cpe:2.3:a:signal:signal-desktop:1.30.0:beta3:*:*:*:*:*:*",
 			"cpeNameId": "0BA3AA51-1F9F-49CA-98C0-F21C44E5C566"
+		},
+		{
+			"cpeName": "cpe:2.3:a:signal:signal-desktop:6.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "944B1C9E-A0C2-4380-A5FB-9BDBA639A361"
 		}
 	]
 }

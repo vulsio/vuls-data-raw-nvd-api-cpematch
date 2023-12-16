@@ -5,7 +5,7 @@
 	"versionEndExcluding": "c5.1.0.2498",
 	"created": "2023-10-18T19:49:25.580",
 	"lastModified": "2023-10-24T16:18:14.810",
-	"cpeLastModified": "2023-11-27T16:16:22.980",
+	"cpeLastModified": "2023-12-16T03:42:31.200",
 	"status": "Active",
 	"matches": [
 		{
@@ -15,6 +15,10 @@
 		{
 			"cpeName": "cpe:2.3:o:qnap:qutscloud:c5.0.0.1919:build_20220119:*:*:*:*:*:*",
 			"cpeNameId": "498FA424-0A40-48B3-9BA0-64EB0111D35F"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:qutscloud:c5.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "C793655B-42AE-4C8C-B3E5-C0FCE6ABE05E"
 		},
 		{
 			"cpeName": "cpe:2.3:o:qnap:qutscloud:c5.0.1.1949:*:*:*:*:*:*:*",
@@ -39,6 +43,10 @@
 		{
 			"cpeName": "cpe:2.3:o:qnap:qutscloud:c5.0.1.2148:build_20220905:*:*:*:*:*:*",
 			"cpeNameId": "D030C42E-6DB6-4C87-9658-B0301BD00DE9"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:qutscloud:c5.0.1.2374:*:*:*:*:*:*:*",
+			"cpeNameId": "51F447AE-B402-432B-995D-DC824A5E0F7E"
 		},
 		{
 			"cpeName": "cpe:2.3:o:qnap:qutscloud:c5.0.1.2374:build_20230419:*:*:*:*:*:*",

@@ -3,9 +3,13 @@
 	"matchCriteriaId": "555D9C8B-4356-4078-8515-81F9C3B6CF74",
 	"created": "2023-01-31T15:22:05.990",
 	"lastModified": "2023-05-04T12:15:12.210",
-	"cpeLastModified": "2023-05-11T14:04:57.470",
+	"cpeLastModified": "2023-12-16T04:28:17.570",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:powerdns:recursor:4.8.0:*:*:*:*:*:*:*",
+			"cpeNameId": "8AB9E5E3-A420-4169-A4BF-70123AC3139A"
+		},
 		{
 			"cpeName": "cpe:2.3:a:powerdns:recursor:4.8.0:-:*:*:*:*:*:*",
 			"cpeNameId": "86468B51-FA71-4505-833E-A6E3E5DFE6DB"

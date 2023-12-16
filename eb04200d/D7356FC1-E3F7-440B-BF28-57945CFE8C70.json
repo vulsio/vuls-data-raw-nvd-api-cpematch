@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:tradr-project:tf_remapper:1.1.1:*:*:*:*:robot_operating_system:*:*",
 	"matchCriteriaId": "D7356FC1-E3F7-440B-BF28-57945CFE8C70",
 	"created": "2023-01-09T17:32:27.060",
-	"lastModified": "2023-01-09T17:32:27.060",
-	"cpeLastModified": "2023-01-09T17:32:27.060",
-	"status": "Active"
+	"lastModified": "2023-12-16T04:01:59.527",
+	"cpeLastModified": "2023-12-16T04:01:59.527",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:tradr-project:tf_remapper:1.1.1:*:*:*:*:robot_operating_system:*:*",
+			"cpeNameId": "8C8AAFF3-72D5-43DA-81FD-6A701E7559E8"
+		}
+	]
 }

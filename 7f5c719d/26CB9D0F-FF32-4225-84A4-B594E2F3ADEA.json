@@ -3,8 +3,8 @@
 	"matchCriteriaId": "26CB9D0F-FF32-4225-84A4-B594E2F3ADEA",
 	"versionEndIncluding": "2019-02-08",
 	"created": "2023-11-24T16:05:37.423",
-	"lastModified": "2023-11-24T16:05:37.423",
-	"cpeLastModified": "2023-11-24T19:44:08.773",
+	"lastModified": "2023-12-16T03:29:20.353",
+	"cpeLastModified": "2023-12-16T03:29:20.353",
 	"status": "Active",
 	"matches": [
 		{
@@ -66,6 +66,10 @@
 		{
 			"cpeName": "cpe:2.3:a:howerj:liblisp:0.6.0:*:*:*:*:*:*:*",
 			"cpeNameId": "93C18551-403F-4374-A69D-09E1090902BA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:howerj:liblisp:2019-02-08:*:*:*:*:*:*:*",
+			"cpeNameId": "6127F1B4-47D2-4627-856D-54536B2509BE"
 		}
 	]
 }

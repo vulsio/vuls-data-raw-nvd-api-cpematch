@@ -5,6 +5,16 @@
 	"versionEndIncluding": "1.1.4",
 	"created": "2022-11-23T16:06:18.200",
 	"lastModified": "2022-11-23T16:06:18.200",
-	"cpeLastModified": "2022-11-23T16:06:18.200",
-	"status": "Active"
+	"cpeLastModified": "2023-12-16T03:29:20.353",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ibm:i_access_client_solutions:1.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "ACDDDC79-EF37-4942-97C6-07DDF9FBB076"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:i_access_client_solutions:1.1.4:*:*:*:*:*:*:*",
+			"cpeNameId": "8E55C286-4389-4030-97A8-A3EF2770B43E"
+		}
+	]
 }

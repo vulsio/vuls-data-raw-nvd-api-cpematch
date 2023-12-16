@@ -3,9 +3,13 @@
 	"matchCriteriaId": "82540E3B-B426-424F-A6FD-C0AAB596389A",
 	"created": "2023-08-21T13:34:52.203",
 	"lastModified": "2023-08-21T13:34:52.203",
-	"cpeLastModified": "2023-08-21T13:34:52.203",
+	"cpeLastModified": "2023-12-16T03:17:51.377",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:eset:nod32:-:-:*:*:*:*:*:*",
+			"cpeNameId": "162CABAF-5365-4808-A534-1A20FBCA87E5"
+		},
 		{
 			"cpeName": "cpe:2.3:a:eset:nod32:-:10951:*:*:*:*:*:*",
 			"cpeNameId": "889C45B2-B41A-4E25-99B3-1DD9DD6115F8"

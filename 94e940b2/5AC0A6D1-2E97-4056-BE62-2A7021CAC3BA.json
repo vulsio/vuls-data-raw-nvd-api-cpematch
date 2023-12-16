@@ -3,8 +3,8 @@
 	"matchCriteriaId": "5AC0A6D1-2E97-4056-BE62-2A7021CAC3BA",
 	"versionEndExcluding": "2023.3.5.0",
 	"created": "2023-12-14T18:00:45.217",
-	"lastModified": "2023-12-14T18:00:45.217",
-	"cpeLastModified": "2023-12-14T18:00:45.217",
+	"lastModified": "2023-12-16T03:29:20.353",
+	"cpeLastModified": "2023-12-16T03:29:20.353",
 	"status": "Active",
 	"matches": [
 		{
@@ -362,6 +362,10 @@
 		{
 			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2023.2.33:*:*:*:*:*:*:*",
 			"cpeNameId": "C5B51AF5-0CFA-4ED2-8355-654BF4D198D2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2023.3.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "47AA49E2-BE9B-4157-AA75-CA5638FA1967"
 		}
 	]
 }

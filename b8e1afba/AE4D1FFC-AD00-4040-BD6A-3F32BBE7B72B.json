@@ -5,6 +5,12 @@
 	"versionEndExcluding": "15.2-4",
 	"created": "2023-12-14T14:02:37.420",
 	"lastModified": "2023-12-14T14:02:37.420",
-	"cpeLastModified": "2023-12-14T14:02:37.420",
-	"status": "Active"
+	"cpeLastModified": "2023-12-16T03:29:20.353",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:enalean:tuleap:15.2:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "843005D0-4724-4E3A-870E-129075C667B4"
+		}
+	]
 }

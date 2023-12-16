@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:joplinapp:joplin:2.8.8:*:*:*:*:*:*:*",
 	"matchCriteriaId": "91B75E51-3827-4240-9060-F261E9113717",
 	"created": "2022-10-04T17:19:43.060",
-	"lastModified": "2022-10-04T17:19:43.060",
-	"cpeLastModified": "2022-11-07T21:21:36.487",
-	"status": "Active"
+	"lastModified": "2023-12-16T04:28:17.570",
+	"cpeLastModified": "2023-12-16T04:28:17.570",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:joplinapp:joplin:2.8.8:*:*:*:*:*:*:*",
+			"cpeNameId": "057843E5-0E66-45C8-927A-C48F19A98EAD"
+		}
+	]
 }

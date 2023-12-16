@@ -3,8 +3,8 @@
 	"matchCriteriaId": "8B4BE7D1-A593-433B-8057-BC84B0991061",
 	"versionEndIncluding": "5.6.6",
 	"created": "2023-11-24T18:27:14.187",
-	"lastModified": "2023-11-24T18:27:14.187",
-	"cpeLastModified": "2023-11-24T18:27:14.187",
+	"lastModified": "2023-12-16T03:42:31.200",
+	"cpeLastModified": "2023-12-16T03:42:31.200",
 	"status": "Active",
 	"matches": [
 		{
@@ -1190,6 +1190,10 @@
 		{
 			"cpeName": "cpe:2.3:a:metagauss:profilegrid:5.5.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "43A76235-C105-4E28-A6E2-8D6DB6F6EC7B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:metagauss:profilegrid:5.6.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B04571BB-AD38-4B1E-8D18-60396C5D3204"
 		}
 	]
 }

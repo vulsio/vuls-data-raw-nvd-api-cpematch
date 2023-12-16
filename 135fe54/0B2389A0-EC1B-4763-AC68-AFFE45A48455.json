@@ -4,7 +4,7 @@
 	"versionEndExcluding": "x14.0.7",
 	"created": "2022-05-26T01:01:58.533",
 	"lastModified": "2022-05-26T01:01:58.533",
-	"cpeLastModified": "2022-06-29T11:19:53.630",
+	"cpeLastModified": "2023-12-16T03:17:51.377",
 	"status": "Active",
 	"matches": [
 		{
@@ -338,6 +338,10 @@
 		{
 			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x14.0.2:*:*:*:expressway:*:*:*",
 			"cpeNameId": "7D9FDBCB-9D2F-402D-8909-B6B8205C369D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x14.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "D3DDEE74-E2B0-4215-88BB-A616232E3465"
 		},
 		{
 			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x14.0.3:*:*:*:expressway:*:*:*",

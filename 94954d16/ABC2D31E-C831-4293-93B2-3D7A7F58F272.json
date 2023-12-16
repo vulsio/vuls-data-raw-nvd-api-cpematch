@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:wago:telecontrol_configurator:*:*:*:*:*:*:*:*",
 	"matchCriteriaId": "ABC2D31E-C831-4293-93B2-3D7A7F58F272",
 	"created": "2023-12-08T15:18:59.460",
-	"lastModified": "2023-12-08T15:18:59.460",
-	"cpeLastModified": "2023-12-08T15:18:59.460",
-	"status": "Active"
+	"lastModified": "2023-12-16T03:29:20.353",
+	"cpeLastModified": "2023-12-16T03:29:20.353",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wago:telecontrol_configurator:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7381AB99-3FF4-42D6-A524-6A0B31F8BCE2"
+		}
+	]
 }

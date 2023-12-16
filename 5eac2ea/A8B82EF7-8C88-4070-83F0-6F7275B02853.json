@@ -4,9 +4,13 @@
 	"versionEndExcluding": "2.11.3",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"cpeLastModified": "2023-12-16T03:42:31.200",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sap:cloud_connector:2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "2E613083-F51B-4477-9555-D527FC65229B"
+		},
 		{
 			"cpeName": "cpe:2.3:a:sap:cloud_connector:2.10:*:*:*:*:*:*:*",
 			"cpeNameId": "DCF0D361-3683-41BB-A30E-929D94D70A8B"

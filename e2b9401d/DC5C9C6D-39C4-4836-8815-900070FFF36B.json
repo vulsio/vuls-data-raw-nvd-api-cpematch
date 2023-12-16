@@ -4,6 +4,12 @@
 	"versionEndIncluding": "1.2.8",
 	"created": "2023-12-04T14:30:21.113",
 	"lastModified": "2023-12-04T14:30:21.113",
-	"cpeLastModified": "2023-12-04T14:30:21.113",
-	"status": "Active"
+	"cpeLastModified": "2023-12-16T03:42:31.200",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:q2w3:q2w3_post_order:1.2.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "53FE33C0-7111-42B2-9C47-8E80E3BA080E"
+		}
+	]
 }

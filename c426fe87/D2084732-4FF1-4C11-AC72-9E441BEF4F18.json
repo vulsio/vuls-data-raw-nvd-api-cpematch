@@ -4,7 +4,7 @@
 	"versionEndIncluding": "7.4",
 	"created": "2020-09-03T12:05:57.170",
 	"lastModified": "2020-09-03T12:05:57.170",
-	"cpeLastModified": "2020-09-03T12:30:39.930",
+	"cpeLastModified": "2023-12-16T03:42:31.200",
 	"status": "Active",
 	"matches": [
 		{
@@ -62,6 +62,10 @@
 		{
 			"cpeName": "cpe:2.3:a:os4ed:opensis:7.2:*:*:*:*:*:*:*",
 			"cpeNameId": "F3B0161D-1300-46E7-B4AA-EEEE415478D2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:os4ed:opensis:7.3:*:*:*:*:*:*:*",
+			"cpeNameId": "E9FB3C1A-6953-4F38-9E20-1047C3843897"
 		},
 		{
 			"cpeName": "cpe:2.3:a:os4ed:opensis:7.3:*:*:*:-:*:*:*",

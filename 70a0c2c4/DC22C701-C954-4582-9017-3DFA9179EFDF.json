@@ -4,6 +4,12 @@
 	"versionEndExcluding": "2019-10-28",
 	"created": "2023-01-06T18:19:36.490",
 	"lastModified": "2023-01-06T18:19:36.490",
-	"cpeLastModified": "2023-01-06T18:19:36.490",
-	"status": "Active"
+	"cpeLastModified": "2023-12-16T04:28:17.570",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:shredzone:cilla:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D33054F2-CFED-4B02-92A2-591FF9C5E181"
+		}
+	]
 }

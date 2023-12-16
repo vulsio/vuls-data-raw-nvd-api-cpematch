@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:hp:helion_openstack:2.0:*:*:*:*:*:*:*",
 	"matchCriteriaId": "2BCDFC81-38CF-4116-8B09-071F2AA04A8D",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-09-15T18:32:25.210",
-	"status": "Active"
+	"lastModified": "2023-12-16T03:56:07.630",
+	"cpeLastModified": "2023-12-16T03:56:07.630",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:hp:helion_openstack:2.0:-:*:*:*:*:*:*",
+			"cpeNameId": "F76D2A08-C2D2-4D8F-9001-DC9D11685E08"
+		}
+	]
 }

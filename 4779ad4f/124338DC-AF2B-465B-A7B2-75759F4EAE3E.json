@@ -3,8 +3,8 @@
 	"matchCriteriaId": "124338DC-AF2B-465B-A7B2-75759F4EAE3E",
 	"versionEndIncluding": "2.10.3",
 	"created": "2023-11-15T17:41:47.637",
-	"lastModified": "2023-11-15T17:41:47.637",
-	"cpeLastModified": "2023-11-15T17:41:47.637",
+	"lastModified": "2023-12-16T03:42:31.200",
+	"cpeLastModified": "2023-12-16T03:42:31.200",
 	"status": "Active",
 	"matches": [
 		{
@@ -138,6 +138,10 @@
 		{
 			"cpeName": "cpe:2.3:a:presstigers:simple_job_board:2.10.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "6D29A543-2848-49D4-8B72-BA287FF7CF5A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:presstigers:simple_job_board:2.10.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5E15B43E-3507-481E-AEC7-6382021D02E2"
 		}
 	]
 }

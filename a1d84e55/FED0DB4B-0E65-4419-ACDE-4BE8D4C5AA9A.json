@@ -4,8 +4,8 @@
 	"versionStartIncluding": "9.0",
 	"versionEndIncluding": "10.3",
 	"created": "2023-06-16T14:12:44.533",
-	"lastModified": "2023-06-16T14:12:44.533",
-	"cpeLastModified": "2023-08-29T14:39:00.990",
+	"lastModified": "2023-12-16T04:05:58.243",
+	"cpeLastModified": "2023-12-16T04:05:58.243",
 	"status": "Active",
 	"matches": [
 		{
@@ -71,6 +71,10 @@
 		{
 			"cpeName": "cpe:2.3:a:sitecore:experience_platform:10.2:-:*:*:*:*:*:*",
 			"cpeNameId": "56018B24-56CA-40FF-808B-2DBBA2F5EBD3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sitecore:experience_platform:10.3:*:*:*:*:*:*:*",
+			"cpeNameId": "82A5C611-B65D-4FE4-9257-F175A9E9F912"
 		}
 	]
 }

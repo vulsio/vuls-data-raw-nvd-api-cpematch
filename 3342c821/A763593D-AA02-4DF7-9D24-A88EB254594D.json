@@ -3,8 +3,8 @@
 	"matchCriteriaId": "A763593D-AA02-4DF7-9D24-A88EB254594D",
 	"versionEndIncluding": "5.01.03",
 	"created": "2023-06-14T16:05:03.813",
-	"lastModified": "2023-06-14T16:05:03.813",
-	"cpeLastModified": "2023-06-14T16:05:03.813",
+	"lastModified": "2023-12-16T04:01:59.527",
+	"cpeLastModified": "2023-12-16T04:01:59.527",
 	"status": "Active",
 	"matches": [
 		{
@@ -310,6 +310,10 @@
 		{
 			"cpeName": "cpe:2.3:a:trianglemicroworks:scada_data_gateway:4.00.0140:*:*:*:*:*:*:*",
 			"cpeNameId": "F0CB2AB4-F241-4ECA-A1FC-131489233701"
+		},
+		{
+			"cpeName": "cpe:2.3:a:trianglemicroworks:scada_data_gateway:5.01.03:*:*:*:*:*:*:*",
+			"cpeNameId": "B5717B23-A04D-4079-9340-6EE201D96684"
 		}
 	]
 }

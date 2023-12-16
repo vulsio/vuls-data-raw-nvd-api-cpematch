@@ -3,8 +3,8 @@
 	"matchCriteriaId": "0105F955-25C8-4582-BD05-8BCD48BFF3D6",
 	"versionEndExcluding": "5.16.5",
 	"created": "2023-12-15T17:41:48.040",
-	"lastModified": "2023-12-15T17:41:48.040",
-	"cpeLastModified": "2023-12-15T17:41:48.040",
+	"lastModified": "2023-12-16T03:29:20.353",
+	"cpeLastModified": "2023-12-16T03:29:20.353",
 	"status": "Active",
 	"matches": [
 		{
@@ -94,6 +94,10 @@
 		{
 			"cpeName": "cpe:2.3:a:zoom:meeting_software_development_kit:5.15.5:*:*:*:*:windows:*:*",
 			"cpeNameId": "5F20C393-1756-4350-8CC8-A238097625BF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zoom:meeting_software_development_kit:5.16.0:*:*:*:*:android:*:*",
+			"cpeNameId": "B324AA49-B90A-413F-9D15-FEA666D4AB25"
 		}
 	]
 }

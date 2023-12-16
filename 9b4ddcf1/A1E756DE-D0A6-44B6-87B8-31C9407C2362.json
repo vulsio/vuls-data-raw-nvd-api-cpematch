@@ -5,12 +5,16 @@
 	"versionEndIncluding": "4.0.2.3",
 	"created": "2023-11-18T04:20:46.257",
 	"lastModified": "2023-11-18T04:20:46.257",
-	"cpeLastModified": "2023-11-18T04:20:46.257",
+	"cpeLastModified": "2023-12-16T04:05:58.243",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:opencart:opencart:4.0.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "38733DBC-992D-4225-B887-9B50F4CEE3B6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:opencart:opencart:4.0.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "7C9A2DED-54DF-4A5C-8AD8-E401F307428F"
 		}
 	]
 }

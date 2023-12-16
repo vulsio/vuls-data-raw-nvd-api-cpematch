@@ -4,7 +4,7 @@
 	"versionEndIncluding": "3.6.25",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-10-06T15:12:01.647",
+	"cpeLastModified": "2023-12-16T04:28:17.570",
 	"status": "Active",
 	"matches": [
 		{
@@ -494,6 +494,10 @@
 		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:3.6:a1:*:*:*:*:*:*",
 			"cpeNameId": "2AF4D7D8-AE03-4C7F-BB9F-5EBDD3BCD99B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:3.6:a1_prerelease:*:*:*:*:*:*",
+			"cpeNameId": "577D2185-C48F-497B-B430-8804D0F92025"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:3.6.2:*:*:*:*:*:*:*",

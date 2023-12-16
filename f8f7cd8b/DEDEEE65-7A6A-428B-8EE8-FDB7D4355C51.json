@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2023-02-09",
 	"created": "2023-02-14T17:31:41.650",
 	"lastModified": "2023-02-14T17:31:41.650",
-	"cpeLastModified": "2023-12-12T17:54:25.390",
+	"cpeLastModified": "2023-12-16T04:28:17.570",
 	"status": "Active",
 	"matches": [
 		{
@@ -92,6 +92,10 @@
 			"cpeNameId": "F9EAA3DA-8B49-4143-95FD-D7E37CB5F6C4"
 		},
 		{
+			"cpeName": "cpe:2.3:a:gpac:gpac:2.1-dev-rev368-gfd054169b-master:*:*:*:*:*:*:*",
+			"cpeNameId": "FA76A292-F4C2-459E-88C3-AF683F482C16"
+		},
+		{
 			"cpeName": "cpe:2.3:a:gpac:gpac:2.1-dev-rev428-gcb8ae46c8-master:*:*:*:*:*:*:*",
 			"cpeNameId": "1CE19E14-FF66-4FFD-B9A6-4DCF9266E9CB"
 		},
@@ -138,6 +142,10 @@
 		{
 			"cpeName": "cpe:2.3:a:gpac:gpac:2.3-dev-rev40-g3602a5ded:*:*:*:*:*:*:*",
 			"cpeNameId": "A3CB75D4-06C1-460C-BBEC-772BFC76D234"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gpac:gpac:2.3-dev-rev566-g50c2ab06f-master:*:*:*:*:*:*:*",
+			"cpeNameId": "3EE0837E-AEA5-455F-86CE-DCA60CFD5166"
 		},
 		{
 			"cpeName": "cpe:2.3:a:gpac:gpac:2.3-dev-rev573-g201320819-master:*:*:*:*:*:*:*",

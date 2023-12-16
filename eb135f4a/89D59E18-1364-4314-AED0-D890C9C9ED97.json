@@ -3,7 +3,7 @@
 	"matchCriteriaId": "89D59E18-1364-4314-AED0-D890C9C9ED97",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-07-20T18:42:11.320",
+	"cpeLastModified": "2023-12-16T04:28:17.570",
 	"status": "Active",
 	"matches": [
 		{
@@ -511,12 +511,28 @@
 			"cpeNameId": "0C1A5443-65B4-4261-9D4C-4E45AD990556"
 		},
 		{
+			"cpeName": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.9.00086:*:*:*:*:*:*:*",
+			"cpeNameId": "7AD1C82C-8109-48B2-AE2E-0FCF2209AE51"
+		},
+		{
 			"cpeName": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.9.00086:*:*:*:*:windows:*:*",
 			"cpeNameId": "22400576-58B9-4B54-9FC0-CF67B74A9A69"
 		},
 		{
+			"cpeName": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.9.01095:*:*:*:*:*:*:*",
+			"cpeNameId": "3040D530-7E90-44EA-9E1F-50FF3E3D8B7B"
+		},
+		{
 			"cpeName": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.9.01095:*:*:*:*:windows:*:*",
 			"cpeNameId": "4B42F45C-3BCC-4F55-BA5E-A0684AB587DF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.9.02028:*:*:*:*:*:*:*",
+			"cpeNameId": "C530B0A9-8D22-4CB4-8C79-283B2710FC8F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.9.03047:*:*:*:*:*:*:*",
+			"cpeNameId": "BB11EEA2-70A5-43FA-B459-9E73AD600902"
 		},
 		{
 			"cpeName": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.9.03047:*:*:*:*:linux_kernel:*:*",
@@ -531,16 +547,36 @@
 			"cpeNameId": "6AF0EF66-F329-4EAA-A7CF-118644770169"
 		},
 		{
+			"cpeName": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.9.03049:*:*:*:*:*:*:*",
+			"cpeNameId": "25A455DC-251C-4AA2-8F7B-785BE9DCAB81"
+		},
+		{
 			"cpeName": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.9.03049:*:*:*:*:windows:*:*",
 			"cpeNameId": "FE1B3E6F-AC16-4815-A76C-115882DCD4EB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.9.04043:*:*:*:*:*:*:*",
+			"cpeNameId": "7B745200-954D-40E1-9B06-38A18F3EAF03"
 		},
 		{
 			"cpeName": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.9.04043:*:*:*:*:windows:*:*",
 			"cpeNameId": "B4691ABB-A999-486F-80DA-2E2FBAF4B030"
 		},
 		{
+			"cpeName": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.9.04053:*:*:*:*:*:*:*",
+			"cpeNameId": "2288B229-83A8-4136-9C05-5235104F3DE1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.9.05042:*:*:*:*:*:*:*",
+			"cpeNameId": "FFCE4E22-1A33-40E8-AB24-1F7AA249753F"
+		},
+		{
 			"cpeName": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.9.05042:*:*:*:*:windows:*:*",
 			"cpeNameId": "DA81048F-B33A-4835-BEF5-44D62F017340"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.9.06037:*:*:*:*:*:*:*",
+			"cpeNameId": "4AD71AFC-F972-4D87-985C-D8B34875668F"
 		},
 		{
 			"cpeName": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.9.06037:*:*:*:*:windows:*:*",

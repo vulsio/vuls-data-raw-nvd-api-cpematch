@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:iproute2_project:iproute2:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "3F5EEAE4-2300-4241-BDAE-772C4EDE939F",
 	"created": "2022-10-24T16:28:13.587",
-	"lastModified": "2022-10-24T16:35:51.510",
-	"cpeLastModified": "2022-10-24T16:28:13.587",
-	"status": "Active"
+	"lastModified": "2023-12-16T04:28:17.570",
+	"cpeLastModified": "2023-12-16T04:28:17.570",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:iproute2_project:iproute2:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8551DE6E-7FD7-4093-96F1-838F1401E14F"
+		}
+	]
 }

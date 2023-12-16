@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:immunix:immunix:7.0_beta:*:*:*:*:*:*:*",
 	"matchCriteriaId": "1A2889C6-8DE0-4432-812A-F2A5C4A08897",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
-	"status": "Active"
+	"lastModified": "2023-12-16T03:56:07.630",
+	"cpeLastModified": "2023-12-16T03:56:07.630",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:immunix:immunix:7.0_beta:*:*:*:*:*:*:*",
+			"cpeNameId": "1F9F8C1F-06F9-4D86-9AE3-A58E9F87F933"
+		}
+	]
 }

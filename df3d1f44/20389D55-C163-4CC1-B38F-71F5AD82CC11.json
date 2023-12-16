@@ -3,8 +3,8 @@
 	"matchCriteriaId": "20389D55-C163-4CC1-B38F-71F5AD82CC11",
 	"versionEndExcluding": "120.0.6099.109",
 	"created": "2023-12-15T19:48:32.330",
-	"lastModified": "2023-12-15T19:48:32.330",
-	"cpeLastModified": "2023-12-15T19:48:32.330",
+	"lastModified": "2023-12-16T03:42:31.200",
+	"cpeLastModified": "2023-12-16T03:29:20.353",
 	"status": "Active",
 	"matches": [
 		{
@@ -36386,6 +36386,10 @@
 		{
 			"cpeName": "cpe:2.3:a:google:chrome:118.0.5993.70:*:*:*:*:*:*:*",
 			"cpeNameId": "3AE020F7-7C78-4ABC-A9B1-A76C57D51307"
+		},
+		{
+			"cpeName": "cpe:2.3:a:google:chrome:119.0.6045.199:*:*:*:*:*:*:*",
+			"cpeNameId": "5C3AE751-5B1E-45F2-9911-513966F3052C"
 		}
 	]
 }

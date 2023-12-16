@@ -4,8 +4,8 @@
 	"versionStartIncluding": "3.0.0",
 	"versionEndIncluding": "3.35.0",
 	"created": "2021-11-02T17:56:27.697",
-	"lastModified": "2021-11-02T17:56:27.697",
-	"cpeLastModified": "2021-11-05T18:53:51.823",
+	"lastModified": "2023-12-16T03:42:31.200",
+	"cpeLastModified": "2023-12-16T03:42:31.200",
 	"status": "Active",
 	"matches": [
 		{
@@ -459,6 +459,10 @@
 		{
 			"cpeName": "cpe:2.3:a:sonatype:nexus_repository_manager:3.34.1-01:*:*:*:*:*:*:*",
 			"cpeNameId": "40D1C02D-8E9F-4B6D-A3FF-19F4A10987F4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonatype:nexus_repository_manager:3.35.0:*:*:*:*:*:*:*",
+			"cpeNameId": "BBD57CBB-E01C-4DB0-B011-DA5B7CA20C69"
 		}
 	]
 }

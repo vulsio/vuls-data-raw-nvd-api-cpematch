@@ -4,7 +4,7 @@
 	"versionEndIncluding": "23.4",
 	"created": "2023-09-06T00:28:54.993",
 	"lastModified": "2023-09-06T00:28:54.993",
-	"cpeLastModified": "2023-12-09T00:30:32.643",
+	"cpeLastModified": "2023-12-16T03:42:31.200",
 	"status": "Active",
 	"matches": [
 		{
@@ -3896,6 +3896,10 @@
 			"cpeNameId": "7E4CFFE0-519B-4C89-BF40-515561F5A2DA"
 		},
 		{
+			"cpeName": "cpe:2.3:o:juniper:junos:20.4:r3-s9:*:*:*:*:*:*",
+			"cpeNameId": "AA87235C-EC7B-4FC1-9F5C-8CB92886590F"
+		},
+		{
 			"cpeName": "cpe:2.3:o:juniper:junos:21.1:-:*:*:*:*:*:*",
 			"cpeNameId": "3C650212-63CD-49E3-8603-B2A9085D28D4"
 		},
@@ -4250,6 +4254,10 @@
 		{
 			"cpeName": "cpe:2.3:o:juniper:junos:22.4:r2-s2:*:*:*:*:*:*",
 			"cpeNameId": "F77AA963-5B37-4DEC-9772-56721ACE5106"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos:22.4:r3:*:*:*:*:*:*",
+			"cpeNameId": "75386336-0B8F-4C11-962E-303900DF0DF0"
 		},
 		{
 			"cpeName": "cpe:2.3:o:juniper:junos:23.1:r1:*:*:*:*:*:*",

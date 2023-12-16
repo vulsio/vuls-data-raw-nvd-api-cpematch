@@ -4,10 +4,14 @@
 	"versionStartIncluding": "14.0.0",
 	"versionEndExcluding": "14.9.0",
 	"created": "2023-12-13T18:00:38.680",
-	"lastModified": "2023-12-13T18:00:38.680",
-	"cpeLastModified": "2023-12-13T18:00:38.680",
+	"lastModified": "2023-12-16T04:11:41.207",
+	"cpeLastModified": "2023-12-16T04:11:41.207",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:enterprisedb:postgres_advanced_server:14.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "FA5DA4A1-5EDD-4B61-BA75-0DDAED3B218E"
+		},
 		{
 			"cpeName": "cpe:2.3:a:enterprisedb:postgres_advanced_server:14.1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "FE4CE61F-34BA-4514-988C-184DED6B5B8B"

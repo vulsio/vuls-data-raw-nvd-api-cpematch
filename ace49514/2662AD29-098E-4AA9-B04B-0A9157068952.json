@@ -4,7 +4,7 @@
 	"versionEndExcluding": "9.5.366.0",
 	"created": "2023-01-27T18:38:17.420",
 	"lastModified": "2023-12-01T15:29:36.947",
-	"cpeLastModified": "2023-09-28T11:24:57.807",
+	"cpeLastModified": "2023-12-16T04:01:59.527",
 	"status": "Active",
 	"matches": [
 		{
@@ -278,6 +278,10 @@
 		{
 			"cpeName": "cpe:2.3:a:tracker-software:pdf-xchange_editor:9.0.352.0:*:*:*:*:*:*:*",
 			"cpeNameId": "1ADB7057-E0B6-4FE6-B733-8A379E7FDC1B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tracker-software:pdf-xchange_editor:9.3:*:*:*:*:*:*:*",
+			"cpeNameId": "7F1859CD-6BE4-429C-A4E7-65DDAD4925A8"
 		},
 		{
 			"cpeName": "cpe:2.3:a:tracker-software:pdf-xchange_editor:9.3.361.0:*:*:*:*:*:*:*",
