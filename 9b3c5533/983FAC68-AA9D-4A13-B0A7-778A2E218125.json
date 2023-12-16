@@ -4,7 +4,7 @@
 	"versionEndExcluding": "9.2.0",
 	"created": "2022-01-24T17:32:28.740",
 	"lastModified": "2022-01-24T17:32:28.740",
-	"cpeLastModified": "2022-01-26T17:03:39.993",
+	"cpeLastModified": "2023-12-15T18:47:56.143",
 	"status": "Active",
 	"matches": [
 		{
@@ -820,6 +820,10 @@
 			"cpeNameId": "DD417D98-D2F7-4F18-9822-5C03C675147C"
 		},
 		{
+			"cpeName": "cpe:2.3:a:umbraco:umbraco_cms:7.15.11:*:*:*:*:*:*:*",
+			"cpeNameId": "595CB4FE-60F7-42C8-8E47-3FFE7C234630"
+		},
+		{
 			"cpeName": "cpe:2.3:a:umbraco:umbraco_cms:8.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "EB80516C-D3D4-4C70-8260-76A8A18572DB"
 		},
@@ -1130,6 +1134,14 @@
 		{
 			"cpeName": "cpe:2.3:a:umbraco:umbraco_cms:8.17.1:*:*:*:*:*:*:*",
 			"cpeNameId": "D18B99A9-4652-4B4E-BA70-700A13429D1F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:umbraco:umbraco_cms:8.18.9:*:*:*:*:*:*:*",
+			"cpeNameId": "45ADCB69-3546-45AD-AB39-A36C8D34AEE9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:umbraco:umbraco_cms:8.18.10:*:*:*:*:*:*:*",
+			"cpeNameId": "212D0DC4-309D-4447-814A-574715360B52"
 		},
 		{
 			"cpeName": "cpe:2.3:a:umbraco:umbraco_cms:9.0.0:-:*:*:*:*:*:*",

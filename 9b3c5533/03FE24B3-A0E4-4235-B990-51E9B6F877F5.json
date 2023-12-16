@@ -4,8 +4,8 @@
 	"versionStartIncluding": "10.0.0",
 	"versionEndExcluding": "10.8.1",
 	"created": "2023-12-14T16:18:55.880",
-	"lastModified": "2023-12-14T16:18:55.880",
-	"cpeLastModified": "2023-12-14T16:18:55.880",
+	"lastModified": "2023-12-15T18:47:56.143",
+	"cpeLastModified": "2023-12-15T18:47:56.143",
 	"status": "Active",
 	"matches": [
 		{
@@ -107,6 +107,10 @@
 		{
 			"cpeName": "cpe:2.3:a:umbraco:umbraco_cms:10.5.1:*:*:*:*:*:*:*",
 			"cpeNameId": "6DA76CAB-360B-4F4C-A433-B927E6131D0D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:umbraco:umbraco_cms:10.7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E9BADC9D-3C61-4577-914E-3EC152D70E34"
 		}
 	]
 }

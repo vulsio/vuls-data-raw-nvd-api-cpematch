@@ -4,6 +4,12 @@
 	"versionEndExcluding": "2.9.7",
 	"created": "2023-09-19T21:14:05.710",
 	"lastModified": "2023-09-19T21:14:05.710",
-	"cpeLastModified": "2023-09-19T21:14:05.710",
-	"status": "Active"
+	"cpeLastModified": "2023-12-15T19:11:25.050",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1514sp_f-2_pn_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9936EA66-CEFE-4ABE-84D9-65CA429B8846"
+		}
+	]
 }

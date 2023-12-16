@@ -1,0 +1,20 @@
+{
+	"criteria": "cpe:2.3:a:fortinet:fortiweb:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "7700D448-6A28-4033-9383-B42FA04DCBFB",
+	"versionStartIncluding": "7.2.0",
+	"versionEndIncluding": "7.2.5",
+	"created": "2023-12-15T18:18:22.493",
+	"lastModified": "2023-12-15T18:18:22.493",
+	"cpeLastModified": "2023-12-15T18:18:22.493",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiweb:7.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E3631FB3-A883-43B9-A7DB-1DEA3C919419"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiweb:7.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "C13CBC79-5CCF-4B24-ABDE-ABED3C849E88"
+		}
+	]
+}
