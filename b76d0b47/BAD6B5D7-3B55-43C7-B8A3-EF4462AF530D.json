@@ -4,7 +4,7 @@
 	"versionEndExcluding": "3.2.1",
 	"created": "2023-09-27T17:22:52.450",
 	"lastModified": "2023-09-28T11:09:50.100",
-	"cpeLastModified": "2023-09-27T17:22:52.450",
+	"cpeLastModified": "2023-12-18T16:22:17.287",
 	"status": "Active",
 	"matches": [
 		{
@@ -382,6 +382,22 @@
 		{
 			"cpeName": "cpe:2.3:a:themefic:ultimate_addons_for_contact_form_7:3.1.29:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "D0771BD5-0ECB-4D2E-8256-487DB180D061"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themefic:ultimate_addons_for_contact_form_7:3.1.30:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "21D86BBE-C7CF-4BCD-8677-EBBE4BB24962"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themefic:ultimate_addons_for_contact_form_7:3.1.31:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AA3B38C4-7CEE-4D42-913A-9C77E2E6CA1A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themefic:ultimate_addons_for_contact_form_7:3.1.32:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E59FE916-25A3-4774-A6BC-C81DCC24EF73"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themefic:ultimate_addons_for_contact_form_7:3.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "851D42BF-FC72-42CC-828E-F690851AF3D6"
 		}
 	]
 }

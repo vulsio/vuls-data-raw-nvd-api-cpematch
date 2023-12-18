@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:a:progress:whatsup_gold:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "229D64CE-BEE5-4627-AA7E-25AEDDDC49D5",
+	"versionEndExcluding": "2023.1",
+	"created": "2023-12-18T15:56:50.350",
+	"lastModified": "2023-12-18T15:56:50.350",
+	"cpeLastModified": "2023-12-18T15:56:50.350",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:progress:whatsup_gold:-:*:*:*:*:*:*:*",
+			"cpeNameId": "34C9A941-DB37-4966-A1FA-F8FF21EEA74F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:progress:whatsup_gold:22.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B00F6483-81DF-434D-8EFD-8FB0BE31EA38"
+		}
+	]
+}

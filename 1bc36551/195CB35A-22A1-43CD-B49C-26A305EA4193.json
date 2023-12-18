@@ -1,0 +1,24 @@
+{
+	"criteria": "cpe:2.3:a:octopus:octopus_server:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "195CB35A-22A1-43CD-B49C-26A305EA4193",
+	"versionStartIncluding": "2023.2.2028",
+	"versionEndExcluding": "2023.2.13151",
+	"created": "2023-12-18T17:51:46.770",
+	"lastModified": "2023-12-18T17:51:46.770",
+	"cpeLastModified": "2023-12-18T17:51:46.770",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:octopus:octopus_server:2023.2.2028:*:*:*:*:*:*:*",
+			"cpeNameId": "B3FB45AA-6A5E-470E-8A0F-77AF63F2668D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:octopus:octopus_server:2023.2.2394:*:*:*:*:*:*:*",
+			"cpeNameId": "C3D01CAC-D613-4165-9CC0-232E37CC3542"
+		},
+		{
+			"cpeName": "cpe:2.3:a:octopus:octopus_server:2023.2.2718:*:*:*:*:*:*:*",
+			"cpeNameId": "C95DA46D-C7C6-4E4C-A8FA-8FC798940E50"
+		}
+	]
+}
