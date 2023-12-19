@@ -2,7 +2,17 @@
 	"criteria": "cpe:2.3:a:laf:laf:0.5.5:*:*:*:*:*:*:*",
 	"matchCriteriaId": "C6CCF2B5-972A-43A5-9707-50D7E328516D",
 	"created": "2023-12-19T01:12:58.900",
-	"lastModified": "2023-12-19T01:12:58.900",
-	"cpeLastModified": "2023-12-19T01:12:58.900",
-	"status": "Active"
+	"lastModified": "2023-12-19T12:17:46.110",
+	"cpeLastModified": "2023-12-19T12:17:46.110",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:laf:laf:0.5.5:-:*:*:*:*:*:*",
+			"cpeNameId": "2A26FB78-5F78-4913-9CB0-113B52EF9723"
+		},
+		{
+			"cpeName": "cpe:2.3:a:laf:laf:0.5.5:alpha0:*:*:*:*:*:*",
+			"cpeNameId": "1F7E6EC4-9CB0-4E40-BBBB-A594B840D7A3"
+		}
+	]
 }

@@ -5,7 +5,7 @@
 	"versionEndExcluding": "2.5.30",
 	"created": "2022-04-14T01:24:03.267",
 	"lastModified": "2022-06-03T16:37:39.603",
-	"cpeLastModified": "2022-06-03T16:38:03.410",
+	"cpeLastModified": "2023-12-19T17:25:38.653",
 	"status": "Active",
 	"matches": [
 		{
@@ -339,6 +339,18 @@
 		{
 			"cpeName": "cpe:2.3:a:apache:struts:2.3.34:*:*:*:*:*:*:*",
 			"cpeNameId": "4758CE92-00F2-4258-911E-B1E052FD99DD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:struts:2.3.35:*:*:*:*:*:*:*",
+			"cpeNameId": "9D8BB0DB-358B-4E3D-9423-D582A07FDEBC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:struts:2.3.36:*:*:*:*:*:*:*",
+			"cpeNameId": "01366B8C-BE40-4961-8793-AD6D7F6C15BC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:struts:2.3.37:*:*:*:*:*:*:*",
+			"cpeNameId": "EF92D4F7-9D5D-4CC3-BF15-4CE3BFFBA64A"
 		},
 		{
 			"cpeName": "cpe:2.3:a:apache:struts:2.5:*:*:*:*:*:*:*",

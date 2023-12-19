@@ -4,8 +4,8 @@
 	"versionStartIncluding": "10.2.0",
 	"versionEndExcluding": "10.2.44",
 	"created": "2022-05-12T19:33:33.327",
-	"lastModified": "2022-05-12T19:33:33.327",
-	"cpeLastModified": "2022-04-01T02:11:08.530",
+	"lastModified": "2023-12-19T14:37:16.857",
+	"cpeLastModified": "2023-12-19T14:37:16.857",
 	"status": "Active",
 	"matches": [
 		{
@@ -179,6 +179,10 @@
 		{
 			"cpeName": "cpe:2.3:a:mariadb:mariadb:10.2.42:*:*:*:*:*:*:*",
 			"cpeNameId": "2FC6F64A-3DBF-4274-BB42-B911940CE872"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mariadb:mariadb:10.2.43:*:*:*:*:*:*:*",
+			"cpeNameId": "3799E197-653B-44FD-986F-D06A454BE413"
 		}
 	]
 }

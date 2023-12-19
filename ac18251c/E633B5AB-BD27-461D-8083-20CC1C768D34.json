@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:o:phoenixcontact:rfc_4072s_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E633B5AB-BD27-461D-8083-20CC1C768D34",
+	"versionEndIncluding": "2024.0",
+	"created": "2023-12-19T15:00:40.913",
+	"lastModified": "2023-12-19T15:00:40.913",
+	"cpeLastModified": "2023-12-19T15:00:40.913",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:phoenixcontact:rfc_4072s_firmware:2021.0.5:*:*:*:lts:*:*:*",
+			"cpeNameId": "0E0205D1-58AF-4D91-8E37-255E8B51B3CD"
+		}
+	]
+}
