@@ -4,7 +4,7 @@
 	"versionEndExcluding": "525916_2020-02-12",
 	"created": "2020-03-16T20:29:21.840",
 	"lastModified": "2020-03-16T20:29:21.840",
-	"cpeLastModified": "2023-12-01T22:41:12.713",
+	"cpeLastModified": "2023-12-18T22:44:15.577",
 	"status": "Active",
 	"matches": [
 		{
@@ -3660,6 +3660,14 @@
 			"cpeNameId": "7649C6DE-73E2-424C-8DAA-577B04877F7F"
 		},
 		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:12.4:p8:*:*:*:*:*:*",
+			"cpeNameId": "F282DD87-9C84-401B-830D-6CBEED517359"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:12.4:p9:*:*:*:*:*:*",
+			"cpeNameId": "B1AF20F4-8C1B-4D61-AD6F-7FE52D4DFD8B"
+		},
+		{
 			"cpeName": "cpe:2.3:o:freebsd:freebsd:12.4:rc2-p1:*:*:*:*:*:*",
 			"cpeNameId": "8ADBFFD8-F2E9-4353-BCFC-7D86503D5F88"
 		},
@@ -3844,8 +3852,44 @@
 			"cpeNameId": "3DB768B5-785D-4B0B-BF70-A082AE63C741"
 		},
 		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:13.2:p6:*:*:*:*:*:*",
+			"cpeNameId": "933D36B2-BC09-48F3-B7AA-BD8B1E73FE81"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:13.2:p7:*:*:*:*:*:*",
+			"cpeNameId": "F73F5035-BE0E-4B96-BA7E-0EE80DB41C7D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:13.2:p8:*:*:*:*:*:*",
+			"cpeNameId": "ECF9EBF4-1204-483D-B48A-C9CA53A8AEBE"
+		},
+		{
 			"cpeName": "cpe:2.3:o:freebsd:freebsd:14.0:-:*:*:*:*:*:*",
 			"cpeNameId": "82330AAF-50A4-479B-805B-471298D9E6C4"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:14.0:beta5:*:*:*:*:*:*",
+			"cpeNameId": "62E6E455-7F08-4EFE-B80B-D1C4865D2FBC"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:14.0:p1:*:*:*:*:*:*",
+			"cpeNameId": "DDC25806-2775-4C74-8452-EDEB7C175588"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:14.0:p2:*:*:*:*:*:*",
+			"cpeNameId": "90CE32DC-085D-460A-994D-1A039FC4CB76"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:14.0:p3:*:*:*:*:*:*",
+			"cpeNameId": "C34CFD81-B219-47DB-BFF1-B5E1CA7466D7"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:14.0:rc3:*:*:*:*:*:*",
+			"cpeNameId": "080AEC37-7545-47AC-941C-7E4E0D5CC044"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:14.0:rc4-p1:*:*:*:*:*:*",
+			"cpeNameId": "B100B917-945C-412D-A610-7BBBDCE30E07"
 		}
 	]
 }
