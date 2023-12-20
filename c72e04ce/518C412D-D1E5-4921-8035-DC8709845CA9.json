@@ -3,8 +3,8 @@
 	"matchCriteriaId": "518C412D-D1E5-4921-8035-DC8709845CA9",
 	"versionEndIncluding": "2.6",
 	"created": "2023-12-15T18:41:11.460",
-	"lastModified": "2023-12-15T18:41:11.460",
-	"cpeLastModified": "2023-12-15T18:41:11.460",
+	"lastModified": "2023-12-19T18:07:52.333",
+	"cpeLastModified": "2023-12-19T18:07:52.333",
 	"status": "Active",
 	"matches": [
 		{
@@ -70,6 +70,10 @@
 		{
 			"cpeName": "cpe:2.3:a:jenkins:openid:2.4:*:*:*:*:jenkins:*:*",
 			"cpeNameId": "72280664-B4A2-4682-92E7-C1B43EA6A770"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jenkins:openid:2.6:*:*:*:*:jenkins:*:*",
+			"cpeNameId": "88B7B5ED-33B4-4908-8D75-3D21DD2AA401"
 		}
 	]
 }
