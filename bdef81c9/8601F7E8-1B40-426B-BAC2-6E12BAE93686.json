@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:twca:jcicsecuritytool:4.2.3.32:*:*:*:*:*:*:*",
 	"matchCriteriaId": "8601F7E8-1B40-426B-BAC2-6E12BAE93686",
 	"created": "2023-12-20T19:25:17.707",
-	"lastModified": "2023-12-20T19:25:17.707",
-	"cpeLastModified": "2023-12-20T19:25:17.707",
-	"status": "Active"
+	"lastModified": "2023-12-21T14:54:45.950",
+	"cpeLastModified": "2023-12-21T14:54:45.950",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:twca:jcicsecuritytool:4.2.3.32:*:*:*:*:*:*:*",
+			"cpeNameId": "FFF96A0B-0CD7-471E-A3FA-0DC52A03C83B"
+		}
+	]
 }

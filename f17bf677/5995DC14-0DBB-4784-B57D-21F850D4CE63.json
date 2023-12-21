@@ -3,8 +3,8 @@
 	"matchCriteriaId": "5995DC14-0DBB-4784-B57D-21F850D4CE63",
 	"versionEndExcluding": "2.14.12",
 	"created": "2023-12-20T16:27:25.847",
-	"lastModified": "2023-12-20T16:27:25.847",
-	"cpeLastModified": "2023-12-20T16:27:25.847",
+	"lastModified": "2023-12-21T14:54:45.950",
+	"cpeLastModified": "2023-12-21T14:54:45.950",
 	"status": "Active",
 	"matches": [
 		{
@@ -1264,6 +1264,46 @@
 			"cpeNameId": "8F68F265-78CB-4957-BC43-F038E208F574"
 		},
 		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.9.23:-:*:*:*:*:*:*",
+			"cpeNameId": "E890B05C-3A67-402B-9A66-C1DAD95BD9AC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.9.23:rc1:*:*:*:*:*:*",
+			"cpeNameId": "98735736-41D3-4726-ABAA-F9390F360EAD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.9.24:-:*:*:*:*:*:*",
+			"cpeNameId": "2083C8DC-FF14-446C-A08A-44403E491B5F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.9.24:rc1:*:*:*:*:*:*",
+			"cpeNameId": "44D95E06-27D3-4D6A-8426-53D1F0026F14"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.9.25:-:*:*:*:*:*:*",
+			"cpeNameId": "8EF40CA5-F14B-4F2B-89A6-D2FD29544CE5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.9.25:rc1:*:*:*:*:*:*",
+			"cpeNameId": "156D4285-4A4A-44B3-980D-7D15A5C0C9E6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.9.26:-:*:*:*:*:*:*",
+			"cpeNameId": "69D64199-CD47-431D-AFAE-A38B769F4ED5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.9.26:rc1:*:*:*:*:*:*",
+			"cpeNameId": "C7BF45F2-8A9D-4123-9A7D-1B0199B0246B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.9.27:-:*:*:*:*:*:*",
+			"cpeNameId": "6A54F2AD-A891-476F-8457-49A5A155A959"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.9.27:rc1:*:*:*:*:*:*",
+			"cpeNameId": "C32B35DF-FD46-4AC3-8CA5-2F5751E92F56"
+		},
+		{
 			"cpeName": "cpe:2.3:a:redhat:ansible:2.10.0:-:*:*:*:*:*:*",
 			"cpeNameId": "F54FADFA-5E7E-4494-B632-A60A21F86AFD"
 		},
@@ -1372,6 +1412,62 @@
 			"cpeNameId": "23976534-B0B1-47FC-BFFF-BB860D9C1EA7"
 		},
 		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.10.11:-:*:*:*:*:*:*",
+			"cpeNameId": "AFFCA32A-9916-4E79-98EC-4360F752754F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.10.11:rc1:*:*:*:*:*:*",
+			"cpeNameId": "01762C29-D1E2-4ADD-9E89-967029777BE6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.10.12:-:*:*:*:*:*:*",
+			"cpeNameId": "DE04A590-2BBA-4BEB-AF0A-E2B332EBE3FE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.10.12:rc1:*:*:*:*:*:*",
+			"cpeNameId": "60AEE2ED-1044-4F5A-8AEF-16B5FEFC0576"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.10.13:-:*:*:*:*:*:*",
+			"cpeNameId": "8544AFB0-20E3-4442-971D-6195049C2BB1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.10.13:rc1:*:*:*:*:*:*",
+			"cpeNameId": "52EA2D01-542D-44A2-AFBD-C1DDF159302C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.10.14:-:*:*:*:*:*:*",
+			"cpeNameId": "45BD8266-0F62-454E-8EDD-4FA5D883297A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.10.14:rc1:*:*:*:*:*:*",
+			"cpeNameId": "F5B52C19-F050-4099-83FC-D2DA7878F9FC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.10.15:-:*:*:*:*:*:*",
+			"cpeNameId": "BAADCC32-3D46-48DF-93A3-67669EDE5798"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.10.15:rc1:*:*:*:*:*:*",
+			"cpeNameId": "3C9E143F-3695-45D4-AFA6-051F43BD87D5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.10.16:-:*:*:*:*:*:*",
+			"cpeNameId": "E79DC8EB-F5EA-40D6-BB4C-2AEF735117B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.10.16:rc1:*:*:*:*:*:*",
+			"cpeNameId": "9A577F27-A2BF-4783-9A18-80360192D264"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.10.17:-:*:*:*:*:*:*",
+			"cpeNameId": "6107DC69-0EAD-464C-918A-BD5656A2B0C2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.10.17:rc1:*:*:*:*:*:*",
+			"cpeNameId": "6BAB2215-C262-46B6-9706-EFECD5144CC9"
+		},
+		{
 			"cpeName": "cpe:2.3:a:redhat:ansible:2.11.0:-:*:*:*:*:*:*",
 			"cpeNameId": "1DB415E4-63AD-4588-BC0D-B1CA134CDFD2"
 		},
@@ -1406,6 +1502,426 @@
 		{
 			"cpeName": "cpe:2.3:a:redhat:ansible:2.11.1:rc1:*:*:*:*:*:*",
 			"cpeNameId": "F67D38E6-2C4F-4A26-9D7B-CA1D632BC561"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.11.2:-:*:*:*:*:*:*",
+			"cpeNameId": "4E95B7A6-AE64-41C2-A2A1-E5731BC16DAF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.11.2:rc1:*:*:*:*:*:*",
+			"cpeNameId": "6EE65344-FE5F-44AC-A116-AE79E890AA49"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.11.3:-:*:*:*:*:*:*",
+			"cpeNameId": "32A98C35-0869-4E57-BEB3-1356359C11BD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.11.3:rc1:*:*:*:*:*:*",
+			"cpeNameId": "DF6280AA-D20A-4FC3-827C-80098C2C40AA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.11.4:-:*:*:*:*:*:*",
+			"cpeNameId": "B42DFE07-1CB3-4941-B6E6-7D28F32B19B0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.11.4:rc1:*:*:*:*:*:*",
+			"cpeNameId": "A5445978-AD42-4827-9B73-308075E29626"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.11.5:-:*:*:*:*:*:*",
+			"cpeNameId": "9D931309-7AD7-4ADB-863B-91CBECA4B56A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.11.5:rc1:*:*:*:*:*:*",
+			"cpeNameId": "CA4D59C8-7690-4F3A-8469-C92FB52D2513"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.11.6:-:*:*:*:*:*:*",
+			"cpeNameId": "7CBAACC9-B6AF-4D76-8E43-7EE40A6FDDAE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.11.6:rc1:*:*:*:*:*:*",
+			"cpeNameId": "32A36094-24EC-47A9-A5F7-2B8C80662FFF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.11.7:-:*:*:*:*:*:*",
+			"cpeNameId": "129CF406-FA0B-480B-9061-27B6D2180622"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.11.7:rc1:*:*:*:*:*:*",
+			"cpeNameId": "D0AFABF1-3184-4916-8E5C-AFF63C93D089"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.11.8:-:*:*:*:*:*:*",
+			"cpeNameId": "798ADC85-9354-46FD-A598-A6C30030FC47"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.11.8:rc1:*:*:*:*:*:*",
+			"cpeNameId": "C2251CBA-81AB-4A3A-A644-32FFA9626C26"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.11.9:-:*:*:*:*:*:*",
+			"cpeNameId": "770FE004-8D41-42D4-9DD0-67B5091D48DB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.11.9:rc1:*:*:*:*:*:*",
+			"cpeNameId": "5DD60527-7B19-4E74-8F03-F7B44E5F69FA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.11.10:-:*:*:*:*:*:*",
+			"cpeNameId": "0C48B017-A93E-4618-BC7C-C88F0FD8F24F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.11.10:rc1:*:*:*:*:*:*",
+			"cpeNameId": "51116D22-D350-4A1F-AEA5-793BE84E8BC2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.11.11:-:*:*:*:*:*:*",
+			"cpeNameId": "B06CC0B3-F424-41B4-8914-79F5689F302B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.11.11:rc1:*:*:*:*:*:*",
+			"cpeNameId": "BF4208F8-C5CD-4933-BB23-306867A76460"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.11.12:-:*:*:*:*:*:*",
+			"cpeNameId": "82D51C06-1CBE-4468-9BC3-CCC7427414CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.11.12:rc1:*:*:*:*:*:*",
+			"cpeNameId": "66899D0B-AA88-4799-BB7F-E248B0753BD9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.12.0:-:*:*:*:*:*:*",
+			"cpeNameId": "D2EE4A43-EE81-4CEE-8C57-4A837952D969"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.12.0:beta1:*:*:*:*:*:*",
+			"cpeNameId": "BC3C3C02-EE1C-41A2-8B3B-D06BDDE5B9EF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.12.0:beta2:*:*:*:*:*:*",
+			"cpeNameId": "38F210EB-4F83-4016-9A88-DC2DEA3F3919"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.12.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "7173F2AD-5D0E-4671-A60E-631F769701CC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.12.1:-:*:*:*:*:*:*",
+			"cpeNameId": "6A5CFCB5-8688-43E7-91CA-7A62C221CA57"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.12.1:rc1:*:*:*:*:*:*",
+			"cpeNameId": "2B168585-0537-44BE-BA84-16FB14E00DF7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.12.2:-:*:*:*:*:*:*",
+			"cpeNameId": "55264FFE-D227-44DB-A982-C5186E05F6A9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.12.2:rc1:*:*:*:*:*:*",
+			"cpeNameId": "EA8E4C36-5DB1-4BF3-A4F6-5903B7E75687"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.12.3:-:*:*:*:*:*:*",
+			"cpeNameId": "06AB1334-56E8-4233-96A0-E10E1C91008B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.12.3:rc1:*:*:*:*:*:*",
+			"cpeNameId": "24D1F1FD-4C9B-4AA5-8D81-C6BA9958C31F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.12.4:-:*:*:*:*:*:*",
+			"cpeNameId": "930CD597-BF00-4FB5-94E2-DD49F8E1957A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.12.4:rc1:*:*:*:*:*:*",
+			"cpeNameId": "245B26A8-F461-42CE-83CB-2B248F9F47E4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.12.5:-:*:*:*:*:*:*",
+			"cpeNameId": "A1A24035-0993-41DD-8842-D4E8B758265A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.12.5:rc1:*:*:*:*:*:*",
+			"cpeNameId": "21D2ED94-06CA-4E59-9B8F-AFEC40EED73A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.12.6:-:*:*:*:*:*:*",
+			"cpeNameId": "FE4AF37F-61C9-41DB-93F0-53AA0300DD5C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.12.6:rc1:*:*:*:*:*:*",
+			"cpeNameId": "032A9076-F04C-43F7-A59C-17B725D43E67"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.12.7:-:*:*:*:*:*:*",
+			"cpeNameId": "EDA82BE3-8C16-43DD-B195-E6415945A213"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.12.7:rc1:*:*:*:*:*:*",
+			"cpeNameId": "A7AB44BF-8192-4304-8309-61157870FE73"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.12.8:-:*:*:*:*:*:*",
+			"cpeNameId": "045CB79B-E734-4F7B-AE06-7A9E3CA8CEF0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.12.8:rc1:*:*:*:*:*:*",
+			"cpeNameId": "F4486D1F-130D-4989-8323-FAEAA11B72E6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.12.9:-:*:*:*:*:*:*",
+			"cpeNameId": "248DF53F-B9CB-464F-898D-A8A140A9786A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.12.9:rc1:*:*:*:*:*:*",
+			"cpeNameId": "0AD3143B-CAA4-476C-B79B-5BC08E9CDBF8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.12.10:-:*:*:*:*:*:*",
+			"cpeNameId": "456347D7-9D92-49BE-9D23-BA258EE60F79"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.12.10:rc1:*:*:*:*:*:*",
+			"cpeNameId": "845A8685-1B4F-4F08-9BA9-18143DBDD2E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.0:-:*:*:*:*:*:*",
+			"cpeNameId": "C34A4379-F38F-4457-B220-EC3111D5C62A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.0:beta0:*:*:*:*:*:*",
+			"cpeNameId": "52D75DA1-FFA2-4E68-82F5-09DAEB917832"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.0:beta1:*:*:*:*:*:*",
+			"cpeNameId": "2F70ACC5-6476-448D-9E91-FB1B02CAC3FB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "FAED8EFD-202A-40A5-87F3-57CBBE907A0C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.1:-:*:*:*:*:*:*",
+			"cpeNameId": "0EB44683-D148-4933-B740-51E43621CB36"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.1:rc1:*:*:*:*:*:*",
+			"cpeNameId": "2C995666-2CEC-4D3E-A5AA-B811CEA1050E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.2:-:*:*:*:*:*:*",
+			"cpeNameId": "1E14B900-D838-424F-81F6-85B7E926509E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.2:rc1:*:*:*:*:*:*",
+			"cpeNameId": "B846A4DE-F1A9-4411-82B1-29EB68B6EFC1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.3:-:*:*:*:*:*:*",
+			"cpeNameId": "68DB2462-034F-48FF-8016-F80A392F7C73"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.3:rc1:*:*:*:*:*:*",
+			"cpeNameId": "AE07336A-A57E-42FA-B5CC-096962E18E50"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.4:-:*:*:*:*:*:*",
+			"cpeNameId": "B348A7C2-BD0D-43E6-AC5D-B54B5A3DBBC3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.4:rc1:*:*:*:*:*:*",
+			"cpeNameId": "C636481F-EBF5-40D0-AFA2-66D498943E96"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.5:-:*:*:*:*:*:*",
+			"cpeNameId": "236CF068-569B-4420-9611-6BD4B7E3CF97"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.5:rc1:*:*:*:*:*:*",
+			"cpeNameId": "CC2CF58F-072A-4473-B04A-9A809661073D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.6:-:*:*:*:*:*:*",
+			"cpeNameId": "E2BB8EE9-03A0-4C01-B46B-A6EC53248D10"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.6:rc1:*:*:*:*:*:*",
+			"cpeNameId": "278524FD-8C63-4960-911F-B98B049A4B53"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.7:-:*:*:*:*:*:*",
+			"cpeNameId": "ADEE010F-385C-4B91-A38F-B606C6B4CC1E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.7:rc1:*:*:*:*:*:*",
+			"cpeNameId": "6BF9337E-37AD-479D-AD78-01932C5E83EF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.8:-:*:*:*:*:*:*",
+			"cpeNameId": "9784DFB9-8850-4B29-9C96-6819AFD695BD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.8:rc1:*:*:*:*:*:*",
+			"cpeNameId": "71F59E37-0C4C-4A67-81BD-74C4BA714133"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.9:-:*:*:*:*:*:*",
+			"cpeNameId": "64142F3A-7039-4574-8793-F503124FB5B1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.9:rc1:*:*:*:*:*:*",
+			"cpeNameId": "ADD8AE75-9D04-4796-8B0C-7654FF8B502F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.10:-:*:*:*:*:*:*",
+			"cpeNameId": "0DF82DA3-ABA2-4245-8CAB-F6A8FA353DB0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.10:rc1:*:*:*:*:*:*",
+			"cpeNameId": "A7FF2606-FCD6-4350-9EE5-1C9372B62371"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.11:-:*:*:*:*:*:*",
+			"cpeNameId": "58A3E415-8DC1-4493-B167-897E5F4B3D97"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.11:rc1:*:*:*:*:*:*",
+			"cpeNameId": "97519F4C-98FA-4F03-AEA6-E0F8C38AB843"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.12:-:*:*:*:*:*:*",
+			"cpeNameId": "7B48F7A7-4482-4D9D-81CF-1A1C33FB3289"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.12:rc1:*:*:*:*:*:*",
+			"cpeNameId": "C2BA6455-57B4-48C1-AA8C-DF2DD6B28361"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.13:-:*:*:*:*:*:*",
+			"cpeNameId": "A49FE4DF-7AB5-4877-8E81-13B42D6F5BB2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.13.13:rc1:*:*:*:*:*:*",
+			"cpeNameId": "458E0FA8-7376-4914-A63B-39965D6D9809"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.0:-:*:*:*:*:*:*",
+			"cpeNameId": "DA202ED8-E8A4-4EDE-8010-39CB79FA221E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.0:beta1:*:*:*:*:*:*",
+			"cpeNameId": "5F33A57F-CF43-42EA-BAD0-BCB18335204B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.0:beta2:*:*:*:*:*:*",
+			"cpeNameId": "41263261-01BB-4612-8E70-2EC6240B50C3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.0:beta3:*:*:*:*:*:*",
+			"cpeNameId": "5E0631C0-5893-49FA-9D9E-CFF365A449B2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "04B77698-BF42-4D86-B98A-1F10B4E26E2E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "0AABC1A8-E81F-4A10-BEC6-06513B9F6AD0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.1:-:*:*:*:*:*:*",
+			"cpeNameId": "58649F95-552C-431E-A4C5-0221CA85AB78"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.1:rc1:*:*:*:*:*:*",
+			"cpeNameId": "9DCFC849-5E3D-465E-A416-BC2F505D58D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.2:-:*:*:*:*:*:*",
+			"cpeNameId": "FD1D58A1-CB2F-4B4A-AFEF-579F3B9BDE02"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.2:rc1:*:*:*:*:*:*",
+			"cpeNameId": "1C5D74E3-67BA-4771-83CF-8AFB830621F8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.3:*:*:*:*:*:*:*",
+			"cpeNameId": "2F51F940-356B-43F9-A368-657B12E8657D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.3:-:*:*:*:*:*:*",
+			"cpeNameId": "4EC8BD4C-2733-46A4-9148-A14B5A126A00"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.3:rc1:*:*:*:*:*:*",
+			"cpeNameId": "02BB6977-8CAA-47F8-AE4E-42EA82F7942E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.4:-:*:*:*:*:*:*",
+			"cpeNameId": "A0F76055-CB93-40CF-A6FB-D18537DAF83C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.4:rc1:*:*:*:*:*:*",
+			"cpeNameId": "491F1047-FABA-4698-953F-7E83C8B3C084"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.5:-:*:*:*:*:*:*",
+			"cpeNameId": "C5E62B26-FBAA-489F-85BD-F6416642893D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.5:rc1:*:*:*:*:*:*",
+			"cpeNameId": "921A1242-380C-4228-A689-B4FED4C5C82A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.6:-:*:*:*:*:*:*",
+			"cpeNameId": "85995F8D-7FDC-45E9-B81C-DA97E3E76C82"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.6:rc1:*:*:*:*:*:*",
+			"cpeNameId": "EAD9FB3A-DB53-4ECC-A048-2EE3751F749D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.7:-:*:*:*:*:*:*",
+			"cpeNameId": "6916104E-48C2-4A40-9092-9A8047FCC829"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.7:rc1:*:*:*:*:*:*",
+			"cpeNameId": "4F955846-5D2E-44FD-B5C6-B97CBA37C241"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.8:-:*:*:*:*:*:*",
+			"cpeNameId": "7BC679A9-7254-4102-AC5D-ECFA1A183884"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.8:rc1:*:*:*:*:*:*",
+			"cpeNameId": "9FA074FC-16A7-40A4-900B-2B458375FE01"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.9:-:*:*:*:*:*:*",
+			"cpeNameId": "EA660022-43B1-426B-B567-A786E57BC89B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.9:rc1:*:*:*:*:*:*",
+			"cpeNameId": "1040E4A8-D4CD-4F42-B46A-523C388E5C85"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.10:-:*:*:*:*:*:*",
+			"cpeNameId": "A88AC1C7-B1F4-423D-BC0D-B97100383A4D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.10:rc1:*:*:*:*:*:*",
+			"cpeNameId": "ED64A613-950A-438D-9AA1-9870BEA39DCA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.11:-:*:*:*:*:*:*",
+			"cpeNameId": "3D9FB708-01B0-4BE9-A897-1DA57257A86F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible:2.14.11:rc1:*:*:*:*:*:*",
+			"cpeNameId": "0913B8B1-90B3-4343-A0B7-BFDEE7708B93"
 		}
 	]
 }

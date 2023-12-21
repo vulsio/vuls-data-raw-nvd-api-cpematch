@@ -5,6 +5,12 @@
 	"versionEndExcluding": "q.2021.2",
 	"created": "2023-12-20T15:02:23.027",
 	"lastModified": "2023-12-20T15:02:23.027",
-	"cpeLastModified": "2023-12-20T15:02:23.027",
-	"status": "Active"
+	"cpeLastModified": "2023-12-21T14:54:45.950",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:primx:zed\\!:q.2021.1:*:*:*:enterprise:windows:*:*",
+			"cpeNameId": "024A78B9-EC2B-4A48-9F8C-292E762B327F"
+		}
+	]
 }
