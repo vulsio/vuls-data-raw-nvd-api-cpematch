@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:intel:active_management_technology:4.0:*:*:*:*:*:*:*",
 	"matchCriteriaId": "8DEFE4BB-143F-4F40-9E13-3BDF6F8C8EEC",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2023-10-18T02:00:18.720",
-	"cpeLastModified": "2023-10-17T14:21:42.430",
-	"status": "Inactive"
+	"lastModified": "2023-12-20T22:34:39.627",
+	"cpeLastModified": "2023-12-20T22:34:39.627",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:active_management_technology:4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C9A2792B-9B93-4B6D-898A-3803F8894AA4"
+		}
+	]
 }

@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:cisco:catos:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "BBF50822-77A3-437B-84C3-EB6A4DB73C06",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2023-10-18T02:00:18.720",
-	"cpeLastModified": "2023-10-17T14:21:42.430",
-	"status": "Inactive"
+	"lastModified": "2023-12-20T22:34:39.627",
+	"cpeLastModified": "2023-12-20T22:34:39.627",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:catos:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0584EAFC-5837-453C-A17C-0ED06EE6BF8A"
+		}
+	]
 }

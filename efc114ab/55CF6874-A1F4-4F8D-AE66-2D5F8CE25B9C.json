@@ -4,7 +4,7 @@
 	"versionEndExcluding": "ele-al00_9.1.0.162\\(c01e160r1p12\\/c01e160r2p1\\)",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2021-08-20T15:03:49.180",
+	"cpeLastModified": "2023-12-20T21:57:04.130",
 	"status": "Active",
 	"matches": [
 		{
@@ -250,10 +250,6 @@
 		{
 			"cpeName": "cpe:2.3:o:huawei:p30_firmware:11.0.0.138\\(c636e4r3p3\\):*:*:*:*:*:*:*",
 			"cpeNameId": "45284B96-495A-401D-8DEB-8734094E130F"
-		},
-		{
-			"cpeName": "cpe:2.3:o:huawei:p30_firmware:ele-al00_9.1.0.162\\(c01e160r1p12\\/c01e160r2p1\\):*:*:*:*:*:*:*",
-			"cpeNameId": "E72CB4CA-2967-4ADA-A793-C6522E04226F"
 		}
 	]
 }

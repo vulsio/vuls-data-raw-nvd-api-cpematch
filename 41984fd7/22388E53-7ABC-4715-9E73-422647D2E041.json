@@ -4,7 +4,7 @@
 	"versionEndIncluding": "2.4.6",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"cpeLastModified": "2023-12-20T21:57:04.130",
 	"status": "Active",
 	"matches": [
 		{
@@ -22,10 +22,6 @@
 		{
 			"cpeName": "cpe:2.3:a:ui:unifi_controller:2.4.6:*:*:*:*:*:*:*",
 			"cpeNameId": "B1AD22AD-2C81-4E62-BF2C-EE2CA422EF15"
-		},
-		{
-			"cpeName": "cpe:2.3:a:ui:unifi_network_controller:-:*:*:*:*:*:*:*",
-			"cpeNameId": "673E15D6-12FB-4A60-A535-4EB5FA647B09"
 		}
 	]
 }
