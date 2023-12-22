@@ -4,15 +4,5 @@
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2023-12-21T03:00:24.573",
 	"cpeLastModified": "2023-12-20T22:34:39.627",
-	"status": "Inactive",
-	"matches": [
-		{
-			"cpeName": "cpe:2.3:a:redhat:ansible_tower:3.2.3:*:*:*:*:*:*:*",
-			"cpeNameId": "CB91B1D1-03D4-4826-A0E1-4B02B2F025A3"
-		},
-		{
-			"cpeName": "cpe:2.3:a:redhat:ansible_tower:3.2.3:*:*:*:scm_repositories:*:*:*",
-			"cpeNameId": "EAA75E8E-4989-4CCC-8364-F6AA29BC9C79"
-		}
-	]
+	"status": "Inactive"
 }

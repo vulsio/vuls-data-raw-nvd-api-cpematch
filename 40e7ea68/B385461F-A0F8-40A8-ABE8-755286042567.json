@@ -4,23 +4,5 @@
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2023-12-21T03:00:24.573",
 	"cpeLastModified": "2023-12-20T22:34:39.627",
-	"status": "Inactive",
-	"matches": [
-		{
-			"cpeName": "cpe:2.3:a:oracle:jre:8.0:*:*:*:*:*:*:*",
-			"cpeNameId": "6E0EAF42-D5C0-4D49-9388-33E5064BCD27"
-		},
-		{
-			"cpeName": "cpe:2.3:a:oracle:jre:8.0:update_121:*:*:*:*:*:*",
-			"cpeNameId": "F6465D13-25D4-45BA-BE07-0FF55E96DCAE"
-		},
-		{
-			"cpeName": "cpe:2.3:a:oracle:jre:8.0:update_73:*:*:*:*:*:*",
-			"cpeNameId": "0606ED8A-8F14-4DA2-8D70-7547FE9140D8"
-		},
-		{
-			"cpeName": "cpe:2.3:a:oracle:jre:8.0:update_74:*:*:*:*:*:*",
-			"cpeNameId": "5D39493D-2DA9-4414-A880-2374A27985D0"
-		}
-	]
+	"status": "Inactive"
 }

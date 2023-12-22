@@ -5,19 +5,5 @@
 	"created": "2023-12-21T19:03:10.573",
 	"lastModified": "2023-12-22T03:00:22.700",
 	"cpeLastModified": "2023-12-21T19:03:10.573",
-	"status": "Inactive",
-	"matches": [
-		{
-			"cpeName": "cpe:2.3:a:openssh:openssh:-:*:*:*:*:*:*:*",
-			"cpeNameId": "DDB4067F-33D4-42F3-9CEC-A8EE38068897"
-		},
-		{
-			"cpeName": "cpe:2.3:a:openssh:openssh:4.6:*:*:*:*:*:*:*",
-			"cpeNameId": "1B7CC4DE-9BD1-42DB-95A8-77A95A80FD93"
-		},
-		{
-			"cpeName": "cpe:2.3:a:openssh:openssh:9.1:*:*:*:*:*:*:*",
-			"cpeNameId": "13C82E7A-CBCD-418F-BDA9-268652EF7F48"
-		}
-	]
+	"status": "Inactive"
 }

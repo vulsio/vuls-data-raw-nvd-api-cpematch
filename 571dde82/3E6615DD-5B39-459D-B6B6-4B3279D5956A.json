@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:o:bosch:videojet_decoder_7513_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3E6615DD-5B39-459D-B6B6-4B3279D5956A",
+	"versionEndIncluding": "10.40.0055",
+	"created": "2023-12-22T15:33:48.277",
+	"lastModified": "2023-12-22T15:33:48.277",
+	"cpeLastModified": "2023-12-22T15:33:48.277",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:bosch:videojet_decoder_7513_firmware:10.23.0002:*:*:*:*:*:*:*",
+			"cpeNameId": "7D2CB73B-5F56-420A-BB1F-355A7E32EB27"
+		},
+		{
+			"cpeName": "cpe:2.3:o:bosch:videojet_decoder_7513_firmware:10.30.0005:*:*:*:*:*:*:*",
+			"cpeNameId": "23EA7F69-C215-44CA-B153-CDB8A45108BC"
+		}
+	]
+}

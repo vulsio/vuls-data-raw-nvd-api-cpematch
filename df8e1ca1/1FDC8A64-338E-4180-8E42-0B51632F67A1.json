@@ -4,15 +4,5 @@
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2023-12-21T03:00:24.573",
 	"cpeLastModified": "2023-12-20T22:34:39.627",
-	"status": "Inactive",
-	"matches": [
-		{
-			"cpeName": "cpe:2.3:o:suse:linux_enterprise_server:11.0:*:*:*:*:*:*:*",
-			"cpeNameId": "13061CCF-5604-4270-A697-1C6BF079228C"
-		},
-		{
-			"cpeName": "cpe:2.3:o:suse:linux_enterprise_server:11.0:sp3:*:*:*:-:*:*",
-			"cpeNameId": "94D48FDB-8EED-40E6-A2D5-0B70EDD8293F"
-		}
-	]
+	"status": "Inactive"
 }
