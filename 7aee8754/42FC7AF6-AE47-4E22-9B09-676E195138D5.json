@@ -5,6 +5,16 @@
 	"versionEndIncluding": "12.0.2",
 	"created": "2023-12-20T14:09:41.387",
 	"lastModified": "2023-12-20T14:09:41.387",
-	"cpeLastModified": "2023-12-20T14:09:41.387",
-	"status": "Active"
+	"cpeLastModified": "2023-12-21T19:23:46.580",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:gmarczynski:dynamic_progress_bar:12.0.1.1:*:*:*:*:odoo:*:*",
+			"cpeNameId": "3AED298E-0F45-40CF-BBD0-B75651A59F86"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gmarczynski:dynamic_progress_bar:12.0.1.2:*:*:*:*:odoo:*:*",
+			"cpeNameId": "9697C375-70A1-41E0-B1E8-D85C6FD886B0"
+		}
+	]
 }

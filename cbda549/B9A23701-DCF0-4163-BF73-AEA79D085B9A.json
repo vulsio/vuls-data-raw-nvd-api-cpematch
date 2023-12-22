@@ -3,8 +3,8 @@
 	"matchCriteriaId": "B9A23701-DCF0-4163-BF73-AEA79D085B9A",
 	"versionEndExcluding": "3.118.12",
 	"created": "2023-12-20T16:01:08.110",
-	"lastModified": "2023-12-20T16:01:08.110",
-	"cpeLastModified": "2023-12-20T18:37:24.633",
+	"lastModified": "2023-12-21T19:29:12.293",
+	"cpeLastModified": "2023-12-21T19:29:12.293",
 	"status": "Active",
 	"matches": [
 		{
@@ -2006,6 +2006,62 @@
 		{
 			"cpeName": "cpe:2.3:a:tuta:tutanota:3.112.5:*:*:*:*:node.js:*:*",
 			"cpeNameId": "39F543F5-E5AE-45B1-A081-974E8992759E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tuta:tutanota:3.112.6:*:*:*:*:node.js:*:*",
+			"cpeNameId": "7682A0A1-7239-4EBA-83E3-EC1D55878711"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tuta:tutanota:3.112.9:*:*:*:*:node.js:*:*",
+			"cpeNameId": "8848D4A5-D80F-40FA-92B1-5F582001BD09"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tuta:tutanota:3.112.11:*:*:*:*:node.js:*:*",
+			"cpeNameId": "EE85EF09-B2E5-44FC-9395-05001786A939"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tuta:tutanota:3.112.12:*:*:*:*:node.js:*:*",
+			"cpeNameId": "8BD68A92-701B-4C98-802A-1D17F2F63CBE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tuta:tutanota:3.112.15:*:*:*:*:node.js:*:*",
+			"cpeNameId": "261FD936-AAA3-4087-9D7D-7FADE2F8D627"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tuta:tutanota:3.113.2:*:*:*:*:node.js:*:*",
+			"cpeNameId": "2D3646F5-F31E-4F4C-B777-1FCF4A23B1D3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tuta:tutanota:3.113.3:*:*:*:*:node.js:*:*",
+			"cpeNameId": "FAC3584B-1FD7-489B-8DAA-9CE13C009C26"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tuta:tutanota:3.114.1:*:*:*:*:node.js:*:*",
+			"cpeNameId": "2826E708-4288-4263-A417-4AE150DC7327"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tuta:tutanota:3.115.2:*:*:*:*:node.js:*:*",
+			"cpeNameId": "190F2684-B1C9-4E3A-A4F4-C31F2A827C00"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tuta:tutanota:3.116.8:*:*:*:*:node.js:*:*",
+			"cpeNameId": "B6F00474-6A17-4971-808A-400E8A005B61"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tuta:tutanota:3.117.0:*:*:*:*:node.js:*:*",
+			"cpeNameId": "D154B4E1-D421-449B-A8C3-370E27C54A08"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tuta:tutanota:3.118.4:*:*:*:*:node.js:*:*",
+			"cpeNameId": "92421400-482A-4CF5-9EF5-B78D58919F94"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tuta:tutanota:3.118.6:*:*:*:*:node.js:*:*",
+			"cpeNameId": "B949F8E2-99F2-49F2-87C2-D7FD156E9DA1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tuta:tutanota:3.118.8:*:*:*:*:node.js:*:*",
+			"cpeNameId": "99F96ADF-0279-442D-98BE-5E14FB16619E"
 		}
 	]
 }
