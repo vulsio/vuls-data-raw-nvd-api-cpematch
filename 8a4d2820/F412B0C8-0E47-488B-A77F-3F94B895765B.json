@@ -4,6 +4,196 @@
 	"versionEndIncluding": "9.0.2",
 	"created": "2023-08-03T21:52:45.680",
 	"lastModified": "2023-08-03T21:52:45.680",
-	"cpeLastModified": "2023-08-03T21:52:45.680",
-	"status": "Active"
+	"cpeLastModified": "2023-12-22T18:52:39.283",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B2F0BCA1-0A92-4F0E-A0CC-6E3AC2C53433"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D3C85E61-F563-40E8-8617-89C133B23C19"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6FF128E2-0006-464A-A2D4-FCC6B805A9F3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "54232A31-2AF4-4E71-8A23-AFA29C392AE2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "88B9E5B8-9613-4FCC-A49F-67238EE42B07"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CBA91C18-4427-4336-9E8E-1684351C8E67"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BE181236-CFD1-40B3-A090-E9CAEAA85C5E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7BC8B3ED-CF87-404F-BBFC-5BB8989B43D0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.9.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A68FEEFB-AE95-4F37-8091-55B576106E1A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.10.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "37ECA1E4-82C8-4EAB-B39D-CA0CFA1AF6F0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.11.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C230D5D7-9AC1-4D5F-91C3-4D7033B89496"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.11.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E7A30B3B-1529-4C21-952F-4325316F09F6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.11.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F4F05E04-BB59-453B-B390-3D18166C8266"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.11.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2D49D091-9D41-4811-A560-521F7896933B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.11.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8A50C01D-E04A-401D-B1DA-CB82290998E7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.20.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "17C5E4ED-2BF1-4288-95AD-87514A807F20"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.20.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F2CB8544-FCE2-4E12-81D3-26A5DAA3A11F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.20.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "161E0550-637F-4C6E-B88D-B1F75D4E7519"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.20.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BF537B59-3956-41FF-93CD-3C74AFAF4611"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.20.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "237D58B4-8CD8-403B-BD13-B95138B141D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.22.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B04F5D24-7295-4832-91EC-0FEAD62E7A54"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.30.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "903BDDBC-399C-460C-9114-CAB104199058"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.32.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6E116058-65AE-4365-8D16-D76F4DB963B1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.40.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "26575A5B-CA1E-4785-AF7E-30E296E9E8B5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.80.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "78C514B5-FCAE-41C0-9553-56A0986B2A58"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.80.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DE123973-5B63-426D-B34E-0A803A5BC7DA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.80.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9F181CB7-EC16-47ED-B68A-57BB93D05F1D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.85.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "132B6961-BB1C-4452-9FD1-9E2690D077F9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:0.85.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E9569E85-D9D8-4CBE-8EE2-49AFEF1F5E9C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:1.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FF1BBD9F-4041-4D9F-BDCF-9A1FA2EC1939"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:2.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D2D17AB7-ACC3-46F8-8565-4EB0C9CCE797"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:2.0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3864EA12-BCAB-4EB8-8891-B550D5920325"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:2.0.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "01FD25C8-8C54-47E6-8640-60955681F94E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:2.0.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "71E5EC52-16B1-4650-882A-DC6B5C4280E0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:2.0.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "23F42111-6B86-4219-8BFF-94C522444024"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:2.0.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "52DC49A7-39D6-4878-80D0-B136D39D3B53"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:2.0.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "33BA9F94-BFC2-40EC-855B-50D73BC99C37"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:2.0.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CA4D0C49-32B0-4500-B5AA-A773452F6148"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:2.0.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "31861AEC-5755-4F92-979F-7B06DC51B881"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:2.0.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7BDCDFD4-DA0B-4493-BADB-91D0A59D568B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:2.0.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A852FD3C-0DC8-4824-BDB4-F7B5E469ADFA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:2.0.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0CABCEE5-9D81-4998-938E-3658B4A128B9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:2.0.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7F5BBBDC-9E09-420D-9C13-22ED431B9AC8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:2.0.13:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CEF6B0AC-8817-4336-9B06-C06ED4258C0F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:2.0.14:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "26CB520F-2184-45E1-855B-2D69BB48BDD4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:2.1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EDDE2F19-E125-4039-80CA-EE9F04AA714A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:2.1.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "851BD4EF-B528-4EE0-A56E-8B8E58B2E9B2"
+		}
+	]
 }
