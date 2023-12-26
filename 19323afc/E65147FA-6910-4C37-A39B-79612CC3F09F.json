@@ -3,8 +3,8 @@
 	"matchCriteriaId": "E65147FA-6910-4C37-A39B-79612CC3F09F",
 	"versionEndExcluding": "9.0.0",
 	"created": "2023-12-20T17:21:10.663",
-	"lastModified": "2023-12-20T17:21:10.663",
-	"cpeLastModified": "2023-12-20T17:21:10.663",
+	"lastModified": "2023-12-26T17:03:49.917",
+	"cpeLastModified": "2023-12-26T17:03:49.917",
 	"status": "Active",
 	"matches": [
 		{
@@ -198,6 +198,14 @@
 		{
 			"cpeName": "cpe:2.3:a:moonlight-stream:moonlight:5.0.1:*:*:*:*:tvos:*:*",
 			"cpeNameId": "B8196D02-1EF7-4772-BBE7-FD5E8189F6E4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:moonlight-stream:moonlight:8.4.0:*:*:*:*:tvos:*:*",
+			"cpeNameId": "401651BD-552C-4287-BE6A-D2B18901DB39"
+		},
+		{
+			"cpeName": "cpe:2.3:a:moonlight-stream:moonlight:8.5.0:*:*:*:*:tvos:*:*",
+			"cpeNameId": "C3AE969C-86FE-4207-9C52-79D57A40B1EA"
 		}
 	]
 }

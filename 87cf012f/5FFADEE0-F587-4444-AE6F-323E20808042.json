@@ -5,6 +5,16 @@
 	"versionEndIncluding": "0.13.3",
 	"created": "2023-12-19T20:12:44.377",
 	"lastModified": "2023-12-19T20:12:44.377",
-	"cpeLastModified": "2023-12-19T20:12:44.377",
-	"status": "Active"
+	"cpeLastModified": "2023-12-26T17:03:49.917",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:moonlight-stream:moonlight_switch:0.13:*:*:*:*:*:*:*",
+			"cpeNameId": "E43242B9-CBC0-4B89-A784-8B6AC9208572"
+		},
+		{
+			"cpeName": "cpe:2.3:a:moonlight-stream:moonlight_switch:0.13.3:*:*:*:*:*:*:*",
+			"cpeNameId": "07AF17C0-5DC7-4FBE-B187-7DF2CF10A2BF"
+		}
+	]
 }

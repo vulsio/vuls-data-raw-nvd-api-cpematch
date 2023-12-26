@@ -3,8 +3,8 @@
 	"matchCriteriaId": "76747B70-CBD6-4072-A9C7-EB89017494E9",
 	"versionEndIncluding": "8.90",
 	"created": "2023-12-22T14:47:34.933",
-	"lastModified": "2023-12-22T14:47:34.933",
-	"cpeLastModified": "2023-12-22T14:47:34.933",
+	"lastModified": "2023-12-26T13:44:15.837",
+	"cpeLastModified": "2023-12-26T13:44:15.837",
 	"status": "Active",
 	"matches": [
 		{
@@ -22,6 +22,10 @@
 		{
 			"cpeName": "cpe:2.3:o:bosch:cpp13_firmware:8.48:*:*:*:*:*:*:*",
 			"cpeNameId": "688775A8-03E1-4611-8D94-B971C333F0B3"
+		},
+		{
+			"cpeName": "cpe:2.3:o:bosch:cpp13_firmware:8.90:*:*:*:*:*:*:*",
+			"cpeNameId": "BFEDC423-99D2-47F6-B601-D0E0B61C58C0"
 		}
 	]
 }

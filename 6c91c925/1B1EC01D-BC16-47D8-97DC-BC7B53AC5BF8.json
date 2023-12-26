@@ -4,7 +4,7 @@
 	"versionEndIncluding": "1.7.6",
 	"created": "2023-11-15T18:27:19.043",
 	"lastModified": "2023-11-15T18:27:19.043",
-	"cpeLastModified": "2023-11-15T18:27:19.043",
+	"cpeLastModified": "2023-12-26T12:59:45.913",
 	"status": "Active",
 	"matches": [
 		{
@@ -234,6 +234,14 @@
 		{
 			"cpeName": "cpe:2.3:a:tribulant:slideshow_gallery:1.7.4.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "7D90945B-3111-406C-A300-3E700021B8A2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribulant:slideshow_gallery:1.7.4.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7C0F87B4-6A0A-4B69-AA70-3FAA6E0A314C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribulant:slideshow_gallery:1.7.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9E59DC1C-061B-474E-8550-0386495CF2A0"
 		}
 	]
 }

@@ -5,6 +5,12 @@
 	"versionEndExcluding": "2023-10-06",
 	"created": "2023-12-20T17:21:10.663",
 	"lastModified": "2023-12-20T17:21:10.663",
-	"cpeLastModified": "2023-12-20T17:21:10.663",
-	"status": "Active"
+	"cpeLastModified": "2023-12-26T17:03:49.917",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:moonlight-stream:moonlight-common-c:2022-11-04:*:*:*:*:*:*:*",
+			"cpeNameId": "51C8A87A-5D33-4A33-ACA3-A1DCA2E64211"
+		}
+	]
 }
