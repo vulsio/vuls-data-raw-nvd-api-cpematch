@@ -3,8 +3,8 @@
 	"matchCriteriaId": "F876B358-C52D-448E-A902-D2FF56361DC1",
 	"versionEndExcluding": "1.2.3",
 	"created": "2023-07-14T14:56:28.127",
-	"lastModified": "2023-07-14T14:56:28.127",
-	"cpeLastModified": "2023-07-14T14:56:28.127",
+	"lastModified": "2023-12-26T19:56:25.687",
+	"cpeLastModified": "2023-12-26T19:56:25.687",
 	"status": "Active",
 	"matches": [
 		{
@@ -686,6 +686,10 @@
 		{
 			"cpeName": "cpe:2.3:a:wintercms:winter:1.2.1:*:*:*:*:*:*:*",
 			"cpeNameId": "A6ADF405-FAD9-4D45-A41E-6CA9829ECD78"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wintercms:winter:1.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "5F7D8794-65EE-475B-B87B-EFB9AA76E401"
 		}
 	]
 }
