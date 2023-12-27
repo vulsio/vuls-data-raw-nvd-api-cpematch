@@ -4,7 +4,7 @@
 	"versionEndExcluding": "6.3",
 	"created": "2023-12-12T18:28:11.550",
 	"lastModified": "2023-12-12T18:54:02.700",
-	"cpeLastModified": "2023-12-12T18:54:02.700",
+	"cpeLastModified": "2023-12-27T14:15:39.573",
 	"status": "Active",
 	"matches": [
 		{
@@ -190,6 +190,10 @@
 		{
 			"cpeName": "cpe:2.3:a:bitapps:file_manager:6.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "170E3940-C3D6-45FE-A740-5D4606B54FB5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitapps:file_manager:6.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9D684243-9D7E-44ED-86C5-21EAB771E68C"
 		},
 		{
 			"cpeName": "cpe:2.3:a:bitapps:file_manager:6.1:*:*:*:*:wordpress:*:*",

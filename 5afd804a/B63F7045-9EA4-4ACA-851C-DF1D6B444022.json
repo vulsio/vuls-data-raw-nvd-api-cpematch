@@ -3,8 +3,8 @@
 	"matchCriteriaId": "B63F7045-9EA4-4ACA-851C-DF1D6B444022",
 	"versionEndIncluding": "7.62",
 	"created": "2023-12-22T15:23:07.033",
-	"lastModified": "2023-12-22T15:23:07.033",
-	"cpeLastModified": "2023-12-22T15:23:07.033",
+	"lastModified": "2023-12-27T14:07:09.177",
+	"cpeLastModified": "2023-12-27T14:07:09.177",
 	"status": "Active",
 	"matches": [
 		{
@@ -34,6 +34,10 @@
 		{
 			"cpeName": "cpe:2.3:a:bosch:configuration_manager:7.21.0078:*:*:*:*:*:*:*",
 			"cpeNameId": "C65B8B45-337C-4EBD-97B6-AED52AAD6524"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bosch:configuration_manager:7.62:*:*:*:*:*:*:*",
+			"cpeNameId": "A705E056-C94E-48D0-A4E4-9E8C79DE7D7F"
 		}
 	]
 }

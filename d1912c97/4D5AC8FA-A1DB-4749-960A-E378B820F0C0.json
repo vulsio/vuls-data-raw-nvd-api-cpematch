@@ -5,6 +5,16 @@
 	"versionEndIncluding": "9.0.0.178",
 	"created": "2023-12-22T15:38:18.337",
 	"lastModified": "2023-12-22T15:38:18.337",
-	"cpeLastModified": "2023-12-22T15:38:18.337",
-	"status": "Active"
+	"cpeLastModified": "2023-12-27T14:07:09.177",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:bosch:video_streaming_gateway:9.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "8AB2DDED-2635-4259-8194-5360C94F95E4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bosch:video_streaming_gateway:9.0.0.178:*:*:*:*:*:*:*",
+			"cpeNameId": "3EC8FA8B-3027-4E5D-AC3C-373BD137C813"
+		}
+	]
 }

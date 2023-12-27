@@ -3,8 +3,8 @@
 	"matchCriteriaId": "4D9223C8-D32F-426B-97B1-C5EB3D8A7076",
 	"versionEndIncluding": "2.15.2",
 	"created": "2023-12-18T15:04:57.343",
-	"lastModified": "2023-12-18T15:04:57.343",
-	"cpeLastModified": "2023-12-18T15:04:57.343",
+	"lastModified": "2023-12-27T14:15:39.573",
+	"cpeLastModified": "2023-12-27T14:15:39.573",
 	"status": "Active",
 	"matches": [
 		{
@@ -590,6 +590,10 @@
 		{
 			"cpeName": "cpe:2.3:a:averta:shortcodes_and_extra_features_for_phlox_theme:2.10.8:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "730344DC-AFBB-457E-828D-8C0EE52A7A58"
+		},
+		{
+			"cpeName": "cpe:2.3:a:averta:shortcodes_and_extra_features_for_phlox_theme:2.15.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7FC2EEE6-3666-4D1C-B959-8C58028FE1F9"
 		}
 	]
 }

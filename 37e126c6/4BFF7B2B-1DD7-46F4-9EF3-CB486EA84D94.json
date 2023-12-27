@@ -3,7 +3,7 @@
 	"matchCriteriaId": "4BFF7B2B-1DD7-46F4-9EF3-CB486EA84D94",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-12-19T17:25:38.653",
+	"cpeLastModified": "2023-12-27T14:01:52.907",
 	"status": "Active",
 	"matches": [
 		{
@@ -653,6 +653,10 @@
 		{
 			"cpeName": "cpe:2.3:a:apache:struts:6.3.0:*:*:*:*:*:*:*",
 			"cpeNameId": "E37543E9-43F1-4E05-A048-D9F38D842E8B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:struts:6.3.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "AAA75262-B420-4AA0-A332-F54C6ACB6BA0"
 		}
 	]
 }

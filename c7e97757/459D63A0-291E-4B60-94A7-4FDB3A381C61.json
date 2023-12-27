@@ -5,6 +5,12 @@
 	"versionEndExcluding": "4.7.2",
 	"created": "2023-12-26T18:45:56.200",
 	"lastModified": "2023-12-26T18:45:56.200",
-	"cpeLastModified": "2023-12-26T18:45:56.200",
-	"status": "Active"
+	"cpeLastModified": "2023-12-27T14:54:18.123",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "DCC5CFF5-EC49-4B10-A267-B84706081264"
+		}
+	]
 }

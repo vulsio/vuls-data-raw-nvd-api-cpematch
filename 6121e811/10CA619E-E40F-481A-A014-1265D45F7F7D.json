@@ -3,8 +3,8 @@
 	"matchCriteriaId": "10CA619E-E40F-481A-A014-1265D45F7F7D",
 	"versionEndIncluding": "2.2.1",
 	"created": "2023-12-18T19:41:51.817",
-	"lastModified": "2023-12-18T19:41:51.817",
-	"cpeLastModified": "2023-12-18T19:41:51.817",
+	"lastModified": "2023-12-27T14:15:39.573",
+	"cpeLastModified": "2023-12-27T14:15:39.573",
 	"status": "Active",
 	"matches": [
 		{
@@ -222,6 +222,22 @@
 		{
 			"cpeName": "cpe:2.3:a:realbigplugins:client_dash:2.1.4:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "BB92FE4D-2B07-4F73-B31C-061350CD71A9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:realbigplugins:client_dash:2.1.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4BFD43A8-2B4A-433A-B6A7-D3E209057914"
+		},
+		{
+			"cpeName": "cpe:2.3:a:realbigplugins:client_dash:2.1.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "68459A48-2B15-4D56-892E-53CBE38BBA51"
+		},
+		{
+			"cpeName": "cpe:2.3:a:realbigplugins:client_dash:2.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B2486030-89EC-4871-8CCF-8320F3E15D9B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:realbigplugins:client_dash:2.2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9AE1C055-EDF6-404B-9751-B1B4C1CF8255"
 		}
 	]
 }

@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:kde:kde:3.2:*:*:*:*:*:*:*",
 	"matchCriteriaId": "82F69843-978D-4686-BC5B-1D09DA4A21BD",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
-	"status": "Active"
+	"lastModified": "2023-12-27T16:02:26.290",
+	"cpeLastModified": "2023-12-27T16:02:26.290",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:kde:kde:3.2:*:*:*:*:*:*:*",
+			"cpeNameId": "523937BA-0955-491F-8D3B-A158C16205E2"
+		}
+	]
 }
