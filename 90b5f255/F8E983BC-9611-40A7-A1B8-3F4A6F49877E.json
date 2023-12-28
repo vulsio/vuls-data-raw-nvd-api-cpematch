@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:flatnuke:flatnuke:1.8:*:*:*:*:*:*:*",
 	"matchCriteriaId": "F8E983BC-9611-40A7-A1B8-3F4A6F49877E",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
-	"status": "Active"
+	"lastModified": "2023-12-28T13:54:06.743",
+	"cpeLastModified": "2023-12-28T13:54:06.743",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:flatnuke:flatnuke:1.8:*:*:*:*:*:*:*",
+			"cpeNameId": "34F728DB-06DF-4613-A695-FB8B727A2AB0"
+		}
+	]
 }

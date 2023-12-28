@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:quicksketch:filefield:6.x-3.0:alpha3:*:*:*:*:*:*",
 	"matchCriteriaId": "D11BE48A-3D97-4139-919B-4B43760744DF",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
-	"status": "Active"
+	"lastModified": "2023-12-28T16:46:18.327",
+	"cpeLastModified": "2023-12-28T16:46:18.327",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:quicksketch:filefield:6.x-3.0:alpha3:*:*:*:drupal:*:*",
+			"cpeNameId": "21FA44E7-D877-4AC3-9BD2-34F33BC951F1"
+		}
+	]
 }

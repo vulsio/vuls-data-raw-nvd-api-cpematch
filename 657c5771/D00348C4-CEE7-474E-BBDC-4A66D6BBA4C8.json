@@ -5,6 +5,16 @@
 	"versionEndIncluding": "9.2.1",
 	"created": "2023-12-14T16:10:34.380",
 	"lastModified": "2023-12-14T16:10:34.380",
-	"cpeLastModified": "2023-12-14T16:10:34.380",
-	"status": "Active"
+	"cpeLastModified": "2023-12-28T16:47:16.587",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:mattermost:mattermost_server:9.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "1CF7E8FD-B975-4828-88D2-0A0707022EFE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mattermost:mattermost_server:9.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "0FFAB8E3-E1A9-41DE-BA7C-1B09F50EFF40"
+		}
+	]
 }

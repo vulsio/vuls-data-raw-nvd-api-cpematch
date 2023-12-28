@@ -3,8 +3,8 @@
 	"matchCriteriaId": "2029F9FB-397A-490D-A86F-B2B39C516A79",
 	"versionEndIncluding": "2.14.2",
 	"created": "2023-10-20T19:21:18.483",
-	"lastModified": "2023-10-20T19:21:18.483",
-	"cpeLastModified": "2023-10-20T19:21:18.483",
+	"lastModified": "2023-12-28T16:47:16.587",
+	"cpeLastModified": "2023-12-28T16:47:16.587",
 	"status": "Active",
 	"matches": [
 		{
@@ -38,6 +38,10 @@
 		{
 			"cpeName": "cpe:2.3:a:mbconnectline:mbconnect24:2.13.4:*:*:*:*:*:*:*",
 			"cpeNameId": "BFB572E7-7D74-4126-AA01-C56A799CDA9B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mbconnectline:mbconnect24:2.14.2:*:*:*:*:*:*:*",
+			"cpeNameId": "13DE32F9-9DCB-408A-B591-AA22015C5A65"
 		}
 	]
 }
