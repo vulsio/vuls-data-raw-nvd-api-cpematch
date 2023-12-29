@@ -3,8 +3,8 @@
 	"matchCriteriaId": "F2F264CF-2217-418C-91D2-5BF2028C3EB0",
 	"versionEndExcluding": "1.5.10.15",
 	"created": "2023-11-06T19:12:32.753",
-	"lastModified": "2023-11-06T19:12:32.753",
-	"cpeLastModified": "2023-11-06T19:12:32.753",
+	"lastModified": "2023-12-29T15:31:15.447",
+	"cpeLastModified": "2023-12-29T15:31:15.447",
 	"status": "Active",
 	"matches": [
 		{
@@ -98,6 +98,10 @@
 		{
 			"cpeName": "cpe:2.3:a:fogproject:fogproject:1.5.9:rc2:*:*:*:*:*:*",
 			"cpeNameId": "3A0B6733-8D06-4218-B7A3-98EA3015E12D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fogproject:fogproject:1.5.10:*:*:*:*:*:*:*",
+			"cpeNameId": "A466BF49-E98D-4C0E-9136-428D06DAAE6C"
 		}
 	]
 }

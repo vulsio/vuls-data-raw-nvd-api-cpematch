@@ -3,12 +3,24 @@
 	"matchCriteriaId": "5AF88BB9-6FC3-4EF9-881E-94FF9E2A60DF",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"cpeLastModified": "2023-12-29T15:31:15.447",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:o:mandriva:linux:-:*:*:*:*:*:*:*",
 			"cpeNameId": "AC5EFB6A-49D3-4C5B-98EC-D7F683804028"
+		},
+		{
+			"cpeName": "cpe:2.3:o:mandriva:linux:10.1:*:*:*:*:*:*:*",
+			"cpeNameId": "BD4EFED0-3996-47F6-8FC8-3CED300A3157"
+		},
+		{
+			"cpeName": "cpe:2.3:o:mandriva:linux:10.2:*:*:*:*:*:*:*",
+			"cpeNameId": "F0EBFC8F-BF70-4978-BF56-2D8409BCEC9E"
+		},
+		{
+			"cpeName": "cpe:2.3:o:mandriva:linux:2006.0:*:*:*:*:*:*:*",
+			"cpeNameId": "63494437-9992-471E-8371-D64238CC2C3A"
 		},
 		{
 			"cpeName": "cpe:2.3:o:mandriva:linux:2008.0:*:*:*:*:*:*:*",

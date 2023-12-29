@@ -3,7 +3,7 @@
 	"matchCriteriaId": "0A924BA8-278D-42F8-9A38-AE1087384629",
 	"created": "2023-12-11T13:17:45.120",
 	"lastModified": "2023-12-11T13:17:45.120",
-	"cpeLastModified": "2023-12-11T13:17:45.120",
+	"cpeLastModified": "2023-12-29T15:31:15.447",
 	"status": "Active",
 	"matches": [
 		{
@@ -553,6 +553,10 @@
 		{
 			"cpeName": "cpe:2.3:o:broadcom:fabric_operating_system:9.1.1c:*:*:*:*:*:*:*",
 			"cpeNameId": "D471CBF7-7594-4E39-8F92-FC83F1BA7DF8"
+		},
+		{
+			"cpeName": "cpe:2.3:o:broadcom:fabric_operating_system:9.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5EC4A219-39E4-4E44-AEAC-E4476053D950"
 		}
 	]
 }

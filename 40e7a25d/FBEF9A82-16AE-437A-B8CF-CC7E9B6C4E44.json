@@ -4,6 +4,12 @@
 	"versionEndExcluding": "4.0.3",
 	"created": "2021-12-16T18:43:29.847",
 	"lastModified": "2021-12-16T18:43:29.847",
-	"cpeLastModified": "2021-12-16T19:56:48.887",
-	"status": "Active"
+	"cpeLastModified": "2023-12-29T18:02:38.650",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:cyber_vision_sensor_management_extension:4.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "7AF9516F-E7EF-4D65-9BAD-011DC6047C7A"
+		}
+	]
 }

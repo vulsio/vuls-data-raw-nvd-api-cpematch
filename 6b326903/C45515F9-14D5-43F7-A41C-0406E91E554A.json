@@ -4,6 +4,12 @@
 	"versionEndIncluding": "1.15.78",
 	"created": "2023-12-28T12:56:10.177",
 	"lastModified": "2023-12-28T12:56:10.177",
-	"cpeLastModified": "2023-12-28T12:56:10.177",
-	"status": "Active"
+	"cpeLastModified": "2023-12-29T15:31:15.447",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:automattic:woocommerce_bookings:1.15.78:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "28077350-C82A-4C6F-ABE9-DBAE3FDD467B"
+		}
+	]
 }

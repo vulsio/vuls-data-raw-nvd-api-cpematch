@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.11.6",
 	"created": "2020-05-22T14:17:24.613",
 	"lastModified": "2020-05-22T14:17:24.613",
-	"cpeLastModified": "2020-05-22T14:17:24.663",
+	"cpeLastModified": "2023-12-29T15:31:15.447",
 	"status": "Active",
 	"matches": [
 		{
@@ -146,6 +146,10 @@
 		{
 			"cpeName": "cpe:2.3:a:gilacms:gila_cms:1.11.2:*:*:*:*:*:*:*",
 			"cpeNameId": "E5293EED-CF70-4F86-A6D2-DD72E64AA1FB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gilacms:gila_cms:1.11.3:*:*:*:*:*:*:*",
+			"cpeNameId": "9DD22373-5078-4039-B9C2-3A15F15A82E4"
 		},
 		{
 			"cpeName": "cpe:2.3:a:gilacms:gila_cms:1.11.4:*:*:*:*:*:*:*",

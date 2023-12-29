@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2.7.0",
 	"created": "2021-05-26T19:05:21.353",
 	"lastModified": "2021-05-26T19:05:21.353",
-	"cpeLastModified": "2023-10-18T18:43:03.007",
+	"cpeLastModified": "2023-12-29T18:02:38.650",
 	"status": "Active",
 	"matches": [
 		{
@@ -642,6 +642,10 @@
 		{
 			"cpeName": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch3:*:*:*:*:*:*",
 			"cpeNameId": "EEF9F4AD-5541-4925-A669-F03503D4D483"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch4:*:*:*:*:*:*",
+			"cpeNameId": "28447C19-FAE3-418F-9E93-3F3E348411A9"
 		},
 		{
 			"cpeName": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch5:*:*:*:*:*:*",

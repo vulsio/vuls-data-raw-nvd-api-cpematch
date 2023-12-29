@@ -4,7 +4,7 @@
 	"versionEndExcluding": "10.3.5",
 	"created": "2022-04-13T00:42:30.520",
 	"lastModified": "2022-04-13T00:42:30.520",
-	"cpeLastModified": "2023-07-20T13:31:29.670",
+	"cpeLastModified": "2023-12-29T15:15:26.877",
 	"status": "Active",
 	"matches": [
 		{
@@ -94,6 +94,10 @@
 		{
 			"cpeName": "cpe:2.3:a:pimcore:pimcore:4.0.1:*:*:*:*:*:*:*",
 			"cpeNameId": "CBE64A61-2549-4BD6-9394-DE2A838B1E22"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pimcore:pimcore:4.0.5:*:*:*:*:*:*:*",
+			"cpeNameId": "0D835135-4C2A-4CA3-B81F-30A279355B98"
 		},
 		{
 			"cpeName": "cpe:2.3:a:pimcore:pimcore:4.1.0:*:*:*:*:*:*:*",

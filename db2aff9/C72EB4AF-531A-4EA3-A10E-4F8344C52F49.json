@@ -3,7 +3,7 @@
 	"matchCriteriaId": "C72EB4AF-531A-4EA3-A10E-4F8344C52F49",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-03-03T15:00:21.583",
+	"cpeLastModified": "2023-12-29T18:02:38.650",
 	"status": "Active",
 	"matches": [
 		{
@@ -337,6 +337,10 @@
 		{
 			"cpeName": "cpe:2.3:a:cisco:unified_contact_center_enterprise:12.6\\(1\\)_es06:*:*:*:*:*:*:*",
 			"cpeNameId": "98B99288-1481-467C-8F0F-88A0209C1C3D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:unified_contact_center_enterprise:12.6\\(2\\):*:*:*:*:*:*:*",
+			"cpeNameId": "956E00DE-5793-41DC-9B31-0177249C8E71"
 		}
 	]
 }

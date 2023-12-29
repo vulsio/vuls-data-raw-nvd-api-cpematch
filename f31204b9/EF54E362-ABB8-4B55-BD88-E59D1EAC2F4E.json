@@ -3,8 +3,8 @@
 	"matchCriteriaId": "EF54E362-ABB8-4B55-BD88-E59D1EAC2F4E",
 	"versionEndIncluding": "4.3000000021",
 	"created": "2023-12-27T13:52:38.340",
-	"lastModified": "2023-12-27T13:52:38.340",
-	"cpeLastModified": "2023-12-27T13:52:38.340",
+	"lastModified": "2023-12-29T15:31:15.447",
+	"cpeLastModified": "2023-12-29T15:31:15.447",
 	"status": "Active",
 	"matches": [
 		{
@@ -122,6 +122,10 @@
 		{
 			"cpeName": "cpe:2.3:a:elearningfreak:insert_or_embed_articulate_content:4.29992:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "F7E99BE4-1AFF-4C67-80B2-ABCF41EB72F8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elearningfreak:insert_or_embed_articulate_content:4.3000000021:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "06898FE2-7FEE-40DB-8498-805814F5AA95"
 		}
 	]
 }

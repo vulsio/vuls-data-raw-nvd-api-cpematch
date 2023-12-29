@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:cisco:nx-os:7.0\\(3\\)im3\\(3\\):*:*:*:*:*:*:*",
 	"matchCriteriaId": "DD8BA29C-7F6E-492A-8EB1-A2D6391C5120",
 	"created": "2022-07-15T16:02:29.510",
-	"lastModified": "2022-08-02T15:57:08.020",
-	"cpeLastModified": "2022-07-15T16:08:24.230",
-	"status": "Active"
+	"lastModified": "2023-12-29T18:02:38.650",
+	"cpeLastModified": "2023-12-29T18:02:38.650",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:nx-os:7.0\\(3\\)im3\\(3\\):*:*:*:*:*:*:*",
+			"cpeNameId": "98021B16-4764-4106-98AD-9455CFEE7D54"
+		}
+	]
 }

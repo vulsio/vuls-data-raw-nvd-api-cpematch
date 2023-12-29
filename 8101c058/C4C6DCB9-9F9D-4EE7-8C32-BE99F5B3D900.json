@@ -4,7 +4,7 @@
 	"versionEndExcluding": "9.8",
 	"created": "2023-11-20T14:13:12.807",
 	"lastModified": "2023-11-20T14:13:12.807",
-	"cpeLastModified": "2023-11-20T14:13:12.807",
+	"cpeLastModified": "2023-12-29T18:02:38.650",
 	"status": "Active",
 	"matches": [
 		{
@@ -70,6 +70,10 @@
 		{
 			"cpeName": "cpe:2.3:a:clickstudios:passwordstate:9.6:build_9665:*:*:*:-:*:*",
 			"cpeNameId": "A2D60EC2-BFF7-4782-9CF4-B81DE9DA933D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:clickstudios:passwordstate:9.7:build_9785:*:*:*:-:*:*",
+			"cpeNameId": "6D1C7630-9B62-4358-A94E-73B5BA631E24"
 		}
 	]
 }

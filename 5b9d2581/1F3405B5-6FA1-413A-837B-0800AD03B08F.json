@@ -3,7 +3,7 @@
 	"matchCriteriaId": "1F3405B5-6FA1-413A-837B-0800AD03B08F",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-11-25T04:34:25.230",
+	"cpeLastModified": "2023-12-29T15:15:26.877",
 	"status": "Active",
 	"matches": [
 		{
@@ -789,6 +789,10 @@
 		{
 			"cpeName": "cpe:2.3:a:irfanview:irfanview:4.59:*:*:*:*:*:x86:*",
 			"cpeNameId": "51EEA0B6-1EDC-4D93-8986-1DA779A84179"
+		},
+		{
+			"cpeName": "cpe:2.3:a:irfanview:irfanview:4.60:*:*:*:*:*:*:*",
+			"cpeNameId": "F5E443EE-AEA3-489D-879F-9A27A781B8D3"
 		},
 		{
 			"cpeName": "cpe:2.3:a:irfanview:irfanview:4.60:*:*:*:*:*:-:*",

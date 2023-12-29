@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:home_owners_collection_management_system_project:home_owners_collection_management_system:1.0:*:*:*:*:*:*:*",
 	"matchCriteriaId": "FDB75A84-7EE7-4D4A-9B5F-77365D793307",
 	"created": "2022-03-03T17:26:54.120",
-	"lastModified": "2022-05-17T17:18:39.720",
-	"cpeLastModified": "2022-03-08T14:57:40.570",
-	"status": "Active"
+	"lastModified": "2023-12-29T15:15:26.877",
+	"cpeLastModified": "2023-12-29T15:15:26.877",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:home_owners_collection_management_system_project:home_owners_collection_management_system:1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "004E94E1-6FEC-474B-8AC4-39B6BC25C7A2"
+		}
+	]
 }

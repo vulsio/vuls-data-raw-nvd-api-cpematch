@@ -4,6 +4,12 @@
 	"versionEndExcluding": "2016-06-09",
 	"created": "2023-03-07T14:51:43.880",
 	"lastModified": "2023-03-07T14:51:43.880",
-	"cpeLastModified": "2023-03-07T14:51:43.880",
-	"status": "Active"
+	"cpeLastModified": "2023-12-29T15:31:15.447",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:doomsider_shadow_project:doomsider_shadow:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0F18F35C-6711-44AF-AA53-C808A89043B6"
+		}
+	]
 }

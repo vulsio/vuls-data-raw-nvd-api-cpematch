@@ -5,7 +5,7 @@
 	"versionEndExcluding": "8.2\\(1\\)",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"cpeLastModified": "2023-12-29T18:02:38.650",
 	"status": "Active",
 	"matches": [
 		{
@@ -83,6 +83,10 @@
 		{
 			"cpeName": "cpe:2.3:o:cisco:nx-os:8.1\\(2\\):*:*:*:*:*:*:*",
 			"cpeNameId": "B0FA73F6-327D-4439-BC3C-CD1049CF7F41"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:nx-os:8.1\\(2a\\):*:*:*:*:*:*:*",
+			"cpeNameId": "015EFA96-AF10-4E88-8781-14AB1F77D3F5"
 		},
 		{
 			"cpeName": "cpe:2.3:o:cisco:nx-os:8.2:*:*:*:*:*:*:*",

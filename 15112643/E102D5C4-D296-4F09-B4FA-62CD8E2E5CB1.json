@@ -3,7 +3,7 @@
 	"matchCriteriaId": "E102D5C4-D296-4F09-B4FA-62CD8E2E5CB1",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-11-14T18:53:18.690",
+	"cpeLastModified": "2023-12-29T18:02:38.650",
 	"status": "Active",
 	"matches": [
 		{
@@ -509,6 +509,10 @@
 		{
 			"cpeName": "cpe:2.3:a:cisco:firepower_threat_defense:7.3.1.1:*:*:*:*:*:*:*",
 			"cpeNameId": "B55EDCED-FA87-4CFD-A4FC-73C096DB7393"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:firepower_threat_defense:7.3.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "D6B0BB59-B359-43CB-949F-F42B2DA596D3"
 		},
 		{
 			"cpeName": "cpe:2.3:a:cisco:firepower_threat_defense:9.8.1:*:*:*:*:*:*:*",

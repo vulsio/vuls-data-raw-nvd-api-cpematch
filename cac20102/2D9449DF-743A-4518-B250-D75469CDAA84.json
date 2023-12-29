@@ -3,7 +3,7 @@
 	"matchCriteriaId": "2D9449DF-743A-4518-B250-D75469CDAA84",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-09-28T11:09:50.100",
+	"cpeLastModified": "2023-12-29T18:02:38.650",
 	"status": "Active",
 	"matches": [
 		{
@@ -399,6 +399,10 @@
 			"cpeNameId": "EB661BE5-EFB1-4702-ADD0-7F673D8828FE"
 		},
 		{
+			"cpeName": "cpe:2.3:a:vmware:tools:12.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "E577D8BF-3FE6-43E0-AB57-DE508602A9F4"
+		},
+		{
 			"cpeName": "cpe:2.3:a:vmware:tools:12.1.5:*:*:*:*:*:*:*",
 			"cpeNameId": "B172D6E9-6219-4DC6-B8A1-7238372154AA"
 		},
@@ -413,6 +417,10 @@
 		{
 			"cpeName": "cpe:2.3:a:vmware:tools:12.3.0:*:*:*:*:*:*:*",
 			"cpeNameId": "574EA26D-9720-4976-B516-75B7D0F1BCC7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vmware:tools:12.3.5:*:*:*:*:*:*:*",
+			"cpeNameId": "C3ADEE34-9EDE-485A-A781-1DEC7EDAB9D2"
 		}
 	]
 }

@@ -4,7 +4,7 @@
 	"versionEndIncluding": "22.200.200",
 	"created": "2023-01-31T15:53:37.767",
 	"lastModified": "2023-01-31T15:53:37.767",
-	"cpeLastModified": "2023-01-31T15:53:37.767",
+	"cpeLastModified": "2023-12-29T18:02:38.650",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:a:bitrix24:bitrix24:20.0.975:*:*:*:*:*:*:*",
 			"cpeNameId": "E8B4C2C4-4B54-4D0A-91D9-AFDCD00077E5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitrix24:bitrix24:22.0.300:*:*:*:*:*:*:*",
+			"cpeNameId": "73E19175-D11D-4123-8F14-E914C78C3361"
 		}
 	]
 }

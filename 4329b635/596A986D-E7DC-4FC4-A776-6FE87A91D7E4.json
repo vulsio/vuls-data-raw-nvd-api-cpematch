@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.0.9-361",
 	"created": "2021-12-16T18:43:29.847",
 	"lastModified": "2021-12-16T18:43:29.847",
-	"cpeLastModified": "2021-12-16T19:56:48.887",
+	"cpeLastModified": "2023-12-29T18:02:38.650",
 	"status": "Active",
 	"matches": [
 		{
@@ -30,6 +30,10 @@
 		{
 			"cpeName": "cpe:2.3:a:cisco:intersight_virtual_appliance:1.0.9-342:*:*:*:*:*:*:*",
 			"cpeNameId": "9A3FBD4B-C752-4B7F-9007-A1C246780B56"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:intersight_virtual_appliance:1.0.9-343:*:*:*:*:*:*:*",
+			"cpeNameId": "7DE8AD0F-BC61-422B-9F93-10D5EA5AB2A4"
 		}
 	]
 }

@@ -4,6 +4,12 @@
 	"versionEndIncluding": "5.3.1",
 	"created": "2021-10-13T13:43:30.513",
 	"lastModified": "2021-10-13T13:43:30.513",
-	"cpeLastModified": "2021-10-13T14:22:35.200",
-	"status": "Active"
+	"cpeLastModified": "2023-12-29T18:02:38.650",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:polycom:vvx_400_firmware:5.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "80FFE9FA-18A5-4D25-8715-E1E955906C6C"
+		}
+	]
 }
