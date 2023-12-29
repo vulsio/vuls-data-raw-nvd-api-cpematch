@@ -3,8 +3,8 @@
 	"matchCriteriaId": "E1C16F18-3F9B-4B58-BBA8-69727CCC3D8D",
 	"versionEndIncluding": "3.2.4",
 	"created": "2023-11-30T19:16:06.760",
-	"lastModified": "2023-11-30T19:16:06.760",
-	"cpeLastModified": "2023-11-30T19:16:06.760",
+	"lastModified": "2023-12-28T19:46:49.920",
+	"cpeLastModified": "2023-12-28T19:46:49.920",
 	"status": "Active",
 	"matches": [
 		{
@@ -134,6 +134,10 @@
 		{
 			"cpeName": "cpe:2.3:a:cybernetikz:easy_social_icons:3.2.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "5E755B2F-7A8A-4B35-85C9-946D10756429"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cybernetikz:easy_social_icons:3.2.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6B90A173-B216-40F9-823B-49D390D7EF8A"
 		}
 	]
 }

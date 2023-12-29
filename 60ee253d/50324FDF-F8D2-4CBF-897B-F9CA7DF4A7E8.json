@@ -4,6 +4,12 @@
 	"versionEndIncluding": "2.1.7",
 	"created": "2023-11-14T15:30:40.500",
 	"lastModified": "2023-11-14T15:30:40.500",
-	"cpeLastModified": "2023-11-14T15:30:40.500",
-	"status": "Active"
+	"cpeLastModified": "2023-12-28T19:46:49.920",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:flowfact:flowfact:2.1.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7535F554-B9CF-4188-BE4E-F2D1A2351BBE"
+		}
+	]
 }

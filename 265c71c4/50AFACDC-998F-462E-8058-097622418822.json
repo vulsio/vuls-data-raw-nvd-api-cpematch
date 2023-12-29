@@ -3,8 +3,8 @@
 	"matchCriteriaId": "50AFACDC-998F-462E-8058-097622418822",
 	"versionEndIncluding": "4.0.14",
 	"created": "2023-10-26T14:14:46.287",
-	"lastModified": "2023-10-26T14:14:46.287",
-	"cpeLastModified": "2023-10-26T14:14:46.287",
+	"lastModified": "2023-12-28T19:46:49.920",
+	"cpeLastModified": "2023-12-28T19:46:49.920",
 	"status": "Active",
 	"matches": [
 		{
@@ -182,6 +182,10 @@
 		{
 			"cpeName": "cpe:2.3:a:armemberplugin:armember:4.0.6:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "FA347ACF-C193-4CEB-B2AD-DD386D8CD335"
+		},
+		{
+			"cpeName": "cpe:2.3:a:armemberplugin:armember:4.0.14:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "682F5C9A-2DFE-462D-9967-825638398A3B"
 		}
 	]
 }

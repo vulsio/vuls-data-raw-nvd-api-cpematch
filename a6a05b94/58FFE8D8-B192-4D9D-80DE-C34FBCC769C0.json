@@ -3,8 +3,8 @@
 	"matchCriteriaId": "58FFE8D8-B192-4D9D-80DE-C34FBCC769C0",
 	"versionEndIncluding": "2.1.10",
 	"created": "2023-10-12T13:44:57.497",
-	"lastModified": "2023-10-12T13:44:57.497",
-	"cpeLastModified": "2023-10-12T13:44:57.497",
+	"lastModified": "2023-12-28T19:46:49.920",
+	"cpeLastModified": "2023-12-28T19:46:49.920",
 	"status": "Active",
 	"matches": [
 		{
@@ -122,6 +122,10 @@
 		{
 			"cpeName": "cpe:2.3:a:kau-boys:backend_localization:2.1.8:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "798D10FB-6D14-4E23-BF71-5AFD23A9C755"
+		},
+		{
+			"cpeName": "cpe:2.3:a:kau-boys:backend_localization:2.1.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "920469CE-EAB5-400D-A16F-B500416D55A8"
 		}
 	]
 }

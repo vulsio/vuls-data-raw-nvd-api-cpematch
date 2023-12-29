@@ -4,6 +4,12 @@
 	"versionEndIncluding": "4.6.0",
 	"created": "2023-10-19T13:54:47.087",
 	"lastModified": "2023-10-19T13:54:47.087",
-	"cpeLastModified": "2023-10-19T13:54:47.087",
-	"status": "Active"
+	"cpeLastModified": "2023-12-28T19:46:49.920",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:gillesdumas:which_template_file:4.6.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "29FA0240-745E-4129-B9B9-44B274BB810E"
+		}
+	]
 }
