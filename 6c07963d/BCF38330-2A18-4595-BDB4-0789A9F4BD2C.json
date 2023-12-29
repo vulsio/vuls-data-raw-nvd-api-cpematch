@@ -3,8 +3,8 @@
 	"matchCriteriaId": "BCF38330-2A18-4595-BDB4-0789A9F4BD2C",
 	"versionEndIncluding": "1.5.3",
 	"created": "2023-12-22T19:59:09.567",
-	"lastModified": "2023-12-22T19:59:09.567",
-	"cpeLastModified": "2023-12-22T19:59:09.567",
+	"lastModified": "2023-12-29T10:51:47.557",
+	"cpeLastModified": "2023-12-29T10:51:47.557",
 	"status": "Active",
 	"matches": [
 		{
@@ -206,6 +206,10 @@
 		{
 			"cpeName": "cpe:2.3:a:apache:guacamole:1.5.2:*:*:*:*:*:*:*",
 			"cpeNameId": "DECDCDBB-FF0B-4765-A176-4BCA34AC60EF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:guacamole:1.5.3:*:*:*:*:*:*:*",
+			"cpeNameId": "AC39DD44-667E-4FFA-8CBA-13727D45F1AA"
 		}
 	]
 }

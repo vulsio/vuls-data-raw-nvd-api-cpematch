@@ -4,9 +4,17 @@
 	"versionEndIncluding": "5.0",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"cpeLastModified": "2023-12-29T10:15:30.570",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sir:gnuboard:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DA3F6283-BBFE-4D36-8E90-FCAE735E5F5E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sir:gnuboard:3.40:*:*:*:*:*:*:*",
+			"cpeNameId": "2F0E4A61-27A3-426D-9C48-79B26555AC3A"
+		},
 		{
 			"cpeName": "cpe:2.3:a:sir:gnuboard:4.31.3:*:*:*:*:*:*:*",
 			"cpeNameId": "434355EA-5A17-439E-90AE-B7475D636048"

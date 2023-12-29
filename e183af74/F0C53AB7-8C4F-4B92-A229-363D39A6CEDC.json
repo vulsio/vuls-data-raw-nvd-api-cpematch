@@ -5,6 +5,12 @@
 	"versionEndExcluding": "7.12.0.0",
 	"created": "2023-12-21T16:54:34.023",
 	"lastModified": "2023-12-21T16:54:34.023",
-	"cpeLastModified": "2023-12-21T16:54:34.023",
-	"status": "Active"
+	"cpeLastModified": "2023-12-29T10:10:56.433",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:dell:powerprotect_data_domain:7.0:*:*:*:virtual:*:*:*",
+			"cpeNameId": "4FA55D56-BD77-4A06-A869-8188441C4273"
+		}
+	]
 }

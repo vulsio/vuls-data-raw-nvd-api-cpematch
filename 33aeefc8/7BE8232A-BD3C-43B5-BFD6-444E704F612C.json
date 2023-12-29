@@ -3,7 +3,7 @@
 	"matchCriteriaId": "7BE8232A-BD3C-43B5-BFD6-444E704F612C",
 	"created": "2022-02-11T14:44:39.863",
 	"lastModified": "2022-02-11T14:44:39.863",
-	"cpeLastModified": "2022-02-14T15:23:31.563",
+	"cpeLastModified": "2023-12-29T10:15:30.570",
 	"status": "Active",
 	"matches": [
 		{
@@ -17,6 +17,10 @@
 		{
 			"cpeName": "cpe:2.3:o:siemens:simatic_s7-plcsim_advanced_firmware:4.0:service_pack_1:*:*:*:*:*:*",
 			"cpeNameId": "44DA57B2-7B78-4E7B-B923-865359596A01"
+		},
+		{
+			"cpeName": "cpe:2.3:o:siemens:simatic_s7-plcsim_advanced_firmware:6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F349E656-A605-40A4-8BAC-AE794FDECBE5"
 		}
 	]
 }

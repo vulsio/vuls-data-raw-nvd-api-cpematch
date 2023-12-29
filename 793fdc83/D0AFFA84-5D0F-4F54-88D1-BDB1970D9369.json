@@ -3,8 +3,8 @@
 	"matchCriteriaId": "D0AFFA84-5D0F-4F54-88D1-BDB1970D9369",
 	"versionEndExcluding": "23.12.13205.0",
 	"created": "2023-12-26T12:50:06.030",
-	"lastModified": "2023-12-26T12:50:06.030",
-	"cpeLastModified": "2023-12-26T12:50:06.030",
+	"lastModified": "2023-12-29T10:15:30.570",
+	"cpeLastModified": "2023-12-29T10:15:30.570",
 	"status": "Active",
 	"matches": [
 		{
@@ -42,6 +42,10 @@
 		{
 			"cpeName": "cpe:2.3:a:m-files:m-files_server:23.6.12695.3:*:*:*:*:*:*:*",
 			"cpeNameId": "0A5862B4-508C-474D-8595-1645532E6920"
+		},
+		{
+			"cpeName": "cpe:2.3:a:m-files:m-files_server:23.12.13195.0:*:*:*:*:*:*:*",
+			"cpeNameId": "121BC4CA-FB61-427B-AF03-BC89A35B9962"
 		}
 	]
 }

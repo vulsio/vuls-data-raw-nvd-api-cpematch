@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:sap:graphical_user_interface:sap_basis_758:*:*:*:*:java:*:*",
 	"matchCriteriaId": "BF01ABB2-2208-4BEB-9BE3-1A9966A52409",
 	"created": "2023-12-18T18:38:59.777",
-	"lastModified": "2023-12-18T18:38:59.777",
-	"cpeLastModified": "2023-12-18T18:38:59.777",
-	"status": "Active"
+	"lastModified": "2023-12-29T10:46:53.987",
+	"cpeLastModified": "2023-12-29T10:46:53.987",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sap:graphical_user_interface:sap_basis_758:*:*:*:*:java:*:*",
+			"cpeNameId": "21229798-A0FC-4F99-9A9A-987D16B6DF0A"
+		}
+	]
 }

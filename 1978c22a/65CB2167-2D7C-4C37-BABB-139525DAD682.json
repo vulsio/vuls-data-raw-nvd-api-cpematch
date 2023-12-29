@@ -5,12 +5,16 @@
 	"versionEndIncluding": "5.5",
 	"created": "2023-04-20T13:54:14.200",
 	"lastModified": "2023-04-20T13:54:14.200",
-	"cpeLastModified": "2023-12-16T03:29:20.353",
+	"cpeLastModified": "2023-12-29T10:15:30.570",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:insyde:insydeh2o:5.2:*:*:*:*:*:*:*",
 			"cpeNameId": "F2FC8A2F-18C7-4C86-95AC-164281D4CEC6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:insyde:insydeh2o:5.2.05.27.29:*:*:*:*:*:*:*",
+			"cpeNameId": "869F07F0-2725-4523-B333-8EB1A5E80BF6"
 		},
 		{
 			"cpeName": "cpe:2.3:a:insyde:insydeh2o:5.2.05.28.22:*:*:*:*:*:*:*",
@@ -27,6 +31,10 @@
 		{
 			"cpeName": "cpe:2.3:a:insyde:insydeh2o:5.3:*:*:*:*:*:*:*",
 			"cpeNameId": "5C9AFB7A-4BF0-4E7C-A9F7-9DE25D2CF172"
+		},
+		{
+			"cpeName": "cpe:2.3:a:insyde:insydeh2o:5.3.05.36.29:*:*:*:*:*:*:*",
+			"cpeNameId": "107B3712-68C0-4ACF-BC60-822BFB29A0FC"
 		},
 		{
 			"cpeName": "cpe:2.3:a:insyde:insydeh2o:5.3.05.37.17:*:*:*:*:*:*:*",
@@ -47,6 +55,10 @@
 		{
 			"cpeName": "cpe:2.3:a:insyde:insydeh2o:5.4:*:*:*:*:*:*:*",
 			"cpeNameId": "F4D8849B-D92E-4C7C-AE8A-1F7242C05D18"
+		},
+		{
+			"cpeName": "cpe:2.3:a:insyde:insydeh2o:5.4.05.44.13:*:*:*:*:*:*:*",
+			"cpeNameId": "13EEF986-492F-464B-850D-AFE05ACA2D4D"
 		},
 		{
 			"cpeName": "cpe:2.3:a:insyde:insydeh2o:5.4.05.45.17:*:*:*:*:*:*:*",

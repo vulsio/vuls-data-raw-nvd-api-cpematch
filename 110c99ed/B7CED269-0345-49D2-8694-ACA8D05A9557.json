@@ -4,9 +4,13 @@
 	"versionEndExcluding": "1.1.13",
 	"created": "2023-12-18T18:30:53.433",
 	"lastModified": "2023-12-19T01:31:08.807",
-	"cpeLastModified": "2023-12-19T01:31:08.807",
+	"cpeLastModified": "2023-12-29T10:15:30.570",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sunnytoo:sturls:-:*:*:*:*:prestashop:*:*",
+			"cpeNameId": "696C2B46-AB8E-4FB1-A21C-DD3733081377"
+		},
 		{
 			"cpeName": "cpe:2.3:a:sunnytoo:sturls:1.0.0:*:*:*:*:prestashop:*:*",
 			"cpeNameId": "DAB69CF0-88FF-4F27-B16D-59B211CA1057"

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "A49E9157-3440-47C5-B730-B1F3BE7240C9",
 	"versionEndExcluding": "18.20.1",
 	"created": "2023-12-20T13:09:15.657",
-	"lastModified": "2023-12-20T13:09:15.657",
-	"cpeLastModified": "2023-12-20T13:09:15.657",
+	"lastModified": "2023-12-29T10:15:30.570",
+	"cpeLastModified": "2023-12-29T10:15:30.570",
 	"status": "Active",
 	"matches": [
 		{
@@ -4486,6 +4486,10 @@
 		{
 			"cpeName": "cpe:2.3:a:digium:asterisk:18.11.2:*:*:*:*:*:*:*",
 			"cpeNameId": "A2D815DE-5AEC-4144-8208-3BFFA19A7FE5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:digium:asterisk:18.20.0:*:*:*:*:*:*:*",
+			"cpeNameId": "1CAAD80B-BF04-48C5-84C6-6534CB34A93D"
 		}
 	]
 }

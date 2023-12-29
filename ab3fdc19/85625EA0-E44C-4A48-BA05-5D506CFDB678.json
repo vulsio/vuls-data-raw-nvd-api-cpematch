@@ -5,12 +5,16 @@
 	"versionEndIncluding": "26",
 	"created": "2023-10-23T15:03:28.600",
 	"lastModified": "2023-10-23T15:03:28.600",
-	"cpeLastModified": "2023-10-23T15:03:28.600",
+	"cpeLastModified": "2023-12-29T10:15:30.570",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:o:wago:edge_controller_firmware:22:*:*:*:*:*:*:*",
 			"cpeNameId": "1CE35C30-C452-45F9-B6E6-13548DD1D184"
+		},
+		{
+			"cpeName": "cpe:2.3:o:wago:edge_controller_firmware:25:*:*:*:*:*:*:*",
+			"cpeNameId": "77A0AE73-9FBB-4CDF-A9D6-1C645B789E39"
 		}
 	]
 }

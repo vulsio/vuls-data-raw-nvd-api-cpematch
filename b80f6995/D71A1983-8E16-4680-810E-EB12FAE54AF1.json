@@ -4,12 +4,16 @@
 	"versionEndIncluding": "2.3.84",
 	"created": "2020-01-27T18:59:10.033",
 	"lastModified": "2020-01-27T18:59:10.033",
-	"cpeLastModified": "2020-01-28T14:18:48.170",
+	"cpeLastModified": "2023-12-29T10:15:30.570",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:gentoo:portage:-:*:*:*:*:*:*:*",
 			"cpeNameId": "90B31C7C-014B-42C6-A38A-6F59FB274484"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gentoo:portage:2.0.50:-:*:*:*:*:*:*",
+			"cpeNameId": "01070CAC-16EB-436B-B2C8-38A254A97DA6"
 		},
 		{
 			"cpeName": "cpe:2.3:a:gentoo:portage:2.0.51.22:r3:*:*:*:*:*:*",

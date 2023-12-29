@@ -3,8 +3,8 @@
 	"matchCriteriaId": "992B8E90-AD8F-4E73-8277-E8EE62D408A9",
 	"versionEndIncluding": "4.9.3",
 	"created": "2023-08-22T17:55:54.010",
-	"lastModified": "2023-08-22T17:55:54.010",
-	"cpeLastModified": "2023-08-22T17:55:54.010",
+	"lastModified": "2023-12-29T10:15:30.570",
+	"cpeLastModified": "2023-12-29T10:15:30.570",
 	"status": "Active",
 	"matches": [
 		{
@@ -390,6 +390,14 @@
 		{
 			"cpeName": "cpe:2.3:a:spiffyplugins:spiffy_calendar:4.9.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "CC7D2A96-127C-4F5A-ACB8-DED271EFE95A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:spiffyplugins:spiffy_calendar:4.9.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "270DE835-F8C4-4BBF-B6BE-25C147D60A09"
+		},
+		{
+			"cpeName": "cpe:2.3:a:spiffyplugins:spiffy_calendar:4.9.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "30A0B2A4-910F-42B8-B9BA-286CB6CC4559"
 		}
 	]
 }

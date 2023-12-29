@@ -5,7 +5,7 @@
 	"versionEndIncluding": "7.3.2",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"cpeLastModified": "2023-12-29T10:45:38.920",
 	"status": "Active",
 	"matches": [
 		{
@@ -71,6 +71,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:-:*:*:*:*:*:*",
 			"cpeNameId": "E7D8B16A-5465-4196-AE86-78CE2F4ED303"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:if01:*:*:*:*:*:*",
+			"cpeNameId": "E05B7FBD-7243-407A-8465-B0AB2A7DB6EF"
 		},
 		{
 			"cpeName": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:interim_fix_01:*:*:*:*:*:*",

@@ -5,6 +5,12 @@
 	"versionEndExcluding": "6.07",
 	"created": "2023-12-26T18:13:36.693",
 	"lastModified": "2023-12-26T18:13:36.693",
-	"cpeLastModified": "2023-12-26T18:13:36.693",
-	"status": "Active"
+	"cpeLastModified": "2023-12-29T10:03:39.537",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:paxton-access:net2:6.02:*:*:*:*:*:*:*",
+			"cpeNameId": "AC8BA68B-2380-4AFA-8144-E44299D53225"
+		}
+	]
 }

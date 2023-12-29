@@ -3,12 +3,16 @@
 	"matchCriteriaId": "2D2DB2B2-6B07-44EC-A1BE-6E5B8A502D87",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2020-01-28T14:18:48.220",
+	"cpeLastModified": "2023-12-29T10:15:30.570",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:gentoo:portage:-:*:*:*:*:*:*:*",
 			"cpeNameId": "90B31C7C-014B-42C6-A38A-6F59FB274484"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gentoo:portage:2.0.50:-:*:*:*:*:*:*",
+			"cpeNameId": "01070CAC-16EB-436B-B2C8-38A254A97DA6"
 		},
 		{
 			"cpeName": "cpe:2.3:a:gentoo:portage:2.0.51.22:r3:*:*:*:*:*:*",

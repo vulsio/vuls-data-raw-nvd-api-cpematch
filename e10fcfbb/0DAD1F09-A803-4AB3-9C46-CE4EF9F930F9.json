@@ -4,12 +4,16 @@
 	"versionEndExcluding": "80.0.22",
 	"created": "2019-07-30T17:26:24.350",
 	"lastModified": "2019-07-30T17:26:24.350",
-	"cpeLastModified": "2023-05-09T11:54:31.487",
+	"cpeLastModified": "2023-12-29T10:15:30.570",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:cpanel:cpanel:-:*:*:*:*:*:*:*",
 			"cpeNameId": "F0737248-155C-4EF5-AB46-16BCBCA2F7AD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cpanel:cpanel:9.4.1:*:*:*:*:*:*:*",
+			"cpeNameId": "623E1A06-B094-499A-99F6-1C2015772892"
 		},
 		{
 			"cpeName": "cpe:2.3:a:cpanel:cpanel:11.34.0:*:*:*:*:*:*:*",

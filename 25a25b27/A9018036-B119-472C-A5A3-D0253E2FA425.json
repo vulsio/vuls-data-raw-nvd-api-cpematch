@@ -3,8 +3,8 @@
 	"matchCriteriaId": "A9018036-B119-472C-A5A3-D0253E2FA425",
 	"versionEndIncluding": "25",
 	"created": "2023-11-27T13:40:42.237",
-	"lastModified": "2023-11-27T13:40:42.237",
-	"cpeLastModified": "2023-11-27T13:40:42.237",
+	"lastModified": "2023-12-29T10:15:30.570",
+	"cpeLastModified": "2023-12-29T10:15:30.570",
 	"status": "Active",
 	"matches": [
 		{
@@ -34,6 +34,10 @@
 		{
 			"cpeName": "cpe:2.3:o:wago:touch_panel_600_marine_firmware:24:*:*:*:*:*:*:*",
 			"cpeNameId": "6F0569FE-8A81-4538-BB9A-D255FC88182F"
+		},
+		{
+			"cpeName": "cpe:2.3:o:wago:touch_panel_600_marine_firmware:25:*:*:*:*:*:*:*",
+			"cpeNameId": "97378DF7-818B-466A-A443-023599FD5BC8"
 		}
 	]
 }
