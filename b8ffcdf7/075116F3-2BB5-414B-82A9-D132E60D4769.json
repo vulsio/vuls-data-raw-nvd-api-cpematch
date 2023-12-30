@@ -3,8 +3,8 @@
 	"matchCriteriaId": "075116F3-2BB5-414B-82A9-D132E60D4769",
 	"versionEndExcluding": "2.9.3",
 	"created": "2023-12-29T17:34:32.073",
-	"lastModified": "2023-12-29T17:34:32.073",
-	"cpeLastModified": "2023-12-29T17:34:32.073",
+	"lastModified": "2023-12-29T18:11:53.980",
+	"cpeLastModified": "2023-12-29T19:30:51.297",
 	"status": "Active",
 	"matches": [
 		{
@@ -42,6 +42,78 @@
 		{
 			"cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:beta5:*:*:*:*:*:*",
 			"cpeNameId": "796DB656-D878-41C2-8451-C2563EE281E8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "81762C65-B28F-4914-BDEF-F204122A829A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "C871EA3E-4965-4A03-8C05-478C50CED080"
+		},
+		{
+			"cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5465D7AF-152C-4841-A6C1-F6A1E555600B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "06F7C714-2D50-4B8A-9DC5-402270693F0F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "F01B9834-46E4-4708-9EA4-D851450E3D70"
+		},
+		{
+			"cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "3B27C265-1AFC-4F08-9A71-C2493AEE9E1F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.4.1:*:*:*:*:*:*:*",
+			"cpeNameId": "985B007F-AF54-4279-AA77-089FE56238C3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.4.2:*:*:*:*:*:*:*",
+			"cpeNameId": "ED79B12C-B6A4-4AF2-A215-260FEC016BC8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.4.3:*:*:*:*:*:*:*",
+			"cpeNameId": "A75E38AF-2EE6-46C8-BFA2-AD15C7C28457"
+		},
+		{
+			"cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "8D7AE73C-1C02-4DEB-B0AD-C1D9B56B0039"
+		},
+		{
+			"cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E6B8F250-59B4-4759-B9D8-3D7F59951927"
+		},
+		{
+			"cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.6.1:*:*:*:*:*:*:*",
+			"cpeNameId": "3E8D1CBF-7E7E-4946-9DED-93BD8409DEDF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "43F4397B-97F7-4EF5-9283-9A3F49FBC8AD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.7.1:*:*:*:*:*:*:*",
+			"cpeNameId": "AFB85827-837D-4541-989A-1C05F9ADA6D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.8.0:*:*:*:*:*:*:*",
+			"cpeNameId": "1B0D3FBD-CFC8-41BA-BA44-1FF416892D7E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.9.0:*:*:*:*:*:*:*",
+			"cpeNameId": "3E768DDC-C8AD-4ABB-9105-179E98B1E383"
+		},
+		{
+			"cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.9.1:*:*:*:*:*:*:*",
+			"cpeNameId": "E60A5218-999B-49D3-9D3E-04866BA5391C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.9.2:*:*:*:*:*:*:*",
+			"cpeNameId": "350E391D-B1AC-4E48-87E0-D52E1AB82282"
 		}
 	]
 }

@@ -5,6 +5,12 @@
 	"versionEndExcluding": "9.00.1507",
 	"created": "2023-12-25T02:28:50.457",
 	"lastModified": "2023-12-25T02:30:25.200",
-	"cpeLastModified": "2023-12-25T02:28:50.457",
-	"status": "Active"
+	"cpeLastModified": "2023-12-29T18:13:53.080",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:gallagher:command_centre:9.00:*:*:*:*:*:*:*",
+			"cpeNameId": "FCED8011-172B-46A3-BBA6-1F1FDA6F0DBA"
+		}
+	]
 }

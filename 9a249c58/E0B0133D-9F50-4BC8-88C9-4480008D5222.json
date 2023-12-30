@@ -3,8 +3,8 @@
 	"matchCriteriaId": "E0B0133D-9F50-4BC8-88C9-4480008D5222",
 	"versionEndIncluding": "1.3.2",
 	"created": "2023-12-27T16:56:08.517",
-	"lastModified": "2023-12-27T16:56:08.517",
-	"cpeLastModified": "2023-12-27T16:56:08.517",
+	"lastModified": "2023-12-29T19:30:51.297",
+	"cpeLastModified": "2023-12-29T19:30:51.297",
 	"status": "Active",
 	"matches": [
 		{
@@ -134,6 +134,50 @@
 		{
 			"cpeName": "cpe:2.3:a:awplife:event_monster:1.2.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "AC9C09E8-3929-474E-8152-66527A6C5ABC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:awplife:event_monster:1.2.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "77B9F6D9-68D4-4F1D-8549-8632658B956B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:awplife:event_monster:1.2.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "02266BE7-ABA1-4848-AAA1-EECD59E4256E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:awplife:event_monster:1.2.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "976BDD86-6FAA-43CC-BDFD-CF0FA60F52F3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:awplife:event_monster:1.2.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "32A6703F-8698-4BDB-94A3-7FE8860B44A0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:awplife:event_monster:1.2.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "558456C7-151D-40F4-8971-4E2089867A91"
+		},
+		{
+			"cpeName": "cpe:2.3:a:awplife:event_monster:1.2.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A85EFD84-018D-493C-9621-CAE4CBCB47F3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:awplife:event_monster:1.2.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "56D03184-A5F3-4073-9B25-200337844157"
+		},
+		{
+			"cpeName": "cpe:2.3:a:awplife:event_monster:1.2.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "33EF3599-9817-42F4-865D-FD9B57A57701"
+		},
+		{
+			"cpeName": "cpe:2.3:a:awplife:event_monster:1.3.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C5C71C00-6A9D-462A-9AA2-E6726758FBDF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:awplife:event_monster:1.3.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "24D53729-0683-413B-B115-168853B033DB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:awplife:event_monster:1.3.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "69F982C4-AEE3-49BD-B3C3-B56BD427F877"
 		}
 	]
 }

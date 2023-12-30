@@ -5,6 +5,12 @@
 	"versionEndExcluding": "9.00.231204b",
 	"created": "2023-12-26T14:37:00.037",
 	"lastModified": "2023-12-26T14:37:00.037",
-	"cpeLastModified": "2023-12-26T14:37:00.037",
-	"status": "Active"
+	"cpeLastModified": "2023-12-29T18:13:53.080",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:gallagher:controller_7000_firmware:9.00:*:*:*:*:*:*:*",
+			"cpeNameId": "9BBE0641-D834-4865-86EB-CD3EE36F2FBC"
+		}
+	]
 }
