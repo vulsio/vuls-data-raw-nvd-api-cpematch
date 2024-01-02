@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2021.2.16",
 	"created": "2021-10-19T14:15:50.077",
 	"lastModified": "2021-10-19T14:15:50.077",
-	"cpeLastModified": "2021-10-21T18:34:24.943",
+	"cpeLastModified": "2024-01-02T15:29:17.017",
 	"status": "Active",
 	"matches": [
 		{
@@ -40,6 +40,38 @@
 			"cpeNameId": "44F5CC38-151F-4046-A898-9CDCAA566BF5"
 		},
 		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2019.1.18.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5DA80E65-67F2-4416-B852-0572F1F7030D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2019.1.19.0:*:*:*:*:*:*:*",
+			"cpeNameId": "6D044098-300E-406C-BCAA-28B4F378AF77"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2019.1.20.0:*:*:*:*:*:*:*",
+			"cpeNameId": "0A668026-0685-496C-B6AA-C78C7013F66D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2019.1.21.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B76C1D16-B40D-4243-A43E-4644CC69B130"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2019.1.22.0:*:*:*:*:*:*:*",
+			"cpeNameId": "2FB2CAAB-C454-41D2-BE13-B609AC5A3A46"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2019.1.23.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D4E2B167-02DB-4355-9254-B788B6602675"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2019.1.24.0:*:*:*:*:*:*:*",
+			"cpeNameId": "FED73661-0930-42A8-AFA0-55C42ADC56A0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2019.1.25.0:*:*:*:*:*:*:*",
+			"cpeNameId": "7CFC404C-CF42-4549-84E5-8112E3380621"
+		},
+		{
 			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2019.1.26.0:*:*:*:*:*:*:*",
 			"cpeNameId": "89392B99-C5D0-44D1-B070-653481D3557F"
 		},
@@ -60,6 +92,10 @@
 			"cpeNameId": "C7653A4F-5618-405E-A468-B439F36B690C"
 		},
 		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2019.1.31.0:*:*:*:*:*:*:*",
+			"cpeNameId": "43C6EFA7-C0B7-4EA0-ADB1-FE7E47C06628"
+		},
+		{
 			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2019.1.32.0:*:*:*:*:*:*:*",
 			"cpeNameId": "3EADA9AC-262E-4D35-A584-271DFB7F1941"
 		},
@@ -68,8 +104,20 @@
 			"cpeNameId": "BA5A9E7F-62F1-4408-8E6A-16543B583ACC"
 		},
 		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2019.1.34.0:*:*:*:*:*:*:*",
+			"cpeNameId": "9338D1AA-5C6A-43AD-AA9E-AC38DC379D70"
+		},
+		{
 			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2019.1.35.0:*:*:*:*:*:*:*",
 			"cpeNameId": "71750B6F-87A3-4E3C-B663-84DD19D51577"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2019.1.36.0:*:*:*:*:*:*:*",
+			"cpeNameId": "65375E70-EC6E-430D-857C-5CD4BF3F9565"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2019.1.37.0:*:*:*:*:*:*:*",
+			"cpeNameId": "71EB793E-52CB-43D4-BD28-DB7D2F43F00F"
 		},
 		{
 			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2019.1.38.0:*:*:*:*:*:*:*",
@@ -92,8 +140,20 @@
 			"cpeNameId": "4D08833F-FA33-4269-A89E-0FD63D4D4457"
 		},
 		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2019.2.15.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F0CD9006-A648-4830-85FA-53F959CA0188"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2019.2.16.0:*:*:*:*:*:*:*",
+			"cpeNameId": "8D3B9664-1340-46FA-B016-C30EDA1A0B1C"
+		},
+		{
 			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2019.2.18.0:*:*:*:*:*:*:*",
 			"cpeNameId": "38345E87-F96A-4807-91CC-82DDFD124CAB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2019.2.19.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D4738FB6-C891-4E80-89DD-C05B08177EA0"
 		},
 		{
 			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2019.2.20.0:*:*:*:*:*:*:*",
@@ -104,8 +164,28 @@
 			"cpeNameId": "9347D4C2-51CA-43DA-BD30-BD405FF00E34"
 		},
 		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2019.2.22.0:*:*:*:*:*:*:*",
+			"cpeNameId": "17A2E64D-5FD0-466B-B346-2CC368437FCB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2019.2.23.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F89CE239-D031-4AA3-AFBE-06D6B9181748"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2019.2.24.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C536AE4C-DCFB-4081-8BC2-8D57A4F5B1A1"
+		},
+		{
 			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2020.1.10.0:*:*:*:*:*:*:*",
 			"cpeNameId": "000457D3-D3E6-4A17-84C4-434BDD504F63"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2020.1.11.0:*:*:*:*:*:*:*",
+			"cpeNameId": "41B9F6CD-D5A3-402F-8D4D-C3D56BB5DA26"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2020.1.12.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E452E6F5-46DC-4D32-919C-31A611D00E79"
 		},
 		{
 			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2020.1.13.0:*:*:*:*:*:*:*",
@@ -114,6 +194,18 @@
 		{
 			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2020.1.14.0:*:*:*:*:*:*:*",
 			"cpeNameId": "7CAA0439-F11A-4775-9448-F1A6FCFA23E9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2020.1.15.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C27D1F1C-C812-43B7-9052-EF2A78423994"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2020.1.16.0:*:*:*:*:*:*:*",
+			"cpeNameId": "0628CB24-B75C-4A90-B993-0637E449CB1C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2020.1.17.0:*:*:*:*:*:*:*",
+			"cpeNameId": "44840CF5-25DA-403B-9D1A-39A5A0FD04B3"
 		},
 		{
 			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2020.1.19.0:*:*:*:*:*:*:*",
@@ -280,8 +372,88 @@
 			"cpeNameId": "08C7A323-95B7-4490-A4D0-41E90809C474"
 		},
 		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2021.1.24.0:*:*:*:*:*:*:*",
+			"cpeNameId": "BBE04879-0520-4631-9C16-2707BD9CD128"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2021.1.25.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D26AAE24-3522-49EE-AC14-23BC3BD48633"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2021.1.26.0:*:*:*:*:*:*:*",
+			"cpeNameId": "CD63F148-37C9-430C-B486-80D5F7159253"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2021.1.27.0:*:*:*:*:*:*:*",
+			"cpeNameId": "DE5E2ACB-A9CA-4B77-87A9-13989BC8666B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2021.1.29.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B5B85547-6FB0-4415-982E-C945631DEA04"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2021.1.30.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D6F1FA90-526F-42BA-B6F7-D73C019212CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2021.1.31.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A9D1BFEA-43E6-4372-8225-1EF1D309D6EB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2021.1.32.0:*:*:*:*:*:*:*",
+			"cpeNameId": "388EFBAF-D73B-44C7-AC72-7A76206E215D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2021.1.33.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F10850F8-E791-460D-BF74-4A98FCF0AD0D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2021.1.34.0:*:*:*:*:*:*:*",
+			"cpeNameId": "7CBDFF0E-14C0-4EB1-AAE6-96E18DBC5CE2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2021.1.35.0:*:*:*:*:*:*:*",
+			"cpeNameId": "8638DAC8-AAAF-483C-A142-18627E447388"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2021.1.36.0:*:*:*:*:*:*:*",
+			"cpeNameId": "6CEC8FEE-B4FC-4730-AA97-AA7DBA21CB6E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2021.1.38.0:*:*:*:*:*:*:*",
+			"cpeNameId": "9622AC47-0DD4-47A7-B3C5-C4AF464FF6E9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2021.1.40.0:*:*:*:*:*:*:*",
+			"cpeNameId": "BEE561C1-3B53-43BB-B1B6-2DAC4704D876"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2021.1.41.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5A7ED8B9-6015-4DC1-BED7-2CC43B832AC1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2021.1.42.0:*:*:*:*:*:*:*",
+			"cpeNameId": "044D37FE-58E6-4289-804B-5059EB2F84BB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2021.1.43.0:*:*:*:*:*:*:*",
+			"cpeNameId": "441DCB2F-1E6C-463C-83C9-C04139254229"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2021.1.44.0:*:*:*:*:*:*:*",
+			"cpeNameId": "4D41F77C-DFF8-4FA6-8526-439C570C227A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2021.2.13.0:*:*:*:*:*:*:*",
+			"cpeNameId": "29C84E2D-916F-4039-99C7-08FDF31F9965"
+		},
+		{
 			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2021.2.14:*:*:*:*:*:*:*",
 			"cpeNameId": "5230E179-281F-4A29-9A2E-CDEA51893F5B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:devolutions:remote_desktop_manager:2021.2.15.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5C0F746F-D9BE-4EDB-8B9D-C5D96A792349"
 		}
 	]
 }
