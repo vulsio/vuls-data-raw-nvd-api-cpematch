@@ -3,8 +3,8 @@
 	"matchCriteriaId": "230BD176-20CA-4E61-BD08-AB11F8ACBF0B",
 	"versionEndExcluding": "0.50.2",
 	"created": "2024-01-02T14:54:38.917",
-	"lastModified": "2024-01-02T14:54:38.917",
-	"cpeLastModified": "2024-01-02T14:54:38.917",
+	"lastModified": "2024-01-02T19:52:29.777",
+	"cpeLastModified": "2024-01-02T19:52:29.777",
 	"status": "Active",
 	"matches": [
 		{
@@ -326,6 +326,34 @@
 		{
 			"cpeName": "cpe:2.3:a:navidrome:navidrome:0.47.5:*:*:*:*:*:*:*",
 			"cpeNameId": "E09F43FF-A42D-4B7D-B2EB-6E916D94D21E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:navidrome:navidrome:0.48.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F4C713BB-FB15-496B-B8CD-8E046333623A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:navidrome:navidrome:0.49.0:*:*:*:*:*:*:*",
+			"cpeNameId": "DFC25DD0-7CAA-4173-95C4-266D9A8B283E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:navidrome:navidrome:0.49.1:*:*:*:*:*:*:*",
+			"cpeNameId": "FE2BB802-F344-483D-9CC3-887C42B06F81"
+		},
+		{
+			"cpeName": "cpe:2.3:a:navidrome:navidrome:0.49.2:*:*:*:*:*:*:*",
+			"cpeNameId": "830D66F0-726D-4EE0-B656-294C7838D57F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:navidrome:navidrome:0.49.3:*:*:*:*:*:*:*",
+			"cpeNameId": "9C55FC7C-CFED-433E-9CF8-0953A6CEAF7C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:navidrome:navidrome:0.50.0:*:*:*:*:*:*:*",
+			"cpeNameId": "9FDFF56D-329D-4F62-8FA4-97A93F543604"
+		},
+		{
+			"cpeName": "cpe:2.3:a:navidrome:navidrome:0.50.1:*:*:*:*:*:*:*",
+			"cpeNameId": "63382608-10F7-4A8E-A278-13B0AD6BC610"
 		}
 	]
 }

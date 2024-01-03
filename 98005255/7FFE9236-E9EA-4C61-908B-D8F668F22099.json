@@ -1,9 +1,9 @@
 {
 	"criteria": "cpe:2.3:a:engelsystem:engelsystem:*:*:*:*:*:*:*:*",
-	"matchCriteriaId": "B0F10C38-ED39-422A-8507-FA4099FAEE32",
-	"versionEndExcluding": "2023-09-18",
-	"created": "2023-10-23T14:45:11.910",
-	"lastModified": "2023-12-29T18:02:38.650",
+	"matchCriteriaId": "7FFE9236-E9EA-4C61-908B-D8F668F22099",
+	"versionEndExcluding": "3.4.1",
+	"created": "2024-01-02T18:34:06.323",
+	"lastModified": "2024-01-02T19:46:52.817",
 	"cpeLastModified": "2024-01-02T19:46:52.817",
 	"status": "Active",
 	"matches": [
@@ -30,10 +30,6 @@
 		{
 			"cpeName": "cpe:2.3:a:engelsystem:engelsystem:3.4.0:*:*:*:*:*:*:*",
 			"cpeNameId": "3A79895D-FFEF-4D53-94AA-F9E09084AECC"
-		},
-		{
-			"cpeName": "cpe:2.3:a:engelsystem:engelsystem:3.4.1:*:*:*:*:*:*:*",
-			"cpeNameId": "2BF3B9BF-05B9-406E-B5C3-1248F853F035"
 		}
 	]
 }

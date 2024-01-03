@@ -3,8 +3,8 @@
 	"matchCriteriaId": "C6B06EE4-0DFA-4550-AC4A-E16005231E2B",
 	"versionEndExcluding": "23.11.4.1",
 	"created": "2023-12-14T16:45:31.617",
-	"lastModified": "2023-12-14T16:45:31.617",
-	"cpeLastModified": "2023-12-14T16:45:31.617",
+	"lastModified": "2024-01-02T19:48:50.323",
+	"cpeLastModified": "2024-01-02T19:48:50.323",
 	"status": "Active",
 	"matches": [
 		{
@@ -826,6 +826,58 @@
 		{
 			"cpeName": "cpe:2.3:a:mindsdb:mindsdb:23.8.1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "9986078A-EC9C-4D97-9F4E-53FC4A8EFF3D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mindsdb:mindsdb:23.8.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "10823B89-8B28-48BE-8D7E-1795F95049C7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mindsdb:mindsdb:23.9.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "340F3705-3531-4486-BA7C-6F247D2FEA5F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mindsdb:mindsdb:23.9.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "A7803BD2-9B30-4EC2-AF93-9A34E2FFDED6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mindsdb:mindsdb:23.9.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "EBF375E9-80D9-4BD5-BB61-9EAED4AE70BE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mindsdb:mindsdb:23.9.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "FDE67AC4-1AFD-4800-AD7C-28AAFA29BCC4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mindsdb:mindsdb:23.9.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "37A6EAFC-A489-40C5-9EBE-ECE0599D7C98"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mindsdb:mindsdb:23.9.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "A305973D-CDA9-4E9B-A06D-81DCA029A47B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mindsdb:mindsdb:23.10.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "1C0065C2-7B8B-429F-ABF5-49A9460798B7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mindsdb:mindsdb:23.10.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5EC02502-FDA5-40A3-AC1C-D6B2730088B9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mindsdb:mindsdb:23.10.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "9EA4C094-47AD-46A1-8C2C-C3561CD969ED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mindsdb:mindsdb:23.10.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "BFAC9C15-46DE-4E98-B2D8-B32087EED631"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mindsdb:mindsdb:23.11.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "0D2FF83F-447D-4ABE-8BBA-60C17BE0B825"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mindsdb:mindsdb:23.11.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "790DCB16-1091-4DAB-824D-6A8CDBB1A49E"
 		}
 	]
 }
