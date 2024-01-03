@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:avepoint:docave:6.0:*:*:*:*:*:*:*",
 	"matchCriteriaId": "71DD0C38-3F11-4881-AD86-90DAE9DAF00A",
 	"created": "2022-08-02T15:36:45.600",
-	"lastModified": "2023-12-21T03:00:24.573",
-	"cpeLastModified": "2023-12-20T22:34:39.627",
-	"status": "Inactive"
+	"lastModified": "2024-01-03T13:48:06.797",
+	"cpeLastModified": "2024-01-03T13:48:06.797",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:avepoint:docave:6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "0AB54719-E562-40A3-B3FA-B78828CBB341"
+		}
+	]
 }

@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:hp:openvms_alpha:1.5:*:*:*:*:*:*:*",
 	"matchCriteriaId": "DFAD6160-C1C4-4CB4-901E-76C4EB15ADCC",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2023-12-21T03:00:24.573",
-	"cpeLastModified": "2023-12-20T22:34:39.627",
-	"status": "Inactive"
+	"lastModified": "2024-01-03T13:48:06.797",
+	"cpeLastModified": "2024-01-03T13:48:06.797",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hp:openvms_alpha:1.5:*:*:*:*:*:*:*",
+			"cpeNameId": "0FB29A6E-1E53-408B-BE3C-0CA6B4EDD179"
+		}
+	]
 }

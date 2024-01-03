@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:rancher:rke2:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "D1C5794C-58C0-4CF3-BE7B-48500B0D4466",
 	"created": "2022-10-31T14:24:21.297",
-	"lastModified": "2023-12-21T03:00:24.573",
-	"cpeLastModified": "2023-12-20T22:34:39.627",
-	"status": "Inactive"
+	"lastModified": "2024-01-03T13:48:06.797",
+	"cpeLastModified": "2024-01-03T13:48:06.797",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:rancher:rke2:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E50CBA1C-95BF-41DC-AB9F-E01C2772A6CF"
+		}
+	]
 }

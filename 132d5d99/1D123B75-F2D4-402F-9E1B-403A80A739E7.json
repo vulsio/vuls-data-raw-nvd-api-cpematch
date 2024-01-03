@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:microsoft:active_directory:*:*:*:*:*:*:*:*",
 	"matchCriteriaId": "1D123B75-F2D4-402F-9E1B-403A80A739E7",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2023-12-21T03:00:24.573",
-	"cpeLastModified": "2023-12-20T22:34:39.627",
-	"status": "Inactive"
+	"lastModified": "2024-01-03T13:48:06.797",
+	"cpeLastModified": "2024-01-03T13:48:06.797",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:active_directory:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0C87E61B-6974-4A89-9051-70715609E968"
+		}
+	]
 }

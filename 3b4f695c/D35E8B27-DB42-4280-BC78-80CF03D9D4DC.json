@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:ibm:aspera_application_platform_on_demand:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "D35E8B27-DB42-4280-BC78-80CF03D9D4DC",
 	"created": "2022-03-30T17:13:59.077",
-	"lastModified": "2023-12-21T03:00:24.573",
-	"cpeLastModified": "2023-12-20T22:34:39.627",
-	"status": "Inactive"
+	"lastModified": "2024-01-03T13:48:06.797",
+	"cpeLastModified": "2024-01-03T13:48:06.797",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ibm:aspera_application_platform_on_demand:-:*:*:*:*:*:*:*",
+			"cpeNameId": "860C5E74-C585-465A-8ECF-B0446B559212"
+		}
+	]
 }

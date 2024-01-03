@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:apple:iphone_4s:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "0022D0BD-B112-447B-A778-D8D52199DBCB",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2023-12-21T03:00:24.573",
-	"cpeLastModified": "2023-12-20T22:34:39.627",
-	"status": "Inactive"
+	"lastModified": "2024-01-03T13:48:06.797",
+	"cpeLastModified": "2024-01-03T13:48:06.797",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:apple:iphone_4s:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2B332A8A-D2C2-4724-8C92-9238956E0952"
+		}
+	]
 }

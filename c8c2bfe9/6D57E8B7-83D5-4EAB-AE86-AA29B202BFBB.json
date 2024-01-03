@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:oracle:sunos:*:*:*:*:*:*:*:*",
 	"matchCriteriaId": "6D57E8B7-83D5-4EAB-AE86-AA29B202BFBB",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2023-12-21T03:00:24.573",
-	"cpeLastModified": "2023-12-20T22:34:39.627",
-	"status": "Inactive"
+	"lastModified": "2024-01-03T13:48:06.797",
+	"cpeLastModified": "2024-01-03T13:48:06.797",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:oracle:sunos:5.11.1:*:*:*:*:*:*:*",
+			"cpeNameId": "9C114BEF-6744-433B-A1DD-3A5BA14CB152"
+		}
+	]
 }

@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:sun:solaris:2.5.1:*:*:*:*:*:*:*",
 	"matchCriteriaId": "EFC88263-1148-4A47-AF16-FA042F9C0FA2",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2023-12-21T03:00:24.573",
-	"cpeLastModified": "2023-12-20T22:34:39.627",
-	"status": "Inactive"
+	"lastModified": "2024-01-03T13:48:06.797",
+	"cpeLastModified": "2024-01-03T13:48:06.797",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:sun:solaris:2.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "2FC122BE-6D98-42D2-A320-175B1E9D005C"
+		}
+	]
 }

@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:microsoft:windows_mobile:5.0:*:*:*:*:*:*:*",
 	"matchCriteriaId": "99215AB8-5BB2-4576-8AD8-EFC3BE4F77E3",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2023-12-21T03:00:24.573",
-	"cpeLastModified": "2023-12-20T22:34:39.627",
-	"status": "Inactive"
+	"lastModified": "2024-01-03T13:48:06.797",
+	"cpeLastModified": "2024-01-03T13:48:06.797",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:windows_mobile:5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "21253111-755C-474E-89AD-82425D52AB31"
+		}
+	]
 }

@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:a:solarwinds:access_rights_manager:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6285B061-B997-46F8-817E-8485E00E4FD9",
+	"versionEndIncluding": "2023.2.1",
+	"created": "2024-01-03T14:41:01.540",
+	"lastModified": "2024-01-03T14:41:01.540",
+	"cpeLastModified": "2024-01-03T14:41:01.540",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:solarwinds:access_rights_manager:2023.2.0.73:*:*:*:*:*:*:*",
+			"cpeNameId": "5DB71AC2-04B4-4AF2-AB8D-095B7DF87032"
+		}
+	]
+}

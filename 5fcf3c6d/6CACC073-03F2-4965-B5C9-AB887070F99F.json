@@ -2,7 +2,17 @@
 	"criteria": "cpe:2.3:a:microsoft:publisher:2013:*:*:*:*:*:*:*",
 	"matchCriteriaId": "6CACC073-03F2-4965-B5C9-AB887070F99F",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2023-12-21T03:00:24.573",
-	"cpeLastModified": "2023-12-20T22:34:39.627",
-	"status": "Inactive"
+	"lastModified": "2024-01-03T13:48:06.797",
+	"cpeLastModified": "2024-01-03T13:48:06.797",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:publisher:2013:*:*:*:*:*:*:*",
+			"cpeNameId": "2727C2BE-BAF7-449C-84F6-DC78C025E4E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:publisher:2013:sp1:*:*:*:*:*:*",
+			"cpeNameId": "12853FF2-95A6-4F5A-808C-ABDA6F960EFF"
+		}
+	]
 }

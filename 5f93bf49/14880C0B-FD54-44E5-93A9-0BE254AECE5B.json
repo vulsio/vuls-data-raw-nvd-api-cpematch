@@ -2,7 +2,17 @@
 	"criteria": "cpe:2.3:a:redhat:ansible_tower:3.2.4:*:*:*:*:*:*:*",
 	"matchCriteriaId": "14880C0B-FD54-44E5-93A9-0BE254AECE5B",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2023-12-21T03:00:24.573",
-	"cpeLastModified": "2023-12-20T22:34:39.627",
-	"status": "Inactive"
+	"lastModified": "2024-01-03T13:48:06.797",
+	"cpeLastModified": "2024-01-03T13:48:06.797",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible_tower:3.2.4:*:*:*:*:*:*:*",
+			"cpeNameId": "8326F70E-FC7B-43FD-BEF9-6BDEDD05F927"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:ansible_tower:3.2.4:*:*:*:scm_repositories:*:*:*",
+			"cpeNameId": "7AE1C19B-E1D1-46F6-822C-49B3B59B6D86"
+		}
+	]
 }

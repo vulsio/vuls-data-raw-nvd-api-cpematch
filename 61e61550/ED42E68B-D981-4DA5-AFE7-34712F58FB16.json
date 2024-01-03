@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:citrix:xenapp:5.0:*:*:*:*:*:*:*",
 	"matchCriteriaId": "ED42E68B-D981-4DA5-AFE7-34712F58FB16",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2023-12-21T03:00:24.573",
-	"cpeLastModified": "2023-12-20T22:34:39.627",
-	"status": "Inactive"
+	"lastModified": "2024-01-03T13:48:06.797",
+	"cpeLastModified": "2024-01-03T13:48:06.797",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:citrix:xenapp:5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "4AFB3524-33CE-4E47-9B12-2A776A47514D"
+		}
+	]
 }

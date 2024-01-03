@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:selinc:sel-2740s:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "F9F1AF90-F78E-4369-B733-7702D95E4CDF",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2023-12-21T03:00:24.573",
-	"cpeLastModified": "2023-12-20T22:34:39.627",
-	"status": "Inactive"
+	"lastModified": "2024-01-03T13:48:06.797",
+	"cpeLastModified": "2024-01-03T13:48:06.797",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:selinc:sel-2740s:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EE7EC40B-E36C-4900-B2B6-B6B4855472BD"
+		}
+	]
 }

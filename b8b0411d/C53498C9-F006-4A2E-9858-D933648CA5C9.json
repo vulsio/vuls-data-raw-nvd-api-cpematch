@@ -2,7 +2,21 @@
 	"criteria": "cpe:2.3:a:microsoft:onenote:2013:*:*:*:*:*:*:*",
 	"matchCriteriaId": "C53498C9-F006-4A2E-9858-D933648CA5C9",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2023-12-21T03:00:24.573",
-	"cpeLastModified": "2023-12-20T22:34:39.627",
-	"status": "Inactive"
+	"lastModified": "2024-01-03T13:48:06.797",
+	"cpeLastModified": "2024-01-03T13:48:06.797",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:onenote:2013:*:*:*:*:*:*:*",
+			"cpeNameId": "18C664A7-8BD3-44CC-8D26-29A02217E5D3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:onenote:2013:sp1:*:*:*:*:*:*",
+			"cpeNameId": "FC938493-48CD-4099-AF2E-90E947DD1A7A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:onenote:2013:sp1:*:*:rt:*:*:*",
+			"cpeNameId": "F797E767-2D66-438E-AB34-C923AAB439F9"
+		}
+	]
 }

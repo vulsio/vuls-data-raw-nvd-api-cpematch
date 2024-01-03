@@ -1,0 +1,111 @@
+{
+	"criteria": "cpe:2.3:a:flask-security-too_project:flask-security-too:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "11C4D8B0-F35A-46FD-A848-799D45F5F7F0",
+	"versionEndIncluding": "5.3.2",
+	"created": "2024-01-03T18:00:39.080",
+	"lastModified": "2024-01-03T18:00:39.080",
+	"cpeLastModified": "2024-01-03T18:01:56.003",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:flask-security-too_project:flask-security-too:3.0.1:-:*:*:*:*:*:*",
+			"cpeNameId": "F35D132F-73D7-475B-8C0E-E14199B63E6A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:flask-security-too_project:flask-security-too:3.0.1:rc1:*:*:*:*:*:*",
+			"cpeNameId": "5CF4E12C-A9D3-4C24-9759-CC88BB669A80"
+		},
+		{
+			"cpeName": "cpe:2.3:a:flask-security-too_project:flask-security-too:3.0.1:rc2:*:*:*:*:*:*",
+			"cpeNameId": "000891E3-1FCB-4BFA-B6EC-B0AC38ACCBC5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:flask-security-too_project:flask-security-too:3.0.1:rc3:*:*:*:*:*:*",
+			"cpeNameId": "ACED6840-E6F2-4876-806F-683FBEC36195"
+		},
+		{
+			"cpeName": "cpe:2.3:a:flask-security-too_project:flask-security-too:3.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "C94CCA2C-C6F1-4846-93F3-E0451CEAC4AE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:flask-security-too_project:flask-security-too:3.1.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "4A0BBAAE-8BCE-4ED1-A24D-6A48DDFC8ED1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:flask-security-too_project:flask-security-too:3.2.0:-:*:*:*:*:*:*",
+			"cpeNameId": "2153D78E-B1F6-4D58-9D4A-40220594DDB1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:flask-security-too_project:flask-security-too:3.2.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "9D14360D-BD82-45DC-99FE-8BDE36C0E942"
+		},
+		{
+			"cpeName": "cpe:2.3:a:flask-security-too_project:flask-security-too:3.2.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "AD8FBF9A-4F4E-4323-9728-86602302A0EA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:flask-security-too_project:flask-security-too:3.2.0:rc3:*:*:*:*:*:*",
+			"cpeNameId": "D1E27C7A-B45C-41EC-8D47-DE553A61EC53"
+		},
+		{
+			"cpeName": "cpe:2.3:a:flask-security-too_project:flask-security-too:3.2.0:rc4:*:*:*:*:*:*",
+			"cpeNameId": "590EC3F1-05F0-4431-8092-76DD95E89132"
+		},
+		{
+			"cpeName": "cpe:2.3:a:flask-security-too_project:flask-security-too:3.3.0:-:*:*:*:*:*:*",
+			"cpeNameId": "044F26EA-F2F0-493B-9855-17A91EBE2F39"
+		},
+		{
+			"cpeName": "cpe:2.3:a:flask-security-too_project:flask-security-too:3.3.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "32388A49-DEC0-43CD-9826-44E4A3B356B9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:flask-security-too_project:flask-security-too:3.3.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "F04DADD9-B54A-4B13-A91E-56EAF305B697"
+		},
+		{
+			"cpeName": "cpe:2.3:a:flask-security-too_project:flask-security-too:3.3.0:rc3:*:*:*:*:*:*",
+			"cpeNameId": "6B601B5A-094B-40F7-8DEF-3CA7A87209AB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:flask-security-too_project:flask-security-too:3.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "892461A2-1FDA-4BCD-9677-9FA6E334C305"
+		},
+		{
+			"cpeName": "cpe:2.3:a:flask-security-too_project:flask-security-too:3.3.2:*:*:*:*:*:*:*",
+			"cpeNameId": "90E05B4C-C29A-4A86-83E5-5046C7443B64"
+		},
+		{
+			"cpeName": "cpe:2.3:a:flask-security-too_project:flask-security-too:3.3.3:*:*:*:*:*:*:*",
+			"cpeNameId": "8AE595EF-0D95-4711-B393-284A17C3BA23"
+		},
+		{
+			"cpeName": "cpe:2.3:a:flask-security-too_project:flask-security-too:3.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "2DECDEF7-07BD-457D-9AAD-0148B12E29F9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:flask-security-too_project:flask-security-too:3.4.1:*:*:*:*:*:*:*",
+			"cpeNameId": "CFD25071-AEE7-4EEC-B646-C3DCB9322EB8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:flask-security-too_project:flask-security-too:3.4.2:*:*:*:*:*:*:*",
+			"cpeNameId": "D01D6CC5-E09E-4674-843F-86586EDEA7E7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:flask-security-too_project:flask-security-too:3.4.3:*:*:*:*:*:*:*",
+			"cpeNameId": "824E5AFF-7B64-49EF-B754-1324AFE834CD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:flask-security-too_project:flask-security-too:3.4.4:*:*:*:*:*:*:*",
+			"cpeNameId": "C85DB063-64F7-4E87-9C64-4D38D5861DC4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:flask-security-too_project:flask-security-too:3.4.5:*:*:*:*:*:*:*",
+			"cpeNameId": "4D32E477-B9BC-4F65-8C1F-EB7905632E0F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:flask-security-too_project:flask-security-too:4.0.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "F168F313-947B-4712-9922-CF8BDD384053"
+		}
+	]
+}
