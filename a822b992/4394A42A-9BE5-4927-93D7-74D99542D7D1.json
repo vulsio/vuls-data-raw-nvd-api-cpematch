@@ -4,8 +4,8 @@
 	"versionStartIncluding": "5.0",
 	"versionEndExcluding": "5.25",
 	"created": "2024-01-03T17:10:25.550",
-	"lastModified": "2024-01-03T17:10:25.550",
-	"cpeLastModified": "2024-01-03T17:10:25.550",
+	"lastModified": "2024-01-04T02:52:25.833",
+	"cpeLastModified": "2024-01-04T02:52:25.833",
 	"status": "Active",
 	"matches": [
 		{
@@ -67,6 +67,10 @@
 		{
 			"cpeName": "cpe:2.3:a:alfasado:powercms:5.21:*:*:*:*:*:*:*",
 			"cpeNameId": "A42B10B8-63C0-4E60-9BBB-0345480896C4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:alfasado:powercms:5.24:*:*:*:*:*:*:*",
+			"cpeNameId": "222D4712-F0F4-4091-9E95-EABFA25FC81F"
 		}
 	]
 }

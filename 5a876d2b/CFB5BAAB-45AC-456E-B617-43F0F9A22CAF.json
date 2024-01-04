@@ -3,7 +3,13 @@
 	"matchCriteriaId": "CFB5BAAB-45AC-456E-B617-43F0F9A22CAF",
 	"versionEndExcluding": "23.9.2.47475",
 	"created": "2024-01-02T14:19:49.747",
-	"lastModified": "2024-01-02T14:19:49.747",
-	"cpeLastModified": "2024-01-02T14:19:49.747",
-	"status": "Active"
+	"lastModified": "2024-01-04T03:03:20.740",
+	"cpeLastModified": "2024-01-04T03:03:20.740",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:clickhouse:clickhouse_cloud:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1F6180D4-3226-4047-9DE2-7D54B90069FD"
+		}
+	]
 }

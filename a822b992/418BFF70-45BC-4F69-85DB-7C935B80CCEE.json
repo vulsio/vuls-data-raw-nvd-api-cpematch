@@ -3,8 +3,8 @@
 	"matchCriteriaId": "418BFF70-45BC-4F69-85DB-7C935B80CCEE",
 	"versionEndExcluding": "4.55",
 	"created": "2024-01-03T17:10:47.107",
-	"lastModified": "2024-01-03T17:10:47.107",
-	"cpeLastModified": "2024-01-03T17:10:47.107",
+	"lastModified": "2024-01-04T02:52:25.833",
+	"cpeLastModified": "2024-01-04T02:52:25.833",
 	"status": "Active",
 	"matches": [
 		{
@@ -262,6 +262,10 @@
 		{
 			"cpeName": "cpe:2.3:a:alfasado:powercms:4.51:*:*:*:*:*:*:*",
 			"cpeNameId": "00B788F0-0095-4130-B8C2-7E5ACE11CF6F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:alfasado:powercms:4.54:*:*:*:*:*:*:*",
+			"cpeNameId": "82FDF20C-2D8B-4CE1-BFE2-E4FA696062E2"
 		}
 	]
 }

@@ -5,6 +5,12 @@
 	"versionEndIncluding": "23.9.2.47475",
 	"created": "2024-01-02T16:39:55.663",
 	"lastModified": "2024-01-02T16:39:55.663",
-	"cpeLastModified": "2024-01-02T16:39:55.663",
-	"status": "Active"
+	"cpeLastModified": "2024-01-04T03:03:20.740",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:clickhouse:clickhouse_cloud:23.9.2.47475:*:*:*:*:*:*:*",
+			"cpeNameId": "70E63A31-4A59-4A74-84BF-3BA6178CD80F"
+		}
+	]
 }
