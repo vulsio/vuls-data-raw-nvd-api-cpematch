@@ -4,15 +4,5 @@
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2024-01-04T03:00:23.940",
 	"cpeLastModified": "2024-01-03T13:48:06.797",
-	"status": "Inactive",
-	"matches": [
-		{
-			"cpeName": "cpe:2.3:a:microsoft:iis:6.0:*:*:*:*:*:*:*",
-			"cpeNameId": "6EDAE012-853A-4D83-B9AE-CC575EA87848"
-		},
-		{
-			"cpeName": "cpe:2.3:a:microsoft:iis:6.0:beta:*:*:*:*:*:*",
-			"cpeNameId": "CBE7BE15-2616-4A7D-B5FC-A779A9AD5C98"
-		}
-	]
+	"status": "Inactive"
 }

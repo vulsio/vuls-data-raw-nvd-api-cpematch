@@ -4,6 +4,12 @@
 	"versionEndExcluding": "1.0.23",
 	"created": "2023-06-27T15:53:12.570",
 	"lastModified": "2023-06-27T15:53:12.570",
-	"cpeLastModified": "2023-06-27T15:53:12.570",
-	"status": "Active"
+	"cpeLastModified": "2024-01-04T16:25:02.873",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_7865_tower_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6133CDD6-9163-42B0-BC99-3546133449A7"
+		}
+	]
 }

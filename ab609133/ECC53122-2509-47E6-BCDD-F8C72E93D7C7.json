@@ -4,6 +4,12 @@
 	"versionEndExcluding": "2014-01-31",
 	"created": "2024-01-03T17:00:09.630",
 	"lastModified": "2024-01-03T17:00:09.630",
-	"cpeLastModified": "2024-01-03T17:00:09.630",
-	"status": "Active"
+	"cpeLastModified": "2024-01-04T16:25:02.873",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:w3:spell_checker:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C7CE7457-8730-4C68-A6BA-F86A378B6EAD"
+		}
+	]
 }
