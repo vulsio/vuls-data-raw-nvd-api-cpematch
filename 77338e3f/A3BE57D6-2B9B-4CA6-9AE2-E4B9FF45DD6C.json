@@ -4,6 +4,24 @@
 	"versionEndIncluding": "2020.2.6",
 	"created": "2021-10-26T17:24:42.643",
 	"lastModified": "2021-10-26T17:24:42.643",
-	"cpeLastModified": "2021-10-28T19:16:02.310",
-	"status": "Active"
+	"cpeLastModified": "2024-01-04T12:03:54.643",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:solarwinds:access_rights_manager:9.1:*:*:*:*:*:*:*",
+			"cpeNameId": "6068974A-CA0C-4FE2-8E3A-6EB6D2199EAA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:solarwinds:access_rights_manager:9.2:*:*:*:*:*:*:*",
+			"cpeNameId": "A8F96EFE-BC6A-452F-BCD8-099732D16887"
+		},
+		{
+			"cpeName": "cpe:2.3:a:solarwinds:access_rights_manager:2019.4:*:*:*:*:*:*:*",
+			"cpeNameId": "FF68FB29-0AAF-4138-A720-44870E70ED21"
+		},
+		{
+			"cpeName": "cpe:2.3:a:solarwinds:access_rights_manager:2020.2:*:*:*:*:*:*:*",
+			"cpeNameId": "96A2F8EB-9DC6-496A-A6B6-163FEEF96536"
+		}
+	]
 }
