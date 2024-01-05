@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:a:tp-link:tapo:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "72827595-F645-4D2C-BDFA-F211C1994100",
+	"versionEndExcluding": "3.1.315",
+	"created": "2024-01-05T15:22:08.530",
+	"lastModified": "2024-01-05T15:22:08.530",
+	"cpeLastModified": "2024-01-05T15:22:08.530",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:tp-link:tapo:2.8.14:*:*:*:*:*:*:*",
+			"cpeNameId": "C71FF049-70C7-40F4-BF9F-AC4670BFC190"
+		}
+	]
+}
