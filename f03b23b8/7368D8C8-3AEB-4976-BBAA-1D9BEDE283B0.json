@@ -1,0 +1,23 @@
+{
+	"criteria": "cpe:2.3:a:brainstormforce:ultimate_addons_for_wpbakery_page_builder:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "7368D8C8-3AEB-4976-BBAA-1D9BEDE283B0",
+	"versionEndIncluding": "3.19.17",
+	"created": "2024-01-05T12:06:17.813",
+	"lastModified": "2024-01-05T12:06:17.813",
+	"cpeLastModified": "2024-01-05T12:06:17.813",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:brainstormforce:ultimate_addons_for_wpbakery_page_builder:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0AB992B7-35D2-4113-8729-7A5B99755E5C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:brainstormforce:ultimate_addons_for_wpbakery_page_builder:3.19.14:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "123F544E-E615-433C-9354-7FD6E1D142FF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:brainstormforce:ultimate_addons_for_wpbakery_page_builder:3.19.15:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3544E5BD-1992-403F-A825-412D9B8D3F10"
+		}
+	]
+}
