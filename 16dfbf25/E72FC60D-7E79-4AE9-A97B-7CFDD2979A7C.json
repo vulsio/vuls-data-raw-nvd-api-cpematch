@@ -3,8 +3,8 @@
 	"matchCriteriaId": "E72FC60D-7E79-4AE9-A97B-7CFDD2979A7C",
 	"versionEndExcluding": "1.7.7",
 	"created": "2024-01-04T16:57:13.993",
-	"lastModified": "2024-01-04T16:57:13.993",
-	"cpeLastModified": "2024-01-04T16:57:13.993",
+	"lastModified": "2024-01-08T14:52:13.550",
+	"cpeLastModified": "2024-01-08T14:52:13.550",
 	"status": "Active",
 	"matches": [
 		{
@@ -254,6 +254,30 @@
 		{
 			"cpeName": "cpe:2.3:a:implecode:product_catalog_simple:1.7.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "183AB65C-370C-4F1B-A352-508568E85385"
+		},
+		{
+			"cpeName": "cpe:2.3:a:implecode:product_catalog_simple:1.7.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9E068DB6-FAC0-4A2F-BF07-DC9575C0B598"
+		},
+		{
+			"cpeName": "cpe:2.3:a:implecode:product_catalog_simple:1.7.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1A9D4650-0508-4A8D-8542-44B7DB6C9B91"
+		},
+		{
+			"cpeName": "cpe:2.3:a:implecode:product_catalog_simple:1.7.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "02CFAAFE-DA2B-4FC5-8425-2EAF90F4B513"
+		},
+		{
+			"cpeName": "cpe:2.3:a:implecode:product_catalog_simple:1.7.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7137BAA0-7829-42F1-8614-D8918D67B814"
+		},
+		{
+			"cpeName": "cpe:2.3:a:implecode:product_catalog_simple:1.7.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7B56B028-99F0-45DA-8346-C25FD03F939C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:implecode:product_catalog_simple:1.7.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AF694718-7213-4B18-BB82-BE4A5D9FAABC"
 		}
 	]
 }

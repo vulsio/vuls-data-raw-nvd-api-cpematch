@@ -1,0 +1,24 @@
+{
+	"criteria": "cpe:2.3:a:mattermost:mattermost_server:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "689E6CCF-B722-4C95-AAB6-010CC285CF80",
+	"versionStartIncluding": "9.1.0",
+	"versionEndExcluding": "9.1.4",
+	"created": "2024-01-08T13:30:14.070",
+	"lastModified": "2024-01-08T13:30:14.070",
+	"cpeLastModified": "2024-01-08T13:30:14.070",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:mattermost:mattermost_server:9.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "11B13350-A480-49F5-98D8-EF6D13A9C6EC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mattermost:mattermost_server:9.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "C088427A-1596-438A-A4EA-11DD275CA679"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mattermost:mattermost_server:9.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "8FEA8B9F-9847-4ACF-BCE4-0943C381F639"
+		}
+	]
+}
