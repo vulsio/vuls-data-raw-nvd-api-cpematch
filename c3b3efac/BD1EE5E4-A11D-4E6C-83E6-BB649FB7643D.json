@@ -3,7 +3,21 @@
 	"matchCriteriaId": "BD1EE5E4-A11D-4E6C-83E6-BB649FB7643D",
 	"versionEndExcluding": "0.2.0",
 	"created": "2024-01-04T15:19:59.953",
-	"lastModified": "2024-01-04T15:19:59.953",
-	"cpeLastModified": "2024-01-04T15:19:59.953",
-	"status": "Active"
+	"lastModified": "2024-01-08T19:19:29.230",
+	"cpeLastModified": "2024-01-08T19:19:29.230",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ewen-lbh:firefox_css:0.1.0:*:*:*:*:go:*:*",
+			"cpeNameId": "C29B8306-922B-4499-8E6E-859FBE5BB02F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ewen-lbh:firefox_css:0.1.1:*:*:*:*:go:*:*",
+			"cpeNameId": "566A930C-E49D-40B4-8301-6EFC463E4EA9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ewen-lbh:firefox_css:0.1.2:*:*:*:*:go:*:*",
+			"cpeNameId": "C40BCD35-20DE-429C-A8C9-8FBE9987EB90"
+		}
+	]
 }

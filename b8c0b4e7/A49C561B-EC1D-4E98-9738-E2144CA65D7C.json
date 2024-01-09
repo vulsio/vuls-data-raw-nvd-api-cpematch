@@ -4,8 +4,8 @@
 	"versionStartIncluding": "3.13",
 	"versionEndExcluding": "4.14.322",
 	"created": "2023-12-09T04:30:40.823",
-	"lastModified": "2023-12-29T15:50:15.293",
-	"cpeLastModified": "2024-01-04T16:25:02.873",
+	"lastModified": "2024-01-08T20:39:41.947",
+	"cpeLastModified": "2024-01-08T20:39:41.947",
 	"status": "Active",
 	"matches": [
 		{
@@ -767,6 +767,26 @@
 		{
 			"cpeName": "cpe:2.3:o:linux:linux_kernel:3.18:*:*:*:*:*:*:*",
 			"cpeNameId": "F9D4BE1A-3B0A-4CDE-9B48-B4C0DD148C1C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:3.18:rc1:*:*:*:*:*:*",
+			"cpeNameId": "2C08DAAC-1B87-402B-B67D-A2E19BF96F72"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:3.18:rc2:*:*:*:*:*:*",
+			"cpeNameId": "B98E56E8-4D53-441B-A181-19DCB300435A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:3.18:rc3:*:*:*:*:*:*",
+			"cpeNameId": "EC696823-660D-4297-BA88-C66382298ABF"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:3.18:rc4:*:*:*:*:*:*",
+			"cpeNameId": "8750CEAE-92CD-4BC5-991C-DF76F763EAB0"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:3.18:rc5:*:*:*:*:*:*",
+			"cpeNameId": "5D8CBF93-33A1-44E6-B546-246AAE0C400B"
 		},
 		{
 			"cpeName": "cpe:2.3:o:linux:linux_kernel:3.18.0:*:*:*:*:*:*:*",
@@ -6411,6 +6431,26 @@
 		{
 			"cpeName": "cpe:2.3:o:linux:linux_kernel:4.14.316:*:*:*:*:*:*:*",
 			"cpeNameId": "41B4751B-1E9E-493B-AE0D-BF29E6317911"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:4.14.317:*:*:*:*:*:*:*",
+			"cpeNameId": "8DAAD8CA-4620-48BE-95E9-9623F7AACD63"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:4.14.318:*:*:*:*:*:*:*",
+			"cpeNameId": "2C0D3085-6703-41F9-81D9-28EA3A593F9D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:4.14.319:*:*:*:*:*:*:*",
+			"cpeNameId": "A439957C-0CFF-4BDF-A644-00A2602DF673"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:4.14.320:*:*:*:*:*:*:*",
+			"cpeNameId": "3EDC01DA-28BA-4672-A0BE-8B3346F51F19"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:4.14.321:*:*:*:*:*:*:*",
+			"cpeNameId": "77BA70B4-3A94-4325-BDC1-22564AF064F0"
 		}
 	]
 }

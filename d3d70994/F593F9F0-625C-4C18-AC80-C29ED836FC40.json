@@ -3,8 +3,8 @@
 	"matchCriteriaId": "F593F9F0-625C-4C18-AC80-C29ED836FC40",
 	"versionEndIncluding": "2.7.2",
 	"created": "2024-01-04T18:26:34.067",
-	"lastModified": "2024-01-04T18:26:34.067",
-	"cpeLastModified": "2024-01-04T18:26:34.067",
+	"lastModified": "2024-01-08T20:34:38.403",
+	"cpeLastModified": "2024-01-08T20:34:38.403",
 	"status": "Active",
 	"matches": [
 		{
@@ -426,6 +426,54 @@
 		{
 			"cpeName": "cpe:2.3:a:fastlinemedia:beaver_builder:2.5.5.2:*:*:*:lite:wordpress:*:*",
 			"cpeNameId": "8D468BB8-082E-4B86-B36D-5899D369023A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fastlinemedia:beaver_builder:2.5.5.3:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "7E2399A2-DBF7-464D-A0AD-3ADF419D9DEF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fastlinemedia:beaver_builder:2.5.5.5:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "9B0C6A2F-32D3-4FD5-B4B7-D288D5C14678"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fastlinemedia:beaver_builder:2.6.0.3:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "60C1F8D7-B0B6-441E-9CAB-49423BCD0DFD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fastlinemedia:beaver_builder:2.6.1.4:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "EA79C586-DA9D-4DBF-A54D-A826B6A0351A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fastlinemedia:beaver_builder:2.6.2:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "598204CD-B759-4008-B18F-1E8EC0D83C81"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fastlinemedia:beaver_builder:2.6.2.3:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "B353E725-65C6-44CB-99B3-01C3206568CC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fastlinemedia:beaver_builder:2.6.3:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "BBC902D4-6898-4012-9842-5BF64DE8F80E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fastlinemedia:beaver_builder:2.6.3.1:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "8CA7E21F-732F-4007-BF4D-3B06BF88A613"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fastlinemedia:beaver_builder:2.6.3.2:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "CE50D8D9-0295-4ABC-8403-081D76C20016"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fastlinemedia:beaver_builder:2.7.0.5:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "9B3FAAB7-57C4-4C9D-BD6A-9627374BB9EE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fastlinemedia:beaver_builder:2.7.1.1:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "E3AB9EE5-EE07-4E4C-BA5F-94C40E286F77"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fastlinemedia:beaver_builder:2.7.2:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "5BE6778A-9D5C-491F-AB85-301AF203185B"
 		}
 	]
 }

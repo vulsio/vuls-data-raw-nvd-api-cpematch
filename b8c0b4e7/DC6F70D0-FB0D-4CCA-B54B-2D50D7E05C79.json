@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:linux:linux_kernel:3.10:rc4:*:*:*:*:*:*",
 	"matchCriteriaId": "DC6F70D0-FB0D-4CCA-B54B-2D50D7E05C79",
 	"created": "2023-10-17T16:11:42.443",
-	"lastModified": "2023-10-17T16:11:42.443",
-	"cpeLastModified": "2023-10-17T16:11:42.443",
-	"status": "Active"
+	"lastModified": "2024-01-08T20:39:41.947",
+	"cpeLastModified": "2024-01-08T20:39:41.947",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:3.10:rc4:*:*:*:*:*:*",
+			"cpeNameId": "EB4B221D-C82B-4A7B-9143-25F7EA059041"
+		}
+	]
 }

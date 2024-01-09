@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:linux:linux_kernel:3.6:rc6:*:*:*:*:*:*",
 	"matchCriteriaId": "329C7DD0-9CEA-4D15-B0FE-B3565EE53A63",
 	"created": "2023-10-10T16:49:15.397",
-	"lastModified": "2023-10-10T16:49:15.397",
-	"cpeLastModified": "2023-10-10T16:49:15.397",
-	"status": "Active"
+	"lastModified": "2024-01-08T20:39:41.947",
+	"cpeLastModified": "2024-01-08T20:39:41.947",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:3.6:rc6:*:*:*:*:*:*",
+			"cpeNameId": "105B97CB-41FC-45C9-A16C-EB81B3B5A329"
+		}
+	]
 }

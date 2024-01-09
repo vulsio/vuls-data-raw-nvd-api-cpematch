@@ -4,7 +4,7 @@
 	"versionEndIncluding": "2c4e5867ee699b1081527bc6c6ea0e99a35a5c27",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-08-28T13:38:35.190",
+	"cpeLastModified": "2024-01-08T18:30:26.973",
 	"status": "Active",
 	"matches": [
 		{
@@ -358,6 +358,34 @@
 		{
 			"cpeName": "cpe:2.3:a:artifex:mupdf:1.23.0:rc1:*:*:*:*:*:*",
 			"cpeNameId": "B5132EE6-A0E8-4369-AC42-646E738F5F50"
+		},
+		{
+			"cpeName": "cpe:2.3:a:artifex:mupdf:1.23.1:*:*:*:*:*:*:*",
+			"cpeNameId": "557966E8-8435-42DD-AB0E-B0D636DA7A8B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:artifex:mupdf:1.23.2:*:*:*:*:*:*:*",
+			"cpeNameId": "B0E18A85-ED11-4FBF-9212-814BB048981F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:artifex:mupdf:1.23.3:*:*:*:*:*:*:*",
+			"cpeNameId": "F3AAB65A-CC52-4A07-AFF7-D3A0695A6140"
+		},
+		{
+			"cpeName": "cpe:2.3:a:artifex:mupdf:1.23.4:*:*:*:*:*:*:*",
+			"cpeNameId": "A6BDA0D2-6BAD-459E-A209-D339042D2962"
+		},
+		{
+			"cpeName": "cpe:2.3:a:artifex:mupdf:1.23.5:*:*:*:*:*:*:*",
+			"cpeNameId": "CE09FBC9-A448-4539-9421-75BC0562015A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:artifex:mupdf:1.23.6:*:*:*:*:*:*:*",
+			"cpeNameId": "EEC8EBEA-7042-46F9-B9B1-2170F22B0625"
+		},
+		{
+			"cpeName": "cpe:2.3:a:artifex:mupdf:1.23.7:*:*:*:*:*:*:*",
+			"cpeNameId": "A8E10F1B-8CAA-49B4-AA20-65BCD50DE948"
 		}
 	]
 }

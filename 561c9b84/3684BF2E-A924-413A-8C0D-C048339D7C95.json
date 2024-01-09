@@ -3,8 +3,8 @@
 	"matchCriteriaId": "3684BF2E-A924-413A-8C0D-C048339D7C95",
 	"versionEndIncluding": "1.6.17",
 	"created": "2024-01-04T19:08:07.840",
-	"lastModified": "2024-01-04T19:08:07.840",
-	"cpeLastModified": "2024-01-04T19:08:07.840",
+	"lastModified": "2024-01-08T18:41:22.547",
+	"cpeLastModified": "2024-01-08T18:41:22.547",
 	"status": "Active",
 	"matches": [
 		{
@@ -250,6 +250,18 @@
 		{
 			"cpeName": "cpe:2.3:a:weformspro:weforms:1.6.14:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "6ADED8BA-FC01-451D-A97A-A28BFC3922C9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weformspro:weforms:1.6.15:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "318D40C0-512D-424C-A637-B11F7403F1AB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weformspro:weforms:1.6.16:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "814D4513-3A4C-4888-A216-AA40E87A1557"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weformspro:weforms:1.6.17:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4899D88E-7E35-4535-A08D-C398DCBD53CE"
 		}
 	]
 }

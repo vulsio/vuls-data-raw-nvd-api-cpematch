@@ -3,8 +3,8 @@
 	"matchCriteriaId": "7F3614B7-23F7-409F-BC9E-2EB78D311056",
 	"versionEndExcluding": "10.47.0",
 	"created": "2024-01-03T16:15:30.380",
-	"lastModified": "2024-01-03T16:15:30.380",
-	"cpeLastModified": "2024-01-03T16:15:30.380",
+	"lastModified": "2024-01-08T21:01:03.680",
+	"cpeLastModified": "2024-01-08T21:01:03.680",
 	"status": "Active",
 	"matches": [
 		{
@@ -474,6 +474,38 @@
 		{
 			"cpeName": "cpe:2.3:a:jamf:jamf:10.33.0:*:*:*:pro:*:*:*",
 			"cpeNameId": "F0581CDC-213F-4F78-9419-3DF448D028A0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jamf:jamf:10.42.1:*:*:*:pro:*:*:*",
+			"cpeNameId": "6B037C58-7640-4D3E-B1D2-D9B9A3FA4057"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jamf:jamf:10.43.0:*:*:*:pro:*:*:*",
+			"cpeNameId": "E3F42455-8336-4BEE-AAE6-09BBA49B14AF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jamf:jamf:10.43.1:*:*:*:pro:*:*:*",
+			"cpeNameId": "34BAB932-637E-4EC9-B5A9-7D48DF1D9D81"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jamf:jamf:10.44.0:*:*:*:pro:*:*:*",
+			"cpeNameId": "362F7056-385F-4E73-AE70-96E1748AB35D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jamf:jamf:10.44.1:*:*:*:pro:*:*:*",
+			"cpeNameId": "4BBC7E7E-8BB4-44C4-B2D1-B910486B9517"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jamf:jamf:10.45.0:*:*:*:pro:*:*:*",
+			"cpeNameId": "7C62CBF7-4461-4711-9673-9A7D0849B2B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jamf:jamf:10.46.0:*:*:*:pro:*:*:*",
+			"cpeNameId": "A28112D0-ED25-4009-9E5A-7FD8A286217B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jamf:jamf:10.46.1:*:*:*:pro:*:*:*",
+			"cpeNameId": "A87FD92E-EE87-4591-8C14-945DB4F3D650"
 		}
 	]
 }

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "DDB54532-784D-4001-86F2-11A6885B9E8F",
 	"versionEndIncluding": "11.3.1",
 	"created": "2024-01-04T18:05:48.747",
-	"lastModified": "2024-01-04T18:05:48.747",
-	"cpeLastModified": "2024-01-04T18:05:48.747",
+	"lastModified": "2024-01-08T19:56:06.263",
+	"cpeLastModified": "2024-01-08T19:56:06.263",
 	"status": "Active",
 	"matches": [
 		{
@@ -914,6 +914,30 @@
 		{
 			"cpeName": "cpe:2.3:a:buddypress:buddypress:10.4.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "2B313984-2BAD-4690-B1BC-9E8344FF24AB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:buddypress:buddypress:10.5.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8767B095-A816-43E9-BA8D-FC13EB43916A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:buddypress:buddypress:10.6.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2386EDD0-5E17-4C16-8044-935D39DB4DAC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:buddypress:buddypress:11.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3E503E5F-6786-45D2-AC67-501BC47B7914"
+		},
+		{
+			"cpeName": "cpe:2.3:a:buddypress:buddypress:11.1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D60C5B71-7F0C-49DB-AD5B-4A09D20257E6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:buddypress:buddypress:11.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FE8983C6-97FB-470D-AA70-0EABEC12F956"
+		},
+		{
+			"cpeName": "cpe:2.3:a:buddypress:buddypress:11.3.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3DE2605F-1702-4ED5-8344-E964DF6ACE9F"
 		}
 	]
 }

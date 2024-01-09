@@ -3,8 +3,8 @@
 	"matchCriteriaId": "A46E813D-97AB-4435-A42A-8B91A56E350F",
 	"versionEndExcluding": "1.6.6.1",
 	"created": "2024-01-04T16:02:16.863",
-	"lastModified": "2024-01-04T16:02:16.863",
-	"cpeLastModified": "2024-01-04T16:02:16.863",
+	"lastModified": "2024-01-08T18:37:00.843",
+	"cpeLastModified": "2024-01-08T18:37:00.843",
 	"status": "Active",
 	"matches": [
 		{
@@ -710,6 +710,54 @@
 		{
 			"cpeName": "cpe:2.3:a:nsqua:simply_schedule_appointments:1.5.8.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "147983E0-AB85-4ED9-A8FD-A756B70E78E8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nsqua:simply_schedule_appointments:1.6.5.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BA56010D-40F7-4775-8D8D-8D8F25F17D81"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nsqua:simply_schedule_appointments:1.6.5.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B7F6BE8A-594B-4D3B-973D-1247B893A3FA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nsqua:simply_schedule_appointments:1.6.5.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "99DEC49E-B54C-40F9-AAA0-278CF674A153"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nsqua:simply_schedule_appointments:1.6.5.13:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D721E5BE-F116-4A53-AD8C-F1A1B78080D7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nsqua:simply_schedule_appointments:1.6.5.16:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0252E6A0-244D-4612-B827-3E8635F6AA6C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nsqua:simply_schedule_appointments:1.6.5.17:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5C4DA468-01C5-46B6-85BF-CC4162F532CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nsqua:simply_schedule_appointments:1.6.5.18:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1F598982-786C-4E42-959F-D427036E7F36"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nsqua:simply_schedule_appointments:1.6.5.19:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2C57848D-C05B-4CD6-8A9B-D763D3A902A6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nsqua:simply_schedule_appointments:1.6.5.21:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "33E3BCCC-1FE8-43C8-B616-0FCD8B856C03"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nsqua:simply_schedule_appointments:1.6.5.25:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BE499B97-EF63-4086-AAEC-54244D1BEDA4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nsqua:simply_schedule_appointments:1.6.5.26:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6AE1F8E6-33FB-43DC-9583-5DEBEB32CC47"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nsqua:simply_schedule_appointments:1.6.5.27:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A78CE92A-8F82-43B3-88B9-F353F8F93684"
 		}
 	]
 }

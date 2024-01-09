@@ -3,8 +3,8 @@
 	"matchCriteriaId": "9D037DB2-3641-4CE7-8824-000D91551380",
 	"versionEndIncluding": "1.0.85",
 	"created": "2024-01-04T11:07:53.873",
-	"lastModified": "2024-01-04T11:07:53.873",
-	"cpeLastModified": "2024-01-04T11:07:53.873",
+	"lastModified": "2024-01-08T18:41:22.547",
+	"cpeLastModified": "2024-01-08T18:41:22.547",
 	"status": "Active",
 	"matches": [
 		{
@@ -318,6 +318,10 @@
 		{
 			"cpeName": "cpe:2.3:a:tms-outsource:amelia:1.0.76:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "3ADB1ABD-BB25-4D75-9BA8-822B56BE0EEE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tms-outsource:amelia:1.0.85:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4054E76D-86BC-4F3B-9CFF-7F554973FCC9"
 		}
 	]
 }
