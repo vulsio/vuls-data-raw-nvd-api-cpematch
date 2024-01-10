@@ -4,12 +4,16 @@
 	"versionEndExcluding": "3.1.12",
 	"created": "2023-06-16T13:05:00.360",
 	"lastModified": "2023-06-16T17:05:35.060",
-	"cpeLastModified": "2023-06-16T17:05:35.060",
+	"cpeLastModified": "2024-01-10T17:19:32.260",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:icegram:icegram_engage:-:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "D3AE0ED0-FFD8-4553-88A3-084C80D0038D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_engage:1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0FD0ED94-9F0C-40AD-B514-4B4D8596A492"
 		},
 		{
 			"cpeName": "cpe:2.3:a:icegram:icegram_engage:1.1:*:*:*:*:wordpress:*:*",
@@ -190,6 +194,10 @@
 		{
 			"cpeName": "cpe:2.3:a:icegram:icegram_engage:1.9.20:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "F32BF201-0A62-41F2-92C2-BD88395C9E13"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_engage:1.9.20.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B5FCFCE2-CCB2-4BC3-AD40-7365F8C8831B"
 		},
 		{
 			"cpeName": "cpe:2.3:a:icegram:icegram_engage:1.9.20.1:*:*:*:*:wordpress:*:*",
@@ -418,6 +426,10 @@
 		{
 			"cpeName": "cpe:2.3:a:icegram:icegram_engage:1.10.47:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "CE8BE4BA-93FD-492A-A3E2-622C18C7E782"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_engage:1.11.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1CD9F7BC-7462-4B03-969C-9C26507FF5E7"
 		},
 		{
 			"cpeName": "cpe:2.3:a:icegram:icegram_engage:2.0.0:*:*:*:*:wordpress:*:*",

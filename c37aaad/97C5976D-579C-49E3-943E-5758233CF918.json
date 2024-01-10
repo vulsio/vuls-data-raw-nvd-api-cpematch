@@ -4,7 +4,7 @@
 	"versionEndExcluding": "0.6.3",
 	"created": "2021-06-21T14:21:06.850",
 	"lastModified": "2021-06-21T14:21:06.850",
-	"cpeLastModified": "2021-06-21T14:21:06.850",
+	"cpeLastModified": "2024-01-10T15:35:19.327",
 	"status": "Active",
 	"matches": [
 		{
@@ -154,6 +154,18 @@
 		{
 			"cpeName": "cpe:2.3:a:linuxfoundation:backstage:0.4.3:*:*:*:*:*:*:*",
 			"cpeNameId": "2F40560C-19C3-4C08-BAA3-755E4D1D59CB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:backstage:0.4.4:*:*:*:*:*:*:*",
+			"cpeNameId": "C2DDAADF-8762-4C5E-9CD4-DFCA415FCD93"
+		},
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:backstage:0.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "0CD2CA12-58A6-4F75-925B-C32978BAF6C9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:backstage:0.6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "9F1C38D5-FA3B-4FDB-A5E5-893E44EC0156"
 		}
 	]
 }
