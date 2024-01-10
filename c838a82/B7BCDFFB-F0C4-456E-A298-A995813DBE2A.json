@@ -4,8 +4,8 @@
 	"versionStartIncluding": "4.0.0",
 	"versionEndExcluding": "4.5.11",
 	"created": "2024-01-09T12:33:13.757",
-	"lastModified": "2024-01-09T12:33:13.757",
-	"cpeLastModified": "2024-01-09T12:33:13.757",
+	"lastModified": "2024-01-09T18:13:56.510",
+	"cpeLastModified": "2024-01-09T18:13:56.510",
 	"status": "Active",
 	"matches": [
 		{
@@ -335,6 +335,46 @@
 		{
 			"cpeName": "cpe:2.3:a:craftcms:craft_cms:4.4.15:*:*:*:*:*:*:*",
 			"cpeNameId": "D3FEBD38-6319-44CE-8954-84FCA3E9D779"
+		},
+		{
+			"cpeName": "cpe:2.3:a:craftcms:craft_cms:4.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "9C3A0D49-4AF4-4716-8ADA-2651955210EF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:craftcms:craft_cms:4.5.2:*:*:*:*:*:*:*",
+			"cpeNameId": "45CEF01A-2231-4E81-AFAA-A5F92859BEFC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:craftcms:craft_cms:4.5.3:*:*:*:*:*:*:*",
+			"cpeNameId": "8E0969B4-B89B-4B39-B875-9BD3BAC4C57E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:craftcms:craft_cms:4.5.4:*:*:*:*:*:*:*",
+			"cpeNameId": "8DBC3C89-804F-4168-B525-9722B9D9C4F0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:craftcms:craft_cms:4.5.5:*:*:*:*:*:*:*",
+			"cpeNameId": "45A85E1E-48A6-444E-8859-C099242F7195"
+		},
+		{
+			"cpeName": "cpe:2.3:a:craftcms:craft_cms:4.5.6:*:*:*:*:*:*:*",
+			"cpeNameId": "DB84ED30-5580-47B8-B68E-C94143DFCDD0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:craftcms:craft_cms:4.5.7:*:*:*:*:*:*:*",
+			"cpeNameId": "1FA46667-4BFE-47EB-93A0-56E22FCE877B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:craftcms:craft_cms:4.5.8:*:*:*:*:*:*:*",
+			"cpeNameId": "1CE42DFE-2276-4889-9BF3-034292A3CD15"
+		},
+		{
+			"cpeName": "cpe:2.3:a:craftcms:craft_cms:4.5.9:*:*:*:*:*:*:*",
+			"cpeNameId": "B41D22DF-3674-42B0-84BE-DD12100D4B29"
+		},
+		{
+			"cpeName": "cpe:2.3:a:craftcms:craft_cms:4.5.10:*:*:*:*:*:*:*",
+			"cpeNameId": "C177F912-CC80-4940-BD18-9C1F1077BD53"
 		}
 	]
 }

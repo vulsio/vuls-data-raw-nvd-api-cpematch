@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2023.07.27",
 	"created": "2023-10-13T22:01:05.540",
 	"lastModified": "2023-12-01T15:29:36.947",
-	"cpeLastModified": "2023-10-13T22:01:05.540",
+	"cpeLastModified": "2024-01-09T19:39:38.390",
 	"status": "Active",
 	"matches": [
 		{
@@ -58,6 +58,10 @@
 		{
 			"cpeName": "cpe:2.3:a:qnap:video_station:2.5.5:*:*:*:*:*:*:*",
 			"cpeNameId": "A6AE9E69-A87F-4D18-AFB5-CCD170A35598"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qnap:video_station:2.5.6:*:*:*:*:*:*:*",
+			"cpeNameId": "E88D7371-D2D0-4962-A652-9022B58201F4"
 		},
 		{
 			"cpeName": "cpe:2.3:a:qnap:video_station:5.0.0:*:*:*:*:*:*:*",
@@ -152,6 +156,10 @@
 			"cpeNameId": "BEFCFAAD-FD45-470F-8F7B-59D716DE65C9"
 		},
 		{
+			"cpeName": "cpe:2.3:a:qnap:video_station:5.3.15:*:*:*:*:*:*:*",
+			"cpeNameId": "9FC7EA2A-25E7-422F-AC1D-C9DC07B0D7AD"
+		},
+		{
 			"cpeName": "cpe:2.3:a:qnap:video_station:5.4.0:*:*:*:*:*:*:*",
 			"cpeNameId": "F91AEFFA-2475-4639-AC79-672A99B00B29"
 		},
@@ -214,6 +222,38 @@
 		{
 			"cpeName": "cpe:2.3:a:qnap:video_station:5.5.9:*:*:*:*:*:*:*",
 			"cpeNameId": "DDD347DE-2138-4A79-BF2B-952C614A5A8A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qnap:video_station:5.5.10:*:*:*:*:*:*:*",
+			"cpeNameId": "7E7E0FC2-7B0A-4A61-9914-82C6EDBA377A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qnap:video_station:5.5.11:*:*:*:*:*:*:*",
+			"cpeNameId": "6BED2B5C-317E-4DD4-A5BD-6C4458EED4C1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qnap:video_station:5.5.12:*:*:*:*:*:*:*",
+			"cpeNameId": "B5919417-0A94-42C9-8D29-B9FE404BA326"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qnap:video_station:5.6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "BED71016-7B05-4B9D-B614-692D2F6A5D26"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qnap:video_station:5.6.1:*:*:*:*:*:*:*",
+			"cpeNameId": "2E333645-D6D8-4963-B481-F8EBEEB9BF5A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qnap:video_station:5.6.2:*:*:*:*:*:*:*",
+			"cpeNameId": "B5782666-8012-4B23-B3BE-C29BC6EC9EEF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qnap:video_station:5.7.1:*:*:*:*:*:*:*",
+			"cpeNameId": "77822B36-3B1F-4B3E-B4CF-EE32649D8565"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qnap:video_station:5.7.2:*:*:*:*:*:*:*",
+			"cpeNameId": "7CB46AF9-0384-494B-8226-932AB67B7DE4"
 		}
 	]
 }

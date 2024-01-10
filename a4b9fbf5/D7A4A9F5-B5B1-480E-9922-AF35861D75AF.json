@@ -3,8 +3,8 @@
 	"matchCriteriaId": "D7A4A9F5-B5B1-480E-9922-AF35861D75AF",
 	"versionEndExcluding": "4.90.0",
 	"created": "2024-01-09T14:24:53.113",
-	"lastModified": "2024-01-09T14:24:53.113",
-	"cpeLastModified": "2024-01-09T14:24:53.113",
+	"lastModified": "2024-01-09T19:11:58.110",
+	"cpeLastModified": "2024-01-09T19:11:58.110",
 	"status": "Active",
 	"matches": [
 		{
@@ -2122,6 +2122,54 @@
 		{
 			"cpeName": "cpe:2.3:a:vapor:vapor:4.84.6:*:*:*:*:*:*:*",
 			"cpeNameId": "BA226092-7BA8-4C42-8AFF-6F2E38606CF9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vapor:vapor:4.85.0:*:*:*:*:*:*:*",
+			"cpeNameId": "2BBF3072-BC5B-47A8-A35B-44D310DDF215"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vapor:vapor:4.85.1:*:*:*:*:*:*:*",
+			"cpeNameId": "7962DAC6-906A-4CEC-87A5-B5B7091A7F16"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vapor:vapor:4.86.0:*:*:*:*:*:*:*",
+			"cpeNameId": "704984F1-135C-42CB-B731-673B857C6F91"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vapor:vapor:4.86.1:*:*:*:*:*:*:*",
+			"cpeNameId": "C593A189-989F-40C2-866F-2377F66B5694"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vapor:vapor:4.86.2:*:*:*:*:*:*:*",
+			"cpeNameId": "6E0623CB-9287-4492-A17B-13FE19056594"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vapor:vapor:4.87.0:*:*:*:*:*:*:*",
+			"cpeNameId": "AFF9A8F2-6F00-4BEB-83CF-285BBF28BF1B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vapor:vapor:4.87.1:*:*:*:*:*:*:*",
+			"cpeNameId": "696595DF-EF10-44CC-A6AF-E88CB69C9B9B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vapor:vapor:4.88.0:*:*:*:*:*:*:*",
+			"cpeNameId": "CF8F6642-ED6C-4576-88A3-4C4EC1116FDD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vapor:vapor:4.89.0:*:*:*:*:*:*:*",
+			"cpeNameId": "45F31097-B522-4D7B-BE30-CB85F1C47B87"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vapor:vapor:4.89.1:*:*:*:*:*:*:*",
+			"cpeNameId": "30621F4C-7A1E-441D-8395-7D2F46EC9584"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vapor:vapor:4.89.2:*:*:*:*:*:*:*",
+			"cpeNameId": "0C2A929F-AB7B-4006-BA65-7C404775CB2A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vapor:vapor:4.89.3:*:*:*:*:*:*:*",
+			"cpeNameId": "A1EA04A0-3D5D-4E14-B57A-4F92952D0050"
 		}
 	]
 }
