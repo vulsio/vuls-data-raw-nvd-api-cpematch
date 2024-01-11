@@ -5,7 +5,7 @@
 	"versionEndIncluding": "13.0.11",
 	"created": "2022-08-08T14:26:17.123",
 	"lastModified": "2022-08-08T14:26:17.123",
-	"cpeLastModified": "2021-06-10T17:26:43.937",
+	"cpeLastModified": "2024-01-11T15:00:28.417",
 	"status": "Active",
 	"matches": [
 		{
@@ -43,6 +43,10 @@
 		{
 			"cpeName": "cpe:2.3:a:oracle:openjdk:13.0.8:*:*:*:*:*:*:*",
 			"cpeNameId": "CC63643E-7B01-4942-B103-51A418F6525F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:openjdk:13.0.10:*:*:*:*:*:*:*",
+			"cpeNameId": "259FBEE5-D180-4753-96B9-F0F37F32C1C6"
 		}
 	]
 }

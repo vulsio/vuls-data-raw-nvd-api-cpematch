@@ -3,8 +3,8 @@
 	"matchCriteriaId": "B33FF2B4-6C4B-4282-AD21-5DAD2CED2775",
 	"versionEndIncluding": "9.7.4",
 	"created": "2024-01-10T19:15:50.703",
-	"lastModified": "2024-01-10T19:15:50.703",
-	"cpeLastModified": "2024-01-10T19:15:50.703",
+	"lastModified": "2024-01-11T13:13:21.130",
+	"cpeLastModified": "2024-01-11T13:13:21.130",
 	"status": "Active",
 	"matches": [
 		{
@@ -554,6 +554,54 @@
 		{
 			"cpeName": "cpe:2.3:a:maxfoundry:maxbuttons:9.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "819D169B-4B78-49B8-8E51-695EB5962127"
+		},
+		{
+			"cpeName": "cpe:2.3:a:maxfoundry:maxbuttons:9.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D940B9ED-511F-4E4D-AD1D-28E5089425E2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:maxfoundry:maxbuttons:9.4.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0BBEC44E-2F2A-4C2D-AA1B-88AB464C887D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:maxfoundry:maxbuttons:9.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "16BA338E-225F-4868-B7B5-81F0650A5539"
+		},
+		{
+			"cpeName": "cpe:2.3:a:maxfoundry:maxbuttons:9.5.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E5C9C583-A403-43DA-B6DE-BCAD9E5650E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:maxfoundry:maxbuttons:9.5.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7646CAC8-4908-484E-94ED-D15713420A3C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:maxfoundry:maxbuttons:9.5.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CBA8F1D4-4F46-47BA-BFD5-979FA98EBE75"
+		},
+		{
+			"cpeName": "cpe:2.3:a:maxfoundry:maxbuttons:9.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "11FD3CEC-1444-4B2E-85AE-376F9A4693AF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:maxfoundry:maxbuttons:9.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D0119298-2C50-4454-8AD4-85946B314C8A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:maxfoundry:maxbuttons:9.7.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B4397E19-0721-484A-8AFA-4CB565644F21"
+		},
+		{
+			"cpeName": "cpe:2.3:a:maxfoundry:maxbuttons:9.7.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BCB3D412-BC13-47B9-B69E-2CED15B0F0B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:maxfoundry:maxbuttons:9.7.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F4851BCC-E968-4837-83A6-3AD6A0192096"
+		},
+		{
+			"cpeName": "cpe:2.3:a:maxfoundry:maxbuttons:9.7.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "514F5B7F-78F3-439C-8BED-94CD59378315"
 		}
 	]
 }

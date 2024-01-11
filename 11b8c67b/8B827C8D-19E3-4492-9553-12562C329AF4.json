@@ -5,6 +5,12 @@
 	"versionEndExcluding": "1.4.1",
 	"created": "2024-01-10T17:52:30.750",
 	"lastModified": "2024-01-10T17:52:30.750",
-	"cpeLastModified": "2024-01-10T17:52:30.750",
-	"status": "Active"
+	"cpeLastModified": "2024-01-11T13:20:17.157",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:openkruise:kruise:1.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5E9A9A60-F9E2-412B-950D-BBFD28812D6C"
+		}
+	]
 }
