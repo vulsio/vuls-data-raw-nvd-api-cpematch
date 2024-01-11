@@ -1,0 +1,16 @@
+{
+	"criteria": "cpe:2.3:a:microsemi:maxview_storage_manager:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "29D33AA1-0758-4237-8CB1-7275F265FB96",
+	"versionStartIncluding": "3.00.23484",
+	"versionEndIncluding": "4.14.00.26064",
+	"created": "2024-01-10T19:20:16.257",
+	"lastModified": "2024-01-10T19:20:16.257",
+	"cpeLastModified": "2024-01-10T19:20:16.257",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsemi:maxview_storage_manager:4.09.00.25611:*:*:*:*:windows:*:*",
+			"cpeNameId": "F0A1F9FC-CC18-4F11-BF24-0931723A3A49"
+		}
+	]
+}
