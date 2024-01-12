@@ -3,7 +3,7 @@
 	"matchCriteriaId": "24A184AA-06AF-4A76-ACA4-EAA3DF8CCF64",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2020-12-07T18:48:56.233",
+	"cpeLastModified": "2024-01-11T18:09:27.727",
 	"status": "Active",
 	"matches": [
 		{
@@ -717,6 +717,14 @@
 		{
 			"cpeName": "cpe:2.3:a:mozilla:network_security_services:3.58:*:*:*:*:*:*:*",
 			"cpeNameId": "A19554E6-3BD9-4277-AA6C-72184B64E238"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:network_security_services:3.77:*:*:*:*:*:*:*",
+			"cpeNameId": "E0A88D90-1804-4787-B692-961E8BC55B24"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:network_security_services:3.87:*:*:*:*:*:*:*",
+			"cpeNameId": "874B45E8-D11C-489A-A402-A268019D1718"
 		}
 	]
 }

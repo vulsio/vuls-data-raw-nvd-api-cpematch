@@ -3,8 +3,8 @@
 	"matchCriteriaId": "0352673D-D618-41C1-BC9F-8B3582BC277E",
 	"versionEndExcluding": "1.9.15",
 	"created": "2024-01-02T17:34:07.627",
-	"lastModified": "2024-01-02T17:34:07.627",
-	"cpeLastModified": "2024-01-02T17:34:28.293",
+	"lastModified": "2024-01-11T20:30:13.497",
+	"cpeLastModified": "2024-01-11T20:30:13.497",
 	"status": "Active",
 	"matches": [
 		{
@@ -686,6 +686,22 @@
 		{
 			"cpeName": "cpe:2.3:a:sudo_project:sudo:1.9.13:p3:*:*:*:*:*:*",
 			"cpeNameId": "7AB006A1-9F6B-4698-A5D2-39626F20114E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sudo_project:sudo:1.9.14:-:*:*:*:*:*:*",
+			"cpeNameId": "C475A5AA-C937-4A9A-A363-8022C92E1174"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sudo_project:sudo:1.9.14:p1:*:*:*:*:*:*",
+			"cpeNameId": "9C3E997F-AB29-4946-B823-5557FCAAEB35"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sudo_project:sudo:1.9.14:p2:*:*:*:*:*:*",
+			"cpeNameId": "7A6F2B09-67ED-45D1-A98C-2FFB5F273192"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sudo_project:sudo:1.9.14:p3:*:*:*:*:*:*",
+			"cpeNameId": "8970D118-1460-4622-ACB0-77991EAFCC41"
 		}
 	]
 }

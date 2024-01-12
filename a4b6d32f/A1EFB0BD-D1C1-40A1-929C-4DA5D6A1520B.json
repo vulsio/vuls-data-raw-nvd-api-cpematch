@@ -4,7 +4,7 @@
 	"versionEndIncluding": "3.81",
 	"created": "2022-10-17T16:50:07.297",
 	"lastModified": "2022-10-17T16:50:07.297",
-	"cpeLastModified": "2022-10-17T16:50:07.297",
+	"cpeLastModified": "2024-01-11T18:09:27.727",
 	"status": "Active",
 	"matches": [
 		{
@@ -718,6 +718,10 @@
 		{
 			"cpeName": "cpe:2.3:a:mozilla:network_security_services:3.58:*:*:*:*:*:*:*",
 			"cpeNameId": "A19554E6-3BD9-4277-AA6C-72184B64E238"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:network_security_services:3.77:*:*:*:*:*:*:*",
+			"cpeNameId": "E0A88D90-1804-4787-B692-961E8BC55B24"
 		}
 	]
 }
