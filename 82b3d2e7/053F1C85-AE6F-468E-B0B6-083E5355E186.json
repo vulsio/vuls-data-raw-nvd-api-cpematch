@@ -4,6 +4,12 @@
 	"versionEndIncluding": "0.5.0",
 	"created": "2023-09-22T18:39:43.433",
 	"lastModified": "2023-09-22T18:39:43.433",
-	"cpeLastModified": "2023-09-22T18:39:43.433",
-	"status": "Active"
+	"cpeLastModified": "2024-01-12T12:36:19.517",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ssssssss:spider-flow:0.4.3:*:*:*:*:*:*:*",
+			"cpeNameId": "B3C12B63-D50D-428E-B917-1F54EC22C4C6"
+		}
+	]
 }

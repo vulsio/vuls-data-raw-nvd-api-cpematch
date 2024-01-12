@@ -3,7 +3,7 @@
 	"matchCriteriaId": "15F07504-EDC2-4A65-8A87-312DA125D5F0",
 	"created": "2022-07-08T13:03:23.583",
 	"lastModified": "2022-07-08T13:03:23.583",
-	"cpeLastModified": "2021-04-12T13:37:51.707",
+	"cpeLastModified": "2024-01-12T12:35:05.863",
 	"status": "Active",
 	"matches": [
 		{
@@ -549,6 +549,26 @@
 		{
 			"cpeName": "cpe:2.3:a:packagekit_project:packagekit:1.2.2:*:*:*:*:*:*:*",
 			"cpeNameId": "665390E3-41BA-4FE0-9CC5-14C4EA0497E0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:packagekit_project:packagekit:1.2.3:*:*:*:*:*:*:*",
+			"cpeNameId": "2AAE5848-48CE-4B4E-A151-A009FA19B405"
+		},
+		{
+			"cpeName": "cpe:2.3:a:packagekit_project:packagekit:1.2.4:*:*:*:*:*:*:*",
+			"cpeNameId": "16A759AD-6AF1-4A80-955B-E91C348B7FEC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:packagekit_project:packagekit:1.2.5:*:*:*:*:*:*:*",
+			"cpeNameId": "0639907F-3908-46AE-933E-0D32CF6E2777"
+		},
+		{
+			"cpeName": "cpe:2.3:a:packagekit_project:packagekit:1.2.6:*:*:*:*:*:*:*",
+			"cpeNameId": "9DDFE2B6-0F63-4853-AD1F-B6D9D41640F3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:packagekit_project:packagekit:1.2.7:*:*:*:*:*:*:*",
+			"cpeNameId": "FE69457E-610D-494A-BA07-F244C68E35B8"
 		}
 	]
 }

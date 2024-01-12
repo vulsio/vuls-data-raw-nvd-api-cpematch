@@ -3,10 +3,14 @@
 	"matchCriteriaId": "9BB9DDED-0454-482A-B760-D59409637901",
 	"versionEndExcluding": "5.13.1",
 	"created": "2024-01-03T11:42:02.503",
-	"lastModified": "2024-01-03T11:42:02.503",
-	"cpeLastModified": "2024-01-03T11:42:02.503",
+	"lastModified": "2024-01-12T12:35:05.863",
+	"cpeLastModified": "2024-01-12T12:35:05.863",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oneidentity:password_manager:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8DD20EEE-A375-47C9-A442-EFC9FCFF47D7"
+		},
 		{
 			"cpeName": "cpe:2.3:a:oneidentity:password_manager:5.8:*:*:*:*:*:*:*",
 			"cpeNameId": "95474686-E351-4672-9B29-98E0F5E0F9EB"

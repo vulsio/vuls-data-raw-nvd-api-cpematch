@@ -4,6 +4,12 @@
 	"versionStartIncluding": "10.0",
 	"created": "2024-01-02T17:16:29.610",
 	"lastModified": "2024-01-02T17:16:29.610",
-	"cpeLastModified": "2024-01-02T17:16:29.610",
-	"status": "Active"
+	"cpeLastModified": "2024-01-12T12:35:05.863",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:eset:endpoint_antivirus:10.0:*:*:*:*:linux:*:*",
+			"cpeNameId": "82BA3C7C-CC73-4B1C-81D8-B17942CDAB25"
+		}
+	]
 }

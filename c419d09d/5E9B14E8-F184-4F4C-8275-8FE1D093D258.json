@@ -4,9 +4,13 @@
 	"versionEndExcluding": "1.15.4",
 	"created": "2024-01-08T12:08:52.380",
 	"lastModified": "2024-01-08T14:10:07.927",
-	"cpeLastModified": "2024-01-08T14:10:07.927",
+	"cpeLastModified": "2024-01-12T12:35:05.863",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:follow-redirects:follow_redirects:-:*:*:*:*:node.js:*:*",
+			"cpeNameId": "5931D89A-B173-4E2D-9CB5-C953E0F36810"
+		},
 		{
 			"cpeName": "cpe:2.3:a:follow-redirects:follow_redirects:0.0.6:*:*:*:*:node.js:*:*",
 			"cpeNameId": "BD268ECE-8714-4A93-A1BF-A40AFC0A0B60"

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "474D793F-0B1C-43DC-979C-29B4A48045FE",
 	"versionEndExcluding": "2.1.2",
 	"created": "2024-01-09T15:54:15.393",
-	"lastModified": "2024-01-09T15:54:15.393",
-	"cpeLastModified": "2024-01-09T15:54:15.393",
+	"lastModified": "2024-01-12T12:35:05.863",
+	"cpeLastModified": "2024-01-12T12:35:05.863",
 	"status": "Active",
 	"matches": [
 		{
@@ -658,6 +658,10 @@
 		{
 			"cpeName": "cpe:2.3:a:froxlor:froxlor:2.1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "3DDEE8DD-C619-4C71-B94C-87963C5FC7A9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:froxlor:froxlor:2.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "C9E3F40B-B941-4145-BFE9-62BFE9945BCF"
 		}
 	]
 }

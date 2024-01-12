@@ -3,7 +3,7 @@
 	"matchCriteriaId": "07E9B637-69D8-4E4F-8896-F8F14CC55E03",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-12-29T15:31:15.447",
+	"cpeLastModified": "2024-01-12T12:36:19.517",
 	"status": "Active",
 	"matches": [
 		{
@@ -36397,6 +36397,10 @@
 		{
 			"cpeName": "cpe:2.3:a:google:chrome:120.0.6099.129:*:*:*:*:*:*:*",
 			"cpeNameId": "9644BBB0-D904-4B0E-A8D1-0B87D31440F6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:google:chrome:120.0.6099.199:*:*:*:*:*:*:*",
+			"cpeNameId": "1542F13F-8F71-4137-B24D-5AD33E474145"
 		}
 	]
 }

@@ -5,6 +5,16 @@
 	"versionEndIncluding": "1.5.3",
 	"created": "2024-01-11T17:14:54.883",
 	"lastModified": "2024-01-11T17:14:54.883",
-	"cpeLastModified": "2024-01-11T17:14:54.883",
-	"status": "Active"
+	"cpeLastModified": "2024-01-12T12:36:19.517",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:youke365:youke_365:1.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5ECB6D47-E895-494E-8FF9-D56F8ED5D3B9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:youke365:youke_365:1.5.3:*:*:*:*:*:*:*",
+			"cpeNameId": "A23239A5-8463-44FB-AF2D-58791A6057BE"
+		}
+	]
 }

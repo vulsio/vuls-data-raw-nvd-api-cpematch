@@ -3,8 +3,8 @@
 	"matchCriteriaId": "40939BAA-57AE-4D36-B0EE-C900BA72F55A",
 	"versionEndExcluding": "0.41.1",
 	"created": "2024-01-08T19:07:49.890",
-	"lastModified": "2024-01-08T19:07:49.890",
-	"cpeLastModified": "2024-01-08T19:07:49.890",
+	"lastModified": "2024-01-12T12:35:05.863",
+	"cpeLastModified": "2024-01-12T12:35:05.863",
 	"status": "Active",
 	"matches": [
 		{
@@ -194,6 +194,10 @@
 		{
 			"cpeName": "cpe:2.3:a:evm_project:evm:0.36.0:*:*:*:*:rust:*:*",
 			"cpeNameId": "AF0CB66F-C242-43CD-8CF1-A36F06BF40CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:evm_project:evm:0.41.0:*:*:*:*:rust:*:*",
+			"cpeNameId": "36972238-33B6-4AE8-B2B6-66EAE54054D3"
 		}
 	]
 }

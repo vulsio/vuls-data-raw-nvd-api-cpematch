@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:open-xchange:ox_app_suite:7.10.6:rev50:*:*:*:*:*:*",
 	"matchCriteriaId": "1D7A5899-0795-452E-8B43-75C266AE6B88",
 	"created": "2024-01-11T15:01:51.530",
-	"lastModified": "2024-01-11T15:01:51.530",
-	"cpeLastModified": "2024-01-11T15:01:51.530",
-	"status": "Active"
+	"lastModified": "2024-01-12T12:35:05.863",
+	"cpeLastModified": "2024-01-12T12:35:05.863",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:ox_app_suite:7.10.6:rev50:*:*:*:*:*:*",
+			"cpeNameId": "26E7EC89-E15B-4DCC-8E42-03097BDC6201"
+		}
+	]
 }

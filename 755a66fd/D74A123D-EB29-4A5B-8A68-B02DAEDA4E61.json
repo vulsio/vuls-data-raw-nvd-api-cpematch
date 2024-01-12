@@ -1,0 +1,27 @@
+{
+	"criteria": "cpe:2.3:a:wallix:bastion_access_manager:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D74A123D-EB29-4A5B-8A68-B02DAEDA4E61",
+	"versionStartIncluding": "3.0.0",
+	"created": "2024-01-12T15:26:21.990",
+	"lastModified": "2024-01-12T15:26:21.990",
+	"cpeLastModified": "2024-01-12T15:26:21.990",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wallix:bastion_access_manager:3.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E443BD89-80F3-4A73-ADAB-5FC25EB519B1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wallix:bastion_access_manager:3.0.16:*:*:*:*:*:*:*",
+			"cpeNameId": "B34AFC88-E0EE-4C96-BA2C-AD081CD0C1C9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wallix:bastion_access_manager:4.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "9CD2322A-7869-4369-8023-C1BC12B309B7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wallix:bastion_access_manager:4.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "E8CC4A14-1269-465C-85E6-7D282161B99A"
+		}
+	]
+}

@@ -4,9 +4,13 @@
 	"versionEndExcluding": "2020.9.2",
 	"created": "2024-01-04T17:02:04.437",
 	"lastModified": "2024-01-08T20:54:53.103",
-	"cpeLastModified": "2024-01-08T20:54:53.103",
+	"cpeLastModified": "2024-01-12T12:35:05.863",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:-:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "15643208-EA39-465E-9322-44F142BB4AE3"
+		},
 		{
 			"cpeName": "cpe:2.3:a:microsoft:python_extension:0.0.3:*:*:*:*:visual_studio_code:*:*",
 			"cpeNameId": "F649DC67-1A18-4C46-AACD-032318CFE177"

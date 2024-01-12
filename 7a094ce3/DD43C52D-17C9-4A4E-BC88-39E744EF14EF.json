@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:a:strategy11:formidable_forms:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "DD43C52D-17C9-4A4E-BC88-39E744EF14EF",
+	"versionEndIncluding": "6.7",
+	"created": "2024-01-12T15:44:54.660",
+	"lastModified": "2024-01-12T15:44:54.660",
+	"cpeLastModified": "2024-01-12T15:44:54.660",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:strategy11:formidable_forms:6.3.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D650E6D9-7F68-4D91-BCA0-9B9D70C2A5F8"
+		}
+	]
+}

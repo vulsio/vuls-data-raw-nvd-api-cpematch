@@ -4,6 +4,12 @@
 	"versionEndIncluding": "q3_2023",
 	"created": "2024-01-08T18:48:17.170",
 	"lastModified": "2024-01-08T18:48:17.170",
-	"cpeLastModified": "2024-01-08T18:48:17.170",
-	"status": "Active"
+	"cpeLastModified": "2024-01-12T12:35:05.863",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:floorsightsoftware:insight:q3_2023:*:*:*:*:*:*:*",
+			"cpeNameId": "F5D54C43-87DA-42C1-BA7A-90AC3B8DF56E"
+		}
+	]
 }

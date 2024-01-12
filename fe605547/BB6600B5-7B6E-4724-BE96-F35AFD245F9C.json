@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:uniwayinfo:uw-311vpw:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "BB6600B5-7B6E-4724-BE96-F35AFD245F9C",
 	"created": "2024-01-10T15:00:12.143",
-	"lastModified": "2024-01-10T15:00:12.143",
-	"cpeLastModified": "2024-01-10T15:00:12.143",
-	"status": "Active"
+	"lastModified": "2024-01-12T12:35:05.863",
+	"cpeLastModified": "2024-01-12T12:35:05.863",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:uniwayinfo:uw-311vpw:-:*:*:*:*:*:*:*",
+			"cpeNameId": "949E599C-BFFA-4D57-860D-DEB261284EE6"
+		}
+	]
 }

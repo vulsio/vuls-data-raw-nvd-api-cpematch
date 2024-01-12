@@ -5,7 +5,7 @@
 	"versionEndIncluding": "r40p0",
 	"created": "2022-12-13T18:00:02.500",
 	"lastModified": "2022-12-13T18:00:02.500",
-	"cpeLastModified": "2022-12-13T18:00:02.500",
+	"cpeLastModified": "2024-01-12T12:35:05.863",
 	"status": "Active",
 	"matches": [
 		{
@@ -19,6 +19,10 @@
 		{
 			"cpeName": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r34p0:*:*:*:*:*:*:*",
 			"cpeNameId": "E17DF7D4-2999-41F7-A396-37A3558EA3AA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r37p0:*:*:*:*:*:*:*",
+			"cpeNameId": "A2F1E10E-C34A-4090-BAE6-91CC9942E1D1"
 		},
 		{
 			"cpeName": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r38p0:*:*:*:*:*:*:*",

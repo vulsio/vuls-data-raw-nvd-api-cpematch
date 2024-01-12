@@ -3,8 +3,8 @@
 	"matchCriteriaId": "0316ED89-1327-46DA-BD43-995B6DC663DE",
 	"versionEndIncluding": "3.7.0",
 	"created": "2024-01-08T16:48:10.550",
-	"lastModified": "2024-01-08T16:48:10.550",
-	"cpeLastModified": "2024-01-08T16:48:10.550",
+	"lastModified": "2024-01-12T12:35:05.863",
+	"cpeLastModified": "2024-01-12T12:35:05.863",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:a:bladex:springblade:3.6.0:*:*:*:*:*:*:*",
 			"cpeNameId": "531F2D31-96D0-4CEB-B79A-B4F4011BF6D1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bladex:springblade:3.7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "4D298854-E02F-4128-8E0B-129B7B7CF956"
 		}
 	]
 }

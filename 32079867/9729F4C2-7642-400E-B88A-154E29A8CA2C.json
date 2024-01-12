@@ -4,8 +4,8 @@
 	"versionStartIncluding": "6.0.0",
 	"versionEndExcluding": "6.4.2",
 	"created": "2024-01-11T16:46:05.283",
-	"lastModified": "2024-01-11T16:46:05.283",
-	"cpeLastModified": "2024-01-11T16:46:05.283",
+	"lastModified": "2024-01-12T12:35:05.863",
+	"cpeLastModified": "2024-01-12T12:35:05.863",
 	"status": "Active",
 	"matches": [
 		{
@@ -43,6 +43,14 @@
 		{
 			"cpeName": "cpe:2.3:a:puma:puma:6.3.1:*:*:*:*:ruby:*:*",
 			"cpeNameId": "BFC9E573-FD26-4BA0-BCAF-B624A92C767F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:puma:puma:6.4.0:*:*:*:*:ruby:*:*",
+			"cpeNameId": "D3B96D56-5C24-4768-A7C0-87CA956F090F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:puma:puma:6.4.1:*:*:*:*:ruby:*:*",
+			"cpeNameId": "9B36AEA2-BA5C-4153-85FF-A90F345B4062"
 		}
 	]
 }

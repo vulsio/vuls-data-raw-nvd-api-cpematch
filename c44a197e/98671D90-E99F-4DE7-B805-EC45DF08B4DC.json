@@ -4,9 +4,17 @@
 	"versionEndExcluding": "5.7.10",
 	"created": "2024-01-09T19:52:19.360",
 	"lastModified": "2024-01-10T13:13:50.217",
-	"cpeLastModified": "2024-01-10T13:13:50.217",
+	"cpeLastModified": "2024-01-12T12:36:19.517",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:daan:omgf:4.5.19:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E3B0A5FD-D593-46DC-8870-904CF37FC6E2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:daan:omgf:4.6.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AAB3C37C-5DE1-4624-B915-61A3E595B549"
+		},
 		{
 			"cpeName": "cpe:2.3:a:daan:omgf:5.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "A4F05510-4822-4C07-BF44-A82E1D963063"

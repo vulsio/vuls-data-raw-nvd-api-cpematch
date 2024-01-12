@@ -3,7 +3,13 @@
 	"matchCriteriaId": "1F38FE3C-4205-4A63-82C5-666CD1416EF3",
 	"versionEndExcluding": "6.0.2.1",
 	"created": "2024-01-05T18:52:19.553",
-	"lastModified": "2024-01-05T18:52:19.553",
-	"cpeLastModified": "2024-01-05T18:52:19.553",
-	"status": "Active"
+	"lastModified": "2024-01-12T12:35:05.863",
+	"cpeLastModified": "2024-01-12T12:35:05.863",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:royalapps:royaltsx:-:*:*:*:*:macos:*:*",
+			"cpeNameId": "17B49DD8-C98E-48F9-B184-1F76572860BC"
+		}
+	]
 }

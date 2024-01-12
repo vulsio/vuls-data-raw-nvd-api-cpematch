@@ -4,7 +4,7 @@
 	"versionEndExcluding": "0.93",
 	"created": "2019-12-30T14:29:01.200",
 	"lastModified": "2019-12-30T14:29:01.200",
-	"cpeLastModified": "2022-11-30T19:34:59.950",
+	"cpeLastModified": "2024-01-12T12:35:05.863",
 	"status": "Active",
 	"matches": [
 		{
@@ -2786,6 +2786,10 @@
 		{
 			"cpeName": "cpe:2.3:a:gnu:libredwg:0.12.5:*:*:*:*:*:*:*",
 			"cpeNameId": "49A8605E-9488-4D43-BE28-4111816B5158"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gnu:libredwg:0.12.5.6384:*:*:*:*:*:*:*",
+			"cpeNameId": "93229981-C4CB-426E-9553-2D46A898AA1B"
 		},
 		{
 			"cpeName": "cpe:2.3:a:gnu:libredwg:0.92:*:*:*:*:*:*:*",

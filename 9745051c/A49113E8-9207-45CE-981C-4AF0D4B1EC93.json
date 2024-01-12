@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:verot:class.upload.php:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "A49113E8-9207-45CE-981C-4AF0D4B1EC93",
 	"created": "2024-01-11T16:41:16.417",
-	"lastModified": "2024-01-11T16:41:16.417",
-	"cpeLastModified": "2024-01-11T16:41:16.417",
-	"status": "Active"
+	"lastModified": "2024-01-12T12:36:19.517",
+	"cpeLastModified": "2024-01-12T12:36:19.517",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:verot:class.upload.php:-:*:*:*:*:*:*:*",
+			"cpeNameId": "67C9DD94-64EE-46D1-A45B-9FF1DB39A4FE"
+		}
+	]
 }

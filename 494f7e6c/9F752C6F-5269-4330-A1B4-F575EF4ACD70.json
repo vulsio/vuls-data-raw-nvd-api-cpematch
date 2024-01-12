@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:arris:dg860a:*:*:*:*:*:*:*:*",
 	"matchCriteriaId": "9F752C6F-5269-4330-A1B4-F575EF4ACD70",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
-	"status": "Active"
+	"lastModified": "2024-01-12T12:35:05.863",
+	"cpeLastModified": "2024-01-12T12:35:05.863",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:arris:dg860a:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B1D7ED14-9257-4CE7-82D3-465CAD70169E"
+		}
+	]
 }

@@ -4,6 +4,12 @@
 	"versionEndExcluding": "23.4",
 	"created": "2023-08-24T16:39:23.757",
 	"lastModified": "2023-08-24T16:39:23.757",
-	"cpeLastModified": "2023-08-24T16:39:23.757",
-	"status": "Active"
+	"cpeLastModified": "2024-01-12T12:35:05.863",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:lenovo:universal_device_client:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3EF8F176-6F95-4332-B19F-B4AB83720779"
+		}
+	]
 }
