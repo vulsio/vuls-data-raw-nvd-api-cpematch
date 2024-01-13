@@ -4,7 +4,7 @@
 	"versionEndExcluding": "6.4.1.236",
 	"created": "2023-11-08T15:51:52.160",
 	"lastModified": "2023-11-08T16:38:45.660",
-	"cpeLastModified": "2023-11-08T16:38:45.660",
+	"cpeLastModified": "2024-01-13T05:00:02.210",
 	"status": "Active",
 	"matches": [
 		{
@@ -74,6 +74,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ivanti:avalanche:6.3.4.153:*:*:*:premise:*:*:*",
 			"cpeNameId": "05602F8E-C178-4D07-A923-88A03536F106"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ivanti:avalanche:6.4.1:*:*:*:premise:*:*:*",
+			"cpeNameId": "8D88F455-1475-4DDB-B2E6-9DB9D39A3072"
 		},
 		{
 			"cpeName": "cpe:2.3:a:ivanti:avalanche:6.4.1.207:*:*:*:premise:*:*:*",

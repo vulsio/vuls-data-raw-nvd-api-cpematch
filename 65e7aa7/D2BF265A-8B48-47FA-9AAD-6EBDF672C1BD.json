@@ -5,7 +5,7 @@
 	"versionEndIncluding": "21.1.1",
 	"created": "2022-05-20T14:35:07.960",
 	"lastModified": "2022-05-20T14:35:07.960",
-	"cpeLastModified": "2022-05-20T16:53:03.860",
+	"cpeLastModified": "2024-01-13T05:00:02.210",
 	"status": "Active",
 	"matches": [
 		{
@@ -23,6 +23,14 @@
 		{
 			"cpeName": "cpe:2.3:a:ipswitch:whatsup_gold:18.0:*:*:*:*:*:*:*",
 			"cpeNameId": "2568897C-8B75-47FC-9B69-8D1628821342"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ipswitch:whatsup_gold:21.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "FD7DB9C8-9EAA-4243-B610-155FE4F45E43"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ipswitch:whatsup_gold:21.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "CE981A1D-29AD-4854-8791-562B11D5820B"
 		}
 	]
 }
