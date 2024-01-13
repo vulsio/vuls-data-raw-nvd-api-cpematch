@@ -3,7 +3,7 @@
 	"matchCriteriaId": "B4A637D6-78D0-400D-82A4-FDEFCED069B1",
 	"created": "2023-02-21T15:21:25.223",
 	"lastModified": "2023-02-24T12:01:06.277",
-	"cpeLastModified": "2024-01-12T12:36:19.517",
+	"cpeLastModified": "2024-01-12T18:55:24.630",
 	"status": "Active",
 	"matches": [
 		{
@@ -1789,6 +1789,10 @@
 		{
 			"cpeName": "cpe:2.3:o:microsoft:windows_10_1607:10.0.14393.6529:*:*:*:*:*:*:*",
 			"cpeNameId": "1CA4C390-6B3A-4E91-9547-32678F05EF15"
+		},
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_10_1607:10.0.14393.6614:*:*:*:*:*:*:*",
+			"cpeNameId": "11948A2E-A2D6-49E0-B8EA-DBA5A4DB888D"
 		},
 		{
 			"cpeName": "cpe:2.3:o:microsoft:windows_10_1607:10.0.14393.6614:*:*:*:*:*:x64:*",

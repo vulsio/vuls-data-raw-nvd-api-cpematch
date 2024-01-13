@@ -3,7 +3,17 @@
 	"matchCriteriaId": "1C06A874-D317-459E-A008-C3C888D49FC2",
 	"versionEndIncluding": "2.12.703",
 	"created": "2024-01-12T18:07:08.760",
-	"lastModified": "2024-01-12T18:08:14.403",
-	"cpeLastModified": "2024-01-12T18:07:08.760",
-	"status": "Inactive"
+	"lastModified": "2024-01-12T19:12:05.967",
+	"cpeLastModified": "2024-01-12T19:12:05.967",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:tp-link:tapo:-:*:*:*:*:android:*:*",
+			"cpeNameId": "0E936BF0-A9FA-4274-931F-FAB7C60FD40C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tp-link:tapo:2.11.44:*:*:*:*:android:*:*",
+			"cpeNameId": "50DC3203-8EE0-48D9-A69E-383EECDD5C92"
+		}
+	]
 }
