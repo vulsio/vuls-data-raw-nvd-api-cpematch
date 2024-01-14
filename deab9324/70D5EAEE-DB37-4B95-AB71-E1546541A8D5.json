@@ -3,8 +3,8 @@
 	"matchCriteriaId": "70D5EAEE-DB37-4B95-AB71-E1546541A8D5",
 	"versionEndIncluding": "2.9.31",
 	"created": "2024-01-08T18:11:22.340",
-	"lastModified": "2024-01-08T18:11:22.340",
-	"cpeLastModified": "2024-01-08T18:11:22.340",
+	"lastModified": "2024-01-13T18:42:24.097",
+	"cpeLastModified": "2024-01-13T18:42:24.097",
 	"status": "Active",
 	"matches": [
 		{
@@ -602,6 +602,26 @@
 		{
 			"cpeName": "cpe:2.3:a:wpaffiliatemanager:affiliates_manager:2.9.26:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "D5488A99-9A15-4AA5-AFFD-611135BD0A33"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpaffiliatemanager:affiliates_manager:2.9.27:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A13F4E51-0418-4432-AC64-448DA67F1144"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpaffiliatemanager:affiliates_manager:2.9.28:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E971649B-89BD-45E4-A72A-7E2D889802DF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpaffiliatemanager:affiliates_manager:2.9.29:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "24A8741F-D2AC-4C9F-A97B-80EDC0D48E02"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpaffiliatemanager:affiliates_manager:2.9.30:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "49C4616F-9C8F-4158-997C-A303D9421F2A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpaffiliatemanager:affiliates_manager:2.9.31:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0392EA44-F6F2-4151-801F-0516086D4E4D"
 		}
 	]
 }

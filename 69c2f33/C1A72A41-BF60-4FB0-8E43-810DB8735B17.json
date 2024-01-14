@@ -4,13 +4,21 @@
 	"versionStartIncluding": "3.0.4",
 	"versionEndIncluding": "3.2.0",
 	"created": "2024-01-05T12:29:48.213",
-	"lastModified": "2024-01-05T12:29:48.213",
-	"cpeLastModified": "2024-01-05T12:29:48.213",
+	"lastModified": "2024-01-13T18:51:16.597",
+	"cpeLastModified": "2024-01-13T18:51:16.597",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:wiremock:wiremock:3.0.4:*:*:*:*:*:*:*",
 			"cpeNameId": "1C005845-029F-4028-A7C1-EB6B16AE8352"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wiremock:wiremock:3.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "FCC0D0D1-BC4F-4B75-80E8-7175D7AD6768"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wiremock:wiremock:3.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "DBABB672-C68B-47B1-B939-80961065BCAE"
 		}
 	]
 }
