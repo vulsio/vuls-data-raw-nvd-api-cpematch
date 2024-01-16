@@ -3,8 +3,8 @@
 	"matchCriteriaId": "DF28BFE7-F306-4B24-848E-F798C8AC9E9C",
 	"versionEndIncluding": "2.33.3",
 	"created": "2024-01-13T02:23:44.547",
-	"lastModified": "2024-01-13T02:23:44.547",
-	"cpeLastModified": "2024-01-13T02:23:44.547",
+	"lastModified": "2024-01-16T14:35:08.390",
+	"cpeLastModified": "2024-01-16T14:35:08.390",
 	"status": "Active",
 	"matches": [
 		{
@@ -762,6 +762,62 @@
 		{
 			"cpeName": "cpe:2.3:a:givewp:givewp:2.27.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "B27451C1-32BE-4311-B41E-8872E4F76B2F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:2.27.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F30EE8AA-9EBC-46EF-B0F5-8F2C0071AC50"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:2.27.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C6B1134E-9239-40AF-86BE-4C6242FEF783"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:2.27.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7A6CEA91-8AF5-4653-9843-77DF122887C9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:2.28.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9773DA8D-13C5-4EAF-8911-320639B45837"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:2.29.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "89F0022A-21A4-4B10-9155-522E2B63B5B7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:2.29.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F62876CF-B67D-4DDE-8D9C-ADAC9D7E90D2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:2.29.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FF442268-8FB1-47A2-AAC2-FB4D450C2CB4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:2.30.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "768EF539-3F52-4B66-A47F-B1B7F9081F8E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:2.31.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9FDB2BCD-0B8F-498C-900C-A30A4DAD5E85"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:2.32.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "353CD779-1B96-4FAA-87FB-A6D5A9CA0140"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:2.33.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "04222363-4841-4D1F-9EB4-FDACC40EA1FE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:2.33.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F1A6A60C-FCF5-44B5-814E-E4461160C31F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:2.33.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A52F50AF-37F2-42A7-BB48-158A3A0F920A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:2.33.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B1411CFF-4248-4204-B59E-D6FEF295EAEC"
 		}
 	]
 }

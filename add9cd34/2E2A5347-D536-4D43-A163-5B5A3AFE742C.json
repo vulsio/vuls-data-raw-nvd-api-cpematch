@@ -1,0 +1,16 @@
+{
+	"criteria": "cpe:2.3:o:fortinet:fortios:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "2E2A5347-D536-4D43-A163-5B5A3AFE742C",
+	"versionStartIncluding": "7.4.0",
+	"versionEndIncluding": "7.4.1",
+	"created": "2024-01-16T14:54:18.643",
+	"lastModified": "2024-01-16T14:54:18.643",
+	"cpeLastModified": "2024-01-16T14:54:18.643",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:fortinet:fortios:7.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E8CCA7BC-F75E-42CF-A329-6A2303C7C424"
+		}
+	]
+}

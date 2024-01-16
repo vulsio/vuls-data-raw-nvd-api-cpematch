@@ -1,0 +1,16 @@
+{
+	"criteria": "cpe:2.3:a:fortinet:fortiportal:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "EFB80359-3F7B-41FC-87EC-3EAF9A46642A",
+	"versionStartIncluding": "7.2.0",
+	"versionEndIncluding": "7.2.1",
+	"created": "2024-01-16T14:59:35.163",
+	"lastModified": "2024-01-16T14:59:35.163",
+	"cpeLastModified": "2024-01-16T14:59:35.163",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiportal:7.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "0E6C7FBA-FC3A-4897-859C-0196A09C6C09"
+		}
+	]
+}

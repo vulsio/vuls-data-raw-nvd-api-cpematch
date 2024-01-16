@@ -3,8 +3,8 @@
 	"matchCriteriaId": "603D0672-D8DF-426E-A30D-435E9725188B",
 	"versionEndIncluding": "5.3",
 	"created": "2023-05-30T21:16:23.040",
-	"lastModified": "2023-05-30T21:16:23.040",
-	"cpeLastModified": "2023-05-30T21:16:23.040",
+	"lastModified": "2024-01-16T14:46:34.520",
+	"cpeLastModified": "2024-01-16T14:46:34.520",
 	"status": "Active",
 	"matches": [
 		{
@@ -642,6 +642,106 @@
 		{
 			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:3.6.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "38098F93-FBC5-42D4-A28D-0C6A726A8048"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:3.6.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7474DDAF-3954-44BE-8859-51EDE8CCD93C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:3.6.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A5B28762-CADB-4DD9-8C2B-5DC7E9715BB2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:3.6.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2EBD4E46-3561-4C6E-A23D-F1CDAE2CCC5C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:4.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B4EED902-8B14-4882-9E1A-8918CB97814A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:4.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "25B9AE8A-E5F9-4AFC-B0E1-7FC049D96978"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:4.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EAA733FE-0BA8-4E59-A9A0-B284EA96F3E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:4.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "ADAB2200-C406-4545-B177-B085ACA5517C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:4.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D0DCB548-F64F-4A0D-9D0C-C0027EA08A85"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:4.4.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0AC150EB-EB50-4E9E-B9BA-71A2110613BA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:4.4.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "29CBCB78-462B-426B-A94E-08DAAE7EE28E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:4.4.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "65EC5DC4-8120-4CFD-B1EC-3241176B4686"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:4.4.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4CAF76CF-3BB7-4885-8FB4-65EF36170595"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:4.4.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2BAC887F-CEDB-40D5-BB13-C5B52A368C5A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:4.4.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E28BB34D-36EB-4407-A385-17290C6CBF7A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:4.4.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "23B9BB29-A430-4206-B83C-A8C83927BA8C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:4.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E95DA986-F4D6-4051-9F9A-4A8784B4EAD7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:4.5.0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8AC9C3A4-C415-41E5-A7CD-1EE114552729"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:4.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B688A166-48CA-435A-BCD7-0E18F78FC46F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:5.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FB80691B-E292-468A-AA3C-D8E76ED9724F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:5.0.0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0CC15170-4F9A-40FD-9898-2D747B1A1C71"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:5.0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C640D517-63F6-42AC-96D8-D30937F03D66"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:5.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3EB0A76E-56EF-447C-AD73-2BD22263CE9E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:5.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BDBE6FB1-9FA4-4F1C-8AEC-CCC1FD173B57"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:5.2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1FB2CD44-75DE-45CD-8DF0-3F230E7FABDD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:5.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B766C091-B134-4832-9640-63D4D1893238"
 		}
 	]
 }
