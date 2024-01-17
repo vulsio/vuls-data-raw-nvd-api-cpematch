@@ -4,35 +4,5 @@
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2024-01-17T03:00:23.090",
 	"cpeLastModified": "2024-01-16T19:18:24.053",
-	"status": "Inactive",
-	"matches": [
-		{
-			"cpeName": "cpe:2.3:a:pulsesecure:pulse_policy_secure:9.0:-:*:*:*:*:*:*",
-			"cpeNameId": "352CBFCF-AD16-4EF5-B6A9-E4844D247C1A"
-		},
-		{
-			"cpeName": "cpe:2.3:a:pulsesecure:pulse_policy_secure:9.0:r1:*:*:*:*:*:*",
-			"cpeNameId": "51F250EF-DA51-47AD-AED4-A2227180C6F9"
-		},
-		{
-			"cpeName": "cpe:2.3:a:pulsesecure:pulse_policy_secure:9.0:r2:*:*:*:*:*:*",
-			"cpeNameId": "7A26B301-9CED-491F-A984-4081691519EC"
-		},
-		{
-			"cpeName": "cpe:2.3:a:pulsesecure:pulse_policy_secure:9.0:r2.1:*:*:*:*:*:*",
-			"cpeNameId": "ACE4394B-1894-4866-B8D5-3E43AF843AEE"
-		},
-		{
-			"cpeName": "cpe:2.3:a:pulsesecure:pulse_policy_secure:9.0:r3:*:*:*:*:*:*",
-			"cpeNameId": "133CA0B1-E74E-4C29-BA8A-F7BEEAF38624"
-		},
-		{
-			"cpeName": "cpe:2.3:a:pulsesecure:pulse_policy_secure:9.0:r3.1:*:*:*:*:*:*",
-			"cpeNameId": "05F83083-FDFF-4705-BDEA-7852ECB4A0FA"
-		},
-		{
-			"cpeName": "cpe:2.3:a:pulsesecure:pulse_policy_secure:9.0:r4:*:*:*:*:*:*",
-			"cpeNameId": "57EB7806-4D2B-43FE-93EC-63006A377C77"
-		}
-	]
+	"status": "Inactive"
 }
