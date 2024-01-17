@@ -3,7 +3,7 @@
 	"matchCriteriaId": "20294CE7-12C8-43CA-A702-5ED2A3044FFC",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2023-02-17T19:02:16.747",
-	"cpeLastModified": "2023-10-05T13:34:12.730",
+	"cpeLastModified": "2024-01-16T19:04:18.707",
 	"status": "Active",
 	"matches": [
 		{
@@ -141,6 +141,10 @@
 		{
 			"cpeName": "cpe:2.3:o:fedoraproject:fedora:39:*:*:*:*:*:*:*",
 			"cpeNameId": "7A55FD25-6CA1-4B60-8BAA-BE4EE78C050D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:fedoraproject:fedora:40:*:*:*:*:*:*:*",
+			"cpeNameId": "29BD7870-6016-4866-BFF3-B61A6B432648"
 		}
 	]
 }

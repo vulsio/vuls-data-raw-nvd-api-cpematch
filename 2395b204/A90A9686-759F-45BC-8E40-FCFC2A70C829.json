@@ -3,8 +3,8 @@
 	"matchCriteriaId": "A90A9686-759F-45BC-8E40-FCFC2A70C829",
 	"versionEndIncluding": "6.20",
 	"created": "2024-01-08T19:29:34.763",
-	"lastModified": "2024-01-08T19:29:34.763",
-	"cpeLastModified": "2024-01-08T19:29:34.763",
+	"lastModified": "2024-01-16T19:34:23.507",
+	"cpeLastModified": "2024-01-16T19:34:23.507",
 	"status": "Active",
 	"matches": [
 		{
@@ -1294,6 +1294,146 @@
 		{
 			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:5.187:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "B3B1A4CC-FBD1-48C4-8D82-B43C31A8208B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:5.188:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9DA3B7F0-F73C-43C8-8874-B0AE41473606"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:5.189:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B3D3E90A-8D61-47DC-ADB6-527DAD3CA489"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:5.189.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A7C8D24E-F3BD-432D-B979-17B56A655ADE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "23A0DE72-2455-4783-8A05-4A218D5BF331"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "57AE7D10-9E51-4049-A0C2-1492712757BB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "182F1C60-188E-4599-8977-E29F7E30D350"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3E0458C2-2C5E-46EA-B003-7E57F2EB1684"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "48F9D56F-2BC0-4667-8849-887873451F17"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "27221F64-A45A-43D4-92FB-577DF9C6306D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.3.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "15D4634D-E9A7-453F-8764-8977CCD92F89"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3AD57F96-71E0-4836-8A48-B74449999DFA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.4.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8A2360C7-D3F3-481D-ADA6-80964A515011"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "834C86AF-1D5E-4D72-A038-419869C9D438"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A7108587-6B99-44CE-8C32-7A8ACC536A4B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "561E7B4F-4160-432F-B992-D90DEF3D4EFC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A41D7276-3A3D-4DCC-9B21-1C2BF31C3B81"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E9C8D3BD-FA14-454F-9B08-58F61AB3B1E7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.9.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F7E9B18C-45B9-4CBF-ADD4-4F5A93B649E2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.9.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "34706697-E4C9-4453-91E6-66E882364DA8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AAAB0C49-EFE4-45CE-947B-12A80A36F077"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F7FFB715-D6EC-4817-9B70-C94F6B575AFA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.11.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "38230668-F45E-4D39-B408-2250B799DCEC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.11.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "89AFB9C1-F34D-4CB8-A1A9-CB3E140A7096"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CBFEBE6F-B455-4410-8026-A4AB964BBF3B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.13:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EF99B304-FA85-4501-8C8D-2EE628AD0064"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.14:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F4FF32A9-3ED7-432D-A48D-977E06AF3F4A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.14.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2FC5A5E5-397A-454A-9A15-B697EBDE666F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.14.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F8633C46-0038-4C7D-8C64-8814E49C880E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.15:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9BFEB569-B88B-4569-AF04-FA7847613610"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.16:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1AA122C0-1413-42F5-894C-462CABDE0F21"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.17:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "72A969E2-900F-460E-A6F5-866FD4E3212E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.18:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F0F6629D-05D8-4276-A492-42F5EAB2EB97"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.19:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "ACF3B217-8EF5-465F-A20C-DF255E7C9BCB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.19.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7E80C058-F427-4F9F-B21B-CA01030EAA6F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:6.20:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1470E0CB-386D-468A-8F56-070F8D5524BD"
 		}
 	]
 }

@@ -4,7 +4,7 @@
 	"versionStartIncluding": "4.2.0",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-12-17T15:03:08.927",
+	"cpeLastModified": "2024-01-16T19:04:18.707",
 	"status": "Active",
 	"matches": [
 		{
@@ -128,6 +128,18 @@
 			"cpeNameId": "18CF4932-1FC2-4D60-9EFC-6044C4336F98"
 		},
 		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.6.8:*:*:*:*:*:*:*",
+			"cpeNameId": "841D1594-A195-4866-AD90-45D78E812CF2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.6.9:*:*:*:*:*:*:*",
+			"cpeNameId": "A64E710C-0EA4-44F4-868C-3B6E8C8D157C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.6.10:*:*:*:*:*:*:*",
+			"cpeNameId": "7917031C-E495-4B27-A00D-B9331FD05D74"
+		},
+		{
 			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.6.90:pre1:*:*:*:*:*:*",
 			"cpeNameId": "9AE4AC5C-B4D6-460B-B23D-67642ABEC593"
 		},
@@ -156,6 +168,10 @@
 			"cpeNameId": "9E3EF751-5B1B-4D59-B963-6CF56E2229A3"
 		},
 		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.7.5:*:*:*:*:*:*:*",
+			"cpeNameId": "F7E63450-6A95-44F5-AA22-FFB3C48A6297"
+		},
+		{
 			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.7.90:pre1:*:*:*:*:*:*",
 			"cpeNameId": "DCF62047-F52B-4267-B7A6-0FB86BE6BBB7"
 		},
@@ -174,6 +190,134 @@
 		{
 			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.8.3:*:*:*:*:*:*:*",
 			"cpeNameId": "B1BBBBDE-8994-42FC-A071-BA4DA8CCA876"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.8.4:*:*:*:*:*:*:*",
+			"cpeNameId": "ECC53E08-145F-47C6-A54B-3F5BFA6EF943"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.8.5:*:*:*:*:*:*:*",
+			"cpeNameId": "70508E0C-FE3C-4280-8C3F-D5AE05F738F3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.8.6:*:*:*:*:*:*:*",
+			"cpeNameId": "0CE7F777-C8B3-456B-95FD-6EACB9B496E5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.8.7:*:*:*:*:*:*:*",
+			"cpeNameId": "E81AB01D-DD9B-48BA-89F1-A8D8FA73BF4D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.8.8:*:*:*:*:*:*:*",
+			"cpeNameId": "10144ADE-4431-4450-A222-10DD09AA171E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.8.9:*:*:*:*:*:*:*",
+			"cpeNameId": "E0934DDE-D07D-45C1-A28B-DAAD5666050B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.8.10:*:*:*:*:*:*:*",
+			"cpeNameId": "41FA8AC5-42C6-4CA0-A7EE-64F40F1D6EA8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.9.0:-:*:*:*:*:*:*",
+			"cpeNameId": "A7C05132-E6C5-477B-BB71-F94AF14485A4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.9.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "316F1BA4-E090-4876-8E7F-6EC13C8B8900"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.9.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "D5F02C9A-1152-47B3-89AC-974B3A2864D0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.9.0:rc3:*:*:*:*:*:*",
+			"cpeNameId": "831D2E23-9A72-4111-A4DE-C98541E3196C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.9.1:*:*:*:*:*:*:*",
+			"cpeNameId": "8255DCCC-0F3D-423C-B21D-32DBA4F911D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.9.2:*:*:*:*:*:*:*",
+			"cpeNameId": "07F9AF5A-D28D-4376-A9D7-8F1C32814B46"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.9.3:*:*:*:*:*:*:*",
+			"cpeNameId": "EE4322C4-CD15-4565-B049-12F5675B723F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.9.4:*:*:*:*:*:*:*",
+			"cpeNameId": "5C33BB88-C35C-4C7E-A4A1-5C6F11E752A3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.9.5:*:*:*:*:*:*:*",
+			"cpeNameId": "9BB9F360-58CD-4846-A2E8-C604889F5AE9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.9.6:*:*:*:*:*:*:*",
+			"cpeNameId": "BD0ADB08-170D-4897-B2A4-E064385E59D4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.9.7:*:*:*:*:*:*:*",
+			"cpeNameId": "9BC368AF-A290-4BBD-9055-43E11F679214"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.9.8:*:*:*:*:*:*:*",
+			"cpeNameId": "767218C9-5C9A-41CE-B52B-3BB8D68E1BF7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.9.9:*:*:*:*:*:*:*",
+			"cpeNameId": "FAE6972C-93DF-4E54-BE42-683064372B6D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.9.10:*:*:*:*:*:*:*",
+			"cpeNameId": "B1ED55C3-CFD2-4E9F-B77E-1E9FC389BCF7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.9.11:*:*:*:*:*:*:*",
+			"cpeNameId": "39D7AA3A-FD7C-4B30-8A5B-CEEA6DB7190E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.9.12:*:*:*:*:*:*:*",
+			"cpeNameId": "DD1A3677-9CE3-4B0A-8555-FA77E504E483"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.9.13:*:*:*:*:*:*:*",
+			"cpeNameId": "2BF16DF9-9C71-4470-AF49-10325C32B43F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.9.14:*:*:*:*:*:*:*",
+			"cpeNameId": "9292FF41-A453-4E56-8DEC-1201B8E1BE3A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.10.0:*:*:*:*:*:*:*",
+			"cpeNameId": "30F2A581-8DF9-4A10-AE17-71700F258F5D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.10.1:*:*:*:*:*:*:*",
+			"cpeNameId": "F8A27865-754B-481D-BBE0-2F38A0F08CFC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.10.2:*:*:*:*:*:*:*",
+			"cpeNameId": "B19D230D-CA86-42AA-9EDD-0E3F31A31C4A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.10.3:*:*:*:*:*:*:*",
+			"cpeNameId": "462C47C3-350C-470C-A9A4-5483274CADC5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.11.0:-:*:*:*:*:*:*",
+			"cpeNameId": "9DC36B27-04E9-4B15-932A-8738E6CC6A6D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.11.0:beta1:*:*:*:*:*:*",
+			"cpeNameId": "C9739CF9-CB8D-450F-8A89-37947969C02A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.11.1:*:*:*:*:*:*:*",
+			"cpeNameId": "EBD0FCEC-C652-4B76-BA37-E383979AD1C0"
 		}
 	]
 }

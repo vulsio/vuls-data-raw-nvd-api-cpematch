@@ -5,7 +5,7 @@
 	"versionEndIncluding": "4.8.0",
 	"created": "2020-05-01T14:17:54.690",
 	"lastModified": "2020-05-01T14:17:54.690",
-	"cpeLastModified": "2020-05-01T14:17:54.720",
+	"cpeLastModified": "2024-01-16T19:04:18.707",
 	"status": "Active",
 	"matches": [
 		{
@@ -185,6 +185,18 @@
 			"cpeNameId": "18CF4932-1FC2-4D60-9EFC-6044C4336F98"
 		},
 		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.6.8:*:*:*:*:*:*:*",
+			"cpeNameId": "841D1594-A195-4866-AD90-45D78E812CF2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.6.9:*:*:*:*:*:*:*",
+			"cpeNameId": "A64E710C-0EA4-44F4-868C-3B6E8C8D157C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.6.10:*:*:*:*:*:*:*",
+			"cpeNameId": "7917031C-E495-4B27-A00D-B9331FD05D74"
+		},
+		{
 			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.6.90:pre1:*:*:*:*:*:*",
 			"cpeNameId": "9AE4AC5C-B4D6-460B-B23D-67642ABEC593"
 		},
@@ -211,6 +223,10 @@
 		{
 			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.7.4:*:*:*:*:*:*:*",
 			"cpeNameId": "9E3EF751-5B1B-4D59-B963-6CF56E2229A3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.7.5:*:*:*:*:*:*:*",
+			"cpeNameId": "F7E63450-6A95-44F5-AA22-FFB3C48A6297"
 		},
 		{
 			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.7.90:pre1:*:*:*:*:*:*",

@@ -5,6 +5,16 @@
 	"versionEndIncluding": "1500-sp2",
 	"created": "2024-01-16T15:05:33.587",
 	"lastModified": "2024-01-16T15:05:33.587",
-	"cpeLastModified": "2024-01-16T15:05:33.587",
-	"status": "Active"
+	"cpeLastModified": "2024-01-16T19:04:18.707",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:bosch:nexo-os:1000:*:*:*:*:*:*:*",
+			"cpeNameId": "4F929DAA-AF62-4CC9-BEA0-9B3A8D50CC63"
+		},
+		{
+			"cpeName": "cpe:2.3:o:bosch:nexo-os:1500-sp2:*:*:*:*:*:*:*",
+			"cpeNameId": "506EA0C0-C9D0-4946-9C33-47F71F0668CA"
+		}
+	]
 }

@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2022-09-29",
 	"created": "2022-10-24T16:11:05.183",
 	"lastModified": "2022-10-24T16:11:05.183",
-	"cpeLastModified": "2023-12-01T13:06:12.100",
+	"cpeLastModified": "2024-01-16T19:04:18.707",
 	"status": "Active",
 	"matches": [
 		{
@@ -680,8 +680,24 @@
 			"cpeNameId": "298DAA77-14AA-49D7-B7B6-1637B7AAF853"
 		},
 		{
+			"cpeName": "cpe:2.3:a:redis:redis:6.2.10:*:*:*:*:*:*:*",
+			"cpeNameId": "06DCADD3-F1EA-4444-BB57-32F1B3DB5590"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redis:redis:6.2.11:*:*:*:*:*:*:*",
+			"cpeNameId": "A860746A-B62C-4E79-B3BF-1FF5C43CF791"
+		},
+		{
 			"cpeName": "cpe:2.3:a:redis:redis:6.2.12:*:*:*:*:*:*:*",
 			"cpeNameId": "5973BFEC-4823-4C03-9B5B-83A807DDE724"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redis:redis:6.2.13:*:*:*:*:*:*:*",
+			"cpeNameId": "15B9D426-B4C1-4BAE-96C2-37D40F121C0F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redis:redis:6.2.14:*:*:*:*:*:*:*",
+			"cpeNameId": "B75C21DD-99DB-4896-9386-7D92FB9A103B"
 		},
 		{
 			"cpeName": "cpe:2.3:a:redis:redis:7.0:-:*:*:*:*:*:*",
@@ -756,6 +772,14 @@
 			"cpeNameId": "DF8FD60D-196D-49F6-867A-1D51E64DAF01"
 		},
 		{
+			"cpeName": "cpe:2.3:a:redis:redis:7.0.14:*:*:*:*:*:*:*",
+			"cpeNameId": "2DF717E9-6B40-437C-92A1-DF552AC30E23"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redis:redis:7.0.15:*:*:*:*:*:*:*",
+			"cpeNameId": "0F1B6B50-219F-4479-9C39-966CD805324E"
+		},
+		{
 			"cpeName": "cpe:2.3:a:redis:redis:7.2.0:-:*:*:*:*:*:*",
 			"cpeNameId": "5677412F-60C1-4E03-9D13-13B16BF9C0E2"
 		},
@@ -774,6 +798,18 @@
 		{
 			"cpeName": "cpe:2.3:a:redis:redis:7.2.1:*:*:*:*:*:*:*",
 			"cpeNameId": "691CBE78-8C91-4F99-84F6-ABB00129E5B9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redis:redis:7.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "D1A939C4-AC1A-4D87-AF05-C3F65402827A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redis:redis:7.2.3:*:*:*:*:*:*:*",
+			"cpeNameId": "076111E6-6905-4439-AE9A-FBA1B7747617"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redis:redis:7.2.4:*:*:*:*:*:*:*",
+			"cpeNameId": "C8256982-8E50-407C-B756-F200F05968CF"
 		}
 	]
 }

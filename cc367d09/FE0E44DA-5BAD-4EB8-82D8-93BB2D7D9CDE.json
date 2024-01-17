@@ -4,8 +4,8 @@
 	"versionStartIncluding": "7.2.0",
 	"versionEndExcluding": "7.2.4",
 	"created": "2024-01-16T17:23:30.887",
-	"lastModified": "2024-01-16T17:23:30.887",
-	"cpeLastModified": "2024-01-16T17:23:30.887",
+	"lastModified": "2024-01-16T19:04:18.707",
+	"cpeLastModified": "2024-01-16T19:04:18.707",
 	"status": "Active",
 	"matches": [
 		{
@@ -27,6 +27,14 @@
 		{
 			"cpeName": "cpe:2.3:a:redis:redis:7.2.1:*:*:*:*:*:*:*",
 			"cpeNameId": "691CBE78-8C91-4F99-84F6-ABB00129E5B9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redis:redis:7.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "D1A939C4-AC1A-4D87-AF05-C3F65402827A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redis:redis:7.2.3:*:*:*:*:*:*:*",
+			"cpeNameId": "076111E6-6905-4439-AE9A-FBA1B7747617"
 		}
 	]
 }

@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:a:jannisthuemmig:email_encoder:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "B85C2389-CD8D-49F7-9CAC-4D5057552512",
+	"versionEndIncluding": "2.1.9",
+	"created": "2024-01-16T21:31:21.767",
+	"lastModified": "2024-01-16T21:31:21.767",
+	"cpeLastModified": "2024-01-16T21:31:21.767",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:jannisthuemmig:email_encoder:2.1.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "79507BAC-FAF4-4182-AA06-371F3697D780"
+		}
+	]
+}
