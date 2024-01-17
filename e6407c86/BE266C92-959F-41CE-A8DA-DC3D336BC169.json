@@ -1,0 +1,20 @@
+{
+	"criteria": "cpe:2.3:a:ptc:kepware_kepserverex:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BE266C92-959F-41CE-A8DA-DC3D336BC169",
+	"versionStartIncluding": "6.0.2107.0",
+	"versionEndIncluding": "6.14.263.0",
+	"created": "2024-01-17T14:38:48.373",
+	"lastModified": "2024-01-17T14:38:48.373",
+	"cpeLastModified": "2024-01-17T14:38:48.373",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ptc:kepware_kepserverex:6.9:*:*:*:*:*:*:*",
+			"cpeNameId": "5F636B98-7F1C-4E0A-85A4-045588A906F3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ptc:kepware_kepserverex:6.12:*:*:*:*:*:*:*",
+			"cpeNameId": "BCDECF7D-2CE9-45D8-AB82-D7EAF6A64E28"
+		}
+	]
+}

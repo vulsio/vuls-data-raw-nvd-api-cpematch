@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:bpsoft:hex_workshop:2.01:*:*:*:*:*:*:*",
 	"matchCriteriaId": "100360DA-9566-411A-968D-EDB58F1A30D6",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
-	"status": "Active"
+	"lastModified": "2024-01-17T17:30:21.130",
+	"cpeLastModified": "2024-01-17T17:30:21.130",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:bpsoft:hex_workshop:2.01:*:*:*:*:*:*:*",
+			"cpeNameId": "2CB834A1-4135-4E8D-8C9F-8F96C6CD107D"
+		}
+	]
 }

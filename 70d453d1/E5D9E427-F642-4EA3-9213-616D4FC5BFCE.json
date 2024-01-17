@@ -4,9 +4,13 @@
 	"versionEndExcluding": "milanpi_1.0.0.c",
 	"created": "2023-11-27T20:13:27.877",
 	"lastModified": "2023-11-27T20:13:27.877",
-	"cpeLastModified": "2023-11-27T20:13:27.877",
+	"cpeLastModified": "2024-01-17T16:05:05.370",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:epyc_7643p_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B8A7634A-B3BB-4129-995B-51F1475A010F"
+		},
 		{
 			"cpeName": "cpe:2.3:o:amd:epyc_7643p_firmware:milanpi_1.0.0.3:*:*:*:*:*:*:*",
 			"cpeNameId": "B93B62A1-F68B-458D-BB85-EEE9D5A4CF1A"

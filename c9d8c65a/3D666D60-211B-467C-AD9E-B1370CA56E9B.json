@@ -5,6 +5,16 @@
 	"versionEndIncluding": "7.4.1",
 	"created": "2024-01-16T14:54:18.643",
 	"lastModified": "2024-01-16T14:54:18.643",
-	"cpeLastModified": "2024-01-16T14:54:18.643",
-	"status": "Active"
+	"cpeLastModified": "2024-01-17T14:40:20.763",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiproxy:7.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "DE9F3CD5-B759-4818-A5F7-40FEDA698B1A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiproxy:7.4.1:*:*:*:*:*:*:*",
+			"cpeNameId": "71CAB959-5A07-4240-B273-4EBB2D8ADEA8"
+		}
+	]
 }

@@ -1,0 +1,24 @@
+{
+	"criteria": "cpe:2.3:a:ptc:thingworx_kepware_server:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "99455409-195C-418C-A227-E9C67E70C2F3",
+	"versionStartIncluding": "6.8",
+	"versionEndIncluding": "6.14.263.0",
+	"created": "2024-01-17T14:38:48.373",
+	"lastModified": "2024-01-17T14:38:48.373",
+	"cpeLastModified": "2024-01-17T14:38:48.373",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ptc:thingworx_kepware_server:6.8:*:*:*:*:*:*:*",
+			"cpeNameId": "FED01D08-D562-4B43-AABD-C80759EBA3DD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ptc:thingworx_kepware_server:6.9:*:*:*:*:*:*:*",
+			"cpeNameId": "D916D1B0-AC07-41F6-9E44-063468FD6538"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ptc:thingworx_kepware_server:6.12:*:*:*:*:*:*:*",
+			"cpeNameId": "51BDEB93-8891-4A9D-9079-D4495171CC5C"
+		}
+	]
+}
