@@ -1,0 +1,16 @@
+{
+	"criteria": "cpe:2.3:a:ibm:security_verify_access_docker:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "983FC857-A6E9-40CB-9FC9-A0298685DA96",
+	"versionStartIncluding": "10.0.0.0",
+	"versionEndExcluding": "10.0.0.7",
+	"created": "2024-01-17T18:40:43.480",
+	"lastModified": "2024-01-17T18:40:43.480",
+	"cpeLastModified": "2024-01-17T18:40:43.480",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ibm:security_verify_access_docker:10.0.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "460DC4C7-7D08-4800-9117-9847F9492F3A"
+		}
+	]
+}

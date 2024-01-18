@@ -1,0 +1,20 @@
+{
+	"criteria": "cpe:2.3:a:wireshark:wireshark:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "4D0290BD-E0AE-4DC5-BE29-D8B9A25309CB",
+	"versionStartIncluding": "0.10.1",
+	"versionEndIncluding": "0.99.3",
+	"created": "2024-01-17T20:39:56.070",
+	"lastModified": "2024-01-17T20:39:56.070",
+	"cpeLastModified": "2024-01-17T20:39:56.070",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wireshark:wireshark:0.99.2:*:*:*:*:*:*:*",
+			"cpeNameId": "C3761B3C-19E4-4AA1-84B7-3304C387A95E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wireshark:wireshark:0.99.3:*:*:*:*:*:*:*",
+			"cpeNameId": "60EA24F0-5BE9-4D79-9518-F0DFCD8839ED"
+		}
+	]
+}

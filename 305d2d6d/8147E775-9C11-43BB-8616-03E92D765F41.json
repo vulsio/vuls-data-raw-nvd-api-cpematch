@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:a:ethereal:ethereal:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8147E775-9C11-43BB-8616-03E92D765F41",
+	"versionEndExcluding": "0.9.12",
+	"created": "2024-01-17T19:54:29.467",
+	"lastModified": "2024-01-17T19:54:29.467",
+	"cpeLastModified": "2024-01-17T19:54:29.467",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ethereal:ethereal:0.8.13:*:*:*:*:*:*:*",
+			"cpeNameId": "E8A0A75C-2FAE-4245-8D0D-F86891B7DA51"
+		}
+	]
+}

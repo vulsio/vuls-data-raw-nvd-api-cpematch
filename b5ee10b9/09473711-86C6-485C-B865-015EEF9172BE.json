@@ -3,8 +3,8 @@
 	"matchCriteriaId": "09473711-86C6-485C-B865-015EEF9172BE",
 	"versionEndExcluding": "4.0.6",
 	"created": "2024-01-17T17:20:39.033",
-	"lastModified": "2024-01-17T17:20:39.033",
-	"cpeLastModified": "2024-01-17T17:20:39.033",
+	"lastModified": "2024-01-17T21:58:14.183",
+	"cpeLastModified": "2024-01-17T21:58:14.183",
 	"status": "Active",
 	"matches": [
 		{
@@ -602,6 +602,26 @@
 		{
 			"cpeName": "cpe:2.3:a:pimcore:customer_management_framework:4.0.0:rc2:*:*:*:pimcore:*:*",
 			"cpeNameId": "6F8D4D91-4940-4400-ACC3-C15798986573"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pimcore:customer_management_framework:4.0.1:*:*:*:*:pimcore:*:*",
+			"cpeNameId": "B6FC3F67-BDEF-4C35-ADE6-4F502EA04DFE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pimcore:customer_management_framework:4.0.2:*:*:*:*:pimcore:*:*",
+			"cpeNameId": "3503370A-B853-4CB5-B858-E1ADCEA23538"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pimcore:customer_management_framework:4.0.3:*:*:*:*:pimcore:*:*",
+			"cpeNameId": "ED645DE1-34E2-4567-AD03-C5A26025F753"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pimcore:customer_management_framework:4.0.4:*:*:*:*:pimcore:*:*",
+			"cpeNameId": "F5AEA312-B553-4BAA-9248-FC61C640884C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pimcore:customer_management_framework:4.0.5:*:*:*:*:pimcore:*:*",
+			"cpeNameId": "86FB37AA-A66E-4EC0-8DDE-A942A43A93A1"
 		}
 	]
 }
