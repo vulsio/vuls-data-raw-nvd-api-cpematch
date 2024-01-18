@@ -3,8 +3,8 @@
 	"matchCriteriaId": "4230F0A0-3665-4881-AC77-D7E2C4FC9734",
 	"versionEndExcluding": "1.40.2",
 	"created": "2024-01-17T20:20:15.813",
-	"lastModified": "2024-01-17T20:20:15.813",
-	"cpeLastModified": "2024-01-17T20:20:15.813",
+	"lastModified": "2024-01-18T16:30:54.280",
+	"cpeLastModified": "2024-01-18T16:30:54.280",
 	"status": "Active",
 	"matches": [
 		{
@@ -1550,6 +1550,10 @@
 		{
 			"cpeName": "cpe:2.3:a:mediawiki:mediawiki:1.35.11:*:*:*:*:*:*:*",
 			"cpeNameId": "270F51C7-9057-4E89-8684-C290E97DEC25"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mediawiki:mediawiki:1.35.14:*:*:*:*:*:*:*",
+			"cpeNameId": "61A46E15-3048-47FE-88A8-01BE14AEB473"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mediawiki:mediawiki:1.36.0:-:*:*:*:*:*:*",

@@ -1,0 +1,143 @@
+{
+	"criteria": "cpe:2.3:a:pivotal:cloud_foundry_deployment:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D675881E-13BD-4F9C-8140-71C393755F16",
+	"versionEndExcluding": "0.28.0",
+	"created": "2024-01-18T15:52:54.953",
+	"lastModified": "2024-01-18T15:52:54.953",
+	"cpeLastModified": "2024-01-18T15:52:54.953",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:-:*:*:*:*:*:*:*",
+			"cpeNameId": "385A1443-1168-48B5-8257-E0DDE4827C34"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "54153997-B3A3-4CA9-A6C5-E243410D286B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "0A6E5EBA-9CEE-4DD1-AAAB-AC62E8A13F7E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "472BC6B8-FD78-44D3-8C31-902211B942E2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "54CCB55D-BBBE-46C8-BD70-04F484D098C5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C9694FB6-A887-44E0-8EF5-69698AC388A5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "25368B51-4B83-437F-9A77-3EFABD86F07C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "830B6768-B958-4F0C-9187-316057BD4538"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "92E6ECC9-1BF2-48F9-A87E-1A80EA81E82A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "CEB2E26B-6E54-4514-B999-3E43ED779459"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "BDD50E45-FD40-42BF-B7CB-EE7133DBD1C1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "028827AE-C720-4E57-93A8-1A2FC77D67A3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.8.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E7E641AD-BC93-4ECE-A0E2-57FC62952DC1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.9.0:*:*:*:*:*:*:*",
+			"cpeNameId": "3AA128B9-5225-4315-B94C-E248648F3B15"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.9.1:*:*:*:*:*:*:*",
+			"cpeNameId": "06DD9D15-CAEC-4922-8AC1-6594BA658D0D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.10.0:*:*:*:*:*:*:*",
+			"cpeNameId": "185A5939-F811-444E-9D38-6BBF8325F191"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.11.0:*:*:*:*:*:*:*",
+			"cpeNameId": "920C6288-2235-44B3-AB49-DEE87F816DA8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.12.0:*:*:*:*:*:*:*",
+			"cpeNameId": "AD705171-5405-4DF3-B067-9BF6928E0F7F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.13.0:*:*:*:*:*:*:*",
+			"cpeNameId": "30EB2A44-06B0-4799-842C-B3BC680870B7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.14.0:*:*:*:*:*:*:*",
+			"cpeNameId": "6C2C32FC-1141-42B9-837E-0F9E4FC051DA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.15.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C8B234D8-F87B-4765-BABD-A20A52F2A896"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.16.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D6ED5DCD-73BD-493D-AD3B-C23DFD86F476"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.17.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B92F3497-C883-419E-A4C5-C4FB2BE38092"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.18.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5E7BF6D6-0464-4209-9FB4-5B6DBAC31C70"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.19.0:*:*:*:*:*:*:*",
+			"cpeNameId": "EEA10D4A-5B62-4A86-BF49-8FDEBB5D64C4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.20.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F0A3E96B-BEA2-41DD-8658-6DDBB7F64977"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.21.0:*:*:*:*:*:*:*",
+			"cpeNameId": "4BAE3626-0C79-4FB4-88CC-6F9BAB21DBCB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.22.0:*:*:*:*:*:*:*",
+			"cpeNameId": "25C0CD0B-14C7-4834-8F0E-4F86284045AC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.23.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A1E5D110-411D-44EE-89F8-73E815CB6C85"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.24.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C4223AB4-4813-4D78-8909-A9D9421451DB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.25.0:*:*:*:*:*:*:*",
+			"cpeNameId": "75B9885A-0429-43EA-9E39-F023C3F1E547"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.26.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B2ED67A3-FCC5-40D5-B603-3BA5797B3BA1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_deployment:0.27.0:*:*:*:*:*:*:*",
+			"cpeNameId": "226F0F05-874E-46D6-92D0-ADEDF31A039F"
+		}
+	]
+}

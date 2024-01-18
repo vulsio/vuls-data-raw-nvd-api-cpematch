@@ -5,9 +5,13 @@
 	"versionEndExcluding": "8.0.1",
 	"created": "2024-01-16T13:42:50.463",
 	"lastModified": "2024-01-16T13:42:50.463",
-	"cpeLastModified": "2024-01-16T13:42:50.463",
+	"cpeLastModified": "2024-01-18T16:30:54.280",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:.net:8.0.0:-:*:*:*:*:*:*",
+			"cpeNameId": "8B277968-7163-4ACE-A90D-DF8C60216E7C"
+		},
 		{
 			"cpeName": "cpe:2.3:a:microsoft:.net:8.0.0:preview.1:*:*:*:*:*:*",
 			"cpeNameId": "E0191E3E-8476-426C-96D5-E5D78542C4FE"

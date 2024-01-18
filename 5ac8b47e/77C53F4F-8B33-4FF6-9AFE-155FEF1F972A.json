@@ -4,8 +4,8 @@
 	"versionStartIncluding": "7.0.0",
 	"versionEndIncluding": "7.0.15",
 	"created": "2024-01-14T14:37:56.897",
-	"lastModified": "2024-01-14T14:37:56.897",
-	"cpeLastModified": "2024-01-14T14:37:56.897",
+	"lastModified": "2024-01-18T16:30:54.280",
+	"cpeLastModified": "2024-01-18T16:30:54.280",
 	"status": "Active",
 	"matches": [
 		{
@@ -95,6 +95,10 @@
 		{
 			"cpeName": "cpe:2.3:a:microsoft:.net:7.0.12:*:*:*:*:*:*:*",
 			"cpeNameId": "55D2CB37-C2AB-48A2-BECF-B9275414BBEF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:.net:7.0.15:*:*:*:*:*:*:*",
+			"cpeNameId": "F315BD13-53ED-47EA-A3A3-389751D1925F"
 		}
 	]
 }

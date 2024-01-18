@@ -4,8 +4,8 @@
 	"versionStartIncluding": "4.8",
 	"versionEndExcluding": "4.8.04690.02",
 	"created": "2024-01-13T17:46:09.627",
-	"lastModified": "2024-01-13T17:46:09.627",
-	"cpeLastModified": "2024-01-13T17:46:09.627",
+	"lastModified": "2024-01-18T16:30:54.280",
+	"cpeLastModified": "2024-01-18T16:30:54.280",
 	"status": "Active",
 	"matches": [
 		{
@@ -15,6 +15,10 @@
 		{
 			"cpeName": "cpe:2.3:a:microsoft:.net_framework:4.8.1:*:*:*:*:*:*:*",
 			"cpeNameId": "2C139BA6-6303-455A-B2C6-E035D024E982"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:.net_framework:4.8.04690.01:*:*:*:*:*:*:*",
+			"cpeNameId": "482DA1CA-5F01-45C3-A7F3-4751A32313A2"
 		}
 	]
 }

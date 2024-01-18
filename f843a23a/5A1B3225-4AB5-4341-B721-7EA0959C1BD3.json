@@ -1,0 +1,171 @@
+{
+	"criteria": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5A1B3225-4AB5-4341-B721-7EA0959C1BD3",
+	"versionEndExcluding": "0.163.0",
+	"created": "2024-01-18T15:52:54.953",
+	"lastModified": "2024-01-18T15:52:54.953",
+	"cpeLastModified": "2024-01-18T15:52:54.953",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BAD9D889-9C81-44A3-9E59-A2AE3AD082AB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.62.0:*:*:*:*:*:*:*",
+			"cpeNameId": "6352A88E-BDB5-4479-A247-3B421571B13D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.66.0:*:*:*:*:*:*:*",
+			"cpeNameId": "34D410CB-3A89-44FD-B7E3-E3C13E256180"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.69.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F14F02F3-9108-49F1-88C1-0B0D4ECA1CC6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.99.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B4EC4772-66DB-473A-AB95-90246156D9B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.118.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A1DCBDEA-58BF-44B3-BF4B-F71AA60BA129"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.121.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5C9FA3F7-4839-4DDC-90A4-7A02DE887FF9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.122.0:*:*:*:*:*:*:*",
+			"cpeNameId": "83C67FA9-3B9C-446A-9553-E676C732A3AC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.123.0:*:*:*:*:*:*:*",
+			"cpeNameId": "BE4FD22E-98FE-424C-A16F-39A5F2E9DBC1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.126.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C2B62313-67B9-44BC-B2A2-039417BB360B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.133.0:*:*:*:*:*:*:*",
+			"cpeNameId": "30DE2BAB-63E6-481A-840B-F7FC712A71C4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.134.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5558E005-6AC5-4ABD-9F20-EBA6B34201A5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.135.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C389A5D2-645F-4210-A49B-18D79E466763"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.136.0:*:*:*:*:*:*:*",
+			"cpeNameId": "0267DC80-6C0A-4267-8D28-F24ED41EB3A4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.137.0:*:*:*:*:*:*:*",
+			"cpeNameId": "4FA4C02F-B42C-45F0-B160-16AE10DBF8D7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.138.0:*:*:*:*:*:*:*",
+			"cpeNameId": "841512D8-FE87-4C6F-83D0-74C68B8D648B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.139.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F49E9BD2-E7F0-4F2F-BF1E-A60156D30548"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.140.0:*:*:*:*:*:*:*",
+			"cpeNameId": "996601C0-9C86-4333-997D-25A0B3517769"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.141.0:*:*:*:*:*:*:*",
+			"cpeNameId": "4D53F5B2-0780-4CE3-8AFB-8536972596B1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.142.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C35D41C4-2F86-45E6-B561-A667ECBD266B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.143.0:*:*:*:*:*:*:*",
+			"cpeNameId": "67FCD229-8EE7-4BFB-AA77-88DF14DF7C32"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.144.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B6FF7239-19F3-4DCD-8912-43BACEEEF5CC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.144.1:*:*:*:*:*:*:*",
+			"cpeNameId": "1A3B6A39-3EBF-406E-BE05-6CBBD34B2BB8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.145.0:*:*:*:*:*:*:*",
+			"cpeNameId": "7A0A1AC4-28CE-42DB-A7F1-51FD34626774"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.146.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C4263F3A-DA9F-47B6-B2C5-4B1DF4C66081"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.147.0:*:*:*:*:*:*:*",
+			"cpeNameId": "6B243147-32D0-4D03-90D9-E962477EBE88"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.149.0:*:*:*:*:*:*:*",
+			"cpeNameId": "0993A052-6340-4589-99DF-83CD78CE20DC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.150.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B155ABA6-01D0-4A55-8162-5755E62E4CEA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.151.0:*:*:*:*:*:*:*",
+			"cpeNameId": "04846835-9347-4C48-86B5-3ACFB1046FB3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.152.0:*:*:*:*:*:*:*",
+			"cpeNameId": "DB621190-2D96-4458-8510-FCD6FBF7989F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.153.0:*:*:*:*:*:*:*",
+			"cpeNameId": "3E840FA5-5631-4B57-A96C-A347DA22A091"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.154.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D1EC14B8-521D-4FAD-A1B7-FEC84E62EF7B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.155.0:*:*:*:*:*:*:*",
+			"cpeNameId": "1FC245C7-91B5-430F-B01A-5E07ECD31BA6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.156.0:*:*:*:*:*:*:*",
+			"cpeNameId": "6BEF4352-91FD-4F6E-B715-E255321A5910"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.157.0:*:*:*:*:*:*:*",
+			"cpeNameId": "737E464D-8DA0-4EDD-97D2-9182ACCC2081"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.158.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C1A5DA25-23F5-4E34-BEEA-68CD75D6AABF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.159.0:*:*:*:*:*:*:*",
+			"cpeNameId": "16C05450-EB59-4D1D-9788-A433FEA10887"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.160.0:*:*:*:*:*:*:*",
+			"cpeNameId": "EBA60928-4478-409D-A893-F5AB8A6E5B00"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.161.0:*:*:*:*:*:*:*",
+			"cpeNameId": "0EFEFD77-62C0-4826-894F-D68D088CB72D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pivotal:cloud_foundry_routing_release:0.162.0:*:*:*:*:*:*:*",
+			"cpeNameId": "54042596-BCC9-4636-B3E4-14541D141D0E"
+		}
+	]
+}

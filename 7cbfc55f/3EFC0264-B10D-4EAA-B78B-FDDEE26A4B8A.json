@@ -3,8 +3,8 @@
 	"matchCriteriaId": "3EFC0264-B10D-4EAA-B78B-FDDEE26A4B8A",
 	"versionEndExcluding": "3.1.41",
 	"created": "2024-01-17T18:06:44.087",
-	"lastModified": "2024-01-17T18:06:44.087",
-	"cpeLastModified": "2024-01-17T18:06:44.087",
+	"lastModified": "2024-01-18T16:30:54.280",
+	"cpeLastModified": "2024-01-18T16:30:54.280",
 	"status": "Active",
 	"matches": [
 		{
@@ -370,6 +370,26 @@
 		{
 			"cpeName": "cpe:2.3:a:gitpython_project:gitpython:3.1.34:*:*:*:*:python:*:*",
 			"cpeNameId": "5CFAEADD-9AE9-4E71-9966-BF1B0F35D152"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gitpython_project:gitpython:3.1.35:*:*:*:*:python:*:*",
+			"cpeNameId": "1289FC67-73DC-4BDB-BFC3-1D7B6A0D62FB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gitpython_project:gitpython:3.1.36:*:*:*:*:python:*:*",
+			"cpeNameId": "7D638F80-C818-497C-95E6-1DF75E318A7D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gitpython_project:gitpython:3.1.37:*:*:*:*:python:*:*",
+			"cpeNameId": "95F8B939-A74B-4AA3-AB8D-DCAE4E3B0A4D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gitpython_project:gitpython:3.1.38:*:*:*:*:python:*:*",
+			"cpeNameId": "615575E7-6030-44F4-A7D3-B1CEDA06A41D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gitpython_project:gitpython:3.1.40:*:*:*:*:python:*:*",
+			"cpeNameId": "9046CECD-8018-44B1-89D8-BF0775CED2A7"
 		}
 	]
 }

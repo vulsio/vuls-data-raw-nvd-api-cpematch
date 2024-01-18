@@ -5,6 +5,12 @@
 	"versionEndExcluding": "2.1.7",
 	"created": "2024-01-13T17:33:49.630",
 	"lastModified": "2024-01-13T17:33:49.630",
-	"cpeLastModified": "2024-01-13T17:33:49.630",
-	"status": "Active"
+	"cpeLastModified": "2024-01-18T16:30:54.280",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:microsoft.data.sqlclient:2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "1448CFA0-8A54-4E89-8C29-EFEC293A7F68"
+		}
+	]
 }
