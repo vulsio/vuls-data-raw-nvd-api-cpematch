@@ -3,13 +3,17 @@
 	"matchCriteriaId": "8147E775-9C11-43BB-8616-03E92D765F41",
 	"versionEndExcluding": "0.9.12",
 	"created": "2024-01-17T19:54:29.467",
-	"lastModified": "2024-01-17T19:54:29.467",
-	"cpeLastModified": "2024-01-17T19:54:29.467",
+	"lastModified": "2024-01-19T14:42:16.223",
+	"cpeLastModified": "2024-01-19T14:42:16.223",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:ethereal:ethereal:0.8.13:*:*:*:*:*:*:*",
 			"cpeNameId": "E8A0A75C-2FAE-4245-8D0D-F86891B7DA51"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ethereal:ethereal:0.9.11:*:*:*:*:*:*:*",
+			"cpeNameId": "16EE341A-4164-4DD1-8BA7-D64AF9FEC674"
 		}
 	]
 }

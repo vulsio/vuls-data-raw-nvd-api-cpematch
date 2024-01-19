@@ -4,7 +4,7 @@
 	"versionEndIncluding": "2002",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2020-01-27T18:20:17.827",
+	"cpeLastModified": "2024-01-19T14:42:16.223",
 	"status": "Active",
 	"matches": [
 		{
@@ -138,6 +138,10 @@
 		{
 			"cpeName": "cpe:2.3:a:microsoft:outlook:2000:sp3:*:*:*:*:*:*",
 			"cpeNameId": "EF69CC8D-3F80-4DB9-A966-AAC6CD31D3E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:outlook:2000:sp4:*:*:*:*:*:*",
+			"cpeNameId": "D9524193-B253-46A3-B604-97EFB8B2EF9D"
 		},
 		{
 			"cpeName": "cpe:2.3:a:microsoft:outlook:2000:sr1:*:*:*:*:*:*",

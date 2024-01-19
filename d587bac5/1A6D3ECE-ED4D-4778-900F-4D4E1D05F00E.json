@@ -5,6 +5,12 @@
 	"versionEndExcluding": "17.8.4",
 	"created": "2024-01-16T13:42:50.463",
 	"lastModified": "2024-01-16T13:42:50.463",
-	"cpeLastModified": "2024-01-16T13:42:50.463",
-	"status": "Active"
+	"cpeLastModified": "2024-01-19T14:42:16.223",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:visual_studio_2022:17.8.0:*:*:*:*:*:*:*",
+			"cpeNameId": "10FE9DC4-911B-4237-8F50-52D20E2DAA7E"
+		}
+	]
 }

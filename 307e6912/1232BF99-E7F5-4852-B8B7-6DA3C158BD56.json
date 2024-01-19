@@ -5,7 +5,7 @@
 	"versionEndIncluding": "6.0.2900.2180",
 	"created": "2022-02-28T17:02:54.270",
 	"lastModified": "2022-02-28T17:02:54.270",
-	"cpeLastModified": "2022-02-28T17:04:15.530",
+	"cpeLastModified": "2024-01-19T14:42:16.223",
 	"status": "Active",
 	"matches": [
 		{
@@ -23,6 +23,14 @@
 		{
 			"cpeName": "cpe:2.3:a:microsoft:internet_explorer:6.0:*:*:*:*:*:*:*",
 			"cpeNameId": "03F27E7D-CC2E-4170-8F51-4DD14081BAD9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:internet_explorer:6.0:-:*:*:*:*:*:*",
+			"cpeNameId": "45390D60-2305-432A-BCE3-24CD4141CD7E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:internet_explorer:6.0:sp1:*:*:*:*:*:*",
+			"cpeNameId": "D0406E19-E10E-4C68-A144-4721EBECC558"
 		},
 		{
 			"cpeName": "cpe:2.3:a:microsoft:internet_explorer:6.00.2462.0000:*:*:*:*:*:*:*",

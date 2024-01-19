@@ -3,8 +3,8 @@
 	"matchCriteriaId": "18C773CC-4611-4CDC-B8B6-C0AC7265F0C1",
 	"versionEndIncluding": "6.0",
 	"created": "2021-07-23T12:17:15.613",
-	"lastModified": "2021-07-23T12:17:15.613",
-	"cpeLastModified": "2021-07-23T12:17:15.613",
+	"lastModified": "2024-01-19T14:42:16.223",
+	"cpeLastModified": "2024-01-19T14:42:16.223",
 	"status": "Active",
 	"matches": [
 		{
@@ -30,6 +30,10 @@
 		{
 			"cpeName": "cpe:2.3:a:microsoft:internet_explorer:6:sp1:*:*:*:*:*:*",
 			"cpeNameId": "9541B807-DCFC-4E23-8719-35A61E84404A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:internet_explorer:6.0:sp1:*:*:*:*:*:*",
+			"cpeNameId": "D0406E19-E10E-4C68-A144-4721EBECC558"
 		}
 	]
 }

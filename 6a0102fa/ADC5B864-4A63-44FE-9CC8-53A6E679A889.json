@@ -4,7 +4,7 @@
 	"versionEndExcluding": "charlotte-al00a_9.1.0.321\\(c00e320r1p1t8\\)",
 	"created": "2019-11-13T19:15:13.950",
 	"lastModified": "2019-11-13T19:15:13.950",
-	"cpeLastModified": "2020-09-16T15:00:59.833",
+	"cpeLastModified": "2024-01-19T14:42:16.223",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:o:huawei:p20_pro_firmware:9.1.0.333\\(c00e333r1p1t8\\):*:*:*:*:*:*:*",
 			"cpeNameId": "86B2BC6B-C91E-456A-98B3-6FF48FDC50E1"
+		},
+		{
+			"cpeName": "cpe:2.3:o:huawei:p20_pro_firmware:10.0.0.162\\(c00e156r1p4\\):*:*:*:*:*:*:*",
+			"cpeNameId": "BE9C1C66-ECCF-49CB-899A-10971F0F6E70"
 		}
 	]
 }

@@ -4,7 +4,7 @@
 	"versionEndExcluding": "vogue-al00a_9.1.0.193\\(c00e190r1p12\\)",
 	"created": "2019-11-13T19:20:42.047",
 	"lastModified": "2019-11-13T19:20:42.047",
-	"cpeLastModified": "2020-11-19T16:56:44.877",
+	"cpeLastModified": "2024-01-19T14:42:16.223",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:o:huawei:p30_pro_firmware:9.1.0.226\\(c00e210r2p1\\):*:*:*:*:*:*:*",
 			"cpeNameId": "D6B87D74-E43A-4BE7-973D-3B6DF3FC96E8"
+		},
+		{
+			"cpeName": "cpe:2.3:o:huawei:p30_pro_firmware:10.0.0.195\\(c00e85r2p8\\):*:*:*:*:*:*:*",
+			"cpeNameId": "83F7FEB8-9152-40D8-981B-0E7F81E740D4"
 		},
 		{
 			"cpeName": "cpe:2.3:o:huawei:p30_pro_firmware:10.1.0.123\\(c432e19r2p5patch02\\):*:*:*:*:*:*:*",

@@ -4,7 +4,7 @@
 	"versionEndExcluding": "emily-l29c_9.1.0.311\\(c461e2r1p11t8\\)",
 	"created": "2019-12-05T16:58:57.090",
 	"lastModified": "2019-12-05T16:58:57.090",
-	"cpeLastModified": "2020-09-16T15:00:59.630",
+	"cpeLastModified": "2024-01-19T14:42:16.223",
 	"status": "Active",
 	"matches": [
 		{
@@ -46,6 +46,10 @@
 		{
 			"cpeName": "cpe:2.3:o:huawei:p20_firmware:10.0.0.156\\(c00e156r1p4\\):*:*:*:*:*:*:*",
 			"cpeNameId": "0C64A046-61F1-495F-9AD8-483EFA0807A5"
+		},
+		{
+			"cpeName": "cpe:2.3:o:huawei:p20_firmware:10.0.0.162\\(c00e156r1p4\\):*:*:*:*:*:*:*",
+			"cpeNameId": "9BE0E882-2D0A-4AC3-BC21-5F48ACB65A26"
 		},
 		{
 			"cpeName": "cpe:2.3:o:huawei:p20_firmware:emily-al00a_9.0.0.167\\(c00e81r1p21t8\\):*:*:*:*:*:*:*",

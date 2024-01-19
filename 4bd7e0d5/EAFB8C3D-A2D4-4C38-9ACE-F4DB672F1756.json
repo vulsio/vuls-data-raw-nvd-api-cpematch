@@ -4,9 +4,13 @@
 	"versionEndIncluding": "1.2.10",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"cpeLastModified": "2024-01-19T14:42:16.223",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wireshark:wireshark:0.10.1:*:*:*:*:*:*:*",
+			"cpeNameId": "2536F483-967D-4F32-86CB-CF117DE843AF"
+		},
 		{
 			"cpeName": "cpe:2.3:a:wireshark:wireshark:0.99.2:*:*:*:*:*:*:*",
 			"cpeNameId": "C3761B3C-19E4-4AA1-84B7-3304C387A95E"

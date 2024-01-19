@@ -4,9 +4,13 @@
 	"versionEndIncluding": "3.2.7",
 	"created": "2020-10-07T17:39:12.670",
 	"lastModified": "2020-10-07T17:39:12.670",
-	"cpeLastModified": "2021-06-10T17:22:15.430",
+	"cpeLastModified": "2024-01-19T14:42:16.223",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wireshark:wireshark:0.10.1:*:*:*:*:*:*:*",
+			"cpeNameId": "2536F483-967D-4F32-86CB-CF117DE843AF"
+		},
 		{
 			"cpeName": "cpe:2.3:a:wireshark:wireshark:0.99.2:*:*:*:*:*:*:*",
 			"cpeNameId": "C3761B3C-19E4-4AA1-84B7-3304C387A95E"

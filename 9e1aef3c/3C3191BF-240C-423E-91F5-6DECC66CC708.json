@@ -5,6 +5,16 @@
 	"versionEndIncluding": "2.6.2",
 	"created": "2024-01-17T20:35:19.480",
 	"lastModified": "2024-01-17T20:35:19.480",
-	"cpeLastModified": "2024-01-17T20:35:19.480",
-	"status": "Active"
+	"cpeLastModified": "2024-01-19T14:42:16.223",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wuftpd:wu-ftpd:2.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C7A361E0-3BF4-4700-BD51-10DF6CA27EED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wuftpd:wu-ftpd:2.6.2:*:*:*:*:*:*:*",
+			"cpeNameId": "35B6CC4C-F30C-41C1-BAC2-978CB92F0165"
+		}
+	]
 }

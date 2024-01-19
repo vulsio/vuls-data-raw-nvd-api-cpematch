@@ -4,7 +4,7 @@
 	"versionEndExcluding": "10.1.0.273\\(c185e7r2p4\\)",
 	"created": "2020-12-07T17:59:55.813",
 	"lastModified": "2020-12-07T17:59:55.813",
-	"cpeLastModified": "2021-08-19T15:08:50.973",
+	"cpeLastModified": "2024-01-19T14:42:16.223",
 	"status": "Active",
 	"matches": [
 		{
@@ -50,6 +50,10 @@
 		{
 			"cpeName": "cpe:2.3:o:huawei:mate_20_pro_firmware:10.0.0.175\\(c00e69r3p8\\):*:*:*:*:*:*:*",
 			"cpeNameId": "244EF7BD-5720-4975-BAFC-8D5D09AE8F9D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:huawei:mate_20_pro_firmware:10.0.0.196\\(c185e7r2p4\\):*:*:*:*:*:*:*",
+			"cpeNameId": "95CFC44E-A5D7-479B-81C0-8849D110A7BE"
 		},
 		{
 			"cpeName": "cpe:2.3:o:huawei:mate_20_pro_firmware:10.1.0.270\\(c431e7r1p5\\):*:*:*:*:*:*:*",
