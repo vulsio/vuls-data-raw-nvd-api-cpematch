@@ -5,7 +5,7 @@
 	"versionEndExcluding": "8.0.0",
 	"created": "2023-10-11T12:42:01.140",
 	"lastModified": "2023-12-16T04:05:58.243",
-	"cpeLastModified": "2023-10-11T12:42:01.140",
+	"cpeLastModified": "2024-01-18T18:24:53.763",
 	"status": "Active",
 	"matches": [
 		{
@@ -447,6 +447,42 @@
 		{
 			"cpeName": "cpe:2.3:a:haxx:libcurl:7.79.1:*:*:*:*:*:*:*",
 			"cpeNameId": "CDB49AA7-4A58-47EA-8C89-114D877A0548"
+		},
+		{
+			"cpeName": "cpe:2.3:a:haxx:libcurl:7.80.0:*:*:*:*:*:*:*",
+			"cpeNameId": "AA1F0BC4-1EF7-4CBD-9015-005F616777D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:haxx:libcurl:7.81.0:*:*:*:*:*:*:*",
+			"cpeNameId": "89E99FAD-946D-4BFE-A0F8-B689D67C9599"
+		},
+		{
+			"cpeName": "cpe:2.3:a:haxx:libcurl:7.82.0:*:*:*:*:*:*:*",
+			"cpeNameId": "AC98F92B-C0C0-49D1-988A-0C0F3075EB45"
+		},
+		{
+			"cpeName": "cpe:2.3:a:haxx:libcurl:7.83.0:*:*:*:*:*:*:*",
+			"cpeNameId": "74787E6E-D0A6-428D-8CCB-6C096C50989C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:haxx:libcurl:7.83.1:*:*:*:*:*:*:*",
+			"cpeNameId": "60CF65CC-E56C-4BC6-AFE0-366A0BCC26B2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:haxx:libcurl:7.84.0:*:*:*:*:*:*:*",
+			"cpeNameId": "3F0E3DF5-E797-422F-B25D-EF2C7777244C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:haxx:libcurl:7.85.0:*:*:*:*:*:*:*",
+			"cpeNameId": "CC35A6B5-34B5-409D-929E-1DF51009E525"
+		},
+		{
+			"cpeName": "cpe:2.3:a:haxx:libcurl:7.86.0:*:*:*:*:*:*:*",
+			"cpeNameId": "23C61464-62A7-40C7-805D-DD3EE399A6B0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:haxx:libcurl:7.87.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F7E7959A-CA4B-48FC-9509-D5B3804692EC"
 		},
 		{
 			"cpeName": "cpe:2.3:a:haxx:libcurl:7.88.0:*:*:*:*:*:*:*",

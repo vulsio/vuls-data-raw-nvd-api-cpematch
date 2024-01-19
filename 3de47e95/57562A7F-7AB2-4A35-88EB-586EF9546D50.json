@@ -3,7 +3,7 @@
 	"matchCriteriaId": "57562A7F-7AB2-4A35-88EB-586EF9546D50",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-12-16T03:42:31.200",
+	"cpeLastModified": "2024-01-18T20:08:46.603",
 	"status": "Active",
 	"matches": [
 		{
@@ -4223,6 +4223,10 @@
 			"cpeNameId": "7F21B8CB-31F2-4E70-9B36-44ADCEBFD7A0"
 		},
 		{
+			"cpeName": "cpe:2.3:o:juniper:junos:22.3:r3-s1:*:*:*:*:*:*",
+			"cpeNameId": "37067508-A640-4A67-8403-F08273968225"
+		},
+		{
 			"cpeName": "cpe:2.3:o:juniper:junos:22.4:-:*:*:*:*:*:*",
 			"cpeNameId": "4E357612-AE73-43EC-8A7C-FF247D1483B5"
 		},
@@ -4269,6 +4273,14 @@
 		{
 			"cpeName": "cpe:2.3:o:juniper:junos:23.2:r1-s1:*:*:*:*:*:*",
 			"cpeNameId": "1958610A-F048-46EE-8855-89D2DB4EDA61"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos:23.2:r1-s2:*:*:*:*:*:*",
+			"cpeNameId": "7D34E623-4F83-4A5B-A0D9-66044FBE7CAD"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos:23.4:r1:*:*:*:*:*:*",
+			"cpeNameId": "A419C24E-4F26-44F1-8812-80B984854290"
 		}
 	]
 }
