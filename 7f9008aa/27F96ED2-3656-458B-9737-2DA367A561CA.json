@@ -3,7 +3,17 @@
 	"matchCriteriaId": "27F96ED2-3656-458B-9737-2DA367A561CA",
 	"versionEndIncluding": "3.0.0",
 	"created": "2024-01-19T16:02:49.850",
-	"lastModified": "2024-01-19T16:02:49.850",
-	"cpeLastModified": "2024-01-19T16:02:49.850",
-	"status": "Active"
+	"lastModified": "2024-01-19T18:35:44.360",
+	"cpeLastModified": "2024-01-19T18:35:44.360",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:azure_ipam:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9D31FEE3-19BE-4992-AFE4-071FA9403B63"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:azure_ipam:3.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "6DB744A1-D038-4334-BC4D-1A789BDE505C"
+		}
+	]
 }
