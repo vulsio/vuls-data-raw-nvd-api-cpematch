@@ -3,8 +3,8 @@
 	"matchCriteriaId": "58C539B1-6FB7-424B-825F-C6EE9954956F",
 	"versionEndExcluding": "5.11",
 	"created": "2024-01-19T18:03:23.037",
-	"lastModified": "2024-01-19T18:03:23.037",
-	"cpeLastModified": "2024-01-19T18:03:23.037",
+	"lastModified": "2024-01-22T16:08:49.993",
+	"cpeLastModified": "2024-01-22T16:08:49.993",
 	"status": "Active",
 	"matches": [
 		{
@@ -174,6 +174,62 @@
 		{
 			"cpeName": "cpe:2.3:a:traccar:traccar:4.12:*:*:*:*:*:*:*",
 			"cpeNameId": "DFB6FD31-16A6-462F-81DB-C281A4D79586"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traccar:traccar:4.13:*:*:*:*:*:*:*",
+			"cpeNameId": "6D207CA6-5C8A-442E-A40A-7FD6C1E759FC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traccar:traccar:4.14:*:*:*:*:*:*:*",
+			"cpeNameId": "E0F288F4-30D0-4017-99BA-798C8882E641"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traccar:traccar:4.15:*:*:*:*:*:*:*",
+			"cpeNameId": "C6BFE22D-684B-4468-ADC7-257F924E3665"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traccar:traccar:5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "FBFCB3A2-313D-4C60-9087-4AFF885C1D86"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traccar:traccar:5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "86E6D239-50EA-4726-B9D4-34CA93FEC24C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traccar:traccar:5.2:*:*:*:*:*:*:*",
+			"cpeNameId": "71CC92A0-47EF-402D-BB7B-7D28FD1E68A6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traccar:traccar:5.3:*:*:*:*:*:*:*",
+			"cpeNameId": "3F905583-905E-4229-9B1F-8D9869117DA8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traccar:traccar:5.4:*:*:*:*:*:*:*",
+			"cpeNameId": "4BEFD051-7404-4017-9BDD-1E13B2B0C5D3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traccar:traccar:5.5:*:*:*:*:*:*:*",
+			"cpeNameId": "73634FEB-E8FE-4D2F-9DD4-990F60119D59"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traccar:traccar:5.6:*:*:*:*:*:*:*",
+			"cpeNameId": "14FDCDF6-589F-4E71-B19E-6E4AF0586B49"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traccar:traccar:5.7:*:*:*:*:*:*:*",
+			"cpeNameId": "E2958B5D-28E2-4365-9F85-9637F9026FDF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traccar:traccar:5.8:*:*:*:*:*:*:*",
+			"cpeNameId": "7C83BBDB-EDD7-4185-AF1D-5EBD74D88F12"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traccar:traccar:5.9:*:*:*:*:*:*:*",
+			"cpeNameId": "F4604DF6-FE8F-445B-8231-BAC0D611F7C5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traccar:traccar:5.10:*:*:*:*:*:*:*",
+			"cpeNameId": "20F3B9AF-13DA-44B1-A5DE-222897AC3123"
 		}
 	]
 }

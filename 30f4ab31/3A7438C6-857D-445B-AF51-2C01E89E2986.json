@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:a:wpgraphql:wpgraphql:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "3A7438C6-857D-445B-AF51-2C01E89E2986",
+	"versionEndIncluding": "0.12.3",
+	"created": "2024-01-22T14:30:53.550",
+	"lastModified": "2024-01-22T14:30:53.550",
+	"cpeLastModified": "2024-01-22T15:39:40.990",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wpgraphql:wpgraphql:0.2.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5C3B50C0-4B9F-44CA-A17C-311251740650"
+		}
+	]
+}
