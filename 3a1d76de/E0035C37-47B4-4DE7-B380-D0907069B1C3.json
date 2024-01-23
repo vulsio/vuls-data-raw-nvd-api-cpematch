@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:omron:sysmac_cj1g-cpu43p:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "E0035C37-47B4-4DE7-B380-D0907069B1C3",
 	"created": "2024-01-22T17:09:09.380",
-	"lastModified": "2024-01-22T17:09:09.380",
-	"cpeLastModified": "2024-01-22T17:09:09.380",
-	"status": "Active"
+	"lastModified": "2024-01-23T00:52:41.640",
+	"cpeLastModified": "2024-01-23T00:52:41.640",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:omron:sysmac_cj1g-cpu43p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "393248F0-B7FA-4DE9-81EA-10A6E86BD064"
+		}
+	]
 }
