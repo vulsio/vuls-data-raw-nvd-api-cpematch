@@ -1,0 +1,27 @@
+{
+	"criteria": "cpe:2.3:a:dell:emc_idrac_service_module:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "CF8A2D97-2E01-4726-9C55-640B7CA80314",
+	"versionEndIncluding": "5.2.0.0",
+	"created": "2024-01-22T18:34:40.700",
+	"lastModified": "2024-01-22T18:34:40.700",
+	"cpeLastModified": "2024-01-22T18:34:40.700",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:dell:emc_idrac_service_module:3.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "EECF77F9-39D1-4FAD-9A85-91B887E4855D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dell:emc_idrac_service_module:3.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "CDC3AE34-6AB4-415F-9663-11B233AE82D2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dell:emc_idrac_service_module:3.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "9D06957C-0D61-444E-B1F1-4DBD638B657C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dell:emc_idrac_service_module:3.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "1CB36CC2-8AA5-4120-8C7C-F8622D462BEB"
+		}
+	]
+}
