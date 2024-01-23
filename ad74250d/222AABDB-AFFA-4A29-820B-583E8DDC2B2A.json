@@ -3,7 +3,7 @@
 	"matchCriteriaId": "222AABDB-AFFA-4A29-820B-583E8DDC2B2A",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-03-21T16:26:19.780",
+	"cpeLastModified": "2024-01-23T15:42:44.727",
 	"status": "Active",
 	"matches": [
 		{
@@ -1333,6 +1333,50 @@
 		{
 			"cpeName": "cpe:2.3:a:sqlite:sqlite:3.40.1:*:*:*:*:*:*:*",
 			"cpeNameId": "F49E94A6-B4D6-4257-830C-A880796366AE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sqlite:sqlite:3.41.0:*:*:*:*:*:*:*",
+			"cpeNameId": "03EFECCC-FAB3-4F4C-9DC6-5D0B819D7473"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sqlite:sqlite:3.41.1:*:*:*:*:*:*:*",
+			"cpeNameId": "27D46C11-0E99-4A0F-86BE-3455C2F69ADF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sqlite:sqlite:3.41.2:*:*:*:*:*:*:*",
+			"cpeNameId": "6FC4E735-1747-44AD-9C00-3901DE6722FD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sqlite:sqlite:3.42.0:*:*:*:*:*:*:*",
+			"cpeNameId": "69C26CE7-6C1B-46DB-ACAB-36A213A8EC80"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sqlite:sqlite:3.43.0:*:*:*:*:*:*:*",
+			"cpeNameId": "710D1102-ABA0-439A-A164-4BC2CD32EC1D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sqlite:sqlite:3.43.1:*:*:*:*:*:*:*",
+			"cpeNameId": "498273AA-3FA8-4608-BEBF-021E46C2FF2F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sqlite:sqlite:3.43.2:*:*:*:*:*:*:*",
+			"cpeNameId": "235D42F5-A612-441F-A16F-113AA1CA7761"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sqlite:sqlite:3.44.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A0C74322-0697-49F7-A684-C9742D850813"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sqlite:sqlite:3.44.1:*:*:*:*:*:*:*",
+			"cpeNameId": "F8B06637-63FD-45CB-9AF8-03CB7BB6B8FD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sqlite:sqlite:3.44.2:*:*:*:*:*:*:*",
+			"cpeNameId": "EA9DFB35-94A1-4EE2-9689-4372D28B9B28"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sqlite:sqlite:3.45.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A9C7795B-4A03-44F7-B87F-49F114E22640"
 		}
 	]
 }

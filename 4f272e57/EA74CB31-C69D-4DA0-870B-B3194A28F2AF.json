@@ -4,7 +4,7 @@
 	"versionEndIncluding": "9.90",
 	"created": "2019-10-20T20:46:58.000",
 	"lastModified": "2019-10-20T20:46:58.000",
-	"cpeLastModified": "2023-08-04T19:52:37.157",
+	"cpeLastModified": "2024-01-23T17:59:08.990",
 	"status": "Active",
 	"matches": [
 		{
@@ -62,6 +62,14 @@
 		{
 			"cpeName": "cpe:2.3:a:hornerautomation:cscape:9.90:sp1:*:*:*:*:*:*",
 			"cpeNameId": "B0F0AB50-C38A-46E8-9F19-4ABF11752AF0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hornerautomation:cscape:9.90:sp10:*:*:*:*:*:*",
+			"cpeNameId": "B2C2F332-CA42-4EEE-BD9F-97D9CDAD8CB7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hornerautomation:cscape:9.90:sp11:*:*:*:*:*:*",
+			"cpeNameId": "FBB03F75-2B1B-47F1-A534-CE86B863D77E"
 		},
 		{
 			"cpeName": "cpe:2.3:a:hornerautomation:cscape:9.90:sp2:*:*:*:*:*:*",

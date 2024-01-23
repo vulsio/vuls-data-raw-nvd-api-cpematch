@@ -3,8 +3,8 @@
 	"matchCriteriaId": "EC1BE020-C867-4652-B2D1-ADB77D8B7E07",
 	"versionEndIncluding": "3.43.0",
 	"created": "2024-01-05T18:24:30.150",
-	"lastModified": "2024-01-05T18:24:30.150",
-	"cpeLastModified": "2024-01-05T18:24:30.150",
+	"lastModified": "2024-01-23T15:42:44.727",
+	"cpeLastModified": "2024-01-23T15:42:44.727",
 	"status": "Active",
 	"matches": [
 		{
@@ -1334,6 +1334,26 @@
 		{
 			"cpeName": "cpe:2.3:a:sqlite:sqlite:3.40.1:*:*:*:*:*:*:*",
 			"cpeNameId": "F49E94A6-B4D6-4257-830C-A880796366AE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sqlite:sqlite:3.41.0:*:*:*:*:*:*:*",
+			"cpeNameId": "03EFECCC-FAB3-4F4C-9DC6-5D0B819D7473"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sqlite:sqlite:3.41.1:*:*:*:*:*:*:*",
+			"cpeNameId": "27D46C11-0E99-4A0F-86BE-3455C2F69ADF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sqlite:sqlite:3.41.2:*:*:*:*:*:*:*",
+			"cpeNameId": "6FC4E735-1747-44AD-9C00-3901DE6722FD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sqlite:sqlite:3.42.0:*:*:*:*:*:*:*",
+			"cpeNameId": "69C26CE7-6C1B-46DB-ACAB-36A213A8EC80"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sqlite:sqlite:3.43.0:*:*:*:*:*:*:*",
+			"cpeNameId": "710D1102-ABA0-439A-A164-4BC2CD32EC1D"
 		}
 	]
 }

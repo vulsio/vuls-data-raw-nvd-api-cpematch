@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:amd:ryzen_5_pro_7545u_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "C192C506-AB79-408A-8BA1-3714DA308363",
 	"created": "2023-11-21T14:06:19.073",
-	"lastModified": "2023-11-21T14:25:58.550",
-	"cpeLastModified": "2023-11-21T14:06:19.073",
-	"status": "Inactive"
+	"lastModified": "2024-01-23T14:23:55.413",
+	"cpeLastModified": "2024-01-23T14:23:55.413",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_5_pro_7545u_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "981EA005-9594-4E4A-A7A8-1BB4A0B91519"
+		}
+	]
 }

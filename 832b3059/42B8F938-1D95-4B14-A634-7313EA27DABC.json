@@ -4,8 +4,8 @@
 	"versionStartIncluding": "4.0.0",
 	"versionEndIncluding": "4.2.7",
 	"created": "2022-09-29T02:32:56.587",
-	"lastModified": "2022-09-29T02:32:56.587",
-	"cpeLastModified": "2022-09-29T02:32:56.587",
+	"lastModified": "2024-01-23T17:54:22.987",
+	"cpeLastModified": "2024-01-23T17:54:22.987",
 	"status": "Active",
 	"matches": [
 		{
@@ -75,6 +75,14 @@
 		{
 			"cpeName": "cpe:2.3:a:wazuh:wazuh:4.2.5:*:*:*:*:*:*:*",
 			"cpeNameId": "1F0B5704-31DA-4897-B3CB-11E8DF0B1CFE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wazuh:wazuh:4.2.6:*:*:*:*:*:*:*",
+			"cpeNameId": "965F5411-C5C6-495A-9ACD-88C60CFA462D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wazuh:wazuh:4.2.7:*:*:*:*:*:*:*",
+			"cpeNameId": "0FBF31A7-36AF-4953-9402-FB12F9EF6C13"
 		}
 	]
 }

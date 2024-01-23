@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:easyftp_server_project:easyftp_server:1.7.0.2:*:*:*:*:*:*:*",
 	"matchCriteriaId": "43600CC1-CB66-42F5-8446-84FF00B7CC5E",
 	"created": "2024-01-22T18:50:26.637",
-	"lastModified": "2024-01-22T18:50:26.637",
-	"cpeLastModified": "2024-01-22T18:50:26.637",
-	"status": "Active"
+	"lastModified": "2024-01-23T17:59:08.990",
+	"cpeLastModified": "2024-01-23T17:59:08.990",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:easyftp_server_project:easyftp_server:1.7.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "0839CAA4-05F2-4E97-987D-FFB72D461DA4"
+		}
+	]
 }

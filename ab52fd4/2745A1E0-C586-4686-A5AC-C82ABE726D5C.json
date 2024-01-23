@@ -3,7 +3,7 @@
 	"matchCriteriaId": "2745A1E0-C586-4686-A5AC-C82ABE726D5C",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-12-09T00:30:32.643",
+	"cpeLastModified": "2024-01-23T17:59:08.990",
 	"status": "Active",
 	"matches": [
 		{
@@ -1375,6 +1375,14 @@
 			"cpeNameId": "DE2F41A4-910F-49E6-A921-C4A4E080F32C"
 		},
 		{
+			"cpeName": "cpe:2.3:a:gnu:gnutls:3.6.16:*:*:*:*:*:*:*",
+			"cpeNameId": "5F8AED42-BD25-47AB-85AB-18A81CA4C8F3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gnu:gnutls:3.7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5BB28071-9515-47A6-8DE0-A288958FBB8E"
+		},
+		{
 			"cpeName": "cpe:2.3:a:gnu:gnutls:3.7.1:*:*:*:*:*:*:*",
 			"cpeNameId": "522B6ACA-CA8E-4DA7-BDF8-2962C2FE72B6"
 		},
@@ -1387,8 +1395,48 @@
 			"cpeNameId": "BBA13AEF-E0E6-4985-9E60-ACD5AF56B5A3"
 		},
 		{
+			"cpeName": "cpe:2.3:a:gnu:gnutls:3.7.4:*:*:*:*:*:*:*",
+			"cpeNameId": "859735D1-934C-4F45-B3A5-4755A4C427A6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gnu:gnutls:3.7.5:*:*:*:*:*:*:*",
+			"cpeNameId": "BD5C6170-4186-41FF-BC1F-91D6EB22F4F4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gnu:gnutls:3.7.6:*:*:*:*:*:*:*",
+			"cpeNameId": "B70452C0-C02D-4EE6-BF4B-DEA2237A622F"
+		},
+		{
 			"cpeName": "cpe:2.3:a:gnu:gnutls:3.7.7:*:*:*:*:*:*:*",
 			"cpeNameId": "C02F59E0-C5EE-4254-8646-448DC09530C9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gnu:gnutls:3.7.8:*:*:*:*:*:*:*",
+			"cpeNameId": "7F0288FD-AB11-457D-BF7F-78B024AEECB9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gnu:gnutls:3.7.9:*:*:*:*:*:*:*",
+			"cpeNameId": "22835307-BA11-4173-8759-8ACCF4B174AC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gnu:gnutls:3.7.10:*:*:*:*:*:*:*",
+			"cpeNameId": "B84B7D88-E232-4F62-82C5-8D76B80C437B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gnu:gnutls:3.8.0:*:*:*:*:*:*:*",
+			"cpeNameId": "6152BE3E-EADD-49F8-BF28-709EAF820BF7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gnu:gnutls:3.8.1:*:*:*:*:*:*:*",
+			"cpeNameId": "FA429E58-E2F2-4B97-A650-82035DC69E50"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gnu:gnutls:3.8.2:*:*:*:*:*:*:*",
+			"cpeNameId": "6F99B062-A678-4F54-B444-967A2EB02271"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gnu:gnutls:3.8.3:*:*:*:*:*:*:*",
+			"cpeNameId": "F354EAE8-852E-4F47-A462-6C21A52EBE23"
 		}
 	]
 }

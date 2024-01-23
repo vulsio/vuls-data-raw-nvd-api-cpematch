@@ -4,7 +4,7 @@
 	"versionEndExcluding": "3.7.3",
 	"created": "2022-08-29T13:07:48.100",
 	"lastModified": "2023-02-23T16:46:51.673",
-	"cpeLastModified": "2023-12-09T00:30:32.643",
+	"cpeLastModified": "2024-01-23T17:59:08.990",
 	"status": "Active",
 	"matches": [
 		{
@@ -1374,6 +1374,14 @@
 		{
 			"cpeName": "cpe:2.3:a:gnu:gnutls:3.6.15:*:*:*:*:*:*:*",
 			"cpeNameId": "DE2F41A4-910F-49E6-A921-C4A4E080F32C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gnu:gnutls:3.6.16:*:*:*:*:*:*:*",
+			"cpeNameId": "5F8AED42-BD25-47AB-85AB-18A81CA4C8F3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gnu:gnutls:3.7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5BB28071-9515-47A6-8DE0-A288958FBB8E"
 		},
 		{
 			"cpeName": "cpe:2.3:a:gnu:gnutls:3.7.1:*:*:*:*:*:*:*",
