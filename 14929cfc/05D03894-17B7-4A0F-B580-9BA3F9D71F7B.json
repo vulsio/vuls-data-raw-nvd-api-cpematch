@@ -1,0 +1,16 @@
+{
+	"criteria": "cpe:2.3:a:avohq:avo:*:*:*:*:*:ruby:*:*",
+	"matchCriteriaId": "05D03894-17B7-4A0F-B580-9BA3F9D71F7B",
+	"versionStartIncluding": "3.0.0",
+	"versionEndExcluding": "3.3.0",
+	"created": "2024-01-24T12:05:07.777",
+	"lastModified": "2024-01-24T12:05:07.777",
+	"cpeLastModified": "2024-01-24T12:05:07.777",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:avohq:avo:3.0.0:pre12:*:*:*:ruby:*:*",
+			"cpeNameId": "BD2378DC-44FB-4299-B4AB-DDC5BB3780AC"
+		}
+	]
+}
