@@ -1,9 +1,9 @@
 {
 	"criteria": "cpe:2.3:a:usabilitydynamics:wp-invoice:*:*:*:*:*:wordpress:*:*",
-	"matchCriteriaId": "940971CC-0BCA-4303-9F40-0A2E3231FF5E",
-	"versionEndExcluding": "4.1.1",
-	"created": "2019-09-20T15:27:07.690",
-	"lastModified": "2019-09-20T15:27:07.690",
+	"matchCriteriaId": "CCD5516A-1F0C-4E5C-BC7A-4C488D301D84",
+	"versionEndIncluding": "4.3.1",
+	"created": "2024-01-23T18:35:59.637",
+	"lastModified": "2024-01-23T19:39:26.280",
 	"cpeLastModified": "2024-01-23T19:39:26.280",
 	"status": "Active",
 	"matches": [
@@ -138,6 +138,66 @@
 		{
 			"cpeName": "cpe:2.3:a:usabilitydynamics:wp-invoice:4.1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "4BBF1813-4A86-4FD8-A625-361637847471"
+		},
+		{
+			"cpeName": "cpe:2.3:a:usabilitydynamics:wp-invoice:4.1.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "39B379A1-3464-4169-94CE-EFECD4952102"
+		},
+		{
+			"cpeName": "cpe:2.3:a:usabilitydynamics:wp-invoice:4.1.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E3F33987-4999-486F-B079-EB9F32F68BF6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:usabilitydynamics:wp-invoice:4.1.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A52FC368-751D-4636-A5DB-863805BA0949"
+		},
+		{
+			"cpeName": "cpe:2.3:a:usabilitydynamics:wp-invoice:4.1.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FDE8B549-9BB4-4108-AFD0-7B44BFD4552D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:usabilitydynamics:wp-invoice:4.1.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "149D1077-D814-431C-BC11-EB599F5CF1DF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:usabilitydynamics:wp-invoice:4.1.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5F757F58-56AD-4DCA-BBF5-0BF091E1C781"
+		},
+		{
+			"cpeName": "cpe:2.3:a:usabilitydynamics:wp-invoice:4.1.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "97EDA226-193A-4015-AC32-2E55FE425F9E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:usabilitydynamics:wp-invoice:4.1.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1B6D0974-6DEB-4798-BDF8-5C7D1951882B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:usabilitydynamics:wp-invoice:4.1.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BEB55751-EC64-4603-AB98-93D392DEBB51"
+		},
+		{
+			"cpeName": "cpe:2.3:a:usabilitydynamics:wp-invoice:4.1.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4CC13523-EB7C-4FD3-8DDA-42E880548DD6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:usabilitydynamics:wp-invoice:4.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CF70AF57-0F82-44AE-8978-7F73780237D8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:usabilitydynamics:wp-invoice:4.2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B7F56E3D-20AF-4D4B-9B97-2EF719392AAF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:usabilitydynamics:wp-invoice:4.2.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "37FB7F4A-C538-47B9-AF35-46338036CC1C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:usabilitydynamics:wp-invoice:4.3.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9BC506D4-93BC-4AD4-BA5F-54A2D55B7787"
+		},
+		{
+			"cpeName": "cpe:2.3:a:usabilitydynamics:wp-invoice:4.3.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "55431B5F-97C2-401F-907A-E47612A8A1C7"
 		}
 	]
 }
