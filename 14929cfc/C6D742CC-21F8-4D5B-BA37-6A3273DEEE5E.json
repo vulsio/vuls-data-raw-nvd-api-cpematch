@@ -3,8 +3,8 @@
 	"matchCriteriaId": "C6D742CC-21F8-4D5B-BA37-6A3273DEEE5E",
 	"versionEndExcluding": "2.47.0",
 	"created": "2024-01-24T12:05:07.777",
-	"lastModified": "2024-01-24T12:05:07.777",
-	"cpeLastModified": "2024-01-24T12:05:07.777",
+	"lastModified": "2024-01-24T13:03:49.697",
+	"cpeLastModified": "2024-01-24T13:03:49.697",
 	"status": "Active",
 	"matches": [
 		{
@@ -822,6 +822,86 @@
 		{
 			"cpeName": "cpe:2.3:a:avohq:avo:2.34.5:*:*:*:*:ruby:*:*",
 			"cpeNameId": "1D4385A9-8E3D-4AAF-9AE7-DDD1C7C8C50C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avohq:avo:2.34.6:*:*:*:*:ruby:*:*",
+			"cpeNameId": "267412C5-8C72-48D7-AB43-9A2B4202DFCA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avohq:avo:2.35.0:*:*:*:*:ruby:*:*",
+			"cpeNameId": "9FA5CFC0-799C-41CE-BE7F-88619F0D3E76"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avohq:avo:2.36.0:*:*:*:*:ruby:*:*",
+			"cpeNameId": "CFFE43BB-5E75-4E54-87C5-6B70F0F60D59"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avohq:avo:2.36.1:*:*:*:*:ruby:*:*",
+			"cpeNameId": "D8313ACF-62A5-482C-A9C3-66ED1FEFB34D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avohq:avo:2.36.2:*:*:*:*:ruby:*:*",
+			"cpeNameId": "08C63416-2F62-482C-B945-0329F8C4AAA6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avohq:avo:2.36.3:*:*:*:*:ruby:*:*",
+			"cpeNameId": "FADF652E-9306-4EDA-92A8-E367536629A0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avohq:avo:2.37.0:*:*:*:*:ruby:*:*",
+			"cpeNameId": "C5C9AC48-F5B8-4516-A2A1-163AA1B53B47"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avohq:avo:2.37.1:*:*:*:*:ruby:*:*",
+			"cpeNameId": "EF23DB93-546F-482D-AA65-2E960A394DAB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avohq:avo:2.37.2:*:*:*:*:ruby:*:*",
+			"cpeNameId": "4AD48069-B776-40AD-9385-F58626C53879"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avohq:avo:2.38.0:*:*:*:*:ruby:*:*",
+			"cpeNameId": "A1B7345A-F3FF-41A3-8513-A18C8B110D3E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avohq:avo:2.39.0:*:*:*:*:ruby:*:*",
+			"cpeNameId": "7F41E4EF-812C-4774-94B8-2251B43524C9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avohq:avo:2.40.0:*:*:*:*:ruby:*:*",
+			"cpeNameId": "BC8ECD3C-3FB6-4F37-A909-D18D640C6CBD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avohq:avo:2.41.0:*:*:*:*:ruby:*:*",
+			"cpeNameId": "8397BBF5-91FA-4417-A83F-7274C4B3192A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avohq:avo:2.42.0:*:*:*:*:ruby:*:*",
+			"cpeNameId": "51C2BDB1-F2C8-4EB7-9102-4262FE0C6021"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avohq:avo:2.42.1:*:*:*:*:ruby:*:*",
+			"cpeNameId": "F30A96D5-B4E7-44DA-815F-96778432FFCA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avohq:avo:2.42.2:*:*:*:*:ruby:*:*",
+			"cpeNameId": "46CE72B4-220A-4248-A7A3-2A5F0974F23F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avohq:avo:2.43.0:*:*:*:*:ruby:*:*",
+			"cpeNameId": "CD076464-8F01-40E1-942E-1A087D47627B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avohq:avo:2.44.0:*:*:*:*:ruby:*:*",
+			"cpeNameId": "83BB68E5-CCE3-4B8A-AC95-CEBFFD1F01C4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avohq:avo:2.45.0:*:*:*:*:ruby:*:*",
+			"cpeNameId": "D289CC81-6A5B-4C42-856C-C2321B4ED3B0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avohq:avo:2.46.0:*:*:*:*:ruby:*:*",
+			"cpeNameId": "58326B91-5194-4FC6-95A2-13F43D604AE2"
 		}
 	]
 }
