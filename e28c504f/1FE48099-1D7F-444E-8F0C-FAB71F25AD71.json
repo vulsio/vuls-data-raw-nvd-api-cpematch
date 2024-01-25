@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:a:x.org:xwayland:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1FE48099-1D7F-444E-8F0C-FAB71F25AD71",
+	"versionEndExcluding": "23.2.4",
+	"created": "2024-01-24T19:29:07.433",
+	"lastModified": "2024-01-24T19:29:07.433",
+	"cpeLastModified": "2024-01-24T19:29:07.433",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:x.org:xwayland:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7A892668-2499-45CA-B896-A125E78912D4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:x.org:xwayland:23.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "6F35318F-48A3-45B0-B70A-F953B7B0A0E8"
+		}
+	]
+}

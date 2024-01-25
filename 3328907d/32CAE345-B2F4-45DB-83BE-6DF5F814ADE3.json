@@ -1,0 +1,16 @@
+{
+	"criteria": "cpe:2.3:a:progress:openedge:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "32CAE345-B2F4-45DB-83BE-6DF5F814ADE3",
+	"versionStartIncluding": "12.2",
+	"versionEndIncluding": "12.2.13",
+	"created": "2024-01-24T19:46:07.313",
+	"lastModified": "2024-01-24T19:46:07.313",
+	"cpeLastModified": "2024-01-24T19:46:07.313",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:progress:openedge:12.2.12:*:*:*:lts:*:*:*",
+			"cpeNameId": "24B936DF-F70C-45F4-823E-6867C92D3087"
+		}
+	]
+}
