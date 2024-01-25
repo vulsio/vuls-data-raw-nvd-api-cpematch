@@ -3,7 +3,7 @@
 	"matchCriteriaId": "340C4071-1447-477F-942A-8E09EA29F917",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2022-08-09T13:48:54.950",
-	"cpeLastModified": "2024-01-17T16:46:18.373",
+	"cpeLastModified": "2024-01-25T18:03:08.127",
 	"status": "Active",
 	"matches": [
 		{
@@ -1019,6 +1019,10 @@
 			"cpeNameId": "C124D674-0B70-4FED-BF73-D7D0967E73EF"
 		},
 		{
+			"cpeName": "cpe:2.3:o:apple:iphone_os:16.7.5:*:*:*:*:*:*:*",
+			"cpeNameId": "8FB2500E-B127-4859-9E8A-E7BE6D1EA6A4"
+		},
+		{
 			"cpeName": "cpe:2.3:o:apple:iphone_os:17.0:*:*:*:*:*:*:*",
 			"cpeNameId": "7743AABE-7153-406B-95B8-C9404D993620"
 		},
@@ -1041,6 +1045,10 @@
 		{
 			"cpeName": "cpe:2.3:o:apple:iphone_os:17.2:*:*:*:*:*:*:*",
 			"cpeNameId": "292AD1CA-82E4-449A-A6DD-9BD395BC0218"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:iphone_os:17.3:*:*:*:*:*:*:*",
+			"cpeNameId": "EEAC318E-7B33-4D23-8FB5-0AF1213842EA"
 		}
 	]
 }

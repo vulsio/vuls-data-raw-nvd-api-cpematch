@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:a:wpeventsmanager:user_profile_avatar:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "3CB8DC63-3F75-4156-AAD7-CEA54EC39BA2",
+	"versionEndExcluding": "1.0.1",
+	"created": "2024-01-25T15:06:18.960",
+	"lastModified": "2024-01-25T15:06:18.960",
+	"cpeLastModified": "2024-01-25T15:12:01.163",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wpeventsmanager:user_profile_avatar:1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0DDBA103-FEB6-4441-B84D-9CBDAB9FFCE2"
+		}
+	]
+}

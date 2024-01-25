@@ -4,7 +4,7 @@
 	"versionEndExcluding": "16.0",
 	"created": "2022-11-01T23:09:52.227",
 	"lastModified": "2022-12-21T17:08:33.863",
-	"cpeLastModified": "2023-02-06T22:22:10.907",
+	"cpeLastModified": "2024-01-25T18:03:08.127",
 	"status": "Active",
 	"matches": [
 		{
@@ -234,6 +234,10 @@
 		{
 			"cpeName": "cpe:2.3:o:apple:tvos:10.2.2:*:*:*:*:*:*:*",
 			"cpeNameId": "AFFCF2DB-B6A8-433A-90C8-794B09E84465"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:tvos:10.3:*:*:*:*:*:*:*",
+			"cpeNameId": "34D5457C-B485-4134-96CF-D57F7C10CA91"
 		},
 		{
 			"cpeName": "cpe:2.3:o:apple:tvos:11:*:*:*:*:*:*:*",
