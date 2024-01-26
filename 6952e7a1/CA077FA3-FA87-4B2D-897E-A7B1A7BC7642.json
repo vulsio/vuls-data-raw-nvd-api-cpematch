@@ -4,6 +4,12 @@
 	"versionEndIncluding": "2024-01-12",
 	"created": "2024-01-25T17:17:44.590",
 	"lastModified": "2024-01-25T17:17:44.590",
-	"cpeLastModified": "2024-01-25T17:17:44.590",
-	"status": "Active"
+	"cpeLastModified": "2024-01-26T00:20:41.300",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dlink:dsl-245gr_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2B07F245-C467-43A4-B261-E39B8E53BDAA"
+		}
+	]
 }

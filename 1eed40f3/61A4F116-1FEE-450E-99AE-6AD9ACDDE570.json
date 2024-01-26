@@ -3,7 +3,7 @@
 	"matchCriteriaId": "61A4F116-1FEE-450E-99AE-6AD9ACDDE570",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2021-08-16T13:35:52.807",
+	"cpeLastModified": "2024-01-26T00:20:41.300",
 	"status": "Active",
 	"matches": [
 		{
@@ -227,8 +227,16 @@
 			"cpeNameId": "57DE466A-43D3-450F-AE6C-F514CC9F0D9C"
 		},
 		{
+			"cpeName": "cpe:2.3:o:hp:hp-ux:b.11.00:*:*:*:*:*:*:*",
+			"cpeNameId": "C851677F-5C91-479C-B493-31EA87705D9D"
+		},
+		{
 			"cpeName": "cpe:2.3:o:hp:hp-ux:b.11.11:*:*:*:*:*:*:*",
 			"cpeNameId": "3A2B558C-1C9F-46B8-81D9-2459064D881E"
+		},
+		{
+			"cpeName": "cpe:2.3:o:hp:hp-ux:b.11.22:*:*:*:*:*:*:*",
+			"cpeNameId": "96E2FD18-1263-40EA-917D-B1C3C6825D1A"
 		},
 		{
 			"cpeName": "cpe:2.3:o:hp:hp-ux:b.11.23:*:*:*:*:*:*:*",

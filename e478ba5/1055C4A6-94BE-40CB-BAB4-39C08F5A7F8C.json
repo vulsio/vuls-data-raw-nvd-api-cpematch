@@ -4,7 +4,7 @@
 	"versionEndIncluding": "5.4.29",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-07-28T20:21:21.383",
+	"cpeLastModified": "2024-01-26T00:20:41.300",
 	"status": "Active",
 	"matches": [
 		{
@@ -1570,6 +1570,10 @@
 		{
 			"cpeName": "cpe:2.3:a:php:php:5.3.0:*:*:*:*:*:*:*",
 			"cpeNameId": "7CE01BB0-56C1-4917-BCA2-E587D69078ED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:php:php:5.3.0:-:*:*:*:*:*:*",
+			"cpeNameId": "C8094484-2EB4-4493-B766-E6BE85C29A62"
 		},
 		{
 			"cpeName": "cpe:2.3:a:php:php:5.3.0:alpha1:*:*:*:*:*:*",

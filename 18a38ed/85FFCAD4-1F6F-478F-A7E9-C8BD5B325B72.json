@@ -5,6 +5,16 @@
 	"versionEndIncluding": "53",
 	"created": "2024-01-24T17:29:55.810",
 	"lastModified": "2024-01-24T17:29:55.810",
-	"cpeLastModified": "2024-01-24T17:29:55.810",
-	"status": "Active"
+	"cpeLastModified": "2024-01-26T00:20:41.300",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:gruen:evewa3:31:*:*:*:*:*:*:*",
+			"cpeNameId": "D1726CC9-F358-4F0B-B2FD-772627EC912F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gruen:evewa3:53:*:*:*:*:*:*:*",
+			"cpeNameId": "613A628E-F1B7-4248-ACD2-F88FA4EEFB54"
+		}
+	]
 }

@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:cdebyte:e880-ir01:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "4C3D0946-3592-41EF-94FC-D0F79CB64FAE",
 	"created": "2024-01-25T15:18:28.537",
-	"lastModified": "2024-01-25T15:18:28.537",
-	"cpeLastModified": "2024-01-25T15:18:28.537",
-	"status": "Active"
+	"lastModified": "2024-01-26T00:20:41.300",
+	"cpeLastModified": "2024-01-26T00:20:41.300",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:cdebyte:e880-ir01:-:*:*:*:*:*:*:*",
+			"cpeNameId": "69F7DC33-4E60-46DD-B5CF-822B4C4FFFB4"
+		}
+	]
 }

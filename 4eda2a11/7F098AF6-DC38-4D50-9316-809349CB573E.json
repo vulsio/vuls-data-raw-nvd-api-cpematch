@@ -4,9 +4,13 @@
 	"versionEndIncluding": "2024-01-12",
 	"created": "2024-01-25T17:17:44.590",
 	"lastModified": "2024-01-25T17:17:44.590",
-	"cpeLastModified": "2024-01-25T17:17:44.590",
+	"cpeLastModified": "2024-01-26T00:20:41.300",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dlink:dir-620_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "022342A3-314B-4FC0-B7FA-2363C8CDB460"
+		},
 		{
 			"cpeName": "cpe:2.3:o:dlink:dir-620_firmware:1.0.3:*:*:*:*:*:*:*",
 			"cpeNameId": "92714506-9900-4DBD-AB83-6AAB7238102A"

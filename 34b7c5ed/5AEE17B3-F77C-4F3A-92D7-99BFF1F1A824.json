@@ -4,6 +4,12 @@
 	"versionEndIncluding": "2024-01-12",
 	"created": "2024-01-25T17:17:44.590",
 	"lastModified": "2024-01-25T17:17:44.590",
-	"cpeLastModified": "2024-01-25T17:17:44.590",
-	"status": "Active"
+	"cpeLastModified": "2024-01-26T00:20:41.300",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dlink:dvg-n5402g_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5D7CF241-A052-4DD8-8EA8-4A5D25BAF51D"
+		}
+	]
 }

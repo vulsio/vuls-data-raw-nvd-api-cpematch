@@ -4,6 +4,12 @@
 	"versionEndIncluding": "2.06",
 	"created": "2023-05-26T15:23:09.597",
 	"lastModified": "2023-05-26T15:23:09.597",
-	"cpeLastModified": "2023-05-26T15:23:09.597",
-	"status": "Active"
+	"cpeLastModified": "2024-01-26T00:20:41.300",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dlink:dir-300_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A6E2B0E1-34CF-4BAF-B8A2-A01D2D846995"
+		}
+	]
 }
