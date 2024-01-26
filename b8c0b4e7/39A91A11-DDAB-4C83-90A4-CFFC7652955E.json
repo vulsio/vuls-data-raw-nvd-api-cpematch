@@ -1,11 +1,11 @@
 {
 	"criteria": "cpe:2.3:o:linux:linux_kernel:*:*:*:*:*:*:*:*",
-	"matchCriteriaId": "2B62E5D8-7C07-4973-BFF4-B497C36622D0",
+	"matchCriteriaId": "39A91A11-DDAB-4C83-90A4-CFFC7652955E",
 	"versionStartIncluding": "2.6.0",
-	"versionEndIncluding": "2.6.30.4",
-	"created": "2023-11-03T11:47:16.777",
-	"lastModified": "2024-01-25T19:03:39.930",
-	"cpeLastModified": "2024-01-25T19:03:39.930",
+	"versionEndExcluding": "2.6.30.5",
+	"created": "2024-01-25T19:04:44.267",
+	"lastModified": "2024-01-25T19:04:44.267",
+	"cpeLastModified": "2024-01-25T19:04:44.267",
 	"status": "Active",
 	"matches": [
 		{
