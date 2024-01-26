@@ -1,0 +1,23 @@
+{
+	"criteria": "cpe:2.3:a:darkhttpd_project:darkhttpd:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AF722F87-3AAC-49C5-897C-12AAA8F8FF95",
+	"versionEndExcluding": "1.15",
+	"created": "2024-01-26T16:14:48.843",
+	"lastModified": "2024-01-26T16:14:48.843",
+	"cpeLastModified": "2024-01-26T16:14:48.843",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:darkhttpd_project:darkhttpd:-:*:*:*:*:*:*:*",
+			"cpeNameId": "245DFA45-E739-4766-83F9-D5EAE99CD25F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:darkhttpd_project:darkhttpd:1.13:*:*:*:*:*:*:*",
+			"cpeNameId": "27085E10-599C-4865-AE5E-C20048DD8E0E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:darkhttpd_project:darkhttpd:1.13-1:*:*:*:*:*:*:*",
+			"cpeNameId": "6350884B-00C8-4972-97C0-989B18C3EDB6"
+		}
+	]
+}

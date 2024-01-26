@@ -4,9 +4,13 @@
 	"versionEndExcluding": "10.2003.10.0",
 	"created": "2020-04-15T15:04:27.267",
 	"lastModified": "2020-04-15T15:04:27.267",
-	"cpeLastModified": "2020-04-15T15:33:29.847",
+	"cpeLastModified": "2024-01-26T16:46:57.417",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:lenovo:vantage:4.0.49.0:*:*:*:*:*:*:*",
+			"cpeNameId": "7D2414E3-B0EF-410B-AF01-7AB330090621"
+		},
 		{
 			"cpeName": "cpe:2.3:a:lenovo:vantage:10.2001.12.0:*:*:*:*:*:*:*",
 			"cpeNameId": "A89D932E-1400-44ED-91AE-D5CF21BBA7EA"

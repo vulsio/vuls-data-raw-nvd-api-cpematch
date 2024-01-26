@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:amd:radeon_pro_v620:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "8A6F73C9-BF18-4C4E-9DD6-84CA95B71E5D",
 	"created": "2024-01-23T14:23:55.413",
-	"lastModified": "2024-01-23T14:23:55.413",
-	"cpeLastModified": "2024-01-23T14:23:55.413",
-	"status": "Active"
+	"lastModified": "2024-01-26T15:31:40.353",
+	"cpeLastModified": "2024-01-26T15:31:40.353",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_pro_v620:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6191D5FB-C075-419F-A3E0-9CF4DA8E1124"
+		}
+	]
 }

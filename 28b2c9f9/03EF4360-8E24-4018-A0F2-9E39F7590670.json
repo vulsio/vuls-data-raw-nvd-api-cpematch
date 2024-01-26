@@ -3,7 +3,7 @@
 	"matchCriteriaId": "03EF4360-8E24-4018-A0F2-9E39F7590670",
 	"created": "2022-05-23T16:45:56.380",
 	"lastModified": "2024-01-03T13:48:06.797",
-	"cpeLastModified": "2024-01-03T13:48:06.797",
+	"cpeLastModified": "2024-01-26T15:31:40.353",
 	"status": "Active",
 	"matches": [
 		{
@@ -959,6 +959,22 @@
 			"cpeNameId": "AD7C656C-47D0-4BBC-983B-6E398C0A0A4E"
 		},
 		{
+			"cpeName": "cpe:2.3:h:amd:radeon_instinct_mi25:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D23FAB23-2B03-4C26-88E0-88531D367350"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_instinct_mi50:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FA506FA7-60A5-4EAA-9999-DF091CA25AC9"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_pro_v520:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0ED257FF-9BF2-4904-9670-6F119CC442B6"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_pro_v620:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6191D5FB-C075-419F-A3E0-9CF4DA8E1124"
+		},
+		{
 			"cpeName": "cpe:2.3:h:amd:radeon_pro_vega_56:-:*:*:*:*:*:*:*",
 			"cpeNameId": "0FCAC737-98A1-493A-A8C0-2597E76C745C"
 		},
@@ -1053,6 +1069,10 @@
 		{
 			"cpeName": "cpe:2.3:h:amd:radeon_rx_5300m:-:*:*:*:*:*:*:*",
 			"cpeNameId": "F82A8646-C61B-4CAE-83C5-5EE51D32B273"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_rx_5300xt:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F9483143-7EDE-421A-BB7C-EEEDBBFB84BE"
 		},
 		{
 			"cpeName": "cpe:2.3:h:amd:radeon_rx_550:-:*:*:*:*:*:*:*",

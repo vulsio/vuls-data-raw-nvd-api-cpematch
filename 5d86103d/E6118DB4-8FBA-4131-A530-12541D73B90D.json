@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:a:amazon:aws_encryption_sdk:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E6118DB4-8FBA-4131-A530-12541D73B90D",
+	"versionEndExcluding": "1.9.0",
+	"created": "2024-01-26T13:19:09.427",
+	"lastModified": "2024-01-26T13:19:09.427",
+	"cpeLastModified": "2024-01-26T13:19:09.427",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:amazon:aws_encryption_sdk:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1E38C955-44F7-4C04-A81D-B2260E2AB001"
+		},
+		{
+			"cpeName": "cpe:2.3:a:amazon:aws_encryption_sdk:1.7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "8C8EB01B-23DF-4D3D-9C34-5F87986FAC93"
+		}
+	]
+}

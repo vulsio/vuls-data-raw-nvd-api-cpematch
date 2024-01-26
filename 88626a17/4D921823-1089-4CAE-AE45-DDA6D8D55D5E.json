@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:amd:radeon_instinct_mi25:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "4D921823-1089-4CAE-AE45-DDA6D8D55D5E",
 	"created": "2024-01-23T14:23:55.413",
-	"lastModified": "2024-01-23T14:23:55.413",
-	"cpeLastModified": "2024-01-23T14:23:55.413",
-	"status": "Active"
+	"lastModified": "2024-01-26T15:31:40.353",
+	"cpeLastModified": "2024-01-26T15:31:40.353",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_instinct_mi25:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D23FAB23-2B03-4C26-88E0-88531D367350"
+		}
+	]
 }
