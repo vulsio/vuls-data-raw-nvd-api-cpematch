@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:a:anglers-net:cgi_an-anlyzer:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F487E53F-8808-4579-AEEE-919088D72305",
+	"versionEndIncluding": "2023-12-31",
+	"created": "2024-01-27T13:47:12.613",
+	"lastModified": "2024-01-27T13:47:12.613",
+	"cpeLastModified": "2024-01-27T13:47:12.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:anglers-net:cgi_an-anlyzer:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C2BDB81A-AB83-447B-8BEE-3C2B990F9A85"
+		},
+		{
+			"cpeName": "cpe:2.3:a:anglers-net:cgi_an-anlyzer:2019-06-24:*:*:*:*:*:*:*",
+			"cpeNameId": "EF7347E5-8E9D-44D0-AEC3-33B61FCB9C3B"
+		}
+	]
+}
