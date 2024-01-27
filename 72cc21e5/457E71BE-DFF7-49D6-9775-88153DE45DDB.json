@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:amd:instinct_mi210_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "457E71BE-DFF7-49D6-9775-88153DE45DDB",
 	"created": "2024-01-23T14:23:55.413",
-	"lastModified": "2024-01-23T14:23:55.413",
-	"cpeLastModified": "2024-01-23T14:23:55.413",
-	"status": "Active"
+	"lastModified": "2024-01-27T02:46:40.590",
+	"cpeLastModified": "2024-01-27T02:46:40.590",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:instinct_mi210_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E29B77FE-B91C-4561-A64E-8A75DA642284"
+		}
+	]
 }

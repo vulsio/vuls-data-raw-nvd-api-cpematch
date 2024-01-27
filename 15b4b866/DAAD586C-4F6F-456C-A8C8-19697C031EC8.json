@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:amd:radeon_rx_7700xt_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "DAAD586C-4F6F-456C-A8C8-19697C031EC8",
 	"created": "2024-01-23T14:23:55.413",
-	"lastModified": "2024-01-23T14:23:55.413",
-	"cpeLastModified": "2024-01-23T14:23:55.413",
-	"status": "Active"
+	"lastModified": "2024-01-27T02:46:40.590",
+	"cpeLastModified": "2024-01-27T02:46:40.590",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:radeon_rx_7700xt_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BDC63374-3918-458E-9465-773933D16F7D"
+		}
+	]
 }
