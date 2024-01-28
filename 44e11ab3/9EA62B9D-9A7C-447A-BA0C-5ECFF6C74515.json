@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:a:sonicwall:capture_client:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "9EA62B9D-9A7C-447A-BA0C-5ECFF6C74515",
+	"versionEndIncluding": "3.7.10",
+	"created": "2024-01-27T18:52:22.573",
+	"lastModified": "2024-01-27T18:52:22.573",
+	"cpeLastModified": "2024-01-27T18:52:22.573",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sonicwall:capture_client:3.5:*:*:*:*:*:*:*",
+			"cpeNameId": "D860B7D2-A4F8-4D35-AC5D-6E080F6B2A7A"
+		}
+	]
+}
