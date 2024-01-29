@@ -3,8 +3,8 @@
 	"matchCriteriaId": "14CBB3DD-8C76-4489-9ED7-97DF5E46B561",
 	"versionEndIncluding": "1.5.17",
 	"created": "2024-01-27T14:29:04.517",
-	"lastModified": "2024-01-27T14:29:04.517",
-	"cpeLastModified": "2024-01-27T14:29:04.517",
+	"lastModified": "2024-01-29T12:19:29.810",
+	"cpeLastModified": "2024-01-29T12:19:29.810",
 	"status": "Active",
 	"matches": [
 		{
@@ -270,6 +270,202 @@
 		{
 			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.0.8:*:*:*:*:python:*:*",
 			"cpeNameId": "227E7400-EE49-4922-BD6C-ACEE5BF1EE88"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.0.9:*:*:*:*:python:*:*",
+			"cpeNameId": "D46D33C1-F98D-4ABA-8E7D-28C9F3D2FB11"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.0.10:*:*:*:*:python:*:*",
+			"cpeNameId": "A6ED6B4F-C3A4-483D-B8A6-2470A5F80D7B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.0.11:*:*:*:*:python:*:*",
+			"cpeNameId": "ACB773D9-A871-4F57-A7E1-C529613AA566"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.1:*:*:*:*:python:*:*",
+			"cpeNameId": "5AB7E09C-3E2B-473E-8185-428EC1AF4365"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.1.1:*:*:*:*:python:*:*",
+			"cpeNameId": "59519187-2F9A-49B4-82A0-03DBA1BFB83A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.1.2:*:*:*:*:python:*:*",
+			"cpeNameId": "214654BC-F3D6-41AC-A5D2-23548CFD192E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.1.3:*:*:*:*:python:*:*",
+			"cpeNameId": "92D3A35D-F332-4CDD-8910-FE7D83C66AB4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.2:*:*:*:*:python:*:*",
+			"cpeNameId": "8F7D0D11-F87E-4CFB-8805-B607F9D05C37"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.2.1:*:*:*:*:python:*:*",
+			"cpeNameId": "099F62B7-32D6-46EC-8012-3FDD30D71215"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.2.2:*:*:*:*:python:*:*",
+			"cpeNameId": "D78F9317-558B-47DC-B1BA-7AE915254350"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.2.3:*:*:*:*:python:*:*",
+			"cpeNameId": "E6F1547A-D76E-47F8-AACB-A2A39F75643B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.2.4:*:*:*:*:python:*:*",
+			"cpeNameId": "4DB6C047-E723-43DC-80E9-AC0D43FDACC3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.2.5:*:*:*:*:python:*:*",
+			"cpeNameId": "14A53481-B77D-4E0E-BE90-FF91A85728AE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.2.6:*:*:*:*:python:*:*",
+			"cpeNameId": "DC13A8E8-1205-457C-A926-D39B44957E48"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.2.7:*:*:*:*:python:*:*",
+			"cpeNameId": "EFBF2CAF-723A-4749-905C-FB7E4D0D4766"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.2.8:*:*:*:*:python:*:*",
+			"cpeNameId": "B6F1AA89-4FC2-4E7B-B5D3-48842E3A782C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.2.9:*:*:*:*:python:*:*",
+			"cpeNameId": "088C3762-9BFE-4673-A804-D6FD7E0A6A54"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.2.10:*:*:*:*:python:*:*",
+			"cpeNameId": "0E7FF42D-8BE9-4FCC-A9C2-8AEF24FE0720"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.3:*:*:*:*:python:*:*",
+			"cpeNameId": "4F0DDD7D-EB92-4A98-9F5E-B27B0F9995CD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.3.1:*:*:*:*:python:*:*",
+			"cpeNameId": "DD7FD3D5-862F-46DA-90B9-9BD14162F795"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.3.2:*:*:*:*:python:*:*",
+			"cpeNameId": "101A17A5-545D-4B62-BD5D-F262982D41B8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.3.3:*:*:*:*:python:*:*",
+			"cpeNameId": "EDF338A4-0D0B-4C3F-9F6E-05DA9A1CCD4E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.4:*:*:*:*:python:*:*",
+			"cpeNameId": "E1FD94A4-4820-41B7-9F2E-966F09EA63FF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.4.1:*:*:*:*:python:*:*",
+			"cpeNameId": "DA90D5F0-76AE-42F7-855E-207B35C9E066"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.4.2:*:*:*:*:python:*:*",
+			"cpeNameId": "C89D6F52-81DE-4F04-826B-49B6CA4788D5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.4.3:*:*:*:*:python:*:*",
+			"cpeNameId": "A8EB02BE-B610-45BF-856F-CFCB4A48CE81"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.4.5:*:*:*:*:python:*:*",
+			"cpeNameId": "3E5AD0CA-539C-497D-B7F5-65B3F2302506"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.4.6:*:*:*:*:python:*:*",
+			"cpeNameId": "492A0797-3DF8-4342-81A8-0B7F83DEF46B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.4.7:*:*:*:*:python:*:*",
+			"cpeNameId": "A22DD286-E558-4E6E-9698-4D1790C67B3E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.4.8:*:*:*:*:python:*:*",
+			"cpeNameId": "253FE665-C92F-4892-89DD-AB7F655F773D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.4.9:*:*:*:*:python:*:*",
+			"cpeNameId": "9213ABEE-1CD3-4117-90DD-3024BE9671C7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.4.10:*:*:*:*:python:*:*",
+			"cpeNameId": "B800914F-C5CA-4E53-991E-7AC0198F9E62"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.5:*:*:*:*:python:*:*",
+			"cpeNameId": "1A673663-6859-40F6-A987-BE5E4FA8F1BA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.5.1:*:*:*:*:python:*:*",
+			"cpeNameId": "B4863A7D-B90D-45B6-ADFA-043896E36989"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.5.2:*:*:*:*:python:*:*",
+			"cpeNameId": "1FFD7B90-67D9-4026-94F3-6D53DC0D09C0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.5.4:*:*:*:*:python:*:*",
+			"cpeNameId": "F9DE5B64-2E86-4629-9601-327841D99677"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.5.5:*:*:*:*:python:*:*",
+			"cpeNameId": "78C7E21E-C85B-4A69-8C82-72BD100C8F32"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.5.6:*:*:*:*:python:*:*",
+			"cpeNameId": "F0DE7B1C-8301-496D-8100-6FC8C2F23211"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.5.7:*:*:*:*:python:*:*",
+			"cpeNameId": "AC2143F7-1F92-430A-8CAB-0273DB82944F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.5.8:*:*:*:*:python:*:*",
+			"cpeNameId": "DA2727FD-FF99-4B9C-BEE5-D41B36024E76"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.5.9:*:*:*:*:python:*:*",
+			"cpeNameId": "D5551DBB-E28D-4D0C-BEEE-9D9CDB4DE4CA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.5.10:*:*:*:*:python:*:*",
+			"cpeNameId": "DFF843AE-B8FC-424C-B9B1-CD6A14ECC25F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.5.11:*:*:*:*:python:*:*",
+			"cpeNameId": "FFA64550-2A7B-45B5-952C-3659A3E1ABE7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.5.12:*:*:*:*:python:*:*",
+			"cpeNameId": "C54A3BB8-8B90-4F70-BDD7-F2EA725670F5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.5.13:*:*:*:*:python:*:*",
+			"cpeNameId": "E25C7B72-376A-4126-8C0B-F196F6D9A491"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.5.14:*:*:*:*:python:*:*",
+			"cpeNameId": "25B40AD8-D06C-4553-A6FB-91E72A824B05"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.5.15:*:*:*:*:python:*:*",
+			"cpeNameId": "5E6DCC0F-4828-4B8B-9534-F9D68D93BC53"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.5.16:*:*:*:*:python:*:*",
+			"cpeNameId": "C923C5A2-D47B-4981-9556-6E429BD8CEDB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gabrieleventuri:pandasai:1.5.17:*:*:*:*:python:*:*",
+			"cpeNameId": "6EBAC4BF-0518-41F5-9E53-03114227336D"
 		}
 	]
 }

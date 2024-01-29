@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:o:omron:cj2m-cpu33_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BE6EB28C-1B93-452F-8E42-DE77DC1C8F33",
+	"versionEndExcluding": "2.1",
+	"created": "2024-01-29T15:07:44.170",
+	"lastModified": "2024-01-29T15:07:44.170",
+	"cpeLastModified": "2024-01-29T15:07:44.170",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:omron:cj2m-cpu33_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "106AA6C7-BC0B-4BA7-A41F-C81553BCAEE1"
+		}
+	]
+}

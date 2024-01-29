@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:a:splunk:cloud:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AD58A503-42FB-4CCA-9ABE-2DBC42440867",
+	"versionEndExcluding": "9.1.2312.100",
+	"created": "2024-01-29T16:07:02.833",
+	"lastModified": "2024-01-29T16:07:02.833",
+	"cpeLastModified": "2024-01-29T16:07:02.833",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:splunk:cloud:9.1.2308:*:*:*:*:*:*:*",
+			"cpeNameId": "02105BCE-D07C-4416-B00D-FD437762CDFA"
+		}
+	]
+}

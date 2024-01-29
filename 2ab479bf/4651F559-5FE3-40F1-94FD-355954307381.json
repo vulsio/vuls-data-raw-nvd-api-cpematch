@@ -3,8 +3,8 @@
 	"matchCriteriaId": "4651F559-5FE3-40F1-94FD-355954307381",
 	"versionEndExcluding": "11.0.0",
 	"created": "2024-01-27T14:15:03.610",
-	"lastModified": "2024-01-27T14:15:03.610",
-	"cpeLastModified": "2024-01-27T14:15:03.610",
+	"lastModified": "2024-01-29T13:57:19.257",
+	"cpeLastModified": "2024-01-29T13:57:19.257",
 	"status": "Active",
 	"matches": [
 		{
@@ -690,6 +690,58 @@
 		{
 			"cpeName": "cpe:2.3:a:jsrsasign_project:jsrsasign:10.5.25:*:*:*:*:node.js:*:*",
 			"cpeNameId": "C06ABD6A-509B-4193-8FF6-4CDB0F2B3853"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jsrsasign_project:jsrsasign:10.5.26:*:*:*:*:node.js:*:*",
+			"cpeNameId": "724748FC-4C68-44C2-81B6-EC6E9D3B371A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jsrsasign_project:jsrsasign:10.5.27:*:*:*:*:node.js:*:*",
+			"cpeNameId": "903F9540-3D59-464F-A1E0-61D2CFD32BAD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jsrsasign_project:jsrsasign:10.6.0:*:*:*:*:node.js:*:*",
+			"cpeNameId": "D96D681B-0FAF-4D54-97DD-5DF1C0DF4950"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jsrsasign_project:jsrsasign:10.6.1:*:*:*:*:node.js:*:*",
+			"cpeNameId": "5B81A20F-5792-422F-8627-1FB869256128"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jsrsasign_project:jsrsasign:10.7.0:*:*:*:*:node.js:*:*",
+			"cpeNameId": "FCB63E23-5210-47DB-850B-186EA32CC30E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jsrsasign_project:jsrsasign:10.8.0:*:*:*:*:node.js:*:*",
+			"cpeNameId": "44A98A7D-EC5A-4119-83A5-AC83C1E7021A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jsrsasign_project:jsrsasign:10.8.1:*:*:*:*:node.js:*:*",
+			"cpeNameId": "320786F4-462D-479D-8D10-DB6FC85BB1CE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jsrsasign_project:jsrsasign:10.8.2:*:*:*:*:node.js:*:*",
+			"cpeNameId": "CC1A67C6-0DB5-421A-8822-8B5044971C63"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jsrsasign_project:jsrsasign:10.8.3:*:*:*:*:node.js:*:*",
+			"cpeNameId": "34C452CB-ACDB-4C82-A506-1E9E22705659"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jsrsasign_project:jsrsasign:10.8.4:*:*:*:*:node.js:*:*",
+			"cpeNameId": "8FF60736-6891-432D-8FC8-D0AE1E5F1B60"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jsrsasign_project:jsrsasign:10.8.5:*:*:*:*:node.js:*:*",
+			"cpeNameId": "6D68AA5D-457F-4205-B641-21571C0BCD04"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jsrsasign_project:jsrsasign:10.8.6:*:*:*:*:node.js:*:*",
+			"cpeNameId": "0FCA8CCB-3B80-42D7-BA8A-ACC4C5D84924"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jsrsasign_project:jsrsasign:10.9.0:*:*:*:*:node.js:*:*",
+			"cpeNameId": "1EF75FF7-A798-48EB-B723-825645EAEBCF"
 		}
 	]
 }
