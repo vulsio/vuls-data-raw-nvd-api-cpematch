@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:omron:cs1d-cpu65p:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "38224CF8-2691-442D-8F5A-2810F422672A",
 	"created": "2024-01-29T15:07:44.170",
-	"lastModified": "2024-01-29T15:07:44.170",
-	"cpeLastModified": "2024-01-29T15:07:44.170",
-	"status": "Active"
+	"lastModified": "2024-01-29T19:32:52.340",
+	"cpeLastModified": "2024-01-29T19:32:52.340",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:omron:cs1d-cpu65p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C675DF3B-5E01-4B02-A0BB-C1ADFBE39B85"
+		}
+	]
 }

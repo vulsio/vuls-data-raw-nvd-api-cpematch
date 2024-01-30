@@ -4,12 +4,16 @@
 	"versionEndIncluding": "2.18",
 	"created": "2023-08-09T13:51:29.750",
 	"lastModified": "2023-08-09T14:02:07.483",
-	"cpeLastModified": "2023-08-09T14:02:07.483",
+	"cpeLastModified": "2024-01-29T19:32:36.737",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:o:omron:cj2m-cpu32_firmware:-:*:*:*:*:*:*:*",
 			"cpeNameId": "EDC6AADD-9728-446B-B88F-70B87FF41EC2"
+		},
+		{
+			"cpeName": "cpe:2.3:o:omron:cj2m-cpu32_firmware:2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "3896A134-1C05-477D-9757-48058ADA48B1"
 		},
 		{
 			"cpeName": "cpe:2.3:o:omron:cj2m-cpu32_firmware:2.18:*:*:*:*:*:*:*",

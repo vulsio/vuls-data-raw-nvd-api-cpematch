@@ -1,0 +1,16 @@
+{
+	"criteria": "cpe:2.3:a:fortra:goanywhere_managed_file_transfer:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "383EAFF6-9DE9-4054-8C0E-B685C9509EB6",
+	"versionStartIncluding": "7.0.0",
+	"versionEndExcluding": "7.4.1",
+	"created": "2024-01-29T19:00:43.060",
+	"lastModified": "2024-01-29T19:00:43.060",
+	"cpeLastModified": "2024-01-29T19:00:43.060",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:fortra:goanywhere_managed_file_transfer:7.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "B924313C-3F5F-4555-8034-90FC6E1F48F9"
+		}
+	]
+}

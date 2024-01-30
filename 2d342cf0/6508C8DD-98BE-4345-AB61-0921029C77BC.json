@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:omron:cp1e-n:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "6508C8DD-98BE-4345-AB61-0921029C77BC",
 	"created": "2024-01-29T15:07:44.170",
-	"lastModified": "2024-01-29T15:07:44.170",
-	"cpeLastModified": "2024-01-29T15:07:44.170",
-	"status": "Active"
+	"lastModified": "2024-01-29T19:32:52.340",
+	"cpeLastModified": "2024-01-29T19:32:52.340",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:omron:cp1e-n:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4D8F5E03-66F6-4767-8217-245E9F022587"
+		}
+	]
 }
