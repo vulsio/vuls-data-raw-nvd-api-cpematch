@@ -3,8 +3,8 @@
 	"matchCriteriaId": "43540D1E-C75B-405C-B094-A83D4C908899",
 	"versionEndIncluding": "2.4.8",
 	"created": "2024-01-16T18:41:35.657",
-	"lastModified": "2024-01-16T18:41:35.657",
-	"cpeLastModified": "2024-01-16T18:41:35.657",
+	"lastModified": "2024-01-30T01:29:30.017",
+	"cpeLastModified": "2024-01-30T01:29:30.017",
 	"status": "Active",
 	"matches": [
 		{
@@ -178,6 +178,10 @@
 		{
 			"cpeName": "cpe:2.3:a:webtoffee:import_export_wordpress_users:2.4.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "AB5F16FA-D3DC-45BD-AD7F-79C27E85476F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webtoffee:import_export_wordpress_users:2.4.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "43B83D70-9722-4298-B1A1-5BF75F165CD8"
 		}
 	]
 }

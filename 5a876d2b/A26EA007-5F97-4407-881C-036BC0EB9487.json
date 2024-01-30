@@ -4,12 +4,16 @@
 	"versionEndExcluding": "23.9.2.47551",
 	"created": "2024-01-02T17:54:36.950",
 	"lastModified": "2024-01-04T03:03:20.740",
-	"cpeLastModified": "2024-01-04T03:03:20.740",
+	"cpeLastModified": "2024-01-30T01:31:24.660",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:clickhouse:clickhouse_cloud:-:*:*:*:*:*:*:*",
 			"cpeNameId": "1F6180D4-3226-4047-9DE2-7D54B90069FD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:clickhouse:clickhouse_cloud:23.9:*:*:*:*:*:*:*",
+			"cpeNameId": "12BC8D7D-0946-47CE-93D8-D1EAFA76B2E8"
 		},
 		{
 			"cpeName": "cpe:2.3:a:clickhouse:clickhouse_cloud:23.9.2.47475:*:*:*:*:*:*:*",

@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:a:broadcom:symantec_messaging_gateway:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "63EC0CCF-6C74-4364-8AF4-0787CCB0BC05",
+	"versionEndIncluding": "10.5",
+	"created": "2024-01-30T00:59:10.767",
+	"lastModified": "2024-01-30T00:59:10.767",
+	"cpeLastModified": "2024-01-30T00:59:10.767",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:broadcom:symantec_messaging_gateway:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BFB4C52F-17F7-402C-881B-1832B3261566"
+		}
+	]
+}
