@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:trendmicro:deep_security_agent:20.0:update3445:*:*:long_term_support:*:*:*",
 	"matchCriteriaId": "2FF0DE00-851E-4185-8C0C-172252E3E7C6",
 	"created": "2024-01-26T16:29:14.570",
-	"lastModified": "2024-01-26T16:29:14.570",
-	"cpeLastModified": "2024-01-26T16:29:14.570",
-	"status": "Active"
+	"lastModified": "2024-01-30T13:37:00.757",
+	"cpeLastModified": "2024-01-30T13:37:00.757",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:trendmicro:deep_security_agent:20.0:update3445:*:*:long_term_support:*:*:*",
+			"cpeNameId": "B82C49B1-7B00-45CE-ADCC-E49856C3CAFC"
+		}
+	]
 }

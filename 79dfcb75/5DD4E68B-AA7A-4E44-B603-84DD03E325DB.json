@@ -5,6 +5,12 @@
 	"versionEndExcluding": "4.6.2",
 	"created": "2024-01-25T16:10:04.220",
 	"lastModified": "2024-01-25T16:10:04.220",
-	"cpeLastModified": "2024-01-25T16:10:04.220",
-	"status": "Active"
+	"cpeLastModified": "2024-01-30T17:49:01.790",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:anomali:match:4.6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "DBEF192B-3759-4BD5-9C06-7D96D427E6E0"
+		}
+	]
 }

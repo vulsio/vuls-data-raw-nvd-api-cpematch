@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:o:elecom:wrc-x1800gs-b_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "220801B5-B278-4E27-BD38-065589867B0E",
+	"versionEndExcluding": "1.18",
+	"created": "2024-01-30T18:04:25.360",
+	"lastModified": "2024-01-30T18:04:25.360",
+	"cpeLastModified": "2024-01-30T18:04:25.360",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:elecom:wrc-x1800gs-b_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CF1F0662-BCF5-4714-91B7-264258AA06D4"
+		},
+		{
+			"cpeName": "cpe:2.3:o:elecom:wrc-x1800gs-b_firmware:1.13:*:*:*:*:*:*:*",
+			"cpeNameId": "F1B1D594-6514-4EE6-BC03-7768FE257342"
+		}
+	]
+}

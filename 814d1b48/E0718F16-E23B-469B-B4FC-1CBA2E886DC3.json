@@ -1,0 +1,28 @@
+{
+	"criteria": "cpe:2.3:a:silverstripe:graphql:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E0718F16-E23B-469B-B4FC-1CBA2E886DC3",
+	"versionStartIncluding": "5.0.0",
+	"versionEndExcluding": "5.1.3",
+	"created": "2024-01-30T16:25:36.660",
+	"lastModified": "2024-01-30T16:25:36.660",
+	"cpeLastModified": "2024-01-30T16:25:36.660",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:silverstripe:graphql:5.0.0:alpha1:*:*:*:*:*:*",
+			"cpeNameId": "C791ED09-9243-4D93-B9DD-48F5178A04FE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:silverstripe:graphql:5.0.0:beta1:*:*:*:*:*:*",
+			"cpeNameId": "55EFE5EF-2D10-4D93-9B64-E460718A1833"
+		},
+		{
+			"cpeName": "cpe:2.3:a:silverstripe:graphql:5.0.0:beta2:*:*:*:*:*:*",
+			"cpeNameId": "2ABBF1D4-BF51-4AEF-B4E4-D3A22DF396C8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:silverstripe:graphql:5.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "73796413-7001-4634-9CAD-E506BE40F74F"
+		}
+	]
+}
