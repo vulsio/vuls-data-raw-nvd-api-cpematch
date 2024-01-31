@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:a:splashtop:software_updater:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5B171E7A-307B-4342-8DC8-662D3AC42894",
+	"versionEndIncluding": "1.5.6.21",
+	"created": "2024-01-31T15:13:03.643",
+	"lastModified": "2024-01-31T15:13:03.643",
+	"cpeLastModified": "2024-01-31T15:13:03.643",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:splashtop:software_updater:1.5.6.16:*:*:*:*:*:*:*",
+			"cpeNameId": "3D579175-2327-49DD-A71A-992E2116968E"
+		}
+	]
+}

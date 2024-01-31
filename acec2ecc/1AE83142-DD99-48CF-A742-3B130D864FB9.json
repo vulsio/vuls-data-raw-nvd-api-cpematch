@@ -1,0 +1,16 @@
+{
+	"criteria": "cpe:2.3:a:synaptics:fingerprint_driver:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1AE83142-DD99-48CF-A742-3B130D864FB9",
+	"versionStartIncluding": "6.0.00.0000",
+	"versionEndExcluding": "6.0.17.1103",
+	"created": "2024-01-31T17:36:21.750",
+	"lastModified": "2024-01-31T17:36:21.750",
+	"cpeLastModified": "2024-01-31T17:36:21.750",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:synaptics:fingerprint_driver:6.0.00.1111:*:*:*:*:*:*:*",
+			"cpeNameId": "7B79DF33-07C2-434E-A117-130D0007B848"
+		}
+	]
+}

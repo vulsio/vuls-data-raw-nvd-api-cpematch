@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:a:instawp:instawp_connect:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "8F64534D-B2EB-42F8-9D98-35D7C4967FF1",
+	"versionEndIncluding": "0.1.0.9",
+	"created": "2024-01-31T16:48:49.683",
+	"lastModified": "2024-01-31T16:48:49.683",
+	"cpeLastModified": "2024-01-31T16:48:49.683",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.0.9.18:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BFF029DA-3BBC-4336-9B3E-1B4AD257310E"
+		}
+	]
+}
