@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:yamaha:wlx202:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "BAFE472D-2EF8-4AB5-B482-5279B3F5EFAB",
 	"created": "2024-01-30T17:57:26.260",
-	"lastModified": "2024-01-30T17:57:26.260",
-	"cpeLastModified": "2024-01-30T17:57:26.260",
-	"status": "Active"
+	"lastModified": "2024-01-30T18:35:03.697",
+	"cpeLastModified": "2024-01-30T18:35:03.697",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:yamaha:wlx202:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A8621A2B-38C8-44B6-92FE-24C805B050FC"
+		}
+	]
 }
