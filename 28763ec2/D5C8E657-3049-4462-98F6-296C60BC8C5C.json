@@ -3,7 +3,7 @@
 	"matchCriteriaId": "D5C8E657-3049-4462-98F6-296C60BC8C5C",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-12-29T10:15:30.570",
+	"cpeLastModified": "2024-01-31T19:19:40.597",
 	"status": "Active",
 	"matches": [
 		{
@@ -1945,6 +1945,10 @@
 		{
 			"cpeName": "cpe:2.3:a:mozilla:thunderbird:115.6:*:*:*:*:*:*:*",
 			"cpeNameId": "04B98F9F-317F-433A-A46B-D86BFC720648"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:thunderbird:115.7:*:*:*:*:*:*:*",
+			"cpeNameId": "51187040-C244-449E-BD02-D6D657830389"
 		}
 	]
 }

@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:ivanti:policy_secure:9.1:r18.2:*:*:*:*:*:*",
 	"matchCriteriaId": "77AA3823-7B01-423E-BE8E-797AEB567B8F",
 	"created": "2024-01-12T20:30:47.323",
-	"lastModified": "2024-01-13T03:00:23.283",
-	"cpeLastModified": "2024-01-12T20:30:47.323",
-	"status": "Inactive"
+	"lastModified": "2024-01-31T18:26:27.580",
+	"cpeLastModified": "2024-01-31T18:26:27.580",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ivanti:policy_secure:9.1:r18.2:*:*:*:*:*:*",
+			"cpeNameId": "4C0363F2-E4DF-4B80-90A1-0ADE768849B5"
+		}
+	]
 }

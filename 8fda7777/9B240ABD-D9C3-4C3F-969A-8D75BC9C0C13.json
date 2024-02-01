@@ -3,8 +3,8 @@
 	"matchCriteriaId": "9B240ABD-D9C3-4C3F-969A-8D75BC9C0C13",
 	"versionEndExcluding": "1.6.10",
 	"created": "2024-01-29T14:08:14.107",
-	"lastModified": "2024-01-29T14:08:14.107",
-	"cpeLastModified": "2024-01-29T14:08:14.107",
+	"lastModified": "2024-01-31T19:19:40.597",
+	"cpeLastModified": "2024-01-31T19:19:40.597",
 	"status": "Active",
 	"matches": [
 		{
@@ -390,6 +390,10 @@
 		{
 			"cpeName": "cpe:2.3:a:networktocode:nautobot:1.6.8:*:*:*:*:*:*:*",
 			"cpeNameId": "C15AD3D8-FC26-4956-8944-5A1B96237C5D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:networktocode:nautobot:1.6.9:*:*:*:*:*:*:*",
+			"cpeNameId": "A661A1BF-5587-4E36-B544-A92B7B6C4418"
 		}
 	]
 }

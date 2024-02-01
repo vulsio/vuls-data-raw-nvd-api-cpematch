@@ -3,8 +3,8 @@
 	"matchCriteriaId": "5E5A6F47-920B-48E1-A7F4-633328DA2B00",
 	"versionEndIncluding": "115.7",
 	"created": "2024-01-30T15:08:59.520",
-	"lastModified": "2024-01-30T15:08:59.520",
-	"cpeLastModified": "2024-01-30T15:08:59.520",
+	"lastModified": "2024-01-31T19:19:40.597",
+	"cpeLastModified": "2024-01-31T19:19:40.597",
 	"status": "Active",
 	"matches": [
 		{
@@ -1946,6 +1946,10 @@
 		{
 			"cpeName": "cpe:2.3:a:mozilla:thunderbird:115.6:*:*:*:*:*:*:*",
 			"cpeNameId": "04B98F9F-317F-433A-A46B-D86BFC720648"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:thunderbird:115.7:*:*:*:*:*:*:*",
+			"cpeNameId": "51187040-C244-449E-BD02-D6D657830389"
 		}
 	]
 }

@@ -1,0 +1,60 @@
+{
+	"criteria": "cpe:2.3:a:cisco:unified_communications_manager:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0CEA9E0E-CB62-438F-8DDE-8366988B2B6B",
+	"versionStartIncluding": "14.0",
+	"versionEndIncluding": "14su3",
+	"created": "2024-01-31T21:20:07.460",
+	"lastModified": "2024-01-31T21:20:07.460",
+	"cpeLastModified": "2024-01-31T21:20:07.460",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:unified_communications_manager:14.0:*:*:*:*:*:*:*",
+			"cpeNameId": "EBA186CB-46F1-4662-9F67-65326A3897E6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:unified_communications_manager:14.0:*:*:*:-:*:*:*",
+			"cpeNameId": "2B67BAA1-2F68-485E-BBF7-019BCFC23155"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:unified_communications_manager:14.0:*:*:*:session_management:*:*:*",
+			"cpeNameId": "9954218F-4541-4E34-8988-8EE569354289"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:unified_communications_manager:14.0\\(1.10000.20\\):*:*:*:*:*:*:*",
+			"cpeNameId": "7326BE5E-F09B-4EDF-B573-495C4145F760"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:unified_communications_manager:14.0\\(1.10000.20\\):*:*:*:session_management:*:*:*",
+			"cpeNameId": "D5353C9C-41B7-4AAA-83F6-FF72E15B6F4D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:unified_communications_manager:14su1:*:*:*:*:*:*:*",
+			"cpeNameId": "D4493555-A180-4D55-8FDB-BF427744D8C8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:unified_communications_manager:14su1:*:*:*:-:*:*:*",
+			"cpeNameId": "9535A4EC-DCDE-4CFF-BC9E-BFD7EAFDE275"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:unified_communications_manager:14su1:*:*:*:session_management:*:*:*",
+			"cpeNameId": "3B7B7833-A3AE-4387-8A86-0D251F8BB384"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:unified_communications_manager:14su2:*:*:*:-:*:*:*",
+			"cpeNameId": "F3CD9550-64C9-46A3-AD55-DFC8A9913280"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:unified_communications_manager:14su2:*:*:*:session_management:*:*:*",
+			"cpeNameId": "95B1E75B-41D8-4F3A-81C2-6339AC54FFD4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:unified_communications_manager:14su3:*:*:*:*:*:*:*",
+			"cpeNameId": "CAA84579-BD85-48B1-84C6-B02A0CB9A2E7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:unified_communications_manager:14su3:*:*:*:session_management:*:*:*",
+			"cpeNameId": "64875957-5167-4977-AF9B-755FD67E878B"
+		}
+	]
+}

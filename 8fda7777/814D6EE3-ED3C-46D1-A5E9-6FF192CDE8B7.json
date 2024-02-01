@@ -4,8 +4,8 @@
 	"versionStartIncluding": "2.0.0",
 	"versionEndExcluding": "2.1.2",
 	"created": "2024-01-29T14:08:14.107",
-	"lastModified": "2024-01-29T14:08:14.107",
-	"cpeLastModified": "2024-01-29T14:08:14.107",
+	"lastModified": "2024-01-31T19:19:40.597",
+	"cpeLastModified": "2024-01-31T19:19:40.597",
 	"status": "Active",
 	"matches": [
 		{
@@ -73,8 +73,16 @@
 			"cpeNameId": "5EF89FEF-72AD-402E-8309-33F2A5DFC1BD"
 		},
 		{
+			"cpeName": "cpe:2.3:a:networktocode:nautobot:2.1.0:-:*:*:*:*:*:*",
+			"cpeNameId": "74E1D6F2-C254-4E4D-B188-D7D01482150E"
+		},
+		{
 			"cpeName": "cpe:2.3:a:networktocode:nautobot:2.1.0:beta1:*:*:*:*:*:*",
 			"cpeNameId": "525B8198-C07E-4364-9D1E-03BA16E099B8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:networktocode:nautobot:2.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "DADB631B-75BE-4DC9-9021-2B1802B5CF6C"
 		}
 	]
 }

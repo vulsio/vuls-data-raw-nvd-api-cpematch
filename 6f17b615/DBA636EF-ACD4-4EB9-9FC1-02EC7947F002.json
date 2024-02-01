@@ -3,8 +3,8 @@
 	"matchCriteriaId": "DBA636EF-ACD4-4EB9-9FC1-02EC7947F002",
 	"versionEndIncluding": "3.2.2",
 	"created": "2024-01-29T13:40:05.937",
-	"lastModified": "2024-01-29T13:40:05.937",
-	"cpeLastModified": "2024-01-29T13:40:05.937",
+	"lastModified": "2024-01-31T19:19:40.597",
+	"cpeLastModified": "2024-01-31T19:19:40.597",
 	"status": "Active",
 	"matches": [
 		{
@@ -46,6 +46,18 @@
 		{
 			"cpeName": "cpe:2.3:a:wow-company:sticky_buttons:3.1.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "C418CFA9-0E40-4737-B76D-E211FA8891BD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wow-company:sticky_buttons:3.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F8BB66F9-E67D-41D0-AE76-1F1DE2BDF548"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wow-company:sticky_buttons:3.2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "954EDBA5-8367-4FD7-B732-4E22BAA5FA6F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wow-company:sticky_buttons:3.2.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "355FF633-3555-42CA-9397-67897F2FE6ED"
 		}
 	]
 }

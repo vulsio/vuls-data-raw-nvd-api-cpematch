@@ -3,8 +3,8 @@
 	"matchCriteriaId": "337C23A8-23D4-4BCF-BC3E-65F665AF946D",
 	"versionEndIncluding": "3.7.5",
 	"created": "2024-01-31T17:24:28.850",
-	"lastModified": "2024-01-31T17:24:28.850",
-	"cpeLastModified": "2024-01-31T17:24:28.850",
+	"lastModified": "2024-01-31T19:19:40.597",
+	"cpeLastModified": "2024-01-31T19:19:40.597",
 	"status": "Active",
 	"matches": [
 		{
@@ -478,6 +478,74 @@
 		{
 			"cpeName": "cpe:2.3:a:wpovernight:woocommerce_pdf_invoices\\&_packing_slips:3.4.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "5521AD19-75DC-4617-BD0F-C9CF84DDE8D8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpovernight:woocommerce_pdf_invoices\\&_packing_slips:3.5.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4C7BE136-67F2-4C45-93E4-E90473998609"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpovernight:woocommerce_pdf_invoices\\&_packing_slips:3.5.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D6D1363A-F50A-4A3D-8731-338CB80BBECA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpovernight:woocommerce_pdf_invoices\\&_packing_slips:3.5.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E7968B63-8814-4231-A1DC-4A8BA36BE0AA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpovernight:woocommerce_pdf_invoices\\&_packing_slips:3.5.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B44DDD0C-0DB6-4559-A44C-C20714BF17E5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpovernight:woocommerce_pdf_invoices\\&_packing_slips:3.5.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "394D2BAB-9942-4AD0-A51E-F22605D6AAC0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpovernight:woocommerce_pdf_invoices\\&_packing_slips:3.5.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D8DE9D51-1438-4D42-95B1-92D7C0C69E40"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpovernight:woocommerce_pdf_invoices\\&_packing_slips:3.5.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6765AF11-D35A-40A5-8256-C91F668207B8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpovernight:woocommerce_pdf_invoices\\&_packing_slips:3.6.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8B2E836E-15A4-4401-8F84-DF4F269CF65E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpovernight:woocommerce_pdf_invoices\\&_packing_slips:3.6.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E2D054A8-9700-4BEA-BF72-E132162FE55E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpovernight:woocommerce_pdf_invoices\\&_packing_slips:3.6.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "139391C8-372F-407B-8FAC-EA85B27E0589"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpovernight:woocommerce_pdf_invoices\\&_packing_slips:3.6.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F10EEC70-FB6F-4370-9F1A-0B30AE0CC768"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpovernight:woocommerce_pdf_invoices\\&_packing_slips:3.7.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E0B7B99B-3E65-4F78-914D-A165EC61D790"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpovernight:woocommerce_pdf_invoices\\&_packing_slips:3.7.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DE164CFB-E8BC-4D97-900D-BCC0D05B98A4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpovernight:woocommerce_pdf_invoices\\&_packing_slips:3.7.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "402312BE-F353-4AAA-A739-99DA9646D210"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpovernight:woocommerce_pdf_invoices\\&_packing_slips:3.7.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F1F5DC25-E3D2-4844-AAA4-79375997CC53"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpovernight:woocommerce_pdf_invoices\\&_packing_slips:3.7.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EDF49E0F-8012-4E40-9EC0-6967562680B1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpovernight:woocommerce_pdf_invoices\\&_packing_slips:3.7.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AC993B24-D7C3-48E9-8BB0-C66009D9E1F4"
 		}
 	]
 }
