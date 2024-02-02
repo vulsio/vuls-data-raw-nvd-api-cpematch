@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:plone:plone_docker_official_image:5.2.13:*:*:*:*:*:*:*",
 	"matchCriteriaId": "277934F5-1C92-4B1C-85DE-93C7464108DA",
 	"created": "2024-02-01T14:49:52.750",
-	"lastModified": "2024-02-01T14:49:52.750",
-	"cpeLastModified": "2024-02-01T14:49:52.750",
-	"status": "Active"
+	"lastModified": "2024-02-01T19:55:48.123",
+	"cpeLastModified": "2024-02-01T19:55:48.123",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:plone:plone_docker_official_image:5.2.13:*:*:*:*:*:*:*",
+			"cpeNameId": "B77ED609-9A1C-4E00-81E9-432B074B19BF"
+		}
+	]
 }
