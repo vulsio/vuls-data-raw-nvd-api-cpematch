@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:midnightbsd:midnightbsd:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "11F7D4E2-850E-4FAC-B447-608F1D41B686",
 	"created": "2022-11-09T13:13:31.883",
-	"lastModified": "2022-11-09T13:13:31.883",
-	"cpeLastModified": "2022-11-09T13:13:31.883",
-	"status": "Active"
+	"lastModified": "2024-02-03T02:52:54.353",
+	"cpeLastModified": "2024-02-03T02:52:54.353",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:midnightbsd:midnightbsd:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FDED8CD7-12A4-4D08-9395-7358B26AE2A4"
+		}
+	]
 }

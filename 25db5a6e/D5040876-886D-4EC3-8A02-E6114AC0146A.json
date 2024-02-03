@@ -4,6 +4,12 @@
 	"versionEndIncluding": "1.0.1",
 	"created": "2024-01-03T18:50:28.630",
 	"lastModified": "2024-01-03T18:50:28.630",
-	"cpeLastModified": "2024-01-03T18:50:28.630",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:milandinic:rename_media_files:1.0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BCCDE2FD-CF72-4346-B943-385E74731847"
+		}
+	]
 }

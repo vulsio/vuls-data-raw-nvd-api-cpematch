@@ -4,7 +4,7 @@
 	"versionEndExcluding": "20.8.0",
 	"created": "2023-10-24T14:40:51.730",
 	"lastModified": "2023-12-01T10:45:30.163",
-	"cpeLastModified": "2023-12-29T10:43:01.230",
+	"cpeLastModified": "2024-02-03T02:35:59.990",
 	"status": "Active",
 	"matches": [
 		{
@@ -2086,6 +2086,18 @@
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:10.22.0:*:*:*:-:*:*:*",
 			"cpeNameId": "8A761F2D-6C91-4912-A948-E6EA3D6B1E6F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:10.23.0:*:*:*:-:*:*:*",
+			"cpeNameId": "C0C671C5-DEC9-4FA2-90B8-80D8C9EBB42A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:10.24.0:*:*:*:-:*:*:*",
+			"cpeNameId": "30B1E6B7-6C4B-4691-AB9B-E59349FFE124"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:10.24.1:*:*:*:-:*:*:*",
+			"cpeNameId": "B902627A-8824-4FF3-AF27-1E2A6C5442C4"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:11.0.0:*:*:*:-:*:*:*",

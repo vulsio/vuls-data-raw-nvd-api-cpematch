@@ -4,6 +4,12 @@
 	"versionEndIncluding": "2.8",
 	"created": "2024-01-24T12:55:34.170",
 	"lastModified": "2024-01-24T12:55:34.170",
-	"cpeLastModified": "2024-01-24T12:55:34.170",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:zorem:sales_report_email_for_woocommerce:2.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7150BD87-411F-4A30-A6D9-EA62B67E5490"
+		}
+	]
 }

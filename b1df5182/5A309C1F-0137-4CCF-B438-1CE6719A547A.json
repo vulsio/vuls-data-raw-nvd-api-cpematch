@@ -4,6 +4,12 @@
 	"versionEndIncluding": "2.1.9",
 	"created": "2024-01-18T16:19:29.113",
 	"lastModified": "2024-01-18T16:19:29.113",
-	"cpeLastModified": "2024-01-18T16:19:29.113",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cyrusimap:cyrus_sasl:2.1.9:*:*:*:*:*:*:*",
+			"cpeNameId": "E880198F-EB8C-46C3-9D67-1DF5212237FD"
+		}
+	]
 }

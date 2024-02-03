@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:lantronix:xport_edge_firmware:2.0.0.13:*:*:*:*:*:*:*",
 	"matchCriteriaId": "1AFB61CC-16A0-4476-B449-1C89CE65DEEC",
 	"created": "2024-01-30T15:04:08.017",
-	"lastModified": "2024-01-30T15:04:08.017",
-	"cpeLastModified": "2024-01-30T15:04:08.017",
-	"status": "Active"
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lantronix:xport_edge_firmware:2.0.0.13:*:*:*:*:*:*:*",
+			"cpeNameId": "2549383E-246A-4D3C-8792-F84CECE42C34"
+		}
+	]
 }

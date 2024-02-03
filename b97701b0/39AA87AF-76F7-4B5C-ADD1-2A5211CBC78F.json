@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:pingtel:xpressa_firmware:1.2.7.4:*:*:*:*:*:*:*",
 	"matchCriteriaId": "39AA87AF-76F7-4B5C-ADD1-2A5211CBC78F",
 	"created": "2024-01-19T17:21:16.023",
-	"lastModified": "2024-01-19T17:21:16.023",
-	"cpeLastModified": "2024-01-19T17:21:16.023",
-	"status": "Active"
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:pingtel:xpressa_firmware:1.2.7.4:*:*:*:*:*:*:*",
+			"cpeNameId": "A35DC03D-5C49-4B20-8FB1-3EA60EF7DAB0"
+		}
+	]
 }

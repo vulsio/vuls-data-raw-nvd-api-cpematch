@@ -3,7 +3,13 @@
 	"matchCriteriaId": "8F925466-08CC-423B-90AD-32C54782A302",
 	"versionEndExcluding": "0.3.12",
 	"created": "2024-01-31T14:55:35.220",
-	"lastModified": "2024-01-31T14:55:35.220",
-	"cpeLastModified": "2024-01-31T14:55:35.220",
-	"status": "Active"
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:trillium:trillium-http:-:*:*:*:*:rust:*:*",
+			"cpeNameId": "A91BAE39-352B-4245-B0B9-30B9559A9964"
+		}
+	]
 }

@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:trendnet:tew-411brpplus_firmware:2.07_eu:*:*:*:*:*:*:*",
 	"matchCriteriaId": "EE34CE53-070B-4DDD-9AA2-217EAD91C253",
 	"created": "2024-01-31T17:56:13.483",
-	"lastModified": "2024-01-31T17:56:13.483",
-	"cpeLastModified": "2024-01-31T17:56:13.483",
-	"status": "Active"
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:trendnet:tew-411brpplus_firmware:2.07_eu:*:*:*:*:*:*:*",
+			"cpeNameId": "321882ED-90F6-456A-B7B2-F8D28CC76728"
+		}
+	]
 }

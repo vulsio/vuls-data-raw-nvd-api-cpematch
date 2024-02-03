@@ -3,8 +3,8 @@
 	"matchCriteriaId": "85BDF091-E47E-4466-B457-C3FC6E537CE1",
 	"versionEndExcluding": "7.0",
 	"created": "2024-01-24T18:09:32.977",
-	"lastModified": "2024-01-24T18:09:32.977",
-	"cpeLastModified": "2024-02-02T22:20:37.337",
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,26 @@
 		{
 			"cpeName": "cpe:2.3:a:studionetworksolutions:sharebrowser:5.0.2:*:*:*:*:*:*:*",
 			"cpeNameId": "6749F396-3735-456B-B84E-A08FBC2DBF8A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:studionetworksolutions:sharebrowser:5.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "98A457D7-E0D8-43AD-A170-3A7A6061F859"
+		},
+		{
+			"cpeName": "cpe:2.3:a:studionetworksolutions:sharebrowser:6.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "363A31D7-A9A0-4C30-B102-C72DC19688F8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:studionetworksolutions:sharebrowser:6.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "61DE9397-BF97-4D99-8501-7A6FEFD2A4E5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:studionetworksolutions:sharebrowser:6.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "4BD93381-8958-4E93-9055-FFC26A10496E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:studionetworksolutions:sharebrowser:6.1.5:*:*:*:*:*:*:*",
+			"cpeNameId": "AEA3C1CE-AAA7-48B8-AEF6-6321B0A08C07"
 		}
 	]
 }

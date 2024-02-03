@@ -4,6 +4,12 @@
 	"versionEndIncluding": "1.4.0",
 	"created": "2024-02-01T19:39:05.807",
 	"lastModified": "2024-02-01T19:39:05.807",
-	"cpeLastModified": "2024-02-01T19:39:05.807",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:jonathonkemp:wordpress_users:1.4.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2B394F33-2EB3-4CAE-BC8E-932914BC7E96"
+		}
+	]
 }

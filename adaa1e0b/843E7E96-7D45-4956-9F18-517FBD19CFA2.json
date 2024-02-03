@@ -3,8 +3,8 @@
 	"matchCriteriaId": "843E7E96-7D45-4956-9F18-517FBD19CFA2",
 	"versionEndIncluding": "1.2.2",
 	"created": "2024-01-16T15:19:11.587",
-	"lastModified": "2024-01-16T15:19:11.587",
-	"cpeLastModified": "2024-01-16T15:19:11.587",
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -374,6 +374,10 @@
 		{
 			"cpeName": "cpe:2.3:a:vowelweb:ibtana:1.1.9:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "36178F30-9B62-48CA-A1D8-31230C16D2C8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vowelweb:ibtana:1.2.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E360AEC6-44D3-4904-B749-EC5873C28CEB"
 		}
 	]
 }

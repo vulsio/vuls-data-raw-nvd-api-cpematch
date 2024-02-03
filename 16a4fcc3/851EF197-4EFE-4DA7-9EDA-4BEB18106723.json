@@ -4,6 +4,12 @@
 	"versionEndIncluding": "1.8.18",
 	"created": "2024-01-03T19:28:23.783",
 	"lastModified": "2024-01-03T19:28:23.783",
-	"cpeLastModified": "2024-01-03T19:28:23.783",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:samperrow:pre_party_resource_hints:1.8.18:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "656F8E3C-C24D-4B72-B74D-91DDEFF349ED"
+		}
+	]
 }

@@ -5,6 +5,12 @@
 	"versionEndExcluding": "5.10.0-183.0.0",
 	"created": "2024-01-25T13:56:40.093",
 	"lastModified": "2024-01-25T13:56:40.093",
-	"cpeLastModified": "2024-01-25T13:56:40.093",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:huawei:openeuler:5.10.0-60.18.0:*:*:*:-:-:*:*",
+			"cpeNameId": "B4628025-9881-4BED-9A60-2B5409470B7C"
+		}
+	]
 }

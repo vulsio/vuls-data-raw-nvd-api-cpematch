@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2.5",
 	"created": "2023-04-28T17:58:46.490",
 	"lastModified": "2023-04-28T17:58:46.490",
-	"cpeLastModified": "2023-04-28T17:58:46.490",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:a:openldap:openldap:2.0:*:*:*:*:*:*:*",
 			"cpeNameId": "A92F8473-846D-4C9C-B9D2-48C3E61059B1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openldap:openldap:2.3.29:*:*:*:*:*:*:*",
+			"cpeNameId": "FF2B4691-1265-4E06-9328-1780038655A9"
 		},
 		{
 			"cpeName": "cpe:2.3:a:openldap:openldap:2.4:*:*:*:*:*:*:*",

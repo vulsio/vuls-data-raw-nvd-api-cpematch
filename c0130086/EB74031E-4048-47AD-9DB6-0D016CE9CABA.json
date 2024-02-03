@@ -3,8 +3,8 @@
 	"matchCriteriaId": "EB74031E-4048-47AD-9DB6-0D016CE9CABA",
 	"versionEndExcluding": "2.1.10",
 	"created": "2024-01-18T15:12:10.160",
-	"lastModified": "2024-01-18T15:12:10.160",
-	"cpeLastModified": "2024-01-18T15:12:10.160",
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -198,6 +198,18 @@
 		{
 			"cpeName": "cpe:2.3:a:themeum:wp_crowdfunding:2.1.4:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "4DBAA386-E617-4459-8F94-0892CF77DF77"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeum:wp_crowdfunding:2.1.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CAAD8012-20D8-4912-BC94-358C41750154"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeum:wp_crowdfunding:2.1.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "967B0B10-E3BB-4CAC-BBB6-74B7C76D46B5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeum:wp_crowdfunding:2.1.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CA183F72-069D-4066-AA1D-EFDB3CD2D2C9"
 		},
 		{
 			"cpeName": "cpe:2.3:a:themeum:wp_crowdfunding:2.1.8:*:*:*:*:wordpress:*:*",

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "BA6C114E-8DE2-44DF-9472-54F8C73EF43C",
 	"versionEndIncluding": "3.10.7",
 	"created": "2024-01-16T16:30:51.983",
-	"lastModified": "2024-01-16T16:30:51.983",
-	"cpeLastModified": "2024-01-16T16:30:51.983",
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -1090,6 +1090,10 @@
 		{
 			"cpeName": "cpe:2.3:a:cozmoslabs:profile_builder:3.10.5:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "9717DD22-A735-4F09-8223-7B5D70BCCE3F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cozmoslabs:profile_builder:3.10.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "351CDD92-E4D4-4638-8322-A50EE72DD3CC"
 		}
 	]
 }

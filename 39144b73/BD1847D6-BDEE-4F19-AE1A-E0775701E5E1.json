@@ -4,6 +4,12 @@
 	"versionEndIncluding": "1.0.11",
 	"created": "2024-01-03T20:19:16.493",
 	"lastModified": "2024-01-03T20:19:16.493",
-	"cpeLastModified": "2024-01-03T20:19:16.493",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:zerobounce:zerobounce_email_verification_\\&_validation:1.0.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "414CC1D3-028F-4B53-9263-8525C5213C21"
+		}
+	]
 }

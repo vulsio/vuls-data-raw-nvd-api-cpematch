@@ -3,8 +3,8 @@
 	"matchCriteriaId": "5D440D67-FA8E-429A-A205-3927BB0AE424",
 	"versionEndIncluding": "2.3.8",
 	"created": "2024-01-05T16:13:51.600",
-	"lastModified": "2024-01-05T16:13:51.600",
-	"cpeLastModified": "2024-01-05T16:13:51.600",
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -130,6 +130,10 @@
 		{
 			"cpeName": "cpe:2.3:a:hasthemes:ht_mega_-_absolute_addons_for_elementor_page_builder:1.5.7:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "EA5D45C4-9BB3-47E8-96B7-62F69C222518"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hasthemes:ht_mega_-_absolute_addons_for_elementor_page_builder:2.3.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "126D36D3-0AC3-444E-BF90-4BCB499748ED"
 		}
 	]
 }

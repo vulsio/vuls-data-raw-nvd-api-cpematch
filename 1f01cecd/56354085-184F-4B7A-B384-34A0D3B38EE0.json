@@ -4,10 +4,14 @@
 	"versionStartIncluding": "7.19",
 	"versionEndExcluding": "7.19.17",
 	"created": "2024-01-19T21:53:50.087",
-	"lastModified": "2024-01-19T21:53:50.087",
-	"cpeLastModified": "2024-01-19T21:53:50.087",
+	"lastModified": "2024-02-03T03:15:39.403",
+	"cpeLastModified": "2024-02-03T03:15:39.403",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:atlassian:confluence_server:7.19:*:*:*:*:*:*:*",
+			"cpeNameId": "56BF0045-B665-4701-996E-FCA72D516150"
+		},
 		{
 			"cpeName": "cpe:2.3:a:atlassian:confluence_server:7.19.7:*:*:*:*:*:*:*",
 			"cpeNameId": "79B895CC-4862-4644-8EE3-CFC8CE9748C9"

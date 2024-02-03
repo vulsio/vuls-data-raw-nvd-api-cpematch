@@ -4,7 +4,7 @@
 	"versionEndIncluding": "15.0.0.356",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -106,6 +106,10 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:adobe_air:2.6.0.19140:*:*:*:*:*:*:*",
 			"cpeNameId": "FD533AE9-E5F5-4E8F-B90D-EEAFC92F6431"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:adobe_air:2.6.19140:*:*:*:*:*:*:*",
+			"cpeNameId": "7BB6E823-0152-44CC-9A61-7A43E32DC124"
 		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:adobe_air:2.7:*:*:*:*:*:*:*",

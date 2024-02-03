@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2.28",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2021-07-14T16:21:34.307",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -126,6 +126,14 @@
 		{
 			"cpeName": "cpe:2.3:a:acme:thttpd:2.23:*:*:*:*:*:*:*",
 			"cpeNameId": "F6A6A250-0261-4A37-B249-E0756642CB8A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:acme:thttpd:2.23:-:*:*:*:*:*:*",
+			"cpeNameId": "88676297-C148-4649-AE34-CF7055C9EE0F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:acme:thttpd:2.23:b1:*:*:*:*:*:*",
+			"cpeNameId": "D5BF803E-A25B-4D76-8B7D-A9D23FEE8B7F"
 		},
 		{
 			"cpeName": "cpe:2.3:a:acme:thttpd:2.24:*:*:*:*:*:*:*",

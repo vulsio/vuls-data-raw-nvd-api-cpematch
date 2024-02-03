@@ -3,8 +3,8 @@
 	"matchCriteriaId": "85974BBB-6030-4982-9CFC-388EBFE2FE3E",
 	"versionEndIncluding": "5.9.3797",
 	"created": "2024-01-18T13:23:57.920",
-	"lastModified": "2024-01-18T13:23:57.920",
-	"cpeLastModified": "2024-01-18T13:23:57.920",
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -82,6 +82,10 @@
 		{
 			"cpeName": "cpe:2.3:a:aol:aim:5.9:*:*:*:*:*:*:*",
 			"cpeNameId": "3E6E5DB9-693F-4111-9544-9F3904B84BB4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:aol:aim:5.9.3797:*:*:*:*:*:*:*",
+			"cpeNameId": "687FEC4A-7F44-4559-8E29-BE574CDCBDD5"
 		}
 	]
 }

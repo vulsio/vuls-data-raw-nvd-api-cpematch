@@ -4,10 +4,14 @@
 	"versionStartIncluding": "4.0",
 	"versionEndExcluding": "4.3.3",
 	"created": "2023-11-02T20:52:27.510",
-	"lastModified": "2023-11-02T20:52:27.510",
-	"cpeLastModified": "2023-11-02T20:52:27.510",
+	"lastModified": "2024-02-03T03:15:39.403",
+	"cpeLastModified": "2024-02-03T03:15:39.403",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:hallowelt:bluespice:4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "ECB70026-41DE-4CF3-AB30-8EF64B8279E1"
+		},
 		{
 			"cpeName": "cpe:2.3:a:hallowelt:bluespice:4.1.0:-:*:*:*:*:*:*",
 			"cpeNameId": "7E16C085-8267-4CC2-B6B0-A1D5F8A64C2E"

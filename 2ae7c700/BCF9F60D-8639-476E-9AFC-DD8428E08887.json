@@ -4,7 +4,7 @@
 	"versionStartIncluding": "1.8.0_181",
 	"created": "2022-10-25T13:59:44.510",
 	"lastModified": "2023-11-21T18:36:34.667",
-	"cpeLastModified": "2023-12-20T22:34:39.627",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -172,6 +172,10 @@
 			"cpeNameId": "1557AC81-A89E-4BFD-8139-5ACE5C63B395"
 		},
 		{
+			"cpeName": "cpe:2.3:a:oracle:jdk:11.0.21:*:*:*:*:*:*:*",
+			"cpeNameId": "7ADF5AD6-297E-44FB-8D01-3315F671B478"
+		},
+		{
 			"cpeName": "cpe:2.3:a:oracle:jdk:12:*:*:*:*:*:*:*",
 			"cpeNameId": "7CD1F45B-FF84-462D-B76C-AFAAA5C64070"
 		},
@@ -288,6 +292,10 @@
 			"cpeNameId": "906CBF6D-D959-410A-8EEB-82ED9A3B1427"
 		},
 		{
+			"cpeName": "cpe:2.3:a:oracle:jdk:17.0.9:*:*:*:*:*:*:*",
+			"cpeNameId": "3C54305D-6864-4879-A1FA-2C301158B89C"
+		},
+		{
 			"cpeName": "cpe:2.3:a:oracle:jdk:18:*:*:*:*:*:*:*",
 			"cpeNameId": "92C52F15-BFAB-4C35-BBF7-2424F863050D"
 		},
@@ -318,6 +326,10 @@
 		{
 			"cpeName": "cpe:2.3:a:oracle:jdk:21.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "0661D5BD-9610-40C0-AAB8-5532D01E9D50"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:jdk:21.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "2CC740CE-2BE8-4DDF-928D-E1E9E1679F19"
 		}
 	]
 }

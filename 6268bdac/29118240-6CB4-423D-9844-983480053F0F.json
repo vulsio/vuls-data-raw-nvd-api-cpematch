@@ -5,6 +5,12 @@
 	"versionEndExcluding": "24.0.2023.10",
 	"created": "2024-01-24T17:56:31.800",
 	"lastModified": "2024-01-24T17:56:31.800",
-	"cpeLastModified": "2024-01-24T17:56:31.800",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T03:15:39.403",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:broadworks_xtended_services_platform:24.0.2023.01:*:*:*:*:*:*:*",
+			"cpeNameId": "27ED0EE9-092C-487E-8291-23FE8752A894"
+		}
+	]
 }

@@ -3,7 +3,7 @@
 	"matchCriteriaId": "6A560E71-86CD-48B6-9868-3E6D1D1A17D3",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-06-26T16:17:59.980",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -365,6 +365,10 @@
 		{
 			"cpeName": "cpe:2.3:a:libtiff:libtiff:4.5.1:rc3:*:*:*:*:*:*",
 			"cpeNameId": "69099B04-6FB7-471B-A13F-A777138C54CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:libtiff:libtiff:2023-11-11:*:*:*:*:*:*:*",
+			"cpeNameId": "FCB9E6CF-B003-4D0F-A835-3090F276053E"
 		}
 	]
 }

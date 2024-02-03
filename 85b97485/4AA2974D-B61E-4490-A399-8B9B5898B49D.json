@@ -4,12 +4,16 @@
 	"versionEndIncluding": "3.1.7",
 	"created": "2019-11-21T13:08:34.577",
 	"lastModified": "2019-11-21T13:08:34.577",
-	"cpeLastModified": "2021-03-29T14:17:33.950",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:phpbb:phpbb:-:*:*:*:*:*:*:*",
 			"cpeNameId": "1738BD06-0216-4203-AA24-6AA915634005"
+		},
+		{
+			"cpeName": "cpe:2.3:a:phpbb:phpbb:1.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "826C81F3-7BC1-4930-92A3-19CD07E278A5"
 		},
 		{
 			"cpeName": "cpe:2.3:a:phpbb:phpbb:3.0.0:-:*:*:*:*:*:*",

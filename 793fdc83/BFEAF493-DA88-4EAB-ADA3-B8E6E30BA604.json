@@ -4,7 +4,7 @@
 	"versionEndIncluding": "23.11.13156.0",
 	"created": "2023-11-28T18:29:09.177",
 	"lastModified": "2023-11-28T18:29:09.177",
-	"cpeLastModified": "2023-11-28T18:29:09.177",
+	"cpeLastModified": "2024-02-03T03:15:39.403",
 	"status": "Active",
 	"matches": [
 		{
@@ -42,6 +42,10 @@
 		{
 			"cpeName": "cpe:2.3:a:m-files:m-files_server:23.6.12695.3:*:*:*:*:*:*:*",
 			"cpeNameId": "0A5862B4-508C-474D-8595-1645532E6920"
+		},
+		{
+			"cpeName": "cpe:2.3:a:m-files:m-files_server:23.9:*:*:*:*:*:*:*",
+			"cpeNameId": "EF5802E6-672C-434B-A3FA-DD04F31FE1C2"
 		}
 	]
 }

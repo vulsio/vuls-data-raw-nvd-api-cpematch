@@ -3,8 +3,8 @@
 	"matchCriteriaId": "0CD74FC9-0166-47BD-9635-EE45422DF49B",
 	"versionEndIncluding": "7.0.1",
 	"created": "2024-01-29T20:54:02.000",
-	"lastModified": "2024-01-29T20:54:02.000",
-	"cpeLastModified": "2024-01-29T20:54:02.000",
+	"lastModified": "2024-02-03T03:15:39.403",
+	"cpeLastModified": "2024-02-03T03:15:39.403",
 	"status": "Active",
 	"matches": [
 		{
@@ -30,6 +30,10 @@
 		{
 			"cpeName": "cpe:2.3:a:cohesity:cohesity_dataplatform:6.5.1b:*:*:*:*:*:*:*",
 			"cpeNameId": "402F6E47-F238-4CFC-BAE5-20E4F4CA32A4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cohesity:cohesity_dataplatform:7.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "675C8EA4-6D66-4EFC-BF7C-6BDAFC263914"
 		}
 	]
 }

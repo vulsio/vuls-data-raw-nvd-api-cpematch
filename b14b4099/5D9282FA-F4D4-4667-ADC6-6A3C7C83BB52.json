@@ -4,8 +4,8 @@
 	"versionStartIncluding": "1.9.0",
 	"versionEndExcluding": "6.2",
 	"created": "2024-01-31T17:02:14.047",
-	"lastModified": "2024-01-31T17:02:14.047",
-	"cpeLastModified": "2024-01-31T17:02:14.047",
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -175,6 +175,10 @@
 		{
 			"cpeName": "cpe:2.3:a:zulip:zulip_server:6.0:rc1:*:*:*:*:*:*",
 			"cpeNameId": "76B3402C-1595-4DD0-B9BB-BAB667901631"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zulip:zulip_server:6.1:*:*:*:*:*:*:*",
+			"cpeNameId": "9626BA09-1D29-495B-BACB-40FC77080687"
 		}
 	]
 }

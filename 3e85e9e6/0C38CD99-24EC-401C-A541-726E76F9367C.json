@@ -3,7 +3,7 @@
 	"matchCriteriaId": "0C38CD99-24EC-401C-A541-726E76F9367C",
 	"created": "2021-07-15T14:51:05.810",
 	"lastModified": "2021-07-15T14:51:05.810",
-	"cpeLastModified": "2023-12-29T10:15:30.570",
+	"cpeLastModified": "2024-02-03T03:15:39.403",
 	"status": "Active",
 	"matches": [
 		{
@@ -467,6 +467,10 @@
 			"cpeNameId": "D4939B8B-6DAC-4BC2-B5BC-6117657ADFEC"
 		},
 		{
+			"cpeName": "cpe:2.3:a:ibm:urbancode_deploy:7.0.5.18:*:*:*:*:*:*:*",
+			"cpeNameId": "CABEC076-A0F1-49C2-9C09-EBD988068766"
+		},
+		{
 			"cpeName": "cpe:2.3:a:ibm:urbancode_deploy:7.1.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "FB8C9474-E315-4DA7-A40B-97B9EA596347"
 		},
@@ -531,8 +535,16 @@
 			"cpeNameId": "267C76C8-CBE4-4B3D-B387-1EF4E53821E7"
 		},
 		{
+			"cpeName": "cpe:2.3:a:ibm:urbancode_deploy:7.1.2.14:*:*:*:*:*:*:*",
+			"cpeNameId": "84DE5F7C-00E3-4845-9D6D-5B29A7225AF3"
+		},
+		{
 			"cpeName": "cpe:2.3:a:ibm:urbancode_deploy:7.1.2.15:*:*:*:*:*:*:*",
 			"cpeNameId": "960F40B7-6D34-45B7-8E9B-969E9F986329"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:urbancode_deploy:7.2:*:*:*:*:*:*:*",
+			"cpeNameId": "2B761BE9-FDDA-481F-98B9-82789B39452A"
 		},
 		{
 			"cpeName": "cpe:2.3:a:ibm:urbancode_deploy:7.2.0.0:*:*:*:*:*:*:*",
@@ -567,8 +579,16 @@
 			"cpeNameId": "350BF8F4-5850-4ED9-B4CA-AC2E56720D60"
 		},
 		{
+			"cpeName": "cpe:2.3:a:ibm:urbancode_deploy:7.2.3.7:*:*:*:*:*:*:*",
+			"cpeNameId": "8F2B1BB3-C772-4B6E-9F12-912051697C0D"
+		},
+		{
 			"cpeName": "cpe:2.3:a:ibm:urbancode_deploy:7.2.3.8:*:*:*:*:*:*:*",
 			"cpeNameId": "FADD180A-356F-4AA2-B1DA-DC86F6D3112E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:urbancode_deploy:7.3:*:*:*:*:*:*:*",
+			"cpeNameId": "CA44B4A8-C113-4CCF-80ED-C35E62AE04A7"
 		},
 		{
 			"cpeName": "cpe:2.3:a:ibm:urbancode_deploy:7.3.0.0:*:*:*:*:*:*:*",
@@ -577,6 +597,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ibm:urbancode_deploy:7.3.1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "3C4D1207-D2DD-4B11-9F16-25B36F7397C3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:urbancode_deploy:7.3.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "DA474743-298F-47C8-91E7-4FF550C0E5D7"
 		},
 		{
 			"cpeName": "cpe:2.3:a:ibm:urbancode_deploy:7.3.2.3:*:*:*:*:*:*:*",

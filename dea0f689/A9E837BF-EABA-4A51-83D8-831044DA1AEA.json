@@ -4,12 +4,16 @@
 	"versionEndExcluding": "14.0.12849",
 	"created": "2024-01-26T13:53:22.287",
 	"lastModified": "2024-01-26T13:53:22.287",
-	"cpeLastModified": "2024-01-26T13:53:22.287",
+	"cpeLastModified": "2024-02-03T01:48:48.543",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:trendmicro:apex_one:-:*:*:*:saas:*:*:*",
 			"cpeNameId": "11139C85-F3FC-45FD-B32E-EA4E03CAD444"
+		},
+		{
+			"cpeName": "cpe:2.3:a:trendmicro:apex_one:-:*:*:*:saas:windows:*:*",
+			"cpeNameId": "DF02781C-58CF-476B-A509-67CA36BE149A"
 		},
 		{
 			"cpeName": "cpe:2.3:a:trendmicro:apex_one:14.0.10349:*:*:*:saas:*:*:*",

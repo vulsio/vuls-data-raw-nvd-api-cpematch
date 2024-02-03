@@ -5,7 +5,7 @@
 	"versionEndExcluding": "3.2.1",
 	"created": "2022-02-07T17:03:15.047",
 	"lastModified": "2022-02-07T17:03:15.047",
-	"cpeLastModified": "2022-02-07T17:03:18.090",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -55,6 +55,10 @@
 		{
 			"cpeName": "cpe:2.3:a:apache:openoffice:2.4.1:*:*:*:*:*:*:*",
 			"cpeNameId": "CEEC8526-CBA6-43DD-B986-7AE5D9A65F2F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:openoffice:2.4.1:*:*:*:*:*:x64:*",
+			"cpeNameId": "3FB35C17-BE98-4D88-BC74-863F82FBDEA0"
 		},
 		{
 			"cpeName": "cpe:2.3:a:apache:openoffice:2.4.2:*:*:*:*:*:*:*",

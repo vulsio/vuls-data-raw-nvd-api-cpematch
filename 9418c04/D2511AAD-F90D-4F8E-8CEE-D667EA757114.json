@@ -4,6 +4,12 @@
 	"versionEndIncluding": "1.5.1",
 	"created": "2023-11-13T17:09:36.163",
 	"lastModified": "2023-11-13T17:09:36.163",
-	"cpeLastModified": "2023-11-13T17:09:36.163",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T03:15:39.403",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:illia:simple_like_page:1.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "96E879DD-B41F-43C0-A4FF-BE4ED59DA32D"
+		}
+	]
 }

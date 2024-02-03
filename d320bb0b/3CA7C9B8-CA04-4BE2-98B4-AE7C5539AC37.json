@@ -3,8 +3,8 @@
 	"matchCriteriaId": "3CA7C9B8-CA04-4BE2-98B4-AE7C5539AC37",
 	"versionEndIncluding": "1.26.3",
 	"created": "2024-01-22T17:53:47.653",
-	"lastModified": "2024-01-22T17:53:47.653",
-	"cpeLastModified": "2024-01-22T17:53:47.653",
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -274,6 +274,10 @@
 		{
 			"cpeName": "cpe:2.3:a:mate-desktop:atril:1.26.2:*:*:*:*:*:*:*",
 			"cpeNameId": "46154381-D25D-498A-B63D-4A001F8A9807"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mate-desktop:atril:1.26.3:*:*:*:*:*:*:*",
+			"cpeNameId": "4B5CCEEB-CD58-4D67-8D9D-474EF2E703E9"
 		}
 	]
 }

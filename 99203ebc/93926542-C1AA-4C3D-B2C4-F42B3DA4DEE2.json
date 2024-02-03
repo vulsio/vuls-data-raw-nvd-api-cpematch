@@ -3,8 +3,8 @@
 	"matchCriteriaId": "93926542-C1AA-4C3D-B2C4-F42B3DA4DEE2",
 	"versionEndExcluding": "5.4.1.4479",
 	"created": "2024-01-29T16:58:40.430",
-	"lastModified": "2024-01-29T16:58:40.430",
-	"cpeLastModified": "2024-01-29T16:58:40.430",
+	"lastModified": "2024-02-03T03:15:39.403",
+	"cpeLastModified": "2024-02-03T03:15:39.403",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:a:intel:nuc_p14e_laptop_element:1.1.44:*:*:*:*:*:*:*",
 			"cpeNameId": "56249B6A-482E-46E4-9FD4-906BC04FFAAD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:intel:nuc_p14e_laptop_element:1.1.45:*:*:*:*:*:*:*",
+			"cpeNameId": "FA288F5F-D024-4A24-AAF9-E00AB7C50728"
 		}
 	]
 }

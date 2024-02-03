@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:dolibarr:dolibarr:18.0.4:*:*:*:*:*:*:*",
 	"matchCriteriaId": "4960A4EE-3EB0-4890-8D81-A43E10E74571",
 	"created": "2024-01-31T17:43:09.880",
-	"lastModified": "2024-01-31T17:43:09.880",
-	"cpeLastModified": "2024-01-31T17:43:09.880",
-	"status": "Active"
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:dolibarr:dolibarr:18.0.4:*:*:*:*:*:*:*",
+			"cpeNameId": "C52DA564-8963-48E7-9A90-01827006A9AA"
+		}
+	]
 }

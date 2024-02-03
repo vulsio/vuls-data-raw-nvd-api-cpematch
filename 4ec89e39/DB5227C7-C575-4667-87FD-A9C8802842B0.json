@@ -3,8 +3,8 @@
 	"matchCriteriaId": "DB5227C7-C575-4667-87FD-A9C8802842B0",
 	"versionEndExcluding": "2.11.5",
 	"created": "2024-01-25T18:10:23.010",
-	"lastModified": "2024-01-25T18:10:23.010",
-	"cpeLastModified": "2024-01-25T18:10:23.010",
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -182,6 +182,14 @@
 		{
 			"cpeName": "cpe:2.3:a:freerdp:freerdp:2.11.2:*:*:*:*:*:*:*",
 			"cpeNameId": "E1D113B9-85BF-4D6E-821E-C51252C3B6CE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freerdp:freerdp:2.11.3:*:*:*:*:*:*:*",
+			"cpeNameId": "3BE895B1-A3E8-4057-AF7E-4FFA34D2D0FC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freerdp:freerdp:2.11.4:*:*:*:*:*:*:*",
+			"cpeNameId": "EAEB37EC-B992-4DC4-94E9-E9D0B6292619"
 		}
 	]
 }

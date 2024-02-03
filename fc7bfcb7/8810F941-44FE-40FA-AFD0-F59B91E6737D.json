@@ -3,8 +3,8 @@
 	"matchCriteriaId": "8810F941-44FE-40FA-AFD0-F59B91E6737D",
 	"versionEndIncluding": "2.2.0",
 	"created": "2024-01-09T17:35:23.627",
-	"lastModified": "2024-01-09T17:35:23.627",
-	"cpeLastModified": "2024-01-09T17:35:23.627",
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -146,6 +146,10 @@
 		{
 			"cpeName": "cpe:2.3:a:shapedplugin:wp_tabs:2.1.17:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "D4B28009-DDFD-45B2-AF6C-D5027F6C17A0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:shapedplugin:wp_tabs:2.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0EE416D7-A52E-4EE3-B4A7-8707BDAB1978"
 		}
 	]
 }

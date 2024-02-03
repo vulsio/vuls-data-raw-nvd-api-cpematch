@@ -4,7 +4,7 @@
 	"versionEndIncluding": "2.45.0",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2023-10-12T17:08:18.013",
-	"cpeLastModified": "2023-10-12T17:08:18.013",
+	"cpeLastModified": "2024-02-03T03:17:39.383",
 	"status": "Active",
 	"matches": [
 		{
@@ -178,6 +178,10 @@
 		{
 			"cpeName": "cpe:2.3:a:deltaww:wplsoft:2.42:*:*:*:*:*:*:*",
 			"cpeNameId": "00CCFD86-0BAB-494A-94F9-F1A4CA8CE706"
+		},
+		{
+			"cpeName": "cpe:2.3:a:deltaww:wplsoft:2.42.11:*:*:*:*:*:*:*",
+			"cpeNameId": "044B085D-75DB-495B-8771-44D34CCF5F34"
 		},
 		{
 			"cpeName": "cpe:2.3:a:deltaww:wplsoft:2.43:*:*:*:*:*:*:*",

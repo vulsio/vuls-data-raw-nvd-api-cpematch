@@ -5,12 +5,16 @@
 	"versionEndIncluding": "8.8.1",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2024-01-19T16:18:05.610",
+	"cpeLastModified": "2024-02-03T01:45:04.253",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:novell:edirectory:8.8:*:*:*:*:*:*:*",
 			"cpeNameId": "312327D7-E939-4094-8871-576710FB80B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:novell:edirectory:8.8:-:*:*:*:windows:*:*",
+			"cpeNameId": "E5D47F33-8AB1-4804-B5B9-3ACE2D448818"
 		},
 		{
 			"cpeName": "cpe:2.3:a:novell:edirectory:8.8:sp2:windows:*:*:*:*:*",

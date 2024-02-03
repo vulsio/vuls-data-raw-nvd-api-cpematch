@@ -4,6 +4,12 @@
 	"versionEndIncluding": "1.5.2",
 	"created": "2024-01-03T19:31:00.463",
 	"lastModified": "2024-01-03T19:31:00.463",
-	"cpeLastModified": "2024-01-03T19:31:00.463",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:qodeinteractive:qode_essential_addons:1.5.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B3C63310-EC0D-4E55-A63C-4CD1DE74BF99"
+		}
+	]
 }

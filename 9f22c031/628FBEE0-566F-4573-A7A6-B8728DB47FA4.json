@@ -5,6 +5,16 @@
 	"versionEndIncluding": "3.0.0",
 	"created": "2023-12-18T15:35:08.617",
 	"lastModified": "2023-12-18T15:35:08.617",
-	"cpeLastModified": "2023-12-18T15:35:08.617",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T03:15:39.403",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:joomlart:s5_register:1.0.0:*:*:*:*:joomla\\!:*:*",
+			"cpeNameId": "9B4DAA24-8EEC-48A5-8A86-25DA51E82D57"
+		},
+		{
+			"cpeName": "cpe:2.3:a:joomlart:s5_register:3.0.0:*:*:*:*:joomla\\!:*:*",
+			"cpeNameId": "7C9ECBC8-731B-40E9-A887-BF34A13E7198"
+		}
+	]
 }

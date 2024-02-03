@@ -3,8 +3,8 @@
 	"matchCriteriaId": "70ADC73C-9DBB-4903-B4E9-6C2354F2F07A",
 	"versionEndExcluding": "10.0.0",
 	"created": "2023-11-09T18:55:58.283",
-	"lastModified": "2023-11-09T18:55:58.283",
-	"cpeLastModified": "2023-11-09T18:55:58.283",
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -342,6 +342,14 @@
 		{
 			"cpeName": "cpe:2.3:a:python:pillow:9.3.0:*:*:*:*:*:*:*",
 			"cpeNameId": "2A620B22-B548-421F-A1A6-0324CE1CD49E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:python:pillow:9.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C0CDC79D-7EA5-4CEC-A8FB-D726A66BA859"
+		},
+		{
+			"cpeName": "cpe:2.3:a:python:pillow:9.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B6AC8C13-2AB8-40A4-953F-2C568BD9EFCF"
 		}
 	]
 }

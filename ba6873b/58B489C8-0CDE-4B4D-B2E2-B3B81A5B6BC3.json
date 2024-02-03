@@ -4,6 +4,12 @@
 	"versionEndIncluding": "1.3",
 	"created": "2024-01-31T18:20:45.900",
 	"lastModified": "2024-01-31T18:20:45.900",
-	"cpeLastModified": "2024-01-31T18:20:45.900",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:elisebosse:frontpage_manager:1.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4FF7EE28-F887-4896-B76D-15BBED0994BE"
+		}
+	]
 }

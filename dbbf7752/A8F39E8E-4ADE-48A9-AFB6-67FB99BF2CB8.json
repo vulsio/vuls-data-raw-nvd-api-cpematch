@@ -4,7 +4,7 @@
 	"versionEndExcluding": "snv_109",
 	"created": "2021-11-15T19:30:11.853",
 	"lastModified": "2021-11-15T19:30:11.853",
-	"cpeLastModified": "2021-11-15T19:50:07.157",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:oracle:opensolaris:snv_98:*:*:*:*:*:*:*",
 			"cpeNameId": "CB2B6D63-4B31-4DEC-BF9A-2BB0A9D79C33"
+		},
+		{
+			"cpeName": "cpe:2.3:o:oracle:opensolaris:snv_103:*:*:*:*:*:*:*",
+			"cpeNameId": "086A0C2B-5028-47BD-BE50-78F4255494C5"
 		}
 	]
 }

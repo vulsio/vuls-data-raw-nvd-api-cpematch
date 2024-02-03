@@ -4,6 +4,12 @@
 	"versionEndIncluding": "1.5.5",
 	"created": "2024-01-23T18:38:52.240",
 	"lastModified": "2024-01-23T18:38:52.240",
-	"cpeLastModified": "2024-01-23T18:38:52.240",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:brainstormforce:ultimate_addons_for_beaver_builder:1.5.5:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "734120FC-2E81-4128-B518-75D4BA6275D1"
+		}
+	]
 }

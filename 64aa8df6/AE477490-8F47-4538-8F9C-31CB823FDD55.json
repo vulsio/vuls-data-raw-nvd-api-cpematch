@@ -3,7 +3,7 @@
 	"matchCriteriaId": "AE477490-8F47-4538-8F9C-31CB823FDD55",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-12-29T18:02:38.650",
+	"cpeLastModified": "2024-02-03T03:15:39.403",
 	"status": "Active",
 	"matches": [
 		{
@@ -857,6 +857,14 @@
 		{
 			"cpeName": "cpe:2.3:a:cisco:identity_services_engine:3.2:patch2:*:*:*:*:*:*",
 			"cpeNameId": "7B114C1D-BB4C-4BAD-9E05-8D91CBDB23A2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:identity_services_engine:3.2:patch3:*:*:*:*:*:*",
+			"cpeNameId": "C47C38C2-81DD-4503-8712-A9BE46897BC9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:identity_services_engine:3.2:patch4:*:*:*:*:*:*",
+			"cpeNameId": "F4AA71CC-1E0D-4F12-8D1B-E598763AF648"
 		},
 		{
 			"cpeName": "cpe:2.3:a:cisco:identity_services_engine:003.002\\(000.116\\):-:*:*:*:*:*:*",

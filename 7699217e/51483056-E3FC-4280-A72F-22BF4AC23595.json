@@ -4,6 +4,12 @@
 	"versionEndIncluding": "4.0",
 	"created": "2024-01-08T15:06:22.203",
 	"lastModified": "2024-01-08T15:06:22.203",
-	"cpeLastModified": "2024-01-08T15:06:22.203",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wpmlmsoftware:wp_mlm_unilevel:4.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "441CEF7C-B3C3-49B6-9A0B-CD6BFF843B28"
+		}
+	]
 }

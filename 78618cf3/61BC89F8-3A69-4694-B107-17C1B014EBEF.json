@@ -4,6 +4,12 @@
 	"versionEndIncluding": "2.4.11",
 	"created": "2024-01-16T18:44:38.327",
 	"lastModified": "2024-01-16T18:44:38.327",
-	"cpeLastModified": "2024-01-16T18:44:38.327",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:leechesnutt:slick_social_share_buttons:2.4.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "49F3C533-E70D-4E23-9942-C1435EEDBC87"
+		}
+	]
 }

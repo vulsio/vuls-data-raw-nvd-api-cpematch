@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:amd:radeon_rx_7900xt:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "F65D6783-2B8F-427C-A3D5-7893B9C3F155",
 	"created": "2024-01-23T14:23:55.413",
-	"lastModified": "2024-01-23T14:23:55.413",
-	"cpeLastModified": "2024-01-23T14:23:55.413",
-	"status": "Active"
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_rx_7900xt:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CE70A44F-BB63-4614-86F1-DA469AAF957C"
+		}
+	]
 }

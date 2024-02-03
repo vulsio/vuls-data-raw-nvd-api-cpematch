@@ -4,7 +4,7 @@
 	"versionEndIncluding": "5.0.4",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2020-01-13T15:23:55.417",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -100,6 +100,10 @@
 			"cpeNameId": "8F0571C8-7BA2-41E8-B879-DD47FBD8FE9E"
 		},
 		{
+			"cpeName": "cpe:2.3:a:libreoffice:libreoffice:3.4.6:*:*:*:*:*:*:*",
+			"cpeNameId": "2F352F11-EC5A-4B9A-A9AF-B45C06DFD827"
+		},
+		{
 			"cpeName": "cpe:2.3:a:libreoffice:libreoffice:3.4.99.0:*:*:*:*:*:*:*",
 			"cpeNameId": "7A1607A2-2AEC-46CF-A3DA-903053DD1F70"
 		},
@@ -114,6 +118,10 @@
 		{
 			"cpeName": "cpe:2.3:a:libreoffice:libreoffice:3.4.99.3:*:*:*:*:*:*:*",
 			"cpeNameId": "4775FF6C-EA51-49F3-AE13-A98FA9E775A5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:libreoffice:libreoffice:3.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E5B52F33-E5CA-471F-877E-23A61D1E879C"
 		},
 		{
 			"cpeName": "cpe:2.3:a:libreoffice:libreoffice:3.5.0.0:*:*:*:*:*:*:*",

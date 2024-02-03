@@ -3,8 +3,8 @@
 	"matchCriteriaId": "544AF3E1-ADEA-44F3-ACB2-F9A1485E2CD0",
 	"versionEndIncluding": "14.0.2",
 	"created": "2024-01-30T01:10:07.307",
-	"lastModified": "2024-01-30T01:10:07.307",
-	"cpeLastModified": "2024-01-30T01:10:07.307",
+	"lastModified": "2024-02-03T03:15:39.403",
+	"cpeLastModified": "2024-02-03T03:15:39.403",
 	"status": "Active",
 	"matches": [
 		{
@@ -22,6 +22,10 @@
 		{
 			"cpeName": "cpe:2.3:a:broadcom:symantec_data_center_security_server:6.6.0:*:*:*:advanced:*:*:*",
 			"cpeNameId": "0FA9B0E7-7564-43B5-94F9-CA989D7F3D24"
+		},
+		{
+			"cpeName": "cpe:2.3:a:broadcom:symantec_data_center_security_server:14.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "03D41C86-0070-43EF-82C8-6F69DCDCA5C8"
 		}
 	]
 }

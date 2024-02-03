@@ -4,7 +4,7 @@
 	"versionEndIncluding": "4.1.2",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2020-08-17T14:50:47.857",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -88,6 +88,10 @@
 			"cpeNameId": "CEEC8526-CBA6-43DD-B986-7AE5D9A65F2F"
 		},
 		{
+			"cpeName": "cpe:2.3:a:apache:openoffice:2.4.1:*:*:*:*:*:x64:*",
+			"cpeNameId": "3FB35C17-BE98-4D88-BC74-863F82FBDEA0"
+		},
+		{
 			"cpeName": "cpe:2.3:a:apache:openoffice:2.4.2:*:*:*:*:*:*:*",
 			"cpeNameId": "C64517AB-6DA8-4044-9A48-939F6672235C"
 		},
@@ -126,6 +130,10 @@
 		{
 			"cpeName": "cpe:2.3:a:apache:openoffice:3.4.0:*:*:*:*:*:*:*",
 			"cpeNameId": "7EEDBDBE-DB15-4E8D-AD7A-D072C1EB12CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:openoffice:3.4.0:beta:*:*:*:*:*:*",
+			"cpeNameId": "73422D22-52B9-4617-858A-3E116C83C643"
 		},
 		{
 			"cpeName": "cpe:2.3:a:apache:openoffice:3.4.1:*:*:*:*:*:*:*",

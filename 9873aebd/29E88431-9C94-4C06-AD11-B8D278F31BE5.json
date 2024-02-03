@@ -4,6 +4,12 @@
 	"versionEndIncluding": "6.0.0",
 	"created": "2023-12-26T23:28:40.010",
 	"lastModified": "2023-12-26T23:28:40.010",
-	"cpeLastModified": "2023-12-26T23:28:40.010",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:symbiostock:symbiostock:6.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "94CFB207-E254-43FF-959F-55F895A0BE79"
+		}
+	]
 }

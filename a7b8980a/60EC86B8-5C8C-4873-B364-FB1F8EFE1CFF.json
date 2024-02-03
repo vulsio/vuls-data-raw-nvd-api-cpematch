@@ -3,12 +3,16 @@
 	"matchCriteriaId": "60EC86B8-5C8C-4873-B364-FB1F8EFE1CFF",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2021-07-07T16:10:07.673",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:o:microsoft:windows_2003_server:-:*:*:*:*:*:*:*",
 			"cpeNameId": "FB4A8046-7D16-4084-A824-D9DF10AFCF60"
+		},
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_2003_server:-:*:*:*:*:*:x64:*",
+			"cpeNameId": "CA5D1279-5102-403B-AEC7-F1A5F72E3193"
 		},
 		{
 			"cpeName": "cpe:2.3:o:microsoft:windows_2003_server:-:gold:*:*:*:*:*:*",
@@ -101,6 +105,10 @@
 		{
 			"cpeName": "cpe:2.3:o:microsoft:windows_2003_server:-:sp1:*:*:*:*:*:*",
 			"cpeNameId": "DC04D279-E8A0-4A7E-BE9A-D7B5B031E5E4"
+		},
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_2003_server:-:sp1:*:*:*:*:itanium:*",
+			"cpeNameId": "7ABA61D2-CCC2-42B3-99F6-3A6852F0507C"
 		},
 		{
 			"cpeName": "cpe:2.3:o:microsoft:windows_2003_server:-:sp1:compute_cluster:*:*:*:*:*",

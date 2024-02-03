@@ -3,8 +3,8 @@
 	"matchCriteriaId": "733522A6-B4FD-4162-AB01-5BD359E4C808",
 	"versionEndExcluding": "2.10.50",
 	"created": "2024-02-01T15:33:35.283",
-	"lastModified": "2024-02-01T15:33:35.283",
-	"cpeLastModified": "2024-02-01T15:33:35.283",
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -922,6 +922,10 @@
 		{
 			"cpeName": "cpe:2.3:a:appleple:a-blog_cms:2.10.44:*:*:*:*:*:*:*",
 			"cpeNameId": "B455ED10-C44B-426A-B630-656DED7414BF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:appleple:a-blog_cms:2.10.49:*:*:*:*:*:*:*",
+			"cpeNameId": "9B3CB638-6094-40FD-B70B-EF8BC688CC1A"
 		}
 	]
 }

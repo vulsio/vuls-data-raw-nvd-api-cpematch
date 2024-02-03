@@ -4,12 +4,16 @@
 	"versionEndIncluding": "2.1.6",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2021-03-03T22:53:51.837",
+	"cpeLastModified": "2024-02-03T03:15:39.403",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:extplorer:extplorer:-:*:*:*:*:*:*:*",
 			"cpeNameId": "40F31D8F-557E-4941-8B0C-2726AF467F66"
+		},
+		{
+			"cpeName": "cpe:2.3:a:extplorer:extplorer:1.0.0:*:*:*:*:joomla\\!:*:*",
+			"cpeNameId": "3D1A3182-FD1C-4075-9C1A-7887F16650A7"
 		},
 		{
 			"cpeName": "cpe:2.3:a:extplorer:extplorer:2.0.0:-:*:*:*:*:*:*",
@@ -102,6 +106,10 @@
 		{
 			"cpeName": "cpe:2.3:a:extplorer:extplorer:2.1.5:*:*:*:*:*:*:*",
 			"cpeNameId": "3BA25347-FE7A-46FE-8E6F-A837E4FFF6CD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:extplorer:extplorer:2.1.5:*:*:*:*:joomla\\!:*:*",
+			"cpeNameId": "6589F7A3-5017-4B2D-AD75-F507AB4C7C12"
 		},
 		{
 			"cpeName": "cpe:2.3:a:extplorer:extplorer:2.1.6:*:*:*:*:*:*:*",

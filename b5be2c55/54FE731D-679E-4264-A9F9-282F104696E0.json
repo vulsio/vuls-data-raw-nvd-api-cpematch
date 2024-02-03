@@ -4,7 +4,7 @@
 	"versionEndIncluding": "755",
 	"created": "2021-11-04T16:47:19.743",
 	"lastModified": "2021-11-04T16:47:19.743",
-	"cpeLastModified": "2021-11-04T18:30:44.623",
+	"cpeLastModified": "2024-02-03T03:15:39.403",
 	"status": "Active",
 	"matches": [
 		{
@@ -106,6 +106,10 @@
 		{
 			"cpeName": "cpe:2.3:a:artica:pandora_fms:7.42:*:*:*:*:*:*:*",
 			"cpeNameId": "C3C2B564-BDB8-4C2A-B432-A4D599F6B5F2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:artica:pandora_fms:700:*:*:*:*:*:*:*",
+			"cpeNameId": "118D6973-36C1-40DE-8173-6C81FE0AE3FE"
 		},
 		{
 			"cpeName": "cpe:2.3:a:artica:pandora_fms:740:*:*:*:*:*:*:*",

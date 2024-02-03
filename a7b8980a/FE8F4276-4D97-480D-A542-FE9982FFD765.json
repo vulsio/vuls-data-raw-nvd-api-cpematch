@@ -3,12 +3,16 @@
 	"matchCriteriaId": "FE8F4276-4D97-480D-A542-FE9982FFD765",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2021-07-07T16:10:07.673",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:o:microsoft:windows_2003_server:-:sp1:*:*:*:*:*:*",
 			"cpeNameId": "DC04D279-E8A0-4A7E-BE9A-D7B5B031E5E4"
+		},
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_2003_server:-:sp1:*:*:*:*:itanium:*",
+			"cpeNameId": "7ABA61D2-CCC2-42B3-99F6-3A6852F0507C"
 		},
 		{
 			"cpeName": "cpe:2.3:o:microsoft:windows_2003_server:-:sp1:compute_cluster:*:*:*:*:*",

@@ -4,6 +4,12 @@
 	"versionEndIncluding": "2.0",
 	"created": "2023-12-27T14:10:21.777",
 	"lastModified": "2023-12-27T14:10:21.777",
-	"cpeLastModified": "2023-12-27T14:10:21.777",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:jacksonwhelan:iframe_shortcode:2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E7C5AC69-7301-455D-89CD-A59F1BE547D3"
+		}
+	]
 }

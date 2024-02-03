@@ -4,7 +4,7 @@
 	"versionEndExcluding": "22.5.5",
 	"created": "2022-07-11T15:03:33.537",
 	"lastModified": "2022-10-03T18:13:23.103",
-	"cpeLastModified": "2023-09-28T11:09:50.100",
+	"cpeLastModified": "2024-02-03T01:48:48.543",
 	"status": "Active",
 	"matches": [
 		{
@@ -24,12 +24,20 @@
 			"cpeNameId": "2258CBFE-C8B2-4E75-80B5-6BAD38BD7038"
 		},
 		{
+			"cpeName": "cpe:2.3:o:nvidia:dgx_a100_firmware:00.22.05:*:*:*:bmc:*:*:*",
+			"cpeNameId": "CC881933-4624-4459-B53D-2668B1F17DC1"
+		},
+		{
 			"cpeName": "cpe:2.3:o:nvidia:dgx_a100_firmware:1.8:*:*:*:sbios:*:*:*",
 			"cpeNameId": "10870558-351F-4C6D-92FC-6379CA52AECC"
 		},
 		{
 			"cpeName": "cpe:2.3:o:nvidia:dgx_a100_firmware:1.18:*:*:*:sbios:*:*:*",
 			"cpeNameId": "F412ACB9-9963-491B-8AC0-FB7BA28FF7A1"
+		},
+		{
+			"cpeName": "cpe:2.3:o:nvidia:dgx_a100_firmware:1.25:*:*:*:sbios:*:*:*",
+			"cpeNameId": "5B369384-095D-456B-A068-C551DD081BDA"
 		}
 	]
 }

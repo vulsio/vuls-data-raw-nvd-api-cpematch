@@ -3,8 +3,8 @@
 	"matchCriteriaId": "601FB744-D9A1-4FE0-A5AD-552A9605C501",
 	"versionEndExcluding": "2.8.1",
 	"created": "2024-01-30T14:16:37.977",
-	"lastModified": "2024-01-30T14:16:37.977",
-	"cpeLastModified": "2024-01-30T14:16:37.977",
+	"lastModified": "2024-02-03T03:15:39.403",
+	"cpeLastModified": "2024-02-03T03:17:39.383",
 	"status": "Active",
 	"matches": [
 		{
@@ -458,6 +458,10 @@
 		{
 			"cpeName": "cpe:2.3:a:apache:airflow:2.7.3:*:*:*:*:*:*:*",
 			"cpeNameId": "69F48C7A-7838-41EC-AC5C-B38C0B705D75"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:airflow:2.8.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A224125E-2521-49A9-B11C-C714FA47F489"
 		}
 	]
 }

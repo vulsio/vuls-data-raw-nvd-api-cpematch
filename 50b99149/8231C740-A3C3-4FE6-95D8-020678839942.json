@@ -4,6 +4,12 @@
 	"versionEndIncluding": "4.34",
 	"created": "2024-01-11T16:16:14.323",
 	"lastModified": "2024-01-11T16:16:14.323",
-	"cpeLastModified": "2024-01-11T16:16:14.323",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:billminozzi:anti_hacker:4.34:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5CFC79CB-4FA6-478C-8B0B-220FE5CBF943"
+		}
+	]
 }

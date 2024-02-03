@@ -5,7 +5,7 @@
 	"versionEndExcluding": "1.8.0_181",
 	"created": "2022-10-25T13:59:44.510",
 	"lastModified": "2022-10-25T13:59:44.510",
-	"cpeLastModified": "2023-10-26T12:52:20.480",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -407,6 +407,14 @@
 		{
 			"cpeName": "cpe:2.3:a:oracle:jdk:1.8.0:update381:*:*:enterprise_performance_pack:*:*:*",
 			"cpeNameId": "F49A6480-DA66-428B-88DD-C17BE4F97879"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:jdk:1.8.0:update391:*:*:-:*:*:*",
+			"cpeNameId": "FD6515A7-7050-4C43-A08B-EAC41D9317F5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:jdk:1.8.0:update391:*:*:enterprise_performance_pack:*:*:*",
+			"cpeNameId": "18BBBF3A-82E1-42BB-984A-725B492FA2D1"
 		},
 		{
 			"cpeName": "cpe:2.3:a:oracle:jdk:1.8.0:update40:*:*:*:*:*:*",

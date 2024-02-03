@@ -4,7 +4,7 @@
 	"versionEndExcluding": "32.0.0.314",
 	"created": "2020-02-26T21:17:31.200",
 	"lastModified": "2020-02-26T21:17:31.200",
-	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -414,6 +414,10 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:flash_player:10.2.154.25:*:*:*:*:*:*:*",
 			"cpeNameId": "AC69D276-13CA-43DD-985B-9D6310DE4E8E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:flash_player:10.2.154.27:*:*:*:*:*:*:*",
+			"cpeNameId": "20BA5E2E-1D89-47E1-A19D-E76F33B417C2"
 		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:flash_player:10.2.156.12:*:*:*:*:*:*:*",

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "0F354D3C-B26C-4866-92D1-DE33AE6D8732",
 	"versionEndIncluding": "1.0.8",
 	"created": "2024-01-31T20:52:49.390",
-	"lastModified": "2024-01-31T20:52:49.390",
-	"cpeLastModified": "2024-01-31T20:52:49.390",
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -62,6 +62,10 @@
 		{
 			"cpeName": "cpe:2.3:a:pluginus:wolf_-_wordpress_posts_bulk_editor_and_products_manager_professional:1.0.7.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "C2E19F51-E904-44A8-9C18-DB5C7473716A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pluginus:wolf_-_wordpress_posts_bulk_editor_and_products_manager_professional:1.0.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "52869AB3-B635-4981-BD2A-FD4CCFD95245"
 		}
 	]
 }

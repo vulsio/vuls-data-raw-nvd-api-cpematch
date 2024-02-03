@@ -4,6 +4,12 @@
 	"versionEndIncluding": "1.7.2",
 	"created": "2024-01-11T13:32:08.917",
 	"lastModified": "2024-01-11T13:32:08.917",
-	"cpeLastModified": "2024-01-11T13:32:08.917",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wpswings:coupon_referral_program:1.7.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "ED9D82C8-028E-458F-8329-6F7BB4A8C539"
+		}
+	]
 }

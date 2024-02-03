@@ -5,6 +5,12 @@
 	"versionEndIncluding": "1.4.1",
 	"created": "2024-01-24T21:15:52.393",
 	"lastModified": "2024-01-24T21:15:52.393",
-	"cpeLastModified": "2024-01-24T21:15:52.393",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T03:15:39.403",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ibm:storage_defender_data_protect:1.4.1:*:*:*:*:*:*:*",
+			"cpeNameId": "ACCE8FC7-5E68-4BF8-B15A-B4B0FBFA717D"
+		}
+	]
 }

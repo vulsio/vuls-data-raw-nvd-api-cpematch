@@ -5,6 +5,12 @@
 	"versionEndExcluding": "23.2",
 	"created": "2024-02-02T15:20:25.153",
 	"lastModified": "2024-02-02T15:20:25.153",
-	"cpeLastModified": "2024-02-02T15:20:25.153",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T01:48:48.543",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:opentext:appbuilder:21.2:*:*:*:*:*:*:*",
+			"cpeNameId": "87D048F5-0ED3-475B-B3DD-D5D4E56C3C09"
+		}
+	]
 }

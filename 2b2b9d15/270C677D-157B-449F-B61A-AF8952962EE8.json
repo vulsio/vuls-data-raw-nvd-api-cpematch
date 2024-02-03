@@ -4,12 +4,16 @@
 	"versionEndExcluding": "0.9.4",
 	"created": "2021-01-07T14:26:54.940",
 	"lastModified": "2021-01-07T14:26:54.940",
-	"cpeLastModified": "2021-01-07T14:26:54.940",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:hyper:hyper:-:*:*:*:*:*:*:*",
 			"cpeNameId": "B1ECAD5D-48AE-4ADA-9A25-B923A4CDD6B0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hyper:hyper:-:*:*:*:*:macos:*:*",
+			"cpeNameId": "9E10D77A-7260-4132-B1E8-342B6392B0DE"
 		},
 		{
 			"cpeName": "cpe:2.3:a:hyper:hyper:-:*:*:*:*:rust:*:*",

@@ -4,6 +4,12 @@
 	"versionEndIncluding": "1.2",
 	"created": "2024-01-30T21:39:00.797",
 	"lastModified": "2024-01-30T21:39:00.797",
-	"cpeLastModified": "2024-01-30T21:39:00.797",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:giovambattistafazioli:wp_social_bookmark_menu:1.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "459BE0C3-1923-4FA1-A920-8DA769E54E39"
+		}
+	]
 }

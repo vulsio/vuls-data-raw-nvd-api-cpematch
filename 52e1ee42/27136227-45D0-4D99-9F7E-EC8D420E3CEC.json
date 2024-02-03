@@ -4,6 +4,12 @@
 	"versionEndIncluding": "2.06",
 	"created": "2024-01-04T17:16:14.690",
 	"lastModified": "2024-01-04T17:16:14.690",
-	"cpeLastModified": "2024-01-04T17:16:14.690",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:webfactoryltd:wp_login_lockdown:2.06:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3F94B9A4-DBA2-41C8-8D9B-D0720EA4D694"
+		}
+	]
 }

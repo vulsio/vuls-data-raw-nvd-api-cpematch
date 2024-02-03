@@ -5,7 +5,7 @@
 	"versionEndExcluding": "7.19.7",
 	"created": "2023-05-05T18:04:05.923",
 	"lastModified": "2023-06-30T13:12:48.100",
-	"cpeLastModified": "2023-05-05T18:04:05.923",
+	"cpeLastModified": "2024-02-03T03:15:39.403",
 	"status": "Active",
 	"matches": [
 		{
@@ -83,6 +83,10 @@
 		{
 			"cpeName": "cpe:2.3:a:atlassian:confluence_server:7.18.1:*:*:*:*:*:*:*",
 			"cpeNameId": "01280B2A-F75E-426F-B29C-A67DF99F5CBB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:atlassian:confluence_server:7.19:*:*:*:*:*:*:*",
+			"cpeNameId": "56BF0045-B665-4701-996E-FCA72D516150"
 		}
 	]
 }

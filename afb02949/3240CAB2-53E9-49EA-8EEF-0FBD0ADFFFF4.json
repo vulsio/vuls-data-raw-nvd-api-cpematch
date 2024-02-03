@@ -3,8 +3,8 @@
 	"matchCriteriaId": "3240CAB2-53E9-49EA-8EEF-0FBD0ADFFFF4",
 	"versionEndIncluding": "684.vea_fa_7c1e2fe3",
 	"created": "2024-01-26T19:51:45.420",
-	"lastModified": "2024-01-26T19:51:45.420",
-	"cpeLastModified": "2024-01-26T19:51:45.420",
+	"lastModified": "2024-02-03T03:15:39.403",
+	"cpeLastModified": "2024-02-03T03:15:39.403",
 	"status": "Active",
 	"matches": [
 		{
@@ -262,6 +262,10 @@
 		{
 			"cpeName": "cpe:2.3:a:jenkins:github_branch_source:2.4.6:beta2:*:*:*:jenkins:*:*",
 			"cpeNameId": "2A646D4B-98D1-4378-9758-98E467A2F62B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jenkins:github_branch_source:684.vea_fa_7c1e2fe3:*:*:*:*:jenkins:*:*",
+			"cpeNameId": "C82E8BC9-E4FD-4EDA-95AE-4B653F113280"
 		}
 	]
 }

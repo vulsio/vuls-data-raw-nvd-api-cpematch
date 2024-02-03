@@ -4,6 +4,12 @@
 	"versionEndExcluding": "14.0.12737",
 	"created": "2024-01-30T17:32:12.237",
 	"lastModified": "2024-01-30T17:32:12.237",
-	"cpeLastModified": "2024-01-30T17:32:12.237",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T01:48:48.543",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:trendmicro:apex_one:-:*:*:*:saas:windows:*:*",
+			"cpeNameId": "DF02781C-58CF-476B-A509-67CA36BE149A"
+		}
+	]
 }

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "E1C7D024-2BC5-4EB3-8FF6-006C25BBAFFD",
 	"versionEndExcluding": "2.12.0",
 	"created": "2024-01-29T14:14:06.497",
-	"lastModified": "2024-01-29T14:14:06.497",
-	"cpeLastModified": "2024-01-29T14:14:06.497",
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -138,6 +138,14 @@
 		{
 			"cpeName": "cpe:2.3:a:autolabproject:autolab:2.10.0:*:*:*:*:*:*:*",
 			"cpeNameId": "A3D39FFE-70A1-42E8-AC60-7EEEEFE9052B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:autolabproject:autolab:2.11.0:*:*:*:*:*:*:*",
+			"cpeNameId": "EEC89DA4-683E-4E93-9011-D59FF0F10900"
+		},
+		{
+			"cpeName": "cpe:2.3:a:autolabproject:autolab:2.11.1:*:*:*:*:*:*:*",
+			"cpeNameId": "FD4E6251-AA0F-4AB9-971C-039EA1353802"
 		}
 	]
 }

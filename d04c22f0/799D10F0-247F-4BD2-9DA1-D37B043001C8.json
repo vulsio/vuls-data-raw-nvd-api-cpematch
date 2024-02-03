@@ -5,7 +5,7 @@
 	"versionEndIncluding": "1912",
 	"created": "2020-11-23T19:28:22.990",
 	"lastModified": "2020-11-23T19:28:22.990",
-	"cpeLastModified": "2023-08-25T07:02:28.027",
+	"cpeLastModified": "2024-02-03T03:15:39.403",
 	"status": "Active",
 	"matches": [
 		{
@@ -43,6 +43,10 @@
 		{
 			"cpeName": "cpe:2.3:a:citrix:virtual_apps_and_desktops:1912:cu6:*:*:ltsr:*:*:*",
 			"cpeNameId": "8ED8E56E-C9E2-4E9E-9165-7ACF725175BF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:citrix:virtual_apps_and_desktops:1912:cu7:*:*:ltsr:*:*:*",
+			"cpeNameId": "FD8C06EB-846A-4657-8C16-B5F08538488F"
 		}
 	]
 }

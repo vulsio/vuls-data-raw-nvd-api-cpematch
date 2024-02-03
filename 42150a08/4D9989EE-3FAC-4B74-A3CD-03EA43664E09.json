@@ -4,6 +4,12 @@
 	"versionEndIncluding": "3.2",
 	"created": "2024-01-10T16:02:05.447",
 	"lastModified": "2024-01-10T16:02:05.447",
-	"cpeLastModified": "2024-01-10T16:02:05.447",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:hamidrezasepehr:wp_custom_cursors_\\|_wordpress_cursor_plugin:3.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EB15DE64-CBE2-4F93-8544-997DA1B3AC75"
+		}
+	]
 }

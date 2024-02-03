@@ -4,8 +4,8 @@
 	"versionStartIncluding": "3.0.0",
 	"versionEndExcluding": "3.0.29",
 	"created": "2024-01-25T16:42:57.333",
-	"lastModified": "2024-01-25T16:42:57.333",
-	"cpeLastModified": "2024-01-25T16:42:57.333",
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -47,6 +47,10 @@
 		{
 			"cpeName": "cpe:2.3:a:appleple:a-blog_cms:3.0.9:*:*:*:*:*:*:*",
 			"cpeNameId": "BD34CB3C-44D6-457B-9CC2-E0613E510543"
+		},
+		{
+			"cpeName": "cpe:2.3:a:appleple:a-blog_cms:3.0.28:*:*:*:*:*:*:*",
+			"cpeNameId": "9B009FB5-A314-423B-A2F6-919A7CB18DCE"
 		}
 	]
 }

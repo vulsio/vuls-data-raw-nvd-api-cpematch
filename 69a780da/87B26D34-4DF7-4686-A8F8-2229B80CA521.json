@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:edgewall:trac:0.10.4:*:*:*:*:*:*:*",
 	"matchCriteriaId": "87B26D34-4DF7-4686-A8F8-2229B80CA521",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
-	"status": "Active"
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:edgewall:trac:0.10.4:*:*:*:*:*:*:*",
+			"cpeNameId": "60389FAF-CAA4-4B6F-A54C-B933A5354CDD"
+		}
+	]
 }

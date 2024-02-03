@@ -3,8 +3,8 @@
 	"matchCriteriaId": "BABBCE8F-8671-4654-8438-34B627E3D33A",
 	"versionEndIncluding": "822.v01b_8c85d16d2",
 	"created": "2024-01-29T18:30:09.743",
-	"lastModified": "2024-01-29T18:30:09.743",
-	"cpeLastModified": "2024-01-29T18:30:09.743",
+	"lastModified": "2024-02-03T03:17:39.383",
+	"cpeLastModified": "2024-02-03T03:17:39.383",
 	"status": "Active",
 	"matches": [
 		{
@@ -110,6 +110,10 @@
 		{
 			"cpeName": "cpe:2.3:a:jenkins:matrix_project:1.20:*:*:*:*:jenkins:*:*",
 			"cpeNameId": "1A91F83E-52B5-478F-800E-917AED503E0E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jenkins:matrix_project:822.v01b_8c85d16d2:*:*:*:*:jenkins:*:*",
+			"cpeNameId": "EB963A96-DDC9-4C03-9FA3-3AEB14510D1C"
 		}
 	]
 }

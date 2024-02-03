@@ -5,6 +5,16 @@
 	"versionEndIncluding": "3.2.4",
 	"created": "2023-12-26T21:10:46.260",
 	"lastModified": "2023-12-26T21:10:46.260",
-	"cpeLastModified": "2023-12-26T21:10:46.260",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T03:15:39.403",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:linotp:linotp:3.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "99E8BAA0-15BE-45E3-82B1-5695E1C6932B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:linotp:linotp:3.2.4:*:*:*:*:*:*:*",
+			"cpeNameId": "42AF5BB0-BBCE-47E6-8EB5-7C7343C48544"
+		}
+	]
 }

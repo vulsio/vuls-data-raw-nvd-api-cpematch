@@ -5,6 +5,12 @@
 	"versionEndExcluding": "0.10.6",
 	"created": "2024-01-02T15:57:25.867",
 	"lastModified": "2024-01-02T15:57:25.867",
-	"cpeLastModified": "2024-01-02T15:57:25.867",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T03:15:39.403",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:libssh:libssh:0.10.0:*:*:*:*:*:*:*",
+			"cpeNameId": "77B566B7-718F-4B46-AE00-47BE1E4A0465"
+		}
+	]
 }

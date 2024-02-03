@@ -3,8 +3,8 @@
 	"matchCriteriaId": "3C8302B0-2186-40DE-B1BA-81023A8B409D",
 	"versionEndIncluding": "6.0",
 	"created": "2024-01-08T18:55:02.483",
-	"lastModified": "2024-01-08T18:55:02.483",
-	"cpeLastModified": "2024-01-08T18:55:02.483",
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -78,6 +78,10 @@
 		{
 			"cpeName": "cpe:2.3:a:wow-company:floating_button:5.3.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "D3C4F305-6ECA-4E93-9944-FEBDCCD5AB46"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wow-company:floating_button:6.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1880B2B2-A177-485D-9EC2-EF01E8091B9B"
 		}
 	]
 }

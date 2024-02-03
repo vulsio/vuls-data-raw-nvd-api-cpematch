@@ -4,7 +4,7 @@
 	"versionEndIncluding": "3.12",
 	"created": "2021-02-01T12:06:38.613",
 	"lastModified": "2021-02-01T12:06:38.613",
-	"cpeLastModified": "2021-02-01T14:36:17.313",
+	"cpeLastModified": "2024-02-03T03:17:39.383",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:a:deltaww:ispsoft:3.0.6:*:*:*:*:*:*:*",
 			"cpeNameId": "5BD58F02-6203-4A60-B75C-1EAC19D1F626"
+		},
+		{
+			"cpeName": "cpe:2.3:a:deltaww:ispsoft:3.02.11:*:*:*:*:*:*:*",
+			"cpeNameId": "318B3411-EB54-4182-9394-C63A85E2516A"
 		},
 		{
 			"cpeName": "cpe:2.3:a:deltaww:ispsoft:3.12:*:*:*:*:*:*:*",

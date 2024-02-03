@@ -3,7 +3,7 @@
 	"matchCriteriaId": "2D2DB2B2-6B07-44EC-A1BE-6E5B8A502D87",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-12-29T10:15:30.570",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -57,6 +57,10 @@
 		{
 			"cpeName": "cpe:2.3:a:gentoo:portage:2.3.85:*:*:*:*:*:*:*",
 			"cpeNameId": "D1AAB9F3-3CD1-4659-8446-B758910AB09F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gentoo:portage:3.0.47:*:*:*:*:*:*:*",
+			"cpeNameId": "F35085BC-5DE0-412A-A1B1-73D3A11372C9"
 		}
 	]
 }

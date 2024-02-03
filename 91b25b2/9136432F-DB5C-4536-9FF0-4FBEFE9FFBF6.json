@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:longmenedutech:score_query_system:5.0:*:*:*:*:*:*:*",
 	"matchCriteriaId": "9136432F-DB5C-4536-9FF0-4FBEFE9FFBF6",
 	"created": "2023-10-31T19:01:40.030",
-	"lastModified": "2023-10-31T19:01:40.030",
-	"cpeLastModified": "2023-10-31T19:01:40.030",
-	"status": "Active"
+	"lastModified": "2024-02-03T03:15:39.403",
+	"cpeLastModified": "2024-02-03T03:15:39.403",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:longmenedutech:score_query_system:5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5B0E6C28-3822-4A66-9123-D7599B639ED8"
+		}
+	]
 }

@@ -4,6 +4,12 @@
 	"versionEndIncluding": "1.1.18",
 	"created": "2024-01-08T19:35:34.110",
 	"lastModified": "2024-01-08T19:35:34.110",
-	"cpeLastModified": "2024-01-08T19:35:34.110",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wpzone:inline_image_upload_for_bbpress:1.1.18:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8FDEA30E-ADA8-483C-B133-7DC7DFEBE815"
+		}
+	]
 }

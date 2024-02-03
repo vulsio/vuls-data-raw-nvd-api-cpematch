@@ -4,7 +4,7 @@
 	"versionEndExcluding": "4.1.8",
 	"created": "2019-08-23T18:37:40.617",
 	"lastModified": "2019-08-23T18:37:40.617",
-	"cpeLastModified": "2019-08-23T18:37:40.647",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -258,6 +258,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ibericode:mailchimp:4.0.9:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "25A71CCD-DC57-4322-BFBB-E56EAA9C3FF0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:mailchimp:4.0.9.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "69E70CA6-CB27-4187-A0BF-33DBE4A4DBC5"
 		},
 		{
 			"cpeName": "cpe:2.3:a:ibericode:mailchimp:4.0.10:*:*:*:*:wordpress:*:*",

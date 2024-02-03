@@ -3,7 +3,7 @@
 	"matchCriteriaId": "64CFDDCB-5501-4B10-A10D-0658EF41D3DA",
 	"created": "2022-01-18T18:28:27.177",
 	"lastModified": "2022-01-18T18:28:27.177",
-	"cpeLastModified": "2022-11-17T17:23:29.983",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -685,6 +685,10 @@
 		{
 			"cpeName": "cpe:2.3:a:dolibarr:dolibarr:16.0.1:*:*:*:*:*:*:*",
 			"cpeNameId": "93F37205-5AA3-4389-8604-56805384F63F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dolibarr:dolibarr:18.0.4:*:*:*:*:*:*:*",
+			"cpeNameId": "C52DA564-8963-48E7-9A90-01827006A9AA"
 		}
 	]
 }

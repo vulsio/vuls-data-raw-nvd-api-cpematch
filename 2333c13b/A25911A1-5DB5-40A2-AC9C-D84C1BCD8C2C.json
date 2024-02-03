@@ -3,8 +3,8 @@
 	"matchCriteriaId": "A25911A1-5DB5-40A2-AC9C-D84C1BCD8C2C",
 	"versionEndIncluding": "4.3.0",
 	"created": "2024-01-06T17:04:32.130",
-	"lastModified": "2024-01-06T17:04:32.130",
-	"cpeLastModified": "2024-01-06T17:04:32.130",
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -290,6 +290,10 @@
 		{
 			"cpeName": "cpe:2.3:a:yithemes:yith_woocommerce_product_add-ons:1.5.36:*:*:*:free:wordpress:*:*",
 			"cpeNameId": "5990C08B-0018-48DC-9C1B-5F98268D1DC5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:yithemes:yith_woocommerce_product_add-ons:4.3.0:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "94FC182F-2950-4F69-8B41-021C419BB2C5"
 		}
 	]
 }

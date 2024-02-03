@@ -5,7 +5,7 @@
 	"versionEndExcluding": "7.3.2.3",
 	"created": "2023-12-26T17:01:13.513",
 	"lastModified": "2023-12-29T10:15:30.570",
-	"cpeLastModified": "2023-12-26T17:01:13.513",
+	"cpeLastModified": "2024-02-03T03:15:39.403",
 	"status": "Active",
 	"matches": [
 		{
@@ -15,6 +15,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ibm:urbancode_deploy:7.3.1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "3C4D1207-D2DD-4B11-9F16-25B36F7397C3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:urbancode_deploy:7.3.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "DA474743-298F-47C8-91E7-4FF550C0E5D7"
 		}
 	]
 }

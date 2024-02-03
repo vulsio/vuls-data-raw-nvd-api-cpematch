@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2021-09-14",
 	"created": "2021-10-04T18:06:40.730",
 	"lastModified": "2021-10-04T18:06:40.730",
-	"cpeLastModified": "2023-12-16T03:56:07.630",
+	"cpeLastModified": "2024-02-03T01:48:48.543",
 	"status": "Active",
 	"matches": [
 		{
@@ -3566,6 +3566,18 @@
 		{
 			"cpeName": "cpe:2.3:a:discourse:discourse:3.2.0:beta1:*:*:beta:*:*:*",
 			"cpeNameId": "5DA51F45-008B-4F9A-BEAE-66E88B0120FC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:discourse:discourse:3.2.0:beta2:*:*:beta:*:*:*",
+			"cpeNameId": "085E694C-3F87-43DA-96A2-64C8D4972C5A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:discourse:discourse:3.2.0:beta3:*:*:beta:*:*:*",
+			"cpeNameId": "024B4E86-45F1-4C6B-8FF2-CB69F5A6A55F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:discourse:discourse:3.2.0:beta4:*:*:beta:*:*:*",
+			"cpeNameId": "C946A358-1CDC-48F2-8077-983B6F26169F"
 		}
 	]
 }

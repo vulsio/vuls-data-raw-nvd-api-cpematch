@@ -4,8 +4,8 @@
 	"versionStartIncluding": "2.0.0",
 	"versionEndExcluding": "4.0.4",
 	"created": "2024-02-01T16:53:19.953",
-	"lastModified": "2024-02-01T16:53:19.953",
-	"cpeLastModified": "2024-02-01T16:53:19.953",
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -131,6 +131,10 @@
 		{
 			"cpeName": "cpe:2.3:a:apache:kylin:4.0.0:beta:*:*:*:*:*:*",
 			"cpeNameId": "4C7BB653-985E-4908-BD7F-DD93D3A3FC04"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:kylin:4.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "34794D5A-2A4E-4FB3-829B-B349AEACB0F8"
 		}
 	]
 }

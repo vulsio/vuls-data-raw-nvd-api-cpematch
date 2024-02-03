@@ -4,7 +4,7 @@
 	"versionEndIncluding": "7.3.2",
 	"created": "2022-03-14T06:29:08.777",
 	"lastModified": "2022-03-14T06:29:08.777",
-	"cpeLastModified": "2022-03-14T17:16:00.043",
+	"cpeLastModified": "2024-02-03T03:15:39.403",
 	"status": "Active",
 	"matches": [
 		{
@@ -738,6 +738,10 @@
 		{
 			"cpeName": "cpe:2.3:a:liferay:liferay_portal:7.1.0:*:*:*:community:*:*:*",
 			"cpeNameId": "160230F0-1756-4DBC-803E-CAABC7A1138F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:liferay:liferay_portal:7.1.0:-:*:*:*:*:*:*",
+			"cpeNameId": "360B916F-28EB-4801-832E-DE920F679841"
 		},
 		{
 			"cpeName": "cpe:2.3:a:liferay:liferay_portal:7.1.0:a1:*:*:community:*:*:*",

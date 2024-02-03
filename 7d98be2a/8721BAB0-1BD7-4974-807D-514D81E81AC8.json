@@ -4,9 +4,13 @@
 	"versionEndExcluding": "2.2.2",
 	"created": "2024-01-29T22:13:21.213",
 	"lastModified": "2024-02-01T14:03:12.617",
-	"cpeLastModified": "2024-02-01T14:03:12.617",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:jupyter:language_server_protocol_integration:-:*:*:*:*:jupyter:*:*",
+			"cpeNameId": "295C66C2-4893-48FD-92C1-03A885219435"
+		},
 		{
 			"cpeName": "cpe:2.3:a:jupyter:language_server_protocol_integration:0.4.0:*:*:*:*:jupyter:*:*",
 			"cpeNameId": "3618A923-194C-4D0E-8BFF-7865D1C9C418"

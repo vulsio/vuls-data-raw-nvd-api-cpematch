@@ -3,8 +3,8 @@
 	"matchCriteriaId": "9F40F748-90A1-4293-A515-1B90C91F78B1",
 	"versionEndIncluding": "6.8.10",
 	"created": "2024-01-18T19:45:29.490",
-	"lastModified": "2024-01-18T19:45:29.490",
-	"cpeLastModified": "2024-01-18T19:45:29.490",
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -282,6 +282,10 @@
 		{
 			"cpeName": "cpe:2.3:a:yikesinc:easy_forms_for_mailchimp:6.8.9:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "BDC7BD45-5F2D-46AC-A933-23DF391DDD03"
+		},
+		{
+			"cpeName": "cpe:2.3:a:yikesinc:easy_forms_for_mailchimp:6.8.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "665AC24A-8668-4978-A142-3C6EEB5264BD"
 		}
 	]
 }

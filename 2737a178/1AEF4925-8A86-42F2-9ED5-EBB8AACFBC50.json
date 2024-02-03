@@ -4,6 +4,12 @@
 	"versionEndIncluding": "2.0.0",
 	"created": "2024-01-24T13:49:11.770",
 	"lastModified": "2024-01-24T13:49:11.770",
-	"cpeLastModified": "2024-01-24T13:49:11.770",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:magneticone:magento_to_woocommerce_migration:2.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "84834943-3A6F-4E46-A928-A1782F7D1F47"
+		}
+	]
 }

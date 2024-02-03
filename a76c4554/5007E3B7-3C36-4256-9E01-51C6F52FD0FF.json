@@ -3,7 +3,7 @@
 	"matchCriteriaId": "5007E3B7-3C36-4256-9E01-51C6F52FD0FF",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-07-17T15:28:35.843",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -367,12 +367,44 @@
 			"cpeNameId": "9DBFECB0-7703-4931-ADE5-9DEFB64B91C3"
 		},
 		{
+			"cpeName": "cpe:2.3:a:sap:netweaver:kernel_7.53:*:*:*:*:*:*:*",
+			"cpeNameId": "E3BB669D-2D16-4C5F-B211-37C11F27C790"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sap:netweaver:kernel_7.54:*:*:*:*:*:*:*",
+			"cpeNameId": "54C93B76-9F61-4188-935B-A5567D37BADB"
+		},
+		{
 			"cpeName": "cpe:2.3:a:sap:netweaver:krnl64nuc_7.22:*:*:*:*:*:*:*",
 			"cpeNameId": "0DA20F22-A2DA-41F6-B3BD-04A5637CF0BC"
 		},
 		{
+			"cpeName": "cpe:2.3:a:sap:netweaver:krnl64nuc_7.22ext:*:*:*:*:*:*:*",
+			"cpeNameId": "AB0579C7-842C-4FED-87DB-1F32B7DB7247"
+		},
+		{
 			"cpeName": "cpe:2.3:a:sap:netweaver:krnl64uc_7.22:*:*:*:*:*:*:*",
 			"cpeNameId": "60D99A63-156E-4C77-8F5E-7AD744E84163"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sap:netweaver:krnl64uc_7.22ext:*:*:*:*:*:*:*",
+			"cpeNameId": "8687A699-29F0-4F3F-ABCB-7B1251DDD190"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sap:netweaver:krnl64uc_7.53:*:*:*:*:*:*:*",
+			"cpeNameId": "52259B6E-D7FA-41D1-8C56-1280D28C6CDE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sap:netweaver:webdisp_7.22ext:*:*:*:*:*:*:*",
+			"cpeNameId": "B62E2DDC-7622-4C7E-8F58-16DAEF0D5EA5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sap:netweaver:webdisp_7.53:*:*:*:*:*:*:*",
+			"cpeNameId": "6D615EC4-A5C0-4F9D-B9A8-6CA67737769B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sap:netweaver:webdisp_7.54:*:*:*:*:*:*:*",
+			"cpeNameId": "BEDE8219-5389-4359-B8D8-FEB098B5E72D"
 		}
 	]
 }

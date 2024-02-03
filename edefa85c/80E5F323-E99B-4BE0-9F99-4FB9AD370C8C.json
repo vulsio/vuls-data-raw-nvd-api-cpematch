@@ -3,8 +3,8 @@
 	"matchCriteriaId": "80E5F323-E99B-4BE0-9F99-4FB9AD370C8C",
 	"versionEndIncluding": "10.1.0",
 	"created": "2024-01-25T16:43:40.300",
-	"lastModified": "2024-01-25T16:43:40.300",
-	"cpeLastModified": "2024-01-25T16:43:40.300",
+	"lastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-02-03T01:39:22.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -342,6 +342,26 @@
 		{
 			"cpeName": "cpe:2.3:a:python:pillow:9.3.0:*:*:*:*:*:*:*",
 			"cpeNameId": "2A620B22-B548-421F-A1A6-0324CE1CD49E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:python:pillow:9.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C0CDC79D-7EA5-4CEC-A8FB-D726A66BA859"
+		},
+		{
+			"cpeName": "cpe:2.3:a:python:pillow:9.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B6AC8C13-2AB8-40A4-953F-2C568BD9EFCF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:python:pillow:10.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "306EBDAE-B54C-4197-A6FF-61A7F9807E5B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:python:pillow:10.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "119733BE-71F4-4FBE-846D-91A7F0ACF7E5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:python:pillow:10.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "10470713-4905-4991-A759-B1A2875A1582"
 		}
 	]
 }

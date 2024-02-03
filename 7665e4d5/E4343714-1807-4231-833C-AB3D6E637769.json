@@ -5,7 +5,7 @@
 	"versionEndIncluding": "2.441",
 	"created": "2024-01-29T18:13:20.340",
 	"lastModified": "2024-01-29T18:13:20.340",
-	"cpeLastModified": "2024-01-29T18:13:20.340",
+	"cpeLastModified": "2024-02-03T03:17:39.383",
 	"status": "Active",
 	"matches": [
 		{
@@ -91,6 +91,10 @@
 		{
 			"cpeName": "cpe:2.3:a:jenkins:jenkins:2.428:*:*:*:-:*:*:*",
 			"cpeNameId": "D29FF46B-FEE0-45E6-BFDB-4F8B9439B68E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jenkins:jenkins:2.441:*:*:*:-:*:*:*",
+			"cpeNameId": "8193F0EF-F8A3-4FFA-9300-0FE37F54440D"
 		}
 	]
 }

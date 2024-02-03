@@ -4,6 +4,12 @@
 	"versionEndIncluding": "2.9.0",
 	"created": "2024-01-08T18:04:28.510",
 	"lastModified": "2024-01-08T18:04:28.510",
-	"cpeLastModified": "2024-01-08T18:04:28.510",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:linksoftwarellc:white_label:2.9.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "21165667-5013-4CA0-957E-67C2D785C019"
+		}
+	]
 }

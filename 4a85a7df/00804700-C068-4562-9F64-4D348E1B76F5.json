@@ -3,8 +3,8 @@
 	"matchCriteriaId": "00804700-C068-4562-9F64-4D348E1B76F5",
 	"versionEndExcluding": "121.0.2277.83",
 	"created": "2024-01-27T16:31:55.423",
-	"lastModified": "2024-01-27T16:31:55.423",
-	"cpeLastModified": "2024-01-27T16:31:55.423",
+	"lastModified": "2024-02-03T01:48:48.543",
+	"cpeLastModified": "2024-02-03T01:48:48.543",
 	"status": "Active",
 	"matches": [
 		{
@@ -526,6 +526,10 @@
 		{
 			"cpeName": "cpe:2.3:a:microsoft:edge_chromium:120.0.2210.133:*:*:*:*:*:*:*",
 			"cpeNameId": "89E4ED99-EB48-4907-A88E-2E65D4B5D7C4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge_chromium:120.0.2210.160:*:*:*:extended_stable:*:*:*",
+			"cpeNameId": "B5D462FD-95C9-41FD-9591-96BDB06AA94C"
 		}
 	]
 }

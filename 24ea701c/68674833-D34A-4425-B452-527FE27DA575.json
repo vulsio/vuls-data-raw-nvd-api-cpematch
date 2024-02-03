@@ -4,6 +4,24 @@
 	"versionEndIncluding": "7",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
-	"status": "Active"
+	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:blackboard:academic_suite:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DBE59522-984E-494A-B883-8ECE932CBDCD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:blackboard:academic_suite:6.0.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "52465A8C-A65E-4AD5-8BC1-D8F70C6832BE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:blackboard:academic_suite:6.2.3.23:*:*:*:*:*:*:*",
+			"cpeNameId": "BB55A0D2-026A-4A50-B004-0D77BD351474"
+		},
+		{
+			"cpeName": "cpe:2.3:a:blackboard:academic_suite:6.3.1.424:*:*:*:*:*:*:*",
+			"cpeNameId": "6EAEEDD1-799D-4767-B94A-3E9B4AF6BE1D"
+		}
+	]
 }
