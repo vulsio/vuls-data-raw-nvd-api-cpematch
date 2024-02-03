@@ -4,6 +4,12 @@
 	"versionEndIncluding": "2.4.9",
 	"created": "2023-11-13T19:36:59.837",
 	"lastModified": "2023-11-13T19:36:59.837",
-	"cpeLastModified": "2023-11-13T19:36:59.837",
-	"status": "Active"
+	"cpeLastModified": "2024-02-02T22:20:37.337",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:simonpedge:slide_anything-responsive_content\\/html_slider_and_carousel:2.4.9:*:*:*:*:*:*:*",
+			"cpeNameId": "72D19EB5-6AFE-4D85-8D02-D919A695CE92"
+		}
+	]
 }

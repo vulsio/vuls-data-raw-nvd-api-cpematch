@@ -4,6 +4,20 @@
 	"versionEndExcluding": "7.0",
 	"created": "2024-01-24T18:09:32.977",
 	"lastModified": "2024-01-24T18:09:32.977",
-	"cpeLastModified": "2024-01-24T18:09:32.977",
-	"status": "Active"
+	"cpeLastModified": "2024-02-02T22:20:37.337",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:studionetworksolutions:sharebrowser:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CEBCF69D-4D36-41E2-946A-F73A1E0CB09A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:studionetworksolutions:sharebrowser:5.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "B0FBA730-9B24-4C36-8861-16BF9F026DF2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:studionetworksolutions:sharebrowser:5.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "6749F396-3735-456B-B84E-A08FBC2DBF8A"
+		}
+	]
 }

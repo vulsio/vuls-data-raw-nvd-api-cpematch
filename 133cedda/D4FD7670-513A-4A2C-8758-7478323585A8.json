@@ -3,8 +3,8 @@
 	"matchCriteriaId": "D4FD7670-513A-4A2C-8758-7478323585A8",
 	"versionEndIncluding": "2.12.5",
 	"created": "2024-01-16T17:49:43.853",
-	"lastModified": "2024-01-16T17:49:43.853",
-	"cpeLastModified": "2024-01-16T17:49:43.853",
+	"lastModified": "2024-02-02T22:20:37.337",
+	"cpeLastModified": "2024-02-02T22:20:37.337",
 	"status": "Active",
 	"matches": [
 		{
@@ -1082,6 +1082,10 @@
 		{
 			"cpeName": "cpe:2.3:a:strangerstudios:paid_memberships_pro:2.12.4:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "EE8CC0C4-0887-4C98-950F-90D2F36BBB89"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strangerstudios:paid_memberships_pro:2.12.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "195E2BB6-2382-477A-A1A4-0556880EA64D"
 		}
 	]
 }

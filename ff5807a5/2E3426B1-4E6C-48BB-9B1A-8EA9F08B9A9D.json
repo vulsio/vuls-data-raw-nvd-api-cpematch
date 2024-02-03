@@ -4,7 +4,7 @@
 	"versionEndIncluding": "4.0.4",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2020-01-07T19:31:20.217",
+	"cpeLastModified": "2024-02-02T22:20:37.337",
 	"status": "Active",
 	"matches": [
 		{
@@ -338,6 +338,14 @@
 		{
 			"cpeName": "cpe:2.3:a:relevanssi:relevanssi:2.9.14:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "22CD1D81-3665-460D-840C-5C8C2C1F953F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:relevanssi:relevanssi:2.20.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B23ADFB3-9F42-4AF1-A308-26DD63DB1B86"
+		},
+		{
+			"cpeName": "cpe:2.3:a:relevanssi:relevanssi:2.25.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "290DBBA1-4FB6-4AF2-ADC8-F8D4536D1CA0"
 		},
 		{
 			"cpeName": "cpe:2.3:a:relevanssi:relevanssi:3.0:*:*:*:*:wordpress:*:*",

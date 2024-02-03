@@ -4,6 +4,12 @@
 	"versionEndIncluding": "2.12",
 	"created": "2024-01-26T15:52:18.190",
 	"lastModified": "2024-01-26T15:52:18.190",
-	"cpeLastModified": "2024-01-26T15:52:18.190",
-	"status": "Active"
+	"cpeLastModified": "2024-02-02T22:20:37.337",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:smsot:smsot:2.12:*:*:*:*:*:*:*",
+			"cpeNameId": "29DAB264-CA52-45DC-9277-22BE332EB202"
+		}
+	]
 }

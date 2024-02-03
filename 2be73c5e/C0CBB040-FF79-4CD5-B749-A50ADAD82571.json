@@ -4,8 +4,8 @@
 	"versionStartIncluding": "6.0.1",
 	"versionEndIncluding": "6.5",
 	"created": "2023-12-27T19:02:47.913",
-	"lastModified": "2023-12-27T19:02:47.913",
-	"cpeLastModified": "2023-12-27T19:02:47.913",
+	"lastModified": "2024-02-02T22:20:37.337",
+	"cpeLastModified": "2024-02-02T22:20:37.337",
 	"status": "Active",
 	"matches": [
 		{
@@ -35,6 +35,10 @@
 		{
 			"cpeName": "cpe:2.3:a:squid-cache:squid:6.4:*:*:*:*:*:*:*",
 			"cpeNameId": "C2DF9878-B77C-49D1-9BEF-59C380ADDFD0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:squid-cache:squid:6.5:*:*:*:*:*:*:*",
+			"cpeNameId": "E971633F-75F9-4C0B-84DA-E369A6BBAB13"
 		}
 	]
 }

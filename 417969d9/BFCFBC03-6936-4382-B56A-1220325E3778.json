@@ -3,8 +3,8 @@
 	"matchCriteriaId": "BFCFBC03-6936-4382-B56A-1220325E3778",
 	"versionEndExcluding": "4.4.2",
 	"created": "2024-01-30T16:24:13.457",
-	"lastModified": "2024-01-30T16:24:13.457",
-	"cpeLastModified": "2024-01-30T16:24:13.457",
+	"lastModified": "2024-02-02T22:20:37.337",
+	"cpeLastModified": "2024-02-02T22:20:37.337",
 	"status": "Active",
 	"matches": [
 		{
@@ -782,6 +782,26 @@
 		{
 			"cpeName": "cpe:2.3:a:simple-membership-plugin:simple_membership:4.3.6:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "30B02B25-E931-4D1B-B4D5-AFFB4A6EB108"
+		},
+		{
+			"cpeName": "cpe:2.3:a:simple-membership-plugin:simple_membership:4.3.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C6C60C95-6D8A-48A8-B1D2-8AD172F6C686"
+		},
+		{
+			"cpeName": "cpe:2.3:a:simple-membership-plugin:simple_membership:4.3.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2FD1B053-0242-4A01-8EC1-0A9E327F0196"
+		},
+		{
+			"cpeName": "cpe:2.3:a:simple-membership-plugin:simple_membership:4.3.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "77700296-615B-45A6-B770-E15A35463202"
+		},
+		{
+			"cpeName": "cpe:2.3:a:simple-membership-plugin:simple_membership:4.4.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "627E46EF-7C64-4EB2-8099-67404E0E4EF4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:simple-membership-plugin:simple_membership:4.4.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DC548957-2B03-4571-AE71-4EC7A9767310"
 		}
 	]
 }
