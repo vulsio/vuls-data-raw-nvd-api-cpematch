@@ -1,8 +1,8 @@
 {
 	"criteria": "cpe:2.3:a:bplugins:html5_video_player:*:*:*:*:*:wordpress:*:*",
-	"matchCriteriaId": "18C2421F-4BDD-46B6-85AA-C5FDA095A6C8",
-	"versionEndExcluding": "2.5.19",
-	"created": "2024-01-08T13:38:21.290",
+	"matchCriteriaId": "C6AAA38F-4C05-4095-83D1-764D7F94D738",
+	"versionEndExcluding": "2.5.25",
+	"created": "2024-02-05T13:05:36.510",
 	"lastModified": "2024-02-05T15:00:19.783",
 	"cpeLastModified": "2024-02-05T15:00:19.783",
 	"status": "Active",
@@ -110,6 +110,30 @@
 		{
 			"cpeName": "cpe:2.3:a:bplugins:html5_video_player:2.5.17:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "7BF4DEDE-E117-4993-AA7D-7032E6D9734C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bplugins:html5_video_player:2.5.19:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E2CAD736-E9E5-431B-9A13-3BCAF4D1AB7C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bplugins:html5_video_player:2.5.20:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "99BF6670-E91E-4DC2-9711-4BE275E8692E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bplugins:html5_video_player:2.5.21:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "247AE4CF-2859-4982-9F71-0757A6CA1585"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bplugins:html5_video_player:2.5.22:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "429BC1F3-B514-452D-B664-DC1FA63BBB66"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bplugins:html5_video_player:2.5.23:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "99711E77-DDD9-4DD3-81BC-6BE9D2D327B7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bplugins:html5_video_player:2.5.24:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4B1BC85A-F1EB-4E6B-BABD-0B740BF48AF6"
 		}
 	]
 }

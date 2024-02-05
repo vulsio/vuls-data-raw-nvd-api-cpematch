@@ -3,8 +3,8 @@
 	"matchCriteriaId": "C22F1304-27E0-4D72-8487-BC5210011831",
 	"versionEndExcluding": "8.2.1",
 	"created": "2024-01-22T18:56:10.807",
-	"lastModified": "2024-01-22T18:56:10.807",
-	"cpeLastModified": "2024-01-22T18:56:10.807",
+	"lastModified": "2024-02-05T17:48:19.303",
+	"cpeLastModified": "2024-02-05T17:48:19.303",
 	"status": "Active",
 	"matches": [
 		{
@@ -442,6 +442,142 @@
 		{
 			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:7.7.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "F92591BE-4564-4FBE-AB7A-05354EBF01DD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:7.7.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "65BEDA23-B645-4061-85CF-3957CF50A6E0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:7.7.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D3894B5B-DCB7-4455-8657-3CA066A2B1B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:7.7.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "04AA47EC-CF32-42B5-BBB2-0629B7DC4EF6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:7.7.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "46408E67-C3A3-4E4C-B481-E2E797286E58"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:7.7.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DBC2C80B-D237-4CEC-A379-492CE1A0AFFA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:7.8.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "856021E2-F0D5-4D48-84F3-DDD0C4220BB1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:7.8.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "75181052-3AB4-4443-B9BF-59402EC3BECC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:7.8.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FAA7CC1C-9E1A-4E5B-8E2D-EF163F30CC8E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:7.8.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5D30DBDA-0213-4EC3-BF64-EE0756A072A1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:7.8.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C0E6586E-2F7D-4B9B-B581-BA94E2E7D053"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:7.8.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2E7A856D-DC05-4575-9E97-22B7F31C779B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:7.8.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FAEC60B8-2DF8-4589-94FB-0CBDAC50DE8C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:7.9.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E11DBA3C-F1C1-44FB-BCA1-53EC6EF51019"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:7.9.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6ADC1ECA-BC6D-4C0D-A5F7-C63320A24DC4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:7.9.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "07FB46EB-F596-4EC0-BD89-B25D816ED137"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:7.10.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "35C4BB9E-23D2-4801-B180-149C1E7DE444"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:7.10.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B462D09B-7D86-4FDF-8D9D-C2136B4391EB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:7.10.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "14AF9C4F-4973-4B34-9E12-788D2C79E5C0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:7.10.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C27EDA1E-AFEB-4BF9-A1E8-0CCF333CF704"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:7.10.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "952EC0E5-B659-48F8-9298-1088BDF0045C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:7.10.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BE0F4A45-B318-4F84-B5F9-DC2A80F7EA84"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:7.10.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "529DA99D-E1F8-4834-BF75-B75BA6E98ECE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:8.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0CF5FA50-EDD4-477B-9E39-FC2C10A1D352"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:8.0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D9EFBE1F-39E3-4745-87EF-1137B8E97271"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:8.0.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "49339149-3415-45F4-8AF4-7C8DB5D8C30C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:8.0.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A821BE45-4F32-4B2E-A535-AFC684931A87"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:8.0.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D0C73701-D83A-4B16-A1A1-BB33C089C519"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:8.0.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9E1D8023-370F-4660-8E24-1C528BF53DA3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:8.0.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A6F45EE1-9581-4C48-A21C-D71AB9D67864"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:8.1.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5304F147-F5CF-498F-977E-3D695FC20D8B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:8.1.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "78C7168A-CB49-4539-BC1F-7524BEE0EB8B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:8.1.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "72A71651-4F52-4C1E-842A-E00C96FF1E40"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:8.1.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1FFF57DD-17FF-4012-8242-8ACD487284EE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:marvinlabs:wp_customer_area:8.1.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CC9F7D34-90A2-4AE0-8ADA-7B57918747AB"
 		}
 	]
 }
