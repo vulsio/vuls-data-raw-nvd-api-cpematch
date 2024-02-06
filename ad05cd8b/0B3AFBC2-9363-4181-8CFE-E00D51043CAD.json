@@ -3,8 +3,8 @@
 	"matchCriteriaId": "0B3AFBC2-9363-4181-8CFE-E00D51043CAD",
 	"versionEndExcluding": "2.2.5",
 	"created": "2024-02-05T18:08:58.933",
-	"lastModified": "2024-02-05T18:08:58.933",
-	"cpeLastModified": "2024-02-05T18:08:58.933",
+	"lastModified": "2024-02-05T18:29:30.163",
+	"cpeLastModified": "2024-02-05T18:29:30.163",
 	"status": "Active",
 	"matches": [
 		{
@@ -110,6 +110,78 @@
 		{
 			"cpeName": "cpe:2.3:a:tablepress:tablepress:2.0:rc1:*:*:*:wordpress:*:*",
 			"cpeNameId": "FE7CA1AC-3E05-48EA-8E42-D4A0BF94D6D9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tablepress:tablepress:2.0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0A44CD89-08A0-4C61-B77E-9B03E7AFAC44"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tablepress:tablepress:2.0.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "457B64D0-B657-48E7-9D06-C6DEB66A3F61"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tablepress:tablepress:2.0.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C4B46332-7AE9-4F24-9898-B3E3B768BF48"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tablepress:tablepress:2.0.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E9FEE63A-2934-41D0-8827-E8EF99F3B18D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tablepress:tablepress:2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2E283EF9-F81E-480B-863E-5AB5BB3E6B34"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tablepress:tablepress:2.1.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "037C2241-9A03-4137-B0A7-635C0A50C755"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tablepress:tablepress:2.1.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A2DF9B98-46D5-44BB-A221-2072F2048A3D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tablepress:tablepress:2.1.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1C8A4457-2991-47B6-A7AC-EFD895141B3D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tablepress:tablepress:2.1.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D6F942A4-1E7D-4ACB-92EE-F22ACEDAE944"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tablepress:tablepress:2.1.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A00DB438-139F-450D-BC4F-145C2A3A3DA3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tablepress:tablepress:2.1.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DD0F5908-8B99-4B98-B21F-0985BA286ABC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tablepress:tablepress:2.1.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "187D7E44-51CA-4FE9-B39A-A91703E543AB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tablepress:tablepress:2.1.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "023B0FE2-5536-423D-AD9C-DA49D7578127"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tablepress:tablepress:2.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3E69F6F6-9569-4997-85E3-04DBDB1AAA31"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tablepress:tablepress:2.2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8A476585-3A22-4E61-BB01-5080B71969B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tablepress:tablepress:2.2.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D054BEDB-637D-4061-9F5D-9098BD7FD3B2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tablepress:tablepress:2.2.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A173BF68-EB36-41A2-BB6B-F845A8C3BB12"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tablepress:tablepress:2.2.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "88455D24-73D8-4353-98E5-A70581F4DDE7"
 		}
 	]
 }

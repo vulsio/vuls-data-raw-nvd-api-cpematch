@@ -1,0 +1,24 @@
+{
+	"criteria": "cpe:2.3:a:cratedb:cratedb:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A4ABD3EE-2E41-4CF6-BC26-F947BB6499E2",
+	"versionStartIncluding": "5.5.0",
+	"versionEndExcluding": "5.5.4",
+	"created": "2024-02-05T18:53:37.097",
+	"lastModified": "2024-02-05T19:11:59.593",
+	"cpeLastModified": "2024-02-05T19:11:59.593",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cratedb:cratedb:5.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "AD30E4F5-0282-4089-9593-C535E1B2A9F2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cratedb:cratedb:5.5.2:*:*:*:*:*:*:*",
+			"cpeNameId": "90C2652B-0CE8-4BE6-A479-EAF098AC1EF6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cratedb:cratedb:5.5.3:*:*:*:*:*:*:*",
+			"cpeNameId": "FCBCA581-8E7C-4183-8BDF-BF0C1C337B37"
+		}
+	]
+}

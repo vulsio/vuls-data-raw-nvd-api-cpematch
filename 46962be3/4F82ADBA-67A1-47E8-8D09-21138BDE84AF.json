@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:ubbcentral:ubb.threads:6.4.1:*:*:*:*:*:*:*",
 	"matchCriteriaId": "4F82ADBA-67A1-47E8-8D09-21138BDE84AF",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
-	"status": "Active"
+	"lastModified": "2024-02-05T18:35:24.973",
+	"cpeLastModified": "2024-02-05T18:35:24.973",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ubbcentral:ubb.threads:6.4.1:*:*:*:*:*:*:*",
+			"cpeNameId": "5FD6B6F4-F4C7-461A-BE15-C60A6E242DF4"
+		}
+	]
 }
