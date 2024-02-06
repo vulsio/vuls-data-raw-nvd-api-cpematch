@@ -4,7 +4,7 @@
 	"versionEndIncluding": "15.8",
 	"created": "2024-02-05T14:36:41.250",
 	"lastModified": "2024-02-05T14:36:41.250",
-	"cpeLastModified": "2024-02-05T14:36:41.250",
+	"cpeLastModified": "2024-02-06T15:25:18.790",
 	"status": "Active",
 	"matches": [
 		{
@@ -150,6 +150,14 @@
 		{
 			"cpeName": "cpe:2.3:a:redhat:shim:15.8:*:*:*:*:*:*:*",
 			"cpeNameId": "BE16205B-1AA4-4939-B11E-6F3D5FC79817"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:shim:15.8:-:*:*:*:*:*:*",
+			"cpeNameId": "0EB1C717-D800-416D-98BE-0AF4D1B2A711"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:shim:15.8:rc1:*:*:*:*:*:*",
+			"cpeNameId": "6669C4A1-B02E-4280-A248-F2EA95F81A86"
 		}
 	]
 }

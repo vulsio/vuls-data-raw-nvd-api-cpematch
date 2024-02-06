@@ -4,8 +4,8 @@
 	"versionStartIncluding": "2023.10.0",
 	"versionEndExcluding": "2023.10.6",
 	"created": "2024-01-13T03:27:44.897",
-	"lastModified": "2024-01-13T03:27:44.897",
-	"cpeLastModified": "2024-01-13T03:27:44.897",
+	"lastModified": "2024-02-06T15:25:18.790",
+	"cpeLastModified": "2024-02-06T15:25:18.790",
 	"status": "Active",
 	"matches": [
 		{
@@ -27,6 +27,10 @@
 		{
 			"cpeName": "cpe:2.3:a:goauthentik:authentik:2023.10.4:*:*:*:*:*:*:*",
 			"cpeNameId": "2E6B1FEE-E3B8-4188-8A68-05B9207EF5BF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:goauthentik:authentik:2023.10.5:*:*:*:*:*:*:*",
+			"cpeNameId": "7065DF77-2330-49AC-8B2C-86EE9BB5FD2E"
 		}
 	]
 }

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "026E19BC-D2BB-4B89-916F-565B498F0C87",
 	"versionEndExcluding": "2023.8.7",
 	"created": "2024-02-05T19:57:39.643",
-	"lastModified": "2024-02-05T19:57:39.643",
-	"cpeLastModified": "2024-02-05T19:57:39.643",
+	"lastModified": "2024-02-06T15:25:18.790",
+	"cpeLastModified": "2024-02-06T15:25:18.790",
 	"status": "Active",
 	"matches": [
 		{
@@ -1286,6 +1286,10 @@
 		{
 			"cpeName": "cpe:2.3:a:goauthentik:authentik:2023.8.5:*:*:*:*:*:*:*",
 			"cpeNameId": "CAED2597-24FB-4E2F-AD51-1FA92A2C4F1D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:goauthentik:authentik:2023.8.6:*:*:*:*:*:*:*",
+			"cpeNameId": "5BA35EE7-6DCD-432B-8D1E-643120C452C1"
 		}
 	]
 }
