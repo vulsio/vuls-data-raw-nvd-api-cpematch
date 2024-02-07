@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:a:armagetronad:armagetron:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E02DEC87-A8AA-4B60-A528-03A54EFD3899",
+	"versionEndIncluding": "0.2.6.0",
+	"created": "2024-02-06T18:59:23.370",
+	"lastModified": "2024-02-06T20:38:19.170",
+	"cpeLastModified": "2024-02-06T20:38:19.170",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:armagetronad:armagetron:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BED8BF47-02E3-49BF-BE88-8D8299EC1831"
+		},
+		{
+			"cpeName": "cpe:2.3:a:armagetronad:armagetron:0.2.6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "408B3C95-D65D-4ABA-B91B-CB269AF69A99"
+		}
+	]
+}

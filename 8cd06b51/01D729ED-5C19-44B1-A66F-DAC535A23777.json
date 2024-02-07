@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:iisprotect:iisprotect:2.1:*:*:*:*:*:*:*",
 	"matchCriteriaId": "01D729ED-5C19-44B1-A66F-DAC535A23777",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
-	"status": "Active"
+	"lastModified": "2024-02-06T20:38:19.170",
+	"cpeLastModified": "2024-02-06T20:38:19.170",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:iisprotect:iisprotect:2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "E6C510CD-FC6A-40E6-A9E4-27C15554CF2E"
+		}
+	]
 }
