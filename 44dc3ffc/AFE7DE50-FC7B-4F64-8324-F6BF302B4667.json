@@ -1,0 +1,16 @@
+{
+	"criteria": "cpe:2.3:a:fortinet:fortisiem:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AFE7DE50-FC7B-4F64-8324-F6BF302B4667",
+	"versionStartIncluding": "7.0.0",
+	"versionEndIncluding": "7.0.2",
+	"created": "2024-02-07T14:33:05.243",
+	"lastModified": "2024-02-07T14:33:05.243",
+	"cpeLastModified": "2024-02-07T14:33:05.243",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortisiem:7.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E85AC8F3-92AE-47C6-A501-70D62EBA8BF9"
+		}
+	]
+}
