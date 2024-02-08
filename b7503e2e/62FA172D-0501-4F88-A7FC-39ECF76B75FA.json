@@ -3,8 +3,8 @@
 	"matchCriteriaId": "62FA172D-0501-4F88-A7FC-39ECF76B75FA",
 	"versionEndExcluding": "1.11.8",
 	"created": "2024-02-07T21:26:43.327",
-	"lastModified": "2024-02-07T21:26:43.327",
-	"cpeLastModified": "2024-02-07T21:26:43.327",
+	"lastModified": "2024-02-08T12:32:05.350",
+	"cpeLastModified": "2024-02-08T12:32:05.350",
 	"status": "Active",
 	"matches": [
 		{
@@ -106,6 +106,54 @@
 		{
 			"cpeName": "cpe:2.3:a:pocoproject:poco:1.9.2:*:*:*:*:*:*:*",
 			"cpeNameId": "EB2C33EC-824D-4617-B185-1C6FC877E9CA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pocoproject:poco:1.9.3:*:*:*:*:*:*:*",
+			"cpeNameId": "367E95F8-C307-444A-9D54-F5E5C66F06E4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pocoproject:poco:1.9.4:*:*:*:*:*:*:*",
+			"cpeNameId": "411D90DA-8817-42EB-8FBC-CAFD8DD055D0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pocoproject:poco:1.10.0:*:*:*:*:*:*:*",
+			"cpeNameId": "7197E67D-1814-46CE-A0E4-D6D520468A69"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pocoproject:poco:1.10.1:*:*:*:*:*:*:*",
+			"cpeNameId": "3DC4D18D-834F-4068-96E1-01B81F0BEC05"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pocoproject:poco:1.11.0:*:*:*:*:*:*:*",
+			"cpeNameId": "749C4D18-B74E-4048-AC3A-8E7503F62500"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pocoproject:poco:1.11.1:*:*:*:*:*:*:*",
+			"cpeNameId": "0723E533-533F-41FB-A785-DA3BB7EF0043"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pocoproject:poco:1.11.2:*:*:*:*:*:*:*",
+			"cpeNameId": "358F26C4-595A-4865-B7DC-366279F9F48A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pocoproject:poco:1.11.3:*:*:*:*:*:*:*",
+			"cpeNameId": "AAF637F0-39FF-46B9-8D72-AF096556248F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pocoproject:poco:1.11.4:*:*:*:*:*:*:*",
+			"cpeNameId": "BE58274B-2548-4039-87F4-3D77B4FFD0D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pocoproject:poco:1.11.5:*:*:*:*:*:*:*",
+			"cpeNameId": "CC739EA6-2ED0-40DF-B690-CBFCCACC730D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pocoproject:poco:1.11.6:*:*:*:*:*:*:*",
+			"cpeNameId": "112D7B26-2EC8-48D8-8336-5C72EA326CB9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pocoproject:poco:1.11.7:*:*:*:*:*:*:*",
+			"cpeNameId": "A23EC138-40E6-4369-B576-646033A46C36"
 		}
 	]
 }

@@ -1,0 +1,16 @@
+{
+	"criteria": "cpe:2.3:a:skype:skype:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "54C11730-8521-465E-AE81-32C54C30EF6F",
+	"versionStartIncluding": "2.5.0.0",
+	"versionEndIncluding": "2.5.0.78",
+	"created": "2024-02-08T15:44:49.593",
+	"lastModified": "2024-02-08T15:44:49.593",
+	"cpeLastModified": "2024-02-08T15:44:49.593",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:skype:skype:2.5.0.72:*:*:*:*:*:*:*",
+			"cpeNameId": "A1DA3F0B-EE8D-4C81-990D-D32C7FBD7226"
+		}
+	]
+}

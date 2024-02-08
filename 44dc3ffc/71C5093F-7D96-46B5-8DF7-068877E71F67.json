@@ -4,8 +4,8 @@
 	"versionStartIncluding": "6.7.0",
 	"versionEndIncluding": "6.7.8",
 	"created": "2024-02-07T14:33:05.243",
-	"lastModified": "2024-02-07T14:33:05.243",
-	"cpeLastModified": "2024-02-07T14:33:05.243",
+	"lastModified": "2024-02-08T15:18:04.890",
+	"cpeLastModified": "2024-02-08T15:18:04.890",
 	"status": "Active",
 	"matches": [
 		{
@@ -35,6 +35,14 @@
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortisiem:6.7.6:*:*:*:*:*:*:*",
 			"cpeNameId": "D7CA8DD0-1177-4A41-A36E-C4F3B8AAB9B6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortisiem:6.7.7:*:*:*:*:*:*:*",
+			"cpeNameId": "95878049-7477-4612-9B90-C6EA70DFCE60"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortisiem:6.7.8:*:*:*:*:*:*:*",
+			"cpeNameId": "D149D018-0B11-46D4-9307-63D4FB63B2D9"
 		}
 	]
 }

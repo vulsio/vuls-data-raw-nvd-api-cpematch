@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2.5.4",
 	"created": "2021-04-20T11:58:54.687",
 	"lastModified": "2021-04-20T11:58:54.687",
-	"cpeLastModified": "2023-10-25T12:57:43.240",
+	"cpeLastModified": "2024-02-08T15:18:04.890",
 	"status": "Active",
 	"matches": [
 		{
@@ -78,6 +78,18 @@
 		{
 			"cpeName": "cpe:2.3:a:openexr:openexr:1.4.0:alpha:*:*:*:*:*:*",
 			"cpeNameId": "5F5B66B4-3B64-4235-A9A9-63F413479160"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openexr:openexr:1.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "84AE1379-ACDE-4CC5-B7E6-CC6ED3F8BAEB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openexr:openexr:1.6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "30D1D7A1-21FB-4D9C-98F8-FB1D3952C758"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openexr:openexr:1.6.1:*:*:*:*:*:*:*",
+			"cpeNameId": "51257193-62E3-49DD-8A12-97ECB053FE31"
 		},
 		{
 			"cpeName": "cpe:2.3:a:openexr:openexr:1.7.0:*:*:*:*:*:*:*",

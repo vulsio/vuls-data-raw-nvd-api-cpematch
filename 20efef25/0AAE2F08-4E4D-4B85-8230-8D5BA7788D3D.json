@@ -3,8 +3,8 @@
 	"matchCriteriaId": "0AAE2F08-4E4D-4B85-8230-8D5BA7788D3D",
 	"versionEndExcluding": "0.12.5",
 	"created": "2024-02-07T18:00:50.403",
-	"lastModified": "2024-02-07T18:00:50.403",
-	"cpeLastModified": "2024-02-07T18:00:50.403",
+	"lastModified": "2024-02-08T12:27:53.643",
+	"cpeLastModified": "2024-02-08T12:27:53.643",
 	"status": "Active",
 	"matches": [
 		{
@@ -78,6 +78,42 @@
 		{
 			"cpeName": "cpe:2.3:a:mobyproject:buildkit:0.11.4:*:*:*:*:*:*:*",
 			"cpeNameId": "3B73C9AF-FB8C-429E-845B-7F37169581F2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mobyproject:buildkit:0.11.5:*:*:*:*:*:*:*",
+			"cpeNameId": "33C8A09A-321A-4A8D-940B-7C8E98E08BC4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mobyproject:buildkit:0.11.6:*:*:*:*:*:*:*",
+			"cpeNameId": "C095E204-E6E9-4F09-ADB0-5952DE7BE7AC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mobyproject:buildkit:0.12.0:-:*:*:*:*:*:*",
+			"cpeNameId": "158EDBB5-C65C-476F-965B-EAFE13C496DC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mobyproject:buildkit:0.12.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "461EB165-F38B-4849-8D4A-9E1DE97984AC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mobyproject:buildkit:0.12.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "7C98C103-9B2E-4455-B330-2799BFF268C6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mobyproject:buildkit:0.12.1:*:*:*:*:*:*:*",
+			"cpeNameId": "57F10773-A2CE-4F7E-884E-0445344FD7F3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mobyproject:buildkit:0.12.2:*:*:*:*:*:*:*",
+			"cpeNameId": "F5B4F844-C92C-405C-86B2-DEE7632EAEE7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mobyproject:buildkit:0.12.3:*:*:*:*:*:*:*",
+			"cpeNameId": "713236C4-8C01-40F4-BC87-D365B638BAA5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mobyproject:buildkit:0.12.4:*:*:*:*:*:*:*",
+			"cpeNameId": "96B4EFDA-F903-4B72-A428-4CA3F9C98E85"
 		}
 	]
 }

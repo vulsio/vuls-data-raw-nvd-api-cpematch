@@ -5,7 +5,7 @@
 	"versionEndExcluding": "3.9.2",
 	"created": "2024-02-05T14:57:38.103",
 	"lastModified": "2024-02-06T15:25:18.790",
-	"cpeLastModified": "2024-02-05T14:57:38.103",
+	"cpeLastModified": "2024-02-08T12:45:04.163",
 	"status": "Active",
 	"matches": [
 		{
@@ -599,6 +599,10 @@
 		{
 			"cpeName": "cpe:2.3:a:aiohttp:aiohttp:3.9.0:rc0:*:*:*:*:*:*",
 			"cpeNameId": "E9EBE7BA-DB1E-49F5-9CE3-6E09E4456272"
+		},
+		{
+			"cpeName": "cpe:2.3:a:aiohttp:aiohttp:3.9.1:*:*:*:*:*:*:*",
+			"cpeNameId": "60A413C6-5440-4D11-9D26-CBBDEE7DC01F"
 		}
 	]
 }

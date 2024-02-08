@@ -3,7 +3,7 @@
 	"matchCriteriaId": "05924C67-F9A0-450E-A5B8-059651DD32E3",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-12-09T04:57:34.540",
+	"cpeLastModified": "2024-02-08T15:18:04.890",
 	"status": "Active",
 	"matches": [
 		{
@@ -21,6 +21,18 @@
 		{
 			"cpeName": "cpe:2.3:o:oracle:solaris:-:*:*:*:*:*:x64:*",
 			"cpeNameId": "6508D90A-2410-44C6-9A28-F2724F68D507"
+		},
+		{
+			"cpeName": "cpe:2.3:o:oracle:solaris:2.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "8DB20AEB-BA56-4B61-B367-4EF46DE4B20C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:oracle:solaris:2.6:*:*:*:*:*:*:*",
+			"cpeNameId": "58EEEB2A-91EF-4191-A4CE-04BCD6211388"
+		},
+		{
+			"cpeName": "cpe:2.3:o:oracle:solaris:7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A6FFD026-23FF-4C4F-AED9-D2A76312AF68"
 		},
 		{
 			"cpeName": "cpe:2.3:o:oracle:solaris:8:*:*:*:*:*:*:*",
