@@ -5,6 +5,12 @@
 	"versionEndExcluding": "7.3.14",
 	"created": "2024-02-07T17:09:58.167",
 	"lastModified": "2024-02-07T17:09:58.167",
-	"cpeLastModified": "2024-02-07T17:09:58.167",
-	"status": "Active"
+	"cpeLastModified": "2024-02-07T21:02:50.350",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:snom:snom_320_firmware:7.3:*:*:*:*:*:*:*",
+			"cpeNameId": "C7E54461-9BB8-41A1-A13E-2C9091B7DF83"
+		}
+	]
 }

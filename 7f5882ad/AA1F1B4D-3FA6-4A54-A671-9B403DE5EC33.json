@@ -3,7 +3,17 @@
 	"matchCriteriaId": "AA1F1B4D-3FA6-4A54-A671-9B403DE5EC33",
 	"versionEndIncluding": "0.3.6",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
-	"status": "Active"
+	"lastModified": "2024-02-07T21:45:19.810",
+	"cpeLastModified": "2024-02-07T21:45:19.810",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:citrusdb:citrusdb:-:*:*:*:*:*:*:*",
+			"cpeNameId": "AC03D65D-28C6-46D3-8A04-FE09BA6CDE08"
+		},
+		{
+			"cpeName": "cpe:2.3:a:citrusdb:citrusdb:0.3.6:*:*:*:*:*:*:*",
+			"cpeNameId": "9E25EF95-1F4B-463F-8DD4-FC2D766DA5A3"
+		}
+	]
 }

@@ -4,6 +4,16 @@
 	"versionEndIncluding": "3.1",
 	"created": "2021-11-09T19:23:28.273",
 	"lastModified": "2021-11-09T19:23:28.273",
-	"cpeLastModified": "2021-11-15T15:27:48.713",
-	"status": "Active"
+	"cpeLastModified": "2024-02-07T19:07:27.047",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:cbs250-8fp-e-2g_firmware:2.5:*:*:*:*:*:*:*",
+			"cpeNameId": "F9E773E4-D400-41DF-9CAF-4DB625668E74"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:cbs250-8fp-e-2g_firmware:2.5.9.54:*:*:*:*:*:*:*",
+			"cpeNameId": "26F53742-4785-4D39-9E40-15FD261A0C53"
+		}
+	]
 }

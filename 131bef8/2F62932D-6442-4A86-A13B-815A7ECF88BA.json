@@ -5,6 +5,12 @@
 	"versionEndExcluding": "6.5.20",
 	"created": "2024-02-07T17:09:58.167",
 	"lastModified": "2024-02-07T17:09:58.167",
-	"cpeLastModified": "2024-02-07T17:09:58.167",
-	"status": "Active"
+	"cpeLastModified": "2024-02-07T21:02:50.350",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:snom:snom_370_firmware:6.5:*:*:*:*:*:*:*",
+			"cpeNameId": "77E5DF3F-A35D-44C1-A649-409EFF1C1328"
+		}
+	]
 }

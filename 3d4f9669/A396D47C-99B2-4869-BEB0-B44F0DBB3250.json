@@ -4,6 +4,16 @@
 	"versionEndIncluding": "3.1",
 	"created": "2021-11-12T14:44:25.740",
 	"lastModified": "2021-11-12T14:44:25.740",
-	"cpeLastModified": "2021-11-15T15:27:48.713",
-	"status": "Active"
+	"cpeLastModified": "2024-02-07T19:07:27.047",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:cbs350-8p-2g_firmware:2.5:*:*:*:*:*:*:*",
+			"cpeNameId": "144ABC36-729F-4976-B377-9798A18C6420"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:cbs350-8p-2g_firmware:2.5.9.54:*:*:*:*:*:*:*",
+			"cpeNameId": "1EB568F4-0AB9-4519-AE88-F5FA83F6F263"
+		}
+	]
 }

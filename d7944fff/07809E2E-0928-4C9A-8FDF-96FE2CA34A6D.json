@@ -5,6 +5,12 @@
 	"versionEndExcluding": "2.5.9.54",
 	"created": "2024-02-02T18:13:16.097",
 	"lastModified": "2024-02-02T18:13:16.097",
-	"cpeLastModified": "2024-02-02T18:13:16.097",
-	"status": "Active"
+	"cpeLastModified": "2024-02-07T19:07:27.047",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:cbs350-12xs_firmware:2.5:*:*:*:*:*:*:*",
+			"cpeNameId": "A9BC5BD3-20AB-486B-9C55-1391D4C1DA63"
+		}
+	]
 }

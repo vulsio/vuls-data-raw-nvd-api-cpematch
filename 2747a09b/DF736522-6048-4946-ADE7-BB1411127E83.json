@@ -5,6 +5,12 @@
 	"versionEndExcluding": "2.5.9.54",
 	"created": "2024-02-02T18:02:45.090",
 	"lastModified": "2024-02-02T18:02:45.090",
-	"cpeLastModified": "2024-02-02T18:02:45.090",
-	"status": "Active"
+	"cpeLastModified": "2024-02-07T19:07:27.047",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:cbs250-16p-2g_firmware:2.5:*:*:*:*:*:*:*",
+			"cpeNameId": "D5192686-372C-4997-A4F3-E8A3A0991A6A"
+		}
+	]
 }

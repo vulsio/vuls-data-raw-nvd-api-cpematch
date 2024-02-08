@@ -4,6 +4,16 @@
 	"versionEndIncluding": "3.1",
 	"created": "2021-11-12T14:44:33.793",
 	"lastModified": "2021-11-12T14:44:33.793",
-	"cpeLastModified": "2021-11-15T15:27:48.713",
-	"status": "Active"
+	"cpeLastModified": "2024-02-07T19:07:27.047",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:cbs350-24t-4g_firmware:2.5:*:*:*:*:*:*:*",
+			"cpeNameId": "B8339A39-4A72-43F9-B28D-E7896E253E59"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:cbs350-24t-4g_firmware:2.5.9.54:*:*:*:*:*:*:*",
+			"cpeNameId": "E2C17105-4C21-4913-AC44-868294FE63AC"
+		}
+	]
 }

@@ -5,6 +5,12 @@
 	"versionEndExcluding": "3.4.0.17",
 	"created": "2024-02-02T15:41:36.547",
 	"lastModified": "2024-02-02T15:41:36.547",
-	"cpeLastModified": "2024-02-02T15:41:36.547",
-	"status": "Active"
+	"cpeLastModified": "2024-02-07T19:07:27.047",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:cbs250-8t-d_firmware:3.4:*:*:*:*:*:*:*",
+			"cpeNameId": "560D9FD0-CC44-4A69-9959-3CFD5CDBFD76"
+		}
+	]
 }

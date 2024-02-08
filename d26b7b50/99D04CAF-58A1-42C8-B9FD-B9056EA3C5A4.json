@@ -5,6 +5,12 @@
 	"versionEndExcluding": "7.1.39",
 	"created": "2024-02-07T17:09:58.167",
 	"lastModified": "2024-02-07T17:09:58.167",
-	"cpeLastModified": "2024-02-07T17:09:58.167",
-	"status": "Active"
+	"cpeLastModified": "2024-02-07T21:02:50.350",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:snom:snom_820_firmware:7.1:*:*:*:*:*:*:*",
+			"cpeNameId": "44ACB9DD-1CCA-4ECB-975D-ED7D6BAC89D4"
+		}
+	]
 }

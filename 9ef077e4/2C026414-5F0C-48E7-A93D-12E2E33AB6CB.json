@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:siemens:simatic_pcs_7:6.1:*:*:*:*:*:*:*",
 	"matchCriteriaId": "2C026414-5F0C-48E7-A93D-12E2E33AB6CB",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
-	"status": "Active"
+	"lastModified": "2024-02-07T21:07:41.580",
+	"cpeLastModified": "2024-02-07T21:07:41.580",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:siemens:simatic_pcs_7:6.1:*:*:*:*:*:*:*",
+			"cpeNameId": "6763CD52-96CF-4524-BA01-C6AD80488812"
+		}
+	]
 }
