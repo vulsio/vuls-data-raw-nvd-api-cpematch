@@ -5,6 +5,12 @@
 	"versionEndExcluding": "3.20231030.2",
 	"created": "2024-01-05T12:12:01.740",
 	"lastModified": "2024-01-05T12:12:01.740",
-	"cpeLastModified": "2024-01-05T12:12:01.740",
-	"status": "Active"
+	"cpeLastModified": "2024-02-09T16:30:11.000",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cloudflare:miniflare:3.20230821.0:*:*:*:*:node.js:*:*",
+			"cpeNameId": "36B794E6-FABD-43F7-9E5D-B240154D74BC"
+		}
+	]
 }
