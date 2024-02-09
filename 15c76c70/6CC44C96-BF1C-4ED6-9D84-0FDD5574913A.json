@@ -1,0 +1,20 @@
+{
+	"criteria": "cpe:2.3:a:hashicorp:vault:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6CC44C96-BF1C-4ED6-9D84-0FDD5574913A",
+	"versionStartIncluding": "1.15.0",
+	"versionEndExcluding": "1.15.2",
+	"created": "2024-02-08T18:38:48.790",
+	"lastModified": "2024-02-08T18:38:48.790",
+	"cpeLastModified": "2024-02-08T18:38:48.790",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:hashicorp:vault:1.15.0:*:*:*:-:*:*:*",
+			"cpeNameId": "414D71DB-E834-4A0E-93DD-A7BE244C4DE7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hashicorp:vault:1.15.0:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "FA7C2677-D14F-4B52-B9E8-E7D99217F58A"
+		}
+	]
+}

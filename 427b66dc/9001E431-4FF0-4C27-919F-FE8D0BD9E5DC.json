@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1294",
 	"created": "2020-03-09T16:41:43.580",
 	"lastModified": "2020-03-09T16:41:43.580",
-	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"cpeLastModified": "2024-02-08T18:45:21.120",
 	"status": "Active",
 	"matches": [
 		{
@@ -22,6 +22,18 @@
 		{
 			"cpeName": "cpe:2.3:a:eset:internet_security:15.0.18.0:*:*:*:*:windows:*:*",
 			"cpeNameId": "1CF66931-B8A4-4D0D-B914-618BE9FAA3DB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eset:internet_security:16.1.14.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E1EC438E-F3A7-4866-957E-972769B1011D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eset:internet_security:16.2.15.0:*:*:*:*:*:*:*",
+			"cpeNameId": "91D94C22-FE3E-4433-9E7F-1BBBB6449C12"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eset:internet_security:17.0.15.0:*:*:*:*:*:*:*",
+			"cpeNameId": "20221E8E-98A9-4663-91AA-3F68E7DB53F7"
 		}
 	]
 }

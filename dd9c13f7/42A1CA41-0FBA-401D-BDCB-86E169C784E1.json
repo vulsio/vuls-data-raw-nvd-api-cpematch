@@ -3,8 +3,8 @@
 	"matchCriteriaId": "42A1CA41-0FBA-401D-BDCB-86E169C784E1",
 	"versionEndExcluding": "2.2.0",
 	"created": "2024-02-08T16:21:02.420",
-	"lastModified": "2024-02-08T16:21:02.420",
-	"cpeLastModified": "2024-02-08T16:21:02.420",
+	"lastModified": "2024-02-08T18:27:24.670",
+	"cpeLastModified": "2024-02-08T18:27:24.670",
 	"status": "Active",
 	"matches": [
 		{
@@ -34,6 +34,10 @@
 		{
 			"cpeName": "cpe:2.3:a:apache:servicecomb:2.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "A5DE6F00-A48F-4F03-8A82-C323817A9DB5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:servicecomb:2.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "4805A6FD-81CC-43DE-85FE-20313E542CC6"
 		}
 	]
 }

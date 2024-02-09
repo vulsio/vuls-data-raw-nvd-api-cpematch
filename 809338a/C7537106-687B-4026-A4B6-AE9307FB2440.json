@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1296",
 	"created": "2020-02-27T13:51:23.040",
 	"lastModified": "2020-02-27T13:51:23.040",
-	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"cpeLastModified": "2024-02-08T18:46:13.933",
 	"status": "Active",
 	"matches": [
 		{
@@ -38,6 +38,18 @@
 		{
 			"cpeName": "cpe:2.3:a:eset:nod32_antivirus:15.0.18.0:*:*:*:*:windows:*:*",
 			"cpeNameId": "A8D440E7-35CC-4E1D-AAAC-F4572D11AC61"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eset:nod32_antivirus:16.1.14.0:*:*:*:*:*:*:*",
+			"cpeNameId": "841A030F-155E-4468-8CCF-7749713FEFC5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eset:nod32_antivirus:16.2.15.0:*:*:*:*:*:*:*",
+			"cpeNameId": "FE7646AA-8369-4662-95FB-B8B7F005660D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eset:nod32_antivirus:17.0.15.0:*:*:*:*:*:*:*",
+			"cpeNameId": "608AA5C4-3417-4858-A878-7E8DAEB39071"
 		},
 		{
 			"cpeName": "cpe:2.3:a:eset:nod32_antivirus:1294:*:*:*:*:*:*:*",
