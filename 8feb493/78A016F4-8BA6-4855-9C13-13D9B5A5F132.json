@@ -3,8 +3,8 @@
 	"matchCriteriaId": "78A016F4-8BA6-4855-9C13-13D9B5A5F132",
 	"versionEndIncluding": "4.6.6",
 	"created": "2024-02-06T14:54:37.810",
-	"lastModified": "2024-02-06T14:54:37.810",
-	"cpeLastModified": "2024-02-06T14:54:37.810",
+	"lastModified": "2024-02-10T03:50:20.040",
+	"cpeLastModified": "2024-02-10T03:50:20.040",
 	"status": "Active",
 	"matches": [
 		{
@@ -346,6 +346,10 @@
 		{
 			"cpeName": "cpe:2.3:a:albo_pretorio_on_line_project:albo_pretorio_on_line:4.6.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "530F23B3-B1F3-47E4-B9E6-D3BCE2BD5F86"
+		},
+		{
+			"cpeName": "cpe:2.3:a:albo_pretorio_on_line_project:albo_pretorio_on_line:4.6.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2190B28B-61E7-4B71-86DF-9E29332FDA9F"
 		}
 	]
 }
