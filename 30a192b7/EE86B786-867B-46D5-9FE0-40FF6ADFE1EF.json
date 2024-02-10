@@ -5,6 +5,16 @@
 	"versionEndIncluding": "2023",
 	"created": "2024-02-09T14:13:10.173",
 	"lastModified": "2024-02-09T14:13:10.173",
-	"cpeLastModified": "2024-02-09T14:13:10.173",
-	"status": "Active"
+	"cpeLastModified": "2024-02-09T21:03:54.237",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:3ds:biovia_materials_studio:2021:*:*:*:*:*:*:*",
+			"cpeNameId": "54911CB3-5996-4708-9BA1-24F8A051A818"
+		},
+		{
+			"cpeName": "cpe:2.3:a:3ds:biovia_materials_studio:2023:*:*:*:*:*:*:*",
+			"cpeNameId": "5820D580-84E1-4121-92A8-4ECA478C92AD"
+		}
+	]
 }

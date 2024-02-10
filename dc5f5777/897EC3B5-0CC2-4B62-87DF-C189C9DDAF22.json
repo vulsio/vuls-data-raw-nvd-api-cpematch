@@ -4,7 +4,7 @@
 	"versionStartIncluding": "2.4.1",
 	"created": "2021-05-12T15:55:26.683",
 	"lastModified": "2021-05-12T15:55:26.683",
-	"cpeLastModified": "2023-10-17T15:31:20.840",
+	"cpeLastModified": "2024-02-09T18:20:04.700",
 	"status": "Active",
 	"matches": [
 		{
@@ -54,6 +54,10 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:magento:2.4.6:p2:*:*:open_source:*:*:*",
 			"cpeNameId": "7998A378-1366-4899-A3AC-F9E77AE5711D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:magento:2.4.6:p3:*:*:open_source:*:*:*",
+			"cpeNameId": "FA8EDDE1-7CBD-400C-9E75-85AD6298EDE4"
 		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:magento:2.4.7:b1:*:*:open_source:*:*:*",

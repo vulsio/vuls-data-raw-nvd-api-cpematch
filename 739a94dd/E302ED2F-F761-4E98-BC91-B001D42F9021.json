@@ -3,8 +3,8 @@
 	"matchCriteriaId": "E302ED2F-F761-4E98-BC91-B001D42F9021",
 	"versionEndIncluding": "4.0.11",
 	"created": "2024-02-09T15:24:58.980",
-	"lastModified": "2024-02-09T15:24:58.980",
-	"cpeLastModified": "2024-02-09T15:24:58.980",
+	"lastModified": "2024-02-09T18:26:25.883",
+	"cpeLastModified": "2024-02-09T18:26:25.883",
 	"status": "Active",
 	"matches": [
 		{
@@ -326,6 +326,66 @@
 		{
 			"cpeName": "cpe:2.3:a:podlove:podlove_podcast_publisher:3.8.6:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "1BFE3966-A773-4F45-BD20-189B040C12EE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:podlove:podlove_podcast_publisher:3.8.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "72030DDD-0A8E-430E-BC18-572FED30F5F6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:podlove:podlove_podcast_publisher:3.8.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6441E3BA-83D8-4F16-9BB7-A4029AE921C5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:podlove:podlove_podcast_publisher:3.8.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "66F8EF3B-F428-477F-B626-D02DE60DC2FD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:podlove:podlove_podcast_publisher:4.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E08BB99D-7763-4C9E-8780-20880FF662BF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:podlove:podlove_podcast_publisher:4.0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8B42CC58-5C12-4CC6-BB5E-5C9974266936"
+		},
+		{
+			"cpeName": "cpe:2.3:a:podlove:podlove_podcast_publisher:4.0.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C06AE442-EAE5-4976-83C6-7AD1537E0F99"
+		},
+		{
+			"cpeName": "cpe:2.3:a:podlove:podlove_podcast_publisher:4.0.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "31E13E24-C665-43E3-95AC-23E989BB02C5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:podlove:podlove_podcast_publisher:4.0.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F59BB6BF-E754-4FD3-9E4C-FC4E8298CC15"
+		},
+		{
+			"cpeName": "cpe:2.3:a:podlove:podlove_podcast_publisher:4.0.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9E19D7BA-1DCB-4B2B-B25E-402A60BDF6B8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:podlove:podlove_podcast_publisher:4.0.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "24CFBC42-8AF0-4052-B458-371BD4015996"
+		},
+		{
+			"cpeName": "cpe:2.3:a:podlove:podlove_podcast_publisher:4.0.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3B0CDAAA-4931-4D83-A378-B7EF859568B9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:podlove:podlove_podcast_publisher:4.0.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F364E5CC-4380-438C-A273-B23F8428BA6B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:podlove:podlove_podcast_publisher:4.0.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0C08F572-64D4-43A6-A564-D96B41CF48A1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:podlove:podlove_podcast_publisher:4.0.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9D30C9E8-6ED3-42F3-A565-5213456805AC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:podlove:podlove_podcast_publisher:4.0.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DFBA5EEB-62B6-423B-84F2-48E6E1BAD0D4"
 		}
 	]
 }
