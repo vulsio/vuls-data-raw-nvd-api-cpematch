@@ -6,27 +6,5 @@
 	"created": "2024-02-08T18:38:48.790",
 	"lastModified": "2024-02-10T03:00:26.410",
 	"cpeLastModified": "2024-02-08T18:38:48.790",
-	"status": "Inactive",
-	"matches": [
-		{
-			"cpeName": "cpe:2.3:a:hashicorp:vault:1.14.0:*:*:*:-:*:*:*",
-			"cpeNameId": "61847107-3EF0-4B07-A15D-BE504ACD4B83"
-		},
-		{
-			"cpeName": "cpe:2.3:a:hashicorp:vault:1.14.0:*:*:*:enterprise:*:*:*",
-			"cpeNameId": "05ADE06C-F40D-448A-A156-6D7C38DE15FB"
-		},
-		{
-			"cpeName": "cpe:2.3:a:hashicorp:vault:1.14.3:*:*:*:*:*:*:*",
-			"cpeNameId": "07CA9D08-AAEB-4FD4-A57D-E23F204AECFE"
-		},
-		{
-			"cpeName": "cpe:2.3:a:hashicorp:vault:1.14.3:*:*:*:enterprise:*:*:*",
-			"cpeNameId": "9A7F997E-5F83-493B-9272-6C79CA828602"
-		},
-		{
-			"cpeName": "cpe:2.3:a:hashicorp:vault:1.14.4:*:*:*:enterprise:*:*:*",
-			"cpeNameId": "78DF74AB-FDF8-46CB-8A88-5147E3541997"
-		}
-	]
+	"status": "Inactive"
 }

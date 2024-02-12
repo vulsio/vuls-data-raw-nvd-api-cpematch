@@ -6,15 +6,5 @@
 	"created": "2024-02-08T18:38:48.790",
 	"lastModified": "2024-02-10T03:00:26.410",
 	"cpeLastModified": "2024-02-08T18:38:48.790",
-	"status": "Inactive",
-	"matches": [
-		{
-			"cpeName": "cpe:2.3:a:hashicorp:vault:1.15.0:*:*:*:-:*:*:*",
-			"cpeNameId": "414D71DB-E834-4A0E-93DD-A7BE244C4DE7"
-		},
-		{
-			"cpeName": "cpe:2.3:a:hashicorp:vault:1.15.0:*:*:*:enterprise:*:*:*",
-			"cpeNameId": "FA7C2677-D14F-4B52-B9E8-E7D99217F58A"
-		}
-	]
+	"status": "Inactive"
 }
