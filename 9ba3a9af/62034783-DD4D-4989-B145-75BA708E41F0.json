@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:a:iobit:itop_vpn:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "62034783-DD4D-4989-B145-75BA708E41F0",
+	"versionEndIncluding": "4.0.0.1",
+	"created": "2024-02-12T14:34:27.377",
+	"lastModified": "2024-02-12T14:34:27.377",
+	"cpeLastModified": "2024-02-12T14:34:27.377",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:iobit:itop_vpn:3.2:*:*:*:*:*:*:*",
+			"cpeNameId": "68A4A1E8-7D3A-46A7-8A47-BF2179B439E2"
+		}
+	]
+}
