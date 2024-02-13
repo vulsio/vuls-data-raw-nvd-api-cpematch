@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:a:ispyconnect:agent_dvr:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "08B8CFD3-ECAE-4BA9-88CD-7F0027A26805",
+	"versionEndExcluding": "5.1.7.0",
+	"created": "2024-02-13T17:11:00.983",
+	"lastModified": "2024-02-13T17:11:00.983",
+	"cpeLastModified": "2024-02-13T17:11:00.983",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ispyconnect:agent_dvr:2.7.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "BC318CF6-EEAE-448F-94DC-4F59BE7540CE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ispyconnect:agent_dvr:2.7.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "CFAE1A5B-BD14-47B2-B70B-8167A38FC2FF"
+		}
+	]
+}
