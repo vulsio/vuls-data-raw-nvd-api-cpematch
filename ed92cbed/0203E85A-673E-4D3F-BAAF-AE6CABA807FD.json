@@ -3,8 +3,8 @@
 	"matchCriteriaId": "0203E85A-673E-4D3F-BAAF-AE6CABA807FD",
 	"versionEndExcluding": "3.2.5",
 	"created": "2024-02-12T17:25:45.927",
-	"lastModified": "2024-02-12T17:25:45.927",
-	"cpeLastModified": "2024-02-12T17:25:45.927",
+	"lastModified": "2024-02-12T20:04:00.283",
+	"cpeLastModified": "2024-02-12T20:04:00.283",
 	"status": "Active",
 	"matches": [
 		{
@@ -1008,8 +1008,16 @@
 			"cpeNameId": "DDEDB781-293F-4CA6-9C20-CEDA7DC86A9D"
 		},
 		{
+			"cpeName": "cpe:2.3:a:phpmyfaq:phpmyfaq:3.1.15:*:*:*:*:*:*:*",
+			"cpeNameId": "1DFDBBFD-51E9-464F-A8D0-0BE5C1066E95"
+		},
+		{
 			"cpeName": "cpe:2.3:a:phpmyfaq:phpmyfaq:3.1.16:*:*:*:*:*:*:*",
 			"cpeNameId": "55501F92-667B-4C92-9687-12CEA25523B2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:phpmyfaq:phpmyfaq:3.1.18:*:*:*:*:*:*:*",
+			"cpeNameId": "A0107353-5072-46A6-9951-DFB6196E2E2E"
 		},
 		{
 			"cpeName": "cpe:2.3:a:phpmyfaq:phpmyfaq:3.2.0:alpha:*:*:*:*:*:*",
@@ -1030,6 +1038,14 @@
 		{
 			"cpeName": "cpe:2.3:a:phpmyfaq:phpmyfaq:3.2.2:*:*:*:*:*:*:*",
 			"cpeNameId": "13AFCCE9-F056-4C26-87FE-2F4C1609EE3B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:phpmyfaq:phpmyfaq:3.2.3:*:*:*:*:*:*:*",
+			"cpeNameId": "97A73EE9-4C86-4016-910B-8224D2F872B8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:phpmyfaq:phpmyfaq:3.2.4:*:*:*:*:*:*:*",
+			"cpeNameId": "DA7E1FA4-83BF-4015-A37E-BE7C36F6CF1B"
 		}
 	]
 }

@@ -4,7 +4,7 @@
 	"versionEndExcluding": "3.2.0",
 	"created": "2023-05-23T13:36:43.727",
 	"lastModified": "2023-06-20T17:01:48.967",
-	"cpeLastModified": "2023-09-28T14:54:17.860",
+	"cpeLastModified": "2024-02-12T20:04:00.283",
 	"status": "Active",
 	"matches": [
 		{
@@ -1008,8 +1008,16 @@
 			"cpeNameId": "DDEDB781-293F-4CA6-9C20-CEDA7DC86A9D"
 		},
 		{
+			"cpeName": "cpe:2.3:a:phpmyfaq:phpmyfaq:3.1.15:*:*:*:*:*:*:*",
+			"cpeNameId": "1DFDBBFD-51E9-464F-A8D0-0BE5C1066E95"
+		},
+		{
 			"cpeName": "cpe:2.3:a:phpmyfaq:phpmyfaq:3.1.16:*:*:*:*:*:*:*",
 			"cpeNameId": "55501F92-667B-4C92-9687-12CEA25523B2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:phpmyfaq:phpmyfaq:3.1.18:*:*:*:*:*:*:*",
+			"cpeNameId": "A0107353-5072-46A6-9951-DFB6196E2E2E"
 		}
 	]
 }

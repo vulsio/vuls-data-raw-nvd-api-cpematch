@@ -5,7 +5,7 @@
 	"versionEndExcluding": "4.4.0.15",
 	"created": "2024-02-09T19:04:33.440",
 	"lastModified": "2024-02-09T19:04:33.440",
-	"cpeLastModified": "2024-02-10T03:38:49.263",
+	"cpeLastModified": "2024-02-12T20:04:00.283",
 	"status": "Active",
 	"matches": [
 		{
@@ -47,6 +47,14 @@
 		{
 			"cpeName": "cpe:2.3:a:qnap:qsync_central:4.4.0.12:*:*:*:*:*:*:*",
 			"cpeNameId": "6C97D293-7B68-4DF2-8B65-ECC46D9C9739"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qnap:qsync_central:4.4.0.13:*:*:*:*:*:*:*",
+			"cpeNameId": "EB33739A-F783-44BE-8CB6-395F98A1760D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qnap:qsync_central:4.4.0.14:*:*:*:*:*:*:*",
+			"cpeNameId": "C0503A2A-917B-479F-B646-0673AEBF59D5"
 		}
 	]
 }

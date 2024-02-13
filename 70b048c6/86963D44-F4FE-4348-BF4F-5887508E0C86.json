@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:a:malwarebytes:binisoft_windows_firewall_control:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "86963D44-F4FE-4348-BF4F-5887508E0C86",
+	"versionEndExcluding": "6.9.9.2",
+	"created": "2024-02-12T18:47:18.700",
+	"lastModified": "2024-02-12T18:47:18.700",
+	"cpeLastModified": "2024-02-12T18:47:18.700",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:malwarebytes:binisoft_windows_firewall_control:6.9.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "9338FAD0-C81C-4448-B485-E6D525A29B52"
+		}
+	]
+}
