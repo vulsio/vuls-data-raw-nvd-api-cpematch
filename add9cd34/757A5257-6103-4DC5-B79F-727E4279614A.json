@@ -4,13 +4,17 @@
 	"versionStartIncluding": "7.4.0",
 	"versionEndExcluding": "7.4.3",
 	"created": "2024-02-13T18:13:20.390",
-	"lastModified": "2024-02-13T18:13:20.390",
-	"cpeLastModified": "2024-02-13T18:13:20.390",
+	"lastModified": "2024-02-14T17:22:43.840",
+	"cpeLastModified": "2024-02-14T17:22:43.840",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:o:fortinet:fortios:7.4.0:*:*:*:*:*:*:*",
 			"cpeNameId": "E8CCA7BC-F75E-42CF-A329-6A2303C7C424"
+		},
+		{
+			"cpeName": "cpe:2.3:o:fortinet:fortios:7.4.2:*:*:*:*:*:*:*",
+			"cpeNameId": "A0506848-46CA-4657-95E6-52A70B9B4065"
 		}
 	]
 }

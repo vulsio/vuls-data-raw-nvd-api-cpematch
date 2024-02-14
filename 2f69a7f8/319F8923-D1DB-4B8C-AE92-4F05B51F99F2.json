@@ -2,6 +2,13 @@
 	"criteria": "cpe:2.3:o:dell:latitude_5411_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "319F8923-D1DB-4B8C-AE92-4F05B51F99F2",
 	"created": "2021-06-29T16:21:50.667",
-	"lastModified": "2023-08-22T15:23:10.500",
-	"status": "Inactive"
+	"lastModified": "2024-02-14T14:45:20.747",
+	"cpeLastModified": "2024-02-14T14:45:20.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_5411_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0E64878C-66D0-4ACB-97AF-8037AAFEB13F"
+		}
+	]
 }

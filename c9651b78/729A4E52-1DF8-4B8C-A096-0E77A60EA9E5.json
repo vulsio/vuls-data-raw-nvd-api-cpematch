@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:dell:latitude_7400_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "729A4E52-1DF8-4B8C-A096-0E77A60EA9E5",
 	"created": "2022-01-28T15:31:38.450",
-	"lastModified": "2023-08-22T15:23:10.500",
-	"cpeLastModified": "2023-08-22T14:42:53.090",
-	"status": "Inactive"
+	"lastModified": "2024-02-14T14:45:20.747",
+	"cpeLastModified": "2024-02-14T14:45:20.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_7400_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4C8F7D36-B3DB-4221-B698-D60A5E4416E1"
+		}
+	]
 }

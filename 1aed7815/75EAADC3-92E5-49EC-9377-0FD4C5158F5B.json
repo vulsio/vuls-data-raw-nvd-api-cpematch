@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:dell:vostro_3710_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "75EAADC3-92E5-49EC-9377-0FD4C5158F5B",
 	"created": "2023-08-22T14:42:53.090",
-	"lastModified": "2023-08-22T16:01:26.703",
-	"cpeLastModified": "2023-08-22T14:42:53.090",
-	"status": "Inactive"
+	"lastModified": "2024-02-14T14:45:20.747",
+	"cpeLastModified": "2024-02-14T14:45:20.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:vostro_3710_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "80954A78-6D06-4FA1-AB84-DA4BAC5A51BC"
+		}
+	]
 }

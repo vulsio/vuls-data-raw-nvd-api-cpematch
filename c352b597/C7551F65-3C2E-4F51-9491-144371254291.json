@@ -4,5 +4,12 @@
 	"versionEndExcluding": "2.1.1",
 	"created": "2021-06-29T17:14:12.080",
 	"lastModified": "2021-06-29T17:14:12.080",
-	"status": "Active"
+	"cpeLastModified": "2024-02-14T17:22:43.840",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:optiplex_3080_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7A92AB03-E7CD-43F5-858B-4914947BF084"
+		}
+	]
 }

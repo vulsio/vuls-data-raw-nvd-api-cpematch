@@ -2,6 +2,13 @@
 	"criteria": "cpe:2.3:o:dell:optiplex_3280_all-in-one_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "AF3336DA-07EC-48A3-83DC-E7897EAF05F8",
 	"created": "2021-06-29T16:22:11.900",
-	"lastModified": "2023-08-22T15:25:47.887",
-	"status": "Inactive"
+	"lastModified": "2024-02-14T14:45:20.747",
+	"cpeLastModified": "2024-02-14T14:45:20.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:optiplex_3280_all-in-one_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6BFEEE90-F247-4D1C-874C-D5EE042D58B3"
+		}
+	]
 }

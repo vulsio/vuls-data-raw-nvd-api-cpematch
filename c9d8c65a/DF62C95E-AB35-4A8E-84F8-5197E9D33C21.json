@@ -4,8 +4,8 @@
 	"versionStartIncluding": "7.2.0",
 	"versionEndExcluding": "7.2.9",
 	"created": "2024-02-13T18:14:22.347",
-	"lastModified": "2024-02-13T18:14:22.347",
-	"cpeLastModified": "2024-02-13T18:14:22.347",
+	"lastModified": "2024-02-14T17:22:43.840",
+	"cpeLastModified": "2024-02-14T17:22:43.840",
 	"status": "Active",
 	"matches": [
 		{
@@ -31,6 +31,10 @@
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiproxy:7.2.5:*:*:*:*:*:*:*",
 			"cpeNameId": "3D8C0D7F-3908-4E9B-88A3-6A2694CC0914"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiproxy:7.2.8:*:*:*:*:*:*:*",
+			"cpeNameId": "DF98EB69-57A9-4F1C-B17B-37BE1DFC54D5"
 		}
 	]
 }

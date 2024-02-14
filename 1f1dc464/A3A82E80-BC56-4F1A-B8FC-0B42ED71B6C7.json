@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:dell:precision_5770_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "A3A82E80-BC56-4F1A-B8FC-0B42ED71B6C7",
 	"created": "2023-03-14T14:28:27.357",
-	"lastModified": "2023-03-14T15:27:48.263",
-	"cpeLastModified": "2023-03-14T14:28:27.357",
-	"status": "Inactive"
+	"lastModified": "2024-02-14T14:45:20.747",
+	"cpeLastModified": "2024-02-14T14:45:20.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_5770_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E93422DF-22AB-4DF6-893D-5F5024305A4A"
+		}
+	]
 }

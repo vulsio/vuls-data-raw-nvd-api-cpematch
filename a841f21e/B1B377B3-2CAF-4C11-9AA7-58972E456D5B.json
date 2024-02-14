@@ -4,6 +4,12 @@
 	"versionEndExcluding": "1.2.1",
 	"created": "2022-02-01T19:29:21.697",
 	"lastModified": "2022-02-01T19:29:21.697",
-	"cpeLastModified": "2022-02-04T14:52:40.430",
-	"status": "Active"
+	"cpeLastModified": "2024-02-14T17:22:43.840",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:optiplex_5090_tower_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "25FD2762-7988-4F9C-B4EE-BAA6DE5A120E"
+		}
+	]
 }

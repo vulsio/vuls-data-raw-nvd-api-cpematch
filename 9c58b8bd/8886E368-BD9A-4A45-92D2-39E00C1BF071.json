@@ -2,6 +2,13 @@
 	"criteria": "cpe:2.3:o:dell:inspiron_5490_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "8886E368-BD9A-4A45-92D2-39E00C1BF071",
 	"created": "2022-01-28T15:29:47.590",
-	"lastModified": "2022-10-13T19:25:11.787",
-	"status": "Inactive"
+	"lastModified": "2024-02-14T14:45:20.747",
+	"cpeLastModified": "2024-02-14T14:45:20.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_5490_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D799E061-3ADF-4547-BBF4-BADB39775A59"
+		}
+	]
 }

@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:dell:latitude_3520_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "81FED0ED-4E17-4A88-AD7F-047E3A284B5E",
 	"created": "2021-06-29T16:21:44.370",
-	"lastModified": "2023-03-14T15:27:48.263",
-	"cpeLastModified": "2023-03-14T14:28:27.357",
-	"status": "Inactive"
+	"lastModified": "2024-02-14T14:45:20.747",
+	"cpeLastModified": "2024-02-14T14:45:20.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_3520_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6773DD29-5C34-4BA6-9B69-0A9E17E023D6"
+		}
+	]
 }

@@ -2,6 +2,13 @@
 	"criteria": "cpe:2.3:o:dell:optiplex_7780_all-in-one_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "5975D1B1-CC10-48FE-9E44-F77352916188",
 	"created": "2021-06-29T16:22:21.320",
-	"lastModified": "2023-08-22T15:54:53.010",
-	"status": "Inactive"
+	"lastModified": "2024-02-14T14:45:20.747",
+	"cpeLastModified": "2024-02-14T14:45:20.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:optiplex_7780_all-in-one_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "424D989E-DEEF-4085-8860-D5671FB0746A"
+		}
+	]
 }

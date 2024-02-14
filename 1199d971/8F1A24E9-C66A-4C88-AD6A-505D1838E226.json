@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:dell:inspiron_7610_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "8F1A24E9-C66A-4C88-AD6A-505D1838E226",
 	"created": "2022-01-28T15:30:24.967",
-	"lastModified": "2023-08-22T14:58:34.047",
-	"cpeLastModified": "2023-08-22T14:42:53.090",
-	"status": "Inactive"
+	"lastModified": "2024-02-14T14:45:20.747",
+	"cpeLastModified": "2024-02-14T14:45:20.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_7610_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "03B18519-93A8-4264-BB65-32D0D45F2AF0"
+		}
+	]
 }

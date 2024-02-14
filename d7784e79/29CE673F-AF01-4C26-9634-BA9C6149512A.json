@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:dell:optiplex_5000_tower:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "29CE673F-AF01-4C26-9634-BA9C6149512A",
 	"created": "2023-08-22T14:42:53.090",
-	"lastModified": "2023-08-22T15:26:43.483",
-	"cpeLastModified": "2023-08-22T14:42:53.090",
-	"status": "Inactive"
+	"lastModified": "2024-02-14T17:22:43.840",
+	"cpeLastModified": "2024-02-14T17:22:43.840",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:dell:optiplex_5000_tower:-:*:*:*:*:*:*:*",
+			"cpeNameId": "036874A8-536D-48E1-B540-A73AE9A69BA4"
+		}
+	]
 }

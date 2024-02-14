@@ -2,6 +2,13 @@
 	"criteria": "cpe:2.3:o:dell:inspiron_5590_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "F5DEA1DC-0D25-4CCC-9391-5B5F9924EE89",
 	"created": "2022-01-28T15:29:59.233",
-	"lastModified": "2022-09-12T19:04:09.220",
-	"status": "Inactive"
+	"lastModified": "2024-02-14T14:45:20.747",
+	"cpeLastModified": "2024-02-14T14:45:20.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_5590_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "27EC7543-F928-42B8-B376-AEE736A66667"
+		}
+	]
 }

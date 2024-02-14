@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:dell:latitude_5531_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "E9884052-AF96-4194-B9DA-5965F00824AF",
 	"created": "2023-03-14T14:28:27.357",
-	"lastModified": "2023-03-14T15:27:48.263",
-	"cpeLastModified": "2023-03-14T14:28:27.357",
-	"status": "Inactive"
+	"lastModified": "2024-02-14T14:45:20.747",
+	"cpeLastModified": "2024-02-14T14:45:20.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_5531_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "38A84F63-3CFC-4741-91AC-0EE08EAD04A1"
+		}
+	]
 }

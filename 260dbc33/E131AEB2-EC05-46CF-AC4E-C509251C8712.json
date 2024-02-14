@@ -2,6 +2,13 @@
 	"criteria": "cpe:2.3:o:dell:latitude_5310_2-in-1_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "E131AEB2-EC05-46CF-AC4E-C509251C8712",
 	"created": "2021-06-29T16:21:46.480",
-	"lastModified": "2023-08-22T15:05:20.127",
-	"status": "Inactive"
+	"lastModified": "2024-02-14T14:45:20.747",
+	"cpeLastModified": "2024-02-14T14:45:20.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_5310_2-in-1_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "87505C73-FFA6-4AAF-8F6B-0CFE9C9D8727"
+		}
+	]
 }

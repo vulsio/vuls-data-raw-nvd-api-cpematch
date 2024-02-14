@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:dell:precision_7750_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "AB1CC890-0712-4B3A-838A-5C805C6C3D4D",
 	"created": "2021-06-29T16:22:38.600",
-	"lastModified": "2023-08-22T15:54:53.010",
-	"cpeLastModified": "2023-08-22T14:42:53.090",
-	"status": "Inactive"
+	"lastModified": "2024-02-14T14:45:20.747",
+	"cpeLastModified": "2024-02-14T14:45:20.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_7750_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2A2F1BED-CF1B-4804-8770-B8C40DCA9E36"
+		}
+	]
 }

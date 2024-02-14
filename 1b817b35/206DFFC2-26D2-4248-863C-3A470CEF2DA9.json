@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:dell:inspiron_14_5410_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "206DFFC2-26D2-4248-863C-3A470CEF2DA9",
 	"created": "2022-01-28T15:28:47.747",
-	"lastModified": "2023-08-22T14:52:01.380",
-	"cpeLastModified": "2023-08-22T14:42:53.090",
-	"status": "Inactive"
+	"lastModified": "2024-02-14T14:45:20.747",
+	"cpeLastModified": "2024-02-14T14:45:20.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_14_5410_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5C38FC68-03E7-4A9F-B6BF-841380A26F7C"
+		}
+	]
 }

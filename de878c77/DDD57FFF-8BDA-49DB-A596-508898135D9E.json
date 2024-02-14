@@ -4,7 +4,7 @@
 	"versionEndIncluding": "1.9.1",
 	"created": "2020-11-13T16:24:42.280",
 	"lastModified": "2020-11-13T16:24:42.280",
-	"cpeLastModified": "2020-11-13T16:55:01.693",
+	"cpeLastModified": "2024-02-14T16:03:15.180",
 	"status": "Active",
 	"matches": [
 		{
@@ -178,6 +178,14 @@
 		{
 			"cpeName": "cpe:2.3:a:omniauth:omniauth:1.2.0:*:*:*:*:ruby:*:*",
 			"cpeNameId": "CFBF6FB6-793B-4DE0-9D98-D0D20D69B988"
+		},
+		{
+			"cpeName": "cpe:2.3:a:omniauth:omniauth:1.2.0:-:*:*:*:ruby:*:*",
+			"cpeNameId": "5D06A3AD-C76A-4AC9-A0A2-E99CF59F31C3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:omniauth:omniauth:1.2.0:rc1:*:*:*:ruby:*:*",
+			"cpeNameId": "BDE7FFF5-2BFB-48E2-8FD9-BA8D2C409B4C"
 		},
 		{
 			"cpeName": "cpe:2.3:a:omniauth:omniauth:1.2.1:*:*:*:*:ruby:*:*",

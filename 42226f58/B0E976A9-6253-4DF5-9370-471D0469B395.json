@@ -3,7 +3,7 @@
 	"matchCriteriaId": "B0E976A9-6253-4DF5-9370-471D0469B395",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2024-01-18T20:08:46.603",
+	"cpeLastModified": "2024-02-14T17:22:43.840",
 	"status": "Active",
 	"matches": [
 		{
@@ -263,6 +263,10 @@
 			"cpeNameId": "6F6C777A-62BC-42EA-9A3C-7F50B582ED8F"
 		},
 		{
+			"cpeName": "cpe:2.3:o:netapp:clustered_data_ontap:9.10.1:-:*:*:*:*:*:*",
+			"cpeNameId": "22EC9EA0-FB88-483A-ACC1-5CAE7E1F748B"
+		},
+		{
 			"cpeName": "cpe:2.3:o:netapp:clustered_data_ontap:9.11.1:-:*:*:*:*:*:*",
 			"cpeNameId": "AEFB555A-41AC-4681-A7BC-84FE8B69327C"
 		},
@@ -275,8 +279,16 @@
 			"cpeNameId": "C0B3B671-19EF-4619-BD13-7E7CC5278F68"
 		},
 		{
+			"cpeName": "cpe:2.3:o:netapp:clustered_data_ontap:9.12.0:-:*:*:*:*:*:*",
+			"cpeNameId": "8F85C81E-F8FB-4CDE-BACB-62B29CB82199"
+		},
+		{
 			"cpeName": "cpe:2.3:o:netapp:clustered_data_ontap:9.12.1:-:*:*:*:*:*:*",
 			"cpeNameId": "BF60EBC1-1D31-4DB1-89F4-A2E8034F9C12"
+		},
+		{
+			"cpeName": "cpe:2.3:o:netapp:clustered_data_ontap:9.13.0:-:*:*:*:*:*:*",
+			"cpeNameId": "5D3E599D-FDF5-4464-B165-7E4BBC3BF5B7"
 		},
 		{
 			"cpeName": "cpe:2.3:o:netapp:clustered_data_ontap:9.13.1:-:*:*:*:*:*:*",

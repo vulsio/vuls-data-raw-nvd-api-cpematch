@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:dell:precision_7770_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "93A8DB96-D09D-4C57-8E51-88F6B3C2E55F",
 	"created": "2023-03-14T14:28:27.357",
-	"lastModified": "2023-03-14T15:27:48.263",
-	"cpeLastModified": "2023-03-14T14:28:27.357",
-	"status": "Inactive"
+	"lastModified": "2024-02-14T14:45:20.747",
+	"cpeLastModified": "2024-02-14T14:45:20.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_7770_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "28BA46D0-FE39-4AFC-B394-2B0CEF2260E6"
+		}
+	]
 }

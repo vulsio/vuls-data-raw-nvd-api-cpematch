@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:dell:vostro_3520_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "169F97CF-410B-4378-8A28-D3F63098A664",
 	"created": "2023-03-14T14:28:27.357",
-	"lastModified": "2023-03-14T15:27:48.263",
-	"cpeLastModified": "2023-03-14T14:28:27.357",
-	"status": "Inactive"
+	"lastModified": "2024-02-14T14:45:20.747",
+	"cpeLastModified": "2024-02-14T14:45:20.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:vostro_3520_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BBD0C480-6336-4F62-8956-C8256623B777"
+		}
+	]
 }

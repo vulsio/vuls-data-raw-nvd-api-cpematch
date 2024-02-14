@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:dell:precision_5470_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "CCB89E2A-9FA0-45CE-BDC3-3A2A55A9260D",
 	"created": "2023-03-14T14:28:27.357",
-	"lastModified": "2023-08-22T15:54:53.010",
-	"cpeLastModified": "2023-08-22T14:42:53.090",
-	"status": "Inactive"
+	"lastModified": "2024-02-14T14:45:20.747",
+	"cpeLastModified": "2024-02-14T14:45:20.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_5470_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "87CC5897-AB44-401A-A2F3-575FFAAA0F9C"
+		}
+	]
 }

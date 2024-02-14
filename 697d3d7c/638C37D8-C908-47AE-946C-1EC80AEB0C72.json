@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:dell:optiplex_3000_small_form_factor_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "638C37D8-C908-47AE-946C-1EC80AEB0C72",
 	"created": "2023-08-22T14:42:53.090",
-	"lastModified": "2023-08-22T15:25:47.887",
-	"cpeLastModified": "2023-08-22T14:42:53.090",
-	"status": "Inactive"
+	"lastModified": "2024-02-14T17:22:43.840",
+	"cpeLastModified": "2024-02-14T17:22:43.840",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:optiplex_3000_small_form_factor_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F0F0679F-AFA9-42C0-B71F-7683D77A40B5"
+		}
+	]
 }

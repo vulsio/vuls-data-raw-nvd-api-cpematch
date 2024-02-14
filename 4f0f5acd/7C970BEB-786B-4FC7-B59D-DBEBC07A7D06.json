@@ -3,7 +3,13 @@
 	"matchCriteriaId": "7C970BEB-786B-4FC7-B59D-DBEBC07A7D06",
 	"versionEndExcluding": "1.12.1",
 	"created": "2023-06-30T16:59:36.917",
-	"lastModified": "2023-06-30T16:59:36.917",
-	"cpeLastModified": "2023-06-30T16:59:36.917",
-	"status": "Active"
+	"lastModified": "2024-02-14T17:22:43.840",
+	"cpeLastModified": "2024-02-14T17:22:43.840",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_16_7620_2-in-1_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5AB93271-8608-4853-98D0-040A552F4F10"
+		}
+	]
 }

@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:dell:optiplex_3000_micro:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "48CE8F60-DF66-4E54-848A-84AC9E995132",
 	"created": "2023-08-22T14:42:53.090",
-	"lastModified": "2023-08-23T02:00:32.920",
-	"cpeLastModified": "2023-08-22T14:42:53.090",
-	"status": "Inactive"
+	"lastModified": "2024-02-14T17:22:43.840",
+	"cpeLastModified": "2024-02-14T17:22:43.840",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:dell:optiplex_3000_micro:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FED52C70-D85A-4A9C-8A00-ADC33E824A15"
+		}
+	]
 }

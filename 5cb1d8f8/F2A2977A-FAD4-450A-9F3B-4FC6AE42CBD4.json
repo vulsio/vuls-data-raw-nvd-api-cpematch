@@ -2,6 +2,13 @@
 	"criteria": "cpe:2.3:o:dell:latitude_9510_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "F2A2977A-FAD4-450A-9F3B-4FC6AE42CBD4",
 	"created": "2021-06-29T16:22:06.620",
-	"lastModified": "2023-08-22T15:25:47.887",
-	"status": "Inactive"
+	"lastModified": "2024-02-14T14:45:20.747",
+	"cpeLastModified": "2024-02-14T14:45:20.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_9510_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "74E08173-5BE8-493E-AAD3-7FE9FF1102C3"
+		}
+	]
 }

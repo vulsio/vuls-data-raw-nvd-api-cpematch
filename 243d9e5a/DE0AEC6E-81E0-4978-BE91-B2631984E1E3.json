@@ -4,6 +4,12 @@
 	"versionEndExcluding": "1.4.3",
 	"created": "2021-09-29T17:53:00.707",
 	"lastModified": "2021-09-29T17:53:00.707",
-	"cpeLastModified": "2021-10-04T14:37:42.017",
-	"status": "Active"
+	"cpeLastModified": "2024-02-14T17:22:43.840",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_3550_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2DCB4D77-028D-434A-9D4C-E2BA36C31EE5"
+		}
+	]
 }

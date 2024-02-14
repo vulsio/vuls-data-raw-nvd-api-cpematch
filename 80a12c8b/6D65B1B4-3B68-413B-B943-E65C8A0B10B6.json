@@ -4,6 +4,12 @@
 	"versionEndExcluding": "1.4.3",
 	"created": "2021-09-29T17:52:42.567",
 	"lastModified": "2021-09-29T17:52:42.567",
-	"cpeLastModified": "2021-10-04T14:37:42.017",
-	"status": "Active"
+	"cpeLastModified": "2024-02-14T17:22:43.840",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_5410_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A47ED2CF-F510-4C27-B06E-B388531301F7"
+		}
+	]
 }

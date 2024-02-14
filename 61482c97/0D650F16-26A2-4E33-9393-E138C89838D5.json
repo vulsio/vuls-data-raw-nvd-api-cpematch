@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:dell:vostro_5310_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "0D650F16-26A2-4E33-9393-E138C89838D5",
 	"created": "2021-06-29T16:22:55.040",
-	"lastModified": "2023-03-14T15:27:48.263",
-	"cpeLastModified": "2023-03-14T14:28:27.357",
-	"status": "Inactive"
+	"lastModified": "2024-02-14T14:45:20.747",
+	"cpeLastModified": "2024-02-14T14:45:20.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:vostro_5310_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DFC57DB9-666B-4D3A-A676-48D469FEF0B6"
+		}
+	]
 }

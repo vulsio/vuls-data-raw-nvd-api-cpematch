@@ -1,0 +1,16 @@
+{
+	"criteria": "cpe:2.3:a:ckeditor:ckeditor:*:*:*:*:lts:*:*:*",
+	"matchCriteriaId": "5070BF32-E186-434A-9640-21D43A3CDA38",
+	"versionStartIncluding": "4.0",
+	"versionEndExcluding": "4.24.0",
+	"created": "2024-02-14T17:11:24.560",
+	"lastModified": "2024-02-14T17:11:24.560",
+	"cpeLastModified": "2024-02-14T17:22:43.840",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ckeditor:ckeditor:4.23.0:*:*:*:lts:*:*:*",
+			"cpeNameId": "CD17AC8B-C279-4247-AEB0-59675D7CD4B0"
+		}
+	]
+}

@@ -5,12 +5,16 @@
 	"versionEndExcluding": "4.4.0.0",
 	"created": "2022-05-02T17:30:13.957",
 	"lastModified": "2022-05-02T17:30:13.957",
-	"cpeLastModified": "2022-05-03T17:34:27.510",
+	"cpeLastModified": "2024-02-14T17:22:43.840",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:dell:emc_appsync:3.9.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "D568F4D1-D4D9-4AB1-BDC1-58322D266C50"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dell:emc_appsync:4.2.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D96563D3-D0FB-4EFF-9355-5AAFFD5BD493"
 		},
 		{
 			"cpeName": "cpe:2.3:a:dell:emc_appsync:4.3.0.0:*:*:*:*:*:*:*",

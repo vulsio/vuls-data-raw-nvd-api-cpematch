@@ -2,6 +2,13 @@
 	"criteria": "cpe:2.3:o:dell:dell_g15_5511_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "A093EBA4-0B6B-4193-AD16-E9A5AA440BD4",
 	"created": "2022-01-28T15:28:27.520",
-	"lastModified": "2022-01-28T15:28:27.520",
-	"status": "Inactive"
+	"lastModified": "2024-02-14T14:45:20.747",
+	"cpeLastModified": "2024-02-14T14:45:20.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:dell_g15_5511_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6696B3ED-2D5A-4A36-B278-2E62134CBF23"
+		}
+	]
 }

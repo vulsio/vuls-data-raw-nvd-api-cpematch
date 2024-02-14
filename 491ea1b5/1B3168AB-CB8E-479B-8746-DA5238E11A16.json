@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:dell:latitude_5430_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "1B3168AB-CB8E-479B-8746-DA5238E11A16",
 	"created": "2023-03-14T14:28:27.357",
-	"lastModified": "2023-08-22T15:23:10.500",
-	"cpeLastModified": "2023-08-22T14:42:53.090",
-	"status": "Inactive"
+	"lastModified": "2024-02-14T14:45:20.747",
+	"cpeLastModified": "2024-02-14T14:45:20.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_5430_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7E27C0B3-41DE-40BF-A755-17FB23B1A94A"
+		}
+	]
 }
