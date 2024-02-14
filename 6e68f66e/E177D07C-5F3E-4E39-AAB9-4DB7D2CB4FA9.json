@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:a:motopress:getwid_-_gutenberg_blocks:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "E177D07C-5F3E-4E39-AAB9-4DB7D2CB4FA9",
+	"versionEndExcluding": "2.0.4",
+	"created": "2024-02-13T19:42:13.730",
+	"lastModified": "2024-02-13T19:42:13.730",
+	"cpeLastModified": "2024-02-13T19:42:13.730",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:motopress:getwid_-_gutenberg_blocks:1.8.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1005301E-0AA7-4447-8836-8067A514B31C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:motopress:getwid_-_gutenberg_blocks:2.0.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "88ABF744-D6B1-414E-84A0-3AE75C46C1DB"
+		}
+	]
+}
