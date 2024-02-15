@@ -3,8 +3,8 @@
 	"matchCriteriaId": "60DCFD42-A326-4A04-8F24-D67AC60097E6",
 	"versionEndExcluding": "11.4.5",
 	"created": "2024-01-12T12:22:22.000",
-	"lastModified": "2024-01-12T12:22:22.000",
-	"cpeLastModified": "2024-01-12T12:22:22.000",
+	"lastModified": "2024-02-14T19:25:12.910",
+	"cpeLastModified": "2024-02-14T19:25:12.910",
 	"status": "Active",
 	"matches": [
 		{
@@ -508,8 +508,156 @@
 			"cpeNameId": "8CD89D04-D4A5-42F7-91CB-BED08A9492B9"
 		},
 		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:8.0.7:*:*:*:*:*:*:*",
+			"cpeNameId": "B6470BE0-3A7B-46E7-91FD-531ECB28FA40"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:9.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "9A39AEFA-2FF1-4473-9639-9C486C9825A1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:9.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "BA6149C0-D5A3-407F-914A-566698ED9486"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:9.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "0011E442-E2F7-4376-9C00-82B8F3BB15EF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:9.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "6A740EA4-F3C5-4C87-ADEE-73BA47B93BF6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:9.0.4:*:*:*:*:*:*:*",
+			"cpeNameId": "2D40E633-8D08-4844-BC38-AD2C30010187"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:9.0.5:*:*:*:*:*:*:*",
+			"cpeNameId": "C8D71E7E-EDD1-4B35-89D6-177CF11CAE12"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:9.0.6:*:*:*:*:*:*:*",
+			"cpeNameId": "B265A040-39DD-4AD8-9066-0325A2969E33"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:9.0.7:*:*:*:*:*:*:*",
+			"cpeNameId": "8A74129D-2040-4484-83FF-B63846592F03"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:10.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "62CEB3C4-D3BA-42E8-A285-F0C220D48366"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:10.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "4AA19F00-6F87-4860-9757-3B5A8F21944F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:10.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "56A7977A-F43C-49D4-B6E0-03CAED413B8D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:10.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "C028382E-959E-4F54-8E06-34FC10A44C84"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:10.0.4:*:*:*:*:*:*:*",
+			"cpeNameId": "4E81E807-7B61-4095-9FDB-259C0BA4B1B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:10.0.5:*:*:*:*:*:*:*",
+			"cpeNameId": "8EFB140D-9583-4873-B2E6-17161DCC139E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:10.0.6:*:*:*:*:*:*:*",
+			"cpeNameId": "3DB3782E-76F1-4498-9000-A7C96C193532"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:10.0.7:*:*:*:*:*:*:*",
+			"cpeNameId": "AAF7C952-8175-495B-9E8B-55B3A339FA53"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:10.0.8:*:*:*:*:*:*:*",
+			"cpeNameId": "BEC4359B-EC43-4134-81A6-5E24844D40C5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:10.0.9:*:*:*:*:*:*:*",
+			"cpeNameId": "B891E89D-4FAA-476F-A8D9-88A16E759C2C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:11.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "91235E19-BF2F-41C2-B71A-CA4C25D91F41"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:11.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "4853482E-7B64-4C28-8D14-CCAE04C58CBE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:11.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "2CE677B9-C222-4009-B8A0-92ACEEE89579"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:11.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "737EB987-864C-4764-906D-4D1DD71939B3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:11.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "BF255F13-7415-4085-A92F-EC54D8E2DBA6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:11.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "2C8C2647-27EA-41E5-A1D3-3C89E9BD49D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:11.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "EEA010EF-2CCC-48B4-8B15-FB21B2993664"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:11.1.3:*:*:*:*:*:*:*",
+			"cpeNameId": "232140C2-B163-4D1F-AF70-E5A45DAA7E44"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:11.1.4:*:*:*:*:*:*:*",
+			"cpeNameId": "F73EF277-3FA1-447B-A22E-D76C1019063C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:11.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "630BE091-788F-46E4-9CD8-682F462FF6D4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:11.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "B9DB7394-9D1B-400D-8574-1D58E22BF192"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:11.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5B057608-A730-4713-A7FD-89B28FF577E6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:11.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "7B457A2F-BFD4-4604-99DD-A9840A86A03D"
+		},
+		{
 			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:11.3.2:*:*:*:*:*:*:*",
 			"cpeNameId": "E6362198-F711-4ABF-B3F7-1F18FBD57D67"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:11.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F36BB032-12AB-4ED3-8467-33A1D028BE52"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:11.4.1:*:*:*:*:*:*:*",
+			"cpeNameId": "11F00C40-404F-4940-8C69-A9737A75771F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:11.4.2:*:*:*:*:*:*:*",
+			"cpeNameId": "C5F60560-DE4D-4ECD-9D27-ED4A58B84E40"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:11.4.3:*:*:*:*:*:*:*",
+			"cpeNameId": "575375BB-0EF1-40B2-B20D-921B3E8FEC00"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dataiku:data_science_studio:11.4.4:*:*:*:*:*:*:*",
+			"cpeNameId": "A8F7FA87-2F70-43F3-8DE5-DD9A36EC41DF"
 		}
 	]
 }
