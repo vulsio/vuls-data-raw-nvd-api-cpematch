@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:a:n-able:n-central:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "724E54CA-1BD8-4E15-840F-BE12B8112336",
+	"versionEndExcluding": "2023.7",
+	"created": "2024-02-15T16:16:30.160",
+	"lastModified": "2024-02-15T16:16:30.160",
+	"cpeLastModified": "2024-02-15T16:16:30.160",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:n-able:n-central:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B478000A-0BD6-49F5-ABA0-B8F06E16CB1B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:n-able:n-central:2023.4:*:*:*:*:*:*:*",
+			"cpeNameId": "110B59CE-CEA8-4A91-A0BC-76AB3092A3CD"
+		}
+	]
+}
