@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:sharp:nec_x841uhd_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "774044DF-DCB5-4785-9B5D-E6D48042FB80",
 	"created": "2024-02-13T20:16:35.890",
-	"lastModified": "2024-02-13T20:16:35.890",
-	"cpeLastModified": "2024-02-13T20:16:35.890",
-	"status": "Active"
+	"lastModified": "2024-02-16T11:59:40.857",
+	"cpeLastModified": "2024-02-16T11:59:40.857",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:sharp:nec_x841uhd_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "39289B33-9ACE-425F-AE59-162734BBDDA7"
+		}
+	]
 }
