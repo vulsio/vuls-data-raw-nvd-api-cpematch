@@ -1,0 +1,54 @@
+{
+	"criteria": "cpe:2.3:a:nonebot:nonebot:2.0.0:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BAFD1CB2-5D5A-4A8C-8439-B566C6D49C6A",
+	"created": "2024-02-15T19:02:57.043",
+	"lastModified": "2024-02-15T20:01:25.090",
+	"cpeLastModified": "2024-02-15T20:01:25.090",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:nonebot:nonebot:2.0.0:-:*:*:*:*:*:*",
+			"cpeNameId": "58228802-DBAB-40DF-A875-E14FC0BB9B6F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nonebot:nonebot:2.0.0:alpha16:*:*:*:*:*:*",
+			"cpeNameId": "2DC1677B-E712-42C4-A8B6-AA52EB439FBC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nonebot:nonebot:2.0.0:beta1:*:*:*:*:*:*",
+			"cpeNameId": "17124359-200F-4437-88ED-45FCFFA2D3BE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nonebot:nonebot:2.0.0:beta2:*:*:*:*:*:*",
+			"cpeNameId": "385C5B7F-A62E-46C7-B0EF-F52D74E9ACC9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nonebot:nonebot:2.0.0:beta3:*:*:*:*:*:*",
+			"cpeNameId": "0429929B-22D4-45D0-B1EE-8B3D50A8ADF9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nonebot:nonebot:2.0.0:beta4:*:*:*:*:*:*",
+			"cpeNameId": "EFADEC09-8097-4672-BEE0-E1830D08D2F2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nonebot:nonebot:2.0.0:beta5:*:*:*:*:*:*",
+			"cpeNameId": "2B18AC9F-CAC7-4AF6-B3B7-E19DF09B45C1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nonebot:nonebot:2.0.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "6890FB89-4359-4B2A-A2DD-DB5DF48A8D71"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nonebot:nonebot:2.0.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "8DC0981D-799C-4E23-A7B9-CF92D32F7380"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nonebot:nonebot:2.0.0:rc3:*:*:*:*:*:*",
+			"cpeNameId": "88CAF25B-7898-4923-9C19-9763E484CAA4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nonebot:nonebot:2.0.0:rc4:*:*:*:*:*:*",
+			"cpeNameId": "60673D3C-CF49-4E32-BBEC-F3936EB35291"
+		}
+	]
+}

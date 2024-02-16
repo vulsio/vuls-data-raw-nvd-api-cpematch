@@ -3,8 +3,8 @@
 	"matchCriteriaId": "66A6F0D1-8EBF-4862-9BAF-DDCB55232FCE",
 	"versionEndExcluding": "1.8.20",
 	"created": "2024-02-13T17:28:44.127",
-	"lastModified": "2024-02-13T17:28:44.127",
-	"cpeLastModified": "2024-02-13T17:28:44.127",
+	"lastModified": "2024-02-15T19:14:26.260",
+	"cpeLastModified": "2024-02-15T19:14:26.260",
 	"status": "Active",
 	"matches": [
 		{
@@ -1426,6 +1426,10 @@
 		{
 			"cpeName": "cpe:2.3:a:10web:photo_gallery:1.8.18:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "5FFBE2E7-42DC-4A59-A29D-20779926921C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:10web:photo_gallery:1.8.19:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3B17EC3E-364C-4D97-B396-5EC9E442DC41"
 		}
 	]
 }

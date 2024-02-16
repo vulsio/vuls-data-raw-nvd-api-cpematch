@@ -3,8 +3,8 @@
 	"matchCriteriaId": "341E87A0-CCF1-40F0-A865-CA0FE3C33E50",
 	"versionEndExcluding": "6.5.2.5",
 	"created": "2024-02-14T14:14:55.087",
-	"lastModified": "2024-02-14T14:14:55.087",
-	"cpeLastModified": "2024-02-14T14:14:55.087",
+	"lastModified": "2024-02-15T19:31:29.797",
+	"cpeLastModified": "2024-02-15T19:31:29.797",
 	"status": "Active",
 	"matches": [
 		{
@@ -2486,6 +2486,34 @@
 		{
 			"cpeName": "cpe:2.3:a:ays-pro:quiz_maker:6.5.1.7:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "35BEEB8E-A98B-4B3F-9439-59AB84F32958"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ays-pro:quiz_maker:6.5.1.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "141C65CE-BB2B-4B79-B2AF-66A22D9EFB86"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ays-pro:quiz_maker:6.5.1.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "995B25CC-E589-426D-B094-2BC937D9E89D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ays-pro:quiz_maker:6.5.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "82C137C5-D2EF-4509-B919-15331671D9A3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ays-pro:quiz_maker:6.5.2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "03A83D68-139F-470F-80D5-8312AD8C1BE8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ays-pro:quiz_maker:6.5.2.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D6B153AC-68E0-41F3-8EAB-89D8A8E9CE32"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ays-pro:quiz_maker:6.5.2.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "41E867F7-291D-4C0A-965B-30C3A292A5AC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ays-pro:quiz_maker:6.5.2.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "70E85D48-2B6A-4772-98FF-3AD18548165A"
 		}
 	]
 }

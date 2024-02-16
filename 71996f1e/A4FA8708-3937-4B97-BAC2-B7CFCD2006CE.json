@@ -1,10 +1,10 @@
 {
-	"criteria": "cpe:2.3:a:3dflipbook:3d_flipbook:*:*:*:*:*:*:*:*",
-	"matchCriteriaId": "099994A5-5471-41C8-9142-958376F677D8",
-	"versionEndIncluding": "1.15.2",
-	"created": "2024-01-16T16:04:35.810",
-	"lastModified": "2024-02-15T19:21:13.817",
-	"cpeLastModified": "2024-02-15T19:21:13.817",
+	"criteria": "cpe:2.3:a:3dflipbook:3d_flipbook:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "A4FA8708-3937-4B97-BAC2-B7CFCD2006CE",
+	"versionEndExcluding": "1.13.3",
+	"created": "2024-02-15T19:19:27.477",
+	"lastModified": "2024-02-15T19:19:27.477",
+	"cpeLastModified": "2024-02-15T19:19:27.477",
 	"status": "Active",
 	"matches": [
 		{
@@ -294,26 +294,6 @@
 		{
 			"cpeName": "cpe:2.3:a:3dflipbook:3d_flipbook:1.13.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "93F44C95-C579-4593-BA41-0CCC75035DCA"
-		},
-		{
-			"cpeName": "cpe:2.3:a:3dflipbook:3d_flipbook:1.13.3:*:*:*:*:wordpress:*:*",
-			"cpeNameId": "9C44E7BE-E6A3-47FF-8C69-8D97F423C8FD"
-		},
-		{
-			"cpeName": "cpe:2.3:a:3dflipbook:3d_flipbook:1.14.0:*:*:*:*:wordpress:*:*",
-			"cpeNameId": "144EE44E-DCEF-4543-B081-CBFDECAADE64"
-		},
-		{
-			"cpeName": "cpe:2.3:a:3dflipbook:3d_flipbook:1.15.0:*:*:*:*:wordpress:*:*",
-			"cpeNameId": "1F92513E-293D-467F-9544-EF381AAFCCC7"
-		},
-		{
-			"cpeName": "cpe:2.3:a:3dflipbook:3d_flipbook:1.15.1:*:*:*:*:wordpress:*:*",
-			"cpeNameId": "88227E42-DD89-4C3B-8C88-E9ED71F7178B"
-		},
-		{
-			"cpeName": "cpe:2.3:a:3dflipbook:3d_flipbook:1.15.2:*:*:*:*:wordpress:*:*",
-			"cpeNameId": "9FEE8E8E-A8DF-4E80-964A-1A68AA183C90"
 		}
 	]
 }

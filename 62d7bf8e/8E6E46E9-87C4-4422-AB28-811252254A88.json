@@ -1,10 +1,11 @@
 {
 	"criteria": "cpe:2.3:a:elastic:apm_server:*:*:*:*:*:*:*:*",
-	"matchCriteriaId": "8F4AF510-6E3A-4560-A4F3-8289EBDE9E06",
-	"versionStartIncluding": "8.0",
-	"created": "2023-11-06T13:13:12.397",
-	"lastModified": "2023-11-06T13:13:12.397",
-	"cpeLastModified": "2024-02-15T19:39:21.393",
+	"matchCriteriaId": "8E6E46E9-87C4-4422-AB28-811252254A88",
+	"versionStartIncluding": "8.0.0",
+	"versionEndIncluding": "8.9.2",
+	"created": "2024-02-15T19:39:22.410",
+	"lastModified": "2024-02-15T19:39:22.410",
+	"cpeLastModified": "2024-02-15T19:39:22.410",
 	"status": "Active",
 	"matches": [
 		{
@@ -158,54 +159,6 @@
 		{
 			"cpeName": "cpe:2.3:a:elastic:apm_server:8.9.2:*:*:*:*:*:*:*",
 			"cpeNameId": "FD75BCF3-4EAD-47F4-BCB1-89BFCC3C056F"
-		},
-		{
-			"cpeName": "cpe:2.3:a:elastic:apm_server:8.10.0:*:*:*:*:*:*:*",
-			"cpeNameId": "18A9CA2D-F262-4A29-B461-60D8BDE67F17"
-		},
-		{
-			"cpeName": "cpe:2.3:a:elastic:apm_server:8.10.1:*:*:*:*:*:*:*",
-			"cpeNameId": "96103681-32FF-4CF0-9EE0-48894C84BB6A"
-		},
-		{
-			"cpeName": "cpe:2.3:a:elastic:apm_server:8.10.2:*:*:*:*:*:*:*",
-			"cpeNameId": "A07E955E-4E4F-418E-AD7F-1ACF5B0AD001"
-		},
-		{
-			"cpeName": "cpe:2.3:a:elastic:apm_server:8.10.3:*:*:*:*:*:*:*",
-			"cpeNameId": "25A67154-A0F6-45A9-B451-F2442D2EE2B0"
-		},
-		{
-			"cpeName": "cpe:2.3:a:elastic:apm_server:8.10.4:*:*:*:*:*:*:*",
-			"cpeNameId": "F8820932-5CCC-4A30-9E02-4CADDD9D3A07"
-		},
-		{
-			"cpeName": "cpe:2.3:a:elastic:apm_server:8.11.0:*:*:*:*:*:*:*",
-			"cpeNameId": "583281BC-3C83-45E3-BDD7-0E401BE02C11"
-		},
-		{
-			"cpeName": "cpe:2.3:a:elastic:apm_server:8.11.1:*:*:*:*:*:*:*",
-			"cpeNameId": "1B98593A-5F50-4F3D-A171-C0F7A26F0985"
-		},
-		{
-			"cpeName": "cpe:2.3:a:elastic:apm_server:8.11.2:*:*:*:*:*:*:*",
-			"cpeNameId": "3D3B201E-6DC3-46E1-865C-9E0E7D955400"
-		},
-		{
-			"cpeName": "cpe:2.3:a:elastic:apm_server:8.11.3:*:*:*:*:*:*:*",
-			"cpeNameId": "3886E18A-080B-4BC4-A4BE-C55203F0B44C"
-		},
-		{
-			"cpeName": "cpe:2.3:a:elastic:apm_server:8.11.4:*:*:*:*:*:*:*",
-			"cpeNameId": "2B226869-83BA-4732-9621-C653ECF88E87"
-		},
-		{
-			"cpeName": "cpe:2.3:a:elastic:apm_server:8.12.0:*:*:*:*:*:*:*",
-			"cpeNameId": "887287FC-3A8E-4F76-8E29-56E513756D97"
-		},
-		{
-			"cpeName": "cpe:2.3:a:elastic:apm_server:8.12.1:*:*:*:*:*:*:*",
-			"cpeNameId": "2308761F-B5A1-4A4F-97B2-66FDA5D23D34"
 		}
 	]
 }

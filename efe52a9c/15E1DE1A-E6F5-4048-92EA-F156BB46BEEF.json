@@ -3,8 +3,8 @@
 	"matchCriteriaId": "15E1DE1A-E6F5-4048-92EA-F156BB46BEEF",
 	"versionEndIncluding": "2.0.22",
 	"created": "2024-02-08T20:10:29.633",
-	"lastModified": "2024-02-08T20:10:29.633",
-	"cpeLastModified": "2024-02-08T20:10:29.633",
+	"lastModified": "2024-02-15T19:24:25.773",
+	"cpeLastModified": "2024-02-15T19:24:25.773",
 	"status": "Active",
 	"matches": [
 		{
@@ -46,6 +46,58 @@
 		{
 			"cpeName": "cpe:2.3:a:cookieinformation:wp-gdpr-compliance:2.0.9:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "765D08B1-6788-44C9-944B-07E4823D1C95"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cookieinformation:wp-gdpr-compliance:2.0.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0CAD7141-A5F6-4331-A2C0-DC2D6B2C5841"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cookieinformation:wp-gdpr-compliance:2.0.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "352D77A5-3E36-49B8-8F01-A7514A780A4D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cookieinformation:wp-gdpr-compliance:2.0.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1B1A3894-A72F-4E69-973A-159A57416C8F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cookieinformation:wp-gdpr-compliance:2.0.13:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5E1A8CD4-22EC-4FA6-9E26-9A630766A8FA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cookieinformation:wp-gdpr-compliance:2.0.14:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2A262CE9-74B2-45F6-B21B-C5229C342902"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cookieinformation:wp-gdpr-compliance:2.0.15:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8E6E04AC-92CF-4929-91FF-BD8FB9281FBB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cookieinformation:wp-gdpr-compliance:2.0.16:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6AF9B4E3-1067-4DE2-BA85-DBA96DF17FA0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cookieinformation:wp-gdpr-compliance:2.0.17:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3AC86B1D-170E-4B87-964F-0DB932288BFD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cookieinformation:wp-gdpr-compliance:2.0.18:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "49AD88A7-5063-434F-8594-23EAFB1C7B05"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cookieinformation:wp-gdpr-compliance:2.0.19:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FE36A070-815C-4296-A2C2-24FDFFC7CD0D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cookieinformation:wp-gdpr-compliance:2.0.20:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0E3128C2-5F0F-43F1-A800-5B08B2DA8DD7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cookieinformation:wp-gdpr-compliance:2.0.21:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "62DB600F-D9DB-43BA-B1B0-90D42673906A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cookieinformation:wp-gdpr-compliance:2.0.22:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1BD96986-1CFD-4410-BAEC-983808FAC9E7"
 		}
 	]
 }
