@@ -4,9 +4,13 @@
 	"versionEndExcluding": "3.0.8",
 	"created": "2022-08-10T13:55:40.587",
 	"lastModified": "2022-08-10T13:55:40.587",
-	"cpeLastModified": "2022-08-10T14:10:25.807",
+	"cpeLastModified": "2024-02-16T15:39:23.073",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:automattic:crowdsignal_dashboard:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3456F170-B3C9-43F2-9E74-C733D687E449"
+		},
 		{
 			"cpeName": "cpe:2.3:a:automattic:crowdsignal_dashboard:0.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "13C10489-ED59-4C42-9FBA-AE67A2C317B4"

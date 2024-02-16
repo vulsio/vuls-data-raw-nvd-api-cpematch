@@ -3,8 +3,8 @@
 	"matchCriteriaId": "9FE06CE0-3CED-4A8E-8B66-3773C15010BC",
 	"versionEndExcluding": "3.8.3",
 	"created": "2024-02-15T15:20:39.550",
-	"lastModified": "2024-02-15T15:20:39.550",
-	"cpeLastModified": "2024-02-15T15:20:39.550",
+	"lastModified": "2024-02-16T15:00:12.727",
+	"cpeLastModified": "2024-02-16T15:00:12.727",
 	"status": "Active",
 	"matches": [
 		{
@@ -444,8 +444,152 @@
 			"cpeNameId": "A89B3338-5B71-47A0-820F-7FE4D4801C59"
 		},
 		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.3.0:-:*:*:*:*:*:*",
+			"cpeNameId": "9C432E59-6BE8-413C-9A62-1806DF78D091"
+		},
+		{
 			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.3.0:milestone1:*:*:*:*:*:*",
 			"cpeNameId": "31D3E1FA-F107-4CA4-B3A1-5994E5056DA3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "0F751A7D-3902-4DD2-9C44-2034BAFBB3AD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.3.2:*:*:*:*:*:*:*",
+			"cpeNameId": "C00FF29E-A196-46C9-A264-A66C391E6D6C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.3.3:*:*:*:*:*:*:*",
+			"cpeNameId": "53730B71-4D7B-459F-B675-2595C8CCE97D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.3.4:*:*:*:*:*:*:*",
+			"cpeNameId": "AAED26CD-6808-4C80-A243-9B3748DE0FED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E147E95C-6CDD-4B9D-81FD-9EFE282E5A95"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.4.1:*:*:*:*:*:*:*",
+			"cpeNameId": "FAA17B56-62B3-4F14-A61F-C68C273701DA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.4.2:*:*:*:*:*:*:*",
+			"cpeNameId": "643A161D-F08F-40F2-BF6A-4E3A05CD7D35"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.4.3:*:*:*:*:*:*:*",
+			"cpeNameId": "B123884C-537A-4B42-9AD7-EC9FDC3402FE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.4.4:*:*:*:*:*:*:*",
+			"cpeNameId": "556529DE-9C80-42C7-8D63-4053D4F0A2A9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "DFB38A6B-D9FA-407C-B98E-68B514E6B1E5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "32078C18-8C06-474A-AE73-136B137BF6D7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.5.2:*:*:*:*:*:*:*",
+			"cpeNameId": "04E126AE-69EB-49E8-AD6A-A984F45EB0CA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.5.3:*:*:*:*:*:*:*",
+			"cpeNameId": "615681E9-8912-41A7-B1EF-16AD7CB62B4B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.5.4:*:*:*:*:*:*:*",
+			"cpeNameId": "57AB5533-282E-455D-ADCE-26BED0250622"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.5.5:*:*:*:*:*:*:*",
+			"cpeNameId": "50324DB5-916B-437C-B8D3-4B98F5E82530"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.5.6:*:*:*:*:*:*:*",
+			"cpeNameId": "8CBE1DB5-6F3B-4951-A5BD-16E4FFD709CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.5.7:*:*:*:*:*:*:*",
+			"cpeNameId": "2A843A53-BCC6-4733-A0E0-B204A010C739"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "6331EC28-FF64-40BC-AD82-EB5E28DACB6C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.6.1:*:*:*:*:*:*:*",
+			"cpeNameId": "ABCFCC6C-20C6-4730-AB9C-775CF3D8FA1A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.6.2:*:*:*:*:*:*:*",
+			"cpeNameId": "DA3CA662-E9E7-4C2F-952F-DF77CF8DBF54"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.6.3:*:*:*:*:*:*:*",
+			"cpeNameId": "15DB31FB-CB55-4CB0-BFFF-BA1FFF4B3783"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.6.4:*:*:*:*:*:*:*",
+			"cpeNameId": "5812038F-93A5-4C76-829E-ED44463774C0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.6.5:*:*:*:*:*:*:*",
+			"cpeNameId": "10316AC0-303B-4896-B363-D59B14ECECA1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.6.6:*:*:*:*:*:*:*",
+			"cpeNameId": "B8F97B70-0A32-4D5D-AF98-9C14FDE3052A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D16ED378-024A-4899-B663-4FF0D7F44A85"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.7.1:*:*:*:*:*:*:*",
+			"cpeNameId": "7439327F-6310-427D-80E7-011E04E8BFB7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.7.2:*:*:*:*:*:*:*",
+			"cpeNameId": "9114DE04-8617-4B09-BAE9-260A1A099152"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.7.3:*:*:*:*:*:*:*",
+			"cpeNameId": "FED186C2-90BC-4D4B-8B38-84AB9B95B4F1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.7.4:*:*:*:*:*:*:*",
+			"cpeNameId": "CA00DDA1-9498-43BC-A865-E85D52F6741A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.7.5:*:*:*:*:*:*:*",
+			"cpeNameId": "0DFE863A-A70E-4168-93B1-FC5A92B02AB7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.7.6:*:*:*:*:*:*:*",
+			"cpeNameId": "462483A7-0EF4-461B-ADC1-BE7CEB24FEF1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.7.7:*:*:*:*:*:*:*",
+			"cpeNameId": "27A15DA1-3EA3-4EAD-9047-0DDCA339422B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.8.0:*:*:*:*:*:*:*",
+			"cpeNameId": "CA7DA841-34E4-4EEB-B3B8-FB35D9A9EBF3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.8.1:*:*:*:*:*:*:*",
+			"cpeNameId": "7B5F3D3E-6889-43B4-98C6-077C49FECB43"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectcomputing:micronaut:3.8.2:*:*:*:*:*:*:*",
+			"cpeNameId": "29D9CC3C-C33B-4644-B4D5-B903D5F57CFC"
 		}
 	]
 }

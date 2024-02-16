@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:4d:webstar:5.2.1:*:*:*:*:*:*:*",
 	"matchCriteriaId": "4F04471C-732F-44EE-AD1B-6305C1DD7DDD",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
-	"status": "Active"
+	"lastModified": "2024-02-16T14:36:17.670",
+	"cpeLastModified": "2024-02-16T14:36:17.670",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:4d:webstar:5.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "58FFA8E6-ECFB-4737-A37C-7A1E55AC480F"
+		}
+	]
 }
