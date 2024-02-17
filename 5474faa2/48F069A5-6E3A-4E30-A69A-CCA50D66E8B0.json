@@ -5,7 +5,7 @@
 	"versionEndIncluding": "r40p0",
 	"created": "2022-12-13T18:00:02.500",
 	"lastModified": "2023-12-14T19:58:33.907",
-	"cpeLastModified": "2023-09-28T16:37:58.717",
+	"cpeLastModified": "2024-02-16T18:13:11.800",
 	"status": "Active",
 	"matches": [
 		{
@@ -15,6 +15,10 @@
 		{
 			"cpeName": "cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r34p0:*:*:*:*:*:*:*",
 			"cpeNameId": "6EB9A45A-EB07-4ED4-B930-635746B95D1B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r35p0:*:*:*:*:*:*:*",
+			"cpeNameId": "75B58E2F-010E-4C86-91C6-D1504CC69F7C"
 		},
 		{
 			"cpeName": "cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r38p1:*:*:*:*:*:*:*",

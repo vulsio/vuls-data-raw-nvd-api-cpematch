@@ -3,10 +3,14 @@
 	"matchCriteriaId": "8231C740-A3C3-4FE6-95D8-020678839942",
 	"versionEndIncluding": "4.34",
 	"created": "2024-01-11T16:16:14.323",
-	"lastModified": "2024-01-11T16:16:14.323",
-	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"lastModified": "2024-02-16T21:13:20.257",
+	"cpeLastModified": "2024-02-16T21:13:20.257",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:billminozzi:anti_hacker:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5256FCB7-F1DB-4611-91B9-755A5642CE06"
+		},
 		{
 			"cpeName": "cpe:2.3:a:billminozzi:anti_hacker:4.34:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "5CFC79CB-4FA6-478C-8B0B-220FE5CBF943"

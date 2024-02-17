@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:tech-banker:contact_bank:2.0.16:*:*:*:*:*:*:*",
 	"matchCriteriaId": "E90D233F-8592-4F03-AA01-EE14AF01C67B",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
-	"status": "Active"
+	"lastModified": "2024-02-16T19:10:54.123",
+	"cpeLastModified": "2024-02-16T19:10:54.123",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:tech-banker:contact_bank:2.0.16:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0B1F1395-57B4-4404-A790-4B5CAE78B377"
+		}
+	]
 }

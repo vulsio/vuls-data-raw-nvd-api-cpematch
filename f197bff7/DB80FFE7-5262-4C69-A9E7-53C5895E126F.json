@@ -3,8 +3,8 @@
 	"matchCriteriaId": "DB80FFE7-5262-4C69-A9E7-53C5895E126F",
 	"versionEndIncluding": "3.6.3",
 	"created": "2024-02-12T17:17:22.507",
-	"lastModified": "2024-02-12T17:17:22.507",
-	"cpeLastModified": "2024-02-12T17:17:22.507",
+	"lastModified": "2024-02-16T21:07:56.397",
+	"cpeLastModified": "2024-02-16T21:07:56.397",
 	"status": "Active",
 	"matches": [
 		{
@@ -142,6 +142,10 @@
 		{
 			"cpeName": "cpe:2.3:a:b3log:symphony:3.6.0:*:*:*:*:*:*:*",
 			"cpeNameId": "F2209D3B-B9AC-4985-8451-13A2679379E7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:b3log:symphony:3.6.3:*:*:*:*:*:*:*",
+			"cpeNameId": "D5E79648-A908-49C4-A68F-B3C812EC7891"
 		}
 	]
 }

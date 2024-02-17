@@ -4,8 +4,8 @@
 	"versionStartIncluding": "2.0.0",
 	"versionEndExcluding": "5.1.11",
 	"created": "2024-02-14T18:06:00.417",
-	"lastModified": "2024-02-14T18:06:00.417",
-	"cpeLastModified": "2024-02-14T18:06:00.417",
+	"lastModified": "2024-02-16T18:44:27.317",
+	"cpeLastModified": "2024-02-16T18:44:27.317",
 	"status": "Active",
 	"matches": [
 		{
@@ -955,6 +955,30 @@
 		{
 			"cpeName": "cpe:2.3:a:graylog:graylog:5.1.4:*:*:*:*:*:*:*",
 			"cpeNameId": "B5228CD9-4623-4902-B14F-94D2AC90D398"
+		},
+		{
+			"cpeName": "cpe:2.3:a:graylog:graylog:5.1.5:*:*:*:*:*:*:*",
+			"cpeNameId": "64CC06F7-5FA6-42DF-90B4-1D2F53F0174A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:graylog:graylog:5.1.6:*:*:*:*:*:*:*",
+			"cpeNameId": "8DCD0329-6279-4672-9517-9F936B92C6A1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:graylog:graylog:5.1.7:*:*:*:*:*:*:*",
+			"cpeNameId": "15638E99-99F6-4950-84C9-F8D04A570A85"
+		},
+		{
+			"cpeName": "cpe:2.3:a:graylog:graylog:5.1.8:*:*:*:*:*:*:*",
+			"cpeNameId": "875E70DD-C1C1-4FFE-B54F-7F8FD5C0CA7B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:graylog:graylog:5.1.9:*:*:*:*:*:*:*",
+			"cpeNameId": "C23868C2-B855-4FA7-8E06-2489354149E9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:graylog:graylog:5.1.10:*:*:*:*:*:*:*",
+			"cpeNameId": "1E98E7DF-67F5-4C45-A7BC-F7A02730D00A"
 		}
 	]
 }

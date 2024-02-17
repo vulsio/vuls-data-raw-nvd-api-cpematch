@@ -4,9 +4,13 @@
 	"versionEndExcluding": "5.1.5",
 	"created": "2023-04-13T15:20:49.503",
 	"lastModified": "2023-05-23T18:04:32.037",
-	"cpeLastModified": "2023-05-23T18:04:32.037",
+	"cpeLastModified": "2024-02-16T18:28:51.340",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:updraftplus:all-in-one_security:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "94810ADE-9CD5-43FF-85D0-638B07F4177A"
+		},
 		{
 			"cpeName": "cpe:2.3:a:updraftplus:all-in-one_security:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "4694C3B7-D6AD-4FD9-998B-5FA789DFE426"

@@ -3,10 +3,14 @@
 	"matchCriteriaId": "E01B5CA9-0531-4FC4-ABB2-B84762320930",
 	"versionEndExcluding": "5.2.6",
 	"created": "2024-02-14T13:33:45.990",
-	"lastModified": "2024-02-14T13:33:45.990",
-	"cpeLastModified": "2024-02-14T13:33:45.990",
+	"lastModified": "2024-02-16T18:28:51.340",
+	"cpeLastModified": "2024-02-16T18:28:51.340",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:updraftplus:all-in-one_security:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "94810ADE-9CD5-43FF-85D0-638B07F4177A"
+		},
 		{
 			"cpeName": "cpe:2.3:a:updraftplus:all-in-one_security:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "4694C3B7-D6AD-4FD9-998B-5FA789DFE426"
@@ -570,6 +574,34 @@
 		{
 			"cpeName": "cpe:2.3:a:updraftplus:all-in-one_security:5.1.7:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "88E11FA5-3D7A-4BE0-862F-DFDB8519E002"
+		},
+		{
+			"cpeName": "cpe:2.3:a:updraftplus:all-in-one_security:5.1.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AED3035C-3C3E-4DB2-A24E-A46AB20D996D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:updraftplus:all-in-one_security:5.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E5A8DDC7-F5FB-451B-BF79-931ED9F2E66F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:updraftplus:all-in-one_security:5.2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A0E6A9E6-1F6C-4423-9DE4-672BC7FB55DE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:updraftplus:all-in-one_security:5.2.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "76BA8850-D1E0-41CB-B926-EBBF04BCBBE5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:updraftplus:all-in-one_security:5.2.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6203BBA0-8196-425E-994C-68EE51419CFD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:updraftplus:all-in-one_security:5.2.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4C33421C-5BA8-41CD-8430-110F186AA0EE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:updraftplus:all-in-one_security:5.2.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "38875B2A-CA7D-4B32-9901-9C0EAEB2D247"
 		}
 	]
 }

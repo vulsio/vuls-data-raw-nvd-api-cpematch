@@ -3,8 +3,8 @@
 	"matchCriteriaId": "8ACE5337-4545-4F4C-8406-2E201A9FA660",
 	"versionEndIncluding": "0.76.1.13",
 	"created": "2024-02-13T19:05:19.137",
-	"lastModified": "2024-02-13T19:05:19.137",
-	"cpeLastModified": "2024-02-13T19:05:19.137",
+	"lastModified": "2024-02-16T20:58:37.030",
+	"cpeLastModified": "2024-02-16T20:58:37.030",
 	"status": "Active",
 	"matches": [
 		{
@@ -302,6 +302,10 @@
 		{
 			"cpeName": "cpe:2.3:a:9bis:kitty:0.74.4.13:*:*:*:*:windows:*:*",
 			"cpeNameId": "9BD0EBA2-88B7-4F05-BA62-6929E1E95880"
+		},
+		{
+			"cpeName": "cpe:2.3:a:9bis:kitty:0.76.1.13:*:*:*:*:windows:*:*",
+			"cpeNameId": "FD12819E-B6FA-413E-833C-D6124E05C928"
 		}
 	]
 }

@@ -5,6 +5,12 @@
 	"versionEndExcluding": "5.0.2",
 	"created": "2024-02-14T14:46:41.723",
 	"lastModified": "2024-02-14T14:46:41.723",
-	"cpeLastModified": "2024-02-14T14:46:41.723",
-	"status": "Active"
+	"cpeLastModified": "2024-02-16T21:06:07.537",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:djangoproject:django:5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B0A7DBDD-44ED-41AF-89A9-F61071AC2537"
+		}
+	]
 }
