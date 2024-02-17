@@ -5,6 +5,12 @@
 	"versionEndExcluding": "1.29.1",
 	"created": "2024-02-14T19:03:20.617",
 	"lastModified": "2024-02-14T19:03:20.617",
-	"cpeLastModified": "2024-02-14T19:03:20.617",
-	"status": "Active"
+	"cpeLastModified": "2024-02-17T15:36:55.100",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:envoyproxy:envoy:1.29.0:*:*:*:*:*:*:*",
+			"cpeNameId": "7912777D-4B59-4FE5-868A-C9A8DC5E52FC"
+		}
+	]
 }
