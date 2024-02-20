@@ -5,6 +5,12 @@
 	"versionEndExcluding": "1.6.7",
 	"created": "2024-02-15T14:28:16.057",
 	"lastModified": "2024-02-15T14:28:16.057",
-	"cpeLastModified": "2024-02-15T14:28:16.057",
-	"status": "Active"
+	"cpeLastModified": "2024-02-20T16:09:46.503",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:hashicorp:nomad:1.6.6:*:*:*:-:*:*:*",
+			"cpeNameId": "B87A3004-B45F-45CD-AF62-EC007FEF07D4"
+		}
+	]
 }

@@ -4,7 +4,7 @@
 	"versionEndIncluding": "7.3",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"cpeLastModified": "2024-02-20T17:49:19.900",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,18 @@
 		{
 			"cpeName": "cpe:2.3:o:suse:suse_linux:1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "BFDB20A2-B420-4DCC-8334-A12F9C87D1CE"
+		},
+		{
+			"cpeName": "cpe:2.3:o:suse:suse_linux:2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "44B39AB4-059F-41E8-BC38-A053D035B37A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:suse:suse_linux:3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "02F9E239-40A4-46FF-A8C2-65A18D1CEEEF"
+		},
+		{
+			"cpeName": "cpe:2.3:o:suse:suse_linux:4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "9191CFEE-1074-4C3E-9C3B-44687BCE0F41"
 		},
 		{
 			"cpeName": "cpe:2.3:o:suse:suse_linux:4.2:*:*:*:*:*:*:*",

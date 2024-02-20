@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:suse:suse_linux:3.0:*:*:*:*:*:*:*",
 	"matchCriteriaId": "1976D15D-9EE6-4A49-B59F-34F0505FD5BC",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
-	"status": "Active"
+	"lastModified": "2024-02-20T17:49:19.900",
+	"cpeLastModified": "2024-02-20T17:49:19.900",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:suse:suse_linux:3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "02F9E239-40A4-46FF-A8C2-65A18D1CEEEF"
+		}
+	]
 }

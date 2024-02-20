@@ -3,7 +3,7 @@
 	"matchCriteriaId": "7818041C-1781-492E-9848-A0FD9942F5E0",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-11-24T17:05:15.883",
+	"cpeLastModified": "2024-02-20T17:05:02.387",
 	"status": "Active",
 	"matches": [
 		{
@@ -601,6 +601,10 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:coldfusion:2018:update16:*:*:*:*:*:*",
 			"cpeNameId": "2D8794F4-9BB8-4EDA-B6ED-69F745853F55"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:coldfusion:2018:update17:*:*:*:*:*:*",
+			"cpeNameId": "CC5F4E49-1169-4C54-AF2F-50E19807D87B"
 		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:coldfusion:2018:update18:*:*:*:*:*:*",
