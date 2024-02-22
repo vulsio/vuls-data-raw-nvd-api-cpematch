@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:clear:clearml:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "AD8EB0BF-75B9-4B0E-9129-0508A2742B27",
 	"created": "2024-02-10T16:47:33.083",
-	"lastModified": "2024-02-10T16:47:33.083",
-	"cpeLastModified": "2024-02-10T16:47:33.083",
-	"status": "Active"
+	"lastModified": "2024-02-21T18:46:50.850",
+	"cpeLastModified": "2024-02-21T18:46:50.850",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:clear:clearml:-:*:*:*:*:*:*:*",
+			"cpeNameId": "491AC5D9-839B-460F-B41C-1FF20E9362F8"
+		}
+	]
 }

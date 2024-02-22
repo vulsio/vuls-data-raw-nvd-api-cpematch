@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:o:microsoft:windows_11_23h2:*:*:*:*:*:*:arm64:*",
+	"matchCriteriaId": "0737EA1C-0484-4877-91ED-5743B5AFEA1A",
+	"versionEndExcluding": "10.0.22621.3155",
+	"created": "2024-02-21T19:33:54.657",
+	"lastModified": "2024-02-21T19:33:54.657",
+	"cpeLastModified": "2024-02-21T19:33:54.657",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_11_23h2:-:*:*:*:*:*:arm64:*",
+			"cpeNameId": "B67A6D11-2989-48D0-956E-23CC8658DA2A"
+		}
+	]
+}
