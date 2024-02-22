@@ -3,8 +3,8 @@
 	"matchCriteriaId": "9AE1F758-E210-415A-9834-97D4F3721348",
 	"versionEndExcluding": "3.23.0",
 	"created": "2024-02-08T15:49:38.727",
-	"lastModified": "2024-02-08T15:49:38.727",
-	"cpeLastModified": "2024-02-08T15:49:38.727",
+	"lastModified": "2024-02-22T12:40:14.107",
+	"cpeLastModified": "2024-02-22T12:40:14.107",
 	"status": "Active",
 	"matches": [
 		{
@@ -138,6 +138,22 @@
 		{
 			"cpeName": "cpe:2.3:a:opencryptoki_project:opencryptoki:3.18.0:*:*:*:*:*:*:*",
 			"cpeNameId": "83D9B86C-65A7-4A47-8489-19751FE92CAF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:opencryptoki_project:opencryptoki:3.19.0:*:*:*:*:*:*:*",
+			"cpeNameId": "DA31680E-C903-4AEC-93A4-14A390C880E6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:opencryptoki_project:opencryptoki:3.20.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5CBD837E-509F-4F7C-9EB6-443F18EA0079"
+		},
+		{
+			"cpeName": "cpe:2.3:a:opencryptoki_project:opencryptoki:3.21.0:*:*:*:*:*:*:*",
+			"cpeNameId": "772551BB-4AD4-4544-9150-F44B0F49590B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:opencryptoki_project:opencryptoki:3.22.0:*:*:*:*:*:*:*",
+			"cpeNameId": "28AC29C9-C8B9-4D43-808F-0A9A65F72BD3"
 		}
 	]
 }

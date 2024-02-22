@@ -3,8 +3,8 @@
 	"matchCriteriaId": "2A09C2A9-4E46-4B49-AC57-DEFD7E693093",
 	"versionEndExcluding": "7.23",
 	"created": "2024-02-09T15:50:52.293",
-	"lastModified": "2024-02-09T15:50:52.293",
-	"cpeLastModified": "2024-02-09T15:50:52.293",
+	"lastModified": "2024-02-22T12:38:00.867",
+	"cpeLastModified": "2024-02-22T12:38:00.867",
 	"status": "Active",
 	"matches": [
 		{
@@ -494,6 +494,34 @@
 		{
 			"cpeName": "cpe:2.3:a:objectplanet:opinio:7.15:*:*:*:*:*:*:*",
 			"cpeNameId": "06D403AC-4A36-45B9-8208-710573BB5118"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectplanet:opinio:7.16:*:*:*:*:*:*:*",
+			"cpeNameId": "EBA20457-573E-4101-BEB8-BA74560B9704"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectplanet:opinio:7.17:*:*:*:*:*:*:*",
+			"cpeNameId": "4C776AE5-50C8-49B0-BFE8-93835341B0B9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectplanet:opinio:7.18:*:*:*:*:*:*:*",
+			"cpeNameId": "51008D16-CA82-41BA-9382-8B36C66E9431"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectplanet:opinio:7.19:*:*:*:*:*:*:*",
+			"cpeNameId": "25A2F5F2-96F1-4655-B9A0-869211B681CD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectplanet:opinio:7.20:*:*:*:*:*:*:*",
+			"cpeNameId": "8859EEED-8419-4E93-A52F-30763FF4B7C2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectplanet:opinio:7.21:*:*:*:*:*:*:*",
+			"cpeNameId": "17A04758-8991-459C-AC05-718E5E4B51C2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:objectplanet:opinio:7.22:*:*:*:*:*:*:*",
+			"cpeNameId": "D9CB4692-E720-4DFB-B88D-C35017E39D53"
 		}
 	]
 }

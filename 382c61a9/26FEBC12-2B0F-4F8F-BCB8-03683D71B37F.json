@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:a:connectwise:screenconnect:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "26FEBC12-2B0F-4F8F-BCB8-03683D71B37F",
+	"versionEndExcluding": "23.9.8",
+	"created": "2024-02-22T14:11:04.637",
+	"lastModified": "2024-02-22T14:11:04.637",
+	"cpeLastModified": "2024-02-22T14:11:04.637",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:connectwise:screenconnect:23.8.4:*:*:*:*:*:*:*",
+			"cpeNameId": "9DB1C321-08AA-442B-9DD1-300A2F671062"
+		},
+		{
+			"cpeName": "cpe:2.3:a:connectwise:screenconnect:23.8.5:*:*:*:*:*:*:*",
+			"cpeNameId": "D79A424B-C15C-468E-8D74-8770F2BEC6A4"
+		}
+	]
+}
