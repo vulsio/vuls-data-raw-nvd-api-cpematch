@@ -1,0 +1,32 @@
+{
+	"criteria": "cpe:2.3:a:esri:arcgis_server:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "ACBAC314-0835-45D8-AB97-40355497CA41",
+	"versionStartIncluding": "10.8.1",
+	"versionEndExcluding": "11.1",
+	"created": "2024-02-23T17:37:07.433",
+	"lastModified": "2024-02-23T17:37:07.433",
+	"cpeLastModified": "2024-02-23T17:37:07.433",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:esri:arcgis_server:10.8.1:*:*:*:*:*:*:*",
+			"cpeNameId": "46481D96-53C4-4D2B-9329-8CC3430C309E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:esri:arcgis_server:10.8.1:*:*:*:*:*:x64:*",
+			"cpeNameId": "47663B21-3B38-4B3E-ADBC-63761AC376BC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:esri:arcgis_server:10.9.0:*:*:*:*:*:*:*",
+			"cpeNameId": "3D0D76DA-05FE-4478-91F1-55CFDF3022EF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:esri:arcgis_server:10.9.0:*:*:*:*:*:x64:*",
+			"cpeNameId": "80DEB2A4-CD87-4CD6-993F-C292DB1AA1C7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:esri:arcgis_server:10.9.1:*:*:*:*:*:x64:*",
+			"cpeNameId": "84834161-C2B1-4197-B399-8660ED89BBFC"
+		}
+	]
+}
