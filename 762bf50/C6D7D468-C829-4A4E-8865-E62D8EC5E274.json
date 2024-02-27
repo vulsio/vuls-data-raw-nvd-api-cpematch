@@ -3,7 +3,7 @@
 	"matchCriteriaId": "C6D7D468-C829-4A4E-8865-E62D8EC5E274",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-06-20T16:23:28.610",
+	"cpeLastModified": "2024-02-27T15:15:13.543",
 	"status": "Active",
 	"matches": [
 		{
@@ -1089,6 +1089,34 @@
 		{
 			"cpeName": "cpe:2.3:a:openbsd:openssh:9.3:p1:*:*:*:*:*:*",
 			"cpeNameId": "10620E95-52DF-4A04-9FD6-3B526D0F793D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openbsd:openssh:9.3:p2:*:*:*:*:*:*",
+			"cpeNameId": "8A4ED164-C64C-4EBC-9892-D734A7D8E17C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openbsd:openssh:9.4:-:*:*:*:*:*:*",
+			"cpeNameId": "61FEFBB0-EC09-40AB-BD1F-56117C555F41"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openbsd:openssh:9.4:p1:*:*:*:*:*:*",
+			"cpeNameId": "FB373DD6-56F5-4DC6-B3E1-89422E90EE71"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openbsd:openssh:9.5:-:*:*:*:*:*:*",
+			"cpeNameId": "0D7DCD34-0FC3-4CDA-8CFB-4C293D8091D4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openbsd:openssh:9.5:p1:*:*:*:*:*:*",
+			"cpeNameId": "40C69390-24E6-4E4F-9F90-E6971C9A56F9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openbsd:openssh:9.6:-:*:*:*:*:*:*",
+			"cpeNameId": "DE876FD6-4D26-463F-886E-6A53DE98835B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openbsd:openssh:9.6:p1:*:*:*:*:*:*",
+			"cpeNameId": "64848251-5FCD-476A-B2AB-744B23F6243F"
 		}
 	]
 }

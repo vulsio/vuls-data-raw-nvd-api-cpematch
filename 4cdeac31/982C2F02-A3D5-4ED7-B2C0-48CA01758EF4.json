@@ -3,7 +3,7 @@
 	"matchCriteriaId": "982C2F02-A3D5-4ED7-B2C0-48CA01758EF4",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2020-02-21T17:32:52.040",
+	"cpeLastModified": "2024-02-27T12:55:41.607",
 	"status": "Active",
 	"matches": [
 		{
@@ -249,6 +249,18 @@
 		{
 			"cpeName": "cpe:2.3:a:gnu:coreutils:8.31:*:*:*:*:*:*:*",
 			"cpeNameId": "0F78B428-FE6D-4680-99FC-70DC500563F7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gnu:coreutils:9.2:*:*:*:*:*:*:*",
+			"cpeNameId": "A67B955B-3B41-4091-A113-CF8B413D3B8A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gnu:coreutils:9.3:*:*:*:*:*:*:*",
+			"cpeNameId": "224CB003-9902-49F3-B095-6375D96FA1AD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gnu:coreutils:9.4:*:*:*:*:*:*:*",
+			"cpeNameId": "85B95BF8-3BC9-47BA-9D19-415BD1B000B1"
 		}
 	]
 }
