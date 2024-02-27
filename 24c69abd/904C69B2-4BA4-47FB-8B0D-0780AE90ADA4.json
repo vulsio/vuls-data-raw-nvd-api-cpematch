@@ -3,8 +3,8 @@
 	"matchCriteriaId": "904C69B2-4BA4-47FB-8B0D-0780AE90ADA4",
 	"versionEndIncluding": "3.0.25",
 	"created": "2023-01-24T17:10:41.793",
-	"lastModified": "2023-01-24T17:10:41.793",
-	"cpeLastModified": "2023-01-24T17:10:41.793",
+	"lastModified": "2024-02-26T18:49:42.257",
+	"cpeLastModified": "2024-02-26T18:49:42.257",
 	"status": "Active",
 	"matches": [
 		{
@@ -378,6 +378,26 @@
 		{
 			"cpeName": "cpe:2.3:a:freeradius:freeradius:3.0.20:*:*:*:*:*:*:*",
 			"cpeNameId": "5D4D36EB-6358-4CC7-AA67-150D67758C11"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeradius:freeradius:3.0.21:*:*:*:*:*:*:*",
+			"cpeNameId": "B6F9C8B0-AD7D-4B09-9F90-7614120ED737"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeradius:freeradius:3.0.22:*:*:*:*:*:*:*",
+			"cpeNameId": "402D8F51-92D7-46E3-A821-9335267069D0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeradius:freeradius:3.0.23:*:*:*:*:*:*:*",
+			"cpeNameId": "7C486129-D6D0-4C2A-8A4C-613BFB13D52B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeradius:freeradius:3.0.24:*:*:*:*:*:*:*",
+			"cpeNameId": "6C6EC0F6-F9BC-4887-B214-DF32B68078C8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeradius:freeradius:3.0.25:*:*:*:*:*:*:*",
+			"cpeNameId": "33CBEB9B-2934-4434-946F-19B71D85B2C8"
 		}
 	]
 }

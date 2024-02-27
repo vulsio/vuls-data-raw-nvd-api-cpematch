@@ -3,7 +3,7 @@
 	"matchCriteriaId": "45C6E852-B6B5-4598-84B0-8D55932928F8",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2020-03-24T15:56:41.633",
+	"cpeLastModified": "2024-02-26T18:49:42.257",
 	"status": "Active",
 	"matches": [
 		{
@@ -377,6 +377,46 @@
 		{
 			"cpeName": "cpe:2.3:a:freeradius:freeradius:3.0.20:*:*:*:*:*:*:*",
 			"cpeNameId": "5D4D36EB-6358-4CC7-AA67-150D67758C11"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeradius:freeradius:3.0.21:*:*:*:*:*:*:*",
+			"cpeNameId": "B6F9C8B0-AD7D-4B09-9F90-7614120ED737"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeradius:freeradius:3.0.22:*:*:*:*:*:*:*",
+			"cpeNameId": "402D8F51-92D7-46E3-A821-9335267069D0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeradius:freeradius:3.0.23:*:*:*:*:*:*:*",
+			"cpeNameId": "7C486129-D6D0-4C2A-8A4C-613BFB13D52B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeradius:freeradius:3.0.24:*:*:*:*:*:*:*",
+			"cpeNameId": "6C6EC0F6-F9BC-4887-B214-DF32B68078C8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeradius:freeradius:3.0.25:*:*:*:*:*:*:*",
+			"cpeNameId": "33CBEB9B-2934-4434-946F-19B71D85B2C8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeradius:freeradius:3.0.26:*:*:*:*:*:*:*",
+			"cpeNameId": "88522B40-8546-4502-B3EC-9F78F48A5FD5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeradius:freeradius:3.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "14351F8D-485B-4D46-A0F2-A925839BA256"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeradius:freeradius:3.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "992D97A2-0148-4D8D-83EC-F6C9478CF227"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeradius:freeradius:3.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "70616F12-306A-470F-A7D4-C2E6621B664D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeradius:freeradius:3.2.3:*:*:*:*:*:*:*",
+			"cpeNameId": "AC52CBE4-CBCC-4DE3-8114-8A1D08B44C5F"
 		}
 	]
 }

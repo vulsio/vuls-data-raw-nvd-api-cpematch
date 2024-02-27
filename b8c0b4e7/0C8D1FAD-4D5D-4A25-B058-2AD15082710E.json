@@ -1,0 +1,20 @@
+{
+	"criteria": "cpe:2.3:o:linux:linux_kernel:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0C8D1FAD-4D5D-4A25-B058-2AD15082710E",
+	"versionStartIncluding": "6.7.0",
+	"versionEndExcluding": "6.7.6",
+	"created": "2024-02-26T20:31:47.270",
+	"lastModified": "2024-02-26T20:31:47.270",
+	"cpeLastModified": "2024-02-26T20:31:47.270",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:6.7.1:*:*:*:*:*:*:*",
+			"cpeNameId": "79D7ED41-5643-4D99-844C-9B043F32C448"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:6.7.2:*:*:*:*:*:*:*",
+			"cpeNameId": "C1ED5E3D-9AAE-49B9-AD5C-F67E5C2DED13"
+		}
+	]
+}
