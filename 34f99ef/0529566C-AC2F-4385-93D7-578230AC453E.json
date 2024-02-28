@@ -1,0 +1,16 @@
+{
+	"criteria": "cpe:2.3:a:github:enterprise_server:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0529566C-AC2F-4385-93D7-578230AC453E",
+	"versionStartIncluding": "3.11.0",
+	"versionEndExcluding": "3.11.5",
+	"created": "2024-02-28T17:42:23.607",
+	"lastModified": "2024-02-28T17:42:23.607",
+	"cpeLastModified": "2024-02-28T17:42:23.607",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.11.0:*:*:*:*:*:*:*",
+			"cpeNameId": "320616AE-78FA-4EF0-A974-35DD8BC7FB78"
+		}
+	]
+}

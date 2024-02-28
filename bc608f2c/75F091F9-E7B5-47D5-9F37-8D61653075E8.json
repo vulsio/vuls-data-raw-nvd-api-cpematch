@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:tecno-mobile:camon_x_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "75F091F9-E7B5-47D5-9F37-8D61653075E8",
 	"created": "2024-01-05T18:42:33.450",
-	"lastModified": "2024-01-05T18:42:33.450",
-	"cpeLastModified": "2024-01-05T18:42:33.450",
-	"status": "Active"
+	"lastModified": "2024-02-28T14:32:07.867",
+	"cpeLastModified": "2024-02-28T14:32:07.867",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:tecno-mobile:camon_x_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "ACF56835-34BD-4464-8FBB-7BE6B5AFD4D5"
+		}
+	]
 }

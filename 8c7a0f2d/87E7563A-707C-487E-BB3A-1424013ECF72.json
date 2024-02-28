@@ -4,7 +4,7 @@
 	"versionEndExcluding": "21.03",
 	"created": "2021-04-16T19:01:43.993",
 	"lastModified": "2021-04-16T19:01:43.993",
-	"cpeLastModified": "2022-11-28T18:24:04.977",
+	"cpeLastModified": "2024-02-28T15:48:38.480",
 	"status": "Active",
 	"matches": [
 		{
@@ -122,6 +122,14 @@
 		{
 			"cpeName": "cpe:2.3:o:windriver:vxworks:6.9.4.12:rolling_cumulative_patch_layer6:*:*:*:*:*:*",
 			"cpeNameId": "7FF434AA-4DBA-4F96-B2A5-FDA8B029C47B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:windriver:vxworks:6.9.4.12:rolling_cumulative_patch_layer7:*:*:*:*:*:*",
+			"cpeNameId": "DDB720CE-EF63-49CE-8415-7CD04D43AAED"
+		},
+		{
+			"cpeName": "cpe:2.3:o:windriver:vxworks:6.9.4.12:rolling_cumulative_patch_layer8:*:*:*:*:*:*",
+			"cpeNameId": "6C9A40E7-003C-4555-B539-2B0CCC7A7EED"
 		},
 		{
 			"cpeName": "cpe:2.3:o:windriver:vxworks:7:*:*:*:*:*:*:*",
