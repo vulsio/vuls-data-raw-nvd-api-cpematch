@@ -2,8 +2,8 @@
 	"criteria": "cpe:2.3:a:ivanti:connect_secure:9.0:*:*:*:*:*:*:*",
 	"matchCriteriaId": "BEAA1F3F-FC78-43C1-814A-19E94AC4A844",
 	"created": "2024-01-12T20:26:52.347",
-	"lastModified": "2024-01-13T18:36:48.050",
-	"cpeLastModified": "2024-01-13T18:36:48.050",
+	"lastModified": "2024-02-27T21:04:17.560",
+	"cpeLastModified": "2024-02-27T21:12:46.493",
 	"status": "Active",
 	"matches": [
 		{
@@ -15,8 +15,16 @@
 			"cpeNameId": "495D07CC-2C68-4FD3-87DE-AE78CE7A1E38"
 		},
 		{
+			"cpeName": "cpe:2.3:a:ivanti:connect_secure:9.0:r1.0:*:*:*:*:*:*",
+			"cpeNameId": "04ADAA73-7933-402E-BEA0-3956B38AF2C2"
+		},
+		{
 			"cpeName": "cpe:2.3:a:ivanti:connect_secure:9.0:r2:*:*:*:*:*:*",
 			"cpeNameId": "C2030432-1427-464E-AF91-D544A81DF69D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ivanti:connect_secure:9.0:r2.0:*:*:*:*:*:*",
+			"cpeNameId": "C17F2DCD-143F-434B-B17E-7ECB7CEEFE4D"
 		},
 		{
 			"cpeName": "cpe:2.3:a:ivanti:connect_secure:9.0:r2.1:*:*:*:*:*:*",
@@ -25,6 +33,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ivanti:connect_secure:9.0:r3:*:*:*:*:*:*",
 			"cpeNameId": "FFB8F72B-6587-46BC-AC94-8E1C62BF1C5E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ivanti:connect_secure:9.0:r3.0:*:*:*:*:*:*",
+			"cpeNameId": "F23E78BF-65EF-468A-B156-515E7191C346"
 		},
 		{
 			"cpeName": "cpe:2.3:a:ivanti:connect_secure:9.0:r3.1:*:*:*:*:*:*",
@@ -47,6 +59,10 @@
 			"cpeNameId": "CBC48BF8-C7B9-4954-A376-29CA8EA608F4"
 		},
 		{
+			"cpeName": "cpe:2.3:a:ivanti:connect_secure:9.0:r4.0:*:*:*:*:*:*",
+			"cpeNameId": "F5B1D6FD-C6CF-4752-AF67-D0BA073C7D91"
+		},
+		{
 			"cpeName": "cpe:2.3:a:ivanti:connect_secure:9.0:r4.1:*:*:*:*:*:*",
 			"cpeNameId": "00A04066-F7CC-4AAC-954F-8BA9B8CFABA8"
 		},
@@ -57,6 +73,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ivanti:connect_secure:9.0:r6.0:*:*:*:*:*:*",
 			"cpeNameId": "B5C1461C-2071-4B54-98A2-30D8355FD219"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ivanti:connect_secure:9.0:rx:*:*:*:*:*:*",
+			"cpeNameId": "AB28DDF5-A2FA-4296-A391-3F090C9C3AD5"
 		}
 	]
 }
