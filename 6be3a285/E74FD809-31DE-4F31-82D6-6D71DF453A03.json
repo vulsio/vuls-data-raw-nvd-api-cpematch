@@ -4,8 +4,8 @@
 	"versionStartIncluding": "3.0.0",
 	"versionEndIncluding": "3.0.12",
 	"created": "2024-01-22T13:39:20.860",
-	"lastModified": "2024-01-22T13:39:20.860",
-	"cpeLastModified": "2024-01-22T13:39:20.860",
+	"lastModified": "2024-02-29T13:21:56.770",
+	"cpeLastModified": "2024-02-29T13:21:56.770",
 	"status": "Active",
 	"matches": [
 		{
@@ -135,6 +135,10 @@
 		{
 			"cpeName": "cpe:2.3:a:openssl:openssl:3.0.11:*:*:*:*:*:*:*",
 			"cpeNameId": "4016D271-6856-41E7-9D11-AA858639E614"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openssl:openssl:3.0.12:*:*:*:*:*:*:*",
+			"cpeNameId": "457AF6D9-CEE7-4FA4-AC67-4676F1B11043"
 		}
 	]
 }

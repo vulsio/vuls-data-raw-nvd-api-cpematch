@@ -3,7 +3,7 @@
 	"matchCriteriaId": "DDA1CA86-1405-4C25-9BC2-5A5E6A76B911",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2024-02-16T20:52:40.230",
+	"cpeLastModified": "2024-02-29T13:21:56.770",
 	"status": "Active",
 	"matches": [
 		{
@@ -1159,6 +1159,10 @@
 			"cpeNameId": "4016D271-6856-41E7-9D11-AA858639E614"
 		},
 		{
+			"cpeName": "cpe:2.3:a:openssl:openssl:3.0.12:*:*:*:*:*:*:*",
+			"cpeNameId": "457AF6D9-CEE7-4FA4-AC67-4676F1B11043"
+		},
+		{
 			"cpeName": "cpe:2.3:a:openssl:openssl:3.0.13:*:*:*:*:*:*:*",
 			"cpeNameId": "105E742C-3551-4CE9-B8D4-5937A9C9480D"
 		},
@@ -1189,6 +1193,10 @@
 		{
 			"cpeName": "cpe:2.3:a:openssl:openssl:3.1.3:*:*:*:*:*:*:*",
 			"cpeNameId": "40C4B719-C347-4B12-91E6-417D4C4B6479"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openssl:openssl:3.1.4:*:*:*:*:*:*:*",
+			"cpeNameId": "65DC86CE-6CAE-4349-9F7F-972DD35F4141"
 		},
 		{
 			"cpeName": "cpe:2.3:a:openssl:openssl:3.1.5:*:*:*:*:*:*:*",
