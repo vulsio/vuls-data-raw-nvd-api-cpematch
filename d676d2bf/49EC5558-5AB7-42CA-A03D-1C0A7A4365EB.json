@@ -1,0 +1,28 @@
+{
+	"criteria": "cpe:2.3:a:file_project:file:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "49EC5558-5AB7-42CA-A03D-1C0A7A4365EB",
+	"versionStartIncluding": "5.39",
+	"versionEndExcluding": "5.43",
+	"created": "2024-03-01T17:50:55.707",
+	"lastModified": "2024-03-01T17:50:55.707",
+	"cpeLastModified": "2024-03-01T17:50:55.707",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:file_project:file:5.39:*:*:*:*:*:*:*",
+			"cpeNameId": "1BCA5F99-F15F-4E34-95DE-6F119FD00308"
+		},
+		{
+			"cpeName": "cpe:2.3:a:file_project:file:5.40:*:*:*:*:*:*:*",
+			"cpeNameId": "5A641FEC-17FB-4AAD-B45F-8D2B90A31846"
+		},
+		{
+			"cpeName": "cpe:2.3:a:file_project:file:5.41:*:*:*:*:*:*:*",
+			"cpeNameId": "06B94C59-A3BB-4CA8-B523-C715001C30DB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:file_project:file:5.42:*:*:*:*:*:*:*",
+			"cpeNameId": "C6B7DB20-78DB-4924-B9C4-7C5FEA232E9D"
+		}
+	]
+}
