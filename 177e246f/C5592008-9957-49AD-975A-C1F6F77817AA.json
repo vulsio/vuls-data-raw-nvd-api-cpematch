@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:axis:q7414:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "C5592008-9957-49AD-975A-C1F6F77817AA",
 	"created": "2024-02-12T16:12:08.043",
-	"lastModified": "2024-02-12T16:12:08.043",
-	"cpeLastModified": "2024-02-12T16:12:08.043",
-	"status": "Active"
+	"lastModified": "2024-02-29T18:37:36.887",
+	"cpeLastModified": "2024-02-29T18:37:36.887",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:axis:q7414:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0552662B-B092-40CF-A467-AA0ACBA820E2"
+		}
+	]
 }
