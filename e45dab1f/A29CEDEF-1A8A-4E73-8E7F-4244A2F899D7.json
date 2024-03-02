@@ -1,0 +1,14 @@
+{
+	"criteria": "cpe:2.3:a:zoom:zoom:-:*:*:*:*:*:*:*",
+	"matchCriteriaId": "A29CEDEF-1A8A-4E73-8E7F-4244A2F899D7",
+	"created": "2024-03-02T17:05:49.353",
+	"lastModified": "2024-03-02T17:05:49.367",
+	"cpeLastModified": "2024-03-02T17:05:49.367",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:zoom:zoom:-:*:*:*:*:android:*:*",
+			"cpeNameId": "298026CF-3D2B-4A0C-8F4D-60BE03D4D2DC"
+		}
+	]
+}
