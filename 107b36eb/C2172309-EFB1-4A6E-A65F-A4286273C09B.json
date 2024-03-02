@@ -1,0 +1,16 @@
+{
+	"criteria": "cpe:2.3:a:gitlab:gitlab:*:*:*:*:enterprise:*:*:*",
+	"matchCriteriaId": "C2172309-EFB1-4A6E-A65F-A4286273C09B",
+	"versionStartIncluding": "16.8",
+	"versionEndExcluding": "16.8.3",
+	"created": "2024-03-01T23:29:54.223",
+	"lastModified": "2024-03-01T23:29:54.223",
+	"cpeLastModified": "2024-03-01T23:29:54.223",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:gitlab:gitlab:16.8.0:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "99955F8A-7C5E-4AC6-8C5A-74F1C78B8331"
+		}
+	]
+}
