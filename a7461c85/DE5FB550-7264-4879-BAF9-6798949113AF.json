@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:mediatek:mt8775:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "DE5FB550-7264-4879-BAF9-6798949113AF",
 	"created": "2024-01-02T20:16:29.080",
-	"lastModified": "2024-01-02T20:16:29.080",
-	"cpeLastModified": "2024-01-02T20:16:29.080",
-	"status": "Active"
+	"lastModified": "2024-03-04T17:28:58.497",
+	"cpeLastModified": "2024-03-04T17:28:58.497",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:mediatek:mt8775:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D5D895F8-7EED-4144-ADB2-2CDE22113989"
+		}
+	]
 }

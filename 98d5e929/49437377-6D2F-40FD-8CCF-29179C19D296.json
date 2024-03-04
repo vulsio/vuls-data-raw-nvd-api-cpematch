@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:mediatek:mt9026:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "49437377-6D2F-40FD-8CCF-29179C19D296",
 	"created": "2024-02-07T18:25:20.197",
-	"lastModified": "2024-02-07T18:25:20.197",
-	"cpeLastModified": "2024-02-07T18:25:20.197",
-	"status": "Active"
+	"lastModified": "2024-03-04T17:28:58.497",
+	"cpeLastModified": "2024-03-04T17:28:58.497",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:mediatek:mt9026:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F0DC6982-CFF2-4C42-BE0D-67BA57A9BCE7"
+		}
+	]
 }

@@ -3,7 +3,7 @@
 	"matchCriteriaId": "4E690B68-8EC2-4898-9722-79AF3BB9C74C",
 	"created": "2022-06-18T03:47:56.983",
 	"lastModified": "2024-01-03T13:48:06.797",
-	"cpeLastModified": "2024-01-03T13:48:06.797",
+	"cpeLastModified": "2024-03-04T17:51:33.687",
 	"status": "Active",
 	"matches": [
 		{
@@ -375,6 +375,14 @@
 			"cpeNameId": "DAF196AC-E777-492A-95AA-488603D2E65B"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:fsm20055:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0F2073C5-B39E-46DB-9564-F4511ACAEE4A"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:fsm20056:-:*:*:*:*:*:*:*",
+			"cpeNameId": "391EB81B-F781-4380-AB2F-DA21A49F9904"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:fsm9055:-:*:*:*:*:*:*:*",
 			"cpeNameId": "4044F8C3-8139-4B9F-B700-7026F43E47C5"
 		},
@@ -481,6 +489,14 @@
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:ipq5028:-:*:*:*:*:*:*:*",
 			"cpeNameId": "45951BC3-98D9-4170-8012-30D27C513A48"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:ipq5302:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3B20CD08-9F9C-4381-8C56-02D2B7B4F567"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:ipq5312:-:*:*:*:*:*:*:*",
+			"cpeNameId": "749B10B0-FC09-400B-8A69-6F8BCD9B670A"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:ipq5332:-:*:*:*:*:*:*:*",
@@ -1383,6 +1399,10 @@
 			"cpeNameId": "CB421F10-4735-4256-AFB6-A020F811564F"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:qamsrv1m:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C6356378-EB5C-426E-A610-89141304BF95"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:qat3514:-:*:*:*:*:*:*:*",
 			"cpeNameId": "10D61A76-EE1C-4DE1-9DFF-281ED4E185D4"
 		},
@@ -1659,6 +1679,10 @@
 			"cpeNameId": "8BEDEAE5-02CF-44B6-A19A-A3CC1397056E"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:qca6688aq:-:*:*:*:*:*:*:*",
+			"cpeNameId": "AE879FEC-543E-4EE6-8A6F-5969953E7A2B"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:qca6694:-:*:*:*:*:*:*:*",
 			"cpeNameId": "89F0759E-F40F-45ED-85F6-FD480F3D9464"
 		},
@@ -1871,6 +1895,18 @@
 			"cpeNameId": "66D061D2-2849-4D58-97D0-DDAF7EEF0DED"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:qcc7225:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DA891C86-5342-4A52-A67D-FCEB20A7399F"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:qcc7226:-:*:*:*:*:*:*:*",
+			"cpeNameId": "555965DA-10AC-45BD-B2B0-93313CA5C61D"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:qcc7228:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CBE591EC-F00D-4827-AADC-D9962F1936A3"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:qcf8000:-:*:*:*:*:*:*:*",
 			"cpeNameId": "D9BDF7A5-717C-4C7D-8B05-16763574FE09"
 		},
@@ -2017,6 +2053,22 @@
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:qcn6274:-:*:*:*:*:*:*:*",
 			"cpeNameId": "DF5CE728-5F98-44D1-A2C6-4DB4C2A43EF1"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:qcn6402:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F1624FE4-34CB-4FDB-AB8F-F6B4BA9F510B"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:qcn6412:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A5AE8EB6-289C-4D3A-8400-C323A93315A1"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:qcn6422:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FD21D559-7C75-4AE2-92BF-785C8673D753"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:qcn6432:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F5E89906-A990-4F66-BD5A-F7DB5B8F59EB"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:qcn7605:-:*:*:*:*:*:*:*",
@@ -2277,6 +2329,10 @@
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:qdx1011:-:*:*:*:*:*:*:*",
 			"cpeNameId": "6A51C330-28EA-421B-AE8B-34FB2E07D6A0"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:qep8111:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4458B000-F204-4E9D-977E-60625EA77E90"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:qet4100:-:*:*:*:*:*:*:*",
@@ -2825,6 +2881,10 @@
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:qualcomm_robotics_rb3_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "4AED55F0-B1E9-4224-B069-E9E5E5D60B75"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:qualcomm_robotics_rb5_platform:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B1C01592-EFBC-48CD-A4AC-BE52D7784B4E"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:qualcomm_video_collaboration_vc1_platform:-:*:*:*:*:*:*:*",
@@ -4607,6 +4667,10 @@
 			"cpeNameId": "692AECDD-F71D-4DBB-B15A-15E5548F0BD5"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8_gen_3_mobile_platform:-:*:*:*:*:*:*:*",
+			"cpeNameId": "51386365-E92C-4F08-A6A6-52341897DDB2"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8_gen_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "3C90771F-7B56-4DCE-A3F3-DD585563BB9D"
 		},
@@ -4983,6 +5047,10 @@
 			"cpeNameId": "B6B293FE-E451-4B29-8764-CB05E0BBBD71"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_x35_5g_modem-rf_system:-:*:*:*:*:*:*:*",
+			"cpeNameId": "81A429AE-8AED-4A2C-8F6A-88598F611C0D"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_x5:-:*:*:*:*:*:*:*",
 			"cpeNameId": "2BF21653-CD40-4182-9E2F-A1EF1DFA9BA7"
 		},
@@ -5073,6 +5141,10 @@
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:srv1h:-:*:*:*:*:*:*:*",
 			"cpeNameId": "16DAF28D-5195-4567-ACC5-E86BF3670DF0"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:srv1m:-:*:*:*:*:*:*:*",
+			"cpeNameId": "AD79B337-ABB1-4D9A-B926-588CFD005E7F"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:ssg2115p:-:*:*:*:*:*:*:*",

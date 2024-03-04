@@ -4,7 +4,7 @@
 	"versionEndExcluding": "3.3.8",
 	"created": "2020-11-17T13:33:28.923",
 	"lastModified": "2020-11-17T13:33:28.923",
-	"cpeLastModified": "2022-12-14T20:30:59.897",
+	"cpeLastModified": "2024-03-04T16:32:31.807",
 	"status": "Active",
 	"matches": [
 		{
@@ -38,6 +38,10 @@
 		{
 			"cpeName": "cpe:2.3:a:apache:cxf:2.0.13:*:*:*:*:*:*:*",
 			"cpeNameId": "69AD8A0C-6C15-497E-8BFF-59AE4DC78CA4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:cxf:2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "2FB5D9F1-C874-4DCB-9BF2-7E6FABB7DCA9"
 		},
 		{
 			"cpeName": "cpe:2.3:a:apache:cxf:2.1.0:*:*:*:*:*:*:*",

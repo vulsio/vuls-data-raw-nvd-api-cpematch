@@ -4,10 +4,14 @@
 	"versionStartIncluding": "2.1",
 	"versionEndExcluding": "2.1.10",
 	"created": "2024-01-19T17:27:01.517",
-	"lastModified": "2024-01-19T17:27:01.517",
-	"cpeLastModified": "2024-01-19T17:27:01.517",
+	"lastModified": "2024-03-04T16:32:31.807",
+	"cpeLastModified": "2024-03-04T16:32:31.807",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apache:cxf:2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "2FB5D9F1-C874-4DCB-9BF2-7E6FABB7DCA9"
+		},
 		{
 			"cpeName": "cpe:2.3:a:apache:cxf:2.1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "6FF72F75-E3C7-48BD-B962-E6C873B16F9B"
