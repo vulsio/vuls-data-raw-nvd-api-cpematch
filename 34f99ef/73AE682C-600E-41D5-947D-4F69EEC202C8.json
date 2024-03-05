@@ -5,9 +5,13 @@
 	"versionEndExcluding": "3.6.5",
 	"created": "2022-12-16T17:26:11.517",
 	"lastModified": "2022-12-19T16:11:25.720",
-	"cpeLastModified": "2022-12-19T16:11:25.720",
+	"cpeLastModified": "2024-03-05T17:50:37.043",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "1464B4B6-BFB1-4337-BAD9-462F80117770"
+		},
 		{
 			"cpeName": "cpe:2.3:a:github:enterprise_server:3.6.0:-:*:*:*:*:*:*",
 			"cpeNameId": "84B9ADD8-B8AC-4380-AEEC-B4F11BD67D3D"
