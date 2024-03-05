@@ -4,7 +4,7 @@
 	"versionEndExcluding": "v5.21\\(aazf.9\\)c0",
 	"created": "2022-02-09T16:51:35.810",
 	"lastModified": "2022-02-09T16:51:35.810",
-	"cpeLastModified": "2023-08-12T00:08:06.533",
+	"cpeLastModified": "2024-03-04T19:18:17.717",
 	"status": "Active",
 	"matches": [
 		{
@@ -30,6 +30,10 @@
 		{
 			"cpeName": "cpe:2.3:o:zyxel:nas326_firmware:5.21\\(aazf.14\\)c0:*:*:*:*:*:*:*",
 			"cpeNameId": "540E832D-D535-48B6-8D4B-18B629054462"
+		},
+		{
+			"cpeName": "cpe:2.3:o:zyxel:nas326_firmware:5.21\\(aazf.16\\)c0:*:*:*:*:*:*:*",
+			"cpeNameId": "15C3EA0D-4DE9-45FC-9EC1-80C42DA2A5A8"
 		}
 	]
 }

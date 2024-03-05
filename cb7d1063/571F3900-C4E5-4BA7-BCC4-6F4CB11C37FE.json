@@ -5,6 +5,16 @@
 	"versionEndIncluding": "3.40\\(ahq.3\\)",
 	"created": "2024-02-06T12:10:39.910",
 	"lastModified": "2024-02-06T12:10:39.910",
-	"cpeLastModified": "2024-02-06T12:10:39.910",
-	"status": "Active"
+	"cpeLastModified": "2024-03-04T19:18:17.717",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:zyxel:p-661h_firmware:3.40\\(agd.2\\):*:*:*:*:*:*:*",
+			"cpeNameId": "AC1EAEB5-B65C-4320-9638-42909E65FEAF"
+		},
+		{
+			"cpeName": "cpe:2.3:o:zyxel:p-661h_firmware:3.40\\(ahq.3\\):*:*:*:*:*:*:*",
+			"cpeNameId": "913942BB-2925-4395-978C-9F5BD7C4977D"
+		}
+	]
 }
