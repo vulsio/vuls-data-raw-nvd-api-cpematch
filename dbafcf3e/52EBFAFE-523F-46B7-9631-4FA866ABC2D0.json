@@ -4,8 +4,8 @@
 	"versionStartIncluding": "3.0.0",
 	"versionEndExcluding": "3.0.12",
 	"created": "2024-02-08T14:08:02.347",
-	"lastModified": "2024-02-08T14:08:02.347",
-	"cpeLastModified": "2024-02-08T14:08:02.347",
+	"lastModified": "2024-03-05T19:39:58.247",
+	"cpeLastModified": "2024-03-05T19:39:58.247",
 	"status": "Active",
 	"matches": [
 		{
@@ -47,6 +47,10 @@
 		{
 			"cpeName": "cpe:2.3:a:trustwave:modsecurity:3.0.10:*:*:*:*:*:*:*",
 			"cpeNameId": "666EBCC2-D5F2-4C26-B2F0-172234B20624"
+		},
+		{
+			"cpeName": "cpe:2.3:a:trustwave:modsecurity:3.0.11:*:*:*:*:*:*:*",
+			"cpeNameId": "079BE296-635A-4A57-8075-ACC467B9755A"
 		}
 	]
 }
