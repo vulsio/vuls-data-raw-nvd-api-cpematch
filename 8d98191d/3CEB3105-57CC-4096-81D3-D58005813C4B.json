@@ -3,8 +3,8 @@
 	"matchCriteriaId": "3CEB3105-57CC-4096-81D3-D58005813C4B",
 	"versionEndIncluding": "202311",
 	"created": "2024-01-12T19:10:25.540",
-	"lastModified": "2024-01-12T19:10:25.540",
-	"cpeLastModified": "2024-01-12T19:10:25.540",
+	"lastModified": "2024-03-06T13:40:32.440",
+	"cpeLastModified": "2024-03-06T13:43:41.060",
 	"status": "Active",
 	"matches": [
 		{
@@ -94,6 +94,38 @@
 		{
 			"cpeName": "cpe:2.3:a:tianocore:edk2:202202:rc1:*:*:*:*:*:*",
 			"cpeNameId": "3C804D30-E5D8-44B0-A4CB-2DDFB44279D0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tianocore:edk2:202205:-:*:*:*:*:*:*",
+			"cpeNameId": "9A3C9EFC-73D3-4548-96ED-C8178021CAF6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tianocore:edk2:202205:rc1:*:*:*:*:*:*",
+			"cpeNameId": "1FA4C066-CB49-40B4-94A1-D5CB4AE5B3B7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tianocore:edk2:202208:*:*:*:*:*:*:*",
+			"cpeNameId": "F21F4781-C1B7-4427-A433-D0599F218A76"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tianocore:edk2:202211:*:*:*:*:*:*:*",
+			"cpeNameId": "901CA078-294F-4E9C-BD9D-6052D8D3D0AD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tianocore:edk2:202302:*:*:*:*:*:*:*",
+			"cpeNameId": "D9EF766B-3742-4758-B04D-3F73691BC5B0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tianocore:edk2:202305:*:*:*:*:*:*:*",
+			"cpeNameId": "31E2BA46-BB9E-4CFE-83A6-D58D6821CB97"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tianocore:edk2:202308:*:*:*:*:*:*:*",
+			"cpeNameId": "565AB863-05DA-48A4-9B61-3278EE507173"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tianocore:edk2:202311:*:*:*:*:*:*:*",
+			"cpeNameId": "5FDFEC57-CBE1-4977-9D06-B1A2E86552F1"
 		}
 	]
 }

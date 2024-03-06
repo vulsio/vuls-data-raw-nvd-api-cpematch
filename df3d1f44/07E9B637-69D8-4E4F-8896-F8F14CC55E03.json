@@ -3,7 +3,7 @@
 	"matchCriteriaId": "07E9B637-69D8-4E4F-8896-F8F14CC55E03",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2024-02-03T03:17:39.383",
+	"cpeLastModified": "2024-03-06T12:56:17.940",
 	"status": "Active",
 	"matches": [
 		{
@@ -36395,6 +36395,10 @@
 			"cpeNameId": "5C3AE751-5B1E-45F2-9911-513966F3052C"
 		},
 		{
+			"cpeName": "cpe:2.3:a:google:chrome:120.0.6099.62:*:*:*:*:*:*:*",
+			"cpeNameId": "FDF1AB7A-CBAF-4D1B-A863-CE0D2B99C40D"
+		},
+		{
 			"cpeName": "cpe:2.3:a:google:chrome:120.0.6099.109:*:*:*:*:*:*:*",
 			"cpeNameId": "7A6CED5F-E3D9-43FF-AF45-9734569E96E6"
 		},
@@ -36409,6 +36413,10 @@
 		{
 			"cpeName": "cpe:2.3:a:google:chrome:121.0.6167.85:*:*:*:*:*:*:*",
 			"cpeNameId": "A560B633-043C-42B2-A4B5-357C180E4C40"
+		},
+		{
+			"cpeName": "cpe:2.3:a:google:chrome:121.0.6167.160:*:*:*:*:*:*:*",
+			"cpeNameId": "E1901B76-594C-4CAF-A13C-CBC4E9692384"
 		}
 	]
 }

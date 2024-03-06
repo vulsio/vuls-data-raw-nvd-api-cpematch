@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2.75.1",
 	"created": "2023-09-18T12:15:17.830",
 	"lastModified": "2023-09-18T12:15:17.830",
-	"cpeLastModified": "2023-09-18T12:15:17.830",
+	"cpeLastModified": "2024-03-06T16:44:18.823",
 	"status": "Active",
 	"matches": [
 		{
@@ -1850,6 +1850,14 @@
 		{
 			"cpeName": "cpe:2.3:a:gnome:glib:2.66.3:*:*:*:*:*:*:*",
 			"cpeNameId": "F6F15885-76D2-4FD9-882F-6F872A180B25"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gnome:glib:2.66.4:*:*:*:*:*:*:*",
+			"cpeNameId": "5EE84C21-4238-4B24-8312-4A39A1FDDA08"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gnome:glib:2.66.5:*:*:*:*:*:*:*",
+			"cpeNameId": "19916AA4-0FDA-4EA3-98A9-360365D15F1B"
 		},
 		{
 			"cpeName": "cpe:2.3:a:gnome:glib:2.66.6:*:*:*:*:*:*:*",

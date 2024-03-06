@@ -5,7 +5,7 @@
 	"versionEndExcluding": "0.9.8",
 	"created": "2024-01-10T16:11:48.597",
 	"lastModified": "2024-02-03T03:15:39.403",
-	"cpeLastModified": "2024-01-10T16:11:48.597",
+	"cpeLastModified": "2024-03-06T16:50:13.397",
 	"status": "Active",
 	"matches": [
 		{
@@ -69,8 +69,16 @@
 			"cpeNameId": "AA61F0BD-974F-4E4F-A98E-4112A7823220"
 		},
 		{
+			"cpeName": "cpe:2.3:a:libssh:libssh:0.9.5:*:*:*:*:*:*:*",
+			"cpeNameId": "2A172EC6-5294-426E-A816-4B9C830D2A14"
+		},
+		{
 			"cpeName": "cpe:2.3:a:libssh:libssh:0.9.6:*:*:*:*:*:*:*",
 			"cpeNameId": "40BE8FB3-3E10-429A-8A44-D44927105AFE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:libssh:libssh:0.9.7:*:*:*:*:*:*:*",
+			"cpeNameId": "6A3A6E2E-2730-46B4-B1A5-79A284ABF7C0"
 		}
 	]
 }
