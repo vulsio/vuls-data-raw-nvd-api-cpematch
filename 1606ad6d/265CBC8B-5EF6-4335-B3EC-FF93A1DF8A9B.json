@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:ghostscript:ghostscript:8.61:*:*:*:*:*:*:*",
 	"matchCriteriaId": "265CBC8B-5EF6-4335-B3EC-FF93A1DF8A9B",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
-	"status": "Active"
+	"lastModified": "2024-03-07T16:51:48.747",
+	"cpeLastModified": "2024-03-07T16:51:48.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ghostscript:ghostscript:8.61:*:*:*:*:*:*:*",
+			"cpeNameId": "EAF74FFB-4E67-4DD1-BAA4-B909C7600C30"
+		}
+	]
 }
