@@ -4,7 +4,7 @@
 	"versionEndExcluding": "10.0.19045.3087",
 	"created": "2023-06-20T14:23:33.943",
 	"lastModified": "2023-07-14T16:20:15.500",
-	"cpeLastModified": "2024-01-12T19:05:23.670",
+	"cpeLastModified": "2024-03-07T12:06:36.183",
 	"status": "Active",
 	"matches": [
 		{
@@ -222,6 +222,10 @@
 		{
 			"cpeName": "cpe:2.3:o:microsoft:windows_10_21h2:10.0.19044.3930:*:*:*:*:*:x64:*",
 			"cpeNameId": "33B5B8D0-FA8C-47E3-BBD2-C853D6469FFC"
+		},
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_10_21h2:10.0.19044.4046:*:*:*:*:*:x64:*",
+			"cpeNameId": "92E7DEA3-22FD-4AFB-A020-46E84127BA7D"
 		},
 		{
 			"cpeName": "cpe:2.3:o:microsoft:windows_10_21h2:10.0.19045.2486:*:*:*:*:*:x64:*",
