@@ -5,7 +5,7 @@
 	"versionEndExcluding": "14.17.4",
 	"created": "2021-08-23T11:58:17.187",
 	"lastModified": "2021-08-23T11:58:17.187",
-	"cpeLastModified": "2021-08-23T13:00:01.970",
+	"cpeLastModified": "2024-03-07T21:24:39.437",
 	"status": "Active",
 	"matches": [
 		{
@@ -13,8 +13,68 @@
 			"cpeNameId": "51896D07-D989-439F-94E5-53FF742F62FB"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.0.1:*:*:*:-:*:*:*",
+			"cpeNameId": "6EAA4C75-9C38-4C56-BD41-6173E4489298"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:13.1.0:*:*:*:-:*:*:*",
 			"cpeNameId": "898322D9-DCD6-48A4-A811-5047A9772FFA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.2.0:*:*:*:-:*:*:*",
+			"cpeNameId": "C04DD48B-90A8-4012-BE93-5947A0EE7F0D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.3.0:*:*:*:-:*:*:*",
+			"cpeNameId": "128BE9BE-3276-40D8-ADD4-AED3280A664B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.4.0:*:*:*:-:*:*:*",
+			"cpeNameId": "0A6A8E27-A83B-4913-B2CF-24696D4CEF9A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.5.0:*:*:*:-:*:*:*",
+			"cpeNameId": "667287AC-54EA-422E-A572-A3128A962EB3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.6.0:*:*:*:-:*:*:*",
+			"cpeNameId": "EEF2A8E0-7682-4CBD-8979-7C55E81E989B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.7.0:*:*:*:-:*:*:*",
+			"cpeNameId": "DF69FAF9-BC2D-4093-A93C-36F4F7946D56"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.8.0:*:*:*:-:*:*:*",
+			"cpeNameId": "684299DD-4BDA-4346-A969-45D983DFAC44"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.9.0:*:*:*:-:*:*:*",
+			"cpeNameId": "689694CE-8B38-4395-ADBB-B1148FC25635"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.10.0:*:*:*:-:*:*:*",
+			"cpeNameId": "271DD174-366E-44B4-A8FF-8FA0EB0035D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.10.1:*:*:*:-:*:*:*",
+			"cpeNameId": "ED22EACB-86EA-4466-89A0-15AC550C9973"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.11.0:*:*:*:-:*:*:*",
+			"cpeNameId": "6426382A-9103-491A-858B-3465E4FE50F2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.12.0:*:*:*:-:*:*:*",
+			"cpeNameId": "A05DF408-300F-4C20-B40B-C32C822016B6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.13.0:*:*:*:-:*:*:*",
+			"cpeNameId": "912A71D6-5B92-49EE-8C74-DF09ED7DE8EA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.14.0:*:*:*:-:*:*:*",
+			"cpeNameId": "F1413500-4995-411D-AA95-02A071951B9F"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:14.0.0:*:*:*:-:*:*:*",

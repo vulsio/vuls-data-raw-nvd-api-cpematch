@@ -4,8 +4,8 @@
 	"versionStartIncluding": "8.9.0",
 	"versionEndExcluding": "8.16.1",
 	"created": "2022-08-03T16:43:25.593",
-	"lastModified": "2022-08-03T16:43:25.593",
-	"cpeLastModified": "2020-06-22T11:45:06.367",
+	"lastModified": "2024-03-07T21:59:37.087",
+	"cpeLastModified": "2024-03-07T21:59:37.087",
 	"status": "Active",
 	"matches": [
 		{
@@ -75,6 +75,10 @@
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:8.15.1:*:*:*:lts:*:*:*",
 			"cpeNameId": "3DBB84F4-0C89-4755-A639-4BEDA1957EC4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:8.16.0:*:*:*:lts:*:*:*",
+			"cpeNameId": "DBF4E84A-5A74-4728-9E3E-DD3D389ACBE7"
 		}
 	]
 }

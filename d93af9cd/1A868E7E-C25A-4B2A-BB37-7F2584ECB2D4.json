@@ -4,8 +4,8 @@
 	"versionStartIncluding": "15.0.0",
 	"versionEndExcluding": "15.5.0",
 	"created": "2022-08-18T13:39:32.883",
-	"lastModified": "2022-08-18T13:39:32.883",
-	"cpeLastModified": "2020-12-16T14:48:01.160",
+	"lastModified": "2024-03-07T21:10:13.257",
+	"cpeLastModified": "2024-03-07T21:10:13.257",
 	"status": "Active",
 	"matches": [
 		{
@@ -27,6 +27,14 @@
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:15.2.1:*:*:*:-:*:*:*",
 			"cpeNameId": "A48FC9E9-D180-48C3-A7DC-D73D2789D70B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:15.3.0:*:*:*:-:*:*:*",
+			"cpeNameId": "A34CF60B-963E-4B62-B441-2B433704EC9E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:15.4.0:*:*:*:-:*:*:*",
+			"cpeNameId": "D85010DF-EFB4-461A-82C3-AAF7968D0FD3"
 		}
 	]
 }

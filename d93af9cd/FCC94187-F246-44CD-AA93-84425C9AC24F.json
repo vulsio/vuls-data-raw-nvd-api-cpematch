@@ -3,8 +3,8 @@
 	"matchCriteriaId": "FCC94187-F246-44CD-AA93-84425C9AC24F",
 	"versionEndExcluding": "21.0.0",
 	"created": "2023-10-18T14:33:05.013",
-	"lastModified": "2023-10-18T14:33:05.013",
-	"cpeLastModified": "2024-02-03T02:35:59.990",
+	"lastModified": "2024-03-07T21:10:13.257",
+	"cpeLastModified": "2024-03-07T21:59:37.087",
 	"status": "Active",
 	"matches": [
 		{
@@ -2604,12 +2604,20 @@
 			"cpeNameId": "95D57B5E-311C-4ACC-9F46-B73719A41AD9"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:4.2.2:rc1:*:*:lts:*:*:*",
+			"cpeNameId": "2BBC498F-94C0-4D9D-83F0-C651A4F528E6"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:4.2.2:rc2:*:*:*:*:*:*",
 			"cpeNameId": "B66B08C4-AD66-4DE4-9E58-CB4C5A7FBF68"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:4.2.2:rc2:*:*:-:*:*:*",
 			"cpeNameId": "5B9743F8-E13F-4A91-9F32-D672D29055AE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:4.2.2:rc2:*:*:lts:*:*:*",
+			"cpeNameId": "05DF5361-74FD-4098-A78B-D3567B0C2F15"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:4.2.3:*:*:*:*:*:*:*",
@@ -2642,6 +2650,10 @@
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:4.2.4:rc1:*:*:-:*:*:*",
 			"cpeNameId": "E1F8A526-67FD-4E13-8664-A32BD3EBC724"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:4.2.4:rc1:*:*:lts:*:*:*",
+			"cpeNameId": "88853E0E-29DA-44D3-B86E-DA158C41FBDD"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:4.2.5:*:*:*:*:*:*:*",
@@ -2700,12 +2712,20 @@
 			"cpeNameId": "2CBE93D7-F79C-40F4-957F-E44AAD5EBFBE"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:4.3.1:rc1:*:*:lts:*:*:*",
+			"cpeNameId": "C1E0A25C-1988-4181-B33A-B43E1D5FAC26"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:4.3.1:rc2:*:*:*:*:*:*",
 			"cpeNameId": "EDBD842F-10C3-422C-954B-61C99B784EA0"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:4.3.1:rc2:*:*:-:*:*:*",
 			"cpeNameId": "CE279976-833F-45E7-9744-4A1FADB65643"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:4.3.1:rc2:*:*:lts:*:*:*",
+			"cpeNameId": "E9E5B6EE-892C-46E3-9B7C-48515A17925E"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:4.3.2:*:*:*:*:*:*:*",
@@ -2740,12 +2760,20 @@
 			"cpeNameId": "BA656899-DC41-42E8-A20E-2FE56E914D5D"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:4.4.0:rc1:*:*:lts:*:*:*",
+			"cpeNameId": "68DB131C-DABC-4A1B-ABBD-1DBCA2BB7503"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:4.4.0:rc2:*:*:*:*:*:*",
 			"cpeNameId": "1068EA0D-C60D-49A7-B9A0-BD550ABB3D85"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:4.4.0:rc2:*:*:-:*:*:*",
 			"cpeNameId": "09B068D3-0752-4058-88CA-7CDEF10DD2C9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:4.4.0:rc2:*:*:lts:*:*:*",
+			"cpeNameId": "B8B1B529-B62D-403B-A0E1-032827607459"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:4.4.0:rc3:*:*:*:*:*:*",
@@ -2756,12 +2784,20 @@
 			"cpeNameId": "16CA370B-1C40-4E0B-A04B-DA454905694B"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:4.4.0:rc3:*:*:lts:*:*:*",
+			"cpeNameId": "997630A4-9D99-4669-A47A-938B4704F7E3"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:4.4.0:rc4:*:*:*:*:*:*",
 			"cpeNameId": "D951A76E-F472-4802-B320-78C8BF3C767E"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:4.4.0:rc4:*:*:-:*:*:*",
 			"cpeNameId": "7713A816-A4C8-49EE-9526-3C6F43B75918"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:4.4.0:rc4:*:*:lts:*:*:*",
+			"cpeNameId": "5C73CAB8-D1A4-45E1-8A06-C9A34FC7F3C4"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:4.4.1:*:*:*:*:*:*:*",
@@ -3712,6 +3748,10 @@
 			"cpeNameId": "AC88C90A-3F8E-4979-B41E-8868AB44EABC"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:6.17.1:*:*:*:lts:*:*:*",
+			"cpeNameId": "52D6EB64-1F3D-4BA3-801E-33AD0763C9CD"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:7.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "592DB44A-901A-4170-934C-8506C1E58CDB"
 		},
@@ -4186,6 +4226,22 @@
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:8.15.1:*:*:*:lts:*:*:*",
 			"cpeNameId": "3DBB84F4-0C89-4755-A639-4BEDA1957EC4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:8.16.0:*:*:*:lts:*:*:*",
+			"cpeNameId": "DBF4E84A-5A74-4728-9E3E-DD3D389ACBE7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:8.16.1:*:*:*:lts:*:*:*",
+			"cpeNameId": "22AFCB3B-3057-4B22-B926-9105C529670F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:8.16.2:*:*:*:lts:*:*:*",
+			"cpeNameId": "CAB08DE2-378A-4A8B-9268-51520057631B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:8.17.0:*:*:*:lts:*:*:*",
+			"cpeNameId": "29250197-F980-486D-B55C-2A029DC849E3"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:9.0.0:*:*:*:*:*:*:*",
@@ -4684,6 +4740,10 @@
 			"cpeNameId": "C0C671C5-DEC9-4FA2-90B8-80D8C9EBB42A"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:10.23.0:*:*:*:lts:*:*:*",
+			"cpeNameId": "06C25167-8C5C-4CDF-88B7-2DCEF7D961FC"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:10.23.1:*:*:*:lts:*:*:*",
 			"cpeNameId": "A88D1690-BEDD-4045-8F06-807766D7A8EA"
 		},
@@ -4706,6 +4766,10 @@
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:10.24.1:*:*:*:-:*:*:*",
 			"cpeNameId": "B902627A-8824-4FF3-AF27-1E2A6C5442C4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:10.24.1:*:*:*:lts:*:*:*",
+			"cpeNameId": "B8C36039-10D8-45B5-A82A-8456BCD161B4"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:11.0.0:*:*:*:*:*:*:*",
@@ -4816,16 +4880,48 @@
 			"cpeNameId": "66E178AD-203B-45C8-891F-C0218D6FAC9D"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:11.9.0:*:*:*:-:*:*:*",
+			"cpeNameId": "048DC501-496B-4963-A949-75C701719EC9"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:11.9.0:*:*:*:lts:*:*:*",
 			"cpeNameId": "122A8F34-60C7-448D-B7E1-84EBF16B0BD7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:11.10.0:*:*:*:-:*:*:*",
+			"cpeNameId": "99BE6B9E-F01F-4074-93BC-040763EFD3F1"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:11.10.0:*:*:*:lts:*:*:*",
 			"cpeNameId": "3DC52366-16E3-480D-BAAC-6DED5F6A4FC4"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:11.10.1:*:*:*:-:*:*:*",
+			"cpeNameId": "39CAE5F8-DCB4-423C-977E-CD5F82410488"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:11.10.1:*:*:*:lts:*:*:*",
 			"cpeNameId": "690046A6-8C16-42C6-95A3-9938364B1C82"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:11.11.0:*:*:*:-:*:*:*",
+			"cpeNameId": "94B78D67-CEEE-430E-B095-DCB91D761C56"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:11.12.0:*:*:*:-:*:*:*",
+			"cpeNameId": "1AF50E2C-E02B-41D6-888F-E885BF958BCC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:11.13.0:*:*:*:-:*:*:*",
+			"cpeNameId": "A3C88BAF-189E-4869-8ACE-CD43C96F95CB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:11.14.0:*:*:*:-:*:*:*",
+			"cpeNameId": "54A8F744-A7F2-4C1E-A490-FB79D5462DBB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:11.15.0:*:*:*:-:*:*:*",
+			"cpeNameId": "7E5DDC03-34DA-4975-8917-CD5351322E18"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:12.0.0:*:*:*:-:*:*:*",
@@ -5136,12 +5232,40 @@
 			"cpeNameId": "88494325-BA48-4935-A978-A824A460BF8B"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:12.22.7:*:*:*:lts:*:*:*",
+			"cpeNameId": "3898216E-2F20-47C1-95F9-980AF4336495"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:12.22.8:*:*:*:lts:*:*:*",
+			"cpeNameId": "3133A1DE-E0FC-4E97-AF44-0A7BEEC9FE59"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:12.22.9:*:*:*:lts:*:*:*",
+			"cpeNameId": "DB878999-AFE9-4159-82D7-C92A7C4ED914"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:12.22.10:*:*:*:lts:*:*:*",
+			"cpeNameId": "9DCCD50B-301D-4181-9E8E-FDB9682929A3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:12.22.11:*:*:*:lts:*:*:*",
+			"cpeNameId": "DA143BBE-DB80-4EFB-825D-82FDBBA031DE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:12.22.12:*:*:*:lts:*:*:*",
+			"cpeNameId": "339A19DD-C651-400E-939A-A7560C0C9432"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:13.0.0:*:*:*:-:*:*:*",
 			"cpeNameId": "51896D07-D989-439F-94E5-53FF742F62FB"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:13.0.0:*:*:*:lts:*:*:*",
 			"cpeNameId": "3CA64C3A-97BC-45A8-935E-A3A3AF69E8C3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.0.1:*:*:*:-:*:*:*",
+			"cpeNameId": "6EAA4C75-9C38-4C56-BD41-6173E4489298"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:13.0.1:*:*:*:lts:*:*:*",
@@ -5156,56 +5280,112 @@
 			"cpeNameId": "02194D99-C9C6-4943-A341-A73ABF67E5D3"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.2.0:*:*:*:-:*:*:*",
+			"cpeNameId": "C04DD48B-90A8-4012-BE93-5947A0EE7F0D"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:13.2.0:*:*:*:lts:*:*:*",
 			"cpeNameId": "42BFC788-0AC3-43B1-89F8-FA61D4794283"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.3.0:*:*:*:-:*:*:*",
+			"cpeNameId": "128BE9BE-3276-40D8-ADD4-AED3280A664B"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:13.3.0:*:*:*:lts:*:*:*",
 			"cpeNameId": "5CBDC700-EDF0-43BB-B18F-0F7FA07FDDB7"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.4.0:*:*:*:-:*:*:*",
+			"cpeNameId": "0A6A8E27-A83B-4913-B2CF-24696D4CEF9A"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:13.4.0:*:*:*:lts:*:*:*",
 			"cpeNameId": "8D883D33-4857-4DBE-8415-2EF5385E299B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.5.0:*:*:*:-:*:*:*",
+			"cpeNameId": "667287AC-54EA-422E-A572-A3128A962EB3"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:13.5.0:*:*:*:lts:*:*:*",
 			"cpeNameId": "F64D0BD7-EE19-48EF-A13C-4C04C61DD774"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.6.0:*:*:*:-:*:*:*",
+			"cpeNameId": "EEF2A8E0-7682-4CBD-8979-7C55E81E989B"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:13.6.0:*:*:*:lts:*:*:*",
 			"cpeNameId": "95E0B965-ABA3-4285-8249-5BA87315D11E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.7.0:*:*:*:-:*:*:*",
+			"cpeNameId": "DF69FAF9-BC2D-4093-A93C-36F4F7946D56"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:13.7.0:*:*:*:lts:*:*:*",
 			"cpeNameId": "C9020B54-9FCE-46F9-A287-36EAFAD8EDC0"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.8.0:*:*:*:-:*:*:*",
+			"cpeNameId": "684299DD-4BDA-4346-A969-45D983DFAC44"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:13.8.0:*:*:*:lts:*:*:*",
 			"cpeNameId": "EBF00B08-3FE2-4250-9B71-D5FE534CEA86"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.9.0:*:*:*:-:*:*:*",
+			"cpeNameId": "689694CE-8B38-4395-ADBB-B1148FC25635"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:13.9.0:*:*:*:lts:*:*:*",
 			"cpeNameId": "4CCBA929-EE62-4085-BC0C-8D686ADB8F34"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.10.0:*:*:*:-:*:*:*",
+			"cpeNameId": "271DD174-366E-44B4-A8FF-8FA0EB0035D6"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:13.10.0:*:*:*:lts:*:*:*",
 			"cpeNameId": "F955BD99-1B0D-4A77-9BF0-E15D1BE3FF0D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.10.1:*:*:*:-:*:*:*",
+			"cpeNameId": "ED22EACB-86EA-4466-89A0-15AC550C9973"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:13.10.1:*:*:*:lts:*:*:*",
 			"cpeNameId": "42493112-4C7A-4EC6-831F-B8BC17885A17"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.11.0:*:*:*:-:*:*:*",
+			"cpeNameId": "6426382A-9103-491A-858B-3465E4FE50F2"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:13.11.0:*:*:*:lts:*:*:*",
 			"cpeNameId": "BA2A257F-E2B8-4AA8-8F4E-43817ACFDFE5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.12.0:*:*:*:-:*:*:*",
+			"cpeNameId": "A05DF408-300F-4C20-B40B-C32C822016B6"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:13.12.0:*:*:*:lts:*:*:*",
 			"cpeNameId": "54FF2818-84AE-4AEF-AADF-6E4D84D61D35"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.13.0:*:*:*:-:*:*:*",
+			"cpeNameId": "912A71D6-5B92-49EE-8C74-DF09ED7DE8EA"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:13.13.0:*:*:*:lts:*:*:*",
 			"cpeNameId": "8E466572-09DE-4ADF-9DFB-E504C814F82D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.14.0:*:*:*:-:*:*:*",
+			"cpeNameId": "F1413500-4995-411D-AA95-02A071951B9F"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:13.14.0:*:*:*:lts:*:*:*",
@@ -5512,6 +5692,14 @@
 			"cpeNameId": "EAA91258-1594-4AE9-9704-F6ECFE751854"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:14.21.2:*:*:*:lts:*:*:*",
+			"cpeNameId": "F0B101D8-C946-4806-8A1A-66723AE7A857"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:14.21.3:*:*:*:lts:*:*:*",
+			"cpeNameId": "E05C7402-3120-4154-B228-7FCEF5866593"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:15.0.0:*:*:*:-:*:*:*",
 			"cpeNameId": "B7332F4D-0E63-490A-B4CF-97E34784F12B"
 		},
@@ -5530,6 +5718,18 @@
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:15.2.1:*:*:*:-:*:*:*",
 			"cpeNameId": "A48FC9E9-D180-48C3-A7DC-D73D2789D70B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:15.3.0:*:*:*:-:*:*:*",
+			"cpeNameId": "A34CF60B-963E-4B62-B441-2B433704EC9E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:15.4.0:*:*:*:-:*:*:*",
+			"cpeNameId": "D85010DF-EFB4-461A-82C3-AAF7968D0FD3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:15.5.0:*:*:*:-:*:*:*",
+			"cpeNameId": "A4A9402E-CB28-4E43-B3CF-8E508A8B80F1"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:15.5.1:*:*:*:-:*:*:*",
@@ -5704,12 +5904,28 @@
 			"cpeNameId": "1661AC0F-5097-4FC5-80AE-D72B15F70ABA"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:16.19.0:*:*:*:lts:*:*:*",
+			"cpeNameId": "9A7ADCDD-AC47-4EB6-B0FD-D64F8527F1E8"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:16.19.1:*:*:*:lts:*:*:*",
 			"cpeNameId": "9427938A-34CE-4F10-BD73-E1811DAEFE09"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:16.20.0:*:*:*:lts:*:*:*",
+			"cpeNameId": "FBC73422-A31C-4073-B963-058FB8E81B25"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:16.20.1:*:*:*:-:*:*:*",
 			"cpeNameId": "FFF2225D-AC4C-4915-9819-9B51288631CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:16.20.1:*:*:*:lts:*:*:*",
+			"cpeNameId": "F10783FE-DC96-4A35-A42A-88CE7C2B6B2B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:16.20.2:*:*:*:lts:*:*:*",
+			"cpeNameId": "8A043075-C301-4C24-9CF6-8511AB3648D7"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:17.0.0:*:*:*:-:*:*:*",
@@ -5860,20 +6076,72 @@
 			"cpeNameId": "B75E73B1-F728-41B2-A8EF-759DC7565019"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:18.13.0:*:*:*:lts:*:*:*",
+			"cpeNameId": "047991BC-E2D1-4492-B151-A83D15EE6529"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:18.14.0:*:*:*:lts:*:*:*",
+			"cpeNameId": "656AB0CD-D400-41A1-BC11-F529BE816EB3"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:18.14.1:*:*:*:lts:*:*:*",
 			"cpeNameId": "0A897B11-37D4-493D-859C-F0563FACABAE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:18.14.2:*:*:*:lts:*:*:*",
+			"cpeNameId": "18098696-7DDF-4D94-A346-773A14E3E98B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:18.15.0:*:*:*:lts:*:*:*",
+			"cpeNameId": "8F16B62B-DFBE-4D53-9EC2-643C332A9BF6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:18.16.0:*:*:*:lts:*:*:*",
+			"cpeNameId": "6F669EDC-E674-4D57-8781-FE6496B83F5D"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:18.16.1:*:*:*:-:*:*:*",
 			"cpeNameId": "2FAA850D-D979-4161-8D6A-80E06BE787BD"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:18.16.1:*:*:*:lts:*:*:*",
+			"cpeNameId": "E2672D30-5B8F-4D11-9B56-957F7419D7CC"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:18.17.0:*:*:*:-:*:*:*",
 			"cpeNameId": "C645EAAC-C7B0-48EC-9AD5-AD54CC1696C6"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:18.17.0:*:*:*:lts:*:*:*",
+			"cpeNameId": "456FC4C1-5F22-419E-B96C-DFBBA9FF5D17"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:18.17.1:*:*:*:lts:*:*:*",
+			"cpeNameId": "D9045951-E9BF-4FEB-9DB6-3C74C1AF1914"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:18.18.0:*:*:*:lts:*:*:*",
+			"cpeNameId": "079139D9-A319-4944-8A35-973C613FE661"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:18.18.1:*:*:*:*:*:*:*",
 			"cpeNameId": "5E1223D6-42FE-4A2C-8C1A-59B2B9D8ADA4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:18.18.1:*:*:*:lts:*:*:*",
+			"cpeNameId": "77C3B435-4D71-47CA-BAD7-B9D2DE592E11"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:18.18.2:*:*:*:lts:*:*:*",
+			"cpeNameId": "D5AF7264-FFF6-4F2E-AF42-3613C1FACF2E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:18.19.0:*:*:*:lts:*:*:*",
+			"cpeNameId": "742BC07D-4BE7-40A9-93E1-8D8EA14E95E7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:18.19.1:*:*:*:lts:*:*:*",
+			"cpeNameId": "DF6CD785-63EF-4C1D-A192-6C49BB916B64"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:19.0.0:*:*:*:-:*:*:*",
@@ -5932,6 +6200,18 @@
 			"cpeNameId": "C8C5B053-856E-4E7F-AE2C-42C7211E714D"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:19.8.0:*:*:*:-:*:*:*",
+			"cpeNameId": "548B0DAA-1AD0-484F-9E88-79DB0B14188F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:19.8.1:*:*:*:-:*:*:*",
+			"cpeNameId": "4FC86CFF-4244-4343-857E-000D16F1CAFA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:19.9.0:*:*:*:-:*:*:*",
+			"cpeNameId": "F618FAF1-D856-4BFE-A192-F212666BC7F5"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:20.0.0:*:*:*:-:*:*:*",
 			"cpeNameId": "D6D8D84D-E1F2-4D72-ADFB-3EF0A0E16F20"
 		},
@@ -5972,12 +6252,36 @@
 			"cpeNameId": "8E4733B2-A73C-45E7-BDD6-DAAE85E9428D"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:20.7.0:*:*:*:-:*:*:*",
+			"cpeNameId": "28513DD6-DC43-4743-87BA-0CFA7DB40426"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:20.8.0:*:*:*:*:*:*:*",
 			"cpeNameId": "87F930E3-53CA-495A-8B81-E93B4A7820D1"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:20.8.0:*:*:*:-:*:*:*",
 			"cpeNameId": "7E6E2528-995F-4638-BCDD-4A82484561A7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:20.8.1:*:*:*:-:*:*:*",
+			"cpeNameId": "6B3BADDE-6C0F-4C81-8669-1F7749C511B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:20.9.0:*:*:*:lts:*:*:*",
+			"cpeNameId": "8F1D2A79-770D-4747-BECE-1533737E2DDC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:20.10.0:*:*:*:lts:*:*:*",
+			"cpeNameId": "9E11C3DC-8C50-416D-9913-0FCB0A3AD3D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:20.11.0:*:*:*:lts:*:*:*",
+			"cpeNameId": "71264F27-C086-4480-9A13-4D5272CB111E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:20.11.1:*:*:*:lts:*:*:*",
+			"cpeNameId": "9812B625-5892-4DFC-8C79-04AD72676708"
 		}
 	]
 }
