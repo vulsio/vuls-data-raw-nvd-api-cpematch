@@ -4,7 +4,7 @@
 	"versionStartIncluding": "3.1.0",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2021-07-26T17:33:47.773",
+	"cpeLastModified": "2024-03-08T18:37:11.233",
 	"status": "Active",
 	"matches": [
 		{
@@ -98,6 +98,22 @@
 		{
 			"cpeName": "cpe:2.3:a:libarchive:libarchive:3.6.1:*:*:*:*:*:*:*",
 			"cpeNameId": "F72A0ECD-1B6F-449E-9065-9DD11B28F32B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:libarchive:libarchive:3.6.2:*:*:*:*:*:*:*",
+			"cpeNameId": "59A6AA26-AAAD-4A2D-8E8A-9F9208B73306"
+		},
+		{
+			"cpeName": "cpe:2.3:a:libarchive:libarchive:3.7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "4F4157DB-4236-421D-8E1B-56FB64539E82"
+		},
+		{
+			"cpeName": "cpe:2.3:a:libarchive:libarchive:3.7.1:*:*:*:*:*:*:*",
+			"cpeNameId": "FD9EB4A7-E17D-4D86-AD10-F8A5B1F1FF6A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:libarchive:libarchive:3.7.2:*:*:*:*:*:*:*",
+			"cpeNameId": "9659FBA8-054C-4680-ACCB-2D8D2BD10EF5"
 		}
 	]
 }

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "3B32A1BB-6BB8-4D7F-ADCA-62727C4BA74E",
 	"versionEndIncluding": "3.6.2",
 	"created": "2023-06-03T00:26:13.117",
-	"lastModified": "2023-06-03T00:26:13.117",
-	"cpeLastModified": "2023-06-03T00:26:13.117",
+	"lastModified": "2024-03-08T18:37:11.233",
+	"cpeLastModified": "2024-03-08T18:37:11.233",
 	"status": "Active",
 	"matches": [
 		{
@@ -162,6 +162,10 @@
 		{
 			"cpeName": "cpe:2.3:a:libarchive:libarchive:3.6.1:*:*:*:*:*:*:*",
 			"cpeNameId": "F72A0ECD-1B6F-449E-9065-9DD11B28F32B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:libarchive:libarchive:3.6.2:*:*:*:*:*:*:*",
+			"cpeNameId": "59A6AA26-AAAD-4A2D-8E8A-9F9208B73306"
 		}
 	]
 }
