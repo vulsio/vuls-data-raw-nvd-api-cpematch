@@ -1,0 +1,16 @@
+{
+	"criteria": "cpe:2.3:a:vmware:cloud_director:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "AE6EE416-AC9B-46AE-A8E8-246F9B2FC4AE",
+	"versionStartIncluding": "10.4.0",
+	"versionEndExcluding": "10.5.1.1",
+	"created": "2024-03-11T18:59:52.940",
+	"lastModified": "2024-03-11T18:59:52.940",
+	"cpeLastModified": "2024-03-11T18:59:52.940",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:vmware:cloud_director:10.5:*:*:*:*:*:*:*",
+			"cpeNameId": "125C4D75-D329-40BD-8278-8F2CF2C64803"
+		}
+	]
+}
