@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:cisco:ios:3.4.8sg:*:*:*:*:*:*:*",
 	"matchCriteriaId": "EAC3EF10-DC79-446B-97B5-F8458DA12EE6",
 	"created": "2024-03-05T22:00:11.803",
-	"lastModified": "2024-03-05T22:00:11.803",
-	"cpeLastModified": "2024-03-05T22:00:11.803",
-	"status": "Active"
+	"lastModified": "2024-03-12T13:04:07.923",
+	"cpeLastModified": "2024-03-12T13:04:07.923",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios:3.4.8sg:*:*:*:*:*:*:*",
+			"cpeNameId": "80D9DC53-C5D3-42A9-A795-F868808497C5"
+		}
+	]
 }

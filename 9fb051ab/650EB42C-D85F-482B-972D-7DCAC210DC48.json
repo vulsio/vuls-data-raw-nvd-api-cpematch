@@ -5,7 +5,7 @@
 	"versionEndIncluding": "15.6",
 	"created": "2020-05-08T17:10:18.747",
 	"lastModified": "2020-05-08T17:10:18.747",
-	"cpeLastModified": "2023-10-04T17:35:33.953",
+	"cpeLastModified": "2024-03-12T13:04:07.923",
 	"status": "Active",
 	"matches": [
 		{
@@ -1357,6 +1357,10 @@
 			"cpeNameId": "65ED30DE-171A-4552-9526-FFDC76B1BDBF"
 		},
 		{
+			"cpeName": "cpe:2.3:o:cisco:ios:15.1\\(3\\)svv4:*:*:*:*:*:*:*",
+			"cpeNameId": "2CFD7EEE-3DCF-465C-B058-9C983656074E"
+		},
+		{
 			"cpeName": "cpe:2.3:o:cisco:ios:15.1\\(3\\)svw:*:*:*:*:*:*:*",
 			"cpeNameId": "8FB01324-4DE3-4CDE-8B81-3A9FECFFD637"
 		},
@@ -2087,6 +2091,10 @@
 		{
 			"cpeName": "cpe:2.3:o:cisco:ios:15.2\\(3m\\)e8:*:*:*:*:*:*:*",
 			"cpeNameId": "A16290C9-6F1A-4B7B-8069-EF8DFE1C026C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios:15.2\\(3r\\)gca:*:*:*:*:*:*:*",
+			"cpeNameId": "71C6D5C4-1DC8-4E67-8E4D-1B3DAC4F884B"
 		},
 		{
 			"cpeName": "cpe:2.3:o:cisco:ios:15.2\\(4\\)e:*:*:*:*:*:*:*",
@@ -3233,6 +3241,10 @@
 			"cpeNameId": "7984F40E-2F4E-4064-A1C2-51240E847E16"
 		},
 		{
+			"cpeName": "cpe:2.3:o:cisco:ios:15.3\\(3\\)jf15i:*:*:*:*:*:*:*",
+			"cpeNameId": "277A6421-37C4-4CD4-B0DF-EEEFEE9D078E"
+		},
+		{
 			"cpeName": "cpe:2.3:o:cisco:ios:15.3\\(3\\)jf35:*:*:*:*:*:*:*",
 			"cpeNameId": "F2D1765C-A183-485F-AB02-FEEA6D57A5BA"
 		},
@@ -3331,6 +3343,10 @@
 		{
 			"cpeName": "cpe:2.3:o:cisco:ios:15.3\\(3\\)jk6:*:*:*:*:*:*:*",
 			"cpeNameId": "05A781D2-024F-4017-9B59-205499EF8CF6"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios:15.3\\(3\\)jk7:*:*:*:*:*:*:*",
+			"cpeNameId": "D91DF933-E680-4B76-8F74-147DC5BB484B"
 		},
 		{
 			"cpeName": "cpe:2.3:o:cisco:ios:15.3\\(3\\)jk99:*:*:*:*:*:*:*",
@@ -3517,6 +3533,10 @@
 			"cpeNameId": "0ED708E5-884D-4D42-B785-15A1C8D81215"
 		},
 		{
+			"cpeName": "cpe:2.3:o:cisco:ios:15.3\\(3\\)jpc100:*:*:*:*:*:*:*",
+			"cpeNameId": "16461918-9A36-4F5F-A44F-61463149DD90"
+		},
+		{
 			"cpeName": "cpe:2.3:o:cisco:ios:15.3\\(3\\)jpd:*:*:*:*:*:*:*",
 			"cpeNameId": "68F7D6AB-F706-4418-91F9-A30BAA3AE028"
 		},
@@ -3561,6 +3581,14 @@
 			"cpeNameId": "9E63497D-0715-4567-B04E-758C6CBE639A"
 		},
 		{
+			"cpeName": "cpe:2.3:o:cisco:ios:15.3\\(3\\)jpi8a:*:*:*:*:*:*:*",
+			"cpeNameId": "DCEE9A9F-06CF-49D9-90EB-5D6D3963827E"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios:15.3\\(3\\)jpi9:*:*:*:*:*:*:*",
+			"cpeNameId": "E4806921-EF79-4FB5-AC09-FC4439034634"
+		},
+		{
 			"cpeName": "cpe:2.3:o:cisco:ios:15.3\\(3\\)jpi11:*:*:*:*:*:*:*",
 			"cpeNameId": "8C4D6BFD-65CE-43C5-898A-BDEB49824BB9"
 		},
@@ -3601,8 +3629,20 @@
 			"cpeNameId": "2A592E82-7619-4E35-8008-E7934D89BDE3"
 		},
 		{
+			"cpeName": "cpe:2.3:o:cisco:ios:15.3\\(3\\)jpj7c:*:*:*:*:*:*:*",
+			"cpeNameId": "4FD7D7BB-BE35-4CBB-9B19-5CC63AC77B13"
+		},
+		{
 			"cpeName": "cpe:2.3:o:cisco:ios:15.3\\(3\\)jpj8:*:*:*:*:*:*:*",
 			"cpeNameId": "A3EFAAEC-CD45-47E4-B90C-0DEB1A91B368"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios:15.3\\(3\\)jpj8a:*:*:*:*:*:*:*",
+			"cpeNameId": "52E00770-D4A8-4105-B2D7-487B545474EA"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios:15.3\\(3\\)jpj8b:*:*:*:*:*:*:*",
+			"cpeNameId": "4210A631-C00E-4164-BE66-AFCD8EF4D9F8"
 		},
 		{
 			"cpeName": "cpe:2.3:o:cisco:ios:15.3\\(3\\)jpk:*:*:*:*:*:*:*",
@@ -3615,6 +3655,14 @@
 		{
 			"cpeName": "cpe:2.3:o:cisco:ios:15.3\\(3\\)jpk2:*:*:*:*:*:*:*",
 			"cpeNameId": "28523FC7-E97D-4BF5-99AD-3C07DED94B4D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios:15.3\\(3\\)jpk3:*:*:*:*:*:*:*",
+			"cpeNameId": "E929D886-202D-4EC0-B4F0-CD5506DC9623"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios:15.3\\(3\\)jpl:*:*:*:*:*:*:*",
+			"cpeNameId": "3DC2DE32-319D-458B-BE97-788F5DA8AC22"
 		},
 		{
 			"cpeName": "cpe:2.3:o:cisco:ios:15.3\\(3\\)m:*:*:*:*:*:*:*",
@@ -4271,6 +4319,10 @@
 		{
 			"cpeName": "cpe:2.3:o:cisco:ios:15.5\\(3\\)m11a:*:*:*:*:*:*:*",
 			"cpeNameId": "280F2EFC-C205-45AC-947B-2EDB961655E9"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios:15.5\\(3\\)m11b:*:*:*:*:*:*:*",
+			"cpeNameId": "AED2086B-F04E-4B05-867D-D1B034B3C37A"
 		},
 		{
 			"cpeName": "cpe:2.3:o:cisco:ios:15.5\\(3\\)s:*:*:*:*:*:*:*",
