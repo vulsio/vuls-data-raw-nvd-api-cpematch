@@ -4,7 +4,7 @@
 	"versionEndIncluding": "0.21.0",
 	"created": "2021-02-01T17:32:02.853",
 	"lastModified": "2021-02-01T17:32:02.853",
-	"cpeLastModified": "2021-03-04T15:14:26.710",
+	"cpeLastModified": "2024-03-12T21:10:39.203",
 	"status": "Active",
 	"matches": [
 		{
@@ -1236,8 +1236,20 @@
 			"cpeNameId": "9FD8286B-023E-4DFF-B006-7DC8669B357E"
 		},
 		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.20.2:-:*:*:*:*:*:*",
+			"cpeNameId": "424D7404-06D5-4CC0-967C-EC261DD4C0A6"
+		},
+		{
 			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.20.2:rc1:*:*:*:*:*:*",
 			"cpeNameId": "83B39465-2B6B-48F9-8F92-6DA4B3308CD8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.20.2:rc2:*:*:*:*:*:*",
+			"cpeNameId": "69B479D0-CAA4-414F-B123-7F00B19915AD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.20.2:rc3:*:*:*:*:*:*",
+			"cpeNameId": "DC6DC110-9219-41B7-B6E1-0136BBAFDA4B"
 		},
 		{
 			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.21.0:-:*:*:*:*:*:*",

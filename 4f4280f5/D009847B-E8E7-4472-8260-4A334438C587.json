@@ -3,7 +3,7 @@
 	"matchCriteriaId": "D009847B-E8E7-4472-8260-4A334438C587",
 	"created": "2020-03-18T17:31:06.817",
 	"lastModified": "2020-03-18T17:31:06.817",
-	"cpeLastModified": "2023-06-07T13:29:17.360",
+	"cpeLastModified": "2024-03-12T21:10:39.203",
 	"status": "Active",
 	"matches": [
 		{
@@ -1235,8 +1235,20 @@
 			"cpeNameId": "9FD8286B-023E-4DFF-B006-7DC8669B357E"
 		},
 		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.20.2:-:*:*:*:*:*:*",
+			"cpeNameId": "424D7404-06D5-4CC0-967C-EC261DD4C0A6"
+		},
+		{
 			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.20.2:rc1:*:*:*:*:*:*",
 			"cpeNameId": "83B39465-2B6B-48F9-8F92-6DA4B3308CD8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.20.2:rc2:*:*:*:*:*:*",
+			"cpeNameId": "69B479D0-CAA4-414F-B123-7F00B19915AD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.20.2:rc3:*:*:*:*:*:*",
+			"cpeNameId": "DC6DC110-9219-41B7-B6E1-0136BBAFDA4B"
 		},
 		{
 			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.21.0:-:*:*:*:*:*:*",
@@ -1261,6 +1273,26 @@
 		{
 			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.21.0:rc5:*:*:*:*:*:*",
 			"cpeNameId": "DC431901-594C-45BE-80EE-BDBE36324DC1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.21.1:-:*:*:*:*:*:*",
+			"cpeNameId": "50F37F24-67EC-4423-ABE6-87ED9F3D81CD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.21.1:rc1:*:*:*:*:*:*",
+			"cpeNameId": "6BF22C7E-E8C9-44CC-AD42-4A297E464E62"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.21.2:-:*:*:*:*:*:*",
+			"cpeNameId": "03109C9D-9370-4FC5-A260-84EF92D5E5AA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.21.2:rc1:*:*:*:*:*:*",
+			"cpeNameId": "C1DCDE0E-EF04-4551-B65B-CDD429246EC1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.21.2:rc2:*:*:*:*:*:*",
+			"cpeNameId": "8B8207AF-DEB0-453E-8876-73974ED28198"
 		},
 		{
 			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:22.0:-:*:*:*:*:*:*",
@@ -1373,6 +1405,66 @@
 		{
 			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:24.1:rc3:*:*:*:*:*:*",
 			"cpeNameId": "7F47EED2-989B-4A69-8DC3-E3B996F16518"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:24.2:-:*:*:*:*:*:*",
+			"cpeNameId": "B324BB68-A9B5-4BC9-BFB6-3A8670E6CD2C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:24.2:rc1:*:*:*:*:*:*",
+			"cpeNameId": "AEF648EE-A164-466B-B466-F9732EA3007F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:25.0:-:*:*:*:*:*:*",
+			"cpeNameId": "79568D96-6C98-4AEF-9E71-762D57F14461"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:25.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "0EE1B6DA-64E9-44FE-B181-B91F9CF75182"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:25.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "D223CD4E-B313-43D7-B75E-B440F3D09775"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:25.1:-:*:*:*:*:*:*",
+			"cpeNameId": "EFBF1BA3-EBDB-4602-A071-0E480C5128C9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:25.1:rc1:*:*:*:*:*:*",
+			"cpeNameId": "B32D3B16-B29C-4D9E-860A-122A08987069"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:25.2:rc1:*:*:*:*:*:*",
+			"cpeNameId": "F75F9D39-C7A8-4A04-B4C0-E76E7994DF2B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:26.0:-:*:*:*:*:*:*",
+			"cpeNameId": "E783D879-1840-4B10-A1E3-969B65C0D8B5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:26.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "62BCDDFE-0C50-4EAA-8DD3-CF272168B24F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:26.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "39CFBBAF-CB70-4BBF-A70A-32E86588F07C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:26.0:rc3:*:*:*:*:*:*",
+			"cpeNameId": "60B0B7B6-10AB-4EFE-BC51-C0B3D4611ADD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:26.1:rc1:*:*:*:*:*:*",
+			"cpeNameId": "8FB35381-4502-4288-B461-9F7E6D45F85E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:26.1:rc2:*:*:*:*:*:*",
+			"cpeNameId": "D3FA7BD5-A182-4374-9BE4-B266C10AB480"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:27.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "18C1A087-C90A-41D6-94D8-4AB59C299ED2"
 		}
 	]
 }
