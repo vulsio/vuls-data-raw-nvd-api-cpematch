@@ -1,10 +1,10 @@
 {
 	"criteria": "cpe:2.3:o:linux:linux_kernel:*:*:*:*:*:*:*:*",
-	"matchCriteriaId": "08F5EF97-E1B9-46F0-979B-E77F62DD8DB1",
-	"versionEndExcluding": "3.2.63",
-	"created": "2023-12-29T15:36:10.240",
-	"lastModified": "2024-03-14T15:02:25.667",
-	"cpeLastModified": "2024-03-11T15:23:15.143",
+	"matchCriteriaId": "610F4D74-4688-40BE-AB0E-893944B3E9BB",
+	"versionEndExcluding": "3.2.67",
+	"created": "2024-03-14T14:45:10.857",
+	"lastModified": "2024-03-14T14:45:10.857",
+	"cpeLastModified": "2024-03-14T14:45:10.857",
 	"status": "Active",
 	"matches": [
 		{
@@ -6050,6 +6050,22 @@
 		{
 			"cpeName": "cpe:2.3:o:linux:linux_kernel:3.2.62:*:*:*:*:*:*:*",
 			"cpeNameId": "B3E4D758-9655-434E-8CF9-32F57D3DC028"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:3.2.63:*:*:*:*:*:*:*",
+			"cpeNameId": "1913A11B-D750-4125-85DA-B7FBFB0F616C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:3.2.64:*:*:*:*:*:*:*",
+			"cpeNameId": "B494BFB3-2991-4ED8-A6C2-FF35DBB3B81F"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:3.2.65:*:*:*:*:*:*:*",
+			"cpeNameId": "4807B2C5-66DD-43D0-AB28-2A645FDC6CFA"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:3.2.66:*:*:*:*:*:*:*",
+			"cpeNameId": "DE631770-040B-4FBC-8409-4F649697BD93"
 		}
 	]
 }
