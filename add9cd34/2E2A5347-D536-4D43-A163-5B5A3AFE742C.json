@@ -4,7 +4,13 @@
 	"versionStartIncluding": "7.4.0",
 	"versionEndIncluding": "7.4.1",
 	"created": "2024-01-16T14:54:18.643",
-	"lastModified": "2024-01-19T03:00:23.130",
-	"cpeLastModified": "2024-01-16T14:54:18.643",
-	"status": "Inactive"
+	"lastModified": "2024-03-14T20:11:49.457",
+	"cpeLastModified": "2024-03-14T20:11:49.457",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:fortinet:fortios:7.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E8CCA7BC-F75E-42CF-A329-6A2303C7C424"
+		}
+	]
 }
