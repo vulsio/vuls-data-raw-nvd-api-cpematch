@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:a:cisco:sd-wan_vbond_orchestrator:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "8DAA7264-AAAB-4F6B-9CC0-4B90CECB5BF1",
+	"versionEndExcluding": "19.2.4",
+	"created": "2024-03-16T14:11:37.123",
+	"lastModified": "2024-03-16T14:11:37.123",
+	"cpeLastModified": "2024-03-16T14:11:37.123",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:sd-wan_vbond_orchestrator:-:*:*:*:*:*:*:*",
+			"cpeNameId": "20B89B1D-C3E8-463C-9970-5A82451F5A10"
+		}
+	]
+}

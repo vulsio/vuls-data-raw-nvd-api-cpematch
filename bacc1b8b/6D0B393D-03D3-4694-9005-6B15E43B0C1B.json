@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:a:cisco:sd-wan_vsmart_controller:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6D0B393D-03D3-4694-9005-6B15E43B0C1B",
+	"versionEndExcluding": "19.2.4",
+	"created": "2024-03-16T14:11:37.123",
+	"lastModified": "2024-03-16T14:11:37.123",
+	"cpeLastModified": "2024-03-16T14:11:37.123",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:sd-wan_vsmart_controller:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E587B4FE-D74A-4667-90AF-347BEB17D2C4"
+		}
+	]
+}

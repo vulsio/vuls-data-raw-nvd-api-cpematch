@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:a:cisco:sd-wan_vedge_router:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F23A8273-DC16-4589-9D30-F4B3DAC25090",
+	"versionEndExcluding": "19.2.4",
+	"created": "2024-03-16T14:11:37.123",
+	"lastModified": "2024-03-16T14:11:37.123",
+	"cpeLastModified": "2024-03-16T14:11:37.123",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:sd-wan_vedge_router:-:*:*:*:*:*:*:*",
+			"cpeNameId": "82232BC4-4A54-4946-A301-A2C46D251F60"
+		}
+	]
+}

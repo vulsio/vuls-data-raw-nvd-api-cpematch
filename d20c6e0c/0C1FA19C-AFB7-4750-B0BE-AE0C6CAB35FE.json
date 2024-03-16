@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:a:cisco:sd-wan_vedge_cloud:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0C1FA19C-AFB7-4750-B0BE-AE0C6CAB35FE",
+	"versionEndExcluding": "19.2.4",
+	"created": "2024-03-16T14:11:37.123",
+	"lastModified": "2024-03-16T14:11:37.123",
+	"cpeLastModified": "2024-03-16T14:11:37.123",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:sd-wan_vedge_cloud:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DE8475EC-0F6D-4EB0-A100-E144A47297CD"
+		}
+	]
+}
