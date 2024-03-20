@@ -3,12 +3,16 @@
 	"matchCriteriaId": "6C24D008-D055-4A2C-88D4-85FB6DC45EFE",
 	"created": "2019-12-09T16:00:12.537",
 	"lastModified": "2019-12-09T16:00:12.537",
-	"cpeLastModified": "2023-11-16T21:09:03.457",
+	"cpeLastModified": "2024-03-20T13:57:27.073",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:o:qnap:qts:4.3.6.0907:*:*:*:*:*:*:*",
 			"cpeNameId": "15A9210E-D09C-4A25-9FAA-E2CDB7A2394D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:qts:4.3.6.0907:-:*:*:*:*:*:*",
+			"cpeNameId": "6C9B10E5-FF83-41BC-9BE3-0648E634463D"
 		},
 		{
 			"cpeName": "cpe:2.3:o:qnap:qts:4.3.6.0907:build_20190409:*:*:*:*:*:*",

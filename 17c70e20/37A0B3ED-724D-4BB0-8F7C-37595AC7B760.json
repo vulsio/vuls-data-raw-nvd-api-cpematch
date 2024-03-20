@@ -5,6 +5,12 @@
 	"versionEndExcluding": "6.4.2",
 	"created": "2024-02-07T14:50:01.883",
 	"lastModified": "2024-02-07T14:50:01.883",
-	"cpeLastModified": "2024-02-07T14:50:01.883",
-	"status": "Active"
+	"cpeLastModified": "2024-03-20T13:40:01.783",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:qnap:photo_station:6.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A82717F7-745A-4E91-8D3B-4FFBF0BF2E18"
+		}
+	]
 }

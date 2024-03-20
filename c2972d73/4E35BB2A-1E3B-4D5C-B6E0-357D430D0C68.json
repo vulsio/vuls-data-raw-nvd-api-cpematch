@@ -5,7 +5,7 @@
 	"versionEndExcluding": "4.3.4.0899",
 	"created": "2021-01-06T12:13:11.143",
 	"lastModified": "2021-01-06T12:13:11.143",
-	"cpeLastModified": "2021-09-07T12:57:15.517",
+	"cpeLastModified": "2024-03-20T13:57:27.073",
 	"status": "Active",
 	"matches": [
 		{
@@ -21,12 +21,20 @@
 			"cpeNameId": "D1C86A68-71BB-4DB5-949E-84539BBD6341"
 		},
 		{
+			"cpeName": "cpe:2.3:o:qnap:qts:4.3.4.0358:-:*:*:*:*:*:*",
+			"cpeNameId": "F26BC107-F750-4656-B6C4-B682AA7010C9"
+		},
+		{
 			"cpeName": "cpe:2.3:o:qnap:qts:4.3.4.0358:beta1:*:*:*:*:*:*",
 			"cpeNameId": "85727835-EDC5-4DBE-BF22-DAD0A3E28A7A"
 		},
 		{
 			"cpeName": "cpe:2.3:o:qnap:qts:4.3.4.0370:*:*:*:*:*:*:*",
 			"cpeNameId": "43DB0AB0-3628-4AED-8F42-EE36282FC574"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:qts:4.3.4.0370:-:*:*:*:*:*:*",
+			"cpeNameId": "959ECFAF-0DB3-4A20-AA65-1E3652269EC0"
 		},
 		{
 			"cpeName": "cpe:2.3:o:qnap:qts:4.3.4.0370:beta1:*:*:*:*:*:*",
@@ -37,6 +45,10 @@
 			"cpeNameId": "AD71C06A-9174-47BB-96C0-0E9E69CEB3DD"
 		},
 		{
+			"cpeName": "cpe:2.3:o:qnap:qts:4.3.4.0372:-:*:*:*:*:*:*",
+			"cpeNameId": "2200190C-63B1-44C8-A811-613040538CA0"
+		},
+		{
 			"cpeName": "cpe:2.3:o:qnap:qts:4.3.4.0372:beta1:*:*:*:*:*:*",
 			"cpeNameId": "AB284130-B67A-4FC5-AC3D-AE2420519D00"
 		},
@@ -45,12 +57,20 @@
 			"cpeNameId": "12D32ED3-548F-4BFC-A71A-6BF6AC6D4664"
 		},
 		{
+			"cpeName": "cpe:2.3:o:qnap:qts:4.3.4.0374:-:*:*:*:*:*:*",
+			"cpeNameId": "5F13A0A9-29D8-4AFA-93C2-B41AD972A764"
+		},
+		{
 			"cpeName": "cpe:2.3:o:qnap:qts:4.3.4.0374:beta1:*:*:*:*:*:*",
 			"cpeNameId": "2E0CE766-C5C7-43A6-AEE2-D7BF0A164C81"
 		},
 		{
 			"cpeName": "cpe:2.3:o:qnap:qts:4.3.4.0387:*:*:*:*:*:*:*",
 			"cpeNameId": "7C8F447A-8CCC-4851-8A64-9BACF17F084D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:qts:4.3.4.0387:-:*:*:*:*:*:*",
+			"cpeNameId": "0BE68303-4DDC-4961-91BD-DF44EA99B0E5"
 		},
 		{
 			"cpeName": "cpe:2.3:o:qnap:qts:4.3.4.0387:beta2:*:*:*:*:*:*",
