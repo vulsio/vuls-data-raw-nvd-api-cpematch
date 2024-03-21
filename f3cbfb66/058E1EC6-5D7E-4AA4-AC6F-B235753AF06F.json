@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:bosch:divar_ip_all-in-one_4000:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "058E1EC6-5D7E-4AA4-AC6F-B235753AF06F",
 	"created": "2023-12-22T16:32:13.147",
-	"lastModified": "2023-12-22T16:32:13.147",
-	"cpeLastModified": "2023-12-22T16:32:13.147",
-	"status": "Active"
+	"lastModified": "2024-03-21T12:01:09.983",
+	"cpeLastModified": "2024-03-21T12:01:09.983",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:bosch:divar_ip_all-in-one_4000:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CEC86CCA-C422-479C-86F9-DE3F97CCEEE9"
+		}
+	]
 }
