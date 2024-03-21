@@ -5,7 +5,7 @@
 	"versionEndIncluding": "19.0.0.3",
 	"created": "2020-02-28T07:31:18.503",
 	"lastModified": "2020-02-28T07:31:18.503",
-	"cpeLastModified": "2023-01-23T15:14:29.660",
+	"cpeLastModified": "2024-03-20T19:51:43.680",
 	"status": "Active",
 	"matches": [
 		{
@@ -49,6 +49,10 @@
 			"cpeNameId": "2F598D35-E9CD-45B4-A2CD-FD68F7D891E0"
 		},
 		{
+			"cpeName": "cpe:2.3:a:ibm:business_automation_workflow:19.0.0.1:*:*:*:traditional:*:*:*",
+			"cpeNameId": "F8AD7CD1-2703-4C88-944E-089AE3ABF750"
+		},
+		{
 			"cpeName": "cpe:2.3:a:ibm:business_automation_workflow:19.0.0.2:*:*:*:*:*:*:*",
 			"cpeNameId": "D3B79AAE-A940-49FB-9746-E4B63C342FB9"
 		},
@@ -63,6 +67,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ibm:business_automation_workflow:19.0.0.3:*:*:*:-:*:*:*",
 			"cpeNameId": "6987A9D0-EF7F-4A96-893C-B776AA27A87B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:business_automation_workflow:19.0.0.3:*:*:*:traditional:*:*:*",
+			"cpeNameId": "0E596BAF-3D05-481D-9CBF-E2BDF413E165"
 		}
 	]
 }
