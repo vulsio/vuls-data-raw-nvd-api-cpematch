@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:lancom-systems:lcos_fx:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "F1C91308-15E5-40AF-B4D5-3CAD7BC65DDF",
 	"created": "2023-12-27T17:10:56.697",
-	"lastModified": "2023-12-27T17:10:56.697",
-	"cpeLastModified": "2023-12-27T17:10:56.697",
-	"status": "Active"
+	"lastModified": "2024-03-21T16:02:08.787",
+	"cpeLastModified": "2024-03-21T16:02:08.787",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:lancom-systems:lcos_fx:-:*:*:*:*:*:*:*",
+			"cpeNameId": "17D558E2-7586-426B-A49B-83DDFBF13857"
+		}
+	]
 }

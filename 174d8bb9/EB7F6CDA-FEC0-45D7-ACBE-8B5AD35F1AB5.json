@@ -4,6 +4,16 @@
 	"versionEndExcluding": "1.1",
 	"created": "2024-03-11T14:19:03.880",
 	"lastModified": "2024-03-11T14:19:03.880",
-	"cpeLastModified": "2024-03-11T14:19:03.880",
-	"status": "Active"
+	"cpeLastModified": "2024-03-21T15:59:39.230",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:apple:visionos:-:*:*:*:*:*:*:*",
+			"cpeNameId": "518948E4-58C3-4DF1-849D-19427DD25A4B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:visionos:1.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "B882CEF1-0006-4A24-8AAE-6670326C3799"
+		}
+	]
 }
