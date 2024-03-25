@@ -3,7 +3,13 @@
 	"matchCriteriaId": "258E49A5-480F-463A-A7AE-891A918FA851",
 	"versionEndIncluding": "031",
 	"created": "2024-03-19T16:14:46.740",
-	"lastModified": "2024-03-20T02:00:22.770",
-	"cpeLastModified": "2024-03-19T16:14:46.740",
-	"status": "Inactive"
+	"lastModified": "2024-03-25T16:44:27.860",
+	"cpeLastModified": "2024-03-25T16:44:27.860",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:liveboxcloud:vdesk:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7F8C5F18-5E98-498D-A573-B0A17CF4E770"
+		}
+	]
 }

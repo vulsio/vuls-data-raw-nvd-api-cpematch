@@ -3,8 +3,8 @@
 	"matchCriteriaId": "52FADC1E-8BF0-4C3E-B231-E33965CE4469",
 	"versionEndIncluding": "10.02.0",
 	"created": "2023-12-08T18:21:46.990",
-	"lastModified": "2023-12-08T18:21:46.990",
-	"cpeLastModified": "2023-12-08T18:21:46.990",
+	"lastModified": "2024-03-25T18:02:08.647",
+	"cpeLastModified": "2024-03-25T18:02:08.647",
 	"status": "Active",
 	"matches": [
 		{
@@ -1078,6 +1078,10 @@
 		{
 			"cpeName": "cpe:2.3:a:artifex:ghostscript:10.01.2:*:*:*:*:*:*:*",
 			"cpeNameId": "F8BEB8BC-0364-4946-BA56-EC37C7D46EB5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:artifex:ghostscript:10.02.0:*:*:*:*:*:*:*",
+			"cpeNameId": "201C678A-D762-4AC4-8548-2DFDA76D5C30"
 		}
 	]
 }

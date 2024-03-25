@@ -4,8 +4,8 @@
 	"versionStartIncluding": "1.0.0",
 	"versionEndExcluding": "1.12.5",
 	"created": "2022-06-24T14:03:10.453",
-	"lastModified": "2022-06-24T14:03:10.453",
-	"cpeLastModified": "2024-03-20T11:47:04.237",
+	"lastModified": "2024-03-25T17:46:31.420",
+	"cpeLastModified": "2024-03-25T17:51:48.830",
 	"status": "Active",
 	"matches": [
 		{
@@ -75,6 +75,42 @@
 		{
 			"cpeName": "cpe:2.3:a:1password:command-line:1.10.3:*:*:*:*:*:*:*",
 			"cpeNameId": "720460AE-3131-4CCC-89DA-3CE4AB52CDA2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:command-line:1.11.0:*:*:*:*:*:*:*",
+			"cpeNameId": "EF1192E4-5A8E-4D06-9152-42A2E7503F53"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:command-line:1.11.1:*:*:*:*:*:*:*",
+			"cpeNameId": "00585C97-B196-44EA-9C06-D94322B0322A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:command-line:1.11.2:*:*:*:*:*:*:*",
+			"cpeNameId": "4C80877F-3E14-4FDD-BA98-D3F8F7911820"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:command-line:1.11.3:*:*:*:*:*:*:*",
+			"cpeNameId": "5BD48645-B471-488B-92C4-DF2E2C314C5F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:command-line:1.11.4:*:*:*:*:*:*:*",
+			"cpeNameId": "044CDFC8-C20D-4D69-AF2B-B020FB6E25AE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:command-line:1.12.1:*:*:*:*:*:*:*",
+			"cpeNameId": "7384502D-7F5B-4D2F-9A8E-771F05CA136F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:command-line:1.12.2:*:*:*:*:*:*:*",
+			"cpeNameId": "BEC18C7A-2C93-44B4-AA02-47E607E8986A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:command-line:1.12.3:*:*:*:*:*:*:*",
+			"cpeNameId": "0A642FF0-C7BC-43CB-B446-92381B6E6B45"
+		},
+		{
+			"cpeName": "cpe:2.3:a:1password:command-line:1.12.4:*:*:*:*:*:*:*",
+			"cpeNameId": "A7D76049-07B4-4053-BB08-2ED131FA5B4D"
 		}
 	]
 }
