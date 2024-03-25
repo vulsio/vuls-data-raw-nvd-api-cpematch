@@ -4,9 +4,13 @@
 	"versionEndIncluding": "0.3.3",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2020-02-10T17:41:47.720",
+	"cpeLastModified": "2024-03-25T12:02:03.853",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:-:*:*:*:*:-:*:*",
+			"cpeNameId": "93081DCE-F70B-4307-9045-A1D9B23EE111"
+		},
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:0.0.1:*:*:*:*:*:*:*",
 			"cpeNameId": "02CE5ABC-E474-4934-A9FD-31CB095AE19D"
