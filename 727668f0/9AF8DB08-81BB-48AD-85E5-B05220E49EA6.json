@@ -1,11 +1,11 @@
 {
 	"criteria": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:*:*:*:*:*:*:*:*",
-	"matchCriteriaId": "8FE959B6-4D4C-4C47-ADE2-7F45F8366DDA",
+	"matchCriteriaId": "9AF8DB08-81BB-48AD-85E5-B05220E49EA6",
 	"versionStartIncluding": "42.3.0",
-	"versionEndExcluding": "42.4.1",
-	"created": "2022-08-09T17:12:43.990",
-	"lastModified": "2022-11-28T13:46:51.583",
-	"cpeLastModified": "2024-03-24T21:17:42.970",
+	"versionEndExcluding": "42.3.9",
+	"created": "2024-03-24T21:03:31.777",
+	"lastModified": "2024-03-24T21:03:31.777",
+	"cpeLastModified": "2024-03-24T21:03:31.777",
 	"status": "Active",
 	"matches": [
 		{
@@ -91,30 +91,6 @@
 		{
 			"cpeName": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.8:rc1:*:*:*:*:*:*",
 			"cpeNameId": "B5A19C0A-7F7B-4BDA-83E5-131D2E29E1AF"
-		},
-		{
-			"cpeName": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.9:-:*:*:*:*:*:*",
-			"cpeNameId": "16485864-621A-41B0-868E-3A98C0DB6299"
-		},
-		{
-			"cpeName": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.9:rc1:*:*:*:*:*:*",
-			"cpeNameId": "872A3BED-C6EC-406F-AA74-9B28A47639D6"
-		},
-		{
-			"cpeName": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.10:-:*:*:*:*:*:*",
-			"cpeNameId": "F32E427B-4C61-4A93-8289-8879752F8072"
-		},
-		{
-			"cpeName": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.10:rc1:*:*:*:*:*:*",
-			"cpeNameId": "1E730510-8867-4519-BF58-48CE66113857"
-		},
-		{
-			"cpeName": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.4.0:-:*:*:*:*:*:*",
-			"cpeNameId": "C529A523-A178-4ABE-ABE6-42665E4190D0"
-		},
-		{
-			"cpeName": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.4.0:rc1:*:*:*:*:*:*",
-			"cpeNameId": "1759AC1F-7C65-4DF2-92D7-4977D14734B4"
 		}
 	]
 }
