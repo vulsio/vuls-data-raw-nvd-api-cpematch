@@ -3,7 +3,7 @@
 	"matchCriteriaId": "3C15E168-11DA-4219-B689-78BC48935263",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-10-25T20:42:53.037",
+	"cpeLastModified": "2024-03-26T12:11:19.983",
 	"status": "Active",
 	"matches": [
 		{
@@ -1029,6 +1029,10 @@
 		{
 			"cpeName": "cpe:2.3:o:cisco:ios_xr:7.3.1:*:*:*:*:*:*:*",
 			"cpeNameId": "8019CB95-BB82-4EC7-8F83-4F56BC933986"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios_xr:7.3.2:*:*:*:*:*:*:*",
+			"cpeNameId": "2F02C985-D816-49BA-BBB4-A2FD67825969"
 		},
 		{
 			"cpeName": "cpe:2.3:o:cisco:ios_xr:7.3.5:*:*:*:*:*:*:*",

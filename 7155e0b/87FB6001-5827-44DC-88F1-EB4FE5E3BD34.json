@@ -3,7 +3,7 @@
 	"matchCriteriaId": "87FB6001-5827-44DC-88F1-EB4FE5E3BD34",
 	"created": "2023-11-05T13:53:37.610",
 	"lastModified": "2023-11-05T13:53:37.610",
-	"cpeLastModified": "2023-12-15T16:51:32.947",
+	"cpeLastModified": "2024-03-26T12:36:00.533",
 	"status": "Active",
 	"matches": [
 		{
@@ -37,6 +37,10 @@
 		{
 			"cpeName": "cpe:2.3:o:univention:univention_corporate_server:5.0:6:*:*:*:*:*:*",
 			"cpeNameId": "0979A1FC-C941-4C29-ABAD-36AECFB27E44"
+		},
+		{
+			"cpeName": "cpe:2.3:o:univention:univention_corporate_server:5.0:7:*:*:*:*:*:*",
+			"cpeNameId": "C6112F27-029D-4130-881E-D09CD0F3F149"
 		}
 	]
 }
