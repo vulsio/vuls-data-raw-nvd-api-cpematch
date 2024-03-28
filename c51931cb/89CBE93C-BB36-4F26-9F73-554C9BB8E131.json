@@ -3,7 +3,7 @@
 	"matchCriteriaId": "89CBE93C-BB36-4F26-9F73-554C9BB8E131",
 	"created": "2022-06-24T13:53:07.433",
 	"lastModified": "2024-01-03T13:45:25.483",
-	"cpeLastModified": "2024-01-03T13:45:25.483",
+	"cpeLastModified": "2024-03-28T17:19:15.800",
 	"status": "Active",
 	"matches": [
 		{
@@ -16141,6 +16141,26 @@
 		{
 			"cpeName": "cpe:2.3:h:intel:quark_soc:-:*:*:*:*:*:*:*",
 			"cpeNameId": "B78F2DD1-58C8-4E4C-8FB8-25014E0C6D3B"
+		},
+		{
+			"cpeName": "cpe:2.3:h:intel:quickassist_technology:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9F2002B0-7D5D-493A-B1FA-A15FD697E968"
+		},
+		{
+			"cpeName": "cpe:2.3:h:intel:quickassist_technology:1.0:*:*:*:*:windows:*:*",
+			"cpeNameId": "C2DCBE2C-A9EF-48D1-8663-4A6D6240C686"
+		},
+		{
+			"cpeName": "cpe:2.3:h:intel:quickassist_technology:1.10:*:*:*:*:windows:*:*",
+			"cpeNameId": "BD395111-C254-40DB-B1D6-6DA23953730E"
+		},
+		{
+			"cpeName": "cpe:2.3:h:intel:quickassist_technology:2.0:*:*:*:*:windows:*:*",
+			"cpeNameId": "E77F4414-0DFE-439A-A4DB-F495C033E485"
+		},
+		{
+			"cpeName": "cpe:2.3:h:intel:quickassist_technology:2.04:*:*:*:*:windows:*:*",
+			"cpeNameId": "8120ECD9-6520-4AD7-9917-BC569ED4E2F1"
 		},
 		{
 			"cpeName": "cpe:2.3:h:intel:quickassist_technology_driver:1.0:*:*:*:*:windows:*:*",

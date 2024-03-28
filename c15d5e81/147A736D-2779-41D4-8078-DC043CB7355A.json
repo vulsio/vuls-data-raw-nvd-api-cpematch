@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:skystream:emr5000:1.17:*:*:*:*:*:*:*",
 	"matchCriteriaId": "147A736D-2779-41D4-8078-DC043CB7355A",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
-	"status": "Active"
+	"lastModified": "2024-03-28T17:23:24.093",
+	"cpeLastModified": "2024-03-28T17:23:24.093",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:skystream:emr5000:1.17:*:*:*:*:*:*:*",
+			"cpeNameId": "A3DD0099-B173-477E-944E-12911F63CE98"
+		}
+	]
 }
