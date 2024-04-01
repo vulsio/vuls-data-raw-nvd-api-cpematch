@@ -4,7 +4,7 @@
 	"versionEndIncluding": "23.4",
 	"created": "2023-09-06T00:28:54.993",
 	"lastModified": "2023-09-06T00:28:54.993",
-	"cpeLastModified": "2023-12-16T03:42:31.200",
+	"cpeLastModified": "2024-04-01T13:15:54.927",
 	"status": "Active",
 	"matches": [
 		{
@@ -292,6 +292,10 @@
 			"cpeNameId": "E029CD40-88BC-459C-B949-2DCDC02014C8"
 		},
 		{
+			"cpeName": "cpe:2.3:o:juniper:junos_os_evolved:21.2:r3-s6:*:*:*:*:*:*",
+			"cpeNameId": "2D7EF4BB-9AAE-4ACA-9838-156051AEA9E6"
+		},
+		{
 			"cpeName": "cpe:2.3:o:juniper:junos_os_evolved:21.3:-:*:*:*:*:*:*",
 			"cpeNameId": "B058C2F6-3D7A-46D4-9EF7-2B44D757C2A4"
 		},
@@ -384,6 +388,10 @@
 			"cpeNameId": "8A37A1DE-180C-4734-9779-A6ADDFE6821D"
 		},
 		{
+			"cpeName": "cpe:2.3:o:juniper:junos_os_evolved:21.4:r3-s5:*:*:*:*:*:*",
+			"cpeNameId": "95A3FDE2-C76B-43C7-B92F-9A4199A169DC"
+		},
+		{
 			"cpeName": "cpe:2.3:o:juniper:junos_os_evolved:22.1:-:*:*:*:*:*:*",
 			"cpeNameId": "7D3235EF-7A46-4584-8BC4-6D99C6ED1FCA"
 		},
@@ -422,6 +430,10 @@
 		{
 			"cpeName": "cpe:2.3:o:juniper:junos_os_evolved:22.1:r3-s3:*:*:*:*:*:*",
 			"cpeNameId": "04A1AF63-2230-44FC-A5E0-5C3FF0F83E12"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos_os_evolved:22.1:r3-s4:*:*:*:*:*:*",
+			"cpeNameId": "B2FE2CA6-B7C7-4A10-8293-9E2893D2748E"
 		},
 		{
 			"cpeName": "cpe:2.3:o:juniper:junos_os_evolved:22.2:-:*:*:*:*:*:*",
@@ -496,6 +508,10 @@
 			"cpeNameId": "D18A0A1D-83EE-475A-A803-BE541D1E044A"
 		},
 		{
+			"cpeName": "cpe:2.3:o:juniper:junos_os_evolved:22.3:r3-s2:*:*:*:*:*:*",
+			"cpeNameId": "3E8EB4B0-2216-48E8-AEAF-F6A7426094DF"
+		},
+		{
 			"cpeName": "cpe:2.3:o:juniper:junos_os_evolved:22.4:-:*:*:*:*:*:*",
 			"cpeNameId": "6F4ED45A-9282-4DFC-9B89-DEACBD907149"
 		},
@@ -522,6 +538,14 @@
 		{
 			"cpeName": "cpe:2.3:o:juniper:junos_os_evolved:22.4:r2-s2:*:*:*:*:*:*",
 			"cpeNameId": "770958C3-944C-4868-BD90-2720FC3DB3DF"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos_os_evolved:22.4:r3:*:*:*:*:*:*",
+			"cpeNameId": "9256DF81-9B31-45AD-A9BE-0F45EFE5662C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos_os_evolved:23.1:-:*:*:*:*:*:*",
+			"cpeNameId": "9EBFED51-9DCE-4A71-8D2C-9633B1D58AB7"
 		},
 		{
 			"cpeName": "cpe:2.3:o:juniper:junos_os_evolved:23.1:r1:*:*:*:*:*:*",

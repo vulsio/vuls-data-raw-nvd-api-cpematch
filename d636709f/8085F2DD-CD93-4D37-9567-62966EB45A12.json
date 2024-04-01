@@ -4,7 +4,7 @@
 	"versionEndExcluding": "7.06.013",
 	"created": "2023-05-01T14:24:18.563",
 	"lastModified": "2023-09-26T17:22:10.107",
-	"cpeLastModified": "2023-09-26T17:22:10.107",
+	"cpeLastModified": "2024-04-01T13:53:17.220",
 	"status": "Active",
 	"matches": [
 		{
@@ -378,6 +378,26 @@
 		{
 			"cpeName": "cpe:2.3:o:meinbergglobal:lantime_firmware:6.24.022:*:*:*:*:*:*:*",
 			"cpeNameId": "D6B3B4C6-46C0-45A0-A763-736244BCDB99"
+		},
+		{
+			"cpeName": "cpe:2.3:o:meinbergglobal:lantime_firmware:6.24.028:*:*:*:*:*:*:*",
+			"cpeNameId": "715060B2-BB2C-496E-B100-670135FAE195"
+		},
+		{
+			"cpeName": "cpe:2.3:o:meinbergglobal:lantime_firmware:6.24.029:*:*:*:*:*:*:*",
+			"cpeNameId": "7C1D1C8E-39F7-443B-8035-AACFF749B5D4"
+		},
+		{
+			"cpeName": "cpe:2.3:o:meinbergglobal:lantime_firmware:7.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D69CDFEF-ED3D-4D90-8734-740C403FD734"
+		},
+		{
+			"cpeName": "cpe:2.3:o:meinbergglobal:lantime_firmware:7.04.007:*:*:*:*:*:*:*",
+			"cpeNameId": "3A87D72B-E400-454D-AD2D-E3EAE8E85EE9"
+		},
+		{
+			"cpeName": "cpe:2.3:o:meinbergglobal:lantime_firmware:7.04.008:*:*:*:*:*:*:*",
+			"cpeNameId": "C5914008-7087-4ECE-8549-661B0607723A"
 		},
 		{
 			"cpeName": "cpe:2.3:o:meinbergglobal:lantime_firmware:7.06.011:*:*:*:*:*:*:*",

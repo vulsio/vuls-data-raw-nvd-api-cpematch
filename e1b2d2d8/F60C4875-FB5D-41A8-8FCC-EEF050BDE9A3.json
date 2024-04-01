@@ -5,6 +5,12 @@
 	"versionEndExcluding": "3.89.0",
 	"created": "2024-02-08T13:29:29.303",
 	"lastModified": "2024-02-08T13:29:29.303",
-	"cpeLastModified": "2024-02-08T13:29:29.303",
-	"status": "Active"
+	"cpeLastModified": "2024-04-01T14:11:32.397",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:novelan:heat_pumps_firmware:3.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "BFD674FB-4422-433F-9669-2EEFB81D0D93"
+		}
+	]
 }
