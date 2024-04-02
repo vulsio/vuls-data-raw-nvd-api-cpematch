@@ -3,10 +3,14 @@
 	"matchCriteriaId": "3716F0AF-C02F-43B0-8C4F-DAA93400AD9D",
 	"versionEndIncluding": "10.5.7",
 	"created": "2024-02-14T18:25:27.870",
-	"lastModified": "2024-02-14T18:25:27.870",
-	"cpeLastModified": "2024-02-14T18:25:27.870",
+	"lastModified": "2024-04-01T18:35:47.543",
+	"cpeLastModified": "2024-04-01T18:35:47.543",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:axigen:axigen_mail_server:-:*:*:*:*:*:*:*",
+			"cpeNameId": "317E0E11-70BA-461D-B234-6C4EC12A188F"
+		},
 		{
 			"cpeName": "cpe:2.3:a:axigen:axigen_mail_server:8.0:*:*:*:*:*:*:*",
 			"cpeNameId": "974F96DD-0FF2-4E7B-9403-F51B5EE32B36"
@@ -46,6 +50,10 @@
 		{
 			"cpeName": "cpe:2.3:a:axigen:axigen_mail_server:10.3.3.52:*:*:*:*:*:*:*",
 			"cpeNameId": "EB0775E9-531B-4046-99FC-41E4B22CBA5E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:axigen:axigen_mail_server:10.5.7:*:*:*:*:*:*:*",
+			"cpeNameId": "66B52A96-53A4-41A0-8407-DC87CF5D901A"
 		}
 	]
 }
