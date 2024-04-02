@@ -4,10 +4,14 @@
 	"versionStartIncluding": "6.8.0",
 	"versionEndExcluding": "6.8.31",
 	"created": "2024-02-06T20:27:26.757",
-	"lastModified": "2024-02-06T20:27:26.757",
-	"cpeLastModified": "2024-02-06T20:27:26.757",
+	"lastModified": "2024-04-02T12:44:51.353",
+	"cpeLastModified": "2024-04-02T12:44:51.353",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:group-office:group_office:6.8.0:*:*:*:*:*:*:*",
+			"cpeNameId": "21400D01-E49D-40CB-8AF2-92C5BFCD3D19"
+		},
 		{
 			"cpeName": "cpe:2.3:a:group-office:group_office:6.8.1:*:*:*:*:*:*:*",
 			"cpeNameId": "F3702694-5EE5-4499-80EF-0A4B984F5F9D"

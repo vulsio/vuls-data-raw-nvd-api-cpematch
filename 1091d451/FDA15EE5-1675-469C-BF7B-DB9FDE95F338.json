@@ -3,10 +3,14 @@
 	"matchCriteriaId": "FDA15EE5-1675-469C-BF7B-DB9FDE95F338",
 	"versionEndExcluding": "12.0.2",
 	"created": "2024-02-16T19:18:31.203",
-	"lastModified": "2024-02-16T19:18:31.203",
-	"cpeLastModified": "2024-02-16T19:18:31.203",
+	"lastModified": "2024-04-02T12:44:51.353",
+	"cpeLastModified": "2024-04-02T12:44:51.353",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:hcltech:sametime:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D87FEF01-6A41-4324-B8B6-AEF3CF40DC1B"
+		},
 		{
 			"cpeName": "cpe:2.3:a:hcltech:sametime:11.6:*:*:*:*:*:*:*",
 			"cpeNameId": "0723FFF8-60A3-4822-97C4-F19076092CE9"

@@ -4,7 +4,7 @@
 	"versionEndExcluding": "6.8.29",
 	"created": "2024-01-25T15:26:08.193",
 	"lastModified": "2024-01-25T16:08:58.117",
-	"cpeLastModified": "2024-01-25T16:08:58.117",
+	"cpeLastModified": "2024-04-02T12:44:51.353",
 	"status": "Active",
 	"matches": [
 		{
@@ -1926,6 +1926,10 @@
 		{
 			"cpeName": "cpe:2.3:a:group-office:group_office:6.7.64:*:*:*:*:*:*:*",
 			"cpeNameId": "B9844AB9-CCFD-4934-A790-C3EC2F493348"
+		},
+		{
+			"cpeName": "cpe:2.3:a:group-office:group_office:6.8.0:*:*:*:*:*:*:*",
+			"cpeNameId": "21400D01-E49D-40CB-8AF2-92C5BFCD3D19"
 		},
 		{
 			"cpeName": "cpe:2.3:a:group-office:group_office:6.8.1:*:*:*:*:*:*:*",
