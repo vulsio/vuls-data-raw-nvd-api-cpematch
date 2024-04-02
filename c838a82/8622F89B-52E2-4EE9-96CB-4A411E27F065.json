@@ -3,8 +3,8 @@
 	"matchCriteriaId": "8622F89B-52E2-4EE9-96CB-4A411E27F065",
 	"versionEndExcluding": "4.6.1.1",
 	"created": "2024-02-05T15:08:17.117",
-	"lastModified": "2024-02-05T15:08:17.117",
-	"cpeLastModified": "2024-02-05T15:08:17.117",
+	"lastModified": "2024-04-02T10:44:56.343",
+	"cpeLastModified": "2024-04-02T10:44:56.343",
 	"status": "Active",
 	"matches": [
 		{
@@ -4408,6 +4408,14 @@
 			"cpeNameId": "B867E31F-6CDA-4795-9D6F-87F34968C584"
 		},
 		{
+			"cpeName": "cpe:2.3:a:craftcms:craft_cms:3.8.16:*:*:*:*:*:*:*",
+			"cpeNameId": "04CC7DF3-E6D5-4FA2-8C5C-FB1362A6DA2C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:craftcms:craft_cms:3.8.17:*:*:*:*:*:*:*",
+			"cpeNameId": "1CE96726-11EA-4E34-9305-6F85BACC8204"
+		},
+		{
 			"cpeName": "cpe:2.3:a:craftcms:craft_cms:3.9.3:*:*:*:*:*:*:*",
 			"cpeNameId": "DB2B8C5F-48EC-4373-889C-DCA8C5ABFF6C"
 		},
@@ -4422,6 +4430,18 @@
 		{
 			"cpeName": "cpe:2.3:a:craftcms:craft_cms:3.9.6:*:*:*:*:*:*:*",
 			"cpeNameId": "EA6D3E14-9222-4FF6-97D9-290D2B8AEAB1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:craftcms:craft_cms:3.9.10:*:*:*:*:*:*:*",
+			"cpeNameId": "3568267E-DEEA-4D9B-ADDB-F492710C19EB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:craftcms:craft_cms:3.9.11:*:*:*:*:*:*:*",
+			"cpeNameId": "7EA24D81-29E3-43A8-8EB3-C28624D2732E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:craftcms:craft_cms:3.9.12:*:*:*:*:*:*:*",
+			"cpeNameId": "DFB2CEEB-2897-45C7-9C13-15973FDDB5BF"
 		},
 		{
 			"cpeName": "cpe:2.3:a:craftcms:craft_cms:4.0.0:-:*:*:*:*:*:*",
@@ -4794,6 +4814,34 @@
 		{
 			"cpeName": "cpe:2.3:a:craftcms:craft_cms:4.5.11:*:*:*:*:*:*:*",
 			"cpeNameId": "997B8F77-E8F8-41D3-917A-1C07EFA134B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:craftcms:craft_cms:4.5.11.1:*:*:*:*:*:*:*",
+			"cpeNameId": "0BED1744-160D-4C78-A17B-9D96B7393EDC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:craftcms:craft_cms:4.5.12:*:*:*:*:*:*:*",
+			"cpeNameId": "CF5C11AB-35B9-4BA2-BABA-A98BD5E3AD03"
+		},
+		{
+			"cpeName": "cpe:2.3:a:craftcms:craft_cms:4.5.13:*:*:*:*:*:*:*",
+			"cpeNameId": "E5B107B7-8BE2-4A7E-8914-FE019C028C29"
+		},
+		{
+			"cpeName": "cpe:2.3:a:craftcms:craft_cms:4.5.14:*:*:*:*:*:*:*",
+			"cpeNameId": "86401228-947E-416E-8D2C-4E24691E5FC7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:craftcms:craft_cms:4.5.15:*:*:*:*:*:*:*",
+			"cpeNameId": "0258E13D-C2AA-4BED-9F51-AC5144DFD119"
+		},
+		{
+			"cpeName": "cpe:2.3:a:craftcms:craft_cms:4.6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D707F63C-18B5-4F87-AFC5-C5CBCAE886B7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:craftcms:craft_cms:4.6.1:*:*:*:*:*:*:*",
+			"cpeNameId": "2F88E677-10EB-4D3A-A08D-9AA38D71B885"
 		}
 	]
 }

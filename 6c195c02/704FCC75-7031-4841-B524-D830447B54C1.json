@@ -3,7 +3,7 @@
 	"matchCriteriaId": "704FCC75-7031-4841-B524-D830447B54C1",
 	"created": "2023-04-07T10:53:54.220",
 	"lastModified": "2023-04-07T10:53:54.220",
-	"cpeLastModified": "2024-01-19T14:42:16.223",
+	"cpeLastModified": "2024-04-02T11:59:38.480",
 	"status": "Active",
 	"matches": [
 		{
@@ -725,6 +725,14 @@
 		{
 			"cpeName": "cpe:2.3:a:easycorp:zentao:18.6:*:*:*:community:*:*:*",
 			"cpeNameId": "F39A598B-BD9B-4CB0-9654-90F542FFC2A7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:easycorp:zentao:18.8:*:*:*:*:*:*:*",
+			"cpeNameId": "C2065EA2-4A80-4BD8-8D2E-FE6BEE2773C8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:easycorp:zentao:18.10:*:*:*:community:*:*:*",
+			"cpeNameId": "C88D6093-144D-490D-9AA0-CFF42A92AC22"
 		},
 		{
 			"cpeName": "cpe:2.3:a:easycorp:zentao:20.0:-:*:*:*:*:*:*",

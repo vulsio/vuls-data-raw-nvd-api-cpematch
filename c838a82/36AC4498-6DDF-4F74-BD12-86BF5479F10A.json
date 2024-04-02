@@ -5,7 +5,7 @@
 	"versionEndExcluding": "3.9.6",
 	"created": "2024-01-09T12:33:13.757",
 	"lastModified": "2024-01-09T18:13:56.510",
-	"cpeLastModified": "2024-01-09T18:13:56.510",
+	"cpeLastModified": "2024-04-02T10:44:56.343",
 	"status": "Active",
 	"matches": [
 		{
@@ -2223,6 +2223,14 @@
 		{
 			"cpeName": "cpe:2.3:a:craftcms:craft_cms:3.8.15:*:*:*:*:*:*:*",
 			"cpeNameId": "B867E31F-6CDA-4795-9D6F-87F34968C584"
+		},
+		{
+			"cpeName": "cpe:2.3:a:craftcms:craft_cms:3.8.16:*:*:*:*:*:*:*",
+			"cpeNameId": "04CC7DF3-E6D5-4FA2-8C5C-FB1362A6DA2C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:craftcms:craft_cms:3.8.17:*:*:*:*:*:*:*",
+			"cpeNameId": "1CE96726-11EA-4E34-9305-6F85BACC8204"
 		},
 		{
 			"cpeName": "cpe:2.3:a:craftcms:craft_cms:3.9.3:*:*:*:*:*:*:*",

@@ -5,6 +5,12 @@
 	"versionEndExcluding": "19.9.0.3",
 	"created": "2024-02-20T21:09:01.917",
 	"lastModified": "2024-02-20T21:09:01.917",
-	"cpeLastModified": "2024-02-20T21:09:01.917",
-	"status": "Active"
+	"cpeLastModified": "2024-04-02T11:09:37.087",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:dell:emc_networker:19.9:*:*:*:virtual:*:*:*",
+			"cpeNameId": "5965584C-5BFF-4810-9359-1CF2397A8185"
+		}
+	]
 }
