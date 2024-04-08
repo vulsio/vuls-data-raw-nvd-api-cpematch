@@ -3,10 +3,14 @@
 	"matchCriteriaId": "77D8DE57-62BD-4043-837F-28C87A1596B4",
 	"versionEndExcluding": "2024.03",
 	"created": "2024-04-03T14:59:45.420",
-	"lastModified": "2024-04-03T14:59:45.420",
-	"cpeLastModified": "2024-04-03T14:59:45.420",
+	"lastModified": "2024-04-08T16:54:51.017",
+	"cpeLastModified": "2024-04-08T16:54:51.017",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:teamcity:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1000F939-9083-466B-9B1A-9BCBDFA3CA50"
+		},
 		{
 			"cpeName": "cpe:2.3:a:jetbrains:teamcity:2.0:*:*:*:*:*:*:*",
 			"cpeNameId": "ECE493D4-C307-4A9D-8332-6B1BAC0A4AF6"
@@ -440,12 +444,24 @@
 			"cpeNameId": "487A08C1-75B1-4C62-828C-3F7AB9EA8C2D"
 		},
 		{
+			"cpeName": "cpe:2.3:a:jetbrains:teamcity:2023.11:*:*:*:*:*:*:*",
+			"cpeNameId": "0816433A-E702-495D-859F-F29345D58409"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:teamcity:2023.11.1:*:*:*:*:*:*:*",
+			"cpeNameId": "8EF7C9D4-563E-40A1-A9BB-3E9B59C846DF"
+		},
+		{
 			"cpeName": "cpe:2.3:a:jetbrains:teamcity:2023.11.2:*:*:*:*:*:*:*",
 			"cpeNameId": "0AEDCD10-7AFA-45DC-B42B-08F277B01446"
 		},
 		{
 			"cpeName": "cpe:2.3:a:jetbrains:teamcity:2023.11.3:*:*:*:*:*:*:*",
 			"cpeNameId": "EE8A3791-B5FC-4E17-9556-C8175F761362"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:teamcity:2023.11.4:*:*:*:*:*:*:*",
+			"cpeNameId": "0AAFDB65-3707-4927-8535-F9B3378CE655"
 		}
 	]
 }

@@ -3,13 +3,17 @@
 	"matchCriteriaId": "ABF452E0-F75E-4AF0-9DFF-D31CFC91F652",
 	"versionEndExcluding": "5.0.7",
 	"created": "2024-02-09T18:24:20.090",
-	"lastModified": "2024-02-09T18:24:20.090",
-	"cpeLastModified": "2024-02-09T18:24:20.090",
+	"lastModified": "2024-04-08T16:42:47.930",
+	"cpeLastModified": "2024-04-08T16:42:47.930",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:ibm:aspera_faspex:4.4.1:*:*:*:*:*:*:*",
 			"cpeNameId": "D1999409-3D17-4170-A1F6-33A9EE822D2D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:aspera_faspex:4.4.2:-:*:*:*:*:*:*",
+			"cpeNameId": "6829EEFC-83B4-42B7-9D06-E02535254232"
 		},
 		{
 			"cpeName": "cpe:2.3:a:ibm:aspera_faspex:4.4.2:patch_level_1:*:*:*:*:*:*",
@@ -30,6 +34,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ibm:aspera_faspex:5.0.5:*:*:*:*:*:*:*",
 			"cpeNameId": "A8A8EA30-A64D-4FF6-90A9-7FF6E222ED57"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:aspera_faspex:5.0.6:*:*:*:*:*:*:*",
+			"cpeNameId": "18F5F292-8539-4B79-BA75-F0F2503AA4D1"
 		}
 	]
 }

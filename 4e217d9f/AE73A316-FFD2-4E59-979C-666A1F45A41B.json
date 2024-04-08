@@ -3,10 +3,14 @@
 	"matchCriteriaId": "AE73A316-FFD2-4E59-979C-666A1F45A41B",
 	"versionEndExcluding": "2023.11.1",
 	"created": "2023-12-19T14:55:34.343",
-	"lastModified": "2023-12-19T14:55:34.343",
-	"cpeLastModified": "2023-12-19T14:55:34.343",
+	"lastModified": "2024-04-08T16:54:51.017",
+	"cpeLastModified": "2024-04-08T16:54:51.017",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:teamcity:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1000F939-9083-466B-9B1A-9BCBDFA3CA50"
+		},
 		{
 			"cpeName": "cpe:2.3:a:jetbrains:teamcity:2.0:*:*:*:*:*:*:*",
 			"cpeNameId": "ECE493D4-C307-4A9D-8332-6B1BAC0A4AF6"
@@ -438,6 +442,10 @@
 		{
 			"cpeName": "cpe:2.3:a:jetbrains:teamcity:2023.05.4:*:*:*:*:*:*:*",
 			"cpeNameId": "487A08C1-75B1-4C62-828C-3F7AB9EA8C2D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:teamcity:2023.11:*:*:*:*:*:*:*",
+			"cpeNameId": "0816433A-E702-495D-859F-F29345D58409"
 		}
 	]
 }
