@@ -5,6 +5,12 @@
 	"versionEndExcluding": "1.7.2",
 	"created": "2024-02-13T19:41:47.227",
 	"lastModified": "2024-02-13T19:41:47.227",
-	"cpeLastModified": "2024-02-13T19:41:47.227",
-	"status": "Active"
+	"cpeLastModified": "2024-04-09T12:12:47.060",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:libgit2:libgit2:1.7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "8CAD2A0D-D0BC-412D-8C1B-04BA649CE0AC"
+		}
+	]
 }

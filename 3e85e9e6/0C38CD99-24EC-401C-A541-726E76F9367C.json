@@ -3,7 +3,7 @@
 	"matchCriteriaId": "0C38CD99-24EC-401C-A541-726E76F9367C",
 	"created": "2021-07-15T14:51:05.810",
 	"lastModified": "2021-07-15T14:51:05.810",
-	"cpeLastModified": "2024-02-03T03:15:39.403",
+	"cpeLastModified": "2024-04-09T11:45:49.307",
 	"status": "Active",
 	"matches": [
 		{
@@ -471,6 +471,10 @@
 			"cpeNameId": "CABEC076-A0F1-49C2-9C09-EBD988068766"
 		},
 		{
+			"cpeName": "cpe:2.3:a:ibm:urbancode_deploy:7.0.5.20:*:*:*:*:*:*:*",
+			"cpeNameId": "F5C68FD7-6D5E-4F93-BEC8-8121A0F0F256"
+		},
+		{
 			"cpeName": "cpe:2.3:a:ibm:urbancode_deploy:7.1.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "FB8C9474-E315-4DA7-A40B-97B9EA596347"
 		},
@@ -543,6 +547,10 @@
 			"cpeNameId": "960F40B7-6D34-45B7-8E9B-969E9F986329"
 		},
 		{
+			"cpeName": "cpe:2.3:a:ibm:urbancode_deploy:7.1.2.16:*:*:*:*:*:*:*",
+			"cpeNameId": "835E329C-F8F7-4858-83BC-3E20FA8E14E5"
+		},
+		{
 			"cpeName": "cpe:2.3:a:ibm:urbancode_deploy:7.2:*:*:*:*:*:*:*",
 			"cpeNameId": "2B761BE9-FDDA-481F-98B9-82789B39452A"
 		},
@@ -587,6 +595,10 @@
 			"cpeNameId": "FADD180A-356F-4AA2-B1DA-DC86F6D3112E"
 		},
 		{
+			"cpeName": "cpe:2.3:a:ibm:urbancode_deploy:7.2.3.9:*:*:*:*:*:*:*",
+			"cpeNameId": "A28EE8EB-636C-47BE-AA32-67323365FE8F"
+		},
+		{
 			"cpeName": "cpe:2.3:a:ibm:urbancode_deploy:7.3:*:*:*:*:*:*:*",
 			"cpeNameId": "CA44B4A8-C113-4CCF-80ED-C35E62AE04A7"
 		},
@@ -605,6 +617,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ibm:urbancode_deploy:7.3.2.3:*:*:*:*:*:*:*",
 			"cpeNameId": "9A12BF31-2F52-482F-806A-9F9563B29182"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:urbancode_deploy:7.3.2.4:*:*:*:*:*:*:*",
+			"cpeNameId": "819AB627-5C1B-49BF-918B-167A91E8C508"
 		}
 	]
 }

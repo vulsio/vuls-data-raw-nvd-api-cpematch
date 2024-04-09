@@ -4,8 +4,8 @@
 	"versionStartIncluding": "17.0.0.3",
 	"versionEndIncluding": "24.0.0.3",
 	"created": "2024-04-02T16:18:04.567",
-	"lastModified": "2024-04-02T16:18:04.567",
-	"cpeLastModified": "2024-04-02T16:18:04.567",
+	"lastModified": "2024-04-09T12:08:26.793",
+	"cpeLastModified": "2024-04-09T12:08:26.793",
 	"status": "Active",
 	"matches": [
 		{
@@ -167,6 +167,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ibm:websphere_application_server:22.0.0.6:*:*:*:liberty:*:*:*",
 			"cpeNameId": "048231B3-7F39-4DF8-A152-4A7C57D04844"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:websphere_application_server:24.0.0.3:*:*:*:liberty:*:*:*",
+			"cpeNameId": "33327A55-D06E-433F-B4CC-E879620B4F03"
 		}
 	]
 }

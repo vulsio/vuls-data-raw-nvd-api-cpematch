@@ -4,10 +4,14 @@
 	"versionStartIncluding": "8.0",
 	"versionEndExcluding": "8.7.1",
 	"created": "2022-06-24T14:03:10.453",
-	"lastModified": "2022-06-24T14:03:10.453",
-	"cpeLastModified": "2024-03-11T15:43:26.417",
+	"lastModified": "2024-04-09T11:42:31.673",
+	"cpeLastModified": "2024-04-09T11:42:31.673",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:1password:1password:8.0:*:*:*:*:windows:*:*",
+			"cpeNameId": "02DCBE5A-CE28-40FB-A7BA-0694B92AE49B"
+		},
 		{
 			"cpeName": "cpe:2.3:a:1password:1password:8.4.0-54:*:*:*:*:windows:*:*",
 			"cpeNameId": "106BEC80-B55D-4928-B259-722AFB94D4C6"
