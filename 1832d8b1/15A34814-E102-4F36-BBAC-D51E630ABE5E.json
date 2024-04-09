@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2022-11-10",
 	"created": "2022-11-17T17:53:14.483",
 	"lastModified": "2022-11-17T17:53:14.483",
-	"cpeLastModified": "2023-06-26T16:17:59.980",
+	"cpeLastModified": "2024-04-09T16:52:29.673",
 	"status": "Active",
 	"matches": [
 		{
@@ -366,6 +366,10 @@
 		{
 			"cpeName": "cpe:2.3:a:libtiff:libtiff:4.5.1:rc3:*:*:*:*:*:*",
 			"cpeNameId": "69099B04-6FB7-471B-A13F-A777138C54CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:libtiff:libtiff:4.6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "48338796-29A9-4365-BCC2-D27A4AFD5F02"
 		}
 	]
 }

@@ -4,7 +4,21 @@
 	"versionStartIncluding": "1.0.0",
 	"versionEndIncluding": "3.0.0",
 	"created": "2023-12-15T21:17:06.357",
-	"lastModified": "2023-12-15T21:17:06.357",
-	"cpeLastModified": "2023-12-15T21:17:06.357",
-	"status": "Active"
+	"lastModified": "2024-04-09T12:45:00.220",
+	"cpeLastModified": "2024-04-09T12:45:00.220",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:mlwebtechnologies:livingword:1.0.0:*:*:*:*:joomla\\!:*:*",
+			"cpeNameId": "33963176-FC15-40EE-830E-F3F75159550F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mlwebtechnologies:livingword:2.5.0:*:*:*:*:joomla\\!:*:*",
+			"cpeNameId": "B0C8AEE0-3965-4BD5-B357-F578086E7E07"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mlwebtechnologies:livingword:3.0.0:*:*:*:*:joomla\\!:*:*",
+			"cpeNameId": "1AD97BCA-C0D9-4CD2-91CE-16B9BA11104B"
+		}
+	]
 }

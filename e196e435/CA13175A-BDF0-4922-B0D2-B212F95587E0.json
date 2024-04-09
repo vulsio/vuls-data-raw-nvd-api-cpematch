@@ -5,6 +5,16 @@
 	"versionEndIncluding": "5.0.6",
 	"created": "2024-02-06T15:46:18.627",
 	"lastModified": "2024-02-06T15:46:18.627",
-	"cpeLastModified": "2024-02-06T15:46:18.627",
-	"status": "Active"
+	"cpeLastModified": "2024-04-09T12:40:25.767",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:mdaemon:mdaemon:5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "AAEFA65D-675C-4785-ABEC-499AFCE6287A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mdaemon:mdaemon:5.0.6:*:*:*:*:*:*:*",
+			"cpeNameId": "0F58B443-2ACC-452E-AAA0-BBD048241C07"
+		}
+	]
 }

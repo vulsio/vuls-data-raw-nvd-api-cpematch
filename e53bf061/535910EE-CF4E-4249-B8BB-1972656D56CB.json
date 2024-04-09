@@ -3,7 +3,7 @@
 	"matchCriteriaId": "535910EE-CF4E-4249-B8BB-1972656D56CB",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-09-28T14:46:47.747",
+	"cpeLastModified": "2024-04-09T13:26:32.137",
 	"status": "Active",
 	"matches": [
 		{
@@ -453,6 +453,10 @@
 		{
 			"cpeName": "cpe:2.3:a:mybb:mybb:1.8.36:*:*:*:*:*:*:*",
 			"cpeNameId": "4F401E21-E1E3-4361-A7D1-9E99E8D02EEA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mybb:mybb:1.8.37:*:*:*:*:*:*:*",
+			"cpeNameId": "41DA2544-7CED-4216-9D2C-7D6CA4E60827"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mybb:mybb:1.18.19:*:*:*:*:*:*:*",

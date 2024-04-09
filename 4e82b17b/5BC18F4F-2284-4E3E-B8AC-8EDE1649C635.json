@@ -4,9 +4,13 @@
 	"versionEndExcluding": "7.2",
 	"created": "2022-10-19T13:47:47.000",
 	"lastModified": "2022-10-19T13:47:47.000",
-	"cpeLastModified": "2022-10-19T13:47:47.000",
+	"cpeLastModified": "2024-04-09T18:04:11.753",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:liferay:dxp:-:*:*:*:*:*:*:*",
+			"cpeNameId": "76AB7B9A-8E75-4DB6-9D45-98D8CD395DC4"
+		},
 		{
 			"cpeName": "cpe:2.3:a:liferay:dxp:7.0:-:*:*:*:*:*:*",
 			"cpeNameId": "F8AFFC15-6E8D-4BD6-BA22-E748D743122A"

@@ -5,9 +5,13 @@
 	"versionEndExcluding": "7.4.3.26",
 	"created": "2024-02-15T04:14:34.917",
 	"lastModified": "2024-02-15T04:14:34.917",
-	"cpeLastModified": "2024-02-15T04:14:34.917",
+	"cpeLastModified": "2024-04-09T18:05:14.270",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:liferay:liferay_portal:7.2.0:-:*:*:*:*:*:*",
+			"cpeNameId": "390A4624-0F2A-410D-A28B-B021070824FC"
+		},
 		{
 			"cpeName": "cpe:2.3:a:liferay:liferay_portal:7.2.0:a1:*:*:community:*:*:*",
 			"cpeNameId": "CA045D0A-F950-44BA-ACED-59B7576E2632"
@@ -91,6 +95,10 @@
 		{
 			"cpeName": "cpe:2.3:a:liferay:liferay_portal:7.2.0:rc3:*:*:community:*:*:*",
 			"cpeNameId": "EA192711-1F0B-404B-806E-B07923BA2D83"
+		},
+		{
+			"cpeName": "cpe:2.3:a:liferay:liferay_portal:7.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "8BB0B523-2000-48FF-A01A-ED4153E10019"
 		},
 		{
 			"cpeName": "cpe:2.3:a:liferay:liferay_portal:7.2.1:*:*:*:community:*:*:*",

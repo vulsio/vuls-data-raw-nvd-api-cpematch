@@ -3,10 +3,14 @@
 	"matchCriteriaId": "7C886CFF-649B-42CF-8AB6-CEFBD8B071BB",
 	"versionEndExcluding": "5.13.15",
 	"created": "2024-03-08T21:04:15.393",
-	"lastModified": "2024-03-08T21:04:15.393",
-	"cpeLastModified": "2024-03-08T21:04:15.393",
+	"lastModified": "2024-04-09T13:13:04.723",
+	"cpeLastModified": "2024-04-09T13:13:04.723",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:mongoosejs:mongoose:-:*:*:*:*:node.js:*:*",
+			"cpeNameId": "9ECC4C9E-CC3B-4D90-B59D-344E36DC6041"
+		},
 		{
 			"cpeName": "cpe:2.3:a:mongoosejs:mongoose:0.0.1:*:*:*:*:node.js:*:*",
 			"cpeNameId": "62AFFA89-150B-4779-B388-72EF5A16F9A5"

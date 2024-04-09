@@ -5,9 +5,13 @@
 	"versionEndExcluding": "7.3.5",
 	"created": "2021-08-10T16:32:53.930",
 	"lastModified": "2021-08-10T16:32:53.930",
-	"cpeLastModified": "2021-08-10T16:32:53.930",
+	"cpeLastModified": "2024-04-09T18:05:14.270",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:liferay:liferay_portal:7.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "8BB0B523-2000-48FF-A01A-ED4153E10019"
+		},
 		{
 			"cpeName": "cpe:2.3:a:liferay:liferay_portal:7.2.1:*:*:*:community:*:*:*",
 			"cpeNameId": "2EF18590-E013-4D91-B114-4FBB31C717BE"

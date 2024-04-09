@@ -4,7 +4,7 @@
 	"versionEndExcluding": "0.0.317",
 	"created": "2023-10-25T13:17:28.960",
 	"lastModified": "2023-11-25T04:35:20.817",
-	"cpeLastModified": "2023-10-25T13:17:28.960",
+	"cpeLastModified": "2024-04-09T16:52:29.673",
 	"status": "Active",
 	"matches": [
 		{
@@ -582,6 +582,10 @@
 		{
 			"cpeName": "cpe:2.3:a:langchain:langchain:0.0.198:*:*:*:*:*:*:*",
 			"cpeNameId": "61F9C14C-53F9-4269-AEA9-00BC8CCA3EB5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:langchain:langchain:0.0.199:*:*:*:*:*:*:*",
+			"cpeNameId": "7E3A1C51-F609-417D-BA1A-4D14C789E301"
 		},
 		{
 			"cpeName": "cpe:2.3:a:langchain:langchain:0.0.200:*:*:*:*:*:*:*",

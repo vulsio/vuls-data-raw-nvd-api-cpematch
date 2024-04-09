@@ -5,7 +5,7 @@
 	"versionEndExcluding": "7.3",
 	"created": "2022-10-20T15:19:26.293",
 	"lastModified": "2022-10-20T15:19:26.293",
-	"cpeLastModified": "2022-11-04T18:44:15.607",
+	"cpeLastModified": "2024-04-09T18:04:11.753",
 	"status": "Active",
 	"matches": [
 		{
@@ -435,6 +435,14 @@
 		{
 			"cpeName": "cpe:2.3:a:liferay:dxp:7.2:fix_pack_15:*:*:*:*:*:*",
 			"cpeNameId": "74070B64-238E-402F-803F-96D13ECA00FF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:liferay:dxp:7.2:fix_pack_16:*:*:*:*:*:*",
+			"cpeNameId": "9553D525-7425-4A81-889B-15A63CC41B9F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:liferay:dxp:7.2:fix_pack_17:*:*:*:*:*:*",
+			"cpeNameId": "5E45F998-9512-4741-8344-1A5E3CF70371"
 		},
 		{
 			"cpeName": "cpe:2.3:a:liferay:dxp:7.2:fix_pack_18:*:*:*:*:*:*",

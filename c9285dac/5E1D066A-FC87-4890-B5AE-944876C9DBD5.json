@@ -4,9 +4,13 @@
 	"versionEndExcluding": "6.4.6",
 	"created": "2022-08-03T16:38:25.957",
 	"lastModified": "2022-08-30T14:23:33.437",
-	"cpeLastModified": "2022-08-03T16:43:46.023",
+	"cpeLastModified": "2024-04-09T13:23:01.603",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:mongoosejs:mongoose:-:*:*:*:*:node.js:*:*",
+			"cpeNameId": "9ECC4C9E-CC3B-4D90-B59D-344E36DC6041"
+		},
 		{
 			"cpeName": "cpe:2.3:a:mongoosejs:mongoose:0.0.1:*:*:*:*:node.js:*:*",
 			"cpeNameId": "62AFFA89-150B-4779-B388-72EF5A16F9A5"
@@ -2688,8 +2692,52 @@
 			"cpeNameId": "CBA45D5D-7EAB-449D-9EF3-CCC9CDFD6D0C"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mongoosejs:mongoose:5.13.15:*:*:*:*:node.js:*:*",
+			"cpeNameId": "BA1044E2-E841-4094-A096-12739AF9DB31"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongoosejs:mongoose:5.13.16:*:*:*:*:node.js:*:*",
+			"cpeNameId": "F1629F3D-EEB1-4D25-9CC6-DBCDF5BF76E1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongoosejs:mongoose:5.13.17:*:*:*:*:node.js:*:*",
+			"cpeNameId": "12F89A4F-B629-47EA-B448-60853FD67784"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongoosejs:mongoose:5.13.18:*:*:*:*:node.js:*:*",
+			"cpeNameId": "AACA91B7-A53C-41B4-9AE1-77B04E21F70D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongoosejs:mongoose:5.13.19:*:*:*:*:node.js:*:*",
+			"cpeNameId": "27979732-A72D-4058-8B6A-5596A7EB13D2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongoosejs:mongoose:5.13.20:*:*:*:*:node.js:*:*",
+			"cpeNameId": "CA1E62CA-A62F-4576-B970-33858711727A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongoosejs:mongoose:5.13.21:*:*:*:*:node.js:*:*",
+			"cpeNameId": "8E4E1657-1672-4F84-9DD4-D15D9AE56B54"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongoosejs:mongoose:5.13.22:*:*:*:*:node.js:*:*",
+			"cpeNameId": "D4DE1EE7-3322-4B9A-945F-114049B64C32"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mongoosejs:mongoose:6.0.0:*:*:*:*:node.js:*:*",
 			"cpeNameId": "A036FA93-F2F0-49A5-A389-E9D372EA05A7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongoosejs:mongoose:6.0.0:rc0:*:*:*:node.js:*:*",
+			"cpeNameId": "B9B96A16-8D04-43FF-BE6B-4BF1F1BBF2FF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongoosejs:mongoose:6.0.0:rc1:*:*:*:node.js:*:*",
+			"cpeNameId": "92012204-119E-4777-A0AA-B057F8EAB700"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongoosejs:mongoose:6.0.0:rc2:*:*:*:node.js:*:*",
+			"cpeNameId": "968302A6-D366-4A5F-BA00-F745FF8C7782"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mongoosejs:mongoose:6.0.1:*:*:*:*:node.js:*:*",

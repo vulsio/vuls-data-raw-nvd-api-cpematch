@@ -4,9 +4,13 @@
 	"versionEndIncluding": "5.7.4",
 	"created": "2019-10-11T15:57:29.827",
 	"lastModified": "2019-10-11T15:57:29.827",
-	"cpeLastModified": "2019-10-15T12:33:49.117",
+	"cpeLastModified": "2024-04-09T13:13:04.723",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:mongoosejs:mongoose:-:*:*:*:*:node.js:*:*",
+			"cpeNameId": "9ECC4C9E-CC3B-4D90-B59D-344E36DC6041"
+		},
 		{
 			"cpeName": "cpe:2.3:a:mongoosejs:mongoose:0.0.1:*:*:*:*:node.js:*:*",
 			"cpeNameId": "62AFFA89-150B-4779-B388-72EF5A16F9A5"
