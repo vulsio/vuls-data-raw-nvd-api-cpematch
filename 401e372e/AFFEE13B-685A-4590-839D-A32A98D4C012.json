@@ -4,12 +4,16 @@
 	"versionEndExcluding": "3.50",
 	"created": "2022-09-15T13:18:04.547",
 	"lastModified": "2022-09-15T13:18:04.547",
-	"cpeLastModified": "2022-09-15T14:27:26.280",
+	"cpeLastModified": "2024-04-10T12:28:44.890",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp342030h_firmware:-:*:*:*:*:*:*:*",
 			"cpeNameId": "CB745E86-644E-4AAA-971E-6E121316B1FA"
+		},
+		{
+			"cpeName": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp342030h_firmware:2.8:*:*:*:*:*:*:*",
+			"cpeNameId": "E1DC6289-D317-462C-AE9E-D8A9B590841F"
 		},
 		{
 			"cpeName": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp342030h_firmware:3.40:*:*:*:*:*:*:*",
