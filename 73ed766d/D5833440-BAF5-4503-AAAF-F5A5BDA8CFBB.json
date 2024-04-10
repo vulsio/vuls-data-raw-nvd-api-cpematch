@@ -4,7 +4,7 @@
 	"versionEndExcluding": "6.0.7",
 	"created": "2024-01-24T18:35:24.610",
 	"lastModified": "2024-01-24T18:35:24.610",
-	"cpeLastModified": "2024-01-24T18:35:24.610",
+	"cpeLastModified": "2024-04-09T19:25:34.947",
 	"status": "Active",
 	"matches": [
 		{
@@ -642,6 +642,10 @@
 		{
 			"cpeName": "cpe:2.3:a:plone:plone:5.2.4:*:*:*:*:*:*:*",
 			"cpeNameId": "454A82FE-16D5-4A2F-814C-99B2093CCA9E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:plone:plone:5.2.13:*:*:*:*:*:*:*",
+			"cpeNameId": "8B6FA16E-5166-4B23-9FA1-9CEAA85B9643"
 		},
 		{
 			"cpeName": "cpe:2.3:a:plone:plone:6.0.5:*:*:*:*:*:*:*",
