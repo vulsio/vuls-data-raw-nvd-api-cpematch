@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:hp:deskjet_ink_advantage_4536_f0v65a:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "AFE84F86-9EDA-47BB-8C83-A3E7505BA776",
 	"created": "2020-06-16T17:45:20.970",
-	"lastModified": "2020-06-16T17:45:20.970",
-	"cpeLastModified": "2021-03-02T15:58:35.967",
-	"status": "Active"
+	"lastModified": "2024-04-11T11:22:46.050",
+	"cpeLastModified": "2024-04-11T11:22:46.050",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:hp:deskjet_ink_advantage_4536_f0v65a:-:*:*:*:*:*:*:*",
+			"cpeNameId": "519DB52B-2688-4348-8187-5234E092D67A"
+		}
+	]
 }
