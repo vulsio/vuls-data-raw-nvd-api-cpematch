@@ -4,9 +4,17 @@
 	"versionEndIncluding": "7.7.13",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"cpeLastModified": "2024-04-10T20:07:07.717",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:plainblack:webgui:-:*:*:*:*:*:*:*",
+			"cpeNameId": "ED299F75-F172-41BD-B6C2-C2CB1FBF617F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:plainblack:webgui:6.7.3:*:*:*:*:*:*:*",
+			"cpeNameId": "B7C2C287-3981-46AD-9955-041F00B19D93"
+		},
 		{
 			"cpeName": "cpe:2.3:a:plainblack:webgui:6.8.8:*:*:*:*:*:*:*",
 			"cpeNameId": "8775C0C7-981F-473E-90E4-4AD0D63D17C7"

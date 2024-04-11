@@ -3,10 +3,14 @@
 	"matchCriteriaId": "99094F38-B499-494D-B452-9998934D4E19",
 	"versionEndExcluding": "18.0.24.130",
 	"created": "2024-02-08T18:53:48.280",
-	"lastModified": "2024-02-08T18:53:48.280",
-	"cpeLastModified": "2024-02-08T18:53:48.280",
+	"lastModified": "2024-04-10T20:02:02.667",
+	"cpeLastModified": "2024-04-10T20:02:02.667",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:progress:telerik_reporting:-:*:*:*:*:*:*:*",
+			"cpeNameId": "73769C43-0D20-46F1-A754-3CAA300D2AD8"
+		},
 		{
 			"cpeName": "cpe:2.3:a:progress:telerik_reporting:8.2.14.1027:*:*:*:*:*:*:*",
 			"cpeNameId": "F50F4C73-2B02-4AB9-98A3-4FF052351A5D"
@@ -118,6 +122,10 @@
 		{
 			"cpeName": "cpe:2.3:a:progress:telerik_reporting:13.0.19.222:*:*:*:*:*:*:*",
 			"cpeNameId": "30CF02AA-52A8-4863-A685-B8A10B3BB3EE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:progress:telerik_reporting:17.2.23.1114:*:*:*:*:*:*:*",
+			"cpeNameId": "C17D49D8-77D2-48DB-8B87-C9F7F763D0DF"
 		}
 	]
 }
