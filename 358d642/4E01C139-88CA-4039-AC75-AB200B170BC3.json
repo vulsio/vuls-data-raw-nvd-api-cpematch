@@ -5,12 +5,16 @@
 	"versionEndIncluding": "10.1.0.2",
 	"created": "2024-02-16T14:23:40.367",
 	"lastModified": "2024-02-16T14:23:40.367",
-	"cpeLastModified": "2024-02-16T14:23:40.367",
+	"cpeLastModified": "2024-04-12T12:17:38.530",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:ibm:integration_bus:10.1:*:*:*:*:*:*:*",
 			"cpeNameId": "AEF8C791-2AD9-4DA9-BDA3-B6BF1E93A64F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:integration_bus:10.1.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "9E4AF12E-40D7-40C3-90B1-4B4FC2D3A57F"
 		}
 	]
 }

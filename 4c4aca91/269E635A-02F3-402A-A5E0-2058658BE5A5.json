@@ -4,8 +4,8 @@
 	"versionStartIncluding": "10.0.0.0",
 	"versionEndIncluding": "10.0.6.1",
 	"created": "2024-02-06T17:11:39.267",
-	"lastModified": "2024-02-06T17:11:39.267",
-	"cpeLastModified": "2024-02-06T17:11:39.267",
+	"lastModified": "2024-04-12T12:17:38.530",
+	"cpeLastModified": "2024-04-12T12:17:38.530",
 	"status": "Active",
 	"matches": [
 		{
@@ -35,6 +35,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ibm:security_verify_access_docker:10.0.4.0:*:*:*:*:*:*:*",
 			"cpeNameId": "C8713395-094C-46C7-BFD5-FDFEA98B0397"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:security_verify_access_docker:10.0.6.1:*:*:*:*:*:*:*",
+			"cpeNameId": "A0F69CC6-BB53-4182-BFE3-6E7420E8B8EC"
 		}
 	]
 }

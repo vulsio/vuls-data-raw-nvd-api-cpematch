@@ -4,8 +4,8 @@
 	"versionStartIncluding": "7.3.0.0",
 	"versionEndIncluding": "7.3.0.10",
 	"created": "2024-02-08T19:15:09.847",
-	"lastModified": "2024-02-08T19:15:09.847",
-	"cpeLastModified": "2024-02-08T19:15:09.847",
+	"lastModified": "2024-04-12T12:17:38.530",
+	"cpeLastModified": "2024-04-12T12:17:38.530",
 	"status": "Active",
 	"matches": [
 		{
@@ -31,6 +31,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ibm:tivoli_application_dependency_discovery_manager:7.3.0.5:*:*:*:*:*:*:*",
 			"cpeNameId": "86D35A34-B3F9-41C1-8287-A42BB5499521"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:tivoli_application_dependency_discovery_manager:7.3.0.10:*:*:*:*:*:*:*",
+			"cpeNameId": "57361528-C2EC-483E-AFD0-F8671093C486"
 		}
 	]
 }

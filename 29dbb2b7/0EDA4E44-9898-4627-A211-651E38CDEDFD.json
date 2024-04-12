@@ -5,6 +5,16 @@
 	"versionEndIncluding": "10.1.16",
 	"created": "2024-03-27T17:47:05.147",
 	"lastModified": "2024-03-27T17:47:05.147",
-	"cpeLastModified": "2024-03-27T17:47:05.147",
-	"status": "Active"
+	"cpeLastModified": "2024-04-12T12:17:38.530",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ibm:storage_protect_plus:10.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E9787051-36FA-435B-BC5F-FE080365C84E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:storage_protect_plus:10.1.16:*:*:*:*:*:*:*",
+			"cpeNameId": "C7823E9A-FC5E-4A3A-9D62-0E79C707D347"
+		}
+	]
 }

@@ -4,7 +4,7 @@
 	"versionEndIncluding": "4.4.2",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-12-29T10:51:47.557",
+	"cpeLastModified": "2024-04-12T12:08:14.180",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ckeditor:ckeditor:4.0:*:*:*:*:*:*:*",
 			"cpeNameId": "BEBCD7BF-878A-48DB-989A-5C1569F15EB3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ckeditor:ckeditor:4.0:*:*:*:lts:*:*:*",
+			"cpeNameId": "C8D94653-3E90-4866-9FF8-69F6F5E6D8C3"
 		},
 		{
 			"cpeName": "cpe:2.3:a:ckeditor:ckeditor:4.0.1:*:*:*:*:*:*:*",
