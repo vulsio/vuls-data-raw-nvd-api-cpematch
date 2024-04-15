@@ -5,9 +5,13 @@
 	"versionEndExcluding": "16.6.4",
 	"created": "2024-01-18T17:46:51.793",
 	"lastModified": "2024-01-18T17:46:51.793",
-	"cpeLastModified": "2024-01-18T17:46:51.793",
+	"cpeLastModified": "2024-04-15T15:52:57.900",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:gitlab:gitlab:16.6.0:*:*:*:community:*:*:*",
+			"cpeNameId": "4791D05F-B8AC-475A-8A42-28AAFAE32F5E"
+		},
 		{
 			"cpeName": "cpe:2.3:a:gitlab:gitlab:16.6.1:*:*:*:community:*:*:*",
 			"cpeNameId": "BFE11B51-2C5E-486C-B8DA-95277FF32B5B"

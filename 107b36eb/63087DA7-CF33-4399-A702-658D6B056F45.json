@@ -3,7 +3,7 @@
 	"matchCriteriaId": "63087DA7-CF33-4399-A702-658D6B056F45",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2024-03-05T14:20:22.743",
+	"cpeLastModified": "2024-04-15T15:52:57.900",
 	"status": "Active",
 	"matches": [
 		{
@@ -5493,6 +5493,10 @@
 		{
 			"cpeName": "cpe:2.3:a:gitlab:gitlab:16.5.3:*:*:*:community:*:*:*",
 			"cpeNameId": "D2CA1FD7-2ED1-4A1B-AB6F-5F8DCD38DA59"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gitlab:gitlab:16.6.0:*:*:*:community:*:*:*",
+			"cpeNameId": "4791D05F-B8AC-475A-8A42-28AAFAE32F5E"
 		},
 		{
 			"cpeName": "cpe:2.3:a:gitlab:gitlab:16.6.1:*:*:*:community:*:*:*",
