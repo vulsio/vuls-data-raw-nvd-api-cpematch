@@ -4,7 +4,7 @@
 	"versionEndIncluding": "2c4e5867ee699b1081527bc6c6ea0e99a35a5c27",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2024-01-08T18:30:26.973",
+	"cpeLastModified": "2024-04-15T12:03:03.717",
 	"status": "Active",
 	"matches": [
 		{
@@ -386,6 +386,10 @@
 		{
 			"cpeName": "cpe:2.3:a:artifex:mupdf:1.23.7:*:*:*:*:*:*:*",
 			"cpeNameId": "A8E10F1B-8CAA-49B4-AA20-65BCD50DE948"
+		},
+		{
+			"cpeName": "cpe:2.3:a:artifex:mupdf:1.23.9:*:*:*:*:*:*:*",
+			"cpeNameId": "2973F155-8AF3-4F34-B875-2E7698CBE1D9"
 		}
 	]
 }

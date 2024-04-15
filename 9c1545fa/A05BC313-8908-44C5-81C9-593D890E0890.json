@@ -3,8 +3,8 @@
 	"matchCriteriaId": "A05BC313-8908-44C5-81C9-593D890E0890",
 	"versionEndIncluding": "4.17.0",
 	"created": "2024-02-16T15:55:33.470",
-	"lastModified": "2024-02-16T15:55:33.470",
-	"cpeLastModified": "2024-02-16T15:55:33.470",
+	"lastModified": "2024-04-15T12:03:03.717",
+	"cpeLastModified": "2024-04-15T12:03:03.717",
 	"status": "Active",
 	"matches": [
 		{
@@ -242,6 +242,10 @@
 		{
 			"cpeName": "cpe:2.3:a:automattic:sensei_lms:4.6.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "8BAB3799-35F0-40F4-A9C1-0833F84DFA87"
+		},
+		{
+			"cpeName": "cpe:2.3:a:automattic:sensei_lms:4.17.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "13B35F73-822C-40C5-BD8B-C5993100AE0F"
 		}
 	]
 }

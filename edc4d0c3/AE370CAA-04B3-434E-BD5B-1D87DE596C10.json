@@ -3,7 +3,7 @@
 	"matchCriteriaId": "AE370CAA-04B3-434E-BD5B-1D87DE596C10",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2024-02-26T18:24:09.520",
+	"cpeLastModified": "2024-04-15T11:50:34.190",
 	"status": "Active",
 	"matches": [
 		{
@@ -797,6 +797,10 @@
 		{
 			"cpeName": "cpe:2.3:a:apple:safari:17.1.2:*:*:*:*:*:*:*",
 			"cpeNameId": "89DF0889-A581-414A-A94E-0552978BEA4E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apple:safari:17.2:*:*:*:*:*:*:*",
+			"cpeNameId": "15EAEFC3-C76B-44F8-8AAF-CAB5C92D99DD"
 		},
 		{
 			"cpeName": "cpe:2.3:a:apple:safari:17.3:*:*:*:*:*:*:*",
