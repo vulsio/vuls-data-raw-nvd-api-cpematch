@@ -3,7 +3,7 @@
 	"matchCriteriaId": "261FB692-DD0F-494F-A25A-AFCC00BE4585",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-07-27T18:25:20.780",
+	"cpeLastModified": "2024-04-16T12:35:21.127",
 	"status": "Active",
 	"matches": [
 		{
@@ -541,6 +541,10 @@
 		{
 			"cpeName": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_13:*:*:*:*:*:*",
 			"cpeNameId": "E3DA72C2-3644-4225-8273-2C1275CA4D8E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_14:*:*:*:*:*:*",
+			"cpeNameId": "099B2109-BFE2-4DD0-9869-9C739DB94D48"
 		},
 		{
 			"cpeName": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_2:*:*:*:*:*:*",

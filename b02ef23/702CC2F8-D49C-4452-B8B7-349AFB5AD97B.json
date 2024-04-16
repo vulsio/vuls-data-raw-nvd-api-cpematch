@@ -1,0 +1,24 @@
+{
+	"criteria": "cpe:2.3:a:apache:derby:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "702CC2F8-D49C-4452-B8B7-349AFB5AD97B",
+	"versionStartIncluding": "10.1.1.0",
+	"versionEndIncluding": "10.1.3.1",
+	"created": "2024-04-16T14:17:15.833",
+	"lastModified": "2024-04-16T14:17:15.833",
+	"cpeLastModified": "2024-04-16T14:17:15.833",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apache:derby:10.1.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "91B0EF22-4609-42BF-8DFE-49E6B88D2A16"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:derby:10.1.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "033D6CA5-A694-431C-BCD5-B81F07AE034F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:derby:10.1.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "61897596-725B-421A-B14F-6F2E04BBD22D"
+		}
+	]
+}
