@@ -3,8 +3,8 @@
 	"matchCriteriaId": "ADA892DD-ED03-4717-A389-73B10DE13AE2",
 	"versionEndIncluding": "4.9.4.36",
 	"created": "2024-02-13T15:11:45.947",
-	"lastModified": "2024-02-13T15:11:45.947",
-	"cpeLastModified": "2024-02-13T15:11:45.947",
+	"lastModified": "2024-04-17T12:18:57.563",
+	"cpeLastModified": "2024-04-17T12:18:57.563",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:a:dell:update_package_framework:3.8.3.67:*:*:*:*:*:*:*",
 			"cpeNameId": "CCAE23DC-6D39-4902-8467-7C5417E957B9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dell:update_package_framework:4.9.4.36:*:*:*:*:*:*:*",
+			"cpeNameId": "9D0B6097-7394-4E67-9BF3-C2548EE67AC4"
 		}
 	]
 }
