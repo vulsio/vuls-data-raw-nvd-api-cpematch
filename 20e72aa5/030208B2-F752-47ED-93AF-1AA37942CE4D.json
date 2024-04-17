@@ -5,7 +5,7 @@
 	"versionEndIncluding": "3.2.4",
 	"created": "2024-02-07T18:12:43.133",
 	"lastModified": "2024-02-07T18:16:31.843",
-	"cpeLastModified": "2024-02-07T18:12:43.133",
+	"cpeLastModified": "2024-04-17T16:15:15.317",
 	"status": "Active",
 	"matches": [
 		{
@@ -19,6 +19,10 @@
 		{
 			"cpeName": "cpe:2.3:a:openharmony:openharmony:3.2.3:*:*:*:-:*:*:*",
 			"cpeNameId": "8B2B53AD-3326-471A-A9E0-628E7B961B1D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openharmony:openharmony:3.2.4:*:*:*:-:*:*:*",
+			"cpeNameId": "33584BD8-E59E-4891-BA11-BF045BDFF2C6"
 		}
 	]
 }

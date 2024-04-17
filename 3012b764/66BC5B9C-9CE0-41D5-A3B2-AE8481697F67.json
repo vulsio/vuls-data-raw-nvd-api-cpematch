@@ -5,7 +5,7 @@
 	"versionEndIncluding": "8.1.2.0",
 	"created": "2022-04-29T13:45:40.330",
 	"lastModified": "2022-04-29T13:45:40.330",
-	"cpeLastModified": "2022-05-12T14:06:22.123",
+	"cpeLastModified": "2024-04-17T16:17:17.250",
 	"status": "Active",
 	"matches": [
 		{
@@ -19,6 +19,10 @@
 		{
 			"cpeName": "cpe:2.3:a:oracle:financial_services_analytical_applications_infrastructure:8.1.1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "4AC0D7FA-82F9-44E2-9B30-E8AA20D10FBC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:financial_services_analytical_applications_infrastructure:8.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "E3DE6260-9ABF-4EDC-BDBD-549602D5DF55"
 		},
 		{
 			"cpeName": "cpe:2.3:a:oracle:financial_services_analytical_applications_infrastructure:8.1.2.0:*:*:*:*:*:*:*",

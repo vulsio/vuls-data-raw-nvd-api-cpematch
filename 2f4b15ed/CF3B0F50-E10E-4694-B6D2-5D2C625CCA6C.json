@@ -4,8 +4,8 @@
 	"versionStartIncluding": "12.2.3",
 	"versionEndIncluding": "12.2.13",
 	"created": "2024-01-20T18:33:18.750",
-	"lastModified": "2024-03-11T15:43:02.390",
-	"cpeLastModified": "2024-01-20T18:33:18.750",
+	"lastModified": "2024-04-17T16:17:17.250",
+	"cpeLastModified": "2024-04-17T16:17:17.250",
 	"status": "Active",
 	"matches": [
 		{
@@ -31,6 +31,10 @@
 		{
 			"cpeName": "cpe:2.3:a:oracle:knowledge_management:12.2.8:*:*:*:*:*:*:*",
 			"cpeNameId": "CDF560E2-0BE4-4B3E-B6C4-9EFABA6F3AF2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:knowledge_management:12.2.13:*:*:*:*:*:*:*",
+			"cpeNameId": "6073306B-7ECC-4392-B058-8500ABD758F9"
 		}
 	]
 }

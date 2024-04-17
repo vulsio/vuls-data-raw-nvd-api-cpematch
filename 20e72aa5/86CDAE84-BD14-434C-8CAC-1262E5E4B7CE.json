@@ -3,8 +3,8 @@
 	"matchCriteriaId": "86CDAE84-BD14-434C-8CAC-1262E5E4B7CE",
 	"versionEndIncluding": "3.2.4",
 	"created": "2024-02-05T14:47:28.930",
-	"lastModified": "2024-02-05T14:47:28.930",
-	"cpeLastModified": "2024-02-05T14:47:28.930",
+	"lastModified": "2024-04-17T16:15:15.317",
+	"cpeLastModified": "2024-04-17T16:15:15.317",
 	"status": "Active",
 	"matches": [
 		{
@@ -82,6 +82,10 @@
 		{
 			"cpeName": "cpe:2.3:a:openharmony:openharmony:3.2.3:*:*:*:-:*:*:*",
 			"cpeNameId": "8B2B53AD-3326-471A-A9E0-628E7B961B1D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openharmony:openharmony:3.2.4:*:*:*:-:*:*:*",
+			"cpeNameId": "33584BD8-E59E-4891-BA11-BF045BDFF2C6"
 		}
 	]
 }

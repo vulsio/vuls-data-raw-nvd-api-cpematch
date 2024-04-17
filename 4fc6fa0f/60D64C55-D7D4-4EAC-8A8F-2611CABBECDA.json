@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:nirmata:kyverno:1.11.0:-:*:*:*:go:*:*",
 	"matchCriteriaId": "60D64C55-D7D4-4EAC-8A8F-2611CABBECDA",
 	"created": "2023-11-17T18:03:21.923",
-	"lastModified": "2023-11-17T18:03:21.923",
-	"cpeLastModified": "2023-11-17T18:03:21.923",
-	"status": "Active"
+	"lastModified": "2024-04-17T15:32:19.737",
+	"cpeLastModified": "2024-04-17T15:32:19.737",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:nirmata:kyverno:1.11.0:-:*:*:*:go:*:*",
+			"cpeNameId": "0071437B-72F8-47BA-8344-3F1643897AA2"
+		}
+	]
 }

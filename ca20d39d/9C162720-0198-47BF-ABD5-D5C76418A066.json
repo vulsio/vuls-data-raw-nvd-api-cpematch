@@ -4,8 +4,8 @@
 	"versionStartIncluding": "12.2.3",
 	"versionEndIncluding": "12.2.13",
 	"created": "2024-01-20T00:39:13.260",
-	"lastModified": "2024-01-20T00:39:13.260",
-	"cpeLastModified": "2024-01-20T00:39:13.260",
+	"lastModified": "2024-04-17T16:17:17.250",
+	"cpeLastModified": "2024-04-17T16:17:17.250",
 	"status": "Active",
 	"matches": [
 		{
@@ -27,6 +27,10 @@
 		{
 			"cpeName": "cpe:2.3:a:oracle:installed_base:12.2.10:*:*:*:*:*:*:*",
 			"cpeNameId": "DBB84EB8-2ACC-4542-A250-387B18D63764"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:installed_base:12.2.13:*:*:*:*:*:*:*",
+			"cpeNameId": "33298978-17E4-4CA4-8AE5-3921A7858052"
 		}
 	]
 }

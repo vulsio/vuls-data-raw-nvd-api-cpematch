@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:oracle:mysql_server:8.2.0:*:*:*:*:*:*:*",
 	"matchCriteriaId": "241270D5-5730-4DED-A569-3EE374DFEA44",
 	"created": "2024-03-01T14:32:58.117",
-	"lastModified": "2024-03-01T14:32:58.117",
-	"cpeLastModified": "2024-03-01T14:32:58.117",
-	"status": "Active"
+	"lastModified": "2024-04-17T16:17:17.250",
+	"cpeLastModified": "2024-04-17T16:17:17.250",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:mysql_server:8.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B34E8D0B-EC94-48C6-A6FB-7325B7D2EBE1"
+		}
+	]
 }
