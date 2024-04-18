@@ -4,9 +4,17 @@
 	"versionEndIncluding": "1.8.0",
 	"created": "2020-05-15T17:56:45.103",
 	"lastModified": "2020-05-15T17:56:45.103",
-	"cpeLastModified": "2020-05-19T19:40:37.843",
+	"cpeLastModified": "2024-04-17T19:40:55.833",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:pulseaudio:pulseaudio:0.9.6:*:*:*:*:*:*:*",
+			"cpeNameId": "3EAF7909-F317-4D57-8722-447CBBEACE34"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pulseaudio:pulseaudio:0.9.8:*:*:*:*:*:*:*",
+			"cpeNameId": "3A670A28-C5CC-4E00-9B1D-825FDFED608A"
+		},
 		{
 			"cpeName": "cpe:2.3:a:pulseaudio:pulseaudio:0.9.23:*:*:*:*:*:*:*",
 			"cpeNameId": "D5682EF1-FB76-4676-9A3C-97A8D66CA2D7"

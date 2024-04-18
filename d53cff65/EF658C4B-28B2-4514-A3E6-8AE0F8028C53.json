@@ -3,8 +3,8 @@
 	"matchCriteriaId": "EF658C4B-28B2-4514-A3E6-8AE0F8028C53",
 	"versionEndExcluding": "8.2.1",
 	"created": "2024-03-08T16:55:46.400",
-	"lastModified": "2024-03-08T16:55:46.400",
-	"cpeLastModified": "2024-03-08T16:55:46.400",
+	"lastModified": "2024-04-17T19:42:22.123",
+	"cpeLastModified": "2024-04-17T19:42:22.123",
 	"status": "Active",
 	"matches": [
 		{
@@ -1626,6 +1626,10 @@
 		{
 			"cpeName": "cpe:2.3:a:qemu:qemu:8.1.2:*:*:*:*:*:*:*",
 			"cpeNameId": "A94B0C16-5762-483E-AF91-FEF85E9DA61E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qemu:qemu:8.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "7B364729-EFA6-46E9-A7E6-2688211F2906"
 		}
 	]
 }

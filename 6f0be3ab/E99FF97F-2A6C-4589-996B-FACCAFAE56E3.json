@@ -4,7 +4,7 @@
 	"versionEndExcluding": "3.11.188-4",
 	"created": "2020-04-03T21:01:08.303",
 	"lastModified": "2020-04-03T21:01:08.303",
-	"cpeLastModified": "2023-10-25T05:38:59.000",
+	"cpeLastModified": "2024-04-17T19:49:35.380",
 	"status": "Active",
 	"matches": [
 		{
@@ -78,6 +78,10 @@
 		{
 			"cpeName": "cpe:2.3:a:redhat:openshift:1.2.8:*:*:*:enterprise:*:*:*",
 			"cpeNameId": "2CE8B702-4454-4D4A-B854-13D7F65C75DD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:openshift:2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F40F460C-9A80-4943-94B8-7A75394AA865"
 		},
 		{
 			"cpeName": "cpe:2.3:a:redhat:openshift:2.0:*:*:*:enterprise:*:*:*",

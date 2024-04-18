@@ -3,8 +3,8 @@
 	"matchCriteriaId": "069956BE-8A4A-418E-8913-90BB53FC6A23",
 	"versionEndExcluding": "8.4.6",
 	"created": "2023-12-25T01:36:23.380",
-	"lastModified": "2023-12-25T01:36:23.380",
-	"cpeLastModified": "2023-12-25T01:36:23.380",
+	"lastModified": "2024-04-17T19:49:35.380",
+	"cpeLastModified": "2024-04-17T19:49:35.380",
 	"status": "Active",
 	"matches": [
 		{
@@ -34,6 +34,10 @@
 		{
 			"cpeName": "cpe:2.3:a:redhat:data_grid:8.1.1:*:*:*:*:*:*:*",
 			"cpeNameId": "CD600F3B-A009-4679-8746-741DC5664A6F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:data_grid:8.4.4:*:*:*:*:*:*:*",
+			"cpeNameId": "9B9F01F3-A1D2-426A-A5C4-705BFAB1E06D"
 		}
 	]
 }

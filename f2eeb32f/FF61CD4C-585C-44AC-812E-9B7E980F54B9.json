@@ -3,9 +3,17 @@
 	"matchCriteriaId": "FF61CD4C-585C-44AC-812E-9B7E980F54B9",
 	"created": "2020-11-24T14:51:18.717",
 	"lastModified": "2020-11-24T14:51:18.717",
-	"cpeLastModified": "2020-11-24T14:51:18.750",
+	"cpeLastModified": "2024-04-17T19:40:55.833",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:pulseaudio:pulseaudio:0.9.6:*:*:*:*:*:*:*",
+			"cpeNameId": "3EAF7909-F317-4D57-8722-447CBBEACE34"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pulseaudio:pulseaudio:0.9.8:*:*:*:*:*:*:*",
+			"cpeNameId": "3A670A28-C5CC-4E00-9B1D-825FDFED608A"
+		},
 		{
 			"cpeName": "cpe:2.3:a:pulseaudio:pulseaudio:0.9.23:*:*:*:*:*:*:*",
 			"cpeNameId": "D5682EF1-FB76-4676-9A3C-97A8D66CA2D7"
