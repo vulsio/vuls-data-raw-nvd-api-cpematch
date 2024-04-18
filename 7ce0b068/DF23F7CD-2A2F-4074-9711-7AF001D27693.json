@@ -3,7 +3,7 @@
 	"matchCriteriaId": "DF23F7CD-2A2F-4074-9711-7AF001D27693",
 	"created": "2024-04-08T16:40:54.330",
 	"lastModified": "2024-04-08T16:40:54.330",
-	"cpeLastModified": "2024-04-08T16:40:54.330",
+	"cpeLastModified": "2024-04-18T14:19:44.073",
 	"status": "Active",
 	"matches": [
 		{
@@ -17,6 +17,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ivanti:connect_secure:22.5:r2.2:*:*:*:*:*:*",
 			"cpeNameId": "1C4D81AF-E458-4538-96F9-6CB9D3496A98"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ivanti:connect_secure:22.5:r2.3:*:*:*:*:*:*",
+			"cpeNameId": "473FF0DA-DEC0-4B8A-BF9A-DA733EFDA956"
 		}
 	]
 }

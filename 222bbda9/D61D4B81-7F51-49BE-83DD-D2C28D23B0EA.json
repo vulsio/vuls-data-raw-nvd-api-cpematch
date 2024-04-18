@@ -3,7 +3,7 @@
 	"matchCriteriaId": "D61D4B81-7F51-49BE-83DD-D2C28D23B0EA",
 	"created": "2020-06-12T13:36:44.820",
 	"lastModified": "2020-06-12T13:36:44.820",
-	"cpeLastModified": "2023-12-16T04:05:58.243",
+	"cpeLastModified": "2024-04-18T15:19:25.003",
 	"status": "Active",
 	"matches": [
 		{
@@ -13,6 +13,10 @@
 		{
 			"cpeName": "cpe:2.3:a:siemens:simatic_pcs_neo:3.0:-:*:*:*:*:*:*",
 			"cpeNameId": "A653D48A-853C-4840-A1BD-50EE356CD9D4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:siemens:simatic_pcs_neo:3.1:-:*:*:*:*:*:*",
+			"cpeNameId": "9679FD04-AA7F-427E-B336-5706DF7A0B98"
 		},
 		{
 			"cpeName": "cpe:2.3:a:siemens:simatic_pcs_neo:4.0:-:*:*:*:*:*:*",

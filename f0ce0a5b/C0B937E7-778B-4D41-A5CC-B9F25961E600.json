@@ -3,7 +3,13 @@
 	"matchCriteriaId": "C0B937E7-778B-4D41-A5CC-B9F25961E600",
 	"versionEndExcluding": "1.3.1",
 	"created": "2024-02-05T14:26:43.660",
-	"lastModified": "2024-02-05T14:26:43.660",
-	"cpeLastModified": "2024-02-05T14:26:43.660",
-	"status": "Active"
+	"lastModified": "2024-04-18T14:12:44.110",
+	"cpeLastModified": "2024-04-18T14:12:44.110",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:invisioncommunity:gallery:-:*:*:*:*:*:*:*",
+			"cpeNameId": "68ABCAAA-9C72-4D96-BDBB-B0B4CEFF654D"
+		}
+	]
 }

@@ -3,10 +3,18 @@
 	"matchCriteriaId": "26FEBC12-2B0F-4F8F-BCB8-03683D71B37F",
 	"versionEndExcluding": "23.9.8",
 	"created": "2024-02-22T14:11:04.637",
-	"lastModified": "2024-02-22T14:11:04.637",
-	"cpeLastModified": "2024-02-22T14:11:04.637",
+	"lastModified": "2024-04-18T14:06:48.403",
+	"cpeLastModified": "2024-04-18T14:06:48.403",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:connectwise:screenconnect:-:*:*:*:*:*:*:*",
+			"cpeNameId": "38E66510-0E3A-48E7-9B49-4E5563BC321D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:connectwise:screenconnect:22.7:*:*:*:*:*:*:*",
+			"cpeNameId": "627F9766-C31A-4D3C-89E6-008C6F2D7FC5"
+		},
 		{
 			"cpeName": "cpe:2.3:a:connectwise:screenconnect:23.8.4:*:*:*:*:*:*:*",
 			"cpeNameId": "9DB1C321-08AA-442B-9DD1-300A2F671062"

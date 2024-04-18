@@ -3,9 +3,13 @@
 	"matchCriteriaId": "61597661-A3B0-4A14-AA6B-C911E0063390",
 	"created": "2021-12-16T16:31:27.380",
 	"lastModified": "2023-11-20T13:41:09.400",
-	"cpeLastModified": "2021-12-16T19:56:48.887",
+	"cpeLastModified": "2024-04-18T15:19:25.003",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:siemens:comos:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6C70CBF6-09F4-4294-8AC3-8F79A14A92E8"
+		},
 		{
 			"cpeName": "cpe:2.3:a:siemens:comos:9.1:457:*:*:*:*:*:*",
 			"cpeNameId": "E9450B2C-2A70-47D7-AE56-992A30226C63"
@@ -73,6 +77,10 @@
 		{
 			"cpeName": "cpe:2.3:a:siemens:comos:10.4.1:*:*:*:*:*:*:*",
 			"cpeNameId": "E8C2B16A-348F-4B66-9D24-C752F14A63EE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:siemens:comos:10.4.4:*:*:*:*:*:*:*",
+			"cpeNameId": "F87DBCA9-11D0-40B2-87C0-0B2CD55025CC"
 		}
 	]
 }

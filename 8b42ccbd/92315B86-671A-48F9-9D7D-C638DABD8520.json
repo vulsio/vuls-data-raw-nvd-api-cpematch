@@ -3,8 +3,8 @@
 	"matchCriteriaId": "92315B86-671A-48F9-9D7D-C638DABD8520",
 	"versionEndExcluding": "2201.0012",
 	"created": "2024-02-13T18:53:52.533",
-	"lastModified": "2024-02-13T18:53:52.533",
-	"cpeLastModified": "2024-02-13T18:53:52.533",
+	"lastModified": "2024-04-18T15:19:25.003",
+	"cpeLastModified": "2024-04-18T15:19:25.003",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:a:siemens:tecnomatix_plant_simulation:2201.0:*:*:*:*:*:*:*",
 			"cpeNameId": "8D27053D-6980-4248-A97A-F73B8C319746"
+		},
+		{
+			"cpeName": "cpe:2.3:a:siemens:tecnomatix_plant_simulation:2201.0:-:*:*:*:*:*:*",
+			"cpeNameId": "8E84D272-C532-416F-9A1C-C764C2DB07C9"
 		},
 		{
 			"cpeName": "cpe:2.3:a:siemens:tecnomatix_plant_simulation:2201.0006:*:*:*:*:*:*:*",

@@ -4,9 +4,13 @@
 	"versionEndIncluding": "2.0",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2021-01-12T16:13:07.447",
+	"cpeLastModified": "2024-04-18T15:19:25.003",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:siemens:sinema_remote_connect_client:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4D4E9B98-8C26-4657-BD24-7B046ECD1FF8"
+		},
 		{
 			"cpeName": "cpe:2.3:a:siemens:sinema_remote_connect_client:1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "DCB9F812-C8BC-495F-9435-EFFE4851C99A"

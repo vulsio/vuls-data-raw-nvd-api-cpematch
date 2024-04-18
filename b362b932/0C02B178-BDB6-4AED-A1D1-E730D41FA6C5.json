@@ -3,10 +3,14 @@
 	"matchCriteriaId": "0C02B178-BDB6-4AED-A1D1-E730D41FA6C5",
 	"versionEndIncluding": "9.1",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"lastModified": "2024-04-18T15:19:25.003",
+	"cpeLastModified": "2024-04-18T15:19:25.003",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:siemens:comos:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6C70CBF6-09F4-4294-8AC3-8F79A14A92E8"
+		},
 		{
 			"cpeName": "cpe:2.3:a:siemens:comos:9.1:457:*:*:*:*:*:*",
 			"cpeNameId": "E9450B2C-2A70-47D7-AE56-992A30226C63"

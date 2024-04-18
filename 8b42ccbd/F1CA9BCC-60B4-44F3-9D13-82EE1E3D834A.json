@@ -4,8 +4,8 @@
 	"versionStartIncluding": "2302.0",
 	"versionEndExcluding": "2302.0007",
 	"created": "2024-02-13T19:00:19.647",
-	"lastModified": "2024-02-13T19:00:19.647",
-	"cpeLastModified": "2024-02-13T19:00:19.647",
+	"lastModified": "2024-04-18T15:19:25.003",
+	"cpeLastModified": "2024-04-18T15:19:25.003",
 	"status": "Active",
 	"matches": [
 		{
@@ -15,6 +15,10 @@
 		{
 			"cpeName": "cpe:2.3:a:siemens:tecnomatix_plant_simulation:2302.0004:*:*:*:*:*:*:*",
 			"cpeNameId": "319AC61D-7665-4527-81A1-260D632140B6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:siemens:tecnomatix_plant_simulation:2302.0006:*:*:*:*:*:*:*",
+			"cpeNameId": "00AFA5C5-055E-412E-A453-96D5FB80F0FB"
 		}
 	]
 }

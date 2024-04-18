@@ -4,9 +4,13 @@
 	"versionEndIncluding": "10.2",
 	"created": "2022-03-04T16:45:03.793",
 	"lastModified": "2022-03-04T16:45:03.793",
-	"cpeLastModified": "2022-04-29T19:00:56.170",
+	"cpeLastModified": "2024-04-18T15:19:25.003",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:siemens:comos:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6C70CBF6-09F4-4294-8AC3-8F79A14A92E8"
+		},
 		{
 			"cpeName": "cpe:2.3:a:siemens:comos:9.1:457:*:*:*:*:*:*",
 			"cpeNameId": "E9450B2C-2A70-47D7-AE56-992A30226C63"
