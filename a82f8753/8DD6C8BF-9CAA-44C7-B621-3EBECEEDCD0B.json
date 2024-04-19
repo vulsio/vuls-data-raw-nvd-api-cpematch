@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:veeam:recovery_orchestrator:6.0:*:*:*:*:*:*:*",
 	"matchCriteriaId": "8DD6C8BF-9CAA-44C7-B621-3EBECEEDCD0B",
 	"created": "2024-02-14T21:08:27.820",
-	"lastModified": "2024-02-14T21:08:27.820",
-	"cpeLastModified": "2024-02-14T21:08:27.820",
-	"status": "Active"
+	"lastModified": "2024-04-19T12:31:15.733",
+	"cpeLastModified": "2024-04-19T12:31:15.733",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:veeam:recovery_orchestrator:6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "4B798892-1CFF-4AF0-8038-B8FB87F1D70D"
+		}
+	]
 }
