@@ -3,10 +3,14 @@
 	"matchCriteriaId": "811CFB2B-20C3-427F-A5A5-C83F59612A49",
 	"versionEndExcluding": "1.2.6",
 	"created": "2024-02-15T16:23:06.070",
-	"lastModified": "2024-02-15T16:23:06.070",
-	"cpeLastModified": "2024-02-15T16:23:06.070",
+	"lastModified": "2024-04-18T19:08:57.543",
+	"cpeLastModified": "2024-04-18T19:08:57.543",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:softaculous:backuply:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A01F872F-FA59-4049-BCC4-2E7D50D89177"
+		},
 		{
 			"cpeName": "cpe:2.3:a:softaculous:backuply:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "8CE759C0-1A6D-4020-AEC9-3C23D1A26D71"
@@ -106,6 +110,10 @@
 		{
 			"cpeName": "cpe:2.3:a:softaculous:backuply:1.2.4:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "CDA7DBC3-5609-4683-94A6-A4903D025946"
+		},
+		{
+			"cpeName": "cpe:2.3:a:softaculous:backuply:1.2.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BFB39021-6677-4F35-BFB6-DE75E1FF4A53"
 		}
 	]
 }

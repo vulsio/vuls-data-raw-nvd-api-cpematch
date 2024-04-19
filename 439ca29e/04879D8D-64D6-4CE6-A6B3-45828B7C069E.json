@@ -4,9 +4,13 @@
 	"versionEndIncluding": "1.2.3",
 	"created": "2024-01-31T15:38:56.177",
 	"lastModified": "2024-01-31T19:19:40.597",
-	"cpeLastModified": "2024-01-31T19:19:40.597",
+	"cpeLastModified": "2024-04-18T19:08:57.543",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:softaculous:backuply:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A01F872F-FA59-4049-BCC4-2E7D50D89177"
+		},
 		{
 			"cpeName": "cpe:2.3:a:softaculous:backuply:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "8CE759C0-1A6D-4020-AEC9-3C23D1A26D71"
