@@ -4,12 +4,16 @@
 	"versionEndIncluding": "5.001b",
 	"created": "2022-05-12T16:27:16.263",
 	"lastModified": "2022-05-12T16:27:16.263",
-	"cpeLastModified": "2022-02-22T15:49:59.723",
+	"cpeLastModified": "2024-04-23T11:56:54.000",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:mitsubishielectric:mx_component:-:*:*:*:*:*:*:*",
 			"cpeNameId": "6CDD1813-8B3F-4F78-B8E5-24A1F57483FA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mitsubishielectric:mx_component:4.00a:*:*:*:*:*:*:*",
+			"cpeNameId": "F92530D6-D92A-4E9D-86E7-8521C4835909"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mitsubishielectric:mx_component:4.20w:*:*:*:*:*:*:*",

@@ -4,12 +4,16 @@
 	"versionEndExcluding": "4.6",
 	"created": "2022-06-06T13:23:59.090",
 	"lastModified": "2022-06-06T13:23:59.090",
-	"cpeLastModified": "2022-07-07T19:22:20.140",
+	"cpeLastModified": "2024-04-23T11:56:54.000",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:mitsubishielectric:ezsocket:-:*:*:*:*:*:*:*",
 			"cpeNameId": "86B34726-1DC7-4398-9600-2AD8794D050A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mitsubishielectric:ezsocket:3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "9E7738CA-6B67-4ADC-8CF4-2ECD0455571F"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mitsubishielectric:ezsocket:4.5:*:*:*:*:*:*:*",

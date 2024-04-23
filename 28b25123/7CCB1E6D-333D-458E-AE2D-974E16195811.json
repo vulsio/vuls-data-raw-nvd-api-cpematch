@@ -4,12 +4,16 @@
 	"versionEndIncluding": "1.590q",
 	"created": "2020-07-08T18:59:38.633",
 	"lastModified": "2020-07-08T18:59:38.633",
-	"cpeLastModified": "2020-08-11T16:05:27.453",
+	"cpeLastModified": "2024-04-23T11:56:54.000",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:mitsubishielectric:gx_works2:-:*:*:*:*:*:*:*",
 			"cpeNameId": "59EBA2C6-A64F-44D1-9986-25565076C269"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mitsubishielectric:gx_works2:1.11m:*:*:*:*:*:*:*",
+			"cpeNameId": "65E22BE5-2EEA-47D7-8D52-44A0E92B78AA"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mitsubishielectric:gx_works2:1.590q:*:*:*:*:*:*:*",

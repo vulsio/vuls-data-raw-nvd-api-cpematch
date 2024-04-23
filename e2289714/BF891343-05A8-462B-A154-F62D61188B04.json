@@ -5,6 +5,12 @@
 	"versionEndIncluding": "6.4.1",
 	"created": "2023-10-05T01:13:53.857",
 	"lastModified": "2023-10-05T01:13:53.857",
-	"cpeLastModified": "2023-10-05T01:13:53.857",
-	"status": "Active"
+	"cpeLastModified": "2024-04-23T12:06:21.490",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:purestorage:purity\\/\\/fa:6.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E2C7B3BF-910F-4F8D-B875-270A9056E29C"
+		}
+	]
 }
