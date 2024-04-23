@@ -3,8 +3,8 @@
 	"matchCriteriaId": "7C8E0B72-62EC-47B5-9957-4DC840F5E968",
 	"versionEndIncluding": "1.1.35",
 	"created": "2022-05-09T17:17:38.330",
-	"lastModified": "2022-05-09T17:17:38.330",
-	"cpeLastModified": "2021-06-21T17:15:03.873",
+	"lastModified": "2024-04-23T16:10:52.817",
+	"cpeLastModified": "2024-04-23T16:10:52.817",
 	"status": "Active",
 	"matches": [
 		{
@@ -390,6 +390,10 @@
 		{
 			"cpeName": "cpe:2.3:a:xmlsoft:libxslt:1.1.34:rc2:*:*:*:*:*:*",
 			"cpeNameId": "ADC1D5F0-DF59-4862-B8EF-457B484B7DF7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:xmlsoft:libxslt:1.1.35:*:*:*:*:*:*:*",
+			"cpeNameId": "AD52F630-8C2E-410E-9AA0-44F5295C13BC"
 		}
 	]
 }

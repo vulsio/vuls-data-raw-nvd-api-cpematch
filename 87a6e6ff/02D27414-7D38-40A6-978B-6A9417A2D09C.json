@@ -4,7 +4,7 @@
 	"versionEndIncluding": "2024-01-12",
 	"created": "2024-01-25T17:17:44.590",
 	"lastModified": "2024-01-25T17:17:44.590",
-	"cpeLastModified": "2024-01-31T19:19:40.597",
+	"cpeLastModified": "2024-04-23T15:58:32.387",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dlink:dir-815_firmware:1.0.1:*:*:*:*:*:*:*",
 			"cpeNameId": "17DB5A69-2583-45BB-A646-80DB68BE8D85"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dlink:dir-815_firmware:1.01ssb08.bin:*:*:*:*:*:*:*",
+			"cpeNameId": "B5BF227A-6E10-400D-BD6D-CEDA71F8360B"
 		},
 		{
 			"cpeName": "cpe:2.3:o:dlink:dir-815_firmware:1.04:*:*:*:*:*:*:*",

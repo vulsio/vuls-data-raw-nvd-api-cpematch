@@ -4,7 +4,7 @@
 	"versionEndExcluding": "9.0",
 	"created": "2022-06-23T14:08:21.297",
 	"lastModified": "2022-06-23T14:08:21.297",
-	"cpeLastModified": "2024-03-26T13:51:30.800",
+	"cpeLastModified": "2024-04-23T12:49:08.203",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:a:splunk:universal_forwarder:4.2.4.110225:*:*:*:*:*:*:*",
 			"cpeNameId": "A2E4DA8E-318D-4970-9C47-C17BB89DA44F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:splunk:universal_forwarder:8.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "743FF262-3CEF-4CBA-BC6D-00D1ED525711"
 		},
 		{
 			"cpeName": "cpe:2.3:a:splunk:universal_forwarder:8.2.6:*:*:*:*:*:*:*",

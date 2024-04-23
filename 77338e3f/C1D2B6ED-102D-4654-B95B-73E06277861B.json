@@ -4,9 +4,13 @@
 	"versionEndExcluding": "2023.2.2",
 	"created": "2024-02-20T20:05:07.300",
 	"lastModified": "2024-02-20T20:05:07.300",
-	"cpeLastModified": "2024-02-20T20:05:07.300",
+	"cpeLastModified": "2024-04-23T12:46:48.387",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:solarwinds:access_rights_manager:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EDA229DF-B2A7-45BC-A8FF-5ED502828583"
+		},
 		{
 			"cpeName": "cpe:2.3:a:solarwinds:access_rights_manager:9.1:*:*:*:*:*:*:*",
 			"cpeNameId": "6068974A-CA0C-4FE2-8E3A-6EB6D2199EAA"

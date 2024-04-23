@@ -5,9 +5,13 @@
 	"versionEndExcluding": "8.2.7.1",
 	"created": "2022-08-17T15:53:30.470",
 	"lastModified": "2022-08-17T15:53:30.470",
-	"cpeLastModified": "2024-03-26T13:51:30.800",
+	"cpeLastModified": "2024-04-23T12:49:08.203",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:splunk:universal_forwarder:8.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "743FF262-3CEF-4CBA-BC6D-00D1ED525711"
+		},
 		{
 			"cpeName": "cpe:2.3:a:splunk:universal_forwarder:8.2.6:*:*:*:*:*:*:*",
 			"cpeNameId": "633889B0-7F7B-4B23-94E4-C1320C1A4DD3"
