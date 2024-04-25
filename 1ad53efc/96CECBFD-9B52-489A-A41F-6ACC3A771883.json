@@ -3,8 +3,8 @@
 	"matchCriteriaId": "96CECBFD-9B52-489A-A41F-6ACC3A771883",
 	"versionEndExcluding": "7.1.0",
 	"created": "2023-10-26T13:54:32.237",
-	"lastModified": "2023-10-26T13:54:32.237",
-	"cpeLastModified": "2023-10-26T13:54:32.237",
+	"lastModified": "2024-04-25T17:49:53.630",
+	"cpeLastModified": "2024-04-25T17:56:32.140",
 	"status": "Active",
 	"matches": [
 		{
@@ -578,6 +578,154 @@
 		{
 			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.5.6:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "B53D908D-E6A5-4F5F-B814-3E696BF86421"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.5.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A8FC8019-479E-4248-B24E-06BA8FBC5FB2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.5.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "ACDE19C5-B329-4AAA-B085-FCC1C781C025"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.5.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6B99EBBE-A036-4AC2-A564-F6078BF41A0C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.6.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E2DBAC1A-04C2-48ED-9C49-31B94CC46D26"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.6.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "13DCA829-E507-4170-BE98-CF39D47613E2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.6.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8223B84C-768D-4C1C-A982-ED0AA433E5B0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.6.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "70A3F2DC-6E88-4873-A44A-01166C16E0CD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.6.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "89178D38-03CD-44D9-BAC1-E93D25F8468A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.6.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7C1929E7-326C-4F72-BCA7-DB7F40CA26A9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.6.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0AC5548B-8A41-43E5-9810-00D8C88B3300"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.6.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F6A23319-3D8B-41E9-8AB0-F9C7F9B555F7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.6.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F7731142-C083-4D1F-994A-D0FA93651A3B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.6.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CD423C8C-72B8-49A8-8BB4-F6ED8ACA617F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.6.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EED452CD-0EBE-47E3-99E5-E35E8005B598"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.7.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4E09F5D6-9526-49BB-AAFE-8DF31CFA5EA8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.7.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BF01CB65-1EB0-42C3-9CF2-C82DC9AA0E5B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.7.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "82EB005B-D250-42C4-8E8B-6E20B43B2111"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.7.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F854B60B-FFAC-4388-902E-CFF55F3CE0B2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.8.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "965D24BA-D92E-4022-AD75-30F066778845"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.8.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2E8C424B-541C-4994-B50A-1C0821A1933E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.8.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D62885B3-B27B-4747-88D1-FB2CC30461EA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.8.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DC0EDC3F-7395-4710-9A5C-6734662DB959"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.8.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "59D21E7E-F70E-4899-BCD4-1A990F4D8228"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.8.15:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4B098E7D-53F3-4083-B87B-011A00E11727"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.8.20:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8B1919E4-232B-4A28-A9A8-425E57D1F888"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.8.21:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E76D6949-E6CC-4470-AFF6-305F1CE44259"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.8.28:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B96BBBAE-2434-49BE-8917-1E1F571B51F7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.8.30:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "89397BB8-A4D2-49F3-AFAB-9563D1CB9BC0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.9.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "200038ED-5773-4D21-A8E1-2FF226CC9B4D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.9.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7B2B2E1E-345D-4A44-A83A-B1D17D9CC0ED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.9.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7F90B484-1188-43C2-8C27-B26EF827495D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.10.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5D6B2755-9899-4BF0-BFA8-1146634326EF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.10.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1CB68362-A661-415B-82A0-3E3E946763B2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.10.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "89119915-858B-4622-9587-31DAEA13C9AC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.11.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "335E687F-4682-4A86-A868-351218F5F233"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:6.11.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EAC8C451-1E08-41D9-A0A8-1931D0C9C277"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webnus:modern_events_calendar_lite:7.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AA87D26A-9343-42D0-97A2-5BA20358B237"
 		}
 	]
 }

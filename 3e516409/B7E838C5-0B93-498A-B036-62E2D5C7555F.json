@@ -3,10 +3,14 @@
 	"matchCriteriaId": "B7E838C5-0B93-498A-B036-62E2D5C7555F",
 	"versionEndExcluding": "2.2",
 	"created": "2024-02-14T19:44:09.927",
-	"lastModified": "2024-02-14T19:44:09.927",
-	"cpeLastModified": "2024-02-16T19:29:44.597",
+	"lastModified": "2024-04-25T17:40:35.293",
+	"cpeLastModified": "2024-04-25T17:40:35.293",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:webdados:portugal_ctt_tracking_for_woocommerce:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "03C6AC98-D0B6-4591-8662-5FD173EB5AF9"
+		},
 		{
 			"cpeName": "cpe:2.3:a:webdados:portugal_ctt_tracking_for_woocommerce:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "64DECB35-25CB-45A9-B834-EBC1AB018369"

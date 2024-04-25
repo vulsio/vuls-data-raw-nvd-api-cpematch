@@ -3,8 +3,8 @@
 	"matchCriteriaId": "CEBAD1BE-7C5A-4B6A-B1EB-2EA42225BC75",
 	"versionEndIncluding": "1.0.72",
 	"created": "2023-12-10T21:23:49.327",
-	"lastModified": "2023-12-10T21:23:49.327",
-	"cpeLastModified": "2023-12-10T21:23:49.327",
+	"lastModified": "2024-04-25T17:42:54.417",
+	"cpeLastModified": "2024-04-25T17:42:54.417",
 	"status": "Active",
 	"matches": [
 		{
@@ -278,6 +278,10 @@
 		{
 			"cpeName": "cpe:2.3:a:web-dorado:wp_form_builder:1.0.69:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "883F6241-E7B7-43D8-8BAB-7A7CD768FEFB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:web-dorado:wp_form_builder:1.0.72:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "029EA935-E087-4904-B68E-DB1C368C3C19"
 		}
 	]
 }
