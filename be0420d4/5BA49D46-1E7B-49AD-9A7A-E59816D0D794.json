@@ -3,8 +3,8 @@
 	"matchCriteriaId": "5BA49D46-1E7B-49AD-9A7A-E59816D0D794",
 	"versionEndIncluding": "5.9.4",
 	"created": "2024-02-12T18:31:24.470",
-	"lastModified": "2024-02-12T18:31:24.470",
-	"cpeLastModified": "2024-02-12T18:31:24.470",
+	"lastModified": "2024-04-29T12:46:03.030",
+	"cpeLastModified": "2024-04-29T12:46:03.030",
 	"status": "Active",
 	"matches": [
 		{
@@ -846,6 +846,10 @@
 		{
 			"cpeName": "cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:5.9.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "70B64573-4D0E-4AA1-B091-1FCC7DC5F1AC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:5.9.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "17C6A796-8A6E-4DAB-AB87-7758B4917785"
 		}
 	]
 }

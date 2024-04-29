@@ -3,8 +3,8 @@
 	"matchCriteriaId": "0304220E-53F1-42A4-91AC-CB07F2045AAB",
 	"versionEndIncluding": "0.9.94",
 	"created": "2024-02-12T14:58:42.307",
-	"lastModified": "2024-02-12T14:58:42.307",
-	"cpeLastModified": "2024-02-12T14:58:42.307",
+	"lastModified": "2024-04-29T12:46:03.030",
+	"cpeLastModified": "2024-04-29T12:46:03.030",
 	"status": "Active",
 	"matches": [
 		{
@@ -378,6 +378,10 @@
 		{
 			"cpeName": "cpe:2.3:a:wpvivid:migration\\,_backup\\,_staging:0.9.92:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "0D034321-2395-4F64-A2D6-F4134B86DE4F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpvivid:migration\\,_backup\\,_staging:0.9.94:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A9737BD7-6A15-4C90-B32A-991AAA317C1C"
 		}
 	]
 }

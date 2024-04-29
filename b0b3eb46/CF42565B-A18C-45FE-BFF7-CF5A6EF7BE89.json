@@ -3,8 +3,8 @@
 	"matchCriteriaId": "CF42565B-A18C-45FE-BFF7-CF5A6EF7BE89",
 	"versionEndIncluding": "5.1.3",
 	"created": "2024-02-07T19:13:39.093",
-	"lastModified": "2024-02-07T19:13:39.093",
-	"cpeLastModified": "2024-02-07T19:13:39.093",
+	"lastModified": "2024-04-29T12:46:03.030",
+	"cpeLastModified": "2024-04-29T12:46:03.030",
 	"status": "Active",
 	"matches": [
 		{
@@ -686,6 +686,10 @@
 		{
 			"cpeName": "cpe:2.3:a:wp-slimstat:slimstat_analytics:5.0.10.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "22EADD67-0DBD-4582-ACDC-37EE494E1A38"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wp-slimstat:slimstat_analytics:5.1.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9EA34C30-322B-4B61-A9A3-38FFFC31D86D"
 		}
 	]
 }

@@ -5,6 +5,16 @@
 	"versionEndIncluding": "4.2.1",
 	"created": "2024-02-05T18:51:09.353",
 	"lastModified": "2024-02-05T18:51:09.353",
-	"cpeLastModified": "2024-02-05T18:51:09.353",
-	"status": "Active"
+	"cpeLastModified": "2024-04-29T11:53:11.183",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:valicert:enterprise_validation_authority:3.3:*:*:*:*:*:*:*",
+			"cpeNameId": "5C2F38C1-1C1F-4750-88CA-B1389FA14508"
+		},
+		{
+			"cpeName": "cpe:2.3:a:valicert:enterprise_validation_authority:4.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "6ADC478A-7D15-4BE5-88D4-DC7DBE426858"
+		}
+	]
 }

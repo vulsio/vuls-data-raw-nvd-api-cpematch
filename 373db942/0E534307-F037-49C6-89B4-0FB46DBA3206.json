@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.7",
 	"created": "2024-02-14T20:40:15.857",
 	"lastModified": "2024-02-16T20:04:55.770",
-	"cpeLastModified": "2024-02-16T20:04:55.770",
+	"cpeLastModified": "2024-04-29T12:46:03.030",
 	"status": "Active",
 	"matches": [
 		{
@@ -54,6 +54,10 @@
 		{
 			"cpeName": "cpe:2.3:a:whodunit:gdpr_data_request_form:1.5.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "052B9B12-2EE1-4593-B644-326B0FF62E6B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:whodunit:gdpr_data_request_form:1.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6C5859BE-A22B-4680-8ACE-490693D63374"
 		}
 	]
 }

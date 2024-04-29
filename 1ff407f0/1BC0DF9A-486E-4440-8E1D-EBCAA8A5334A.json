@@ -4,6 +4,12 @@
 	"versionEndExcluding": "0.146",
 	"created": "2023-12-29T03:11:43.027",
 	"lastModified": "2023-12-29T03:11:43.027",
-	"cpeLastModified": "2023-12-29T03:11:43.027",
-	"status": "Active"
+	"cpeLastModified": "2024-04-29T11:53:11.183",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:uyumsoft:lioxerp:.146:*:*:*:*:*:*:*",
+			"cpeNameId": "237F9ECF-9A42-487F-B927-EE63FD8407C5"
+		}
+	]
 }

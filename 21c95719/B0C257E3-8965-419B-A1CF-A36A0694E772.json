@@ -5,9 +5,13 @@
 	"versionEndExcluding": "20.0.0-3445",
 	"created": "2022-01-27T15:15:25.573",
 	"lastModified": "2022-01-27T15:15:25.573",
-	"cpeLastModified": "2024-01-30T13:37:00.757",
+	"cpeLastModified": "2024-04-29T11:41:21.990",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:trendmicro:deep_security_agent:20.0:-:*:*:long_term_support:*:*:*",
+			"cpeNameId": "26235F12-0DBB-4CF0-80BA-373BD5DF96AB"
+		},
 		{
 			"cpeName": "cpe:2.3:a:trendmicro:deep_security_agent:20.0:update1337:*:*:long_term_support:*:*:*",
 			"cpeNameId": "9BC494AA-76B4-4990-AAB8-9E1798E1B793"
@@ -85,6 +89,10 @@
 			"cpeNameId": "0859083E-E115-4B95-9BF8-CEA5404BAFA0"
 		},
 		{
+			"cpeName": "cpe:2.3:a:trendmicro:deep_security_agent:20.0:update2395:*:*:long_term_support:*:*:*",
+			"cpeNameId": "E0633F35-BEDE-4D7B-B9E6-871302398D53"
+		},
+		{
 			"cpeName": "cpe:2.3:a:trendmicro:deep_security_agent:20.0:update2419:*:*:long_term_support:*:*:*",
 			"cpeNameId": "173A2740-2297-42C9-AAF1-6D100609C0F1"
 		},
@@ -153,6 +161,10 @@
 			"cpeNameId": "2461E6A4-2012-42D0-BA5A-1AC6CA47263F"
 		},
 		{
+			"cpeName": "cpe:2.3:a:trendmicro:deep_security_agent:20.0:update5761:*:*:long_term_support:*:*:*",
+			"cpeNameId": "F3B2D1BF-A687-45D7-9354-69F3822D9505"
+		},
+		{
 			"cpeName": "cpe:2.3:a:trendmicro:deep_security_agent:20.0:update5810:*:*:long_term_support:*:*:*",
 			"cpeNameId": "E01561A7-8C59-4E4D-9D62-88DA0E77339E"
 		},
@@ -171,6 +183,10 @@
 		{
 			"cpeName": "cpe:2.3:a:trendmicro:deep_security_agent:20.0:update6860:*:*:long_term_support:*:*:*",
 			"cpeNameId": "CF2FF7AF-C9A9-4003-B248-7D3E0A44446D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:trendmicro:deep_security_agent:20.0:update690:*:*:long_term_support:*:*:*",
+			"cpeNameId": "E1486FCF-2C4E-4C77-B35F-2C9C9CBFBFBF"
 		},
 		{
 			"cpeName": "cpe:2.3:a:trendmicro:deep_security_agent:20.0:update7119:*:*:long_term_support:*:*:*",
@@ -199,6 +215,10 @@
 		{
 			"cpeName": "cpe:2.3:a:trendmicro:deep_security_agent:20.0:update8268:*:*:long_term_support:*:*:*",
 			"cpeNameId": "346912F6-77D2-47A0-8868-E9F53A6598AD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:trendmicro:deep_security_agent:20.0:update8438:*:*:long_term_support:*:*:*",
+			"cpeNameId": "FFCB8AA9-D7D4-4E92-BDBD-D13CBD0CF53D"
 		},
 		{
 			"cpeName": "cpe:2.3:a:trendmicro:deep_security_agent:20.0:update877:*:*:long_term_support:*:*:*",
