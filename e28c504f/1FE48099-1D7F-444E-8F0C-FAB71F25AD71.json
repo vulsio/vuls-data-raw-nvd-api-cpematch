@@ -4,7 +4,7 @@
 	"versionEndExcluding": "23.2.4",
 	"created": "2024-01-24T19:29:07.433",
 	"lastModified": "2024-02-03T01:39:22.613",
-	"cpeLastModified": "2024-01-24T19:29:07.433",
+	"cpeLastModified": "2024-04-29T17:09:16.733",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:a:x.org:xwayland:23.2.2:*:*:*:*:*:*:*",
 			"cpeNameId": "6F35318F-48A3-45B0-B70A-F953B7B0A0E8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:x.org:xwayland:23.2.3:*:*:*:*:*:*:*",
+			"cpeNameId": "C9CB4094-47C5-4BF1-9078-82148B9D9CA3"
 		}
 	]
 }

@@ -4,7 +4,7 @@
 	"versionEndExcluding": "18.8.0",
 	"created": "2022-11-21T17:06:06.083",
 	"lastModified": "2022-11-21T17:06:06.083",
-	"cpeLastModified": "2024-01-19T14:42:16.223",
+	"cpeLastModified": "2024-04-29T16:48:57.427",
 	"status": "Active",
 	"matches": [
 		{
@@ -72,12 +72,28 @@
 			"cpeNameId": "E6D96CD1-2EEA-4E45-8F13-6E6BD913A495"
 		},
 		{
+			"cpeName": "cpe:2.3:a:proofpoint:enterprise_protection:8.18.6:-:*:*:*:*:*:*",
+			"cpeNameId": "C71BA0AD-E519-476A-8450-47C721C8AA06"
+		},
+		{
+			"cpeName": "cpe:2.3:a:proofpoint:enterprise_protection:8.18.6:patch4795:*:*:*:*:*:*",
+			"cpeNameId": "5B6B791F-3590-4A95-B056-8AA2B300416D"
+		},
+		{
 			"cpeName": "cpe:2.3:a:proofpoint:enterprise_protection:8.19.0:*:*:*:*:*:*:*",
 			"cpeNameId": "94B8D831-9729-45E1-AED5-6E17294D0ECB"
 		},
 		{
 			"cpeName": "cpe:2.3:a:proofpoint:enterprise_protection:8.20.0:*:*:*:*:*:*:*",
 			"cpeNameId": "790B65DB-8781-4E3E-946E-3F59D0E0AAFD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:proofpoint:enterprise_protection:8.20.0:-:*:*:*:*:*:*",
+			"cpeNameId": "95FB6985-2A0F-4F31-BF40-1387A46B77D2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:proofpoint:enterprise_protection:8.20.0:patch4796:*:*:*:*:*:*",
+			"cpeNameId": "615B922C-35E2-4D50-AC03-8C27CA9BC877"
 		},
 		{
 			"cpeName": "cpe:2.3:a:proofpoint:enterprise_protection:8.20.2:*:*:*:*:*:*:*",

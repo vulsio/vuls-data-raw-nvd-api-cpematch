@@ -4,7 +4,7 @@
 	"versionStartIncluding": "1.13.0",
 	"created": "2023-12-06T14:59:01.133",
 	"lastModified": "2023-12-06T14:59:01.133",
-	"cpeLastModified": "2023-12-06T14:59:01.133",
+	"cpeLastModified": "2024-04-29T17:09:16.733",
 	"status": "Active",
 	"matches": [
 		{
@@ -354,6 +354,10 @@
 		{
 			"cpeName": "cpe:2.3:a:x.org:x_server:21.1.9:*:*:*:*:*:*:*",
 			"cpeNameId": "9C4316D4-3C1E-48E2-AB17-2CCF8BE30BD8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:x.org:x_server:21.1.10:*:*:*:*:*:*:*",
+			"cpeNameId": "32545396-FCB8-4D00-8A72-E3ECC824D288"
 		}
 	]
 }

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "08259C57-C6F9-4D09-AB32-FFF838CFD126",
 	"versionEndIncluding": "2.10.29",
 	"created": "2024-02-07T19:32:15.610",
-	"lastModified": "2024-02-07T19:32:15.610",
-	"cpeLastModified": "2024-02-07T19:32:15.610",
+	"lastModified": "2024-04-29T17:39:49.187",
+	"cpeLastModified": "2024-04-29T17:39:49.187",
 	"status": "Active",
 	"matches": [
 		{
@@ -474,6 +474,10 @@
 		{
 			"cpeName": "cpe:2.3:a:themeisle:orbit_fox:2.10.28:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "9584B012-AA49-4CB3-BB57-5C4832C6365E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeisle:orbit_fox:2.10.29:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4C04D503-F97B-460C-BCD7-23824BFF1F9E"
 		}
 	]
 }

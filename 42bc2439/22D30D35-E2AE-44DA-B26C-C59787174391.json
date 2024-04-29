@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:wildbit-soft:wildbit_viewer:6.6:*:*:*:*:*:*:*",
 	"matchCriteriaId": "22D30D35-E2AE-44DA-B26C-C59787174391",
 	"created": "2021-11-12T22:14:22.140",
-	"lastModified": "2021-11-12T22:14:22.140",
-	"cpeLastModified": "2021-11-13T03:55:32.597",
-	"status": "Active"
+	"lastModified": "2024-04-29T17:09:16.733",
+	"cpeLastModified": "2024-04-29T17:09:16.733",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wildbit-soft:wildbit_viewer:6.6:*:*:*:*:*:*:*",
+			"cpeNameId": "30A1E3CA-09DD-4BE7-8E00-ECFA1EB77A58"
+		}
+	]
 }

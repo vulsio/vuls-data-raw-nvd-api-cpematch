@@ -3,8 +3,8 @@
 	"matchCriteriaId": "841354CA-9629-4EB7-946B-7A32F135336B",
 	"versionEndIncluding": "4.6.2",
 	"created": "2024-02-08T20:03:56.653",
-	"lastModified": "2024-02-08T20:03:56.653",
-	"cpeLastModified": "2024-02-08T20:03:56.653",
+	"lastModified": "2024-04-29T12:55:09.697",
+	"cpeLastModified": "2024-04-29T12:55:09.697",
 	"status": "Active",
 	"matches": [
 		{
@@ -214,6 +214,10 @@
 		{
 			"cpeName": "cpe:2.3:a:xunruicms:xunruicms:4.6.1:*:*:*:*:*:*:*",
 			"cpeNameId": "EE7C9336-F09D-4C30-972C-DCADA579638D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:xunruicms:xunruicms:4.6.2:*:*:*:*:*:*:*",
+			"cpeNameId": "9407D82B-50CD-41FB-96F0-AF6F16A91DEB"
 		}
 	]
 }
