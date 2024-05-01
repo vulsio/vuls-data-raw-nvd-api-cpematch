@@ -4,7 +4,7 @@
 	"versionEndExcluding": "3.6.0",
 	"created": "2023-12-12T13:43:31.237",
 	"lastModified": "2023-12-12T13:43:31.237",
-	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-05-01T11:59:50.500",
 	"status": "Active",
 	"matches": [
 		{
@@ -1094,6 +1094,18 @@
 		{
 			"cpeName": "cpe:2.3:a:quarkus:quarkus:3.2.9:-:*:*:*:*:*:*",
 			"cpeNameId": "7874BAA4-4B9C-44C8-8DA9-88EB0DB7C47C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:quarkus:quarkus:3.2.10:*:*:*:*:*:*:*",
+			"cpeNameId": "66A2EA7E-936C-4B12-9B27-8702085CF9F2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:quarkus:quarkus:3.2.11:*:*:*:*:*:*:*",
+			"cpeNameId": "26771FE9-739A-475F-A9E6-B789B4CEB10B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:quarkus:quarkus:3.2.12:*:*:*:*:*:*:*",
+			"cpeNameId": "49CF481A-5ECF-4FE0-AF26-A683A7A98732"
 		},
 		{
 			"cpeName": "cpe:2.3:a:quarkus:quarkus:3.3.0:-:*:*:*:*:*:*",
