@@ -3,8 +3,8 @@
 	"matchCriteriaId": "0E883CFA-BABF-43AF-9E8E-216396CAC69F",
 	"versionEndExcluding": "9.4.46",
 	"created": "2022-07-12T18:35:03.190",
-	"lastModified": "2022-07-12T18:35:03.190",
-	"cpeLastModified": "2021-08-18T14:26:06.487",
+	"lastModified": "2024-05-01T12:35:12.727",
+	"cpeLastModified": "2024-05-01T12:35:12.727",
 	"status": "Active",
 	"matches": [
 		{
@@ -2282,6 +2282,14 @@
 		{
 			"cpeName": "cpe:2.3:a:eclipse:jetty:9.4.43:20210629:*:*:*:*:*:*",
 			"cpeNameId": "D5DF92CA-5DE3-456B-8735-2A10E565D7AA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eclipse:jetty:9.4.44:20210927:*:*:*:*:*:*",
+			"cpeNameId": "F52204FB-C6FC-4E58-A41B-157966654820"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eclipse:jetty:9.4.45:20220203:*:*:*:*:*:*",
+			"cpeNameId": "D59AF870-4D4E-4386-8CCA-F780C36298E7"
 		}
 	]
 }

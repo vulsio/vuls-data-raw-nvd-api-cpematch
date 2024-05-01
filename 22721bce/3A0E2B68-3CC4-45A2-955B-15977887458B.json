@@ -5,7 +5,7 @@
 	"versionEndExcluding": "9.4.52",
 	"created": "2023-09-20T13:36:57.297",
 	"lastModified": "2023-09-21T10:58:30.680",
-	"cpeLastModified": "2023-09-20T13:36:57.297",
+	"cpeLastModified": "2024-05-01T12:35:12.727",
 	"status": "Active",
 	"matches": [
 		{
@@ -109,12 +109,48 @@
 			"cpeNameId": "D5DF92CA-5DE3-456B-8735-2A10E565D7AA"
 		},
 		{
+			"cpeName": "cpe:2.3:a:eclipse:jetty:9.4.44:20210927:*:*:*:*:*:*",
+			"cpeNameId": "F52204FB-C6FC-4E58-A41B-157966654820"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eclipse:jetty:9.4.45:20220203:*:*:*:*:*:*",
+			"cpeNameId": "D59AF870-4D4E-4386-8CCA-F780C36298E7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eclipse:jetty:9.4.46:20220331:*:*:*:*:*:*",
+			"cpeNameId": "021256F3-C521-4D55-9A52-A824857C400B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eclipse:jetty:9.4.47:20220610:*:*:*:*:*:*",
+			"cpeNameId": "8F81B78B-B329-4316-A162-1243B6EE87CB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eclipse:jetty:9.4.48:20220622:*:*:*:*:*:*",
+			"cpeNameId": "A934B9BA-CE81-4CA5-BD47-7FDBCAC63475"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eclipse:jetty:9.4.49:20220914:*:*:*:*:*:*",
+			"cpeNameId": "35F6C4D2-8EB9-406C-9047-BA4D478277B2"
+		},
+		{
 			"cpeName": "cpe:2.3:a:eclipse:jetty:9.4.50:*:*:*:*:*:*:*",
 			"cpeNameId": "40F95A75-F931-4847-8075-F5BD7F42BA55"
 		},
 		{
+			"cpeName": "cpe:2.3:a:eclipse:jetty:9.4.50:20221107:*:*:*:*:*:*",
+			"cpeNameId": "2371153D-4B98-4F41-8FFF-62793B14A228"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eclipse:jetty:9.4.50:20221201:*:*:*:*:*:*",
+			"cpeNameId": "9AD2B900-3F22-4F27-83F9-A91E16CB598C"
+		},
+		{
 			"cpeName": "cpe:2.3:a:eclipse:jetty:9.4.51:*:*:*:*:*:*:*",
 			"cpeNameId": "D01A8E5D-17A7-4942-A439-DDBD0ACA732D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eclipse:jetty:9.4.51:20230217:*:*:*:*:*:*",
+			"cpeNameId": "7D7CADF8-4E7A-4065-9906-024C5E6C4727"
 		}
 	]
 }
