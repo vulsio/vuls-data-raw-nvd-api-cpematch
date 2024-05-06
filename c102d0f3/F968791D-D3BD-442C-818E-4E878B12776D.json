@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:dlink:dns-343:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "F968791D-D3BD-442C-818E-4E878B12776D",
 	"created": "2024-04-12T18:21:12.010",
-	"lastModified": "2024-04-12T18:21:12.010",
-	"cpeLastModified": "2024-04-12T18:21:12.010",
-	"status": "Active"
+	"lastModified": "2024-05-06T13:53:29.797",
+	"cpeLastModified": "2024-05-06T13:53:29.797",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:dlink:dns-343:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7D624B9F-2762-45CA-9B14-7D829A5445AD"
+		}
+	]
 }
