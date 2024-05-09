@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:gpac:gpac:2.3.0:dev:*:*:*:*:*:*",
 	"matchCriteriaId": "92DC0391-41BE-4FD8-BA6A-C90EE8659840",
 	"created": "2024-01-11T17:35:25.713",
-	"lastModified": "2024-01-11T17:35:25.713",
-	"cpeLastModified": "2024-01-11T17:35:25.713",
-	"status": "Active"
+	"lastModified": "2024-05-09T13:44:04.490",
+	"cpeLastModified": "2024-05-09T13:44:04.490",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:gpac:gpac:2.3.0:dev:*:*:*:*:*:*",
+			"cpeNameId": "725D50E0-C062-4974-A62C-4C30FB1ED891"
+		}
+	]
 }

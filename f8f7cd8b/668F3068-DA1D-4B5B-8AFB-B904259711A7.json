@@ -4,7 +4,7 @@
 	"versionEndIncluding": "2.0",
 	"created": "2022-03-25T23:33:42.643",
 	"lastModified": "2022-03-25T23:33:42.643",
-	"cpeLastModified": "2022-03-28T17:10:34.667",
+	"cpeLastModified": "2024-05-09T13:44:04.490",
 	"status": "Active",
 	"matches": [
 		{
@@ -66,6 +66,10 @@
 		{
 			"cpeName": "cpe:2.3:a:gpac:gpac:1.1.0:dev:*:*:*:*:*:*",
 			"cpeNameId": "66C86A11-A8BE-4898-979B-7C7BB4243795"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1663-g881c6a94a-master:*:*:*:*:*:*:*",
+			"cpeNameId": "AA04EAC3-12A9-42EF-B88E-4AD584BAFDA0"
 		},
 		{
 			"cpeName": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1727-g8be34973d-master:*:*:*:*:*:*:*",

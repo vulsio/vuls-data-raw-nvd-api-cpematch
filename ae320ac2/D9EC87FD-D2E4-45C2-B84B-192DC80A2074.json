@@ -4,7 +4,7 @@
 	"versionEndExcluding": "6.1.0.1",
 	"created": "2022-05-02T19:45:00.593",
 	"lastModified": "2022-05-02T19:45:00.593",
-	"cpeLastModified": "2022-05-04T18:39:10.937",
+	"cpeLastModified": "2024-05-09T16:02:04.563",
 	"status": "Active",
 	"matches": [
 		{
@@ -206,6 +206,10 @@
 		{
 			"cpeName": "cpe:2.3:a:open-emr:openemr:6.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "243A3F83-2B84-457B-96DB-5664730913E5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-emr:openemr:6.0.0:-:*:*:*:*:*:*",
+			"cpeNameId": "2D73BA09-9CF8-4110-8642-1B65A786BACD"
 		},
 		{
 			"cpeName": "cpe:2.3:a:open-emr:openemr:6.0.0:patch_1:*:*:*:*:*:*",

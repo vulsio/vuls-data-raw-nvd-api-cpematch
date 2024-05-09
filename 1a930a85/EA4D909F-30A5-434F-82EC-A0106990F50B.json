@@ -4,7 +4,7 @@
 	"versionEndIncluding": "2.4.12.0",
 	"created": "2023-07-07T18:52:59.900",
 	"lastModified": "2023-10-27T16:36:09.373",
-	"cpeLastModified": "2023-10-27T16:36:09.373",
+	"cpeLastModified": "2024-05-09T16:00:56.503",
 	"status": "Active",
 	"matches": [
 		{
@@ -1314,6 +1314,10 @@
 		{
 			"cpeName": "cpe:2.3:a:openimageio:openimageio:2.4.10.0:*:*:*:*:*:*:*",
 			"cpeNameId": "AC8E37FA-2525-4515-BBC8-7155418460E8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openimageio:openimageio:2.4.11:*:*:*:*:*:*:*",
+			"cpeNameId": "EF621706-C3EE-4736-A1F5-4D4B64C471FA"
 		},
 		{
 			"cpeName": "cpe:2.3:a:openimageio:openimageio:2.4.11.0:*:*:*:*:*:*:*",

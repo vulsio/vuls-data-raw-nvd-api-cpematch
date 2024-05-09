@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2022-04-12",
 	"created": "2022-05-13T18:24:23.613",
 	"lastModified": "2022-05-13T18:24:23.613",
-	"cpeLastModified": "2024-01-19T14:42:16.223",
+	"cpeLastModified": "2024-05-09T13:44:04.490",
 	"status": "Active",
 	"matches": [
 		{
@@ -68,6 +68,10 @@
 			"cpeNameId": "66C86A11-A8BE-4898-979B-7C7BB4243795"
 		},
 		{
+			"cpeName": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1663-g881c6a94a-master:*:*:*:*:*:*:*",
+			"cpeNameId": "AA04EAC3-12A9-42EF-B88E-4AD584BAFDA0"
+		},
+		{
 			"cpeName": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1727-g8be34973d-master:*:*:*:*:*:*:*",
 			"cpeNameId": "15DADF4F-6D67-4EC3-A0B1-9E0AF36AF475"
 		},
@@ -108,6 +112,14 @@
 			"cpeNameId": "19CF517D-6539-4AFE-95B4-F7DCAB9D6245"
 		},
 		{
+			"cpeName": "cpe:2.3:a:gpac:gpac:2.1-dev-rev505-gb9577e6ad-master:*:*:*:*:*:*:*",
+			"cpeNameId": "2CA9AB9E-43B3-4033-AB04-977AE4485C64"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gpac:gpac:2.1-dev-rev574-g9d5bb184b:*:*:*:*:*:*:*",
+			"cpeNameId": "276B3A0D-A7F4-4A39-BA2E-E464B70AD6D7"
+		},
+		{
 			"cpeName": "cpe:2.3:a:gpac:gpac:2.1-dev-rev593-g007bf61a0:*:*:*:*:*:*:*",
 			"cpeNameId": "9EEBD9C5-8BA2-4F05-92AA-F55D2352827F"
 		},
@@ -128,8 +140,20 @@
 			"cpeNameId": "957D0BCC-B030-4C1E-A84C-9ACEA8505B93"
 		},
 		{
+			"cpeName": "cpe:2.3:a:gpac:gpac:2.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5334E386-E3AF-41C0-9DD0-A24D3F6AEE3D"
+		},
+		{
 			"cpeName": "cpe:2.3:a:gpac:gpac:2.2.1:*:*:*:*:*:*:*",
 			"cpeNameId": "BF7EC6CE-95BA-4409-955A-B86AAAC11B0F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gpac:gpac:2.3:2.3-dev-rev449-g5948e4f70-master:*:*:*:*:*:*",
+			"cpeNameId": "8E00F15C-982C-4E90-8ABD-9CB5E1EB068D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gpac:gpac:2.3:dev:*:*:*:*:*:*",
+			"cpeNameId": "186718DD-E5D3-405A-8367-AD05B6636793"
 		},
 		{
 			"cpeName": "cpe:2.3:a:gpac:gpac:2.3-dev-rev1-g4669ba229-master:*:*:*:*:*:*:*",
@@ -144,6 +168,10 @@
 			"cpeNameId": "A3CB75D4-06C1-460C-BBEC-772BFC76D234"
 		},
 		{
+			"cpeName": "cpe:2.3:a:gpac:gpac:2.3-dev-rev381-g817a848f6-master:*:*:*:*:*:*:*",
+			"cpeNameId": "F0F646D2-8F72-4EA0-8072-517315395A85"
+		},
+		{
 			"cpeName": "cpe:2.3:a:gpac:gpac:2.3-dev-rev566-g50c2ab06f-master:*:*:*:*:*:*:*",
 			"cpeNameId": "3EE0837E-AEA5-455F-86CE-DCA60CFD5166"
 		},
@@ -156,12 +184,24 @@
 			"cpeNameId": "81E80800-4A7B-4E40-B886-D526AB6DAD91"
 		},
 		{
+			"cpeName": "cpe:2.3:a:gpac:gpac:2.3-dev-rev605-gfc9e29089-master:*:*:*:*:*:*:*",
+			"cpeNameId": "679A4628-4967-4176-AE1F-AFF6DB6514A6"
+		},
+		{
 			"cpeName": "cpe:2.3:a:gpac:gpac:2.3-dev-rev617-g671976fcc-master:*:*:*:*:*:*:*",
 			"cpeNameId": "CF150DC1-72D5-4454-A8B4-507F1706933A"
 		},
 		{
 			"cpeName": "cpe:2.3:a:gpac:gpac:2.3-dev-rev636-gfbd7e13aa-master:*:*:*:*:*:*:*",
 			"cpeNameId": "8DFB0A4A-B4B5-4E66-9CF3-94217EE306E4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gpac:gpac:2.3.0:-:*:*:*:*:*:*",
+			"cpeNameId": "AC921A4E-CB5C-420C-A437-CC8659CC079F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gpac:gpac:2.3.0:dev:*:*:*:*:*:*",
+			"cpeNameId": "725D50E0-C062-4974-A62C-4C30FB1ED891"
 		},
 		{
 			"cpeName": "cpe:2.3:a:gpac:gpac:2.3.0-dev:*:*:*:*:*:*:*",

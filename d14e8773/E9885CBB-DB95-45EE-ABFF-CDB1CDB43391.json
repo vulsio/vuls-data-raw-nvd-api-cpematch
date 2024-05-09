@@ -3,8 +3,8 @@
 	"matchCriteriaId": "E9885CBB-DB95-45EE-ABFF-CDB1CDB43391",
 	"versionEndIncluding": "1.43",
 	"created": "2024-01-22T14:36:29.040",
-	"lastModified": "2024-01-22T14:36:29.040",
-	"cpeLastModified": "2024-01-22T14:36:29.040",
+	"lastModified": "2024-05-09T14:40:25.570",
+	"cpeLastModified": "2024-05-09T14:40:25.570",
 	"status": "Active",
 	"matches": [
 		{
@@ -438,6 +438,10 @@
 		{
 			"cpeName": "cpe:2.3:a:kodcloud:kodbox:1.42.02:*:*:*:*:*:*:*",
 			"cpeNameId": "DFC281A6-FB3A-4C21-A133-5556CE6CE52C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:kodcloud:kodbox:1.43:*:*:*:*:*:*:*",
+			"cpeNameId": "00467EB7-5093-4202-88DB-1999429C5975"
 		}
 	]
 }

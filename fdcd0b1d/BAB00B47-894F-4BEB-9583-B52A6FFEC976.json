@@ -2,7 +2,17 @@
 	"criteria": "cpe:2.3:a:layslider:layslider:*:*:*:*:*:wordpress:*:*",
 	"matchCriteriaId": "BAB00B47-894F-4BEB-9583-B52A6FFEC976",
 	"created": "2022-04-30T03:55:14.323",
-	"lastModified": "2022-04-30T03:55:14.323",
-	"cpeLastModified": "2022-05-03T17:08:07.223",
-	"status": "Active"
+	"lastModified": "2024-05-09T15:01:20.007",
+	"cpeLastModified": "2024-05-09T15:01:20.007",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:layslider:layslider:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E83FA15E-1C8B-46A0-8782-23DB4BA610CE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:layslider:layslider:7.1.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7BD7724C-A4F4-4415-AF79-34354796ED39"
+		}
+	]
 }
