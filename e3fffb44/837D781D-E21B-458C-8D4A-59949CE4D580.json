@@ -1,17 +1,13 @@
 {
 	"criteria": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:*:*:*:*:*:*:*:*",
-	"matchCriteriaId": "222F0382-0C41-4AF1-83E6-217CFDC6B148",
-	"versionStartIncluding": "10.0",
+	"matchCriteriaId": "837D781D-E21B-458C-8D4A-59949CE4D580",
+	"versionStartIncluding": "10.0.0.4442",
 	"versionEndExcluding": "10.0.1.4854",
-	"created": "2021-07-03T01:23:20.887",
-	"lastModified": "2024-05-09T18:37:53.550",
-	"cpeLastModified": "2024-05-09T18:37:53.550",
+	"created": "2024-05-09T18:37:54.573",
+	"lastModified": "2024-05-09T18:37:54.573",
+	"cpeLastModified": "2024-05-09T18:37:54.573",
 	"status": "Active",
 	"matches": [
-		{
-			"cpeName": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:10.0:*:*:*:*:*:*:*",
-			"cpeNameId": "9310EBFD-A314-4F2A-A527-7488C6C88A36"
-		},
 		{
 			"cpeName": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:10.0.0.4442:*:*:*:*:*:*:*",
 			"cpeNameId": "BC562B4A-F6E1-4FE4-B014-F3AF5248EA32"
