@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:intel:nuc_8_compute_element_cm8v5cb:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "C66CDF2D-D808-4FEF-B8D0-DD1117B395A3",
 	"created": "2024-01-29T19:25:57.700",
-	"lastModified": "2024-01-29T19:25:57.700",
-	"cpeLastModified": "2024-01-29T19:25:57.700",
-	"status": "Active"
+	"lastModified": "2024-05-13T18:14:18.700",
+	"cpeLastModified": "2024-05-13T18:14:18.700",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:intel:nuc_8_compute_element_cm8v5cb:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7271458D-7A5C-4BFE-BB6B-6349905A8F77"
+		}
+	]
 }

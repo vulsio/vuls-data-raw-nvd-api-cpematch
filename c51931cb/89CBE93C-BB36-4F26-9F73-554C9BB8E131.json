@@ -3,7 +3,7 @@
 	"matchCriteriaId": "89CBE93C-BB36-4F26-9F73-554C9BB8E131",
 	"created": "2022-06-24T13:53:07.433",
 	"lastModified": "2024-01-03T13:45:25.483",
-	"cpeLastModified": "2024-03-28T17:19:15.800",
+	"cpeLastModified": "2024-05-13T18:14:18.700",
 	"status": "Active",
 	"matches": [
 		{
@@ -12943,6 +12943,14 @@
 			"cpeNameId": "D5B85BB3-8CBA-4654-BD26-A0CE0F3FB985"
 		},
 		{
+			"cpeName": "cpe:2.3:h:intel:nuc_8_compute_element_cm8v5cb:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7271458D-7A5C-4BFE-BB6B-6349905A8F77"
+		},
+		{
+			"cpeName": "cpe:2.3:h:intel:nuc_8_compute_element_cm8v7cb:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DEF1126E-F134-4487-86D9-4A93316F1341"
+		},
+		{
 			"cpeName": "cpe:2.3:h:intel:nuc_8_enthusiast\\,_a_mini_pc_with_windows_10_nuc8i7hvkva:-:*:*:*:*:*:*:*",
 			"cpeNameId": "C43D016A-CB82-4DFB-AF8C-7DC83A311CCD"
 		},
@@ -12957,6 +12965,10 @@
 		{
 			"cpeName": "cpe:2.3:h:intel:nuc_8_enthusiast_nuc8i7bekqa:-:*:*:*:*:*:*:*",
 			"cpeNameId": "5E28A4B1-AD13-4748-A855-ADF40E03AE7E"
+		},
+		{
+			"cpeName": "cpe:2.3:h:intel:nuc_8_enthusiast_nuc8i7hnkqc:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7EACD0ED-E61F-44E3-B3AE-9781BAD3220B"
 		},
 		{
 			"cpeName": "cpe:2.3:h:intel:nuc_8_enthusiast_nuc8i7hvkva:-:*:*:*:*:*:*:*",
@@ -13077,6 +13089,10 @@
 		{
 			"cpeName": "cpe:2.3:h:intel:nuc_9_pro_compute_element_nuc9vxqnx:-:*:*:*:*:*:*:*",
 			"cpeNameId": "308F0074-A674-48A7-B00D-AE80B9FE5650"
+		},
+		{
+			"cpeName": "cpe:2.3:h:intel:nuc_9_pro_kit_nuc9v7qnb:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EB8D7886-3070-4191-927A-F2B0D6391F37"
 		},
 		{
 			"cpeName": "cpe:2.3:h:intel:nuc_9_pro_kit_nuc9v7qnx:-:*:*:*:*:*:*:*",
@@ -13613,6 +13629,10 @@
 		{
 			"cpeName": "cpe:2.3:h:intel:nuc_kit_nuc7cjyhn:-:*:*:*:*:*:*:*",
 			"cpeNameId": "4AC95E50-AE9B-41F7-BFDE-64ED83A049AE"
+		},
+		{
+			"cpeName": "cpe:2.3:h:intel:nuc_kit_nuc7cjysal:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B6B60A01-A518-46C2-8B99-14FCA214E4C7"
 		},
 		{
 			"cpeName": "cpe:2.3:h:intel:nuc_kit_nuc7i3bnb:-:*:*:*:*:*:*:*",
