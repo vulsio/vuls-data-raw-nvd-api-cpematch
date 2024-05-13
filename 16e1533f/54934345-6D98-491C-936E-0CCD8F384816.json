@@ -6,27 +6,5 @@
 	"created": "2022-03-24T13:07:51.267",
 	"lastModified": "2024-05-10T02:00:26.350",
 	"cpeLastModified": "2024-05-09T18:37:53.550",
-	"status": "Inactive",
-	"matches": [
-		{
-			"cpeName": "cpe:2.3:a:veeam:backup_\\&_replication:10.0.0.4442:*:*:*:*:*:*:*",
-			"cpeNameId": "134E98E0-B5B4-4766-AC00-45CB6F2A5C3C"
-		},
-		{
-			"cpeName": "cpe:2.3:a:veeam:backup_\\&_replication:10.0.0.4461:-:*:*:*:*:*:*",
-			"cpeNameId": "BD0B8DA7-4980-4E5F-9934-A40A9FCAC017"
-		},
-		{
-			"cpeName": "cpe:2.3:a:veeam:backup_\\&_replication:10.0.0.4461:p1:*:*:*:*:*:*",
-			"cpeNameId": "0C4C74EA-35BE-447E-9990-9E6CAE87C44E"
-		},
-		{
-			"cpeName": "cpe:2.3:a:veeam:backup_\\&_replication:10.0.0.4461:p2:*:*:*:*:*:*",
-			"cpeNameId": "F72A1FDB-4038-4372-A7B7-18527D9994B3"
-		},
-		{
-			"cpeName": "cpe:2.3:a:veeam:backup_\\&_replication:10.0.1.4848:*:*:*:*:*:*:*",
-			"cpeNameId": "FE4FFCB9-6E21-45C6-8D8E-2B9A27D2747D"
-		}
-	]
+	"status": "Inactive"
 }
