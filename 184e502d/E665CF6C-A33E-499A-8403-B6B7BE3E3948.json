@@ -4,7 +4,7 @@
 	"versionEndExcluding": "9.15.1.21",
 	"created": "2022-05-12T13:25:24.373",
 	"lastModified": "2023-08-16T16:17:07.960",
-	"cpeLastModified": "2023-09-16T02:38:46.660",
+	"cpeLastModified": "2024-05-13T18:17:51.293",
 	"status": "Active",
 	"matches": [
 		{
@@ -3378,6 +3378,14 @@
 		{
 			"cpeName": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.12.4.58:*:*:*:*:*:*:*",
 			"cpeNameId": "58EB32FB-0DB8-4725-AB42-309CA19A6C37"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.12.4.62:*:*:*:*:*:*:*",
+			"cpeNameId": "2B3C4D34-5A87-459C-920D-CC0365944AB8"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.12.4.65:*:*:*:*:*:*:*",
+			"cpeNameId": "3294CCB8-EEB7-4CCF-8479-01D0390E1F02"
 		},
 		{
 			"cpeName": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.13:*:*:*:*:*:*:*",
