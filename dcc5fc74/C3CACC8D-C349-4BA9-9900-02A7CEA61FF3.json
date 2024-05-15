@@ -1,0 +1,24 @@
+{
+	"criteria": "cpe:2.3:a:fortinet:fortiadc:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C3CACC8D-C349-4BA9-9900-02A7CEA61FF3",
+	"versionStartIncluding": "7.1.0",
+	"versionEndIncluding": "7.1.4",
+	"created": "2024-05-15T15:37:35.260",
+	"lastModified": "2024-05-15T15:37:35.260",
+	"cpeLastModified": "2024-05-15T15:37:35.260",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiadc:7.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "39D3EE8C-36E5-4E69-9101-1D618C3D4C52"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiadc:7.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "18F789E6-65BA-40C3-8258-065D83A4DB90"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiadc:7.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "BF61D709-065A-461F-B5DA-7F102D62389F"
+		}
+	]
+}

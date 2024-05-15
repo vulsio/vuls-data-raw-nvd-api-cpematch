@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:intel:nuc_8_home_nuc8i5behfa_firmware:becfl357.0095:*:*:*:*:*:*:*",
 	"matchCriteriaId": "334A6D25-8C5B-46DF-A646-927EFDA42E96",
 	"created": "2024-01-29T19:40:52.690",
-	"lastModified": "2024-01-29T19:40:52.690",
-	"cpeLastModified": "2024-01-29T19:40:52.690",
-	"status": "Active"
+	"lastModified": "2024-05-15T12:48:12.840",
+	"cpeLastModified": "2024-05-15T12:48:12.840",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:nuc_8_home_nuc8i5behfa_firmware:becfl357.0095:*:*:*:*:*:*:*",
+			"cpeNameId": "D02BF6DB-6A92-4618-AB68-A5D40C880230"
+		}
+	]
 }

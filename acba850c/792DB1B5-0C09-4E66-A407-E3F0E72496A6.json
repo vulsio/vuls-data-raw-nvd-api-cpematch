@@ -5,7 +5,7 @@
 	"versionEndExcluding": "14.0",
 	"created": "2023-12-07T14:04:37.270",
 	"lastModified": "2023-12-20T22:34:39.627",
-	"cpeLastModified": "2023-12-07T14:04:37.270",
+	"cpeLastModified": "2024-05-15T13:37:49.530",
 	"status": "Active",
 	"matches": [
 		{
@@ -65,6 +65,10 @@
 			"cpeNameId": "991993CC-FF51-4C4E-948B-25C3121C0E00"
 		},
 		{
+			"cpeName": "cpe:2.3:o:samsung:android:11.0:smr-feb-2024-r1:*:*:*:*:*:*",
+			"cpeNameId": "B09723B4-A3AA-48CE-9900-6CC1D7AD5EE5"
+		},
+		{
 			"cpeName": "cpe:2.3:o:samsung:android:11.0:smr-jan-2021-r1:*:*:*:*:*:*",
 			"cpeNameId": "A28298D8-BFD0-47B5-9434-F9BFAC5347F6"
 		},
@@ -75,6 +79,10 @@
 		{
 			"cpeName": "cpe:2.3:o:samsung:android:11.0:smr-jan-2023-r1:*:*:*:*:*:*",
 			"cpeNameId": "DAFF6D9F-185F-4156-B258-FA66C3ACD4E2"
+		},
+		{
+			"cpeName": "cpe:2.3:o:samsung:android:11.0:smr-jan-2024-r1:*:*:*:*:*:*",
+			"cpeNameId": "BE81BA12-AE7F-4ECF-9CE9-63FDFE70B74C"
 		},
 		{
 			"cpeName": "cpe:2.3:o:samsung:android:11.0:smr-jul-2021-r1:*:*:*:*:*:*",
@@ -201,12 +209,20 @@
 			"cpeNameId": "87FCD6F7-C907-4F97-A27C-8F1F90F05F09"
 		},
 		{
+			"cpeName": "cpe:2.3:o:samsung:android:12.0:smr-feb-2024-r1:*:*:*:*:*:*",
+			"cpeNameId": "B5AAAA43-123A-434A-A428-C4FF85193E22"
+		},
+		{
 			"cpeName": "cpe:2.3:o:samsung:android:12.0:smr-jan-2022-r1:*:*:*:*:*:*",
 			"cpeNameId": "64723C01-7E4F-4884-B47E-47EAA1B4BFA3"
 		},
 		{
 			"cpeName": "cpe:2.3:o:samsung:android:12.0:smr-jan-2023-r1:*:*:*:*:*:*",
 			"cpeNameId": "465D97CE-16E4-4988-889D-0FAC2ECEF585"
+		},
+		{
+			"cpeName": "cpe:2.3:o:samsung:android:12.0:smr-jan-2024-r1:*:*:*:*:*:*",
+			"cpeNameId": "298C20AC-CEFF-4664-A372-33555D3B4203"
 		},
 		{
 			"cpeName": "cpe:2.3:o:samsung:android:12.0:smr-jul-2022-r1:*:*:*:*:*:*",
@@ -293,8 +309,16 @@
 			"cpeNameId": "3A92CC0A-A9CD-4F74-9EB4-255B50B6A4D3"
 		},
 		{
+			"cpeName": "cpe:2.3:o:samsung:android:13.0:smr-feb-2024-r1:*:*:*:*:*:*",
+			"cpeNameId": "55A02A3C-CCD6-4E7A-8646-A3D28171F976"
+		},
+		{
 			"cpeName": "cpe:2.3:o:samsung:android:13.0:smr-jan-2023-r1:*:*:*:*:*:*",
 			"cpeNameId": "7FB1DF3E-A206-488E-8242-788594D41E5B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:samsung:android:13.0:smr-jan-2024-r1:*:*:*:*:*:*",
+			"cpeNameId": "445552E2-0BA3-4CDC-A212-28012C6E57E4"
 		},
 		{
 			"cpeName": "cpe:2.3:o:samsung:android:13.0:smr-jul-2023-r1:*:*:*:*:*:*",

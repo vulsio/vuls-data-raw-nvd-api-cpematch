@@ -3,7 +3,7 @@
 	"matchCriteriaId": "03EF4360-8E24-4018-A0F2-9E39F7590670",
 	"created": "2022-05-23T16:45:56.380",
 	"lastModified": "2024-01-03T13:48:06.797",
-	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-05-15T12:00:53.030",
 	"status": "Active",
 	"matches": [
 		{
@@ -1909,6 +1909,10 @@
 		{
 			"cpeName": "cpe:2.3:h:amd:ryzen_5_5600:-:*:*:*:*:*:*:*",
 			"cpeNameId": "8FA140CB-5377-4A81-9890-F9C127C6A8FD"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:ryzen_5_56003xd:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7A57B074-63B5-4076-B1BB-F257838884BE"
 		},
 		{
 			"cpeName": "cpe:2.3:h:amd:ryzen_5_5600g:-:*:*:*:*:*:*:*",

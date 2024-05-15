@@ -4,12 +4,16 @@
 	"versionEndExcluding": "jyglkcpx.86a.0062",
 	"created": "2021-11-19T14:00:34.990",
 	"lastModified": "2021-11-19T14:00:34.990",
-	"cpeLastModified": "2021-11-19T16:39:48.013",
+	"cpeLastModified": "2024-05-15T12:48:12.840",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:o:intel:nuc_kit_nuc7pjyh_firmware:-:*:*:*:*:*:*:*",
 			"cpeNameId": "D7BB8FFE-C087-4C99-889E-9E4AE085D535"
+		},
+		{
+			"cpeName": "cpe:2.3:o:intel:nuc_kit_nuc7pjyh_firmware:jyglkcpx.0071:*:*:*:*:*:*:*",
+			"cpeNameId": "ABC79290-188F-40C9-83CA-931CFDEECB5C"
 		},
 		{
 			"cpeName": "cpe:2.3:o:intel:nuc_kit_nuc7pjyh_firmware:jyglkcpx.86a.0053:*:*:*:*:*:*:*",

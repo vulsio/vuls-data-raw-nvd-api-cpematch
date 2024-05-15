@@ -3,7 +3,7 @@
 	"matchCriteriaId": "89CBE93C-BB36-4F26-9F73-554C9BB8E131",
 	"created": "2022-06-24T13:53:07.433",
 	"lastModified": "2024-01-03T13:45:25.483",
-	"cpeLastModified": "2024-05-13T18:14:18.700",
+	"cpeLastModified": "2024-05-15T11:52:18.230",
 	"status": "Active",
 	"matches": [
 		{
@@ -19693,6 +19693,10 @@
 		{
 			"cpeName": "cpe:2.3:h:intel:xeon_d-1726:-:*:*:*:*:*:*:*",
 			"cpeNameId": "5DC0AC1F-A1B2-4821-BE75-256F2F2AAD99"
+		},
+		{
+			"cpeName": "cpe:2.3:h:intel:xeon_d-1731nte:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FB39C3D0-EF9E-489B-827B-FE8EFDCEA72E"
 		},
 		{
 			"cpeName": "cpe:2.3:h:intel:xeon_d-1732te:-:*:*:*:*:*:*:*",

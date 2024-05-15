@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:intel:nuc_7_essential_nuc7cjysamn_firmware:jyglkcpx.0071:*:*:*:*:*:*:*",
 	"matchCriteriaId": "AECA5B22-1E3B-491C-A626-1FF102E321DC",
 	"created": "2024-01-29T15:21:55.817",
-	"lastModified": "2024-01-29T15:21:55.817",
-	"cpeLastModified": "2024-01-29T15:21:55.817",
-	"status": "Active"
+	"lastModified": "2024-05-15T12:48:12.840",
+	"cpeLastModified": "2024-05-15T12:48:12.840",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:nuc_7_essential_nuc7cjysamn_firmware:jyglkcpx.0071:*:*:*:*:*:*:*",
+			"cpeNameId": "91E6DAE9-955B-4A01-B97A-A01440AED887"
+		}
+	]
 }

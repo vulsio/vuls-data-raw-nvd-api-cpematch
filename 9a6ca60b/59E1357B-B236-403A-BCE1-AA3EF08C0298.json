@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:intel:core_i7_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "59E1357B-B236-403A-BCE1-AA3EF08C0298",
 	"created": "2022-05-11T16:21:02.897",
-	"lastModified": "2022-05-25T14:03:41.233",
-	"cpeLastModified": "2022-07-28T09:30:09.457",
-	"status": "Active"
+	"lastModified": "2024-05-15T12:48:12.840",
+	"cpeLastModified": "2024-05-15T12:48:12.840",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:core_i7_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1F0EC432-EB30-4929-8A12-7E405D2A4E49"
+		}
+	]
 }

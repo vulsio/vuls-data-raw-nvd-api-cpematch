@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:intel:quickassist_technology_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "959491DE-2D21-4426-902A-E5638A4FCA4A",
 	"created": "2023-11-21T18:08:56.120",
-	"lastModified": "2023-11-21T18:08:56.120",
-	"cpeLastModified": "2023-11-21T18:08:56.120",
-	"status": "Active"
+	"lastModified": "2024-05-15T12:48:12.840",
+	"cpeLastModified": "2024-05-15T12:48:12.840",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:intel:quickassist_technology_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4F23EC92-2213-490F-9065-70A1595928A2"
+		}
+	]
 }
