@@ -1,0 +1,16 @@
+{
+	"criteria": "cpe:2.3:a:fortinet:fortivoice:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "F6757DB7-0F48-4AD9-BCFA-A32E2D41A84F",
+	"versionStartExcluding": "7.0.0",
+	"versionEndExcluding": "7.0.2",
+	"created": "2024-05-15T18:34:41.177",
+	"lastModified": "2024-05-15T18:34:41.177",
+	"cpeLastModified": "2024-05-15T18:34:41.177",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortivoice:7.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "D455120B-FEEA-4CC9-B41C-52D43E6E1F1D"
+		}
+	]
+}
