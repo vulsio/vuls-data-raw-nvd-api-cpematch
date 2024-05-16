@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:ic:realtime_icip-p2012t:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "69096040-1A39-4E99-8284-667BC4B76066",
 	"created": "2023-05-31T16:24:01.353",
-	"lastModified": "2023-05-31T16:24:01.353",
-	"cpeLastModified": "2023-05-31T16:24:01.353",
-	"status": "Active"
+	"lastModified": "2024-05-16T15:26:10.653",
+	"cpeLastModified": "2024-05-16T15:26:10.653",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:ic:realtime_icip-p2012t:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EEEFF653-B7A4-42FA-A42E-7749754B1C00"
+		}
+	]
 }

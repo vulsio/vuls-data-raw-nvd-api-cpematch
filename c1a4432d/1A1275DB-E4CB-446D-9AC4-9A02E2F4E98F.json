@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:hp:envy_6540_b9s59a:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "1A1275DB-E4CB-446D-9AC4-9A02E2F4E98F",
 	"created": "2020-06-16T17:45:20.530",
-	"lastModified": "2020-06-16T17:45:20.530",
-	"cpeLastModified": "2021-03-02T15:09:51.747",
-	"status": "Active"
+	"lastModified": "2024-05-16T15:26:10.653",
+	"cpeLastModified": "2024-05-16T15:26:10.653",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:hp:envy_6540_b9s59a:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C7061162-F0E2-40A3-B32D-F436A17B4FE0"
+		}
+	]
 }
