@@ -4,9 +4,13 @@
 	"versionEndIncluding": "10.8.1",
 	"created": "2021-03-26T14:03:04.740",
 	"lastModified": "2022-08-15T12:47:03.773",
-	"cpeLastModified": "2021-03-29T23:16:52.737",
+	"cpeLastModified": "2024-05-20T17:56:52.107",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:esri:arcreader:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9431A379-F930-4985-8F91-41547F82EFEC"
+		},
 		{
 			"cpeName": "cpe:2.3:a:esri:arcreader:10.3:*:*:*:*:*:*:*",
 			"cpeNameId": "F5EBD7CD-4563-434E-BDE9-19A23DCB739A"
