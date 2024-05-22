@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:efacec:uc_500e_firmware:10.1.0:*:*:*:*:*:*:*",
 	"matchCriteriaId": "1DF70D3D-3373-461B-BF6F-BEF45FDE3CA2",
 	"created": "2023-12-22T20:54:04.707",
-	"lastModified": "2023-12-22T20:54:04.707",
-	"cpeLastModified": "2023-12-22T20:54:04.707",
-	"status": "Active"
+	"lastModified": "2024-05-22T17:19:40.620",
+	"cpeLastModified": "2024-05-22T17:19:40.620",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:efacec:uc_500e_firmware:10.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "18A6CDC7-82C7-4849-9448-BE9DE93874AF"
+		}
+	]
 }

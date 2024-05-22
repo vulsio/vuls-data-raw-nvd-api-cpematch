@@ -5,7 +5,7 @@
 	"versionEndExcluding": "5.15.149",
 	"created": "2024-05-17T14:06:29.917",
 	"lastModified": "2024-05-17T14:06:29.917",
-	"cpeLastModified": "2024-05-17T14:06:29.917",
+	"cpeLastModified": "2024-05-22T17:47:40.593",
 	"status": "Active",
 	"matches": [
 		{
@@ -10887,6 +10887,10 @@
 		{
 			"cpeName": "cpe:2.3:o:linux:linux_kernel:5.10.205:*:*:*:*:*:*:*",
 			"cpeNameId": "FDFF6DBF-A75C-45BA-A6EB-7EE625C06625"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:5.10.209:*:*:*:*:*:*:*",
+			"cpeNameId": "FAD83EB2-0BC4-4AD0-B7D0-84D486786E11"
 		},
 		{
 			"cpeName": "cpe:2.3:o:linux:linux_kernel:5.11:*:*:*:*:*:*:*",
