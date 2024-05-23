@@ -1,0 +1,16 @@
+{
+	"criteria": "cpe:2.3:a:fortinet:fortiadc:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "03EA09FD-30DE-4106-96D8-78949E335634",
+	"versionStartIncluding": "7.2.0",
+	"versionEndIncluding": "7.2.3",
+	"created": "2024-05-23T15:54:58.160",
+	"lastModified": "2024-05-23T15:54:58.160",
+	"cpeLastModified": "2024-05-23T15:54:58.160",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiadc:7.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "36A64F5B-B0F4-4B29-88BA-64910DA052EB"
+		}
+	]
+}
