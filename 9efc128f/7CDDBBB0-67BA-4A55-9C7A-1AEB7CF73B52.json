@@ -3,9 +3,13 @@
 	"matchCriteriaId": "7CDDBBB0-67BA-4A55-9C7A-1AEB7CF73B52",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"cpeLastModified": "2024-05-28T14:21:58.090",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:lynx:lynx:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6B8CBE9C-A672-4BEE-AF5F-E45585EBCF75"
+		},
 		{
 			"cpeName": "cpe:2.3:a:lynx:lynx:2.8.8:dev.1:*:*:*:*:*:*",
 			"cpeNameId": "40E59916-FF8D-40E9-A0BF-A49B608DC4B2"

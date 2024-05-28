@@ -4,7 +4,7 @@
 	"versionEndExcluding": "7.1.0",
 	"created": "2022-05-09T13:52:14.590",
 	"lastModified": "2022-05-09T13:52:14.590",
-	"cpeLastModified": "2023-11-06T18:45:13.680",
+	"cpeLastModified": "2024-05-28T13:43:02.120",
 	"status": "Active",
 	"matches": [
 		{
@@ -702,6 +702,10 @@
 		{
 			"cpeName": "cpe:2.3:a:cisco:firepower_management_center:7.0.5:*:*:*:*:*:*:*",
 			"cpeNameId": "937CB95F-4EEA-4E7F-99D0-33B13C5DFC60"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:firepower_management_center:7.0.6:*:*:*:*:*:*:*",
+			"cpeNameId": "46E7EA6B-9C69-44F9-AFE0-8601998EDB26"
 		}
 	]
 }

@@ -4,9 +4,13 @@
 	"versionEndIncluding": "2.12.2",
 	"created": "2022-02-24T17:27:36.090",
 	"lastModified": "2022-02-24T17:27:36.090",
-	"cpeLastModified": "2022-02-24T21:07:05.913",
+	"cpeLastModified": "2024-05-28T14:07:48.950",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:liveconfig:liveconfig:2.5.2:*:*:*:*:*:*:*",
+			"cpeNameId": "BBB1FDB0-CC5D-41D7-B3B6-143B09799A01"
+		},
 		{
 			"cpeName": "cpe:2.3:a:liveconfig:liveconfig:2.9.0:*:*:*:*:*:*:*",
 			"cpeNameId": "D564D939-7A14-4458-B0C6-51A8EAF637DE"
