@@ -5,7 +5,7 @@
 	"versionEndExcluding": "10.2.5",
 	"created": "2023-12-15T16:27:28.883",
 	"lastModified": "2023-12-16T04:32:10.130",
-	"cpeLastModified": "2024-04-16T02:07:00.703",
+	"cpeLastModified": "2024-05-29T15:54:31.030",
 	"status": "Active",
 	"matches": [
 		{
@@ -25,12 +25,20 @@
 			"cpeNameId": "E960D451-377A-4A89-B211-7C2ACF94D8F0"
 		},
 		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.0:h3:*:*:*:*:*:*",
+			"cpeNameId": "FB54B96C-E5EC-4B1B-A7A0-4381D8DC1555"
+		},
+		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.1:-:*:*:*:*:*:*",
 			"cpeNameId": "CD0CBA32-84FC-4BC1-A93B-8879381FE996"
 		},
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.1:h1:*:*:*:*:*:*",
 			"cpeNameId": "2600233F-6063-4082-A9B9-B8172BDAF5DB"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.1:h2:*:*:*:*:*:*",
+			"cpeNameId": "286742C8-98AE-4079-B5B3-2FBF789FE49E"
 		},
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.2:-:*:*:*:*:*:*",
@@ -49,6 +57,10 @@
 			"cpeNameId": "B63395C7-B1D1-4A0C-8515-C07353591123"
 		},
 		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.2:h5:*:*:*:*:*:*",
+			"cpeNameId": "ABF80149-429E-431C-A775-64BFCEA94AFB"
+		},
+		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.3:*:*:*:*:*:*:*",
 			"cpeNameId": "C6DC3513-F806-4BD7-9969-BFC7908DD111"
 		},
@@ -63,6 +75,10 @@
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.3:h12:*:*:*:*:*:*",
 			"cpeNameId": "90643F8F-0CC2-41E1-8204-B088BACFC94A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.3:h13:*:*:*:*:*:*",
+			"cpeNameId": "0CB7BAD7-A1EA-4C06-A0E8-E98A139FA8BA"
 		},
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.3:h2:*:*:*:*:*:*",
@@ -87,6 +103,10 @@
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.4:h10:*:*:*:*:*:*",
 			"cpeNameId": "EC483E2C-9ABA-4F86-9199-60365B833849"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.4:h16:*:*:*:*:*:*",
+			"cpeNameId": "6B0CDEA6-CD96-4874-BFA4-97E712CE2028"
 		},
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.4:h2:*:*:*:*:*:*",
