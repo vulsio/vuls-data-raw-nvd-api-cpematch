@@ -4,8 +4,8 @@
 	"versionStartIncluding": "3.10.0",
 	"versionEndExcluding": "4.6.8",
 	"created": "2023-06-02T22:29:46.387",
-	"lastModified": "2023-06-02T22:29:46.387",
-	"cpeLastModified": "2023-06-02T22:29:46.387",
+	"lastModified": "2024-05-30T15:49:29.127",
+	"cpeLastModified": "2024-05-30T15:54:14.050",
 	"status": "Active",
 	"matches": [
 		{
@@ -85,6 +85,14 @@
 			"cpeNameId": "5D380F46-6D01-4BEA-B7FD-8F3B14C646B4"
 		},
 		{
+			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.2.0:-:*:*:*:*:*:*",
+			"cpeNameId": "06A8388F-CB01-4133-A819-7B61A0E36251"
+		},
+		{
+			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.2.0:beta:*:*:*:*:*:*",
+			"cpeNameId": "700AD644-856A-4446-9BE7-39458315D2F5"
+		},
+		{
 			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.2.1:*:*:*:*:*:*:*",
 			"cpeNameId": "6ED39C93-C9B9-4373-9896-DC30E892653B"
 		},
@@ -97,8 +105,20 @@
 			"cpeNameId": "604AB0B5-9C10-47D9-A909-624947B65C2F"
 		},
 		{
+			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.2.4:*:*:*:*:*:*:*",
+			"cpeNameId": "377C9D1B-A59F-44E1-8D4B-78F40AA95CD0"
+		},
+		{
 			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.3.0:*:*:*:*:*:*:*",
 			"cpeNameId": "2E183E9C-7D2C-4B60-89E2-1FB6B7C5258D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.3.0:-:*:*:*:*:*:*",
+			"cpeNameId": "1CACABA3-A9C6-4423-AD5F-4B0A5A6F5C8C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.3.0:beta:*:*:*:*:*:*",
+			"cpeNameId": "6C0E94FB-2F5E-4F44-AEF5-3A0032956CAE"
 		},
 		{
 			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.3.1:*:*:*:*:*:*:*",
@@ -111,6 +131,14 @@
 		{
 			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.4.0:*:*:*:*:*:*:*",
 			"cpeNameId": "2C7F573C-85B6-4270-8558-CEDAB9888EEB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.4.0:-:*:*:*:*:*:*",
+			"cpeNameId": "144B9AFB-6DDF-4F57-B0E4-D6D4FA7FE9C6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.4.0:beta:*:*:*:*:*:*",
+			"cpeNameId": "DD0C3ACA-8E57-42B2-B935-520C2D4CCE89"
 		},
 		{
 			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.4.1:*:*:*:*:*:*:*",
@@ -133,6 +161,10 @@
 			"cpeNameId": "F25F2D80-D40E-46F1-898D-1DBA8EFB2833"
 		},
 		{
+			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.5.0:beta:*:*:*:*:*:*",
+			"cpeNameId": "4376E152-44BC-4128-82AC-E098B93CBC56"
+		},
+		{
 			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.5.1:*:*:*:*:*:*:*",
 			"cpeNameId": "DB398A2D-8121-431B-AC2C-B20C2CAD978B"
 		},
@@ -145,8 +177,56 @@
 			"cpeNameId": "B1F9A448-9BFB-4AB3-AFFA-026D9CB6675A"
 		},
 		{
+			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.5.4:*:*:*:*:*:*:*",
+			"cpeNameId": "83EF0D82-1997-4D4E-8E70-05F7FE3BF4EF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.5.5:*:*:*:*:*:*:*",
+			"cpeNameId": "C3EC5971-C54A-4A2E-87A2-506D0C1212C7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.5.6:*:*:*:*:*:*:*",
+			"cpeNameId": "D2D1FE04-308B-4B16-97F4-EC3680428B6D"
+		},
+		{
 			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.6.0:*:*:*:*:*:*:*",
 			"cpeNameId": "3C35877C-C597-4531-8979-5907827640CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.6.0:-:*:*:*:*:*:*",
+			"cpeNameId": "D2E46901-DA48-4F99-A4DF-28478B4BB4FE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.6.0:beta:*:*:*:*:*:*",
+			"cpeNameId": "B99F8814-451F-41F4-B3D0-ECA489AC6E90"
+		},
+		{
+			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.6.1:*:*:*:*:*:*:*",
+			"cpeNameId": "CD200296-2E94-4D9B-B2F3-063C196ED17A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.6.2:*:*:*:*:*:*:*",
+			"cpeNameId": "5AEEB75C-30ED-4714-BDC9-1E3379D3037E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.6.3:*:*:*:*:*:*:*",
+			"cpeNameId": "3618EC90-045E-4277-A3EA-25E5E73BA268"
+		},
+		{
+			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.6.4:*:*:*:*:*:*:*",
+			"cpeNameId": "709BFC7D-AF19-4BF4-84D4-CB016DACBBC9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.6.5:*:*:*:*:*:*:*",
+			"cpeNameId": "52040DAB-4423-496D-B69F-7BB5658E3ABD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.6.6:*:*:*:*:*:*:*",
+			"cpeNameId": "A67CDFBD-3C9F-4CE1-892D-BF11B2AD698A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.6.7:*:*:*:*:*:*:*",
+			"cpeNameId": "E9FFC3B6-DCCB-4C73-8748-DE7C5A3C2E60"
 		}
 	]
 }
