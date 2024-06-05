@@ -4,9 +4,13 @@
 	"versionEndExcluding": "4.29991",
 	"created": "2019-08-28T12:12:02.963",
 	"lastModified": "2019-08-28T12:12:02.963",
-	"cpeLastModified": "2019-08-28T13:54:44.947",
+	"cpeLastModified": "2024-06-05T11:53:52.993",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:elearningfreak:insert_or_embed_articulate_content:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "61A0A155-A86F-4DDB-A31F-900450B7D891"
+		},
 		{
 			"cpeName": "cpe:2.3:a:elearningfreak:insert_or_embed_articulate_content:4.28:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "A34C7EF2-4659-4769-9090-3339BCA5AFAA"

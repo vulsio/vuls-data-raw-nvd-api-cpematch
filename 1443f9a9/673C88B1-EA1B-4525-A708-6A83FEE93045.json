@@ -4,9 +4,13 @@
 	"versionEndExcluding": "3.2.34",
 	"created": "2022-02-26T04:08:14.013",
 	"lastModified": "2022-02-26T04:08:14.013",
-	"cpeLastModified": "2022-02-28T20:27:05.853",
+	"cpeLastModified": "2024-06-05T17:43:01.637",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wpdownloadmanager:download_manager:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "78F862F4-C5FD-4740-A7FC-79005429F2D6"
+		},
 		{
 			"cpeName": "cpe:2.3:a:wpdownloadmanager:download_manager:1.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "3AC1B61E-B49B-418F-BC6B-79345C40F2EA"

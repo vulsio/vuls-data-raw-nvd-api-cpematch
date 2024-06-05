@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:a:buddyboss:buddyboss:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "A84854D4-B4F7-471B-A48E-A9C0EC2DAD74",
+	"versionEndExcluding": "2.6.00",
+	"created": "2024-06-05T14:26:23.577",
+	"lastModified": "2024-06-05T14:26:23.577",
+	"cpeLastModified": "2024-06-05T14:40:09.320",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:buddyboss:buddyboss:2.2.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "227684BE-6AB8-40DC-AA89-320F20BDC806"
+		}
+	]
+}

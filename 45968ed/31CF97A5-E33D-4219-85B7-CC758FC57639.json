@@ -4,9 +4,13 @@
 	"versionEndExcluding": "4.2.5.8",
 	"created": "2024-01-17T18:46:04.030",
 	"lastModified": "2024-01-17T18:46:04.030",
-	"cpeLastModified": "2024-01-17T18:46:04.030",
+	"cpeLastModified": "2024-06-05T17:39:48.033",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:thimpress:learnpress:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "530AD375-5E29-407E-AE68-BAC86E33E7FF"
+		},
 		{
 			"cpeName": "cpe:2.3:a:thimpress:learnpress:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "8A97656D-CE86-4A30-86BF-1A08CF991492"

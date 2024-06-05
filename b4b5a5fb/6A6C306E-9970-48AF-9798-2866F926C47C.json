@@ -4,12 +4,88 @@
 	"versionEndExcluding": "3.1.31",
 	"created": "2022-02-16T02:07:55.790",
 	"lastModified": "2022-02-16T02:07:55.790",
-	"cpeLastModified": "2022-02-22T22:19:33.797",
+	"cpeLastModified": "2024-06-05T11:31:14.743",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:sendinblue:newsletter\\,_smtp\\,_email_marketing_and_subscribe:-:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "C8C5C212-845C-49AD-B354-C9CBC27E2C63"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sendinblue:newsletter\\,_smtp\\,_email_marketing_and_subscribe:1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A3FCF119-F8C9-44AB-B4B1-E32B70CCF024"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sendinblue:newsletter\\,_smtp\\,_email_marketing_and_subscribe:1.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EE07C7DE-570D-4E6C-A9C2-41ED2DAC42D1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sendinblue:newsletter\\,_smtp\\,_email_marketing_and_subscribe:2.0.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "73106264-BC4C-4B6E-BDC7-4B2262DA2A66"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sendinblue:newsletter\\,_smtp\\,_email_marketing_and_subscribe:2.9.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1172F394-1161-401A-8C90-C619D5392B14"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sendinblue:newsletter\\,_smtp\\,_email_marketing_and_subscribe:2.9.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "81256A6F-FF56-4EEE-A90E-5430642D913B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sendinblue:newsletter\\,_smtp\\,_email_marketing_and_subscribe:2.9.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A1BCE76C-F985-4617-8DF3-26EA5B4F7704"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sendinblue:newsletter\\,_smtp\\,_email_marketing_and_subscribe:2.9.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "88DB43A5-AF5E-4C4B-89A1-0511DEADD84C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sendinblue:newsletter\\,_smtp\\,_email_marketing_and_subscribe:2.9.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "93C5011B-90EE-4851-B52B-F591200BFE83"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sendinblue:newsletter\\,_smtp\\,_email_marketing_and_subscribe:2.9.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CC031933-103F-4576-8B7C-47D21B5E1657"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sendinblue:newsletter\\,_smtp\\,_email_marketing_and_subscribe:2.9.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8AA16884-72C3-4213-A465-E0090087221E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sendinblue:newsletter\\,_smtp\\,_email_marketing_and_subscribe:2.9.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "77C8697E-B0CD-4303-8A9C-918AF40600E5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sendinblue:newsletter\\,_smtp\\,_email_marketing_and_subscribe:2.9.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3AB767AD-4ECD-498F-914A-9E4B72C1BD79"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sendinblue:newsletter\\,_smtp\\,_email_marketing_and_subscribe:2.9.13:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B316470F-3D14-46D6-9458-2A8C1DB5DFE5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sendinblue:newsletter\\,_smtp\\,_email_marketing_and_subscribe:2.9.14:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9C0F6BA5-5408-4635-9AC5-5FB022B24A0A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sendinblue:newsletter\\,_smtp\\,_email_marketing_and_subscribe:2.9.15:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6A190F0C-DEE9-45F3-9439-E9AA0061A041"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sendinblue:newsletter\\,_smtp\\,_email_marketing_and_subscribe:2.9.16:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B1FE51A5-4F7B-4958-8996-80524D9076B9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sendinblue:newsletter\\,_smtp\\,_email_marketing_and_subscribe:2.9.17:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9307C9CD-FF9B-42EC-86BB-26D6D5FCD914"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sendinblue:newsletter\\,_smtp\\,_email_marketing_and_subscribe:2.9.18:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "048A16C8-4BEC-49C9-85AA-FFA8A042106D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sendinblue:newsletter\\,_smtp\\,_email_marketing_and_subscribe:3.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4D92F352-485D-43F5-A489-86E78C4E890E"
 		},
 		{
 			"cpeName": "cpe:2.3:a:sendinblue:newsletter\\,_smtp\\,_email_marketing_and_subscribe:3.0.1:*:*:*:*:wordpress:*:*",
