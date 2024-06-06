@@ -1,9 +1,9 @@
 {
 	"criteria": "cpe:2.3:a:spiffyplugins:spiffy_calendar:*:*:*:*:*:wordpress:*:*",
-	"matchCriteriaId": "947FE71F-9403-4D04-A5E8-05493F103B9A",
-	"versionEndIncluding": "4.9.1",
-	"created": "2023-11-08T17:27:20.547",
-	"lastModified": "2023-11-08T17:27:20.547",
+	"matchCriteriaId": "3AFDB5F9-DC96-4AC5-B0D1-B99DC8136659",
+	"versionEndExcluding": "4.9.11",
+	"created": "2024-06-06T11:48:22.917",
+	"lastModified": "2024-06-06T12:11:00.830",
 	"cpeLastModified": "2024-06-06T12:11:00.830",
 	"status": "Active",
 	"matches": [
@@ -394,6 +394,42 @@
 		{
 			"cpeName": "cpe:2.3:a:spiffyplugins:spiffy_calendar:4.9.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "CC7D2A96-127C-4F5A-ACB8-DED271EFE95A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:spiffyplugins:spiffy_calendar:4.9.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "270DE835-F8C4-4BBF-B6BE-25C147D60A09"
+		},
+		{
+			"cpeName": "cpe:2.3:a:spiffyplugins:spiffy_calendar:4.9.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "30A0B2A4-910F-42B8-B9BA-286CB6CC4559"
+		},
+		{
+			"cpeName": "cpe:2.3:a:spiffyplugins:spiffy_calendar:4.9.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7E96F449-8FBF-49C0-8085-3905721FD060"
+		},
+		{
+			"cpeName": "cpe:2.3:a:spiffyplugins:spiffy_calendar:4.9.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DE60C74B-AAA6-4272-A21C-9B1F3AAA2F7C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:spiffyplugins:spiffy_calendar:4.9.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7B0DB846-8CFE-4928-9E20-D507253FB88E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:spiffyplugins:spiffy_calendar:4.9.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5D934FB5-BB61-435E-9504-948A8FB4915D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:spiffyplugins:spiffy_calendar:4.9.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B8F6560C-BFA2-4FD0-B567-CCE74D78B8B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:spiffyplugins:spiffy_calendar:4.9.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "87416072-6FA3-40DE-B48B-5455CDE1DAE3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:spiffyplugins:spiffy_calendar:4.9.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B31490D2-D77C-4B1F-9C03-48D9F0F2F472"
 		}
 	]
 }

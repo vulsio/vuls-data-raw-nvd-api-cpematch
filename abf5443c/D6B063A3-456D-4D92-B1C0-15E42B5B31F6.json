@@ -4,9 +4,13 @@
 	"versionEndIncluding": "4.9.0",
 	"created": "2022-02-28T14:49:32.647",
 	"lastModified": "2022-05-27T04:08:39.630",
-	"cpeLastModified": "2022-03-01T15:33:39.450",
+	"cpeLastModified": "2024-06-06T12:11:00.830",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:spiffyplugins:spiffy_calendar:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7C396CA8-44C6-487E-B11E-C7643F9E8049"
+		},
 		{
 			"cpeName": "cpe:2.3:a:spiffyplugins:spiffy_calendar:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "0DCBE01C-5377-4AB5-A89F-189928F4C082"

@@ -5,6 +5,12 @@
 	"versionEndIncluding": "7.0",
 	"created": "2024-01-13T01:45:57.773",
 	"lastModified": "2024-01-13T01:45:57.773",
-	"cpeLastModified": "2024-01-13T01:45:57.773",
-	"status": "Active"
+	"cpeLastModified": "2024-06-06T11:48:29.230",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:yzmcms:yzmcms:7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "247DCEEC-1774-42F3-A315-8C79231014AE"
+		}
+	]
 }
