@@ -3,8 +3,8 @@
 	"matchCriteriaId": "1E0E88F5-7475-4118-B5A3-23BD6F280BEA",
 	"versionEndExcluding": "4.1.12",
 	"created": "2024-06-07T13:31:54.487",
-	"lastModified": "2024-06-07T13:31:54.487",
-	"cpeLastModified": "2024-06-07T13:31:54.487",
+	"lastModified": "2024-06-10T16:15:43.580",
+	"cpeLastModified": "2024-06-10T16:15:43.580",
 	"status": "Active",
 	"matches": [
 		{
@@ -334,6 +334,102 @@
 		{
 			"cpeName": "cpe:2.3:a:multivendorx:multivendorx:4.0.20:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "52650C96-4156-491D-9796-B6647B9EC168"
+		},
+		{
+			"cpeName": "cpe:2.3:a:multivendorx:multivendorx:4.0.21:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9CA183E9-EC2A-4881-964B-CA8C96353A61"
+		},
+		{
+			"cpeName": "cpe:2.3:a:multivendorx:multivendorx:4.0.22:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "71D661AF-2156-4994-BCC1-21072D689C78"
+		},
+		{
+			"cpeName": "cpe:2.3:a:multivendorx:multivendorx:4.0.23:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8025689B-E69E-462E-8EDC-20808E5ED53A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:multivendorx:multivendorx:4.0.24:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3664FD0D-5A4D-460B-B128-BB846EE6B828"
+		},
+		{
+			"cpeName": "cpe:2.3:a:multivendorx:multivendorx:4.0.25:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7F193915-0BED-4B9C-85BD-50D9ADEED529"
+		},
+		{
+			"cpeName": "cpe:2.3:a:multivendorx:multivendorx:4.0.26:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CF2E10EF-82A6-4444-9990-76DA1C72098D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:multivendorx:multivendorx:4.0.27:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1D4C4248-EAC0-426D-9D61-C97DF8487DD3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:multivendorx:multivendorx:4.0.28:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E09DBA64-02E6-47F5-989D-36888237C6AE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:multivendorx:multivendorx:4.0.29:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0D17A7F5-0B4B-43DA-AC8B-10312D4C02B2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:multivendorx:multivendorx:4.0.30:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "459E3283-B774-433F-8662-D9D4D9430798"
+		},
+		{
+			"cpeName": "cpe:2.3:a:multivendorx:multivendorx:4.0.31:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BCA414E5-489C-4BCD-87AF-35A903E1B4E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:multivendorx:multivendorx:4.0.32:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B5303F2A-B926-420A-9DA8-E57E1484F2EA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:multivendorx:multivendorx:4.1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "75D50C7D-B7B3-4CA5-A6A7-BA53BF53C499"
+		},
+		{
+			"cpeName": "cpe:2.3:a:multivendorx:multivendorx:4.1.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E859EA96-D068-4D5B-8AE9-23744308B5B8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:multivendorx:multivendorx:4.1.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FCF5A1F9-6065-417E-9B3F-580DD8EB4C9E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:multivendorx:multivendorx:4.1.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C9471AFB-BAF0-4611-BBC1-14414CCA90E2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:multivendorx:multivendorx:4.1.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AA581F4E-6F25-4663-BE95-976E4D8F5CB0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:multivendorx:multivendorx:4.1.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8AF45E50-871C-4D81-B1E3-B508E23024B8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:multivendorx:multivendorx:4.1.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EBEF3226-54E8-4131-934A-9A2D2F548F86"
+		},
+		{
+			"cpeName": "cpe:2.3:a:multivendorx:multivendorx:4.1.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3840FAAA-64B8-4E5B-8741-7ED102B27130"
+		},
+		{
+			"cpeName": "cpe:2.3:a:multivendorx:multivendorx:4.1.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "08078469-9CAF-4A77-9366-331A61338B80"
+		},
+		{
+			"cpeName": "cpe:2.3:a:multivendorx:multivendorx:4.1.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "20493A3F-3898-4A1E-B861-13958A1839DC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:multivendorx:multivendorx:4.1.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F883158F-E742-49FB-A7AD-F49136B89225"
+		},
+		{
+			"cpeName": "cpe:2.3:a:multivendorx:multivendorx:4.1.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F4DA873A-4F4C-41F4-8FE0-141718660490"
 		}
 	]
 }

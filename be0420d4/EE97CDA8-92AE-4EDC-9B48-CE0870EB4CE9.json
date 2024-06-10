@@ -3,8 +3,8 @@
 	"matchCriteriaId": "EE97CDA8-92AE-4EDC-9B48-CE0870EB4CE9",
 	"versionEndIncluding": "5.9.7",
 	"created": "2024-02-13T17:13:38.167",
-	"lastModified": "2024-02-13T17:13:38.167",
-	"cpeLastModified": "2024-04-29T12:46:03.030",
+	"lastModified": "2024-06-10T17:04:12.923",
+	"cpeLastModified": "2024-06-10T17:04:12.923",
 	"status": "Active",
 	"matches": [
 		{
@@ -850,6 +850,18 @@
 		{
 			"cpeName": "cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:5.9.4:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "17C6A796-8A6E-4DAB-AB87-7758B4917785"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:5.9.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EFEA93E8-4DE2-482D-9985-FFB986273C6E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:5.9.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4A06F3D3-704F-436E-938A-55A2A45D4A4A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:5.9.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "97469657-B7C8-428C-A582-EC01286B8CED"
 		}
 	]
 }

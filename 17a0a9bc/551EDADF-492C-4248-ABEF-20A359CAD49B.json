@@ -3,10 +3,14 @@
 	"matchCriteriaId": "551EDADF-492C-4248-ABEF-20A359CAD49B",
 	"versionEndExcluding": "3.3.5",
 	"created": "2024-06-10T12:32:02.100",
-	"lastModified": "2024-06-10T12:32:02.100",
-	"cpeLastModified": "2024-06-10T12:32:02.100",
+	"lastModified": "2024-06-10T16:12:58.827",
+	"cpeLastModified": "2024-06-10T16:12:58.827",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:metagauss:eventprime:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "04B87887-E0C0-4B83-9C31-5DEF90DB2396"
+		},
 		{
 			"cpeName": "cpe:2.3:a:metagauss:eventprime:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "B91AF035-C15B-482A-9F76-DBC51C5AF2B4"
@@ -798,6 +802,26 @@
 		{
 			"cpeName": "cpe:2.3:a:metagauss:eventprime:3.2.9:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "C8880FA0-5188-4DCB-BF2A-9F322170B49E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:metagauss:eventprime:3.3.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C2B824EF-35AA-4203-B059-8DEFFA052CC7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:metagauss:eventprime:3.3.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "18371F7F-C1D4-4549-82C1-96A4A3B468C7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:metagauss:eventprime:3.3.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "03484712-FFF3-43DB-995C-0F027223D040"
+		},
+		{
+			"cpeName": "cpe:2.3:a:metagauss:eventprime:3.3.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B88E5C36-3C03-4AAD-A447-E81DAC390D07"
+		},
+		{
+			"cpeName": "cpe:2.3:a:metagauss:eventprime:3.3.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FED5D467-C193-43E8-8EC1-DA3E29AEB8F0"
 		}
 	]
 }

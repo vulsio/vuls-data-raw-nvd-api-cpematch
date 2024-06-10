@@ -3,10 +3,14 @@
 	"matchCriteriaId": "6F84873F-FB6C-4354-B70A-1E2B7CA481CC",
 	"versionEndExcluding": "2.7.2",
 	"created": "2024-06-07T17:59:31.023",
-	"lastModified": "2024-06-07T17:59:31.023",
-	"cpeLastModified": "2024-06-07T17:59:31.023",
+	"lastModified": "2024-06-10T17:04:12.923",
+	"cpeLastModified": "2024-06-10T17:04:12.923",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:themeum:tutor_lms:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "66106D56-2E9A-4098-BB78-2323E704374A"
+		},
 		{
 			"cpeName": "cpe:2.3:a:themeum:tutor_lms:1.0.0:-:*:*:*:wordpress:*:*",
 			"cpeNameId": "2A4520AB-AD86-4B15-A38E-4233190575F5"
@@ -510,6 +514,30 @@
 		{
 			"cpeName": "cpe:2.3:a:themeum:tutor_lms:2.4.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "BFA9D04A-78D8-4139-A0D8-8C782BFF6A53"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeum:tutor_lms:2.5.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "98CCC884-FC38-4399-8454-B6F8BF969A1A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeum:tutor_lms:2.6.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BC6E4DD3-F467-49E8-96CA-285E189BC28B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeum:tutor_lms:2.6.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D9E306CE-9D7E-4D98-838A-4668F702B0D4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeum:tutor_lms:2.6.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "293CF1DA-B856-4EF0-87F1-DE2852DA7ED7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeum:tutor_lms:2.7.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "21A7E4D6-3C01-4D94-A2A9-0FD2D2930D80"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeum:tutor_lms:2.7.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2F333745-5C49-464C-A041-2EB560AF38D0"
 		}
 	]
 }

@@ -4,6 +4,12 @@
 	"versionEndExcluding": "1.8.176",
 	"created": "2022-03-08T17:19:29.907",
 	"lastModified": "2022-03-08T17:19:29.907",
-	"cpeLastModified": "2022-03-08T17:19:41.247",
-	"status": "Active"
+	"cpeLastModified": "2024-06-10T16:22:45.153",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:westguardsolutions:ws_form:-:*:*:*:pro:wordpress:*:*",
+			"cpeNameId": "1835EF37-157B-45C0-9E1C-BB96CF437C01"
+		}
+	]
 }

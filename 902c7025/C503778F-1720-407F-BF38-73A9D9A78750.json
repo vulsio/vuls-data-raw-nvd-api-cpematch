@@ -3,7 +3,7 @@
 	"matchCriteriaId": "C503778F-1720-407F-BF38-73A9D9A78750",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-12-29T18:02:38.650",
+	"cpeLastModified": "2024-06-10T12:55:00.263",
 	"status": "Active",
 	"matches": [
 		{
@@ -101,6 +101,18 @@
 		{
 			"cpeName": "cpe:2.3:o:centos:centos:7.1804:*:*:*:*:*:*:*",
 			"cpeNameId": "422F9E7F-96B6-445B-B5B9-58736627212B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:centos:centos:7.1810:*:*:*:*:*:*:*",
+			"cpeNameId": "CFA2F2DF-66E5-4457-B188-64F53263D94B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:centos:centos:7.1908:*:*:*:*:*:*:*",
+			"cpeNameId": "21D5B1A2-43D6-4725-B2B4-69BEC04D934D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:centos:centos:7.2003:*:*:*:*:*:*:*",
+			"cpeNameId": "D582ECD1-D0DE-4DA4-AE4D-C2063851D7D7"
 		},
 		{
 			"cpeName": "cpe:2.3:o:centos:centos:8.0-1905:*:*:*:*:*:*:*",

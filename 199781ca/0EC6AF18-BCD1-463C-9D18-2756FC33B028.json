@@ -3,10 +3,14 @@
 	"matchCriteriaId": "0EC6AF18-BCD1-463C-9D18-2756FC33B028",
 	"versionEndExcluding": "1.6.3",
 	"created": "2024-06-10T12:51:38.613",
-	"lastModified": "2024-06-10T12:51:38.613",
-	"cpeLastModified": "2024-06-10T12:51:38.613",
+	"lastModified": "2024-06-10T17:04:12.923",
+	"cpeLastModified": "2024-06-10T17:04:12.923",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:zorem:advanced_local_pickup_for_woocommerce:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7C6C974D-0CAD-45CA-8226-494726BC75FA"
+		},
 		{
 			"cpeName": "cpe:2.3:a:zorem:advanced_local_pickup_for_woocommerce:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "D2FCB4F8-3645-4485-A2B8-93A187900787"
@@ -190,6 +194,14 @@
 		{
 			"cpeName": "cpe:2.3:a:zorem:advanced_local_pickup_for_woocommerce:1.6.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "01C1EED0-D2D8-4A22-88F8-FEAAF0E2F80E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zorem:advanced_local_pickup_for_woocommerce:1.6.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1781BBB9-D66B-4464-96DF-8FFDD5D50D99"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zorem:advanced_local_pickup_for_woocommerce:1.6.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4BE86BEF-B9FD-4D06-9681-FD149C63F02C"
 		}
 	]
 }
