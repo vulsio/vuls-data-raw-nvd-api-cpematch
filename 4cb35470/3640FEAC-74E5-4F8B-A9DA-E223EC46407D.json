@@ -1,0 +1,16 @@
+{
+	"criteria": "cpe:2.3:a:cloudfoundry:cf-deployment:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "3640FEAC-74E5-4F8B-A9DA-E223EC46407D",
+	"versionStartIncluding": "30.9.0",
+	"versionEndIncluding": "40.13.0",
+	"created": "2024-06-11T11:25:03.167",
+	"lastModified": "2024-06-11T11:25:03.167",
+	"cpeLastModified": "2024-06-11T11:25:03.167",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cloudfoundry:cf-deployment:32.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "542E68F4-11D9-4A8C-AFAC-C66D2D8E6D64"
+		}
+	]
+}
