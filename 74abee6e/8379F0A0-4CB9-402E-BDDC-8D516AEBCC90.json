@@ -6,23 +6,5 @@
 	"created": "2024-06-10T13:35:19.780",
 	"lastModified": "2024-06-11T02:00:59.403",
 	"cpeLastModified": "2024-06-10T13:35:19.780",
-	"status": "Inactive",
-	"matches": [
-		{
-			"cpeName": "cpe:2.3:o:cisco:sd-wan_firmware:19.2.0:*:*:*:*:*:*:*",
-			"cpeNameId": "96B6F49E-50DC-4E34-9113-76E08E8F4B0F"
-		},
-		{
-			"cpeName": "cpe:2.3:o:cisco:sd-wan_firmware:19.2.1:*:*:*:*:*:*:*",
-			"cpeNameId": "ABD2120F-3E7E-4B92-9ADE-11563EDDABC6"
-		},
-		{
-			"cpeName": "cpe:2.3:o:cisco:sd-wan_firmware:19.2.2:*:*:*:*:*:*:*",
-			"cpeNameId": "B704DD45-7312-4B67-8135-F21638506FA4"
-		},
-		{
-			"cpeName": "cpe:2.3:o:cisco:sd-wan_firmware:19.2.3:*:*:*:*:*:*:*",
-			"cpeNameId": "36A0577E-4684-43C4-91CB-1E4371F87F38"
-		}
-	]
+	"status": "Inactive"
 }

@@ -1,0 +1,20 @@
+{
+	"criteria": "cpe:2.3:a:jetbrains:intellij_idea:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "39D4B44F-9182-437D-8E69-FDE818F7921B",
+	"versionStartIncluding": "2023.3.0",
+	"versionEndExcluding": "2023.3.7",
+	"created": "2024-06-11T16:23:34.163",
+	"lastModified": "2024-06-11T16:23:34.163",
+	"cpeLastModified": "2024-06-11T16:23:34.163",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:intellij_idea:2023.3.2:*:*:*:*:*:*:*",
+			"cpeNameId": "3D7852C7-7D5C-4243-9D63-CA8D78612B54"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:intellij_idea:2023.3.3:*:*:*:*:*:*:*",
+			"cpeNameId": "1D41FCA1-3A27-438C-AC99-4F211F825C83"
+		}
+	]
+}
