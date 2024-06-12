@@ -5,6 +5,20 @@
 	"versionEndExcluding": "2023.2.4",
 	"created": "2024-06-11T18:31:10.120",
 	"lastModified": "2024-06-11T18:31:10.120",
-	"cpeLastModified": "2024-06-11T18:31:10.120",
-	"status": "Active"
+	"cpeLastModified": "2024-06-12T15:35:31.347",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:clion:2023.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "ED4FDB0E-D712-42F9-A47E-CBC1F9015F42"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:clion:2023.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "D0DC5E29-01BE-44E5-BF11-A49CE4AE4265"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:clion:2023.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "FD0DE67B-357D-4152-BD05-69A1B698270F"
+		}
+	]
 }

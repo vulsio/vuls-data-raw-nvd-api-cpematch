@@ -3,7 +3,13 @@
 	"matchCriteriaId": "A03AB13D-C49B-40A4-B63E-ECF79CC40711",
 	"versionEndExcluding": "23.1",
 	"created": "2024-06-06T12:55:15.043",
-	"lastModified": "2024-06-06T12:55:15.043",
-	"cpeLastModified": "2024-06-06T12:55:15.043",
-	"status": "Active"
+	"lastModified": "2024-06-12T17:50:51.280",
+	"cpeLastModified": "2024-06-12T17:50:51.280",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:beyondtrust:beyondinsight:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8EF52E28-10A8-4B11-B37C-66607850F37A"
+		}
+	]
 }

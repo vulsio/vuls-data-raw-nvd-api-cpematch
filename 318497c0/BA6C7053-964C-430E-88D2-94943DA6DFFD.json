@@ -5,6 +5,12 @@
 	"versionEndExcluding": "9.17.0.0",
 	"created": "2024-06-10T19:53:02.823",
 	"lastModified": "2024-06-10T19:53:02.823",
-	"cpeLastModified": "2024-06-10T19:53:02.823",
-	"status": "Active"
+	"cpeLastModified": "2024-06-12T17:54:33.790",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:dreryk:gabinet:7.0.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "7D0389A9-4FFF-4DBD-82A5-2B925077FA9B"
+		}
+	]
 }

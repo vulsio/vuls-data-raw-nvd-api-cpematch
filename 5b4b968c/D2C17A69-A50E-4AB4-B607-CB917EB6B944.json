@@ -4,8 +4,8 @@
 	"versionStartIncluding": "6.1.0",
 	"versionEndExcluding": "6.1.7.8",
 	"created": "2024-06-06T19:34:27.310",
-	"lastModified": "2024-06-06T19:34:27.310",
-	"cpeLastModified": "2024-06-06T19:34:27.310",
+	"lastModified": "2024-06-12T17:17:49.453",
+	"cpeLastModified": "2024-06-12T17:17:49.453",
 	"status": "Active",
 	"matches": [
 		{
@@ -71,6 +71,30 @@
 		{
 			"cpeName": "cpe:2.3:a:rubyonrails:rails:6.1.7.1:*:*:*:*:*:*:*",
 			"cpeNameId": "3CBD67F7-319B-48CB-9BC2-D25BC4344D6C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rubyonrails:rails:6.1.7.2:*:*:*:*:*:*:*",
+			"cpeNameId": "EF28DF90-04A9-4336-8638-9BC6A74B0A72"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rubyonrails:rails:6.1.7.3:*:*:*:*:*:*:*",
+			"cpeNameId": "7C7A5746-70E5-40B7-9E93-D26EC204336B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rubyonrails:rails:6.1.7.4:*:*:*:*:*:*:*",
+			"cpeNameId": "8DB46563-4EDF-497F-8822-8DE210F53AFD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rubyonrails:rails:6.1.7.5:*:*:*:*:*:*:*",
+			"cpeNameId": "70E88FC8-9375-4404-899D-4D52ECAA7B39"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rubyonrails:rails:6.1.7.6:*:*:*:*:*:*:*",
+			"cpeNameId": "03A1ADA2-3C24-43C4-8708-59104690578A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rubyonrails:rails:6.1.7.7:*:*:*:*:*:*:*",
+			"cpeNameId": "D1200CD1-AE9A-4A1B-A102-F94C3F30259B"
 		}
 	]
 }

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "4B5658AA-5223-4E63-BB1F-9584C614CBE6",
 	"versionEndExcluding": "2023.1.7",
 	"created": "2024-06-11T18:31:10.120",
-	"lastModified": "2024-06-11T18:31:10.120",
-	"cpeLastModified": "2024-06-11T18:31:10.120",
+	"lastModified": "2024-06-12T15:35:31.347",
+	"cpeLastModified": "2024-06-12T15:35:31.347",
 	"status": "Active",
 	"matches": [
 		{
@@ -134,6 +134,34 @@
 		{
 			"cpeName": "cpe:2.3:a:jetbrains:rider:2022.2:*:*:*:*:*:*:*",
 			"cpeNameId": "AAD3D23F-B165-4453-A684-953372166B2D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:rider:2023.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "118A5096-5B85-480D-B301-62F4D707DE63"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:rider:2023.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "4DEA645F-286C-4D40-A98A-BAA36CD648F8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:rider:2023.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "95A15E4E-8A1F-4548-AF2F-0F265582401B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:rider:2023.1.3:*:*:*:*:*:*:*",
+			"cpeNameId": "EDB47357-B516-4140-BD6C-2D0C00C3FBD3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:rider:2023.1.4:*:*:*:*:*:*:*",
+			"cpeNameId": "2EC5C809-1F15-4769-953C-316FA17EB1D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:rider:2023.1.5:*:*:*:*:*:*:*",
+			"cpeNameId": "F5AB102C-F51C-4C9F-AE82-AEC2F79D9A2E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:rider:2023.1.6:*:*:*:*:*:*:*",
+			"cpeNameId": "25439F3D-E199-4A88-BBD8-4A46408613C9"
 		}
 	]
 }

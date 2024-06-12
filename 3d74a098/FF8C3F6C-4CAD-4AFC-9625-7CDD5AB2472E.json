@@ -3,8 +3,8 @@
 	"matchCriteriaId": "FF8C3F6C-4CAD-4AFC-9625-7CDD5AB2472E",
 	"versionEndExcluding": "2023.1.6",
 	"created": "2024-06-11T18:31:10.120",
-	"lastModified": "2024-06-11T18:31:10.120",
-	"cpeLastModified": "2024-06-11T18:31:10.120",
+	"lastModified": "2024-06-12T15:35:31.347",
+	"cpeLastModified": "2024-06-12T15:35:31.347",
 	"status": "Active",
 	"matches": [
 		{
@@ -130,6 +130,30 @@
 		{
 			"cpeName": "cpe:2.3:a:jetbrains:goland:2021.3.1:*:*:*:*:*:*:*",
 			"cpeNameId": "7CAB7CCA-05ED-494C-B29B-D124F314EC59"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:goland:2023.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E1477283-192D-46F5-A43A-B6267D7BF975"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:goland:2023.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "69839DB2-4CF6-4545-82DE-EFD92C12DD2B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:goland:2023.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "676D9300-0F43-4B6A-B936-69C698642003"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:goland:2023.1.3:*:*:*:*:*:*:*",
+			"cpeNameId": "26981464-FC0B-4E7A-8DD0-88DCD6782818"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:goland:2023.1.4:*:*:*:*:*:*:*",
+			"cpeNameId": "D592439E-4CFF-4261-8251-D893BD0EA8C3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:goland:2023.1.5:*:*:*:*:*:*:*",
+			"cpeNameId": "8EF71FFE-B587-4843-B399-1D6DF47C296C"
 		}
 	]
 }

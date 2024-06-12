@@ -3,8 +3,8 @@
 	"matchCriteriaId": "176C4E20-B96D-4391-986F-3314663983AC",
 	"versionEndExcluding": "7.14.4",
 	"created": "2024-06-11T10:43:41.910",
-	"lastModified": "2024-06-11T10:43:41.910",
-	"cpeLastModified": "2024-06-11T10:43:41.910",
+	"lastModified": "2024-06-12T17:19:46.263",
+	"cpeLastModified": "2024-06-12T17:19:46.263",
 	"status": "Active",
 	"matches": [
 		{
@@ -850,6 +850,14 @@
 		{
 			"cpeName": "cpe:2.3:a:salesagility:suitecrm:7.14.1:*:*:*:*:*:*:*",
 			"cpeNameId": "57626DBC-CEF8-4556-8786-4424E6388D83"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salesagility:suitecrm:7.14.2:*:*:*:*:*:*:*",
+			"cpeNameId": "B35E78BE-A0D6-47B4-B8F5-A7A072EB4990"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salesagility:suitecrm:7.14.3:*:*:*:*:*:*:*",
+			"cpeNameId": "31E07960-C2EA-4B96-8EF5-050F4FE75DFD"
 		}
 	]
 }

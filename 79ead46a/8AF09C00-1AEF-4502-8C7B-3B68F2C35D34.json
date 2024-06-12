@@ -4,7 +4,7 @@
 	"versionEndIncluding": "2.0.0",
 	"created": "2024-01-18T16:53:32.270",
 	"lastModified": "2024-01-18T16:53:32.270",
-	"cpeLastModified": "2024-01-18T16:53:32.270",
+	"cpeLastModified": "2024-06-12T17:23:13.440",
 	"status": "Active",
 	"matches": [
 		{
@@ -390,6 +390,10 @@
 		{
 			"cpeName": "cpe:2.3:a:tribe29:checkmk:1.6.0p18:*:*:*:*:*:*:*",
 			"cpeNameId": "37EC2A44-3737-43E3-83C3-6F666CECF8BD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:1.6.4:*:*:*:*:*:*:*",
+			"cpeNameId": "1181EC75-1C07-4E16-9FE3-0854867D73BD"
 		},
 		{
 			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.0.0:-:*:*:*:*:*:*",

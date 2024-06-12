@@ -5,6 +5,12 @@
 	"versionEndExcluding": "2024.1.4",
 	"created": "2024-06-11T18:31:10.120",
 	"lastModified": "2024-06-11T18:31:10.120",
-	"cpeLastModified": "2024-06-11T18:31:10.120",
-	"status": "Active"
+	"cpeLastModified": "2024-06-12T15:35:31.347",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:datagrip:2024.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B12C3ABA-2D81-457C-80CD-F9EAE4D7D7D4"
+		}
+	]
 }

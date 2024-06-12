@@ -3,10 +3,14 @@
 	"matchCriteriaId": "5622884E-5303-4F87-BDDF-4390642B3841",
 	"versionEndExcluding": "1.13.1",
 	"created": "2024-06-07T18:09:34.820",
-	"lastModified": "2024-06-07T18:09:34.820",
-	"cpeLastModified": "2024-06-07T18:09:34.820",
+	"lastModified": "2024-06-12T17:58:56.477",
+	"cpeLastModified": "2024-06-12T17:58:56.477",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:formwork_project:formwork:-:*:*:*:*:*:*:*",
+			"cpeNameId": "069D4711-7C13-483E-85A8-69C0EA9CAF02"
+		},
 		{
 			"cpeName": "cpe:2.3:a:formwork_project:formwork:0.6.9:*:*:*:*:*:*:*",
 			"cpeNameId": "F6DB62D8-6A29-45C9-A7EF-CAB71D19D08F"
@@ -246,6 +250,10 @@
 		{
 			"cpeName": "cpe:2.3:a:formwork_project:formwork:1.12.1:*:*:*:*:*:*:*",
 			"cpeNameId": "982C9A00-8B44-4239-8A5D-F3349F9CF9B3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:formwork_project:formwork:1.13.0:*:*:*:*:*:*:*",
+			"cpeNameId": "DD2D1A15-09B0-4156-88CB-3A8BC9467D57"
 		}
 	]
 }

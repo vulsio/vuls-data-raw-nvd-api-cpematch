@@ -4,8 +4,8 @@
 	"versionStartIncluding": "8.0.0",
 	"versionEndExcluding": "8.6.1",
 	"created": "2024-06-11T10:43:41.910",
-	"lastModified": "2024-06-11T10:43:41.910",
-	"cpeLastModified": "2024-06-11T10:43:41.910",
+	"lastModified": "2024-06-12T17:19:46.263",
+	"cpeLastModified": "2024-06-12T17:19:46.263",
 	"status": "Active",
 	"matches": [
 		{
@@ -91,6 +91,10 @@
 		{
 			"cpeName": "cpe:2.3:a:salesagility:suitecrm:8.4.1:*:*:*:*:*:*:*",
 			"cpeNameId": "D273ECB6-E2CE-4CAF-83A4-3639442804B5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salesagility:suitecrm:8.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "4C1D0F18-0F42-4DD5-A080-457EBD2B922A"
 		}
 	]
 }

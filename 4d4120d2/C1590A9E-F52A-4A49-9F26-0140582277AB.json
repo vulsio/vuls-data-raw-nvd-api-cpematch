@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2023.3.2",
 	"created": "2023-12-27T13:16:42.050",
 	"lastModified": "2023-12-29T10:15:30.570",
-	"cpeLastModified": "2023-12-27T13:16:42.050",
+	"cpeLastModified": "2024-06-12T15:35:31.347",
 	"status": "Active",
 	"matches": [
 		{
@@ -610,6 +610,78 @@
 		{
 			"cpeName": "cpe:2.3:a:jetbrains:intellij_idea:2022.3.1:*:*:*:*:*:*:*",
 			"cpeNameId": "805632C8-AEA5-4FDE-BFB1-877A2CD9AC7F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:intellij_idea:2023.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "AE9FE7F3-A672-4CDC-9759-C62EF110F3D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:intellij_idea:2023.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "F0148625-CB05-4959-8CD6-05A58BE2D12D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:intellij_idea:2023.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "7CC9EDA9-8EE5-4551-A2FB-56A9E8282B58"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:intellij_idea:2023.1.3:*:*:*:*:*:*:*",
+			"cpeNameId": "2F4EEE21-F6D0-41E9-AC02-E2435BAC6E60"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:intellij_idea:2023.1.4:*:*:*:*:*:*:*",
+			"cpeNameId": "272ACCFF-2167-48C5-8EC4-0BE759B2F2BA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:intellij_idea:2023.1.5:*:*:*:*:*:*:*",
+			"cpeNameId": "81101540-6F25-428C-B3C8-22C59DE4BB0C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:intellij_idea:2023.1.6:*:*:*:*:*:*:*",
+			"cpeNameId": "8511AE6E-0F80-4874-8F54-D26C99531E3C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:intellij_idea:2023.1.7:*:*:*:*:*:*:*",
+			"cpeNameId": "B8B000FF-8D74-4739-B831-4D93F5899AF2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:intellij_idea:2023.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B8F3828C-9C33-417D-958A-51D1C076132D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:intellij_idea:2023.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "5A8613FB-DCBD-4482-9E0B-9A275B64A84B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:intellij_idea:2023.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "C2E240CF-D33E-49B1-A7BF-812297F22114"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:intellij_idea:2023.2.3:*:*:*:*:*:*:*",
+			"cpeNameId": "39AB522A-2752-4F85-9A52-E64FE90D2D98"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:intellij_idea:2023.2.4:*:*:*:*:*:*:*",
+			"cpeNameId": "8775CEAD-BD01-4215-B77A-D7B034577226"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:intellij_idea:2023.2.5:*:*:*:*:*:*:*",
+			"cpeNameId": "E5010FA5-54BB-4529-90DA-667405D30553"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:intellij_idea:2023.2.6:*:*:*:*:*:*:*",
+			"cpeNameId": "1881743A-4842-4DF6-882B-B474D5D62785"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:intellij_idea:2023.2.7:*:*:*:*:*:*:*",
+			"cpeNameId": "D0436D33-6C72-426C-B40D-100CADA94F20"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:intellij_idea:2023.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "396521FC-2505-4C18-B165-98FE97F6943A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:intellij_idea:2023.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "C757C86F-BA3D-453F-A643-C9853885B84B"
 		}
 	]
 }
