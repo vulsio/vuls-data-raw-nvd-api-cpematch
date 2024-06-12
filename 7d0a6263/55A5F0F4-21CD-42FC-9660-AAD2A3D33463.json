@@ -3,10 +3,14 @@
 	"matchCriteriaId": "55A5F0F4-21CD-42FC-9660-AAD2A3D33463",
 	"versionEndIncluding": "2.1.6",
 	"created": "2023-10-31T17:19:16.723",
-	"lastModified": "2023-10-31T17:19:16.723",
-	"cpeLastModified": "2023-11-01T12:32:56.770",
+	"lastModified": "2024-06-12T12:34:21.190",
+	"cpeLastModified": "2024-06-12T12:34:21.190",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wpdevart:contact_form_builder:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F91A7CB7-87DD-4228-9EF2-3332217A9F5E"
+		},
 		{
 			"cpeName": "cpe:2.3:a:wpdevart:contact_form_builder:2.1.6:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "1377DE0B-0539-4C28-AA03-A666E568E099"

@@ -4,9 +4,13 @@
 	"versionEndExcluding": "3.4.8.3",
 	"created": "2022-01-04T18:03:54.717",
 	"lastModified": "2022-01-04T18:03:54.717",
-	"cpeLastModified": "2022-01-06T17:42:05.193",
+	"cpeLastModified": "2024-06-12T11:57:05.910",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:tickera:tickera:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "34D196DD-3F0E-46C6-AADE-0FCB5E3380EB"
+		},
 		{
 			"cpeName": "cpe:2.3:a:tickera:tickera:3.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "FB7A9131-870E-4B3F-8A7A-6DF2014ED634"

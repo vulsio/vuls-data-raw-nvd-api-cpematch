@@ -3,10 +3,14 @@
 	"matchCriteriaId": "41C6F947-37BF-40DB-9E66-B45434F7F723",
 	"versionEndExcluding": "1.0.6",
 	"created": "2024-06-11T15:11:05.553",
-	"lastModified": "2024-06-11T15:11:05.553",
-	"cpeLastModified": "2024-06-11T15:11:05.553",
+	"lastModified": "2024-06-12T12:34:21.190",
+	"cpeLastModified": "2024-06-12T12:34:21.190",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:meowapps:database_cleaner:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "75511412-513D-493C-982E-8F0BDD8D1C0F"
+		},
 		{
 			"cpeName": "cpe:2.3:a:meowapps:database_cleaner:0.0.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "E43C5367-8104-42AC-ACE7-46B0E87E1AB7"
@@ -302,6 +306,14 @@
 		{
 			"cpeName": "cpe:2.3:a:meowapps:database_cleaner:1.0.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "5957638D-33B1-4D49-8F52-14EDE4A65504"
+		},
+		{
+			"cpeName": "cpe:2.3:a:meowapps:database_cleaner:1.0.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EB6EBA16-91A4-4F45-9061-B54E0511C033"
+		},
+		{
+			"cpeName": "cpe:2.3:a:meowapps:database_cleaner:1.0.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "15608E1D-84E6-4D4A-B6B8-E724CACCA6DD"
 		}
 	]
 }

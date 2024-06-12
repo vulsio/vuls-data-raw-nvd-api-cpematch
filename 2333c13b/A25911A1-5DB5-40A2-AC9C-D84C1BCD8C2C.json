@@ -4,9 +4,13 @@
 	"versionEndIncluding": "4.3.0",
 	"created": "2024-01-06T17:04:32.130",
 	"lastModified": "2024-02-03T01:39:22.613",
-	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-06-12T11:59:48.560",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:yithemes:yith_woocommerce_product_add-ons:-:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "7DE4A64B-F2D6-4E50-8603-F1E7C7EEC55D"
+		},
 		{
 			"cpeName": "cpe:2.3:a:yithemes:yith_woocommerce_product_add-ons:1.0.0:*:*:*:free:wordpress:*:*",
 			"cpeNameId": "E7F10C0D-3E73-4016-8674-7ACEFAE6F601"

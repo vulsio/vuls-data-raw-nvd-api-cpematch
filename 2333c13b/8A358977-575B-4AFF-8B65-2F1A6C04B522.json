@@ -3,10 +3,14 @@
 	"matchCriteriaId": "8A358977-575B-4AFF-8B65-2F1A6C04B522",
 	"versionEndExcluding": "4.9.3",
 	"created": "2024-06-11T15:03:39.117",
-	"lastModified": "2024-06-11T15:03:39.117",
-	"cpeLastModified": "2024-06-11T15:03:39.117",
+	"lastModified": "2024-06-12T11:59:48.560",
+	"cpeLastModified": "2024-06-12T11:59:48.560",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:yithemes:yith_woocommerce_product_add-ons:-:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "7DE4A64B-F2D6-4E50-8603-F1E7C7EEC55D"
+		},
 		{
 			"cpeName": "cpe:2.3:a:yithemes:yith_woocommerce_product_add-ons:1.0.0:*:*:*:free:wordpress:*:*",
 			"cpeNameId": "E7F10C0D-3E73-4016-8674-7ACEFAE6F601"
@@ -294,6 +298,46 @@
 		{
 			"cpeName": "cpe:2.3:a:yithemes:yith_woocommerce_product_add-ons:4.3.0:*:*:*:free:wordpress:*:*",
 			"cpeNameId": "94FC182F-2950-4F69-8B41-021C419BB2C5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:yithemes:yith_woocommerce_product_add-ons:4.4.0:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "AFAF5B62-D02C-4AD5-A1F3-68A576671B43"
+		},
+		{
+			"cpeName": "cpe:2.3:a:yithemes:yith_woocommerce_product_add-ons:4.4.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "5F9E4908-BEC3-4131-9661-FC5EA372988D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:yithemes:yith_woocommerce_product_add-ons:4.5.0:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "3F79B3FE-4520-42A6-80B3-4C88DCE6D837"
+		},
+		{
+			"cpeName": "cpe:2.3:a:yithemes:yith_woocommerce_product_add-ons:4.6.0:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "A760CA25-7330-43AA-B659-CA8EBC74D77F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:yithemes:yith_woocommerce_product_add-ons:4.7.0:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "A4FB72C0-ABB1-40CA-A74A-11AC0D094479"
+		},
+		{
+			"cpeName": "cpe:2.3:a:yithemes:yith_woocommerce_product_add-ons:4.7.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "74F48760-1602-41D1-A0A1-249AA99A51D0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:yithemes:yith_woocommerce_product_add-ons:4.8.0:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "A6B465D4-F322-4986-B1AD-1A8C1E9787A5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:yithemes:yith_woocommerce_product_add-ons:4.9.0:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "F33380B7-A5D0-49FF-AD27-E47A038CC310"
+		},
+		{
+			"cpeName": "cpe:2.3:a:yithemes:yith_woocommerce_product_add-ons:4.9.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "CF9FC25D-FD5E-42BB-B55C-86768776CD6E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:yithemes:yith_woocommerce_product_add-ons:4.9.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "B05DC808-A5FD-4B5B-9B87-1A00EC8459FF"
 		}
 	]
 }

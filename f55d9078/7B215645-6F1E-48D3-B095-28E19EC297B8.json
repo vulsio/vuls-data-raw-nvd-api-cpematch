@@ -4,9 +4,13 @@
 	"versionEndExcluding": "1.8.0",
 	"created": "2022-11-29T18:53:20.827",
 	"lastModified": "2022-11-29T19:00:07.110",
-	"cpeLastModified": "2022-11-29T19:00:07.110",
+	"cpeLastModified": "2024-06-12T12:34:21.190",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:themehigh:checkout_field_editor_for_woocommerce:-:*:*:*:pro:wordpress:*:*",
+			"cpeNameId": "1CB859AE-AA7A-4C99-AF56-E6E2BA13588E"
+		},
 		{
 			"cpeName": "cpe:2.3:a:themehigh:checkout_field_editor_for_woocommerce:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "9A189BEF-1F28-44C7-B7AF-1A24FBE76BD3"

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "E4BB03F8-53F2-4B1A-A5D2-87EF74C7DD59",
 	"versionEndExcluding": "1.2.12",
 	"created": "2024-06-10T18:46:38.927",
-	"lastModified": "2024-06-10T18:46:38.927",
-	"cpeLastModified": "2024-06-10T18:46:38.927",
+	"lastModified": "2024-06-12T12:34:21.190",
+	"cpeLastModified": "2024-06-12T12:34:21.190",
 	"status": "Active",
 	"matches": [
 		{
@@ -358,6 +358,42 @@
 		{
 			"cpeName": "cpe:2.3:a:codepeople:wp_time_slots_booking_form:1.2.02:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "8963E9B2-9887-463A-87C3-F38F7F033BC3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:codepeople:wp_time_slots_booking_form:1.2.03:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "39ACEC43-186A-40D8-A356-18DF6EB4D0F7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:codepeople:wp_time_slots_booking_form:1.2.04:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5799F4F8-E111-47B7-8C5D-F10272FECE2A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:codepeople:wp_time_slots_booking_form:1.2.05:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CBDAB07F-1031-4E51-AAC1-4902743AE381"
+		},
+		{
+			"cpeName": "cpe:2.3:a:codepeople:wp_time_slots_booking_form:1.2.06:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "329EF851-0AD5-400B-A9A5-4B176E87BCB1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:codepeople:wp_time_slots_booking_form:1.2.07:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7FF05099-3730-46EA-873A-79C17D4A1287"
+		},
+		{
+			"cpeName": "cpe:2.3:a:codepeople:wp_time_slots_booking_form:1.2.08:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DB4BEF87-16AC-4469-BFAA-CCF38668A0D7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:codepeople:wp_time_slots_booking_form:1.2.09:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4CAB531F-FA38-43F7-AA0D-6BFCADEA6ED5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:codepeople:wp_time_slots_booking_form:1.2.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FEF1D759-8EC4-4DE0-88BF-234171098EF2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:codepeople:wp_time_slots_booking_form:1.2.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "24CA9B14-81F7-4B2B-8BF1-58C439305F24"
 		}
 	]
 }
