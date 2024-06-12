@@ -1,0 +1,16 @@
+{
+	"criteria": "cpe:2.3:a:jetbrains:rider:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D5525193-53E0-42B5-87CD-DDABBFBCBD99",
+	"versionStartIncluding": "2023.3.0",
+	"versionEndExcluding": "2023.3.6",
+	"created": "2024-06-11T18:31:10.120",
+	"lastModified": "2024-06-11T18:31:10.120",
+	"cpeLastModified": "2024-06-11T18:31:10.120",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:rider:2023.3.3:*:*:*:*:*:*:*",
+			"cpeNameId": "1B838975-196B-4612-9B4C-3B0A6E814ED1"
+		}
+	]
+}

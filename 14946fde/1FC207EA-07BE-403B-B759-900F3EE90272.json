@@ -1,0 +1,23 @@
+{
+	"criteria": "cpe:2.3:a:jetbrains:phpstorm:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "1FC207EA-07BE-403B-B759-900F3EE90272",
+	"versionEndExcluding": "2023.1.6",
+	"created": "2024-06-11T18:31:10.120",
+	"lastModified": "2024-06-11T18:31:10.120",
+	"cpeLastModified": "2024-06-11T18:31:10.120",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:phpstorm:2021.3.1:preview:*:*:*:*:*:*",
+			"cpeNameId": "EFD5F349-AFBD-4311-BC6A-18146C56A333"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:phpstorm:2021.3.1:rc:*:*:*:*:*:*",
+			"cpeNameId": "5FA40AB1-B03D-496B-943E-7661130779B0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:phpstorm:2023.1:*:*:*:*:*:*:*",
+			"cpeNameId": "FC79631C-9953-4C2A-A5E4-B8C39B70489F"
+		}
+	]
+}

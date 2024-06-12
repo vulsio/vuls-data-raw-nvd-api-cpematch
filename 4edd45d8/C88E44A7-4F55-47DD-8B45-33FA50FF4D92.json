@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:a:jetbrains:rubymine:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C88E44A7-4F55-47DD-8B45-33FA50FF4D92",
+	"versionEndExcluding": "2023.1.7",
+	"created": "2024-06-11T18:31:10.120",
+	"lastModified": "2024-06-11T18:31:10.120",
+	"cpeLastModified": "2024-06-11T18:31:10.120",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:rubymine:2021.3.1:preview:*:*:*:*:*:*",
+			"cpeNameId": "C36D2CF0-BB4D-4FCA-93C0-0C23F8E47FC2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:rubymine:2021.3.1:rc:*:*:*:*:*:*",
+			"cpeNameId": "B1705989-0BC3-4A9D-A2D4-6BA65A9C1C20"
+		}
+	]
+}
