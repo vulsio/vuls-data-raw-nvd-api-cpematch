@@ -1,0 +1,27 @@
+{
+	"criteria": "cpe:2.3:a:adobe:audition:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "D9D21AFC-FF83-4046-ABC5-A5644F399B0B",
+	"versionEndIncluding": "23.6.4",
+	"created": "2024-06-14T14:31:51.627",
+	"lastModified": "2024-06-14T14:31:51.627",
+	"cpeLastModified": "2024-06-14T14:31:51.627",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:adobe:audition:13.0.5:*:*:*:*:*:*:*",
+			"cpeNameId": "896CA761-C615-4671-8CBB-ECB91D17459A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:audition:13.0.6:*:*:*:*:*:*:*",
+			"cpeNameId": "761A8271-BBA9-4C00-BC5D-33D23A036A3F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:audition:14.4:*:*:*:*:*:*:*",
+			"cpeNameId": "80C59506-5E6A-4998-835C-28C967065902"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:audition:22.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F4D3A0D9-FCCB-447F-9E09-A7E801BDFA29"
+		}
+	]
+}

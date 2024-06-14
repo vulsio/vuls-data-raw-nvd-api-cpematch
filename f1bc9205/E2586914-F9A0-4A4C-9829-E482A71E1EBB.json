@@ -1,0 +1,23 @@
+{
+	"criteria": "cpe:2.3:a:salephpscripts:web_directory_free:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "E2586914-F9A0-4A4C-9829-E482A71E1EBB",
+	"versionEndExcluding": "1.7.0",
+	"created": "2024-06-14T15:52:10.347",
+	"lastModified": "2024-06-14T15:52:10.347",
+	"cpeLastModified": "2024-06-14T15:52:10.347",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:salephpscripts:web_directory_free:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9ADD7319-EB26-4537-B0C6-7E3531CB1E86"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salephpscripts:web_directory_free:1.6.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FC57F50F-3782-43B0-B887-AB88FD880F26"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salephpscripts:web_directory_free:1.6.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C0226599-30BE-40AE-B302-0D1CA150B72B"
+		}
+	]
+}
