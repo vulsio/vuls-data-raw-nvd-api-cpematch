@@ -4,9 +4,13 @@
 	"versionEndIncluding": "14.4",
 	"created": "2021-12-22T18:31:17.870",
 	"lastModified": "2021-12-22T18:31:17.870",
-	"cpeLastModified": "2022-03-22T17:50:50.443",
+	"cpeLastModified": "2024-06-17T12:49:25.343",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:adobe:audition:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1E9AC55D-73FF-48E1-9DDC-13385B5DB66E"
+		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:audition:13.0.5:*:*:*:*:*:*:*",
 			"cpeNameId": "896CA761-C615-4671-8CBB-ECB91D17459A"

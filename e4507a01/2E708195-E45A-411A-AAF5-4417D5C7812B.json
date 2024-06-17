@@ -3,7 +3,7 @@
 	"matchCriteriaId": "2E708195-E45A-411A-AAF5-4417D5C7812B",
 	"created": "2020-12-15T16:03:03.040",
 	"lastModified": "2020-12-15T16:03:03.040",
-	"cpeLastModified": "2023-12-11T19:31:55.350",
+	"cpeLastModified": "2024-06-17T12:57:17.453",
 	"status": "Active",
 	"matches": [
 		{
@@ -1153,6 +1153,50 @@
 		{
 			"cpeName": "cpe:2.3:a:golang:go:1.21.5:*:*:*:*:*:*:*",
 			"cpeNameId": "8206298C-899C-43B3-A0C2-3305F0DA06A1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:golang:go:1.21.6:*:*:*:*:*:*:*",
+			"cpeNameId": "AEA3EFCA-7260-46BC-8485-02C7ACF74335"
+		},
+		{
+			"cpeName": "cpe:2.3:a:golang:go:1.21.7:*:*:*:*:*:*:*",
+			"cpeNameId": "17181E16-B3B4-4E95-B62D-E49B0D306FE4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:golang:go:1.21.8:*:*:*:*:*:*:*",
+			"cpeNameId": "B4548144-14D6-4544-A9CF-FDEBE203F246"
+		},
+		{
+			"cpeName": "cpe:2.3:a:golang:go:1.21.9:*:*:*:*:*:*:*",
+			"cpeNameId": "108F4A2C-B3F3-4CC7-8C66-4E6184E079D5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:golang:go:1.21.10:*:*:*:*:*:*:*",
+			"cpeNameId": "1D8A9AB6-CA8D-4242-979B-39C4F925E61D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:golang:go:1.21.11:*:*:*:*:*:*:*",
+			"cpeNameId": "BF96B82F-6575-4CE4-AAFF-F1A404270812"
+		},
+		{
+			"cpeName": "cpe:2.3:a:golang:go:1.22.0:*:*:*:*:*:*:*",
+			"cpeNameId": "36568310-0480-492C-BD35-B9AC54E90C4C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:golang:go:1.22.1:*:*:*:*:*:*:*",
+			"cpeNameId": "8DA73BB0-60FE-462C-B665-34516772349B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:golang:go:1.22.2:*:*:*:*:*:*:*",
+			"cpeNameId": "FF865C3A-CD78-4ED3-B3AC-1C4F6FA0AFF5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:golang:go:1.22.3:*:*:*:*:*:*:*",
+			"cpeNameId": "CBDADCF7-73BA-4AB0-9450-AA93A54B66E2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:golang:go:1.22.4:*:*:*:*:*:*:*",
+			"cpeNameId": "120CDE0E-6603-4D4A-8457-E9EDAB9982E7"
 		},
 		{
 			"cpeName": "cpe:2.3:a:golang:go:2018-07-13:*:*:*:*:*:*:*",

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "7A191F39-17BE-4051-A445-E60525659377",
 	"versionEndExcluding": "1.21.11",
 	"created": "2024-06-13T14:42:01.627",
-	"lastModified": "2024-06-13T14:42:01.627",
-	"cpeLastModified": "2024-06-13T14:42:01.627",
+	"lastModified": "2024-06-17T12:57:17.453",
+	"cpeLastModified": "2024-06-17T12:57:17.453",
 	"status": "Active",
 	"matches": [
 		{
@@ -1154,6 +1154,26 @@
 		{
 			"cpeName": "cpe:2.3:a:golang:go:1.21.5:*:*:*:*:*:*:*",
 			"cpeNameId": "8206298C-899C-43B3-A0C2-3305F0DA06A1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:golang:go:1.21.6:*:*:*:*:*:*:*",
+			"cpeNameId": "AEA3EFCA-7260-46BC-8485-02C7ACF74335"
+		},
+		{
+			"cpeName": "cpe:2.3:a:golang:go:1.21.7:*:*:*:*:*:*:*",
+			"cpeNameId": "17181E16-B3B4-4E95-B62D-E49B0D306FE4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:golang:go:1.21.8:*:*:*:*:*:*:*",
+			"cpeNameId": "B4548144-14D6-4544-A9CF-FDEBE203F246"
+		},
+		{
+			"cpeName": "cpe:2.3:a:golang:go:1.21.9:*:*:*:*:*:*:*",
+			"cpeNameId": "108F4A2C-B3F3-4CC7-8C66-4E6184E079D5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:golang:go:1.21.10:*:*:*:*:*:*:*",
+			"cpeNameId": "1D8A9AB6-CA8D-4242-979B-39C4F925E61D"
 		}
 	]
 }
