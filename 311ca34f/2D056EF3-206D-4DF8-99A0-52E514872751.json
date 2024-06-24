@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:a:uxthemes:flatsome:*:*:*:*:*:wordpress:*:*",
+	"matchCriteriaId": "2D056EF3-206D-4DF8-99A0-52E514872751",
+	"versionEndExcluding": "3.19.0",
+	"created": "2024-06-24T16:12:40.690",
+	"lastModified": "2024-06-24T16:12:40.690",
+	"cpeLastModified": "2024-06-24T16:12:40.690",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:uxthemes:flatsome:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3C3117E6-2A7F-46B6-A39D-00F529BD0A8A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:uxthemes:flatsome:3.17.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2F554322-D915-48CE-B0C1-E405D74C45C7"
+		}
+	]
+}
