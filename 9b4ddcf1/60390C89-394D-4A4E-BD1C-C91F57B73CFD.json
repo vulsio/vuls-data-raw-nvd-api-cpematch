@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:a:opencart:opencart:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "60390C89-394D-4A4E-BD1C-C91F57B73CFD",
+	"versionStartIncluding": "4.0.0.0",
+	"created": "2024-06-24T19:49:40.710",
+	"lastModified": "2024-06-24T19:58:16.943",
+	"cpeLastModified": "2024-06-24T19:49:40.710",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:opencart:opencart:4.0.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "38733DBC-992D-4225-B887-9B50F4CEE3B6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:opencart:opencart:4.0.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "7C9A2DED-54DF-4A5C-8AD8-E401F307428F"
+		}
+	]
+}
