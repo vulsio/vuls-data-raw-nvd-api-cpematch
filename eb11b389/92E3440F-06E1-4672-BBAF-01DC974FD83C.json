@@ -3,10 +3,14 @@
 	"matchCriteriaId": "92E3440F-06E1-4672-BBAF-01DC974FD83C",
 	"versionEndExcluding": "4.4.5",
 	"created": "2024-06-24T15:57:39.410",
-	"lastModified": "2024-06-24T15:57:39.410",
-	"cpeLastModified": "2024-06-24T15:57:39.410",
+	"lastModified": "2024-06-25T15:57:39.970",
+	"cpeLastModified": "2024-06-25T15:57:39.970",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "435A58C4-1FEA-4C3A-AB87-CADAB0864430"
+		},
 		{
 			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:0.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "3FA23A24-35BD-4C4D-91FE-C9DD815D58B2"
@@ -3918,6 +3922,326 @@
 		{
 			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:3.8.67:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "6AB26697-3F2D-407F-B259-08290F18C9E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:3.8.68:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "34805FE8-4C17-45B0-BB91-41CE9100FC92"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4035074F-DB09-4B1B-ADB0-FDEC23516F02"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "17867B61-8512-41CB-93D0-E996F260201C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4A7F94AE-788A-4F62-95B0-B7B641AC3849"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A6A4049F-CB5F-4A6D-B95A-D55DF2AD78DD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "73873EFE-BFEB-4A54-B3DE-3F2481FAF573"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "58B7F93A-FCD2-4656-9FD4-2789AE285E14"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FFF50977-8787-4B3E-AD57-456FFC6A62BA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "25B4ED0C-EA7E-4125-BFDE-C387CCA2887C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8E23FC13-43A1-4287-BD34-96BB531386E6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "104B8807-EF94-46A8-AB6D-09C17518D0E2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9EE569C8-5242-47A7-B4D4-652E2C4CD74A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2318FA66-DFE8-4365-AC82-ED8671F67A36"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "18DDD1DA-4BBB-4E4D-8E36-C14AD3A261E1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.13:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "00CC2E25-B2AF-401F-AC85-9E90FFD3C20E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.14:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8E5B35D4-3E12-428C-9C9B-118D4A65E136"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.15:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "629E1B7D-7CBB-4E18-9D48-5F0337A5BAFE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.16:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EC055C43-8BBD-4D39-912F-EBED8A1BD412"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.17:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "34A63112-1BB8-463C-BF84-E5C111B6BFCC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.18:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E5F447BB-4C9E-4F74-975C-42B6B5CB0F8E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.19:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4D114E39-5D65-4780-A3F8-37ECD4EA4F69"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.20:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BB881E1B-3AAF-4959-9B86-C1704912D542"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.21:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2FB469D7-E52A-4B36-B34E-99022F47D29D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.22:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C70EBD18-A376-470C-84C0-B77DE083B2B3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.23:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C2B8F070-A695-42B8-BA35-399AC8C0D847"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.24:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "659E04DD-C6F7-421E-BFA5-7A4137754ADE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.25:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DCCC8B04-440C-4B83-A5E3-12ECBF3BF74A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.26:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "35E0EE50-24B1-4383-A5A5-B616A9C3BC2E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.27:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DD7C686E-E583-42FB-9EB4-CCF76AFF9F53"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.28:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EC96AEA7-FB94-41F5-A932-355610220678"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.29:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BC6C73C7-5CB5-4809-AC6C-1D66424C55B8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.30:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "56FBD950-081A-467C-A33F-B4FF8B6458D1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.31:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "022FCC6B-DF04-4319-98EA-12B37DAD3B9C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.32:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "806AE42F-814B-4E0B-B877-AE910A6C9663"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.0.33:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FE676ECA-9917-446A-BBD7-986388A4FE4F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0860BEAA-7EDD-4B31-9614-F0582EDD7C39"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D899BDDB-D72A-40DD-8264-91A8D7554CA6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CE0225CA-A7F4-4151-8277-49A02AAADFE0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5DE0D730-BB83-48D6-92D7-8BEE89717179"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1CBB0D4E-3EA0-44EA-8A03-E5A57ED9AFD6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D7875E52-345C-477D-A527-075360EC26DA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FCBEBED6-CB1E-4E88-8CC0-F7E4FD4C3219"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D8834F56-68AC-4F72-A69E-A078656CF46F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "64F3372C-B3A5-4664-86A8-165092269556"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7A4A104F-F921-4BFE-B68A-C9F317BEB88B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1872266D-16DB-45FE-8C71-77422376A61A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CBC36CAE-E721-4BCD-AAB6-8549CDA5EEF8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.13:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "55484250-53DF-42CA-B424-ADBD3A503E16"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.14:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "20D468AD-2E95-493F-826C-9C864722197E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.15:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6794C0A0-D030-4829-ACA2-8C5EFD74D1E1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.16:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "947B2805-F174-45B3-9933-74A5567E4229"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.17:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "853FA826-589B-4FA3-BCD9-BDE201D53CA9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.18:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "38306E59-CA19-4BA2-A4A8-D8AD15053C17"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.19:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F8E77981-7AB8-4002-923C-254319D0C398"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.20:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F82C1F51-3B4B-411D-9975-92181A94A1C7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.21:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3A65CDC3-9387-4118-AEC1-476E749DCE44"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.22:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "595D7C7C-007B-467E-9BAF-B91AD532B1A7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.23:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F6543517-D754-4F79-A7AC-0A3B36005203"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.24:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "594919FF-91DB-4F5C-9C34-FFA02F34E4A1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.25:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B0F0568C-3FC3-46DD-A297-C65209828406"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.26:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7C83658D-D9FD-4928-B16D-3C512A0F982D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.27:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "42CCECE7-1044-4027-B863-E92136F3DE3B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.28:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D6963400-990A-4A9B-AEF8-B0282D6803B9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.29:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F8DB8892-1061-4481-B0B2-DF6732FCD5A4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.30:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "873DD92A-7833-41A5-9745-4EFF4BE728E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.31:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F5153A95-CA4E-481E-B41F-476C7FE9CA7B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.32:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6692B81C-14D7-4F3C-AFF8-CCD48C56E55A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.1.33:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "76943258-0913-44C1-A4DB-9C0994EBDCF7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6EB29597-7F11-462A-81C1-01ABEB3ED507"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "90787EF2-9AE5-4240-B26E-3E0CA916B92E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.2.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4EEE1489-4BEC-45DA-99CD-FA71F1A42F18"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.2.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "32C23EF9-61AF-4F3C-BBA7-5D3BC09122E2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.2.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "48EAD2B2-47E3-4F7C-AF6C-6889CAE7E115"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.3.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A36BDD26-136A-4190-839E-B967A639B0B3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.3.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "751681C2-8600-446B-A7EF-5E821A36B477"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.4.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AE7A8B62-FA84-42DE-9D5F-B4485F4592FD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.4.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D0D6803C-21FD-410D-9F90-F779632224A1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.4.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EF575E15-BE5A-461F-8097-52F740140502"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.4.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7D006B9C-2C83-4A0D-864D-C0BF4430076B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:church_admin_project:church_admin:4.4.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CB04B261-77EB-4C2E-AE59-C3C3FFF33B4F"
 		}
 	]
 }

@@ -4,9 +4,13 @@
 	"versionEndIncluding": "6.18.0",
 	"created": "2022-01-24T12:03:34.060",
 	"lastModified": "2022-01-24T12:03:34.060",
-	"cpeLastModified": "2022-01-24T18:14:46.627",
+	"cpeLastModified": "2024-06-25T16:49:43.417",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ericsson:codechecker:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0977E49B-01BD-4860-8EC1-76E9E6F85A5C"
+		},
 		{
 			"cpeName": "cpe:2.3:a:ericsson:codechecker:4.0:*:*:*:*:*:*:*",
 			"cpeNameId": "2C579909-EDB1-4E4A-A811-1A214564CCB9"

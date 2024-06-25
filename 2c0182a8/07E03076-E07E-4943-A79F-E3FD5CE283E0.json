@@ -3,10 +3,14 @@
 	"matchCriteriaId": "07E03076-E07E-4943-A79F-E3FD5CE283E0",
 	"versionEndExcluding": "1.9.9",
 	"created": "2024-06-24T18:18:41.187",
-	"lastModified": "2024-06-24T18:18:41.187",
-	"cpeLastModified": "2024-06-24T18:18:41.187",
+	"lastModified": "2024-06-25T17:21:25.673",
+	"cpeLastModified": "2024-06-25T17:21:25.673",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4CEBB858-1073-4C93-B55B-9E46F90F9B97"
+		},
 		{
 			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "E1127D67-9806-484E-9E29-3341854F672F"
@@ -98,6 +102,110 @@
 		{
 			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.5.7:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "C6E7BC65-030A-4385-A7CE-C275E0163599"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F66889DB-07E9-4B22-9C73-48C3DCD79F45"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.6.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E73932A3-3660-43EB-B54D-351D0A1538F5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.6.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "08F785C6-7DAE-4E3C-8868-709D7032EAB2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2D1A4BA7-3438-4113-8F02-4476CB9E2FC8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.7.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8D9B4FF5-EE78-49EB-B0EB-F6B4CDD5F266"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.7.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FE047F82-F018-4D28-B665-CB56733493CC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.7.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4E5789E8-0BEE-4CEE-94D7-4088FF7D3757"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EC3D341C-9DEE-4F84-A4C5-D0FE64F6821C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.8.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C460713F-0D67-4EFD-97E4-33760E9BE9D7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.8.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "045206F5-E663-4708-B9E7-FEEA9C97558D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.8.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EF9E4E03-3E3C-48AB-8AC1-F89658E47B28"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.8.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3AD38D01-1CB9-4091-9BDC-63AAE1AAD04F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.8.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "40C2F0D5-3B6D-4673-96C9-C41F5DB854B3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.8.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4178DFB2-8C07-4B9B-9FF4-E4317A3C3465"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "43DE3DEB-2EEF-4F01-821D-E393E1899664"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.9.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7C5CDC3D-90C6-4742-9DBD-4574D3D24361"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.9.1.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A218E6BE-A8C0-46BF-BF56-40F7B018D5D5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.9.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DB4232C6-AD6D-4688-902E-97B7FEAEBAB6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.9.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9DD7D376-7526-486D-8C76-3D9A349170D0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.9.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8F51F4A5-B3D5-492E-BCEE-F1C307070759"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.9.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EB3C3BF5-A436-4A88-9DAC-C084A7D4971A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.9.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4D0C1584-B029-46D9-A4E5-2C2CEBCCE9FA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.9.6.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E5124C28-F174-4FF0-BFF2-7307E805B2F7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.9.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4F47A871-2837-4034-BBD4-2AA5864CA9F9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.9.7.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A486C774-0446-411A-8F83-BFFBD1571AE5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.9.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "543351DF-8B77-4241-9BED-9BE03861E0B2"
 		}
 	]
 }
