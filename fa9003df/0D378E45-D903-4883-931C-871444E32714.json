@@ -3,8 +3,8 @@
 	"matchCriteriaId": "0D378E45-D903-4883-931C-871444E32714",
 	"versionEndExcluding": "24.06.0",
 	"created": "2024-06-24T17:35:07.223",
-	"lastModified": "2024-06-24T17:35:07.223",
-	"cpeLastModified": "2024-06-24T17:35:07.223",
+	"lastModified": "2024-06-26T13:59:57.280",
+	"cpeLastModified": "2024-06-26T13:59:57.280",
 	"status": "Active",
 	"matches": [
 		{
@@ -922,6 +922,42 @@
 		{
 			"cpeName": "cpe:2.3:a:freedesktop:poppler:23.08.0:*:*:*:*:*:*:*",
 			"cpeNameId": "3CDC026B-189F-45A4-9B26-A6EEAFF44BED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freedesktop:poppler:23.09.0:*:*:*:*:*:*:*",
+			"cpeNameId": "7B7358A1-4522-4985-9027-977627CBCA67"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freedesktop:poppler:23.10.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A88F8C15-4EF4-42B7-B3E1-F9E07BD937F4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freedesktop:poppler:23.11.0:*:*:*:*:*:*:*",
+			"cpeNameId": "355F8C74-6765-44A4-90CC-C6C839323B94"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freedesktop:poppler:23.12.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B20D1DAC-25E5-40AA-969C-0B47F02CDEA8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freedesktop:poppler:24.01.0:*:*:*:*:*:*:*",
+			"cpeNameId": "ACD1E4E1-F5C6-4139-9714-26AAEC8CD050"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freedesktop:poppler:24.02.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D2654636-553B-47CC-9775-E94F84B5FDD1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freedesktop:poppler:24.03.0:*:*:*:*:*:*:*",
+			"cpeNameId": "DAC80B5F-E1C3-4697-BDE7-5875C04E192C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freedesktop:poppler:24.04.0:*:*:*:*:*:*:*",
+			"cpeNameId": "DA12E194-7085-4C83-8F3E-F8F9A48AD773"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freedesktop:poppler:24.05.0:*:*:*:*:*:*:*",
+			"cpeNameId": "495FF46C-2B53-4A1E-A56F-45D2F11455E3"
 		}
 	]
 }

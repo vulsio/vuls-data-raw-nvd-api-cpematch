@@ -3,10 +3,14 @@
 	"matchCriteriaId": "9FB0E6EE-F6F9-42A2-893F-3EF9687B8A87",
 	"versionEndExcluding": "5.7.24",
 	"created": "2024-06-21T18:34:29.303",
-	"lastModified": "2024-06-21T18:34:29.303",
-	"cpeLastModified": "2024-06-21T18:34:29.303",
+	"lastModified": "2024-06-26T14:02:56.693",
+	"cpeLastModified": "2024-06-26T14:02:56.693",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3F389552-A198-4190-B3B7-9C1E85AFE8E3"
+		},
 		{
 			"cpeName": "cpe:2.3:a:icegram:icegram_express:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "82E7BC25-63EA-4269-AE42-B59A6B2F0302"
@@ -1170,6 +1174,106 @@
 		{
 			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.6.24:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "A88A2EE1-F9E8-4619-8E1F-963D2903F309"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.7.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E3F58DDC-0283-4431-9BAD-2760F5DE248B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.7.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7AE0F20C-DFE5-47A1-8822-5792B35277A9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.7.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5BBBBA95-80FB-4012-8EB1-325520136317"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.7.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DB8929CB-DF03-40FC-8297-C4E24DF7B133"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.7.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "368B58FF-06B6-40E5-A56B-4380514753DE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.7.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C03E04AE-29C3-453B-8EB9-7A8FF7FB1146"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.7.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D01A68DB-6BC5-4642-90EB-96B1073B2E85"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.7.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "83BD1F67-A48B-412A-A310-69575B30398A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.7.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2002BAB0-2F61-4259-A55A-532AB51FBF1C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.7.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EC6E494F-4EFC-4F64-A41D-52CF4960B132"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.7.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "91D1FBCA-8ECF-4D3F-864C-D77BC285021F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.7.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8643A030-6AAA-452C-A03E-604CDEA0888A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.7.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C31FFE31-78BC-48E1-8F2F-B9F0217C279C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.7.13:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F31BAAB7-9928-41AC-A936-FC1F1C9FDD8E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.7.14:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "21AF28F7-F5A0-424F-8974-282F8F018497"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.7.15:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BC5AC226-5A6F-4D88-9AC5-85821506D8A1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.7.16:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A783E2C4-A2FC-47A1-ABA0-890627171BD7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.7.17:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5FC80BD3-27F4-49CD-A5E9-0284EE42C217"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.7.18:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A69FC7B1-8695-44DC-BAAC-EE50DA02F8E8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.7.19:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DD5D8746-EEF7-44F3-B69D-4D2100774B38"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.7.20:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "80F90DA6-4C83-4B20-B20C-1582C288E242"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.7.21:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "576DDD96-25F6-4F5D-9496-2D6D4B8D858D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.7.21.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D8B5E447-9FDC-4DAA-B88A-05F36AA89498"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.7.22:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9F7167B4-9F87-425F-A346-CD83B64D4A6F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:5.7.23:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C15B58F3-BE80-423C-B790-996E745C2F47"
 		}
 	]
 }

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "8F7F205E-2E9E-4D2E-8D7C-D5308E5FA758",
 	"versionEndIncluding": "3.0.7",
 	"created": "2024-06-21T19:08:02.987",
-	"lastModified": "2024-06-21T19:08:02.987",
-	"cpeLastModified": "2024-06-21T19:08:02.987",
+	"lastModified": "2024-06-26T14:14:04.403",
+	"cpeLastModified": "2024-06-26T14:14:04.403",
 	"status": "Active",
 	"matches": [
 		{
@@ -138,6 +138,10 @@
 		{
 			"cpeName": "cpe:2.3:a:wpexperts:license_manager_for_woocommerce:3.0.4:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "5E09DBCB-EDAB-48E3-A77B-0419CD0FCF3F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpexperts:license_manager_for_woocommerce:3.0.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2923BA64-AFB4-4982-8EBD-21A74A5FF333"
 		}
 	]
 }

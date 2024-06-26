@@ -4,9 +4,13 @@
 	"versionEndExcluding": "2.5.15",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"cpeLastModified": "2024-06-26T13:57:33.633",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:custom_field_suite_project:custom_field_suite:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6A017BE5-B337-405A-9D4C-94E224C29A1A"
+		},
 		{
 			"cpeName": "cpe:2.3:a:custom_field_suite_project:custom_field_suite:2.5.10:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "BE968918-1084-49DA-BD89-EE515B2D40C3"

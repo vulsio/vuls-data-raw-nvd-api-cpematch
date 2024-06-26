@@ -3,10 +3,14 @@
 	"matchCriteriaId": "C0358603-4EBD-4D4F-A16B-2DE473CC4B16",
 	"versionEndIncluding": "2.6.7",
 	"created": "2024-06-20T16:04:55.567",
-	"lastModified": "2024-06-20T16:04:55.567",
-	"cpeLastModified": "2024-06-20T16:06:14.557",
+	"lastModified": "2024-06-26T13:57:33.633",
+	"cpeLastModified": "2024-06-26T13:57:33.633",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:custom_field_suite_project:custom_field_suite:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6A017BE5-B337-405A-9D4C-94E224C29A1A"
+		},
 		{
 			"cpeName": "cpe:2.3:a:custom_field_suite_project:custom_field_suite:2.5.10:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "BE968918-1084-49DA-BD89-EE515B2D40C3"
@@ -34,6 +38,42 @@
 		{
 			"cpeName": "cpe:2.3:a:custom_field_suite_project:custom_field_suite:2.5.16:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "6C36CC6B-64F4-46F0-A55E-CB96A9CD47F9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:custom_field_suite_project:custom_field_suite:2.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "635D5E7F-F119-403D-AE61-ED808D362078"
+		},
+		{
+			"cpeName": "cpe:2.3:a:custom_field_suite_project:custom_field_suite:2.6.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A4E2EA82-126E-498B-9653-A2DBEADC6291"
+		},
+		{
+			"cpeName": "cpe:2.3:a:custom_field_suite_project:custom_field_suite:2.6.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "61F2C0E5-10A3-4786-83E2-E075BBAF75EF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:custom_field_suite_project:custom_field_suite:2.6.2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0077A600-4868-4523-9F05-10515C24AE94"
+		},
+		{
+			"cpeName": "cpe:2.3:a:custom_field_suite_project:custom_field_suite:2.6.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D52C26D7-B3C7-42CF-ADD6-42BD5FE6A27C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:custom_field_suite_project:custom_field_suite:2.6.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8B60377B-B29C-403E-9FA6-A826D0390817"
+		},
+		{
+			"cpeName": "cpe:2.3:a:custom_field_suite_project:custom_field_suite:2.6.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A9F2CFBE-4100-44D9-A9FF-6DC3F3312CF5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:custom_field_suite_project:custom_field_suite:2.6.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2F973806-AD73-4AE5-BB19-C08076731E1E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:custom_field_suite_project:custom_field_suite:2.6.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9EB4EB97-30E1-4228-9D37-5045320C2D3F"
 		}
 	]
 }

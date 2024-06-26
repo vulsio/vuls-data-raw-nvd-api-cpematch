@@ -3,8 +3,8 @@
 	"matchCriteriaId": "2A0211D5-0AD3-43F2-AA40-E5899EEADF01",
 	"versionEndExcluding": "2.7.21",
 	"created": "2024-06-14T15:18:38.123",
-	"lastModified": "2024-06-14T15:18:38.123",
-	"cpeLastModified": "2024-06-14T15:18:38.123",
+	"lastModified": "2024-06-26T14:46:04.820",
+	"cpeLastModified": "2024-06-26T14:46:04.820",
 	"status": "Active",
 	"matches": [
 		{
@@ -286,6 +286,26 @@
 		{
 			"cpeName": "cpe:2.3:a:ideabox:powerpack_addons_for_elementor:2.7.15:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "DC496E64-D202-4C14-AA56-FA7B1CC581CB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ideabox:powerpack_addons_for_elementor:2.7.16:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E81922DD-E497-4D3E-917B-7D660026B5E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ideabox:powerpack_addons_for_elementor:2.7.17:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3E32E0DB-435B-4C7D-A840-87D2A2FF2AE8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ideabox:powerpack_addons_for_elementor:2.7.18:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "896BE4FE-B3BE-45C3-AA2C-01651693FB36"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ideabox:powerpack_addons_for_elementor:2.7.19:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "17248E4A-C47E-4408-8CC5-3A0FBB9F65FC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ideabox:powerpack_addons_for_elementor:2.7.20:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "08CBA290-846D-409B-B0A5-26E9F7C9975F"
 		}
 	]
 }

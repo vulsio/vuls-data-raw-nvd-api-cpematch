@@ -4,9 +4,13 @@
 	"versionEndIncluding": "5.6.23",
 	"created": "2023-10-25T20:13:17.507",
 	"lastModified": "2023-10-25T20:42:05.830",
-	"cpeLastModified": "2023-10-25T20:42:05.830",
+	"cpeLastModified": "2024-06-26T14:02:56.693",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_express:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3F389552-A198-4190-B3B7-9C1E85AFE8E3"
+		},
 		{
 			"cpeName": "cpe:2.3:a:icegram:icegram_express:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "82E7BC25-63EA-4269-AE42-B59A6B2F0302"
