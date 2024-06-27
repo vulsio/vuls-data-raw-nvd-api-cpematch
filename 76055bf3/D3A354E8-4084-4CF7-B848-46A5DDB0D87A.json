@@ -4,9 +4,13 @@
 	"versionEndIncluding": "6.3.10",
 	"created": "2023-12-04T17:31:59.910",
 	"lastModified": "2023-12-04T19:36:24.467",
-	"cpeLastModified": "2023-12-04T19:36:24.467",
+	"cpeLastModified": "2024-06-27T12:17:08.880",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:businessdirectoryplugin:business_directory:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E30DA6EF-D43F-4C60-90AB-E45E6867079D"
+		},
 		{
 			"cpeName": "cpe:2.3:a:businessdirectoryplugin:business_directory:6.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "62884E2B-E8BC-4D23-BB65-27C33C269C3F"
