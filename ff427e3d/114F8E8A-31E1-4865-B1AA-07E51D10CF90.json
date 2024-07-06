@@ -5,7 +5,7 @@
 	"versionEndExcluding": "8.3\\(2\\)",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-12-29T18:02:38.650",
+	"cpeLastModified": "2024-07-03T12:27:41.810",
 	"status": "Active",
 	"matches": [
 		{
@@ -117,12 +117,36 @@
 			"cpeNameId": "C59909C3-9AF7-4FD4-A545-3270EDD34C59"
 		},
 		{
+			"cpeName": "cpe:2.3:o:cisco:nx-os:8.2\\(6\\):*:*:*:*:*:*:*",
+			"cpeNameId": "806410E1-400B-478C-94BC-E959A1397444"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:nx-os:8.2\\(7\\):*:*:*:*:*:*:*",
+			"cpeNameId": "DC4172D5-88A1-49E5-BCF6-CE3C542CEE86"
+		},
+		{
 			"cpeName": "cpe:2.3:o:cisco:nx-os:8.2\\(7.34\\):*:*:*:*:*:*:*",
 			"cpeNameId": "42307E19-3F14-4A2E-BAFF-8927013FC9B6"
 		},
 		{
+			"cpeName": "cpe:2.3:o:cisco:nx-os:8.2\\(7a\\):*:*:*:*:*:*:*",
+			"cpeNameId": "942EFB2A-B5AC-4190-80DC-1A2C96AF71E3"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:nx-os:8.2\\(8\\):*:*:*:*:*:*:*",
+			"cpeNameId": "A3D4CEDE-A75D-47C0-A7C8-2A661B4BF2AE"
+		},
+		{
 			"cpeName": "cpe:2.3:o:cisco:nx-os:8.2\\(9\\):*:*:*:*:*:*:*",
 			"cpeNameId": "30DDC156-66A2-48DB-9E0B-33CC74A49799"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:nx-os:8.2\\(10\\):*:*:*:*:*:*:*",
+			"cpeNameId": "F4C5E62B-F7DF-4C4D-85DA-D03650921CBB"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:nx-os:8.2\\(11\\):*:*:*:*:*:*:*",
+			"cpeNameId": "C595A7D8-2779-43AF-BFA5-A889007D21DE"
 		},
 		{
 			"cpeName": "cpe:2.3:o:cisco:nx-os:8.3:*:*:*:*:*:*:*",

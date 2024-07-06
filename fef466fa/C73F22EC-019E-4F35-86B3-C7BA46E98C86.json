@@ -3,10 +3,14 @@
 	"matchCriteriaId": "C73F22EC-019E-4F35-86B3-C7BA46E98C86",
 	"versionEndExcluding": "3.18.14",
 	"created": "2024-06-24T16:01:18.647",
-	"lastModified": "2024-06-24T16:01:18.647",
-	"cpeLastModified": "2024-06-24T16:01:18.647",
+	"lastModified": "2024-07-01T19:37:51.927",
+	"cpeLastModified": "2024-07-01T19:37:51.927",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wp-pizza:wppizza:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "810882E9-93EF-4926-98C5-9A76E988AECB"
+		},
 		{
 			"cpeName": "cpe:2.3:a:wp-pizza:wppizza:3.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "4B0B53B6-5389-482C-A156-B9A20B2FEAC7"
@@ -78,6 +82,46 @@
 		{
 			"cpeName": "cpe:2.3:a:wp-pizza:wppizza:3.18.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "48565677-F43D-4117-818D-914AA232C545"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wp-pizza:wppizza:3.18.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CD217C87-D82F-474F-BD58-4D6BF288DF66"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wp-pizza:wppizza:3.18.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6712248E-B1BF-4ACE-87EB-205F2C83B202"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wp-pizza:wppizza:3.18.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B8BD0776-2F9A-4451-8FB1-5F2B0B690C96"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wp-pizza:wppizza:3.18.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "62FE15AA-61AD-425D-A619-E66A17FBC486"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wp-pizza:wppizza:3.18.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "146C82CD-5ED5-4B00-8239-A042CAB24F7E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wp-pizza:wppizza:3.18.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9F1623FE-0CBB-4A05-856B-505D4B0A9A0D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wp-pizza:wppizza:3.18.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8CD94737-5DE3-4AEE-8EAA-AE042C1EB2C6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wp-pizza:wppizza:3.18.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "94922DE0-A7F6-47EA-BBCE-C5CFA3E37A37"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wp-pizza:wppizza:3.18.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8741A775-97A4-4EA2-8C19-09C4B4CDB4A9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wp-pizza:wppizza:3.18.13:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C2117E0C-A951-42B9-A2F2-59FD1D59F7D0"
 		}
 	]
 }

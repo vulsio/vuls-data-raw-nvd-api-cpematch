@@ -3,10 +3,14 @@
 	"matchCriteriaId": "2683E717-A67C-4BF2-934F-8141F092D151",
 	"versionEndExcluding": "5.9.5",
 	"created": "2024-06-27T18:00:09.840",
-	"lastModified": "2024-06-27T18:00:09.840",
-	"cpeLastModified": "2024-06-27T18:00:09.840",
+	"lastModified": "2024-07-01T18:30:55.310",
+	"cpeLastModified": "2024-07-01T18:30:55.310",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:rocklobster:contact_form_7:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "91D9BEEB-16E7-46B5-88C9-084AEE9FD815"
+		},
 		{
 			"cpeName": "cpe:2.3:a:rocklobster:contact_form_7:3.6:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "457B343C-BFCB-4CCB-8AFB-4D21D9CECFDD"
@@ -186,6 +190,34 @@
 		{
 			"cpeName": "cpe:2.3:a:rocklobster:contact_form_7:5.8.4:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "03E55165-6DFA-440A-87C9-D68F90A2AA64"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocklobster:contact_form_7:5.8.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2C7B24B2-763E-4744-9E25-E499203FA7E9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocklobster:contact_form_7:5.8.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2894CB35-B9D1-482D-BCEA-EE6483192C66"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocklobster:contact_form_7:5.8.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D38B997E-7436-4CFD-B8B3-D71E81077603"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocklobster:contact_form_7:5.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3F820FCE-DDB0-47E9-936A-256BD916C08B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocklobster:contact_form_7:5.9.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BE4C63CA-AFE7-4E0D-84CC-42272B3C3DB4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocklobster:contact_form_7:5.9.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "074D9C4B-5E2A-4017-981E-5DB0D24A130A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocklobster:contact_form_7:5.9.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "949E964E-4176-4707-854E-B6C00276F460"
 		}
 	]
 }

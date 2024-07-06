@@ -4,6 +4,12 @@
 	"versionEndIncluding": "2.5.0",
 	"created": "2024-06-25T16:31:49.157",
 	"lastModified": "2024-06-25T16:31:49.157",
-	"cpeLastModified": "2024-06-25T16:31:49.157",
-	"status": "Active"
+	"cpeLastModified": "2024-07-02T15:06:52.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:aterm:wg1200hp2_firmware:2.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5E5CFECF-5D9D-4E8B-9D3C-32848AFC4590"
+		}
+	]
 }

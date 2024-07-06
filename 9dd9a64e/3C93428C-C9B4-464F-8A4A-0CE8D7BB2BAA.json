@@ -5,7 +5,7 @@
 	"versionEndExcluding": "12.6.4",
 	"created": "2023-05-10T16:34:38.340",
 	"lastModified": "2024-03-21T15:59:39.230",
-	"cpeLastModified": "2024-03-21T15:59:39.230",
+	"cpeLastModified": "2024-07-03T12:21:27.453",
 	"status": "Active",
 	"matches": [
 		{
@@ -43,6 +43,10 @@
 		{
 			"cpeName": "cpe:2.3:o:apple:macos:12.5:*:*:*:*:*:*:*",
 			"cpeNameId": "74222F91-46A3-4942-8C5F-73116F7563AD"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:macos:12.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "9D0C1706-AAF7-45DF-9A44-C5BF03F77E62"
 		},
 		{
 			"cpeName": "cpe:2.3:o:apple:macos:12.6:*:*:*:*:*:*:*",

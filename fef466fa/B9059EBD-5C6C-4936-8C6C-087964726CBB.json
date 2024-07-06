@@ -4,9 +4,13 @@
 	"versionEndExcluding": "3.18.3",
 	"created": "2023-11-06T17:39:29.270",
 	"lastModified": "2023-11-16T12:31:59.380",
-	"cpeLastModified": "2023-11-16T12:31:59.380",
+	"cpeLastModified": "2024-07-01T19:37:51.927",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wp-pizza:wppizza:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "810882E9-93EF-4926-98C5-9A76E988AECB"
+		},
 		{
 			"cpeName": "cpe:2.3:a:wp-pizza:wppizza:3.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "4B0B53B6-5389-482C-A156-B9A20B2FEAC7"

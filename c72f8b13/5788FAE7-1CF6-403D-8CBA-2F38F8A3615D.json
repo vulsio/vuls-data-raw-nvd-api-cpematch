@@ -3,10 +3,14 @@
 	"matchCriteriaId": "5788FAE7-1CF6-403D-8CBA-2F38F8A3615D",
 	"versionEndExcluding": "3.17",
 	"created": "2024-06-20T16:43:26.683",
-	"lastModified": "2024-06-20T16:43:26.683",
-	"cpeLastModified": "2024-06-20T16:43:26.683",
+	"lastModified": "2024-07-01T16:50:45.637",
+	"cpeLastModified": "2024-07-01T16:50:45.637",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:davidlingren:media_library_assistant:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "56F48CF7-FA0F-4C73-A7F0-415AD50DB950"
+		},
 		{
 			"cpeName": "cpe:2.3:a:davidlingren:media_library_assistant:0.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "AE50816F-E762-4799-870F-A7B17E84A01B"
@@ -190,6 +194,22 @@
 		{
 			"cpeName": "cpe:2.3:a:davidlingren:media_library_assistant:3.12:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "6E74ABE5-26A8-4BE3-B84C-52A38D3C6B53"
+		},
+		{
+			"cpeName": "cpe:2.3:a:davidlingren:media_library_assistant:3.13:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DABEA1B8-22C4-49A1-A7DD-DF3410F65EF7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:davidlingren:media_library_assistant:3.14:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "05C2D1ED-FE8A-4BD1-9E84-AB1D4BE0DEDA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:davidlingren:media_library_assistant:3.15:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2D20B44A-CA5B-4E35-AAAE-C742574FEDA7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:davidlingren:media_library_assistant:3.16:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C14EC073-41BF-4076-ACEE-91322087796E"
 		}
 	]
 }

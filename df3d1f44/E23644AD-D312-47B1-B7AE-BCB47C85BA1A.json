@@ -4,7 +4,7 @@
 	"versionEndExcluding": "108.0.5359.124",
 	"created": "2022-12-16T06:30:28.677",
 	"lastModified": "2022-12-16T06:30:28.677",
-	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-07-02T14:47:17.327",
 	"status": "Active",
 	"matches": [
 		{
@@ -15036,6 +15036,10 @@
 			"cpeNameId": "ACD3C079-E286-43A5-A548-34799487AA19"
 		},
 		{
+			"cpeName": "cpe:2.3:a:google:chrome:49.0.2623.108:*:*:*:*:*:*:*",
+			"cpeNameId": "A4588549-7B0B-48B6-97AE-C0686FB0ACC7"
+		},
+		{
 			"cpeName": "cpe:2.3:a:google:chrome:49.0.2623.112:*:*:*:*:*:*:*",
 			"cpeNameId": "BB368610-C017-4436-A2DB-408BA272800F"
 		},
@@ -15104,8 +15108,16 @@
 			"cpeNameId": "70F6A70E-D3A0-428A-B641-A4D132659F85"
 		},
 		{
+			"cpeName": "cpe:2.3:a:google:chrome:54.0.2840.85:*:*:*:*:*:*:*",
+			"cpeNameId": "938A7371-B40F-4602-821F-FA54D6874CC1"
+		},
+		{
 			"cpeName": "cpe:2.3:a:google:chrome:54.0.2840.87:*:*:*:*:*:*:*",
 			"cpeNameId": "9973B669-9FAE-447A-B58A-6AD6919D5D31"
+		},
+		{
+			"cpeName": "cpe:2.3:a:google:chrome:54.0.2840.90:*:*:*:*:*:*:*",
+			"cpeNameId": "139FAA9C-7B3D-41FE-974E-CD33EF9FC38C"
 		},
 		{
 			"cpeName": "cpe:2.3:a:google:chrome:54.0.2840.98:*:*:*:*:*:*:*",
@@ -15178,6 +15190,10 @@
 		{
 			"cpeName": "cpe:2.3:a:google:chrome:57.0.2987.98:*:*:*:*:*:*:*",
 			"cpeNameId": "A5B4BF37-9747-4490-A940-F4E063FB143B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:google:chrome:57.0.2987.108:*:*:*:*:*:*:*",
+			"cpeNameId": "4D06725E-D167-4C70-9D07-AC665807F6BE"
 		},
 		{
 			"cpeName": "cpe:2.3:a:google:chrome:57.0.2987.132:*:*:*:*:*:*:*",
@@ -34304,6 +34320,10 @@
 			"cpeNameId": "937C4A74-7CC8-4391-A647-74BCCDADA7C0"
 		},
 		{
+			"cpeName": "cpe:2.3:a:google:chrome:103.0.5060.114:*:*:*:*:*:*:*",
+			"cpeNameId": "F95D9C70-BCD0-4C1A-8B44-AC78A2101618"
+		},
+		{
 			"cpeName": "cpe:2.3:a:google:chrome:103.0.5060.116:*:*:*:*:*:*:*",
 			"cpeNameId": "1443A219-6665-4EFF-851C-0D9030A2A7CC"
 		},
@@ -35504,6 +35524,10 @@
 			"cpeNameId": "6611C511-7A5B-4EA6-8242-2AB63BE6CA2A"
 		},
 		{
+			"cpeName": "cpe:2.3:a:google:chrome:105.0.5195.102:*:*:*:*:*:*:*",
+			"cpeNameId": "A978F9F7-24D1-4F9D-85D6-AD23639DE358"
+		},
+		{
 			"cpeName": "cpe:2.3:a:google:chrome:105.0.5195.125:*:*:*:*:*:*:*",
 			"cpeNameId": "AC6E3526-693F-4F0C-A8AD-1261A45344F3"
 		},
@@ -36310,6 +36334,10 @@
 		{
 			"cpeName": "cpe:2.3:a:google:chrome:107.0.5304.62:*:*:*:*:*:*:*",
 			"cpeNameId": "688E526D-18AF-46F8-B6EF-1E75F2ACF0EC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:google:chrome:107.0.5304.121:*:*:*:*:*:*:*",
+			"cpeNameId": "30BBA0D9-D189-46EC-A6F6-333965D3381A"
 		},
 		{
 			"cpeName": "cpe:2.3:a:google:chrome:108.0.5359.94:*:*:*:*:*:*:*",

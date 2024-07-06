@@ -3,8 +3,8 @@
 	"matchCriteriaId": "9915DCF4-DF4F-4C42-8E68-2747FB89A464",
 	"versionEndExcluding": "1.1.6",
 	"created": "2024-06-21T15:50:56.787",
-	"lastModified": "2024-06-21T15:50:56.787",
-	"cpeLastModified": "2024-06-21T15:50:56.787",
+	"lastModified": "2024-07-01T19:05:16.237",
+	"cpeLastModified": "2024-07-01T19:05:16.237",
 	"status": "Active",
 	"matches": [
 		{
@@ -362,6 +362,42 @@
 		{
 			"cpeName": "cpe:2.3:a:tms-outsource:amelia:1.0.95:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "B5FC4718-2507-47FF-9E1D-531C35D574E9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tms-outsource:amelia:1.0.97:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "326FB1B0-8282-4ABE-B4FD-7DAA768B54EB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tms-outsource:amelia:1.0.98:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BA6DA401-7075-41A4-89CC-008F1D635F8A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tms-outsource:amelia:1.0.99:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "363A2864-0358-448E-87F4-0CED0EEC04E1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tms-outsource:amelia:1.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "886EBCCD-AB1F-4684-A957-43A9E1ACEBD6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tms-outsource:amelia:1.1.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "39659BD3-A6B5-4AA5-BE19-D50FF54CD8BC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tms-outsource:amelia:1.1.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B80DEBBA-DA52-460B-B9C8-E496F3BE2BDB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tms-outsource:amelia:1.1.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6890F4AB-661B-4732-93BB-FB9E0955608B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tms-outsource:amelia:1.1.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "50C272D3-7F1D-44AF-B2DD-0397A2EE9B09"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tms-outsource:amelia:1.1.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C6378F1A-157A-4840-83AA-CEEF2B79BBBC"
 		}
 	]
 }

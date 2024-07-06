@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:o:dell:latitude_12_rugged_extreme_7214_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FD240484-7888-44F7-B97B-BB7883E6050A",
+	"versionEndExcluding": "1.45.0",
+	"created": "2024-07-03T12:49:03.580",
+	"lastModified": "2024-07-03T12:49:03.580",
+	"cpeLastModified": "2024-07-03T12:49:03.580",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_12_rugged_extreme_7214_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "326685D8-880C-4B45-8BA0-0EC1B8362A76"
+		}
+	]
+}

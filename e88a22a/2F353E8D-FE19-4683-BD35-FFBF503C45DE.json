@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:cisco:pix_506e:*:*:*:*:*:*:*:*",
 	"matchCriteriaId": "2F353E8D-FE19-4683-BD35-FFBF503C45DE",
 	"created": "2019-06-17T09:16:33.960",
-	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
-	"status": "Active"
+	"lastModified": "2024-07-02T12:52:19.593",
+	"cpeLastModified": "2024-07-02T12:52:19.593",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:cisco:pix_506e:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F18B11D1-D615-4E8D-BD48-AA3D26A3FCC0"
+		}
+	]
 }

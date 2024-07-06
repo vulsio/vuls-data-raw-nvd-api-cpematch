@@ -4,6 +4,12 @@
 	"versionEndExcluding": "1.41.12",
 	"created": "2023-06-05T16:55:01.580",
 	"lastModified": "2023-06-05T16:55:01.580",
-	"cpeLastModified": "2023-06-05T16:55:01.580",
-	"status": "Active"
+	"cpeLastModified": "2024-07-02T17:46:13.900",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hanwhavision:lnd-6032r_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DF3E40EA-BDE6-4724-9D92-D8F3BC0FE685"
+		}
+	]
 }

@@ -4,9 +4,13 @@
 	"versionEndExcluding": "6.0",
 	"created": "2020-02-29T03:12:09.320",
 	"lastModified": "2020-02-29T03:12:09.320",
-	"cpeLastModified": "2021-01-12T17:51:49.937",
+	"cpeLastModified": "2024-07-03T12:24:00.607",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:apple:watchos:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6D5FDF56-C7B2-4F12-8EE0-4C65280B58B7"
+		},
 		{
 			"cpeName": "cpe:2.3:o:apple:watchos:1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "5F3563D2-9D4A-4A8E-A650-6D79FFAF8114"

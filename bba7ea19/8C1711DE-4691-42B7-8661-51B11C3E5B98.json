@@ -4,8 +4,8 @@
 	"versionStartIncluding": "16.0",
 	"versionEndExcluding": "16.4.1",
 	"created": "2023-04-10T23:02:04.047",
-	"lastModified": "2023-04-10T23:02:04.047",
-	"cpeLastModified": "2023-08-30T11:38:26.980",
+	"lastModified": "2024-07-03T12:21:27.453",
+	"cpeLastModified": "2024-07-03T12:21:27.453",
 	"status": "Active",
 	"matches": [
 		{
@@ -31,6 +31,10 @@
 		{
 			"cpeName": "cpe:2.3:o:apple:ipados:16.3:*:*:*:*:*:*:*",
 			"cpeNameId": "59A25744-5A07-4C3F-94B8-406DBEF5A0A6"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:ipados:16.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "7E5DD1B9-39A0-440F-A3D4-45C83C71BC4C"
 		},
 		{
 			"cpeName": "cpe:2.3:o:apple:ipados:16.4:*:*:*:*:*:*:*",

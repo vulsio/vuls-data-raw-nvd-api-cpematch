@@ -4,6 +4,12 @@
 	"versionEndExcluding": "2.22.00",
 	"created": "2023-06-05T18:33:57.163",
 	"lastModified": "2023-06-05T18:33:57.163",
-	"cpeLastModified": "2023-06-05T18:33:57.163",
-	"status": "Active"
+	"cpeLastModified": "2024-07-02T17:46:13.900",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hanwhavision:xno-c8083r_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1DC87B7A-EB9E-4DED-A7DB-B87B08AF8547"
+		}
+	]
 }

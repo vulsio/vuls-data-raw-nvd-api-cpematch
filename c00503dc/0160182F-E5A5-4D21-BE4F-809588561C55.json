@@ -4,7 +4,7 @@
 	"versionEndExcluding": "4.4.1",
 	"created": "2024-06-24T15:18:33.240",
 	"lastModified": "2024-06-24T15:18:33.240",
-	"cpeLastModified": "2024-06-24T15:18:33.240",
+	"cpeLastModified": "2024-07-01T19:50:41.227",
 	"status": "Active",
 	"matches": [
 		{
@@ -98,6 +98,14 @@
 		{
 			"cpeName": "cpe:2.3:a:vcita:online_booking_\\&_scheduling_calendar_for_wordpress_by_vcita:4.3.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "C51050B7-C270-4D31-AAE4-66A15893DCBC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vcita:online_booking_\\&_scheduling_calendar_for_wordpress_by_vcita:4.3.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B86F5B29-6112-40B9-A92F-63C6C8F1321B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vcita:online_booking_\\&_scheduling_calendar_for_wordpress_by_vcita:4.4.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "523F84B4-5681-4B3F-8DCD-55164FED5C5D"
 		}
 	]
 }

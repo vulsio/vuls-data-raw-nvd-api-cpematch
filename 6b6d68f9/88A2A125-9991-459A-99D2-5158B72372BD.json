@@ -4,6 +4,12 @@
 	"versionEndIncluding": "1.3.1",
 	"created": "2024-06-25T16:31:49.157",
 	"lastModified": "2024-06-25T16:31:49.157",
-	"cpeLastModified": "2024-06-25T16:31:49.157",
-	"status": "Active"
+	"cpeLastModified": "2024-07-02T15:06:52.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:aterm:w1200ex_firmware:1.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "ADAB494A-7204-48DD-978A-A9AAAB7B872B"
+		}
+	]
 }

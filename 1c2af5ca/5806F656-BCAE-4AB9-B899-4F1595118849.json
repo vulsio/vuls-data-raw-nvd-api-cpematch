@@ -3,8 +3,8 @@
 	"matchCriteriaId": "5806F656-BCAE-4AB9-B899-4F1595118849",
 	"versionEndExcluding": "4.9.8",
 	"created": "2024-06-24T17:10:15.723",
-	"lastModified": "2024-06-24T17:10:15.723",
-	"cpeLastModified": "2024-06-24T17:10:15.723",
+	"lastModified": "2024-07-01T19:54:02.593",
+	"cpeLastModified": "2024-07-01T19:54:02.593",
 	"status": "Active",
 	"matches": [
 		{
@@ -510,6 +510,18 @@
 		{
 			"cpeName": "cpe:2.3:a:tribulant:newsletters:4.9.4:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "23997D18-267A-4D09-86C4-CE57A7D28DAA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribulant:newsletters:4.9.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0D23DB9B-31F5-404A-BF5F-4C0BFC964BB3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribulant:newsletters:4.9.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FA381353-0EFF-4BB4-B6B4-E58C8FC1A99A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribulant:newsletters:4.9.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F98B40AF-A848-4FB3-B4F5-EE68259598E0"
 		}
 	]
 }

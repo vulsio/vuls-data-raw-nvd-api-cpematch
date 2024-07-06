@@ -4,6 +4,12 @@
 	"versionEndIncluding": "1.3.1",
 	"created": "2024-06-25T16:31:49.157",
 	"lastModified": "2024-06-25T16:31:49.157",
-	"cpeLastModified": "2024-06-25T16:31:49.157",
-	"status": "Active"
+	"cpeLastModified": "2024-07-02T15:06:52.747",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:aterm:wg1200hp3_firmware:1.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "8BB9523E-0458-43AA-831A-AE9C2E0AC05B"
+		}
+	]
 }

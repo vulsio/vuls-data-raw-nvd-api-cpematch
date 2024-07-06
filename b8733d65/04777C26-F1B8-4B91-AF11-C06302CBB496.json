@@ -3,10 +3,14 @@
 	"matchCriteriaId": "04777C26-F1B8-4B91-AF11-C06302CBB496",
 	"versionEndExcluding": "2.10.35",
 	"created": "2024-06-24T15:47:09.220",
-	"lastModified": "2024-06-24T15:47:09.220",
-	"cpeLastModified": "2024-06-24T15:47:09.220",
+	"lastModified": "2024-07-01T19:31:56.130",
+	"cpeLastModified": "2024-07-01T19:31:56.130",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:themeisle:orbit_fox:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CCCB7C22-9394-441E-A609-0266CD900B95"
+		},
 		{
 			"cpeName": "cpe:2.3:a:themeisle:orbit_fox:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "7DBEA6C5-F4E8-45DE-BEDC-D314106AC160"
@@ -478,6 +482,26 @@
 		{
 			"cpeName": "cpe:2.3:a:themeisle:orbit_fox:2.10.29:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "4C04D503-F97B-460C-BCD7-23824BFF1F9E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeisle:orbit_fox:2.10.30:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9E64701F-E05A-4F72-9D79-196D02E38C57"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeisle:orbit_fox:2.10.31:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C88F723B-A90B-4240-9C62-0E0562DACD72"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeisle:orbit_fox:2.10.32:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1BDE84F0-F0D4-4174-9DBF-551C469946D4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeisle:orbit_fox:2.10.33:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DFDBDA3D-FF39-4119-A390-BB4F90C83591"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeisle:orbit_fox:2.10.34:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0B943A4B-1063-487D-9957-F072885EAB9C"
 		}
 	]
 }

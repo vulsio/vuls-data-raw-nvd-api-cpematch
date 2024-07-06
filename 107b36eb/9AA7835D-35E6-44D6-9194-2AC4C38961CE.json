@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:gitlab:gitlab:17.1.0:*:*:*:enterprise:*:*:*",
 	"matchCriteriaId": "9AA7835D-35E6-44D6-9194-2AC4C38961CE",
 	"created": "2024-06-27T16:59:58.093",
-	"lastModified": "2024-06-27T16:59:58.093",
-	"cpeLastModified": "2024-06-27T16:59:58.093",
-	"status": "Active"
+	"lastModified": "2024-07-01T12:30:17.757",
+	"cpeLastModified": "2024-07-01T12:30:17.757",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:gitlab:gitlab:17.1.0:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "EE2FAD02-76FD-4026-BDDF-DF7B834082FC"
+		}
+	]
 }

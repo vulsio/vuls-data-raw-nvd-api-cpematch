@@ -4,6 +4,12 @@
 	"versionEndExcluding": "2.22.00",
 	"created": "2023-06-05T18:33:57.163",
 	"lastModified": "2023-06-05T18:33:57.163",
-	"cpeLastModified": "2023-06-05T18:33:57.163",
-	"status": "Active"
+	"cpeLastModified": "2024-07-02T17:46:13.900",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:hanwhavision:xnp-8300rw_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7E1CE0E3-5368-4CFB-9247-900595EC60BA"
+		}
+	]
 }

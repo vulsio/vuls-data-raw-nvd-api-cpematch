@@ -3,8 +3,8 @@
 	"matchCriteriaId": "BCF62D54-D3E5-49FE-B775-CBA72A59B080",
 	"versionEndExcluding": "2.2.1",
 	"created": "2023-06-09T19:22:26.080",
-	"lastModified": "2023-06-09T19:22:26.080",
-	"cpeLastModified": "2023-06-09T19:22:26.080",
+	"lastModified": "2024-07-01T13:37:48.340",
+	"cpeLastModified": "2024-07-01T13:37:48.340",
 	"status": "Active",
 	"matches": [
 		{
@@ -254,6 +254,34 @@
 		{
 			"cpeName": "cpe:2.3:a:convertkit:convertkit_-_email_marketing\\,_email_newsletter_and_landing_pages:2.0.7:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "61D542EF-449D-4272-9C68-2D84D6D76DD3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:convertkit:convertkit_-_email_marketing\\,_email_newsletter_and_landing_pages:2.0.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0E8117A3-53A0-411B-B631-DC62A0231014"
+		},
+		{
+			"cpeName": "cpe:2.3:a:convertkit:convertkit_-_email_marketing\\,_email_newsletter_and_landing_pages:2.0.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "22BE51D7-35D7-4B84-BFEC-5BFF2A0AB5DE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:convertkit:convertkit_-_email_marketing\\,_email_newsletter_and_landing_pages:2.1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DC567118-EE9E-42E5-9D44-2A588EA94DDC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:convertkit:convertkit_-_email_marketing\\,_email_newsletter_and_landing_pages:2.1.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "92257BC4-B7F0-483C-833B-CE83BCD21D52"
+		},
+		{
+			"cpeName": "cpe:2.3:a:convertkit:convertkit_-_email_marketing\\,_email_newsletter_and_landing_pages:2.1.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "604588F0-9CEA-4C69-965B-172B75468C81"
+		},
+		{
+			"cpeName": "cpe:2.3:a:convertkit:convertkit_-_email_marketing\\,_email_newsletter_and_landing_pages:2.1.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7AB42684-001A-47AE-8607-0B048C454497"
+		},
+		{
+			"cpeName": "cpe:2.3:a:convertkit:convertkit_-_email_marketing\\,_email_newsletter_and_landing_pages:2.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7469A3EC-0C8C-485E-ABB0-C2C08DF06C89"
 		}
 	]
 }

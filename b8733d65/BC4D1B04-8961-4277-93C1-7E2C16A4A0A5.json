@@ -4,9 +4,13 @@
 	"versionEndExcluding": "2.10.3",
 	"created": "2021-04-08T14:56:02.753",
 	"lastModified": "2024-01-16T17:30:42.830",
-	"cpeLastModified": "2024-01-16T17:30:42.830",
+	"cpeLastModified": "2024-07-01T19:31:56.130",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:themeisle:orbit_fox:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CCCB7C22-9394-441E-A609-0266CD900B95"
+		},
 		{
 			"cpeName": "cpe:2.3:a:themeisle:orbit_fox:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "7DBEA6C5-F4E8-45DE-BEDC-D314106AC160"

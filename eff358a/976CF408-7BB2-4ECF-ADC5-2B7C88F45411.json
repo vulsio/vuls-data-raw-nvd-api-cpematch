@@ -4,9 +4,13 @@
 	"versionEndExcluding": "5.0.4",
 	"created": "2019-08-24T21:50:51.260",
 	"lastModified": "2019-08-24T21:50:51.260",
-	"cpeLastModified": "2019-09-03T16:52:15.390",
+	"cpeLastModified": "2024-07-01T18:30:55.310",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:rocklobster:contact_form_7:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "91D9BEEB-16E7-46B5-88C9-084AEE9FD815"
+		},
 		{
 			"cpeName": "cpe:2.3:a:rocklobster:contact_form_7:3.6:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "457B343C-BFCB-4CCB-8AFB-4D21D9CECFDD"

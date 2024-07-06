@@ -4,7 +4,7 @@
 	"versionStartIncluding": "2.0.0",
 	"created": "2023-07-07T13:19:03.007",
 	"lastModified": "2023-07-07T13:19:03.007",
-	"cpeLastModified": "2023-07-07T13:19:03.007",
+	"cpeLastModified": "2024-07-02T14:37:49.540",
 	"status": "Active",
 	"matches": [
 		{
@@ -378,6 +378,90 @@
 		{
 			"cpeName": "cpe:2.3:a:geoserver:geoserver:2.22.1:*:*:*:*:*:*:*",
 			"cpeNameId": "A84AB5B5-594F-4BB5-9114-104D5DDE8915"
+		},
+		{
+			"cpeName": "cpe:2.3:a:geoserver:geoserver:2.22.2:*:*:*:*:*:*:*",
+			"cpeNameId": "C3487430-DA3F-4758-B9CF-FC5D08BFD564"
+		},
+		{
+			"cpeName": "cpe:2.3:a:geoserver:geoserver:2.22.3:*:*:*:*:*:*:*",
+			"cpeNameId": "8FFA9096-9E90-4BA8-A8A6-5BB288874345"
+		},
+		{
+			"cpeName": "cpe:2.3:a:geoserver:geoserver:2.22.4:*:*:*:*:*:*:*",
+			"cpeNameId": "DDA9F1F1-E1B4-41B0-AEF6-4AC02AC0718C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:geoserver:geoserver:2.22.5:*:*:*:*:*:*:*",
+			"cpeNameId": "FC7E23FD-4ACD-49CD-9A07-F0BC2FE07D94"
+		},
+		{
+			"cpeName": "cpe:2.3:a:geoserver:geoserver:2.23.0:*:*:*:*:*:*:*",
+			"cpeNameId": "77FA41EC-2F45-4FA2-9474-59B4EB0A0B46"
+		},
+		{
+			"cpeName": "cpe:2.3:a:geoserver:geoserver:2.23.1:*:*:*:*:*:*:*",
+			"cpeNameId": "4F47949F-7E86-43FD-8F1D-7DE338AEB4EF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:geoserver:geoserver:2.23.2:*:*:*:*:*:*:*",
+			"cpeNameId": "4E0DD0C1-FCE1-4B3E-840E-D7531236A2B0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:geoserver:geoserver:2.23.3:*:*:*:*:*:*:*",
+			"cpeNameId": "C2568398-DA91-481A-A17A-C2B46CE44AEC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:geoserver:geoserver:2.23.4:*:*:*:*:*:*:*",
+			"cpeNameId": "6D3D71C1-CDDB-49A8-B91C-2146FA3CC040"
+		},
+		{
+			"cpeName": "cpe:2.3:a:geoserver:geoserver:2.23.5:*:*:*:*:*:*:*",
+			"cpeNameId": "B5604B4A-3CF0-4308-B46B-AB72769D5479"
+		},
+		{
+			"cpeName": "cpe:2.3:a:geoserver:geoserver:2.23.6:*:*:*:*:*:*:*",
+			"cpeNameId": "A9E439AC-9890-42AB-9140-7260D9ECC73C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:geoserver:geoserver:2.24.0:-:*:*:*:*:*:*",
+			"cpeNameId": "A70BC8FD-6B65-4F8F-B81D-203067664407"
+		},
+		{
+			"cpeName": "cpe:2.3:a:geoserver:geoserver:2.24.0:rc:*:*:*:*:*:*",
+			"cpeNameId": "55CADF0F-42C7-4965-8D27-23DB809AEFCF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:geoserver:geoserver:2.24.1:*:*:*:*:*:*:*",
+			"cpeNameId": "2897068D-84DD-4A67-AED1-32A4C9A2ED1C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:geoserver:geoserver:2.24.2:*:*:*:*:*:*:*",
+			"cpeNameId": "22E480A6-638E-410B-A69B-C16FE81B5509"
+		},
+		{
+			"cpeName": "cpe:2.3:a:geoserver:geoserver:2.24.3:*:*:*:*:*:*:*",
+			"cpeNameId": "89F5CBC3-9583-4A26-A5E5-FB8D4BA9CF8B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:geoserver:geoserver:2.24.4:*:*:*:*:*:*:*",
+			"cpeNameId": "40BF86A3-DC82-474E-8957-74D9FB2F333B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:geoserver:geoserver:2.25.0:-:*:*:*:*:*:*",
+			"cpeNameId": "66E1C391-81C0-4156-894F-19804ADED12A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:geoserver:geoserver:2.25.0:rc:*:*:*:*:*:*",
+			"cpeNameId": "B266D0D8-3C8D-4D90-81D6-8F84C08C3063"
+		},
+		{
+			"cpeName": "cpe:2.3:a:geoserver:geoserver:2.25.1:*:*:*:*:*:*:*",
+			"cpeNameId": "3147D177-4FF2-48AC-BA92-FC45054F87D8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:geoserver:geoserver:2.25.2:*:*:*:*:*:*:*",
+			"cpeNameId": "1B20FD8A-42D3-4BFE-8363-6F44B2184543"
 		}
 	]
 }
