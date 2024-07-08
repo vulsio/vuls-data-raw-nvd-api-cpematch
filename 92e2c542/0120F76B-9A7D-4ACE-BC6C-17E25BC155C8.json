@@ -3,10 +3,14 @@
 	"matchCriteriaId": "0120F76B-9A7D-4ACE-BC6C-17E25BC155C8",
 	"versionEndExcluding": "5.6.0",
 	"created": "2024-06-21T18:49:32.940",
-	"lastModified": "2024-06-21T18:49:32.940",
-	"cpeLastModified": "2024-06-21T18:49:32.940",
+	"lastModified": "2024-07-08T15:12:13.170",
+	"cpeLastModified": "2024-07-08T15:12:13.170",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:-:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "F6518325-FEF6-4FA4-82DB-0E1B3810A7B7"
+		},
 		{
 			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:-:*:*:*:pro:wordpress:*:*",
 			"cpeNameId": "4D80BA39-273C-45DD-959C-7C0403A95D46"
@@ -398,6 +402,90 @@
 		{
 			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:5.1.16:*:*:*:free:wordpress:*:*",
 			"cpeNameId": "D3C1EE9B-8246-4B8F-A735-CBD8673C2681"
+		},
+		{
+			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:5.2.17:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "FCEF6DF6-3590-4CEF-A1E3-B50DE7E4DA83"
+		},
+		{
+			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:5.2.18:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "2A9651DD-6152-4B45-A33F-A5A9DBAF9ABF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:5.2.19:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "C357F1EE-23FD-4835-AC50-AC6570C97DE3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:5.2.20:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "55F9B55B-5BF1-450E-B600-521329DAD2EB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:5.2.21:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "722742CB-1294-44AC-8C23-DD1330303D7A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:5.3.0:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "FE5BDAD6-E122-4B64-85F4-C36C55C0F269"
+		},
+		{
+			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:5.3.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "044F7EAB-BB61-4C2B-92DC-4E419D99A4B7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:5.3.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "536A8F14-D732-47ED-BBB4-58E5D4153290"
+		},
+		{
+			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:5.3.3:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "3974F95A-0138-40C7-BA78-830E4AE65705"
+		},
+		{
+			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:5.3.4:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "F64176D0-7DD1-4CC5-A301-F2A5508B5460"
+		},
+		{
+			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:5.3.5:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "3778CDC7-3361-4962-90E9-AC0C13FFA011"
+		},
+		{
+			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:5.4.0:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "942C1064-0A28-44F7-A0B9-CA3709F9FD75"
+		},
+		{
+			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:5.4.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "AF05A7ED-AB32-420D-884C-E3F276B5A02E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:5.4.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "7F37A984-232D-48A5-A357-2922771C41CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:5.5.0:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "AB86969E-701C-465B-B059-46CB16139FF8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:5.5.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "AB9E2267-A2D2-429F-8F1F-CB8CDFC7685F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:5.5.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "B8756E00-B303-4C53-BD7E-42046A32640B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:5.5.3:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "26F7FEA6-1195-4D1E-B6D2-0DB97325033B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:5.5.4:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "3B9F49C5-477E-4819-B5E8-1F1FB8CD2217"
+		},
+		{
+			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:5.5.5:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "D0831B6C-0CDA-4653-B1E6-0FC7AB4AD2CA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:5.5.6:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "B1CCD9DE-C9EC-44C4-B4A3-0184E6A90DEF"
 		}
 	]
 }

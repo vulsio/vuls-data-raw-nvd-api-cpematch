@@ -4,9 +4,13 @@
 	"versionEndExcluding": "2.6.0",
 	"created": "2024-01-16T20:10:31.260",
 	"lastModified": "2024-01-17T13:04:05.580",
-	"cpeLastModified": "2024-01-17T13:04:05.580",
+	"cpeLastModified": "2024-07-08T15:15:51.067",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:melapress:wp_2fa:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3614DF8F-1966-4987-9B8D-E7DD57B98802"
+		},
 		{
 			"cpeName": "cpe:2.3:a:melapress:wp_2fa:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "3BD164FF-5218-42E5-9915-272022E5BF22"

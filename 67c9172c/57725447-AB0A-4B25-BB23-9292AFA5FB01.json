@@ -3,10 +3,14 @@
 	"matchCriteriaId": "57725447-AB0A-4B25-BB23-9292AFA5FB01",
 	"versionEndExcluding": "9.0.2",
 	"created": "2024-07-03T11:54:35.617",
-	"lastModified": "2024-07-03T11:54:35.617",
-	"cpeLastModified": "2024-07-03T11:54:35.617",
+	"lastModified": "2024-07-08T15:06:18.043",
+	"cpeLastModified": "2024-07-08T15:06:18.043",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:expresstech:quiz_and_survey_master:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B97D3184-8F00-4009-83C1-A5854B160708"
+		},
 		{
 			"cpeName": "cpe:2.3:a:expresstech:quiz_and_survey_master:0.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "3F6CB614-1A7B-4FE2-96F9-7E1853208B7E"
@@ -918,6 +922,30 @@
 		{
 			"cpeName": "cpe:2.3:a:expresstech:quiz_and_survey_master:8.1.19:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "14188609-5C5A-41F2-9EC4-7F67109B96CD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:expresstech:quiz_and_survey_master:8.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B9122EE4-426D-4F0A-B07E-0F40A0AACC39"
+		},
+		{
+			"cpeName": "cpe:2.3:a:expresstech:quiz_and_survey_master:8.2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4CF9447F-8870-42A3-999F-5769A9E5D932"
+		},
+		{
+			"cpeName": "cpe:2.3:a:expresstech:quiz_and_survey_master:8.2.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "48BB98B0-6275-4132-8E3E-19CD6C94D69D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:expresstech:quiz_and_survey_master:8.2.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "44DE4A02-400C-4269-85CE-96E71C9ECDE5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:expresstech:quiz_and_survey_master:9.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8B8C4CB7-BBC9-4461-8024-AA96960E03DA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:expresstech:quiz_and_survey_master:9.0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E58516BE-41BE-462C-8344-9093CD3F027E"
 		}
 	]
 }

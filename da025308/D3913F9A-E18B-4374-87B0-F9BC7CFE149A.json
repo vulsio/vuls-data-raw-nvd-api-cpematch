@@ -3,8 +3,8 @@
 	"matchCriteriaId": "D3913F9A-E18B-4374-87B0-F9BC7CFE149A",
 	"versionEndExcluding": "1.2.2",
 	"created": "2024-07-05T11:41:58.047",
-	"lastModified": "2024-07-05T11:41:58.047",
-	"cpeLastModified": "2024-07-05T11:41:58.047",
+	"lastModified": "2024-07-08T13:47:20.670",
+	"cpeLastModified": "2024-07-08T13:47:20.670",
 	"status": "Active",
 	"matches": [
 		{
@@ -54,6 +54,22 @@
 		{
 			"cpeName": "cpe:2.3:a:apollo13themes:rife_elementor_extensions_\\&_templates:1.1.8:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "8EAC43DF-EEE3-4E28-8174-5EA243FDA65C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apollo13themes:rife_elementor_extensions_\\&_templates:1.1.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5BC6A314-115F-416C-8A11-9578FD95E745"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apollo13themes:rife_elementor_extensions_\\&_templates:1.1.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C45EC1EE-A26C-4B97-B928-74C86F1EFC77"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apollo13themes:rife_elementor_extensions_\\&_templates:1.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AFD3C87D-E8FF-491B-8074-4BD5330C312B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apollo13themes:rife_elementor_extensions_\\&_templates:1.2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "934B5525-1AD2-469B-BE97-4FEA9BF51404"
 		}
 	]
 }

@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:o:abb:nexus-264_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "139ED7CD-AA56-478A-9339-18E4C61D86B3",
+	"versionEndIncluding": "3.08.01",
+	"created": "2024-07-08T11:16:57.057",
+	"lastModified": "2024-07-08T11:16:57.057",
+	"cpeLastModified": "2024-07-08T11:16:57.057",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:abb:nexus-264_firmware:3.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "ED25A7DB-7F0E-4B01-84EB-9914EA8FCD82"
+		},
+		{
+			"cpeName": "cpe:2.3:o:abb:nexus-264_firmware:3.07.01:*:*:*:*:*:*:*",
+			"cpeNameId": "47D13738-2ED9-419B-81C6-8F016F5C53F8"
+		}
+	]
+}

@@ -4,8 +4,8 @@
 	"versionStartIncluding": "8.2.2",
 	"versionEndExcluding": "9.7.1.0",
 	"created": "2024-07-03T14:58:59.973",
-	"lastModified": "2024-07-03T14:58:59.973",
-	"cpeLastModified": "2024-07-03T14:58:59.973",
+	"lastModified": "2024-07-08T17:02:43.403",
+	"cpeLastModified": "2024-07-08T17:02:43.403",
 	"status": "Active",
 	"matches": [
 		{
@@ -89,8 +89,16 @@
 			"cpeNameId": "5002EC4C-0318-475E-A681-E19F0CE97550"
 		},
 		{
+			"cpeName": "cpe:2.3:a:dell:powerscale_onefs:9.4.0.18:*:*:*:*:*:*:*",
+			"cpeNameId": "A74335EB-A76C-4AE7-8ECB-AF480EF4DED8"
+		},
+		{
 			"cpeName": "cpe:2.3:a:dell:powerscale_onefs:9.5:*:*:*:*:*:*:*",
 			"cpeNameId": "AE644D14-DFA7-42FB-89F8-0D0E1571881A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dell:powerscale_onefs:9.5.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "6AA205C1-7AC9-44B2-849E-D1DB52F7C4B5"
 		},
 		{
 			"cpeName": "cpe:2.3:a:dell:powerscale_onefs:9.5.0.5:*:*:*:*:*:*:*",
@@ -101,12 +109,20 @@
 			"cpeNameId": "8E32212E-9C14-42FA-B1B2-8EE43560EE76"
 		},
 		{
+			"cpeName": "cpe:2.3:a:dell:powerscale_onefs:9.5.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C5BC37F4-C72E-4993-894C-A873BBBCC7D2"
+		},
+		{
 			"cpeName": "cpe:2.3:a:dell:powerscale_onefs:9.6.0:*:*:*:*:*:*:*",
 			"cpeNameId": "AF6DA01D-2339-45B7-9FD6-1C319A825C4A"
 		},
 		{
 			"cpeName": "cpe:2.3:a:dell:powerscale_onefs:9.6.1:*:*:*:*:*:*:*",
 			"cpeNameId": "43431541-F429-4D4B-9D67-4861963CB2EA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dell:powerscale_onefs:9.7.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "3E720A1D-9CFF-4C82-A7CF-A6B7C56812ED"
 		}
 	]
 }

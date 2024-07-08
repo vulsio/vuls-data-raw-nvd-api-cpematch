@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:o:abb:nexus-2128-f_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "62654DD7-8BE1-4268-8571-D7B7AA750323",
+	"versionEndIncluding": "3.08.01",
+	"created": "2024-07-08T11:16:57.057",
+	"lastModified": "2024-07-08T11:16:57.057",
+	"cpeLastModified": "2024-07-08T11:16:57.057",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:abb:nexus-2128-f_firmware:3.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "9A06598F-319D-4D13-ADF1-0B8D254A2699"
+		},
+		{
+			"cpeName": "cpe:2.3:o:abb:nexus-2128-f_firmware:3.07.01:*:*:*:*:*:*:*",
+			"cpeNameId": "41C0D7B6-3778-434F-B2CB-0C6F9615C244"
+		}
+	]
+}

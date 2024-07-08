@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:o:abb:aspect-ent-96_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "FEECC7F5-C8E3-425A-9B41-4B298D29BE6B",
+	"versionEndIncluding": "3.08.01",
+	"created": "2024-07-08T11:16:57.057",
+	"lastModified": "2024-07-08T11:16:57.057",
+	"cpeLastModified": "2024-07-08T11:16:57.057",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:abb:aspect-ent-96_firmware:3.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "FA9156DB-CE3A-4F45-91D6-1F1C87575343"
+		},
+		{
+			"cpeName": "cpe:2.3:o:abb:aspect-ent-96_firmware:3.07.01:*:*:*:*:*:*:*",
+			"cpeNameId": "82D47282-9F1B-4ED2-A262-65B96BCF8FA7"
+		}
+	]
+}

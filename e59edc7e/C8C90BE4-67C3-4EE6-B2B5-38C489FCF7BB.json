@@ -3,8 +3,8 @@
 	"matchCriteriaId": "C8C90BE4-67C3-4EE6-B2B5-38C489FCF7BB",
 	"versionEndExcluding": "4.10.36",
 	"created": "2024-07-03T17:01:11.210",
-	"lastModified": "2024-07-03T17:01:11.210",
-	"cpeLastModified": "2024-07-03T17:01:11.210",
+	"lastModified": "2024-07-08T15:09:12.093",
+	"cpeLastModified": "2024-07-08T15:09:12.093",
 	"status": "Active",
 	"matches": [
 		{
@@ -1630,6 +1630,62 @@
 		{
 			"cpeName": "cpe:2.3:a:leap13:premium_addons_for_elementor:4.10.20:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "AD66E34B-4CAA-40A7-8A10-BFC7FCBDECAC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:leap13:premium_addons_for_elementor:4.10.21:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "756FD0C3-E3E8-4AE1-A165-AD5BAC5CCB0E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:leap13:premium_addons_for_elementor:4.10.22:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "50E4E2BE-7C67-4EE5-84A0-1BA964BAB8F7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:leap13:premium_addons_for_elementor:4.10.24:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FAC5CC96-1031-4710-8069-7CE627E69358"
+		},
+		{
+			"cpeName": "cpe:2.3:a:leap13:premium_addons_for_elementor:4.10.25:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "22416158-C8CC-41E8-B0BA-7EA9522E9500"
+		},
+		{
+			"cpeName": "cpe:2.3:a:leap13:premium_addons_for_elementor:4.10.26:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C5798FAE-B335-42D1-8D5A-C0385E67EF4A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:leap13:premium_addons_for_elementor:4.10.27:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "67583119-47B5-4C4F-9129-73556DFFC50A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:leap13:premium_addons_for_elementor:4.10.28:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F1F29823-DCFF-4061-9961-03BCDE4CB7BD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:leap13:premium_addons_for_elementor:4.10.29:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FD8D5465-8417-4261-AC54-92A54DE21D5E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:leap13:premium_addons_for_elementor:4.10.30:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "02A4DBF9-4C66-45F0-B1A4-C795E7BA7657"
+		},
+		{
+			"cpeName": "cpe:2.3:a:leap13:premium_addons_for_elementor:4.10.31:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D18093F6-1AD3-45FC-B8B0-9143EDA02DA7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:leap13:premium_addons_for_elementor:4.10.32:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "08DF5586-63CE-48A9-9B69-82BBA3D9D7B9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:leap13:premium_addons_for_elementor:4.10.33:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3758F413-13B0-4930-9937-873DA5541826"
+		},
+		{
+			"cpeName": "cpe:2.3:a:leap13:premium_addons_for_elementor:4.10.34:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F153666E-49C2-43CB-A27C-354FE1A6A787"
+		},
+		{
+			"cpeName": "cpe:2.3:a:leap13:premium_addons_for_elementor:4.10.35:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1A2B503B-36B4-4A65-BA42-F83BE4C71923"
 		}
 	]
 }

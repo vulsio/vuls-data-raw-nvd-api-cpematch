@@ -4,9 +4,13 @@
 	"versionEndIncluding": "7.2.7",
 	"created": "2023-10-05T10:56:05.893",
 	"lastModified": "2023-10-05T11:01:09.973",
-	"cpeLastModified": "2023-10-05T11:01:09.973",
+	"cpeLastModified": "2024-07-08T15:17:47.153",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:radiustheme:the_post_grid:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "740F5091-EAA9-4328-B5CA-B1C7489B749F"
+		},
 		{
 			"cpeName": "cpe:2.3:a:radiustheme:the_post_grid:2.3.6.5:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "4C48DB60-AD35-4546-9A70-1508009FEF60"

@@ -4,8 +4,8 @@
 	"versionStartIncluding": "6.0.0",
 	"versionEndExcluding": "16.2.0",
 	"created": "2024-07-03T16:09:41.757",
-	"lastModified": "2024-07-03T16:09:41.757",
-	"cpeLastModified": "2024-07-03T16:09:41.757",
+	"lastModified": "2024-07-08T17:06:54.950",
+	"cpeLastModified": "2024-07-08T17:06:54.950",
 	"status": "Active",
 	"matches": [
 		{
@@ -219,6 +219,14 @@
 		{
 			"cpeName": "cpe:2.3:a:jungo:windriver:15.5.0:*:*:*:*:*:*:*",
 			"cpeNameId": "5C967C2D-D764-4142-BE84-3DBBD44B6535"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jungo:windriver:16.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "60F7A939-5B21-4B78-8849-ED5412E29171"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jungo:windriver:16.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "DB90DB70-F87C-4D85-AE69-3EBB7BC71047"
 		}
 	]
 }

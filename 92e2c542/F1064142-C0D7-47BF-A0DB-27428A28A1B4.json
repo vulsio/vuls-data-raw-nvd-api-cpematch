@@ -4,9 +4,13 @@
 	"versionEndExcluding": "4.1.10",
 	"created": "2021-06-18T01:25:29.610",
 	"lastModified": "2021-06-18T01:25:29.610",
-	"cpeLastModified": "2023-03-10T15:27:59.537",
+	"cpeLastModified": "2024-07-08T15:12:13.170",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:-:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "F6518325-FEF6-4FA4-82DB-0E1B3810A7B7"
+		},
 		{
 			"cpeName": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:-:*:*:*:pro:wordpress:*:*",
 			"cpeNameId": "4D80BA39-273C-45DD-959C-7C0403A95D46"

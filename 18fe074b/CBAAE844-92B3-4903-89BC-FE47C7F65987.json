@@ -3,8 +3,8 @@
 	"matchCriteriaId": "CBAAE844-92B3-4903-89BC-FE47C7F65987",
 	"versionEndExcluding": "5.7.26",
 	"created": "2024-07-03T14:33:47.120",
-	"lastModified": "2024-07-03T14:33:47.120",
-	"cpeLastModified": "2024-07-03T14:33:47.120",
+	"lastModified": "2024-07-08T15:07:40.157",
+	"cpeLastModified": "2024-07-08T15:07:40.157",
 	"status": "Active",
 	"matches": [
 		{
@@ -1178,6 +1178,18 @@
 		{
 			"cpeName": "cpe:2.3:a:icegram:email_subscribers_\\&_newsletters:5.7.22:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "7F8D7AD5-87A6-4DF3-B43B-237F7BE51A27"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:email_subscribers_\\&_newsletters:5.7.23:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "243476D2-A67F-4945-8AD5-9C10782C7B7E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:email_subscribers_\\&_newsletters:5.7.24:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E280C8DC-6324-4B9F-8F88-33867F68B224"
+		},
+		{
+			"cpeName": "cpe:2.3:a:icegram:email_subscribers_\\&_newsletters:5.7.25:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A91BCD95-BB81-4940-817B-3C76305E71C0"
 		}
 	]
 }

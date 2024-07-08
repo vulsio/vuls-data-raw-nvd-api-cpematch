@@ -4,9 +4,13 @@
 	"versionEndExcluding": "7.3.5",
 	"created": "2022-11-21T20:08:07.477",
 	"lastModified": "2022-11-21T20:08:07.477",
-	"cpeLastModified": "2022-11-21T20:08:07.477",
+	"cpeLastModified": "2024-07-08T15:06:18.043",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:expresstech:quiz_and_survey_master:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B97D3184-8F00-4009-83C1-A5854B160708"
+		},
 		{
 			"cpeName": "cpe:2.3:a:expresstech:quiz_and_survey_master:0.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "3F6CB614-1A7B-4FE2-96F9-7E1853208B7E"
