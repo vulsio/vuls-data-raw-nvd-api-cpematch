@@ -1,0 +1,16 @@
+{
+	"criteria": "cpe:2.3:a:exiv2:exiv2:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E1304EB2-11F0-41A7-A09E-75EC5F40340C",
+	"versionStartIncluding": "0.28.0",
+	"versionEndExcluding": "0.28.3",
+	"created": "2024-07-08T21:43:52.033",
+	"lastModified": "2024-07-08T21:43:52.033",
+	"cpeLastModified": "2024-07-08T21:43:52.033",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:exiv2:exiv2:0.28.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D6A31883-4F0A-4EE7-A533-2E1393C95C91"
+		}
+	]
+}
