@@ -3,8 +3,8 @@
 	"matchCriteriaId": "C7EF259E-D347-4839-8415-71B2588FD7DE",
 	"versionEndExcluding": "10.9.3",
 	"created": "2024-07-08T21:55:20.840",
-	"lastModified": "2024-07-08T21:55:20.840",
-	"cpeLastModified": "2024-07-08T21:55:20.840",
+	"lastModified": "2024-07-09T17:00:35.100",
+	"cpeLastModified": "2024-07-09T17:00:35.100",
 	"status": "Active",
 	"matches": [
 		{
@@ -1254,6 +1254,42 @@
 		{
 			"cpeName": "cpe:2.3:a:monospace:directus:10.7.0:beta0:*:*:*:node.js:*:*",
 			"cpeNameId": "FD07E588-B31B-4234-A1EE-C12CC53BDAD9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:monospace:directus:10.7.1:*:*:*:*:node.js:*:*",
+			"cpeNameId": "84BAFEE3-47E1-4CD5-8869-178BCEDD8901"
+		},
+		{
+			"cpeName": "cpe:2.3:a:monospace:directus:10.7.2:*:*:*:*:node.js:*:*",
+			"cpeNameId": "8D2A2646-C9AC-4C3E-ABF0-ECF29F653171"
+		},
+		{
+			"cpeName": "cpe:2.3:a:monospace:directus:10.8.0:*:*:*:*:node.js:*:*",
+			"cpeNameId": "BCF5EBC5-3163-4C3D-9EAC-3773797EFE23"
+		},
+		{
+			"cpeName": "cpe:2.3:a:monospace:directus:10.8.1:*:*:*:*:node.js:*:*",
+			"cpeNameId": "BCFBE04B-AAD1-49A4-8D1A-FFA47FF84575"
+		},
+		{
+			"cpeName": "cpe:2.3:a:monospace:directus:10.8.2:*:*:*:*:node.js:*:*",
+			"cpeNameId": "93BFA1BE-4784-49E3-9336-ADBF7C65AD88"
+		},
+		{
+			"cpeName": "cpe:2.3:a:monospace:directus:10.8.3:*:*:*:*:node.js:*:*",
+			"cpeNameId": "24FF503B-5510-4232-8110-58F27C4EB34F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:monospace:directus:10.9.0:*:*:*:*:node.js:*:*",
+			"cpeNameId": "491FD701-FEF2-48B7-B6B0-8CFF30889B03"
+		},
+		{
+			"cpeName": "cpe:2.3:a:monospace:directus:10.9.1:*:*:*:*:node.js:*:*",
+			"cpeNameId": "5B762D2D-1A95-47F0-9183-325AC9B2F0BD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:monospace:directus:10.9.2:*:*:*:*:node.js:*:*",
+			"cpeNameId": "A55CA40A-2FE0-4D62-A46E-972FA70412EF"
 		}
 	]
 }

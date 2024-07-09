@@ -3,7 +3,7 @@
 	"matchCriteriaId": "884E775E-5475-43E8-BFA9-8701C49847A7",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-03-03T16:15:58.567",
+	"cpeLastModified": "2024-07-09T17:05:22.127",
 	"status": "Active",
 	"matches": [
 		{
@@ -377,6 +377,22 @@
 		{
 			"cpeName": "cpe:2.3:a:openstack:glance:26.0.0.0:beta2:*:*:*:*:*:*",
 			"cpeNameId": "177A079C-BCAB-46E4-973A-CE3C8683A983"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openstack:glance:26.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "47E63AF6-46E1-45FE-BD61-383F89FD7C0C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openstack:glance:27.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "4BEB8EC5-CF19-4A20-909D-60B2D3E96F49"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openstack:glance:28.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "6A1EA896-2BE4-4414-8DBC-0AAA559C8CAB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openstack:glance:28.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "FEE1E9A4-073C-4FA4-9916-96C9A776BE2D"
 		},
 		{
 			"cpeName": "cpe:2.3:a:openstack:glance:2011.2:*:*:*:*:*:*:*",

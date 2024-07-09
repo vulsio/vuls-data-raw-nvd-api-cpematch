@@ -4,7 +4,7 @@
 	"versionEndExcluding": "0.27.5",
 	"created": "2023-03-01T16:13:21.980",
 	"lastModified": "2023-03-01T16:13:21.980",
-	"cpeLastModified": "2023-03-01T16:13:21.980",
+	"cpeLastModified": "2024-07-09T17:30:01.150",
 	"status": "Active",
 	"matches": [
 		{
@@ -182,6 +182,10 @@
 		{
 			"cpeName": "cpe:2.3:a:exiv2:exiv2:0.27.3:rc2:*:*:*:*:*:*",
 			"cpeNameId": "00E66E0B-9D42-4848-B8BD-86C41A11B6D3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:exiv2:exiv2:0.27.4:-:*:*:*:*:*:*",
+			"cpeNameId": "1D1586E7-AEA1-41C4-9561-F9F24B5FA64C"
 		},
 		{
 			"cpeName": "cpe:2.3:a:exiv2:exiv2:0.27.4:rc1:*:*:*:*:*:*",

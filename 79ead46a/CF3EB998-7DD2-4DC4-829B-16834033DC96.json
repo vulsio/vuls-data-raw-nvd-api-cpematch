@@ -2,6 +2,13 @@
 	"criteria": "cpe:2.3:a:tribe29:checkmk:1.4.0:i2:*:*:*:*:*:*",
 	"matchCriteriaId": "CF3EB998-7DD2-4DC4-829B-16834033DC96",
 	"created": "2022-03-02T14:55:33.997",
-	"lastModified": "2022-03-02T14:55:33.997",
-	"status": "Inactive"
+	"lastModified": "2024-07-09T16:48:16.983",
+	"cpeLastModified": "2024-07-09T16:48:16.983",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:1.4.0:i2:*:*:*:*:*:*",
+			"cpeNameId": "8FF2844C-2E15-4062-98B1-1BF34D27F5B4"
+		}
+	]
 }

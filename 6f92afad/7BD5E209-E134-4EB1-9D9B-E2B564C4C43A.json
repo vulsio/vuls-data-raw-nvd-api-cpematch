@@ -5,6 +5,12 @@
 	"versionEndExcluding": "28.1.1",
 	"created": "2024-07-08T15:28:49.887",
 	"lastModified": "2024-07-08T15:28:49.887",
-	"cpeLastModified": "2024-07-08T15:28:49.887",
-	"status": "Active"
+	"cpeLastModified": "2024-07-09T17:05:22.127",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:openstack:nova:28.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "FBA79698-017D-4BB8-AE1C-6A6D127A6D1F"
+		}
+	]
 }
