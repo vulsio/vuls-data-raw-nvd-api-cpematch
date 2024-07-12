@@ -1,0 +1,40 @@
+{
+	"criteria": "cpe:2.3:a:oisf:suricata:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "C796A1DA-B8E9-45E4-BBCF-7673AB7DDC99",
+	"versionStartIncluding": "6.0.0",
+	"versionEndExcluding": "6.0.20",
+	"created": "2024-07-12T17:09:54.893",
+	"lastModified": "2024-07-12T17:09:54.893",
+	"cpeLastModified": "2024-07-12T17:09:54.893",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oisf:suricata:6.0.0:-:*:*:*:*:*:*",
+			"cpeNameId": "8AE5628A-9E7D-42AD-91DB-F76DCF8C995E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oisf:suricata:6.0.0:beta1:*:*:*:*:*:*",
+			"cpeNameId": "2B3F0F02-78EC-4E45-B5B0-B3FDD68706A8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oisf:suricata:6.0.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "CE458D3D-8EDD-4B65-AECD-8B693B2BA8E7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oisf:suricata:6.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "337A011C-346A-4B21-967B-762E776B8984"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oisf:suricata:6.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "1CF84A2F-BF02-42FC-A3C3-AB7546FA985D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oisf:suricata:6.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "F8F236E3-17DD-4CD1-91D2-240CB842597A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oisf:suricata:6.0.4:*:*:*:*:*:*:*",
+			"cpeNameId": "79FD73CE-3719-4E0F-97E3-97025345C188"
+		}
+	]
+}

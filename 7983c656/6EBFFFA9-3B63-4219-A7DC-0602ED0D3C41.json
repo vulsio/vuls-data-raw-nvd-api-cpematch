@@ -1,0 +1,16 @@
+{
+	"criteria": "cpe:2.3:a:microsoft:azure_cyclecloud:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6EBFFFA9-3B63-4219-A7DC-0602ED0D3C41",
+	"versionStartIncluding": "8.0.0",
+	"versionEndIncluding": "8.6.0",
+	"created": "2024-07-12T15:02:10.527",
+	"lastModified": "2024-07-12T15:02:10.527",
+	"cpeLastModified": "2024-07-12T15:02:10.527",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:azure_cyclecloud:8.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "00EB96D3-3B06-4A48-B728-DDEB8B8CDC15"
+		}
+	]
+}
