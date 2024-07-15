@@ -3,8 +3,8 @@
 	"matchCriteriaId": "52D1CB92-CC3C-4B3A-8A4E-58749679CE80",
 	"versionEndExcluding": "1.11.16",
 	"created": "2024-07-03T14:25:30.677",
-	"lastModified": "2024-07-03T14:25:30.677",
-	"cpeLastModified": "2024-07-03T14:25:30.677",
+	"lastModified": "2024-07-15T17:53:45.883",
+	"cpeLastModified": "2024-07-15T17:53:45.883",
 	"status": "Active",
 	"matches": [
 		{
@@ -494,6 +494,34 @@
 		{
 			"cpeName": "cpe:2.3:a:supsystic:easy_google_maps:1.11.8:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "1E825CA7-4E01-458E-AA0D-CFFE07F13C8F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:supsystic:easy_google_maps:1.11.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "179A7E16-5AD6-45F1-9952-2A8FAFD8C3E5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:supsystic:easy_google_maps:1.11.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E97A8461-1480-4498-8305-E9831C85EC15"
+		},
+		{
+			"cpeName": "cpe:2.3:a:supsystic:easy_google_maps:1.11.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7B1E204E-5298-4695-99C6-550EA24C66DE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:supsystic:easy_google_maps:1.11.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0B233D84-4B10-4C68-96A7-A5E06AD36A29"
+		},
+		{
+			"cpeName": "cpe:2.3:a:supsystic:easy_google_maps:1.11.13:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AF732A62-7F96-4E01-83A5-57777008AB02"
+		},
+		{
+			"cpeName": "cpe:2.3:a:supsystic:easy_google_maps:1.11.14:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "50876BC0-80DA-41AB-B1F6-DFF8E79AB237"
+		},
+		{
+			"cpeName": "cpe:2.3:a:supsystic:easy_google_maps:1.11.15:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9E5D7FCA-E429-4F0E-919C-529CD549BF34"
 		}
 	]
 }

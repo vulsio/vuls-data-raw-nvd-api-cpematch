@@ -3,10 +3,14 @@
 	"matchCriteriaId": "B415B6BA-5CF8-4A07-9546-2814F2BFCBAD",
 	"versionEndExcluding": "0.1.0.45",
 	"created": "2024-07-12T11:27:34.397",
-	"lastModified": "2024-07-12T11:27:34.397",
-	"cpeLastModified": "2024-07-12T11:27:34.397",
+	"lastModified": "2024-07-15T14:04:56.830",
+	"cpeLastModified": "2024-07-15T14:04:56.830",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "32586B0F-7718-4E38-BA50-46E0377DC5E5"
+		},
 		{
 			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.0.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "0A1ED420-27B4-48CD-B077-26A9416F0EF8"
@@ -238,6 +242,126 @@
 		{
 			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.14:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "45FBA0E4-D35E-49D4-A00B-1735C607B008"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.15:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0972978D-8AC8-452A-BD43-95B6D66781D4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.16:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EF79614D-88A0-43DF-A483-776E8A100E7E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.17:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B667DB09-2B82-49A7-BFA2-C80388E36577"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.18:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D013F437-BCB6-42A8-8E8C-B2761418DAB0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.19:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "48A9A4BD-EF41-4BBF-8CCE-1A0F36464B0F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.20:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8B96FC70-5857-4AAA-B8F8-8A6F156FBC69"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.21:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "975BAD40-ED20-48A0-889E-CE5AA5BC7F33"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.22:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "60F51C34-D75E-4A44-82D7-6FAAB1EB968B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.23:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F20C10C3-69B5-4449-96B6-08A28FDC5557"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.24:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4CF5BCB6-B7DB-428A-BFA7-CC005EDD6F7B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.25:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BFCA3B5A-B6E2-495C-86B1-E69E165D38A1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.26:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D30A8337-3235-4380-B7A2-C6E1DB72D66D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.27:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F682B2C5-5975-441A-B3BA-66AAB757E191"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.28:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1822E592-7C24-464F-983E-793BA9CC7FED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.29:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EB3FCC22-4410-4652-821B-0884FF557441"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.30:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E52C4E20-750D-4531-B963-237055FEAF19"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.31:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F2ACA4C5-3A17-4764-BD7D-3B82BF7C9DEE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.32:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DA3263C9-7CA3-4175-A4F2-6B1BF50BCB80"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.33:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "55FD7D04-F1A8-4078-B990-785AABC72390"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.34:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E030CBA0-AE4F-4B5A-901C-694A76CCF66D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.35:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6E496098-8BA6-4E15-9C61-2FBB80A920AE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.36:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "215D928C-4CD8-455A-B73E-912185EAA524"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.37:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5AD44D29-1653-4384-9E6E-2C3009503447"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.38:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "72008C50-97FF-4394-9067-CB4BD631658F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.39:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A4A9D9A9-08D4-4E19-BED4-0B28193E587F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.40:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0C647194-50D9-4CC0-8F75-824181E3032C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.41:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "34A44E9D-38A7-4DBE-95DC-CCF6ADBABE9A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.42:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EC1BCC3F-4278-4B18-AE77-49466D50651E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.43:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2A2BEBF0-4613-4533-9749-639B9157761A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.1.0.44:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "17C57376-499D-4AE6-BF40-B578FBDFEE62"
 		}
 	]
 }

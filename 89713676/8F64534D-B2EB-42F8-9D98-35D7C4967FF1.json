@@ -4,9 +4,13 @@
 	"versionEndIncluding": "0.1.0.9",
 	"created": "2024-01-31T16:48:49.683",
 	"lastModified": "2024-01-31T19:19:40.597",
-	"cpeLastModified": "2024-01-31T19:19:40.597",
+	"cpeLastModified": "2024-07-15T14:04:56.830",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:instawp:instawp_connect:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "32586B0F-7718-4E38-BA50-46E0377DC5E5"
+		},
 		{
 			"cpeName": "cpe:2.3:a:instawp:instawp_connect:0.0.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "0A1ED420-27B4-48CD-B077-26A9416F0EF8"

@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:microsoft:.net:4.8.1:*:*:*:*:*:*:*",
 	"matchCriteriaId": "083CF7D6-C4CF-452E-803C-48E6F1DED857",
 	"created": "2022-09-14T13:15:41.690",
-	"lastModified": "2023-10-16T02:00:25.247",
-	"cpeLastModified": "2023-10-15T16:18:44.963",
-	"status": "Inactive"
+	"lastModified": "2024-07-15T15:41:52.313",
+	"cpeLastModified": "2024-07-15T15:41:52.313",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:.net:4.8.1:*:*:*:*:*:*:*",
+			"cpeNameId": "FD984745-D16B-49CB-BE92-BC93EB8E29D0"
+		}
+	]
 }
