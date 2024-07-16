@@ -3,7 +3,7 @@
 	"matchCriteriaId": "A70B6471-8522-4821-B02D-ED8D781ABB43",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2024-07-16T12:10:58.100",
+	"cpeLastModified": "2024-07-16T12:17:20.307",
 	"status": "Active",
 	"matches": [
 		{
@@ -293,6 +293,10 @@
 		{
 			"cpeName": "cpe:2.3:a:oracle:jre:1.8.0:update321:*:*:*:*:*:*",
 			"cpeNameId": "FE2B23BE-3A35-4135-8CB8-7B8FB9BB59B6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:jre:1.8.0:update33:*:*:*:*:*:*",
+			"cpeNameId": "F3B895AB-A04D-47EF-9029-80547B9618C4"
 		},
 		{
 			"cpeName": "cpe:2.3:a:oracle:jre:1.8.0:update331:*:*:*:*:*:*",

@@ -3,7 +3,7 @@
 	"matchCriteriaId": "91B0D09B-CFBA-48DA-B642-43BF5EB814F8",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2024-07-16T12:10:58.100",
+	"cpeLastModified": "2024-07-16T12:17:20.307",
 	"status": "Active",
 	"matches": [
 		{
@@ -353,6 +353,10 @@
 		{
 			"cpeName": "cpe:2.3:a:oracle:jdk:1.8.0:update321:*:*:*:*:*:*",
 			"cpeNameId": "CAC8D4DB-00F4-45B1-857F-C30C9A3053C5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:jdk:1.8.0:update33:*:*:*:*:*:*",
+			"cpeNameId": "2409C064-42A4-40C9-8295-397458FE83CC"
 		},
 		{
 			"cpeName": "cpe:2.3:a:oracle:jdk:1.8.0:update331:*:*:*:*:*:*",
