@@ -4,7 +4,7 @@
 	"versionEndIncluding": "8.0.30",
 	"created": "2022-10-19T13:49:18.333",
 	"lastModified": "2022-10-19T13:49:18.333",
-	"cpeLastModified": "2022-10-19T13:49:18.333",
+	"cpeLastModified": "2024-07-16T12:17:20.307",
 	"status": "Active",
 	"matches": [
 		{
@@ -152,6 +152,10 @@
 			"cpeNameId": "836D1451-FEA2-4077-9A43-73B32FA59E63"
 		},
 		{
+			"cpeName": "cpe:2.3:a:oracle:mysql_enterprise_monitor:3.3.6.3293:*:*:*:*:*:*:*",
+			"cpeNameId": "3BC5E05A-9C99-4943-95E2-6ABCFFE67565"
+		},
+		{
 			"cpeName": "cpe:2.3:a:oracle:mysql_enterprise_monitor:3.3.7:*:*:*:*:*:*:*",
 			"cpeNameId": "349BB3E4-B0D8-4F34-9245-42D9F50EA029"
 		},
@@ -188,6 +192,10 @@
 			"cpeNameId": "36E01E1F-54E0-4094-9D98-BBD0E514880E"
 		},
 		{
+			"cpeName": "cpe:2.3:a:oracle:mysql_enterprise_monitor:3.4.4.4226:*:*:*:*:*:*:*",
+			"cpeNameId": "68099103-C3DF-4497-8696-E906E8AA218E"
+		},
+		{
 			"cpeName": "cpe:2.3:a:oracle:mysql_enterprise_monitor:3.4.5:*:*:*:*:*:*:*",
 			"cpeNameId": "283996E6-A3D1-4661-9B51-CDE65D73815C"
 		},
@@ -222,6 +230,10 @@
 		{
 			"cpeName": "cpe:2.3:a:oracle:mysql_enterprise_monitor:4.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "CFD76764-A729-484B-B0F9-9494E4D07AD5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:mysql_enterprise_monitor:4.0.0.5135:*:*:*:*:*:*:*",
+			"cpeNameId": "1453436C-A1D0-46DA-A25A-BAE42FEE3CCB"
 		},
 		{
 			"cpeName": "cpe:2.3:a:oracle:mysql_enterprise_monitor:4.0.1:*:*:*:*:*:*:*",

@@ -5,12 +5,16 @@
 	"versionEndIncluding": "4.0.6.5281",
 	"created": "2022-03-04T18:33:19.700",
 	"lastModified": "2022-06-23T15:10:10.293",
-	"cpeLastModified": "2022-04-13T14:52:00.263",
+	"cpeLastModified": "2024-07-16T12:17:20.307",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:oracle:mysql_enterprise_monitor:4.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "CFD76764-A729-484B-B0F9-9494E4D07AD5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:mysql_enterprise_monitor:4.0.0.5135:*:*:*:*:*:*:*",
+			"cpeNameId": "1453436C-A1D0-46DA-A25A-BAE42FEE3CCB"
 		},
 		{
 			"cpeName": "cpe:2.3:a:oracle:mysql_enterprise_monitor:4.0.1:*:*:*:*:*:*:*",

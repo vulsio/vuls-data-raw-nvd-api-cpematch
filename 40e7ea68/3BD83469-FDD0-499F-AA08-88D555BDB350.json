@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.7.0",
 	"created": "2024-03-29T17:16:08.893",
 	"lastModified": "2024-03-29T17:16:08.893",
-	"cpeLastModified": "2024-03-29T17:16:08.893",
+	"cpeLastModified": "2024-07-16T12:17:20.307",
 	"status": "Active",
 	"matches": [
 		{
@@ -178,6 +178,14 @@
 		{
 			"cpeName": "cpe:2.3:a:oracle:jre:1.4.2_19:*:*:*:*:*:*:*",
 			"cpeNameId": "B9A4DD66-BB02-4DBB-AD3E-5D4B4D35137A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:jre:1.4.2_25:*:*:*:*:*:*:*",
+			"cpeNameId": "89B46E69-6EEC-413B-AEC3-1279D9B075B0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:jre:1.4.2_37:*:*:*:*:*:*:*",
+			"cpeNameId": "5E631A01-3BFD-49D2-A2F0-0A55B342BF09"
 		},
 		{
 			"cpeName": "cpe:2.3:a:oracle:jre:1.4.2_38:*:*:*:*:*:*:*",
@@ -834,6 +842,10 @@
 		{
 			"cpeName": "cpe:2.3:a:oracle:jre:1.6.0:update91:*:*:*:*:*:*",
 			"cpeNameId": "20A56212-1664-415D-851C-633D05FFCE1A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:jre:1.6.0:update95:*:*:*:*:*:*",
+			"cpeNameId": "8BE15BA3-5294-462B-90AB-AE4958D9D612"
 		},
 		{
 			"cpeName": "cpe:2.3:a:oracle:jre:1.7:update_121:*:*:*:*:*:*",

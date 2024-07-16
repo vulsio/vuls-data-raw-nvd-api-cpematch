@@ -4,9 +4,13 @@
 	"versionEndExcluding": "1.7.0",
 	"created": "2024-03-29T17:16:08.893",
 	"lastModified": "2024-03-29T17:16:08.893",
-	"cpeLastModified": "2024-03-29T17:16:08.893",
+	"cpeLastModified": "2024-07-16T12:17:20.307",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:jdk:1.4.2_37:*:*:*:*:*:*:*",
+			"cpeNameId": "72F3ED90-3D7B-4A28-A647-260C6E928790"
+		},
 		{
 			"cpeName": "cpe:2.3:a:oracle:jdk:1.4.2_38:*:*:*:*:*:*:*",
 			"cpeNameId": "F754310A-16E5-45A1-842A-24D21729784B"

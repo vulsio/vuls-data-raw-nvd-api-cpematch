@@ -3,8 +3,8 @@
 	"matchCriteriaId": "209328C1-60EC-48B8-AA65-AC9D9EF5EBEA",
 	"versionEndIncluding": "1.4.2_37",
 	"created": "2024-07-15T11:50:48.857",
-	"lastModified": "2024-07-15T11:50:48.857",
-	"cpeLastModified": "2024-07-15T11:50:48.857",
+	"lastModified": "2024-07-16T12:17:20.307",
+	"cpeLastModified": "2024-07-16T12:17:20.307",
 	"status": "Active",
 	"matches": [
 		{
@@ -178,6 +178,14 @@
 		{
 			"cpeName": "cpe:2.3:a:oracle:jre:1.4.2_19:*:*:*:*:*:*:*",
 			"cpeNameId": "B9A4DD66-BB02-4DBB-AD3E-5D4B4D35137A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:jre:1.4.2_25:*:*:*:*:*:*:*",
+			"cpeNameId": "89B46E69-6EEC-413B-AEC3-1279D9B075B0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:jre:1.4.2_37:*:*:*:*:*:*:*",
+			"cpeNameId": "5E631A01-3BFD-49D2-A2F0-0A55B342BF09"
 		}
 	]
 }

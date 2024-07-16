@@ -4,6 +4,12 @@
 	"versionEndIncluding": "1.4.2_37",
 	"created": "2024-07-15T11:50:48.857",
 	"lastModified": "2024-07-15T11:50:48.857",
-	"cpeLastModified": "2024-07-15T11:50:48.857",
-	"status": "Active"
+	"cpeLastModified": "2024-07-16T12:17:20.307",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:jdk:1.4.2_37:*:*:*:*:*:*:*",
+			"cpeNameId": "72F3ED90-3D7B-4A28-A647-260C6E928790"
+		}
+	]
 }

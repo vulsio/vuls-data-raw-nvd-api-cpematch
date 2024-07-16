@@ -3,10 +3,14 @@
 	"matchCriteriaId": "6A816980-6FF3-4583-A32E-DF300BE675F9",
 	"versionEndExcluding": "1.2.56",
 	"created": "2024-07-12T13:17:51.380",
-	"lastModified": "2024-07-12T13:17:51.380",
-	"cpeLastModified": "2024-07-12T13:17:51.380",
+	"lastModified": "2024-07-16T11:46:12.507",
+	"cpeLastModified": "2024-07-16T11:46:12.507",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:10web:slider:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B89D197A-3F39-401A-A116-91077B7182BC"
+		},
 		{
 			"cpeName": "cpe:2.3:a:10web:slider:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "AB25964F-EBDB-4D5D-983B-6E4FE8CCF35C"
@@ -778,6 +782,14 @@
 		{
 			"cpeName": "cpe:2.3:a:10web:slider:1.2.53:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "7ABB3B60-B069-4F65-B486-1B7C5E3442CA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:10web:slider:1.2.54:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A3BD061D-5202-4C2B-A30C-465DB91EE146"
+		},
+		{
+			"cpeName": "cpe:2.3:a:10web:slider:1.2.55:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0FF3AF67-C94E-4FC4-99D7-9BE0DF98CFF1"
 		}
 	]
 }

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "FF9C223C-BC90-4253-A009-53DEDEE9C1CC",
 	"versionEndIncluding": "3.3.6.3293",
 	"created": "2024-07-11T15:51:01.273",
-	"lastModified": "2024-07-11T15:51:01.273",
-	"cpeLastModified": "2024-07-11T15:51:01.273",
+	"lastModified": "2024-07-16T12:17:20.307",
+	"cpeLastModified": "2024-07-16T12:17:20.307",
 	"status": "Active",
 	"matches": [
 		{
@@ -150,6 +150,10 @@
 		{
 			"cpeName": "cpe:2.3:a:oracle:mysql_enterprise_monitor:3.3.6:*:*:*:*:*:*:*",
 			"cpeNameId": "836D1451-FEA2-4077-9A43-73B32FA59E63"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:mysql_enterprise_monitor:3.3.6.3293:*:*:*:*:*:*:*",
+			"cpeNameId": "3BC5E05A-9C99-4943-95E2-6ABCFFE67565"
 		}
 	]
 }

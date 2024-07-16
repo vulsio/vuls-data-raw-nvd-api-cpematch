@@ -4,8 +4,8 @@
 	"versionStartIncluding": "3.4.0",
 	"versionEndIncluding": "3.4.4.4226",
 	"created": "2024-07-11T15:51:01.273",
-	"lastModified": "2024-07-11T15:51:01.273",
-	"cpeLastModified": "2024-07-11T15:51:01.273",
+	"lastModified": "2024-07-16T12:17:20.307",
+	"cpeLastModified": "2024-07-16T12:17:20.307",
 	"status": "Active",
 	"matches": [
 		{
@@ -31,6 +31,10 @@
 		{
 			"cpeName": "cpe:2.3:a:oracle:mysql_enterprise_monitor:3.4.4:*:*:*:*:*:*:*",
 			"cpeNameId": "36E01E1F-54E0-4094-9D98-BBD0E514880E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:mysql_enterprise_monitor:3.4.4.4226:*:*:*:*:*:*:*",
+			"cpeNameId": "68099103-C3DF-4497-8696-E906E8AA218E"
 		}
 	]
 }
