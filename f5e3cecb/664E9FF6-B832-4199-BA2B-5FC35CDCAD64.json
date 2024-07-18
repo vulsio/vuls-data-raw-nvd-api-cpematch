@@ -3,8 +3,8 @@
 	"matchCriteriaId": "664E9FF6-B832-4199-BA2B-5FC35CDCAD64",
 	"versionEndExcluding": "1.9.16.4",
 	"created": "2024-07-16T16:16:38.710",
-	"lastModified": "2024-07-16T16:16:38.710",
-	"cpeLastModified": "2024-07-16T16:16:38.710",
+	"lastModified": "2024-07-17T20:09:05.593",
+	"cpeLastModified": "2024-07-17T20:09:05.593",
 	"status": "Active",
 	"matches": [
 		{
@@ -186,6 +186,90 @@
 		{
 			"cpeName": "cpe:2.3:a:wpserveur:wps_hide_login:1.9.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "C88563EA-3414-41CB-9FC2-4C6613CB5C6D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpserveur:wps_hide_login:1.9.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FA4A54BA-4DB0-4C9E-AF7F-ABC3FE7600CE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpserveur:wps_hide_login:1.9.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B6DF27FD-C529-453B-A86B-A76E03F767EE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpserveur:wps_hide_login:1.9.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EAC1F8BA-F48F-4298-A033-D9C872C551DE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpserveur:wps_hide_login:1.9.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "34E93198-E1F5-4636-83CE-DFF41A2ECECF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpserveur:wps_hide_login:1.9.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F2BEF238-60E7-4F21-A3F2-C229C5332E2C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpserveur:wps_hide_login:1.9.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F58B57CA-B329-4710-8896-2DF430766F1C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpserveur:wps_hide_login:1.9.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "768FDBE7-5812-43A6-A3DE-739896D50F23"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpserveur:wps_hide_login:1.9.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1C4CE00D-F647-4FB9-9D66-BA398D1EC0DD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpserveur:wps_hide_login:1.9.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5679B185-6E89-47D7-895E-ECF4325B1675"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpserveur:wps_hide_login:1.9.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EC478FAB-CC75-4B66-A6FC-C512AEDE0F8C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpserveur:wps_hide_login:1.9.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EA8BFD2D-B13C-41E2-80A0-832D63FB5076"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpserveur:wps_hide_login:1.9.13:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "477701CE-890B-477D-9CEA-E613E34F7DF0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpserveur:wps_hide_login:1.9.13.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9AA4433C-534A-4EBF-83F3-BF3493470A31"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpserveur:wps_hide_login:1.9.13.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3F402315-D0D7-4F17-9080-98A0D85B4986"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpserveur:wps_hide_login:1.9.15:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "92C4FEF8-A8A8-49DE-9597-B04856279567"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpserveur:wps_hide_login:1.9.15.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "37A43B80-4736-4BF9-8363-6CEA76402EAF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpserveur:wps_hide_login:1.9.15.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A37BEB67-2A07-4A31-8AF2-F623DF97779F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpserveur:wps_hide_login:1.9.16:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CD2F0B47-C19B-487A-AD28-CA1CA67889B2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpserveur:wps_hide_login:1.9.16.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A0EDDDF0-3DE9-4299-907B-8B9D00AA6F2C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpserveur:wps_hide_login:1.9.16.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0D4DFAB7-69F1-41F5-9837-7562C610FCAD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpserveur:wps_hide_login:1.9.16.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7B7B1EE1-37BB-45D4-8808-31E42B42A1DE"
 		}
 	]
 }

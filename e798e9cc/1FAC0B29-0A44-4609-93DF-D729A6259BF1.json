@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:centurysys:futurenet_nxr-g050:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "1FAC0B29-0A44-4609-93DF-D729A6259BF1",
 	"created": "2024-07-17T15:53:44.877",
-	"lastModified": "2024-07-17T15:53:44.877",
-	"cpeLastModified": "2024-07-17T15:53:44.877",
-	"status": "Active"
+	"lastModified": "2024-07-17T20:40:28.677",
+	"cpeLastModified": "2024-07-17T20:40:28.677",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:centurysys:futurenet_nxr-g050:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7EEE6239-3E76-4BF9-BB42-0DF360F7D32E"
+		}
+	]
 }
