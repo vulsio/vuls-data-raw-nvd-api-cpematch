@@ -3,10 +3,14 @@
 	"matchCriteriaId": "F6CCEFF0-EA14-4AFF-A200-03875C99D11D",
 	"versionEndExcluding": "2.9.3",
 	"created": "2024-07-18T15:22:46.363",
-	"lastModified": "2024-07-18T15:22:46.363",
-	"cpeLastModified": "2024-07-18T15:24:03.107",
+	"lastModified": "2024-07-18T19:05:30.203",
+	"cpeLastModified": "2024-07-18T19:05:30.203",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apache:airflow:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FFE161F2-1CD0-41E0-8E08-EF01FEE4D039"
+		},
 		{
 			"cpeName": "cpe:2.3:a:apache:airflow:0.1:*:*:*:*:*:*:*",
 			"cpeNameId": "892562DB-7AA4-4C53-B015-F452C6CB36E4"
@@ -466,6 +470,82 @@
 		{
 			"cpeName": "cpe:2.3:a:apache:airflow:2.8.1:*:*:*:*:*:*:*",
 			"cpeNameId": "EABDDBF7-182A-4D2B-9D0B-BF0E191371E0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:airflow:2.8.2:-:*:*:*:*:*:*",
+			"cpeNameId": "25974580-DA20-4592-A343-C01DAD22B871"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:airflow:2.8.2:rc1:*:*:*:*:*:*",
+			"cpeNameId": "4A742291-0C56-4B32-9A92-DF0839FEFE0C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:airflow:2.8.2:rc2:*:*:*:*:*:*",
+			"cpeNameId": "9CFEECEC-CE16-4206-A5BE-064AD35710F6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:airflow:2.8.2:rc3:*:*:*:*:*:*",
+			"cpeNameId": "850273ED-DB58-4DE7-9568-3D150AFBB526"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:airflow:2.8.3:-:*:*:*:*:*:*",
+			"cpeNameId": "D908381F-D213-47E0-AAD1-46131F1DC4EA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:airflow:2.8.3:rc1:*:*:*:*:*:*",
+			"cpeNameId": "97164CF8-1863-4D5A-9BDB-6323D5B1038D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:airflow:2.8.4:-:*:*:*:*:*:*",
+			"cpeNameId": "8892724A-D8DE-4F54-AB04-99D67D5774BE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:airflow:2.8.4:rc1:*:*:*:*:*:*",
+			"cpeNameId": "CDDAFD19-F335-42DD-8100-CF677D96929A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:airflow:2.9.0:-:*:*:*:*:*:*",
+			"cpeNameId": "C2AA43EC-1531-4684-9062-8095457C581D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:airflow:2.9.0:beta1:*:*:*:*:*:*",
+			"cpeNameId": "EA92659E-07A1-4E63-A93E-353820FD9C7E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:airflow:2.9.0:beta2:*:*:*:*:*:*",
+			"cpeNameId": "B3DCA459-09DA-48E6-B213-A543B397442B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:airflow:2.9.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "D0C50127-F5FB-4FA2-8C46-57ECC36186A0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:airflow:2.9.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "BD9168C0-310A-4B45-AAF9-FF10696E5D2F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:airflow:2.9.0:rc3:*:*:*:*:*:*",
+			"cpeNameId": "7BB6A50C-8F76-4F4B-B499-021257F81AAB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:airflow:2.9.1:-:*:*:*:*:*:*",
+			"cpeNameId": "5600523B-6486-4A96-AE84-40E06790B542"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:airflow:2.9.1:rc1:*:*:*:*:*:*",
+			"cpeNameId": "15BDF4BF-420F-4A16-AD23-D75DF39B6975"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:airflow:2.9.1:rc2:*:*:*:*:*:*",
+			"cpeNameId": "1982C82E-AE4F-48D6-B237-DD0EBB740CDB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:airflow:2.9.2:-:*:*:*:*:*:*",
+			"cpeNameId": "41728912-1C75-4AAA-A20B-DF1C561FC13C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:airflow:2.9.2:rc1:*:*:*:*:*:*",
+			"cpeNameId": "8D8E1CD2-C3C7-4C4D-8276-9C670DC9F3FF"
 		}
 	]
 }

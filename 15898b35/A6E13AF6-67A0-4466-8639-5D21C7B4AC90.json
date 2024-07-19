@@ -4,9 +4,13 @@
 	"versionEndExcluding": "1.10.1",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"cpeLastModified": "2024-07-18T19:05:30.203",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apache:airflow:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FFE161F2-1CD0-41E0-8E08-EF01FEE4D039"
+		},
 		{
 			"cpeName": "cpe:2.3:a:apache:airflow:0.1:*:*:*:*:*:*:*",
 			"cpeNameId": "892562DB-7AA4-4C53-B015-F452C6CB36E4"
