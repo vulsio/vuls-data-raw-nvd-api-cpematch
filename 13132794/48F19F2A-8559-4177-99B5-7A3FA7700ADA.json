@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:a:booster:booster_for_woocommerce:*:*:*:*:plus:wordpress:*:*",
+	"matchCriteriaId": "48F19F2A-8559-4177-99B5-7A3FA7700ADA",
+	"versionEndIncluding": "7.1.2",
+	"created": "2024-07-19T18:38:01.053",
+	"lastModified": "2024-07-19T18:38:01.053",
+	"cpeLastModified": "2024-07-19T18:38:01.053",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:booster:booster_for_woocommerce:5.6.5:*:*:*:plus:wordpress:*:*",
+			"cpeNameId": "44C67182-8901-40B1-BDD5-657477052980"
+		},
+		{
+			"cpeName": "cpe:2.3:a:booster:booster_for_woocommerce:5.6.6:*:*:*:plus:wordpress:*:*",
+			"cpeNameId": "55ACF194-267A-42F4-A235-CF6FDDBBAB4B"
+		}
+	]
+}
