@@ -4,7 +4,17 @@
 	"versionStartIncluding": "1.4.0",
 	"versionEndExcluding": "1.6.0",
 	"created": "2024-07-16T17:18:49.973",
-	"lastModified": "2024-07-16T17:18:49.973",
-	"cpeLastModified": "2024-07-16T17:18:49.973",
-	"status": "Active"
+	"lastModified": "2024-07-22T17:19:39.040",
+	"cpeLastModified": "2024-07-22T17:19:39.040",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apache:linkis:1.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "BDB32BDC-A1E1-4BB0-8122-7A4652539A2A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:linkis:1.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "16891DB0-13C5-4A24-9D37-B874A15875DA"
+		}
+	]
 }

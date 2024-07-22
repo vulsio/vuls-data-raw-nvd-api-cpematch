@@ -3,8 +3,8 @@
 	"matchCriteriaId": "E3F77D71-03CB-46CB-BED4-C3ED6741154A",
 	"versionEndIncluding": "7.7.1",
 	"created": "2023-03-17T06:33:54.360",
-	"lastModified": "2023-03-17T06:33:54.360",
-	"cpeLastModified": "2023-03-17T06:33:54.360",
+	"lastModified": "2024-07-22T15:50:49.247",
+	"cpeLastModified": "2024-07-22T15:50:49.247",
 	"status": "Active",
 	"matches": [
 		{
@@ -338,6 +338,26 @@
 		{
 			"cpeName": "cpe:2.3:a:basixonline:nex-forms:7.5.21:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "EE6DFF85-8600-4FD4-A088-A5D652FB1EEB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:basixonline:nex-forms:7.6.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "975AFF5C-45AB-4BCF-9709-F58F006B9461"
+		},
+		{
+			"cpeName": "cpe:2.3:a:basixonline:nex-forms:7.6.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A7E6E1DC-176E-4F2A-9C06-CD70E0C1ED78"
+		},
+		{
+			"cpeName": "cpe:2.3:a:basixonline:nex-forms:7.6.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7FA4D1DD-F83B-471D-9BEB-F24D42585FA6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:basixonline:nex-forms:7.6.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "94627548-8F07-4EC5-91FA-096DCE0968BC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:basixonline:nex-forms:7.7.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D7ED85FD-5A1F-413E-86AA-70679FC07B75"
 		}
 	]
 }

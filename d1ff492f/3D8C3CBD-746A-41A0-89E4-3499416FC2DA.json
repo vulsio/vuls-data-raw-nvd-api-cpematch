@@ -4,9 +4,13 @@
 	"versionEndExcluding": "7.7.3",
 	"created": "2024-07-22T11:36:41.230",
 	"lastModified": "2024-07-22T11:36:41.230",
-	"cpeLastModified": "2024-07-22T11:36:41.230",
+	"cpeLastModified": "2024-07-22T17:19:39.040",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apache:solr:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4505C025-B749-4CC6-992A-2B237477AFCD"
+		},
 		{
 			"cpeName": "cpe:2.3:a:apache:solr:1.1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "34DB7A73-014F-4A16-8C4C-E533E8CB0B45"

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "2FC88AD4-201C-4434-A52B-5B295F79E6E9",
 	"versionEndExcluding": "3.14.0",
 	"created": "2024-07-19T16:47:04.710",
-	"lastModified": "2024-07-19T16:47:04.710",
-	"cpeLastModified": "2024-07-19T16:47:04.710",
+	"lastModified": "2024-07-22T16:00:59.450",
+	"cpeLastModified": "2024-07-22T16:00:59.450",
 	"status": "Active",
 	"matches": [
 		{
@@ -870,6 +870,82 @@
 		{
 			"cpeName": "cpe:2.3:a:givewp:givewp:3.3.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "D5EA0F37-A4B1-460C-8252-9DA8F3B72892"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:3.3.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A104A800-F7AD-4BF0-BF46-A16755B038ED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:3.4.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6DE4D4F0-C579-4E87-95AA-77404BAF7EBD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:3.4.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "25A56EF7-8A53-4389-8BD4-753E1321C752"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:3.4.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7E8B26A8-456D-49A0-8D86-8C5424259B4F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:3.5.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CCE0880F-116A-4F30-ABD8-30157A361312"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:3.5.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "90CFB15F-BC78-44C5-A749-54C0E40FC65C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:3.6.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6E8BD656-1670-40E0-A12C-E704BF56DB70"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:3.6.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1A517FEE-919E-4DAD-A3D7-9DEFB2D63EDE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:3.6.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "491CD76A-06D6-44D1-B5E1-7BE1EAA66E45"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:3.7.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6F74548E-0E7A-4966-A10D-888FAEF3D9F7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:3.8.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1A4AFCD8-E989-4E9C-89B6-0209E71BEAF5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:3.9.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "68C4DC89-25D1-49C7-BE11-101ABA6385B1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:3.10.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "11A03192-6B83-4B95-A883-6191033FE0DA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:3.11.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "529CEE63-9CD9-437E-9D94-1618F69D9839"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:3.12.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "54EED59B-10ED-42F4-A52E-6C06C845FEB2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:3.12.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "075FAD5C-F1E0-4959-8D38-099CC3C28869"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:3.12.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F5CE2DC7-6E7D-4912-BE9A-81127E3B4E14"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:3.12.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "243EA784-4781-477A-A34B-5466CE750FE2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:3.13.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DE7D514A-4551-4D2C-8024-882BB99B77D2"
 		}
 	]
 }

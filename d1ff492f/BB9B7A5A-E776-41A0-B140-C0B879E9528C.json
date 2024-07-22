@@ -5,7 +5,7 @@
 	"versionEndIncluding": "8.6.2",
 	"created": "2020-10-15T11:45:09.637",
 	"lastModified": "2020-10-15T11:45:09.637",
-	"cpeLastModified": "2020-10-15T13:43:05.340",
+	"cpeLastModified": "2024-07-22T17:19:39.040",
 	"status": "Active",
 	"matches": [
 		{
@@ -19,6 +19,10 @@
 		{
 			"cpeName": "cpe:2.3:a:apache:solr:8.1.1:*:*:*:*:*:*:*",
 			"cpeNameId": "50015629-20B8-40D1-AD21-1AF42B244F46"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:solr:8.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "6669A7F9-C2F2-4E42-BC14-8142850FBF06"
 		},
 		{
 			"cpeName": "cpe:2.3:a:apache:solr:8.2.0:*:*:*:*:*:*:*",

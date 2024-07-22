@@ -3,8 +3,8 @@
 	"matchCriteriaId": "5835771A-4E7F-409A-939E-8442D2E9A5CE",
 	"versionEndExcluding": "2.3.0",
 	"created": "2024-07-08T18:40:15.390",
-	"lastModified": "2024-07-08T18:40:15.390",
-	"cpeLastModified": "2024-07-08T18:40:15.390",
+	"lastModified": "2024-07-22T17:56:00.857",
+	"cpeLastModified": "2024-07-22T17:56:00.857",
 	"status": "Active",
 	"matches": [
 		{
@@ -202,6 +202,22 @@
 		{
 			"cpeName": "cpe:2.3:a:rails_admin_project:rails_admin:2.0.2:*:*:*:*:ruby:*:*",
 			"cpeNameId": "171E9F10-1915-4A5A-B08E-0FC2330BD5F3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rails_admin_project:rails_admin:2.1.0:*:*:*:*:ruby:*:*",
+			"cpeNameId": "406242FC-4BF4-4196-AFC1-DC9AB560DCA9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rails_admin_project:rails_admin:2.1.1:*:*:*:*:ruby:*:*",
+			"cpeNameId": "8F7F85DA-C3AA-467D-8EF6-D7B284F5CE7D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rails_admin_project:rails_admin:2.2.0:*:*:*:*:ruby:*:*",
+			"cpeNameId": "10A9FDEF-4593-4D80-854C-B890123CFE0F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rails_admin_project:rails_admin:2.2.1:*:*:*:*:ruby:*:*",
+			"cpeNameId": "5C62858B-8DB1-446B-A7BC-37FCEE440E32"
 		}
 	]
 }

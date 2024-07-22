@@ -3,8 +3,8 @@
 	"matchCriteriaId": "47928E10-0614-49EC-ACA4-1ED82AE8F3F9",
 	"versionEndExcluding": "5.2.4",
 	"created": "2024-07-18T17:40:05.437",
-	"lastModified": "2024-07-18T17:40:05.437",
-	"cpeLastModified": "2024-07-18T17:40:05.437",
+	"lastModified": "2024-07-22T15:49:15.457",
+	"cpeLastModified": "2024-07-22T15:49:15.457",
 	"status": "Active",
 	"matches": [
 		{
@@ -426,6 +426,54 @@
 		{
 			"cpeName": "cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:4.2.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "68F2AEB6-6C4D-45DD-9B7B-667D51F6FCAB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2B04B806-C1F8-4CE5-8A63-8C232291714D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "13C2642D-3376-4EC2-A260-749F91234823"
+		},
+		{
+			"cpeName": "cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.0.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CACAA9B8-8C9D-4A40-804B-03359B970C78"
+		},
+		{
+			"cpeName": "cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.0.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B426FA49-EF34-4149-94D9-1431CF8C952E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.0.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "84E4B984-88EE-4B07-BBB0-DF1A810336E9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.0.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D962D3E8-0136-4848-AE2F-1E44B9249B76"
+		},
+		{
+			"cpeName": "cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4FE61DF3-A605-49A0-A3CD-8485EA19F31A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.1.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2D545B38-A361-4AA5-AF6E-A53C712AAFB0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FB748528-8263-4AC3-8F93-3A27A54869CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FE62F8B0-A1AD-4F05-9E3E-4C375713696B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.2.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A712814D-067E-456A-84D5-71F0010ADF48"
+		},
+		{
+			"cpeName": "cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.2.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BF053F8C-2478-4C26-98D5-6126934CFEA4"
 		}
 	]
 }

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "B5EC9EC8-4988-4DAC-A92F-CCDED7F9CB52",
 	"versionEndExcluding": "0.95.0",
 	"created": "2024-07-18T15:03:41.007",
-	"lastModified": "2024-07-18T15:03:41.007",
-	"cpeLastModified": "2024-07-18T15:03:41.007",
+	"lastModified": "2024-07-22T17:19:39.040",
+	"cpeLastModified": "2024-07-22T17:19:39.040",
 	"status": "Active",
 	"matches": [
 		{
@@ -74,6 +74,10 @@
 		{
 			"cpeName": "cpe:2.3:a:apache:streampipes:0.92.0:*:*:*:*:*:*:*",
 			"cpeNameId": "C9CBA957-325D-4FA1-9FD3-C149E2CC0E9D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:streampipes:0.93.0:*:*:*:*:*:*:*",
+			"cpeNameId": "216E6B45-CCD6-41C6-BF95-6F40B2A7835C"
 		}
 	]
 }

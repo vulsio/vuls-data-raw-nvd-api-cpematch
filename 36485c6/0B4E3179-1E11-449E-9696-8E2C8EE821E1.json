@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:s3browser:s3_browser:11.5.7:*:*:*:*:*:*:*",
 	"matchCriteriaId": "0B4E3179-1E11-449E-9696-8E2C8EE821E1",
 	"created": "2024-07-17T15:33:29.650",
-	"lastModified": "2024-07-17T15:33:29.650",
-	"cpeLastModified": "2024-07-17T15:33:29.650",
-	"status": "Active"
+	"lastModified": "2024-07-22T18:01:16.983",
+	"cpeLastModified": "2024-07-22T18:01:16.983",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:s3browser:s3_browser:11.5.7:*:*:*:*:*:*:*",
+			"cpeNameId": "D3F7C042-B202-49F8-8B12-D680F03E194C"
+		}
+	]
 }

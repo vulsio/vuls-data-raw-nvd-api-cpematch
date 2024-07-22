@@ -3,7 +3,7 @@
 	"matchCriteriaId": "5A6CD1F4-4C0E-4989-A2B3-DC086E8E80A3",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2024-06-12T16:04:10.583",
+	"cpeLastModified": "2024-07-22T17:19:39.040",
 	"status": "Active",
 	"matches": [
 		{
@@ -1053,6 +1053,18 @@
 		{
 			"cpeName": "cpe:2.3:a:apache:http_server:2.4.59:*:*:*:*:*:*:*",
 			"cpeNameId": "B5E5E469-A64A-42A8-B242-E8015878599A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:http_server:2.4.60:*:*:*:*:*:*:*",
+			"cpeNameId": "438C1FB0-4865-4BDB-83ED-83D016ED4DA7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:http_server:2.4.61:*:*:*:*:*:*:*",
+			"cpeNameId": "F8FD74EF-8A76-4D42-B15D-3DDE75FB04C7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:http_server:2.4.62:*:*:*:*:*:*:*",
+			"cpeNameId": "DC600FFB-2E2B-4DE3-B92F-F9B2B266F5AE"
 		},
 		{
 			"cpeName": "cpe:2.3:a:apache:http_server:11.1.1.9.0:*:*:*:*:*:*:*",

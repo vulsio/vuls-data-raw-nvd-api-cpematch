@@ -4,9 +4,13 @@
 	"versionEndIncluding": "1.0.64",
 	"created": "2023-12-05T14:47:48.610",
 	"lastModified": "2023-12-13T20:26:42.230",
-	"cpeLastModified": "2023-12-13T20:26:42.230",
+	"cpeLastModified": "2024-07-22T17:57:39.900",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:reputeinfosystems:bookingpress:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "55307554-74CF-4999-9A26-856D6A7A3ABC"
+		},
 		{
 			"cpeName": "cpe:2.3:a:reputeinfosystems:bookingpress:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "69F050BD-A159-4D5C-A359-AB4A8ACB58C6"

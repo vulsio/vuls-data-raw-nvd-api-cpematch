@@ -4,9 +4,13 @@
 	"versionEndExcluding": "8.6.0",
 	"created": "2020-08-19T21:31:51.653",
 	"lastModified": "2020-08-19T21:31:51.653",
-	"cpeLastModified": "2020-10-15T13:43:05.167",
+	"cpeLastModified": "2024-07-22T17:19:39.040",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apache:solr:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4505C025-B749-4CC6-992A-2B237477AFCD"
+		},
 		{
 			"cpeName": "cpe:2.3:a:apache:solr:1.1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "34DB7A73-014F-4A16-8C4C-E533E8CB0B45"
@@ -390,6 +394,10 @@
 		{
 			"cpeName": "cpe:2.3:a:apache:solr:8.1.1:*:*:*:*:*:*:*",
 			"cpeNameId": "50015629-20B8-40D1-AD21-1AF42B244F46"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:solr:8.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "6669A7F9-C2F2-4E42-BC14-8142850FBF06"
 		},
 		{
 			"cpeName": "cpe:2.3:a:apache:solr:8.2.0:*:*:*:*:*:*:*",
