@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:a:ali2woo:ali2woo:*:*:*:*:lite:wordpress:*:*",
+	"matchCriteriaId": "7E171274-B3E4-4CAD-9AF7-69FB42B39211",
+	"versionEndExcluding": "3.3.7",
+	"created": "2024-07-22T20:16:10.693",
+	"lastModified": "2024-07-22T20:16:10.693",
+	"cpeLastModified": "2024-07-22T20:16:10.693",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ali2woo:ali2woo:-:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "8C5B3D79-D481-41BA-A336-75CC88FF0B6E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ali2woo:ali2woo:3.3.5:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "E4BF088A-2843-4DF1-B47E-0CB38AC02DF5"
+		}
+	]
+}
