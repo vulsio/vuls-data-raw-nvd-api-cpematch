@@ -1,0 +1,48 @@
+{
+	"criteria": "cpe:2.3:a:tribe29:checkmk:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "0ED689A0-8355-4901-94F2-28BC277A34B7",
+	"versionStartIncluding": "2.3.0",
+	"versionEndExcluding": "2.3.0p8",
+	"created": "2024-07-23T13:52:00.293",
+	"lastModified": "2024-07-23T13:52:00.293",
+	"cpeLastModified": "2024-07-23T13:52:00.293",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.3.0:p1:*:*:*:*:*:*",
+			"cpeNameId": "6A1CAF57-05B5-4C3A-81D3-1602B5EEF724"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.3.0:p2:*:*:*:*:*:*",
+			"cpeNameId": "61DABF02-542A-4A1E-8BC5-51DDEB6E9E9E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.3.0:p3:*:*:*:*:*:*",
+			"cpeNameId": "CABF739A-9200-4EFC-9996-4BD5F21B59C3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.3.0:p4:*:*:*:*:*:*",
+			"cpeNameId": "C2953A4A-4272-438A-B189-CB66264959E9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.3.0:p5:*:*:*:*:*:*",
+			"cpeNameId": "47DCD7D9-8135-4A81-A6D5-DF99123FF3E7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.3.0:p6:*:*:*:*:*:*",
+			"cpeNameId": "0BCBE9FF-B81C-4105-979D-E856E117FFEA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.3.0:p7:*:*:*:*:*:*",
+			"cpeNameId": "8FF7DE50-1DA9-4314-8A6D-DCA1CFFE9C7F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.3.0:p8:*:*:*:*:*:*",
+			"cpeNameId": "0662C22C-DD68-4A7C-96BC-6D2D24297C02"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.3.0:p9:*:*:*:*:*:*",
+			"cpeNameId": "C6D919AD-336A-4D33-A25F-DD77DE3A3B58"
+		}
+	]
+}

@@ -1,0 +1,232 @@
+{
+	"criteria": "cpe:2.3:a:tribe29:checkmk:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "6928387C-F127-4AF7-AFB0-E0FCCD47EDD4",
+	"versionStartIncluding": "2.1.0",
+	"versionEndExcluding": "2.1.0p45",
+	"created": "2024-07-23T13:52:00.293",
+	"lastModified": "2024-07-23T13:52:00.293",
+	"cpeLastModified": "2024-07-23T13:52:00.293",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:-:*:*:*:*:*:*",
+			"cpeNameId": "DB419431-EA24-411F-9038-38E2DB3A5E0A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:b1:*:*:*:*:*:*",
+			"cpeNameId": "C7235F8D-7068-4529-A1E4-19E42E5E4EE7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:b2:*:*:*:*:*:*",
+			"cpeNameId": "EFAA3185-9AF3-4E25-80DF-B869D9957E30"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:b3:*:*:*:*:*:*",
+			"cpeNameId": "7969AC69-6240-4E4F-8ECB-B2CA0A3C1633"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:b4:*:*:*:*:*:*",
+			"cpeNameId": "646E2C68-C752-4788-80A4-F3BA1987E8C5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:b5:*:*:*:*:*:*",
+			"cpeNameId": "969B7101-C32E-4602-A494-3ACD44339EA4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:b6:*:*:*:*:*:*",
+			"cpeNameId": "16A5F035-B96A-443F-B675-5C6D88822B18"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:b7:*:*:*:*:*:*",
+			"cpeNameId": "BE4F0CB5-C15F-44F3-B7B7-B5BB585D31B3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:b8:*:*:*:*:*:*",
+			"cpeNameId": "D95D378C-22AB-4B3F-AF32-94F35213DDA0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:b9:*:*:*:*:*:*",
+			"cpeNameId": "7EECB54F-EF15-412F-A58F-CDFF023090C8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p1:*:*:*:*:*:*",
+			"cpeNameId": "E7F15F77-BB99-4230-8388-34D13BBC8743"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p10:*:*:*:*:*:*",
+			"cpeNameId": "A4EB9486-0106-4C69-9873-7A26297A3C06"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p11:*:*:*:*:*:*",
+			"cpeNameId": "0942E6A5-F0AA-4A36-A73B-7E0A16DE23E9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p12:*:*:*:*:*:*",
+			"cpeNameId": "053A754A-2B09-4203-B2F0-11CEB0E2E941"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p13:*:*:*:*:*:*",
+			"cpeNameId": "88C13575-6DD0-4C4D-AC78-ADA7C7D7B898"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p14:*:*:*:*:*:*",
+			"cpeNameId": "20D355DF-280D-4FD4-B78E-EEB78D42F47A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p15:*:*:*:*:*:*",
+			"cpeNameId": "019478D0-4953-4680-AF71-91578016A46A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p16:*:*:*:*:*:*",
+			"cpeNameId": "07E2BA47-9804-4CC8-8C26-87D0FC1B6507"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p17:*:*:*:*:*:*",
+			"cpeNameId": "52B28518-040F-44C7-A40F-AA2D3C42DF86"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p18:*:*:*:*:*:*",
+			"cpeNameId": "F414CDA4-038F-4E4E-8F5A-734C2D1A35A5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p19:*:*:*:*:*:*",
+			"cpeNameId": "6C93B06F-9871-4585-8223-8070CCFB5F91"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p2:*:*:*:*:*:*",
+			"cpeNameId": "C96D1C9B-A23C-400A-A176-405C29563D49"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p20:*:*:*:*:*:*",
+			"cpeNameId": "E7A12B77-38C9-4154-85A8-387D091D054D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p21:*:*:*:*:*:*",
+			"cpeNameId": "0589522B-7BA8-4A9C-BD1A-47CF3841EA2D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p22:*:*:*:*:*:*",
+			"cpeNameId": "602CFE69-DCB0-4050-BD96-3687626E2CF4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p23:*:*:*:*:*:*",
+			"cpeNameId": "59F73064-2AA3-4EE9-99E2-8EAF3068B184"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p24:*:*:*:*:*:*",
+			"cpeNameId": "CF711749-28B9-4CF8-8AAE-C632EB5F394E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p25:*:*:*:*:*:*",
+			"cpeNameId": "A72D81C5-6CA8-493D-8BFE-509FEDD0ABC8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p26:*:*:*:*:*:*",
+			"cpeNameId": "4D3B8339-9564-42F8-BD37-7B79CB187711"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p27:*:*:*:*:*:*",
+			"cpeNameId": "52CF02C4-9FA6-4F98-8613-F719163BA348"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p28:*:*:*:*:*:*",
+			"cpeNameId": "AE9BF239-C860-4535-BE2F-3A8D92AF5A36"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p29:*:*:*:*:*:*",
+			"cpeNameId": "2E86AA3D-7F6D-4C61-BE66-0FB959372251"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p3:*:*:*:*:*:*",
+			"cpeNameId": "63091A9B-20C6-4AF0-9B96-3F72BE443CFE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p30:*:*:*:*:*:*",
+			"cpeNameId": "A3A0B2A0-9B40-40A5-810D-766AD9918D57"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p31:*:*:*:*:*:*",
+			"cpeNameId": "A6FAE05A-E82C-4415-96F3-352AD4A7F0B8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p32:*:*:*:*:*:*",
+			"cpeNameId": "DE5D6347-CBA3-4CAD-87DB-806510E191A9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p33:*:*:*:*:*:*",
+			"cpeNameId": "B75C173C-EB6D-4903-A9AB-B2D8289836CC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p34:*:*:*:*:*:*",
+			"cpeNameId": "4354375B-4B86-444D-B0DF-B414A0EF4C18"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p35:*:*:*:*:*:*",
+			"cpeNameId": "A292128B-3511-4DCA-AB69-41B7BEAC2502"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p36:*:*:*:*:*:*",
+			"cpeNameId": "456F8566-B3CB-491C-8999-643066EEA848"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p37:*:*:*:*:*:*",
+			"cpeNameId": "85D00CAA-36D6-4380-BB3A-D66B323B9027"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p38:*:*:*:*:*:*",
+			"cpeNameId": "87E4DB80-1D8A-43E1-8880-B14755D21FA5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p39:*:*:*:*:*:*",
+			"cpeNameId": "F59CA35D-3670-46E5-BD61-969B55A556DA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p4:*:*:*:*:*:*",
+			"cpeNameId": "6E7DFEA0-4C25-4004-8781-D393EDA33478"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p40:*:*:*:*:*:*",
+			"cpeNameId": "186C7FD8-84B5-440D-BBF8-71D480820D81"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p41:*:*:*:*:*:*",
+			"cpeNameId": "1E727F12-8F27-48EA-A533-D58AAA91D4FA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p42:*:*:*:*:*:*",
+			"cpeNameId": "7E335BF5-77E2-4BCF-9A10-907591ADD655"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p43:*:*:*:*:*:*",
+			"cpeNameId": "C8CBC1C5-6C41-41E0-9968-96612FEDA8AA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p44:*:*:*:*:*:*",
+			"cpeNameId": "D73762EA-1AE9-44C5-905A-242611C86061"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p45:*:*:*:*:*:*",
+			"cpeNameId": "6D4DDBC7-26C1-4BB9-8FD0-E86E11F8B6AF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p5:*:*:*:*:*:*",
+			"cpeNameId": "8A779793-8DC6-46D4-B75B-7CD69DD764CE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p6:*:*:*:*:*:*",
+			"cpeNameId": "0C76654D-3473-4838-A02C-26156E274355"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p7:*:*:*:*:*:*",
+			"cpeNameId": "D5C06CE2-07CF-46B2-8DA6-E70CF65AC684"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p8:*:*:*:*:*:*",
+			"cpeNameId": "28F68670-5510-4CE8-ADCB-816EC86EAF14"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p9:*:*:*:*:*:*",
+			"cpeNameId": "CB01832B-E3D2-4E3F-BB75-A7B529EA65EA"
+		}
+	]
+}
