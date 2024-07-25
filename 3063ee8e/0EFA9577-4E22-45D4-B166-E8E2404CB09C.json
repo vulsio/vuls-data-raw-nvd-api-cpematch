@@ -3,10 +3,14 @@
 	"matchCriteriaId": "0EFA9577-4E22-45D4-B166-E8E2404CB09C",
 	"versionEndExcluding": "1.1.14",
 	"created": "2024-07-17T17:33:49.623",
-	"lastModified": "2024-07-17T17:33:49.623",
-	"cpeLastModified": "2024-07-17T17:33:49.623",
+	"lastModified": "2024-07-25T15:17:53.467",
+	"cpeLastModified": "2024-07-25T15:17:53.467",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:codepeople:music_store:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4663D810-6927-44F6-8BF5-29767E595A71"
+		},
 		{
 			"cpeName": "cpe:2.3:a:codepeople:music_store:1.0.141:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "31721A33-FC56-4781-A740-3415D9042D3C"

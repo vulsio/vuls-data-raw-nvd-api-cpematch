@@ -4,6 +4,12 @@
 	"versionEndExcluding": "2.0",
 	"created": "2024-07-23T18:19:52.320",
 	"lastModified": "2024-07-23T18:19:52.320",
-	"cpeLastModified": "2024-07-23T18:19:52.320",
-	"status": "Active"
+	"cpeLastModified": "2024-07-25T15:20:51.587",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:copymatic:copymatic:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5E75F088-2B3E-4840-9C55-EB5265D3E1D8"
+		}
+	]
 }

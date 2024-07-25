@@ -3,7 +3,13 @@
 	"matchCriteriaId": "049CF8B1-53E7-4132-857D-8F2F7B30B7E5",
 	"versionEndExcluding": "2.5.5",
 	"created": "2024-07-19T18:38:36.100",
-	"lastModified": "2024-07-19T18:38:36.100",
-	"cpeLastModified": "2024-07-19T18:38:36.100",
-	"status": "Active"
+	"lastModified": "2024-07-25T15:44:22.130",
+	"cpeLastModified": "2024-07-25T15:44:22.130",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:delucks:delucks_seo:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BD2294C9-89B7-462C-AB28-28C61C784111"
+		}
+	]
 }

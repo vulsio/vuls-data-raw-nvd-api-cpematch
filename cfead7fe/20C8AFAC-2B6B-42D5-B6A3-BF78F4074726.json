@@ -3,10 +3,14 @@
 	"matchCriteriaId": "20C8AFAC-2B6B-42D5-B6A3-BF78F4074726",
 	"versionEndExcluding": "1.7.36",
 	"created": "2024-07-23T19:29:40.240",
-	"lastModified": "2024-07-23T19:29:40.240",
-	"cpeLastModified": "2024-07-23T19:29:40.240",
+	"lastModified": "2024-07-25T16:43:07.610",
+	"cpeLastModified": "2024-07-25T16:43:07.610",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A938F35A-8398-4C28-B805-9FCFD1D000F0"
+		},
 		{
 			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "D961C089-DE69-4EDB-AEF0-F87B3B00EF6B"
@@ -322,6 +326,146 @@
 		{
 			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.6.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "281B36A6-D9E9-4D77-BAAE-88EF9FDEB38F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.6.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "477CC7F3-4538-46A8-896F-03AAA04DB30B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.6.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B60EC5A4-EFBB-42B7-A13C-10AB398D4B79"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.6.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3339B072-55A7-424B-8D81-50A50A094F86"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.6.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D0428FD0-4917-4443-86FC-81C9D72F1DBB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.6.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F4AB66F4-8D9A-4E3E-9DB0-6BDCD85411DD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.6.81:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0EC640F6-3560-42BA-9F2F-9180A17B061F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.6.82:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DC6C15DA-72B1-4D0F-8284-CF1F1BEB4742"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.6.83:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BFBBBDFC-4E45-4333-8DD5-7AF256C4142C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.6.92:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2F87D466-1B49-4498-BFDB-F3C54512CE97"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.6.93:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3DD31CF6-7AE3-4C69-9983-CF4C4F67D7D9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.6.94:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6328CFD9-6AE8-49EC-8DF8-CDB5002A5CA8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.6.96:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BC53BDAD-560E-4C26-A297-C4291F59A21C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.6.98:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9EB5FB5F-D8B4-46A5-A964-214A7BD0CC8E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.7.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3FEA9AC3-B708-43CA-ACE0-7A9FDAD06A09"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.7.02:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C4E04AD2-0E0A-483B-80EA-6E0B96E6FCF2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.7.03:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D4EDF327-1AE7-4B03-B55F-AD48B80F2346"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.7.04:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A15501A5-E44A-42E5-9FE9-A1BE0C32311C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.7.05:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8004F808-A431-4B7F-89A9-33B93B04D0D4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.7.06:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CBB53FCD-7F17-441B-9BE0-73D37EF8061A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.7.08:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "52561A9F-6E59-4F9A-B3ED-02B4DDBB896A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.7.09:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3684ACDD-3C51-41EB-949C-613B5F4823DE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.7.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1D1DC4E7-4564-457D-B646-DAA57DFA89D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.7.14:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0FA59B19-24E2-47AA-A1A5-32AC484579E6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.7.17:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C59723FA-19E6-460A-8CA8-05644A7C7E80"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.7.18:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0F1DC3AC-2121-4CE4-B953-522B05657117"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.7.19:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5901161B-213E-4D9D-A8B8-DD5730D3CCF0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.7.20:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EF481D9A-9070-475A-8584-87892309A75D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.7.22:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DB941C9C-6164-4EBF-935C-52B909ED7E02"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.7.24:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4B7E536E-9CAC-4567-A668-1C13EEB9939D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.7.26:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "20480FF9-93AA-4342-8FBE-A59BBB0A7B54"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.7.27:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9BE68804-FD65-49DD-B9A9-0D04E0B58AC4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.7.29:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0BCCA0B6-F39D-4C64-83AA-9C9D40EBCEFC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.7.30:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CE10420E-71BB-4231-9AEA-52CE0E19BD69"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.7.34:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0E91F25F-84F5-4203-9483-8D8461D9C7C0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.7.35:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F554B197-3DED-432B-BA35-E55038C5A0D8"
 		}
 	]
 }

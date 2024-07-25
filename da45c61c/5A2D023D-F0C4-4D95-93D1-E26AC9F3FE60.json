@@ -3,10 +3,14 @@
 	"matchCriteriaId": "5A2D023D-F0C4-4D95-93D1-E26AC9F3FE60",
 	"versionEndExcluding": "1.0.97",
 	"created": "2024-07-24T14:00:01.187",
-	"lastModified": "2024-07-24T14:00:01.187",
-	"cpeLastModified": "2024-07-24T14:00:01.187",
+	"lastModified": "2024-07-25T14:57:27.143",
+	"cpeLastModified": "2024-07-25T14:57:27.143",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ampforwp:accelerated_mobile_pages:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A941051D-4ADE-41AC-BA89-59B65FEB93DE"
+		},
 		{
 			"cpeName": "cpe:2.3:a:ampforwp:accelerated_mobile_pages:1.0.64:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "674EA4A9-D411-486F-A5B8-73262EC9C0D3"
@@ -482,6 +486,26 @@
 		{
 			"cpeName": "cpe:2.3:a:ampforwp:accelerated_mobile_pages:1.0.93.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "00265F06-4C0F-46BC-BC2E-889CF578AAD9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ampforwp:accelerated_mobile_pages:1.0.93.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E623EC7D-4EC3-4A22-83BA-6AA4655761C0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ampforwp:accelerated_mobile_pages:1.0.94:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E2A02D68-A6AD-4FE1-8806-F6A6715D9F32"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ampforwp:accelerated_mobile_pages:1.0.95:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "78D0D621-A388-4D51-A8DC-2272B6E050DB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ampforwp:accelerated_mobile_pages:1.0.96:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A40ECE26-01B1-4328-AD88-068D011A907F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ampforwp:accelerated_mobile_pages:1.0.96.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3FB590BA-34D6-4248-A444-69D3BED415E7"
 		}
 	]
 }

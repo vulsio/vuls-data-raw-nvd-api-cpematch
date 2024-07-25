@@ -3,8 +3,8 @@
 	"matchCriteriaId": "AACA1EFE-464F-4184-A26B-4C1A65BAEBF7",
 	"versionEndExcluding": "7.5.47.7212",
 	"created": "2024-07-19T18:56:41.060",
-	"lastModified": "2024-07-19T18:56:41.060",
-	"cpeLastModified": "2024-07-19T18:56:41.060",
+	"lastModified": "2024-07-25T16:28:35.880",
+	"cpeLastModified": "2024-07-25T16:28:35.880",
 	"status": "Active",
 	"matches": [
 		{
@@ -1318,6 +1318,26 @@
 		{
 			"cpeName": "cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.39.7212:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "8037F69D-6C2B-4B27-8AEE-C6C3D269A7A7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.40.7212:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "32BB19EA-F42B-49EA-BC5E-48871F60D33B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.41.7212:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1B61C4C9-0342-4ED5-9631-F9EEE069D891"
+		},
+		{
+			"cpeName": "cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.43.7212:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "145A55A6-2028-4A74-9885-28B20B0569EA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.45.7212:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9AA76919-A661-46EC-A96F-82C429988CCD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.46.7212:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D924C8FE-EF04-4EAC-8A4D-618E1BF9A126"
 		}
 	]
 }

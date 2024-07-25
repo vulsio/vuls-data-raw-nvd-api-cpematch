@@ -3,8 +3,8 @@
 	"matchCriteriaId": "319C5290-1A80-43F1-BCB0-E5D12B2DE08F",
 	"versionEndIncluding": "1.40.3",
 	"created": "2024-02-12T18:08:50.583",
-	"lastModified": "2024-02-12T18:08:50.583",
-	"cpeLastModified": "2024-02-12T18:08:50.583",
+	"lastModified": "2024-07-25T16:23:34.390",
+	"cpeLastModified": "2024-07-25T16:23:34.390",
 	"status": "Active",
 	"matches": [
 		{
@@ -246,6 +246,10 @@
 		{
 			"cpeName": "cpe:2.3:a:extendify:editorskit:1.31.7:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "00A6F496-AE6E-439D-9D10-25DF66A4DDE0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:extendify:editorskit:1.40.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "07117A82-C0CA-4747-821D-41E5AFA47BC1"
 		}
 	]
 }

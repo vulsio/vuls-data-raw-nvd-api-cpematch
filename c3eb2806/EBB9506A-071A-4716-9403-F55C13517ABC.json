@@ -3,10 +3,14 @@
 	"matchCriteriaId": "EBB9506A-071A-4716-9403-F55C13517ABC",
 	"versionEndIncluding": "6.1.5",
 	"created": "2024-07-17T18:03:35.747",
-	"lastModified": "2024-07-17T18:03:35.747",
-	"cpeLastModified": "2024-07-17T18:03:35.747",
+	"lastModified": "2024-07-25T15:09:21.017",
+	"cpeLastModified": "2024-07-25T15:09:21.017",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:awesomesupport:awesome_support_wordpress_helpdesk_\\&_support:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7C08ACD3-01A2-4080-B5B5-0A0DBB0209F7"
+		},
 		{
 			"cpeName": "cpe:2.3:a:awesomesupport:awesome_support_wordpress_helpdesk_\\&_support:3.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "9B0EE6FC-CCF3-4C90-A5F8-DE0C10A6C75F"
@@ -286,6 +290,10 @@
 		{
 			"cpeName": "cpe:2.3:a:awesomesupport:awesome_support_wordpress_helpdesk_\\&_support:6.1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "15808948-2EB8-461E-A62D-756E8132F923"
+		},
+		{
+			"cpeName": "cpe:2.3:a:awesomesupport:awesome_support_wordpress_helpdesk_\\&_support:6.1.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1BDA737C-7F51-418B-9D1B-5BD547F03CAB"
 		}
 	]
 }

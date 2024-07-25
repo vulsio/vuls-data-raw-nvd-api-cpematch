@@ -4,9 +4,13 @@
 	"versionEndExcluding": "1.3.7",
 	"created": "2022-03-21T20:57:16.853",
 	"lastModified": "2023-10-06T14:17:06.313",
-	"cpeLastModified": "2023-10-06T14:17:06.313",
+	"cpeLastModified": "2024-07-25T16:43:07.610",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A938F35A-8398-4C28-B805-9FCFD1D000F0"
+		},
 		{
 			"cpeName": "cpe:2.3:a:idehweb:login_with_phone_number:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "D961C089-DE69-4EDB-AEF0-F87B3B00EF6B"

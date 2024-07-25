@@ -4,7 +4,7 @@
 	"versionEndExcluding": "4.9.10",
 	"created": "2024-07-24T19:57:49.030",
 	"lastModified": "2024-07-24T19:57:49.030",
-	"cpeLastModified": "2024-07-24T19:57:49.030",
+	"cpeLastModified": "2024-07-25T16:40:32.290",
 	"status": "Active",
 	"matches": [
 		{
@@ -502,6 +502,46 @@
 		{
 			"cpeName": "cpe:2.3:a:ibericode:mailchimp:4.8.11:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "0302830E-5D5F-40D8-836C-E3493C7587A2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:mailchimp:4.9.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7FD5231A-C7B1-41DA-9F67-526B6D4C8D3A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:mailchimp:4.9.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0BE83E3F-A50F-4F24-B455-A8908453268F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:mailchimp:4.9.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A1CF9BF4-F0C1-4CA8-B20A-1D59EC0849F8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:mailchimp:4.9.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9D1F21DB-836D-4B28-8198-C6A708E43D20"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:mailchimp:4.9.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C4854D07-575A-4E19-9C05-15D20417FA30"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:mailchimp:4.9.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EADADE84-EF2E-42FF-BE5B-0D26D394D4A0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:mailchimp:4.9.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "17A63EED-8122-4893-BE36-07AC7DC42727"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:mailchimp:4.9.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "19DA786A-FBEB-4C7C-86F6-8DD033A90962"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:mailchimp:4.9.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C768E95C-B0AD-46E5-BCEC-494914A78C7C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:mailchimp:4.9.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D895129D-9771-4FF7-BD28-81D738AD1A21"
 		}
 	]
 }

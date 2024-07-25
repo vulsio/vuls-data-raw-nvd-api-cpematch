@@ -3,10 +3,14 @@
 	"matchCriteriaId": "44328085-82F6-42A0-9A07-8CDB37C0C6AB",
 	"versionEndExcluding": "1.1.30",
 	"created": "2024-06-20T16:10:16.107",
-	"lastModified": "2024-06-20T16:10:16.107",
-	"cpeLastModified": "2024-06-20T16:10:16.107",
+	"lastModified": "2024-07-25T16:23:34.390",
+	"cpeLastModified": "2024-07-25T16:23:34.390",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:extendthemes:materialis:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BDAEB72E-B3E1-44C9-A3B2-445F6306FD54"
+		},
 		{
 			"cpeName": "cpe:2.3:a:extendthemes:materialis:0.9.29:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "755E1701-5DFE-4E6F-A2EB-BA419F7D8725"

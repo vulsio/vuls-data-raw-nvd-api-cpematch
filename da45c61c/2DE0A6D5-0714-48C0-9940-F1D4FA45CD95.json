@@ -4,9 +4,13 @@
 	"versionEndIncluding": "1.0.77.32",
 	"created": "2022-03-24T18:48:16.023",
 	"lastModified": "2022-03-24T18:48:16.023",
-	"cpeLastModified": "2022-03-24T20:15:16.470",
+	"cpeLastModified": "2024-07-25T14:57:27.143",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ampforwp:accelerated_mobile_pages:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A941051D-4ADE-41AC-BA89-59B65FEB93DE"
+		},
 		{
 			"cpeName": "cpe:2.3:a:ampforwp:accelerated_mobile_pages:1.0.64:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "674EA4A9-D411-486F-A5B8-73262EC9C0D3"

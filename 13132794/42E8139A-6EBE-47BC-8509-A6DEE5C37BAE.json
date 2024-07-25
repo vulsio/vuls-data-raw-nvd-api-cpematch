@@ -4,12 +4,16 @@
 	"versionEndExcluding": "5.4.9",
 	"created": "2022-01-07T02:43:43.123",
 	"lastModified": "2022-11-01T18:02:36.870",
-	"cpeLastModified": "2023-02-16T17:52:40.250",
+	"cpeLastModified": "2024-07-25T15:09:21.017",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:booster:booster_for_woocommerce:-:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "A87FB16F-909C-429F-888C-CA8F5816CD0A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:booster:booster_for_woocommerce:-:*:*:*:plus:wordpress:*:*",
+			"cpeNameId": "036A68D7-6ACC-4BF3-87F6-4B69B5BAFA89"
 		},
 		{
 			"cpeName": "cpe:2.3:a:booster:booster_for_woocommerce:1.0.0:*:*:*:*:wordpress:*:*",
