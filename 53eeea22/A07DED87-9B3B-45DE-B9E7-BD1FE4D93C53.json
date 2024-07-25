@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:dell:precision_3930_rack_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "A07DED87-9B3B-45DE-B9E7-BD1FE4D93C53",
 	"created": "2022-01-28T15:32:48.080",
-	"lastModified": "2024-07-03T13:22:32.850",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
-	"status": "Inactive"
+	"lastModified": "2024-07-24T21:22:19.503",
+	"cpeLastModified": "2024-07-24T21:22:19.503",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_3930_rack_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "131AE61C-ABA5-407B-BB29-542DB791E177"
+		}
+	]
 }
