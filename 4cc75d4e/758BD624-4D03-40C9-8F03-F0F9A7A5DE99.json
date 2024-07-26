@@ -4,12 +4,16 @@
 	"versionEndIncluding": "9.4.5",
 	"created": "2022-03-01T15:12:04.227",
 	"lastModified": "2022-03-01T15:12:04.227",
-	"cpeLastModified": "2022-06-03T15:50:51.623",
+	"cpeLastModified": "2024-07-26T14:27:08.980",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat:-:*:*:*:*:*:*:*",
 			"cpeNameId": "2E6C7F5E-2AA4-495F-8119-D8AEBCD9C2D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat:-:*:*:*:*:android:*:*",
+			"cpeNameId": "CAB3CD4B-375A-43D3-8878-F22276EB3D28"
 		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat:_reader9.5.3:*:*:*:*:*:*:*",

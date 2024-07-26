@@ -3,10 +3,14 @@
 	"matchCriteriaId": "B1A5E015-893F-4D88-BD9F-9594084CB070",
 	"versionEndExcluding": "6.13.0.4",
 	"created": "2024-07-25T19:47:01.667",
-	"lastModified": "2024-07-25T19:47:01.667",
-	"cpeLastModified": "2024-07-25T19:47:01.667",
+	"lastModified": "2024-07-26T14:16:52.113",
+	"cpeLastModified": "2024-07-26T14:16:52.113",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:archerirm:archer:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B9AE4E03-898A-4EDF-A602-3DC3256C94A9"
+		},
 		{
 			"cpeName": "cpe:2.3:a:archerirm:archer:6.3.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "14AA86FA-229C-46B0-A40A-35ECAE449C46"

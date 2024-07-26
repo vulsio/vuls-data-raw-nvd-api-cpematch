@@ -3,8 +3,8 @@
 	"matchCriteriaId": "45073D54-89E1-4B32-ADB4-B0F61E33CAA5",
 	"versionEndExcluding": "2.4.4",
 	"created": "2023-01-06T07:00:29.583",
-	"lastModified": "2023-01-06T07:00:29.583",
-	"cpeLastModified": "2023-01-06T07:00:29.583",
+	"lastModified": "2024-07-26T16:06:44.533",
+	"cpeLastModified": "2024-07-26T16:06:44.533",
 	"status": "Active",
 	"matches": [
 		{
@@ -178,6 +178,50 @@
 		{
 			"cpeName": "cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.3.11:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "11821573-FC7C-4E10-9715-B2FA70A15051"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.3.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8EA56430-1320-4E49-9A62-32D01A26ACB6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.3.13:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0B96F440-8A22-4BB6-8470-DB0B5E6E3420"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.3.14:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "134E28E6-EA7D-4D88-BC4F-294491A8F4F5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.3.15:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9B503777-19AD-4E2C-B001-DC3E225BF391"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.3.16.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1AD73381-8378-493D-9205-EE13D01B72B2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.3.17:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EF615767-950A-476C-AB5E-0CF274DBE227"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.3.18:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "37AFEC0E-68D0-4841-ACA8-6CE295B325DA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.3.19:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2B40DA78-F172-4EE7-BC22-1D98CD9A99DE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.4.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3EF83FE4-FC86-4BCE-B7A7-BF99E39FC817"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.4.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2BD95E1A-7F74-48E9-ABE0-B7CDBD9BA8BC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.4.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D96A36F9-1FAA-4CDB-9D5D-CCD469E4635C"
 		}
 	]
 }

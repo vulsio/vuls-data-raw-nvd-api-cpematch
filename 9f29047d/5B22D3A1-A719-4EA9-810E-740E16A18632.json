@@ -5,6 +5,12 @@
 	"versionEndExcluding": "8.9.0",
 	"created": "2024-07-24T14:36:44.000",
 	"lastModified": "2024-07-24T14:36:44.000",
-	"cpeLastModified": "2024-07-24T14:36:44.000",
-	"status": "Active"
+	"cpeLastModified": "2024-07-26T14:56:03.127",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:haxx:libcurl:8.8.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C3DCFCC6-F4AE-4BEA-B59A-AB25A0E3837C"
+		}
+	]
 }

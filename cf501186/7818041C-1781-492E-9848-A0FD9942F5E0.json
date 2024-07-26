@@ -3,7 +3,7 @@
 	"matchCriteriaId": "7818041C-1781-492E-9848-A0FD9942F5E0",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2024-02-20T17:05:02.387",
+	"cpeLastModified": "2024-07-26T13:22:39.183",
 	"status": "Active",
 	"matches": [
 		{
@@ -667,6 +667,14 @@
 			"cpeNameId": "9BB7936B-7935-48F7-96E6-786C3E509EA4"
 		},
 		{
+			"cpeName": "cpe:2.3:a:adobe:coldfusion:2021:update12:*:*:*:*:*:*",
+			"cpeNameId": "5967EAE7-C23A-4F43-AE6A-CDE04AE09B95"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:coldfusion:2021:update13:*:*:*:*:*:*",
+			"cpeNameId": "43B31372-6FF2-4137-8991-19F2E0D159E9"
+		},
+		{
 			"cpeName": "cpe:2.3:a:adobe:coldfusion:2021:update2:*:*:*:*:*:*",
 			"cpeNameId": "B6DEFB2C-D0CE-41C0-BAFF-AA725A4C011C"
 		},
@@ -725,6 +733,14 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:coldfusion:2023:update5:*:*:*:*:*:*",
 			"cpeNameId": "FAA71B52-8BB4-4037-9B33-8158136121C4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:coldfusion:2023:update6:*:*:*:*:*:*",
+			"cpeNameId": "CFEE0CDB-11E8-4C9F-9160-46253403C879"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:coldfusion:2023:update7:*:*:*:*:*:*",
+			"cpeNameId": "94FBE975-6EA3-4221-88F3-8BF82EC7F7C0"
 		}
 	]
 }

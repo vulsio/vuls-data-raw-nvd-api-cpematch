@@ -3,10 +3,14 @@
 	"matchCriteriaId": "7831352E-3339-4DB8-8708-F4DE6930CFD4",
 	"versionEndExcluding": "1.45",
 	"created": "2024-07-22T19:17:54.573",
-	"lastModified": "2024-07-22T19:17:54.573",
-	"cpeLastModified": "2024-07-22T19:17:54.573",
+	"lastModified": "2024-07-26T17:52:40.117",
+	"cpeLastModified": "2024-07-26T17:52:40.117",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:bestwebsoft:quotes_and_tips:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "09A4072A-4C52-4685-8AB8-7D378E304DA1"
+		},
 		{
 			"cpeName": "cpe:2.3:a:bestwebsoft:quotes_and_tips:1.01:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "57650A73-C72D-4657-87FB-41872582EF50"

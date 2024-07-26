@@ -5,7 +5,7 @@
 	"versionEndIncluding": "2023.0.0.330468",
 	"created": "2023-07-19T14:14:46.443",
 	"lastModified": "2023-07-19T14:14:46.443",
-	"cpeLastModified": "2023-11-24T17:05:15.883",
+	"cpeLastModified": "2024-07-26T13:22:39.183",
 	"status": "Active",
 	"matches": [
 		{
@@ -31,6 +31,14 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:coldfusion:2023:update5:*:*:*:*:*:*",
 			"cpeNameId": "FAA71B52-8BB4-4037-9B33-8158136121C4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:coldfusion:2023:update6:*:*:*:*:*:*",
+			"cpeNameId": "CFEE0CDB-11E8-4C9F-9160-46253403C879"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:coldfusion:2023:update7:*:*:*:*:*:*",
+			"cpeNameId": "94FBE975-6EA3-4221-88F3-8BF82EC7F7C0"
 		}
 	]
 }

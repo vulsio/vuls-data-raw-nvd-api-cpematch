@@ -3,7 +3,7 @@
 	"matchCriteriaId": "21D8D192-7845-4011-860F-807DC0B452EB",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-11-27T12:41:17.607",
+	"cpeLastModified": "2024-07-26T17:30:18.127",
 	"status": "Active",
 	"matches": [
 		{
@@ -231,12 +231,20 @@
 			"cpeNameId": "4B90FBDB-19F9-440F-9C11-F0AAD0EB0ECE"
 		},
 		{
+			"cpeName": "cpe:2.3:a:adobe:photoshop:24.7.3:*:*:*:*:*:*:*",
+			"cpeNameId": "5297452C-6EF3-4731-A153-0FD293B81A0D"
+		},
+		{
 			"cpeName": "cpe:2.3:a:adobe:photoshop:25.0:*:*:*:*:*:*:*",
 			"cpeNameId": "937D91BF-6C1E-4C71-8E60-5EF4C5D71E15"
 		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:photoshop:25.1:*:*:*:*:*:*:*",
 			"cpeNameId": "52C9635B-37F2-4F2A-95F1-A63B4DE9FEB3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:photoshop:25.7:*:*:*:*:*:*:*",
+			"cpeNameId": "BBCC3D2F-C670-4737-9811-F46DB4E40AE3"
 		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:photoshop:cs:*:*:*:*:*:*:*",

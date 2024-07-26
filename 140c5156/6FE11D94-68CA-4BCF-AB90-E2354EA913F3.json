@@ -4,8 +4,8 @@
 	"versionStartIncluding": "1.9.0",
 	"versionEndExcluding": "1.21.2",
 	"created": "2024-07-24T16:37:51.170",
-	"lastModified": "2024-07-24T16:37:51.170",
-	"cpeLastModified": "2024-07-24T16:37:51.170",
+	"lastModified": "2024-07-26T13:10:15.490",
+	"cpeLastModified": "2024-07-26T13:10:15.490",
 	"status": "Active",
 	"matches": [
 		{
@@ -35,6 +35,30 @@
 		{
 			"cpeName": "cpe:2.3:a:apache:drill:1.19.0:*:*:*:*:*:*:*",
 			"cpeNameId": "CA121454-828D-4134-AD70-C172518FC304"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:drill:1.20.0:*:*:*:*:*:*:*",
+			"cpeNameId": "7838959B-BFCC-401D-AE1D-BA061408D1AC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:drill:1.20.1:*:*:*:*:*:*:*",
+			"cpeNameId": "7F7DF025-F037-4B76-A9E8-C4709F41165B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:drill:1.20.2:*:*:*:*:*:*:*",
+			"cpeNameId": "6A41EF88-2F3D-4EC7-9C8F-D93429B7E61F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:drill:1.20.3:*:*:*:*:*:*:*",
+			"cpeNameId": "3A039861-4165-4C9F-A326-F98EB0C75851"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:drill:1.21.0:*:*:*:*:*:*:*",
+			"cpeNameId": "29D0AC97-36A5-4BC0-B385-BC82A6768DCF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:drill:1.21.1:*:*:*:*:*:*:*",
+			"cpeNameId": "F75C9453-01F1-487B-952F-AA37BAADA07D"
 		}
 	]
 }

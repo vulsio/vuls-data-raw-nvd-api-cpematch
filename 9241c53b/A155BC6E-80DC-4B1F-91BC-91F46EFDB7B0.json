@@ -4,9 +4,13 @@
 	"versionEndIncluding": "1.31",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-09-23T12:03:17.893",
+	"cpeLastModified": "2024-07-26T17:52:40.117",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:bestwebsoft:quotes_and_tips:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "09A4072A-4C52-4685-8AB8-7D378E304DA1"
+		},
 		{
 			"cpeName": "cpe:2.3:a:bestwebsoft:quotes_and_tips:1.01:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "57650A73-C72D-4657-87FB-41872582EF50"

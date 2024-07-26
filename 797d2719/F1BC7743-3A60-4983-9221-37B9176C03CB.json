@@ -3,8 +3,8 @@
 	"matchCriteriaId": "F1BC7743-3A60-4983-9221-37B9176C03CB",
 	"versionEndExcluding": "10.2.2",
 	"created": "2024-07-24T14:18:42.280",
-	"lastModified": "2024-07-24T14:18:42.280",
-	"cpeLastModified": "2024-07-24T14:18:42.280",
+	"lastModified": "2024-07-26T16:22:35.677",
+	"cpeLastModified": "2024-07-26T16:22:35.677",
 	"status": "Active",
 	"matches": [
 		{
@@ -518,6 +518,38 @@
 		{
 			"cpeName": "cpe:2.3:a:wpbookingcalendar:booking_calendar:9.9.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "A413DA08-D4FE-47DF-8613-097606C01260"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpbookingcalendar:booking_calendar:10.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BA58B270-06A8-4D29-9571-D975CA74200D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpbookingcalendar:booking_calendar:10.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B669923D-F803-4A92-8E27-FCEE1A002167"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpbookingcalendar:booking_calendar:10.1.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E8CC1CD9-FA1F-4768-BCFF-7A4F3DF34813"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpbookingcalendar:booking_calendar:10.1.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B0F5F5EF-A6D0-484C-8C42-D1146857B5F1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpbookingcalendar:booking_calendar:10.1.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E0B531D1-2171-4D85-AF2D-9FD74ED8D876"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpbookingcalendar:booking_calendar:10.1.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "63BA4130-4F3E-4039-8DA4-AC51BF95025B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpbookingcalendar:booking_calendar:10.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BD5FC123-9688-4D1D-AAFE-7B23E8EC41E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpbookingcalendar:booking_calendar:10.2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "44DA9D29-937D-4E6E-999B-172D3ACA428F"
 		}
 	]
 }

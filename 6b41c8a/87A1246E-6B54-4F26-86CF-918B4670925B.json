@@ -3,8 +3,8 @@
 	"matchCriteriaId": "87A1246E-6B54-4F26-86CF-918B4670925B",
 	"versionEndExcluding": "1.6.2",
 	"created": "2024-07-22T16:18:03.890",
-	"lastModified": "2024-07-22T16:18:03.890",
-	"cpeLastModified": "2024-07-22T16:18:03.890",
+	"lastModified": "2024-07-26T16:12:39.107",
+	"cpeLastModified": "2024-07-26T16:12:39.107",
 	"status": "Active",
 	"matches": [
 		{
@@ -94,6 +94,26 @@
 		{
 			"cpeName": "cpe:2.3:a:ukrsolution:barcode_scanner_and_inventory_manager:1.5.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "71C51990-8605-4550-AECE-02558195F876"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ukrsolution:barcode_scanner_and_inventory_manager:1.5.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B4E3B547-4B31-4062-9268-3748974EDAB5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ukrsolution:barcode_scanner_and_inventory_manager:1.5.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "196D2725-6516-46FE-984D-6FAE0AEC1DAE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ukrsolution:barcode_scanner_and_inventory_manager:1.5.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F24B487C-5FC7-4D14-9346-5C2A6E170A70"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ukrsolution:barcode_scanner_and_inventory_manager:1.6.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F6956B3E-F93F-4BC3-B5D2-D2ECBC5AF0D4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ukrsolution:barcode_scanner_and_inventory_manager:1.6.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "46C124AA-C3AD-4773-B16C-A19F4E74E11B"
 		}
 	]
 }

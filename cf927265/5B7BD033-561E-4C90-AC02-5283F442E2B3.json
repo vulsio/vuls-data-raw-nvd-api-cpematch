@@ -3,10 +3,14 @@
 	"matchCriteriaId": "5B7BD033-561E-4C90-AC02-5283F442E2B3",
 	"versionEndExcluding": "2024.06",
 	"created": "2024-07-25T19:26:58.593",
-	"lastModified": "2024-07-25T19:26:58.593",
-	"cpeLastModified": "2024-07-25T19:26:58.593",
+	"lastModified": "2024-07-26T14:16:52.113",
+	"cpeLastModified": "2024-07-26T14:16:52.113",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:archerirm:archer:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B9AE4E03-898A-4EDF-A602-3DC3256C94A9"
+		},
 		{
 			"cpeName": "cpe:2.3:a:archerirm:archer:6.3.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "14AA86FA-229C-46B0-A40A-35ECAE449C46"
@@ -60,12 +64,28 @@
 			"cpeNameId": "CF05A676-85BA-4A09-AC95-36BA860E6582"
 		},
 		{
+			"cpeName": "cpe:2.3:a:archerirm:archer:6.13.0.4:*:*:*:*:*:*:*",
+			"cpeNameId": "2F04EEF0-E1E1-4BAB-A035-480585BB2E77"
+		},
+		{
 			"cpeName": "cpe:2.3:a:archerirm:archer:6.14.0:*:*:*:*:*:*:*",
 			"cpeNameId": "47EE20CA-B28F-4003-B22F-9EF61208BBAB"
 		},
 		{
 			"cpeName": "cpe:2.3:a:archerirm:archer:6.14.0.1.2:*:*:*:*:*:*:*",
 			"cpeNameId": "C0C6FE8D-B081-4C95-B3C6-CFC5EEC2B669"
+		},
+		{
+			"cpeName": "cpe:2.3:a:archerirm:archer:6.14.0.4:*:*:*:*:*:*:*",
+			"cpeNameId": "22C5C58E-A9AB-47DD-A805-6AC1456167B6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:archerirm:archer:2024.03:*:*:*:*:*:*:*",
+			"cpeNameId": "8CC97E17-83C5-4A72-ADF9-7BDC9E61DF5F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:archerirm:archer:2024.04:*:*:*:*:*:*:*",
+			"cpeNameId": "A1DBA16D-71B9-48D9-A272-CD8E747306DE"
 		}
 	]
 }

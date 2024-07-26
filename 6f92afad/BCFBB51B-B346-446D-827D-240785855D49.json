@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2012.1",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2024-07-09T17:05:22.127",
+	"cpeLastModified": "2024-07-26T15:05:56.570",
 	"status": "Active",
 	"matches": [
 		{
@@ -600,6 +600,14 @@
 			"cpeNameId": "AA1B4391-274C-4E44-945B-1B64C9B25733"
 		},
 		{
+			"cpeName": "cpe:2.3:a:openstack:nova:27.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A945EBD7-4BCA-4AEA-9C0D-514D40B6832C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openstack:nova:27.4.1:*:*:*:*:*:*:*",
+			"cpeNameId": "CB2D132A-13E8-4AC8-AEBC-5EC007FE438D"
+		},
+		{
 			"cpeName": "cpe:2.3:a:openstack:nova:28.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "FBA79698-017D-4BB8-AE1C-6A6D127A6D1F"
 		},
@@ -608,12 +616,36 @@
 			"cpeNameId": "9C86ACF0-CDCD-4BE3-B33E-B4A8B49A9FE7"
 		},
 		{
+			"cpeName": "cpe:2.3:a:openstack:nova:28.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A3C50C04-7793-4C27-B23D-FE9D414CE049"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openstack:nova:28.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "E7BE7A2B-C93C-42E8-A16F-47E9A712923E"
+		},
+		{
 			"cpeName": "cpe:2.3:a:openstack:nova:29.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "D827A420-3795-47F7-AA31-0D3AC4074513"
 		},
 		{
+			"cpeName": "cpe:2.3:a:openstack:nova:29.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "2F75AECA-E656-4813-9DEE-6E9423FE5FE0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openstack:nova:29.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "BF0B9AD0-B711-46D0-B274-B5A81DE84D67"
+		},
+		{
 			"cpeName": "cpe:2.3:a:openstack:nova:29.0.3:*:*:*:*:*:*:*",
 			"cpeNameId": "849E794F-3BDD-4C94-8F28-95C89BF8D84A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openstack:nova:29.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "0373E140-5EAD-45BB-A2EE-F6D47609F551"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openstack:nova:29.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "32C3B630-8128-4915-B3AD-BE11F02C65DD"
 		},
 		{
 			"cpeName": "cpe:2.3:a:openstack:nova:2010.1:*:*:*:*:*:*:*",
