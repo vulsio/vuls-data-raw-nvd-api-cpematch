@@ -4,7 +4,7 @@
 	"versionEndExcluding": "3.2.1",
 	"created": "2023-02-24T16:40:57.860",
 	"lastModified": "2023-02-25T03:06:36.337",
-	"cpeLastModified": "2023-02-27T14:31:59.473",
+	"cpeLastModified": "2024-07-29T18:12:42.510",
 	"status": "Active",
 	"matches": [
 		{
@@ -638,6 +638,42 @@
 		{
 			"cpeName": "cpe:2.3:a:nuxt:nuxt:2.16.1:*:*:*:*:*:*:*",
 			"cpeNameId": "21D8D765-CB5F-4EFF-A90C-F64EE3610966"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:2.16.2:*:*:*:*:*:*:*",
+			"cpeNameId": "F806D5C2-319B-4DF6-935A-FA87B09F7A19"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:2.16.3:*:*:*:*:*:*:*",
+			"cpeNameId": "BDF02FB6-8AAA-4BBE-8E69-4F152C9EDF20"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:2.17.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A2558C05-24C2-4AF9-ACA7-19AEFCB79D01"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:2.17.1:*:*:*:*:*:*:*",
+			"cpeNameId": "B8D5A5C2-844F-41BD-801F-5460E2A11A29"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:2.17.2:*:*:*:*:*:*:*",
+			"cpeNameId": "3CC5DBFF-AB64-4357-8450-EB3539216E33"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:2.17.3:*:*:*:*:*:*:*",
+			"cpeNameId": "0B7C5144-DEB7-492E-9248-F10A2B9650A2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:2.17.4:*:*:*:*:*:*:*",
+			"cpeNameId": "6A660A15-59A1-457F-9B94-ED4C2734AB07"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:2.18.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F654F1DD-CE34-457C-A00E-E20FF84E7E53"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:2.18.1:*:*:*:*:*:*:*",
+			"cpeNameId": "A955F65F-A5C5-4438-B0E6-62800C8B4145"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nuxt:nuxt:3.0.0:-:*:*:*:*:*:*",

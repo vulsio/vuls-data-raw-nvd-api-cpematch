@@ -4,9 +4,13 @@
 	"versionEndExcluding": "1.0.5",
 	"created": "2024-02-13T18:04:54.173",
 	"lastModified": "2024-02-13T18:04:54.173",
-	"cpeLastModified": "2024-02-13T18:04:54.173",
+	"cpeLastModified": "2024-07-29T17:51:39.847",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:pluginus:woot:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EFCB769C-FD80-48F9-BE3B-F74D4AE84277"
+		},
 		{
 			"cpeName": "cpe:2.3:a:pluginus:woot:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "A48CD3CD-08C3-436F-88F6-56D61368CCFF"

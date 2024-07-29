@@ -3,10 +3,14 @@
 	"matchCriteriaId": "CB0C6F1B-0499-4B9E-AA73-F27EB87ECDA8",
 	"versionEndExcluding": "1.0.6.4",
 	"created": "2024-07-22T14:23:34.427",
-	"lastModified": "2024-07-22T14:23:34.427",
-	"cpeLastModified": "2024-07-22T14:23:34.427",
+	"lastModified": "2024-07-29T17:51:39.847",
+	"cpeLastModified": "2024-07-29T17:51:39.847",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:pluginus:woot:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EFCB769C-FD80-48F9-BE3B-F74D4AE84277"
+		},
 		{
 			"cpeName": "cpe:2.3:a:pluginus:woot:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "A48CD3CD-08C3-436F-88F6-56D61368CCFF"
@@ -46,6 +50,10 @@
 		{
 			"cpeName": "cpe:2.3:a:pluginus:woot:1.0.6.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "D107306B-4D63-4222-B3A5-59CDDDDF0CD1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pluginus:woot:1.0.6.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "08603CDC-C804-4F7E-A528-141890120662"
 		}
 	]
 }

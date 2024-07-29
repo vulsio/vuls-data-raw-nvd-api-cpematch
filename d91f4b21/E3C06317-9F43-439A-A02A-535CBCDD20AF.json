@@ -4,9 +4,13 @@
 	"versionEndExcluding": "2.1.0",
 	"created": "2022-10-24T14:59:59.457",
 	"lastModified": "2022-10-27T15:16:10.187",
-	"cpeLastModified": "2022-10-24T14:59:59.457",
+	"cpeLastModified": "2024-07-29T17:45:59.370",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oxilab:accordions:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2B7F9231-5FA2-49D1-B9C8-35065B545B2D"
+		},
 		{
 			"cpeName": "cpe:2.3:a:oxilab:accordions:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "2F54C190-B24C-4EEF-8007-633055F5C5A7"

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "191F955F-CA50-4734-8AE3-EC899CB10801",
 	"versionEndIncluding": "6.5.5",
 	"created": "2024-07-24T13:59:28.677",
-	"lastModified": "2024-07-24T13:59:28.677",
-	"cpeLastModified": "2024-07-24T13:59:28.677",
+	"lastModified": "2024-07-29T15:10:12.400",
+	"cpeLastModified": "2024-07-29T15:10:12.400",
 	"status": "Active",
 	"matches": [
 		{
@@ -558,6 +558,10 @@
 		{
 			"cpeName": "cpe:2.3:a:cubecart:cubecart:6.5.3:*:*:*:*:*:*:*",
 			"cpeNameId": "2E926169-01F1-49A9-BAF3-C7CCF7A78068"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cubecart:cubecart:6.5.5:*:*:*:*:*:*:*",
+			"cpeNameId": "F45CCD63-812A-4042-9871-DABCE02458AC"
 		}
 	]
 }

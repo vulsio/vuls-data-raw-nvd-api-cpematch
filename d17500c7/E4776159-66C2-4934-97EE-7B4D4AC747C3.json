@@ -3,8 +3,8 @@
 	"matchCriteriaId": "E4776159-66C2-4934-97EE-7B4D4AC747C3",
 	"versionEndExcluding": "3.5.3",
 	"created": "2023-06-17T03:16:17.757",
-	"lastModified": "2023-06-17T03:16:17.757",
-	"cpeLastModified": "2023-06-17T03:16:17.757",
+	"lastModified": "2024-07-29T18:12:42.510",
+	"cpeLastModified": "2024-07-29T18:12:42.510",
 	"status": "Active",
 	"matches": [
 		{
@@ -640,6 +640,42 @@
 			"cpeNameId": "21D8D765-CB5F-4EFF-A90C-F64EE3610966"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:2.16.2:*:*:*:*:*:*:*",
+			"cpeNameId": "F806D5C2-319B-4DF6-935A-FA87B09F7A19"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:2.16.3:*:*:*:*:*:*:*",
+			"cpeNameId": "BDF02FB6-8AAA-4BBE-8E69-4F152C9EDF20"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:2.17.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A2558C05-24C2-4AF9-ACA7-19AEFCB79D01"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:2.17.1:*:*:*:*:*:*:*",
+			"cpeNameId": "B8D5A5C2-844F-41BD-801F-5460E2A11A29"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:2.17.2:*:*:*:*:*:*:*",
+			"cpeNameId": "3CC5DBFF-AB64-4357-8450-EB3539216E33"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:2.17.3:*:*:*:*:*:*:*",
+			"cpeNameId": "0B7C5144-DEB7-492E-9248-F10A2B9650A2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:2.17.4:*:*:*:*:*:*:*",
+			"cpeNameId": "6A660A15-59A1-457F-9B94-ED4C2734AB07"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:2.18.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F654F1DD-CE34-457C-A00E-E20FF84E7E53"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:2.18.1:*:*:*:*:*:*:*",
+			"cpeNameId": "A955F65F-A5C5-4438-B0E6-62800C8B4145"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nuxt:nuxt:3.0.0:-:*:*:*:*:*:*",
 			"cpeNameId": "4BEF609F-2DBE-43FF-BAD8-6D03EE239EFE"
 		},
@@ -722,6 +758,54 @@
 		{
 			"cpeName": "cpe:2.3:a:nuxt:nuxt:3.2.2:*:*:*:*:*:*:*",
 			"cpeNameId": "14407096-5171-41A4-A1A9-A5DE7AFA5196"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:3.2.3:*:*:*:*:*:*:*",
+			"cpeNameId": "7B90456C-8C1B-4938-B3BE-3DCD33D9B9CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:3.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "9F9EB65B-BAD6-40C0-836B-0875DDD570C2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:3.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "8C0CCFBC-391C-4C81-93AB-68C1BB5537AE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:3.3.2:*:*:*:*:*:*:*",
+			"cpeNameId": "5920D54B-848D-46F7-97BB-F2D9F65115A5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:3.3.3:*:*:*:*:*:*:*",
+			"cpeNameId": "E7452EC9-6F0E-40C7-A4BF-632B1C351052"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:3.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "59A5D719-0872-41E8-8F0F-62A89EAB3A71"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:3.4.1:*:*:*:*:*:*:*",
+			"cpeNameId": "A1E47AAF-548F-4D66-ABD4-7E8DA30813CC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:3.4.2:*:*:*:*:*:*:*",
+			"cpeNameId": "1600F017-230F-480A-8EED-B60290F3C64A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:3.4.3:*:*:*:*:*:*:*",
+			"cpeNameId": "0604688F-7D3D-4E55-8FE3-7ED3B1786EF7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:3.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "803511EF-088B-4EA6-A4D0-116832403D8B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:3.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "538F4F8F-9722-4BF1-97C2-A8EBD86966B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nuxt:nuxt:3.5.2:*:*:*:*:*:*:*",
+			"cpeNameId": "27B5FD4A-5E2D-4D40-AC29-C90FE303862E"
 		}
 	]
 }

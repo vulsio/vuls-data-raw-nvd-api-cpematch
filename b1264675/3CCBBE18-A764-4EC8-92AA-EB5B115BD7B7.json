@@ -4,7 +4,7 @@
 	"versionEndIncluding": "22.06",
 	"created": "2022-08-08T12:19:09.203",
 	"lastModified": "2022-11-11T14:36:13.417",
-	"cpeLastModified": "2023-02-24T12:04:48.650",
+	"cpeLastModified": "2024-07-29T15:24:32.237",
 	"status": "Active",
 	"matches": [
 		{
@@ -284,6 +284,18 @@
 			"cpeNameId": "F9747A83-B367-4427-9C6C-0E323D725746"
 		},
 		{
+			"cpeName": "cpe:2.3:a:dotcms:dotcms:5.2.8.1:*:*:*:lts:*:*:*",
+			"cpeNameId": "7FBB97BE-9685-41CE-AD8E-95C05982657B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dotcms:dotcms:5.2.8.2:*:*:*:lts:*:*:*",
+			"cpeNameId": "2656BA94-C79C-44EC-A43B-3CDF2468722D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dotcms:dotcms:5.2.8.3:*:*:*:lts:*:*:*",
+			"cpeNameId": "E60055F7-A387-4B67-853B-64EFC180636E"
+		},
+		{
 			"cpeName": "cpe:2.3:a:dotcms:dotcms:5.2.8.4:*:*:*:*:*:*:*",
 			"cpeNameId": "D41DE207-C278-464E-B871-B9793B0EDDFE"
 		},
@@ -344,6 +356,10 @@
 			"cpeNameId": "80715FF1-5C59-48B9-A4B3-9186039B5D06"
 		},
 		{
+			"cpeName": "cpe:2.3:a:dotcms:dotcms:5.3.8.3:*:*:*:lts:*:*:*",
+			"cpeNameId": "EC5904A5-5506-446F-A607-960C4867420C"
+		},
+		{
 			"cpeName": "cpe:2.3:a:dotcms:dotcms:5.3.8.4:*:*:*:*:*:*:*",
 			"cpeNameId": "433A8121-5296-45C9-A0AA-3F74F231C9AF"
 		},
@@ -364,6 +380,14 @@
 			"cpeNameId": "66501E3D-15F3-4F96-99AA-6FCF823F01A0"
 		},
 		{
+			"cpeName": "cpe:2.3:a:dotcms:dotcms:5.3.8.7:*:*:*:lts:*:*:*",
+			"cpeNameId": "B0CDC5E6-7E02-4F3A-A01E-041350393093"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dotcms:dotcms:5.3.8.8:*:*:*:lts:*:*:*",
+			"cpeNameId": "EC0DDDC0-BFAC-43A8-B540-0E8E37BA7811"
+		},
+		{
 			"cpeName": "cpe:2.3:a:dotcms:dotcms:5.3.8.9:*:*:*:*:*:*:*",
 			"cpeNameId": "93E837C4-A0DB-464B-B386-DFB5414A623C"
 		},
@@ -378,6 +402,14 @@
 		{
 			"cpeName": "cpe:2.3:a:dotcms:dotcms:5.3.8.12:*:*:*:*:*:*:*",
 			"cpeNameId": "7342B930-573F-455A-9125-B40BB4420F61"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dotcms:dotcms:5.3.8.13:*:*:*:lts:*:*:*",
+			"cpeNameId": "91003E93-5677-4E5D-B72C-4B2BA926DE47"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dotcms:dotcms:5.3.8.14:*:*:*:lts:*:*:*",
+			"cpeNameId": "095794D9-0C84-49A6-A7B9-7259E89C49C4"
 		},
 		{
 			"cpeName": "cpe:2.3:a:dotcms:dotcms:5.3.9:*:*:*:*:*:*:*",
@@ -476,6 +508,14 @@
 			"cpeNameId": "B68ACC6B-9DFC-4C1D-AECD-E5A30A09F3A6"
 		},
 		{
+			"cpeName": "cpe:2.3:a:dotcms:dotcms:21.06.13:*:*:*:lts:*:*:*",
+			"cpeNameId": "047BDD57-8453-4C33-9305-AA392CFF9048"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dotcms:dotcms:21.06.14:*:*:*:lts:*:*:*",
+			"cpeNameId": "1323857E-8DB4-49D1-99B2-50A1D4CC1920"
+		},
+		{
 			"cpeName": "cpe:2.3:a:dotcms:dotcms:21.08:*:*:*:*:*:*:*",
 			"cpeNameId": "F9B13117-40D2-4FDD-BD02-E589A2A99B52"
 		},
@@ -526,6 +566,50 @@
 		{
 			"cpeName": "cpe:2.3:a:dotcms:dotcms:22.03.4:*:*:*:lts:*:*:*",
 			"cpeNameId": "DB186D30-5481-4D5F-88F5-1DBD5EDA4021"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dotcms:dotcms:22.03.5:*:*:*:lts:*:*:*",
+			"cpeNameId": "E48C6C7F-ED3C-4F58-B6A8-648F68FD888A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dotcms:dotcms:22.03.6:*:*:*:lts:*:*:*",
+			"cpeNameId": "CA37504F-E3F0-49AE-9ECE-4DCA82F54571"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dotcms:dotcms:22.03.7:*:*:*:lts:*:*:*",
+			"cpeNameId": "0DEB4AAD-AB8C-45A7-A56D-4BFCE168EED9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dotcms:dotcms:22.03.8:*:*:*:lts:*:*:*",
+			"cpeNameId": "DA2784C3-3666-4CAB-9749-A6AE45632573"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dotcms:dotcms:22.03.9:*:*:*:lts:*:*:*",
+			"cpeNameId": "CE89C189-CC20-465C-A953-E4C0D336AA7E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dotcms:dotcms:22.03.10:*:*:*:lts:*:*:*",
+			"cpeNameId": "A1CABB38-DFCF-4193-B9A6-616D783E6242"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dotcms:dotcms:22.03.11:*:*:*:lts:*:*:*",
+			"cpeNameId": "B0345F4E-7730-4A2A-B13F-28DDDA0D1D75"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dotcms:dotcms:22.03.12:*:*:*:lts:*:*:*",
+			"cpeNameId": "D759EE41-B94D-4498-94D7-5AE5D4BCD121"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dotcms:dotcms:22.03.13:*:*:*:lts:*:*:*",
+			"cpeNameId": "EE625320-A9AC-46E5-9BBF-553F20F75745"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dotcms:dotcms:22.03.14:*:*:*:lts:*:*:*",
+			"cpeNameId": "E1E2C818-0D62-40EF-8230-D6485E0D2F81"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dotcms:dotcms:22.03.15:*:*:*:lts:*:*:*",
+			"cpeNameId": "B61A0C22-5E76-4A2C-80A4-64E889391C11"
 		},
 		{
 			"cpeName": "cpe:2.3:a:dotcms:dotcms:22.05:*:*:*:*:*:*:*",

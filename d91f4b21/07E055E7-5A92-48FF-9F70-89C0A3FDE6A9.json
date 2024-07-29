@@ -3,10 +3,14 @@
 	"matchCriteriaId": "07E055E7-5A92-48FF-9F70-89C0A3FDE6A9",
 	"versionEndIncluding": "2.3.5",
 	"created": "2024-07-22T20:43:20.910",
-	"lastModified": "2024-07-22T20:43:20.910",
-	"cpeLastModified": "2024-07-22T20:43:20.910",
+	"lastModified": "2024-07-29T17:45:59.370",
+	"cpeLastModified": "2024-07-29T17:45:59.370",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oxilab:accordions:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2B7F9231-5FA2-49D1-B9C8-35065B545B2D"
+		},
 		{
 			"cpeName": "cpe:2.3:a:oxilab:accordions:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "2F54C190-B24C-4EEF-8007-633055F5C5A7"
@@ -70,6 +74,18 @@
 		{
 			"cpeName": "cpe:2.3:a:oxilab:accordions:2.3.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "8C17B0FA-53D9-4BC9-9A4B-9172D226B475"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oxilab:accordions:2.3.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "82898316-4F28-4AA3-8CE7-D9F7CC3A1E42"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oxilab:accordions:2.3.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E85198E1-AB52-4ACC-BFD3-59E6E8DE5E26"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oxilab:accordions:2.3.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "211E74D4-2466-49CD-A3B0-BB522D44DAF4"
 		}
 	]
 }

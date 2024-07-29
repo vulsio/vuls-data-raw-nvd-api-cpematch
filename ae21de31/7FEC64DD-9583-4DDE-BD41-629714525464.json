@@ -3,10 +3,14 @@
 	"matchCriteriaId": "7FEC64DD-9583-4DDE-BD41-629714525464",
 	"versionEndExcluding": "2.0.8",
 	"created": "2024-07-17T15:18:50.387",
-	"lastModified": "2024-07-17T15:18:50.387",
-	"cpeLastModified": "2024-07-17T15:18:50.387",
+	"lastModified": "2024-07-29T17:32:46.640",
+	"cpeLastModified": "2024-07-29T17:32:46.640",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:levantoan:woocommerce_vietnam_checkout:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CAB264C7-A97A-48DA-85C1-C6BEBCC9E8E3"
+		},
 		{
 			"cpeName": "cpe:2.3:a:levantoan:woocommerce_vietnam_checkout:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "13865812-DF37-4611-9A6D-AFFE22A7C679"
