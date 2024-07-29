@@ -4,9 +4,13 @@
 	"versionEndExcluding": "11.5\\(1\\)",
 	"created": "2021-01-25T19:16:03.300",
 	"lastModified": "2021-01-25T19:16:03.300",
-	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"cpeLastModified": "2024-07-29T11:52:22.913",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:data_center_network_manager:-:*:*:*:*:*:*:*",
+			"cpeNameId": "243898D8-7889-405F-BF31-D1E7B7ED79D1"
+		},
 		{
 			"cpeName": "cpe:2.3:a:cisco:data_center_network_manager:4.0:*:*:*:*:*:*:*",
 			"cpeNameId": "C2E615D9-84AD-41B5-A74E-A8FD7959B017"

@@ -4,8 +4,8 @@
 	"versionStartIncluding": "9.0.0",
 	"versionEndExcluding": "9.2.3",
 	"created": "2023-10-18T14:52:58.090",
-	"lastModified": "2023-10-18T14:52:58.090",
-	"cpeLastModified": "2023-10-18T14:52:58.090",
+	"lastModified": "2024-07-29T11:33:00.213",
+	"cpeLastModified": "2024-07-29T11:33:00.213",
 	"status": "Active",
 	"matches": [
 		{
@@ -99,6 +99,14 @@
 		{
 			"cpeName": "cpe:2.3:a:apache:traffic_server:9.2.1:rc0:*:*:*:*:*:*",
 			"cpeNameId": "FEAACF04-654D-4EF3-B471-8212864A7CC8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:traffic_server:9.2.2:-:*:*:*:*:*:*",
+			"cpeNameId": "DE19992C-466A-470C-BDA4-78E2A9B69C9A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:traffic_server:9.2.2:rc0:*:*:*:*:*:*",
+			"cpeNameId": "B9E876D3-DB4D-48C4-90B8-5C4B6BB95ED7"
 		}
 	]
 }
