@@ -4,7 +4,7 @@
 	"versionEndExcluding": "9.9.4",
 	"created": "2024-07-26T18:11:12.187",
 	"lastModified": "2024-07-26T18:11:12.187",
-	"cpeLastModified": "2024-07-26T18:11:12.187",
+	"cpeLastModified": "2024-07-30T16:42:48.573",
 	"status": "Active",
 	"matches": [
 		{
@@ -528,8 +528,216 @@
 			"cpeNameId": "98F9FCA8-08F2-4C71-BB1A-949903BF6A20"
 		},
 		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:7.9:*:*:*:*:*:*:*",
+			"cpeNameId": "70C2909B-46AD-43CE-8AD3-83E6D68BC31E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:7.9.1:*:*:*:*:*:*:*",
+			"cpeNameId": "C2C445C8-0AA2-4065-93FA-55024EF1FDC9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:7.9.2:*:*:*:*:*:*:*",
+			"cpeNameId": "083C9BB1-63FB-45AA-A8D1-3732E61FD94A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:7.9.3:*:*:*:*:*:*:*",
+			"cpeNameId": "B83FF1C7-DAB2-45F6-91A4-C025099F494D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:7.9.4:*:*:*:*:*:*:*",
+			"cpeNameId": "432642A3-E494-4E97-8A23-AC0CC81DB503"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:7.9.5:*:*:*:*:*:*:*",
+			"cpeNameId": "66982C9B-40D2-47CB-9989-9AAD9D243F41"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:7.9.6:*:*:*:*:*:*:*",
+			"cpeNameId": "160D3B02-CC59-433C-9B7B-B09B06D42C10"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8:*:*:*:*:*:*:*",
+			"cpeNameId": "0A2FD349-C089-4A90-BA19-890CF7D94CDB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8.1.0.31237:*:*:*:*:*:*:*",
+			"cpeNameId": "4CEFC438-BA2C-458B-BC9D-535A099576F3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8.2.0.32929:*:*:*:*:*:*:*",
+			"cpeNameId": "B9455933-0EB1-4A38-BB9C-8A7787092A96"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8.3.0.34182:*:*:*:*:*:*:*",
+			"cpeNameId": "236F6FCB-7651-4130-89B4-207F9FC92B76"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8.3.1.34397:*:*:*:*:*:*:*",
+			"cpeNameId": "8421EBF5-40AD-497D-9BFA-4CD969B143E7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8.4.0.35506:*:*:*:*:*:*:*",
+			"cpeNameId": "4EDD7624-FF25-4F8B-AE88-96544D3D6EF8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8.4.1.35646:*:*:*:*:*:*:*",
+			"cpeNameId": "FDF561BD-A464-4C04-B44C-58B3AA7216F5"
+		},
+		{
 			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8.4.2.36762:*:*:*:*:*:*:*",
 			"cpeNameId": "47D9B6B1-182E-4ED0-AE4C-0F06FB0657F5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8.5.0.37579:*:*:*:*:*:*:*",
+			"cpeNameId": "9CBEE810-7738-4A39-B2A2-B200CC5E4E9F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8.5.1.38104:*:*:*:*:*:*:*",
+			"cpeNameId": "ACDFBB9F-67BF-4A54-BC73-EA45C35025B8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8.6.0.39681:*:*:*:*:*:*:*",
+			"cpeNameId": "5FF925C7-73C5-4C97-89B3-A503B588E52B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8.6.1.40680:*:*:*:*:*:*:*",
+			"cpeNameId": "19FB7040-F727-4ACF-A4F4-0805A89E5288"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8.7.0.41497:*:*:*:*:*:*:*",
+			"cpeNameId": "A246632E-C940-4C93-BC2E-3B7985F318F7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8.7.1.42226:*:*:*:*:*:*:*",
+			"cpeNameId": "956FD6F5-619B-4B27-8D59-FE1431FE55DC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8.8.0.42792:*:*:*:*:*:*:*",
+			"cpeNameId": "16282BDF-914C-43D8-99C8-62EC697E924D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8.9.0.43852:*:*:*:*:*:*:*",
+			"cpeNameId": "00726234-192D-48B2-98FE-5367D3D97366"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8.9.1.44547:*:*:*:*:*:*:*",
+			"cpeNameId": "CD79C2EC-ED41-4FA0-A7A9-47E0E82D8C00"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8.9.2.46101:*:*:*:*:*:*:*",
+			"cpeNameId": "9B2C9FF8-50B9-4611-8201-A662B7C2ADD7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8.9.3.48735:*:*:*:*:*:*:*",
+			"cpeNameId": "701B0138-F40D-4A76-97F8-477B93ECFC4F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8.9.4.50575:*:*:*:*:*:*:*",
+			"cpeNameId": "435E1551-BE7A-4BD3-B00D-DD05950F83D3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8.9.5.50698:*:*:*:*:*:*:*",
+			"cpeNameId": "7E5E5D35-A13F-4BED-800F-178DD3CDE785"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8.9.6.50800:*:*:*:*:*:*:*",
+			"cpeNameId": "0D460F43-8CB0-4825-9B4D-872121462709"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8.9.7.52159:*:*:*:*:*:*:*",
+			"cpeNameId": "BBE5F029-1E90-45FE-B00B-FF02F609D673"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8.9.8.54436:*:*:*:*:*:*:*",
+			"cpeNameId": "8B6694AF-BFF9-484E-B577-C22AB7041D04"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8.9.9.56886:*:*:*:*:*:*:*",
+			"cpeNameId": "7F996B11-D9BB-4888-814E-C617CEAF2CCD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:8.9.10.61524:*:*:*:*:*:*:*",
+			"cpeNameId": "9178C6C7-BD90-4ACF-915C-DD8891EB17E5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:9.0.0.45539:*:*:*:*:*:*:*",
+			"cpeNameId": "C9943742-86E0-4DC6-8E83-D3D7E310460A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:9.0.1.46107:*:*:*:*:*:*:*",
+			"cpeNameId": "25EF2671-23BC-4E7F-BB82-59FBCBF03D86"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:9.1.0.47736:*:*:*:*:*:*:*",
+			"cpeNameId": "DF0A0A6F-6507-4B24-B3B0-ACED5A0C63B5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:9.2.0.49834:*:*:*:*:*:*:*",
+			"cpeNameId": "742C3E03-93DB-42D4-8399-7EBFEF87E451"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:9.2.1.49989:*:*:*:*:*:*:*",
+			"cpeNameId": "8EE832B2-E3E5-4B17-950D-A5620309053F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:9.2.2.50622:*:*:*:*:*:*:*",
+			"cpeNameId": "5C26CD65-D7DD-4FFD-9E12-C3AD2F9CC175"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:9.2.3.50713:*:*:*:*:*:*:*",
+			"cpeNameId": "947B9E63-4117-40F1-87E0-98195EC72E5D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:9.2.4.50792:*:*:*:*:*:*:*",
+			"cpeNameId": "329D101C-B39A-488B-A1E8-CD0D6AF5B4B9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:9.3.0.51899:*:*:*:*:*:*:*",
+			"cpeNameId": "63B60C4D-EEBD-405A-8856-FB47E6FE5C6E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:9.4.0.54424:*:*:*:*:*:*:*",
+			"cpeNameId": "8E7C76DF-FFEF-4D97-BE8C-098129C4C1C1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:9.5.0.56709:*:*:*:*:*:*:*",
+			"cpeNameId": "629F423C-9FD6-41F1-8E2C-D2ACF0D46B1B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:9.6.0.59041:*:*:*:*:*:*:*",
+			"cpeNameId": "F4BCEC88-95D9-46C6-A47F-75DFB0BD2460"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:9.6.1.59531:*:*:*:*:*:*:*",
+			"cpeNameId": "B62DD68C-E7E5-4E3A-A6E5-67BB9B04610E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:9.7.0.61563:*:*:*:*:*:*:*",
+			"cpeNameId": "B7A07F17-EDAF-4F49-9A43-59DEB0581D76"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:9.7.1.62043:*:*:*:*:*:*:*",
+			"cpeNameId": "7E89B239-DFCE-4F1A-8C12-C48B958F198B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:9.8.0.63668:*:*:*:*:*:*:*",
+			"cpeNameId": "D1B49F59-63BC-437D-AC65-5D2BD3D2C381"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:9.9.0.65466:*:*:*:*:*:*:*",
+			"cpeNameId": "681133EF-D672-42AA-A600-D84175FE51B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:9.9.1.69595:*:*:*:*:*:*:*",
+			"cpeNameId": "C4B959C3-F02D-4C4A-9FE3-D7A20BCB0F86"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:9.9.2.77730:*:*:*:*:*:*:*",
+			"cpeNameId": "A4A0C707-4CCA-47F3-9476-9AC367C2D9D0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonarsource:sonarqube:9.9.3.79811:*:*:*:*:*:*:*",
+			"cpeNameId": "CD35C38E-4CBE-4087-A23C-B14154EAA278"
 		}
 	]
 }

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "A4A95DA5-EB47-48AA-B9C6-EB6D1489E832",
 	"versionEndExcluding": "2.62",
 	"created": "2024-07-29T20:56:35.013",
-	"lastModified": "2024-07-29T20:56:35.013",
-	"cpeLastModified": "2024-07-29T20:56:35.013",
+	"lastModified": "2024-07-30T13:57:03.043",
+	"cpeLastModified": "2024-07-30T13:57:03.043",
 	"status": "Active",
 	"matches": [
 		{
@@ -1090,6 +1090,14 @@
 		{
 			"cpeName": "cpe:2.3:a:canonical:snapd:2.61.1:*:*:*:*:*:*:*",
 			"cpeNameId": "E814577D-41C4-4E4C-BF27-2A65D280F1CE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:canonical:snapd:2.61.2:*:*:*:*:*:*:*",
+			"cpeNameId": "21B7E9A4-6E1E-48E2-BF79-1246485D5A74"
+		},
+		{
+			"cpeName": "cpe:2.3:a:canonical:snapd:2.61.3:*:*:*:*:*:*:*",
+			"cpeNameId": "99CD608C-76E5-474F-BC63-5B621555BCEF"
 		}
 	]
 }

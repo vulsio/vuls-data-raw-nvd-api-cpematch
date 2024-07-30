@@ -4,9 +4,13 @@
 	"versionEndIncluding": "5.5.37.0",
 	"created": "2023-02-16T15:09:19.457",
 	"lastModified": "2023-02-16T21:01:47.330",
-	"cpeLastModified": "2023-02-16T21:01:47.330",
+	"cpeLastModified": "2024-07-30T14:11:28.653",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:dell:alienware_command_center:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2F7582A8-406D-43AE-A69C-DC8FF8C0F592"
+		},
 		{
 			"cpeName": "cpe:2.3:a:dell:alienware_command_center:5.4.35.0:*:*:*:*:*:*:*",
 			"cpeNameId": "2748908F-FB83-4A3B-81E1-15E32CEC3A3E"

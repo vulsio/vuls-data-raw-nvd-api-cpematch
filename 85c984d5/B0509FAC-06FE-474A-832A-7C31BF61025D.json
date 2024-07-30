@@ -4,9 +4,13 @@
 	"versionEndIncluding": "6.1.5",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"cpeLastModified": "2024-07-30T15:32:04.070",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:openproject:openproject:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6FEA1C4D-F9BA-48C5-96DB-C56E8B179806"
+		},
 		{
 			"cpeName": "cpe:2.3:a:openproject:openproject:3.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "7AC0D4EC-84F3-4BC4-9970-10A9B2DB9312"

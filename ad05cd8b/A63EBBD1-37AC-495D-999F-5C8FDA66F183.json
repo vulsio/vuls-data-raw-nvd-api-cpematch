@@ -4,9 +4,13 @@
 	"versionEndIncluding": "1.9.2",
 	"created": "2020-01-15T16:44:39.337",
 	"lastModified": "2020-01-15T16:44:39.337",
-	"cpeLastModified": "2020-01-15T16:44:39.383",
+	"cpeLastModified": "2024-07-30T17:10:22.547",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:tablepress:tablepress:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E835B3EC-3D30-4F60-8AD6-F670C6710D4B"
+		},
 		{
 			"cpeName": "cpe:2.3:a:tablepress:tablepress:0.9:rc:*:*:*:wordpress:*:*",
 			"cpeNameId": "1C3B5DE5-E4A6-4413-ACDB-4B87A6FBF5DA"

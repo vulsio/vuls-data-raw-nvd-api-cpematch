@@ -4,10 +4,14 @@
 	"versionStartIncluding": "6.0.0",
 	"versionEndIncluding": "6.12.0",
 	"created": "2024-02-08T20:51:30.833",
-	"lastModified": "2024-02-08T20:51:30.833",
-	"cpeLastModified": "2024-02-08T20:51:30.833",
+	"lastModified": "2024-07-30T17:27:05.283",
+	"cpeLastModified": "2024-07-30T17:27:05.283",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:vmware:aria_operations_for_networks:6.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "7341369D-F427-4138-8D81-11560D70B17E"
+		},
 		{
 			"cpeName": "cpe:2.3:a:vmware:aria_operations_for_networks:6.2.0:*:*:*:*:*:*:*",
 			"cpeNameId": "9AB26F83-9D1A-4350-9F48-B21526F62779"
@@ -47,6 +51,10 @@
 		{
 			"cpeName": "cpe:2.3:a:vmware:aria_operations_for_networks:6.11.0:*:*:*:*:*:*:*",
 			"cpeNameId": "73DBF2F6-3ADE-469C-9ABC-E9203EDDB95C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vmware:aria_operations_for_networks:6.12.0:*:*:*:*:*:*:*",
+			"cpeNameId": "9D443FE2-8A5C-4E92-AB07-5E50107CBDAD"
 		}
 	]
 }

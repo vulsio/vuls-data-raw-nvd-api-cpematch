@@ -3,8 +3,8 @@
 	"matchCriteriaId": "BD12AC3F-2E4B-4E99-B6EA-E8CB65087B45",
 	"versionEndExcluding": "123.0.2420.53",
 	"created": "2024-03-25T19:57:41.730",
-	"lastModified": "2024-03-25T19:57:41.730",
-	"cpeLastModified": "2024-03-25T19:57:41.730",
+	"lastModified": "2024-07-30T17:28:56.057",
+	"cpeLastModified": "2024-07-30T17:28:56.057",
 	"status": "Active",
 	"matches": [
 		{
@@ -286,6 +286,10 @@
 		{
 			"cpeName": "cpe:2.3:a:microsoft:edge:118.0.2088.88:*:*:*:*:android:*:*",
 			"cpeNameId": "0ABF098C-0E6F-4D97-9DD6-EA140DC699DA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge:122.0.2365.92:*:*:*:*:*:*:*",
+			"cpeNameId": "2BC8CA80-5E1E-4E8B-ADD5-890880D21706"
 		}
 	]
 }

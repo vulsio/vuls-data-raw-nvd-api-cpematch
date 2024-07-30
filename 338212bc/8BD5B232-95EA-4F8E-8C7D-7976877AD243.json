@@ -3,7 +3,7 @@
 	"matchCriteriaId": "8BD5B232-95EA-4F8E-8C7D-7976877AD243",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-12-01T13:06:12.100",
+	"cpeLastModified": "2024-07-30T17:28:56.057",
 	"status": "Active",
 	"matches": [
 		{
@@ -285,6 +285,102 @@
 		{
 			"cpeName": "cpe:2.3:a:microsoft:edge:118.0.2088.88:*:*:*:*:android:*:*",
 			"cpeNameId": "0ABF098C-0E6F-4D97-9DD6-EA140DC699DA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge:122.0.2365.92:*:*:*:*:*:*:*",
+			"cpeNameId": "2BC8CA80-5E1E-4E8B-ADD5-890880D21706"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge:123.0.2420.53:*:*:*:*:*:*:*",
+			"cpeNameId": "AE0C2E73-C206-48AB-9DC6-C41898EFDB38"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge:124.0.2478.51:*:*:*:*:*:*:*",
+			"cpeNameId": "4C1673F8-A29F-4418-8D88-32F006D6C260"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge:124.0.2478.67:*:*:*:*:*:*:*",
+			"cpeNameId": "A8F876F7-F271-49C7-A031-EBD65ADDA5F6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge:124.0.2478.80:*:*:*:*:*:*:*",
+			"cpeNameId": "A104D008-652B-41FF-8C64-441331D2790A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge:124.0.2478.97:*:*:*:*:*:*:*",
+			"cpeNameId": "9E1D4668-B3BE-408B-87C3-0D925BFC64BB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge:124.0.2478.105:*:*:*:*:*:*:*",
+			"cpeNameId": "4E840355-8756-466D-9011-ACE27D419146"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge:124.0.2478.109:*:*:*:*:*:*:*",
+			"cpeNameId": "C94DCBDE-B299-4F45-AC69-0DE690EE2F83"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge:124.0.2478.121:*:*:*:*:*:*:*",
+			"cpeNameId": "13D60224-9C57-4C24-95AC-BFAE3678FF95"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge:124.0.2478.127:*:*:*:*:*:*:*",
+			"cpeNameId": "5DAFC966-4553-4DD5-8220-770D82D700EE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge:124.0.2478.131:*:*:*:*:*:*:*",
+			"cpeNameId": "318FD62D-4340-4DB8-A484-3685A1016BC3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge:125.0.2535.51:*:*:*:*:*:*:*",
+			"cpeNameId": "B52E9F9D-D807-4CEF-A4EF-EE6006CC4785"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge:125.0.2535.67:*:*:*:*:*:*:*",
+			"cpeNameId": "272300A7-7B3F-446D-8EEE-C96DBE00DF7C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge:125.0.2535.79:*:*:*:*:*:*:*",
+			"cpeNameId": "FF3CC3B8-D028-4260-9EF3-DEE39B645CB7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge:125.0.2535.85:*:*:*:*:*:*:*",
+			"cpeNameId": "3B215472-B531-4D1E-8E1F-8681617FF7F3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge:125.0.2535.92:*:*:*:*:*:*:*",
+			"cpeNameId": "A44E4533-F74F-408B-B54B-657787319FDB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge:126.0.2592.56:*:*:*:*:*:*:*",
+			"cpeNameId": "0392A40F-FE65-42CD-B766-106D1A54D4F4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge:126.0.2592.61:*:*:*:*:*:*:*",
+			"cpeNameId": "D1C173C1-3C38-4F9A-BF98-9D8A91394E39"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge:126.0.2592.68:*:*:*:*:*:*:*",
+			"cpeNameId": "E9780649-69A1-4600-9CFD-2D757A9D714A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge:126.0.2592.81:*:*:*:*:*:*:*",
+			"cpeNameId": "44B2A4D1-50BE-4C83-A10C-CDC15ED03824"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge:126.0.2592.87:*:*:*:*:*:*:*",
+			"cpeNameId": "18FBC64E-60F8-42FB-8E97-80AA1F6263CB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge:126.0.2592.102:*:*:*:*:*:*:*",
+			"cpeNameId": "17714DD3-1B50-41ED-ACDC-B6800A18CBAC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge:126.0.2592.113:*:*:*:*:*:*:*",
+			"cpeNameId": "5F01B665-BAE7-4C40-AC6D-B3213D2A4649"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge:127.0.2651.74:*:*:*:*:*:*:*",
+			"cpeNameId": "3BAD0F3D-78D3-4418-BB91-E77CA5AAAFF3"
 		}
 	]
 }

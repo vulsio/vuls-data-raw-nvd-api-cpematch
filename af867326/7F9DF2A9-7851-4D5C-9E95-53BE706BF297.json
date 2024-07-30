@@ -3,8 +3,8 @@
 	"matchCriteriaId": "7F9DF2A9-7851-4D5C-9E95-53BE706BF297",
 	"versionEndExcluding": "4.2.4",
 	"created": "2024-07-25T17:44:07.293",
-	"lastModified": "2024-07-25T17:44:07.293",
-	"cpeLastModified": "2024-07-25T17:44:07.293",
+	"lastModified": "2024-07-30T17:21:15.133",
+	"cpeLastModified": "2024-07-30T17:21:15.133",
 	"status": "Active",
 	"matches": [
 		{
@@ -178,6 +178,22 @@
 		{
 			"cpeName": "cpe:2.3:a:wpeasypay:wp_easypay:4.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "350F3F0E-5D9D-40FD-888B-3D1625441135"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpeasypay:wp_easypay:4.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BFCC7CCD-0A68-4F48-AC1C-BC4B10B8A3F7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpeasypay:wp_easypay:4.2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "27A0F39E-0557-46C9-9F27-81F505BFE751"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpeasypay:wp_easypay:4.2.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0E30EFC1-FA82-480B-BFF1-FECE2DDFAFF4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpeasypay:wp_easypay:4.2.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1F91534F-091D-4FCE-A5BC-8AB1C5B573CA"
 		}
 	]
 }

@@ -3,10 +3,14 @@
 	"matchCriteriaId": "FE1456B9-04BD-40EE-93F9-3028048FABCB",
 	"versionEndExcluding": "3.4.4",
 	"created": "2024-07-24T22:23:20.213",
-	"lastModified": "2024-07-24T22:23:20.213",
-	"cpeLastModified": "2024-07-24T22:23:20.213",
+	"lastModified": "2024-07-30T17:16:38.473",
+	"cpeLastModified": "2024-07-30T17:16:38.473",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wp-meteor:wp_meteor:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3B17E025-E80F-4509-BF19-A4A402313D68"
+		},
 		{
 			"cpeName": "cpe:2.3:a:wp-meteor:wp_meteor:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "3BAC556B-F441-49C7-9A9B-8852D891049D"
@@ -530,6 +534,22 @@
 		{
 			"cpeName": "cpe:2.3:a:wp-meteor:wp_meteor:3.3.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "E31927A9-A044-4DF0-B6B1-0A034EDC1E29"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wp-meteor:wp_meteor:3.4.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DA1CDD46-6CCC-4A38-AF24-3DDE151E7DF2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wp-meteor:wp_meteor:3.4.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "64A1CF4F-F846-4373-B773-1A5EBA9AC864"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wp-meteor:wp_meteor:3.4.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "524178F6-F7CD-4250-9AB7-F4EA55F1A550"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wp-meteor:wp_meteor:3.4.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C26BD89A-FBB2-4F35-A263-47D3D21D82B5"
 		}
 	]
 }

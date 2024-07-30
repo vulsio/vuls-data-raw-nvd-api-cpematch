@@ -3,8 +3,8 @@
 	"matchCriteriaId": "0892BEA8-6E24-46E2-AF04-88464954ACF5",
 	"versionEndIncluding": "5.9.25",
 	"created": "2024-06-14T15:12:17.357",
-	"lastModified": "2024-06-14T15:12:17.357",
-	"cpeLastModified": "2024-06-14T15:12:17.357",
+	"lastModified": "2024-07-30T17:14:49.900",
+	"cpeLastModified": "2024-07-30T17:14:49.900",
 	"status": "Active",
 	"matches": [
 		{
@@ -450,6 +450,10 @@
 		{
 			"cpeName": "cpe:2.3:a:tibco:ebx:5.9.23:*:*:*:*:*:*:*",
 			"cpeNameId": "83A8D9CD-BDEB-46D3-A766-FFD2EF679487"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tibco:ebx:5.9.25:*:*:*:*:*:*:*",
+			"cpeNameId": "D0667F91-11C3-4204-883E-BD22F0247057"
 		}
 	]
 }

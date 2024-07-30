@@ -3,10 +3,14 @@
 	"matchCriteriaId": "7DB29F3E-AFDF-48DC-B3B3-B8B62D6B49D7",
 	"versionEndExcluding": "2.3.2",
 	"created": "2024-07-18T16:14:10.730",
-	"lastModified": "2024-07-18T16:14:10.730",
-	"cpeLastModified": "2024-07-18T16:14:10.730",
+	"lastModified": "2024-07-30T17:10:22.547",
+	"cpeLastModified": "2024-07-30T17:10:22.547",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:tablepress:tablepress:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E835B3EC-3D30-4F60-8AD6-F670C6710D4B"
+		},
 		{
 			"cpeName": "cpe:2.3:a:tablepress:tablepress:0.9:rc:*:*:*:wordpress:*:*",
 			"cpeNameId": "1C3B5DE5-E4A6-4413-ACDB-4B87A6FBF5DA"
@@ -186,6 +190,10 @@
 		{
 			"cpeName": "cpe:2.3:a:tablepress:tablepress:2.2.5:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "D681C710-CB24-477E-BF68-91C674605D82"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tablepress:tablepress:2.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "69BC6CAA-38F7-494F-ACB6-D7E3959179F3"
 		}
 	]
 }
