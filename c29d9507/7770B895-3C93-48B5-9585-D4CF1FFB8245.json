@@ -3,7 +3,7 @@
 	"matchCriteriaId": "7770B895-3C93-48B5-9585-D4CF1FFB8245",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-09-29T16:24:02.423",
+	"cpeLastModified": "2024-07-31T16:40:18.757",
 	"status": "Active",
 	"matches": [
 		{
@@ -25,6 +25,10 @@
 		{
 			"cpeName": "cpe:2.3:a:hp:operations_manager:9.10:*:*:*:*:*:*:*",
 			"cpeNameId": "1B894440-F406-4FFB-8FE4-C5C6EE712A7B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hp:operations_manager:9.11:*:*:*:*:*:*:*",
+			"cpeNameId": "C6CF58B7-6940-4BCB-B444-4AB09D422FDF"
 		},
 		{
 			"cpeName": "cpe:2.3:a:hp:operations_manager:9.20.0:*:*:*:linux:*:*:*",

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "DFF9BEC1-9A39-474A-A8FA-07FCA0E6DA66",
 	"versionEndIncluding": "6.0.2",
 	"created": "2024-07-23T18:02:21.947",
-	"lastModified": "2024-07-23T18:02:21.947",
-	"cpeLastModified": "2024-07-23T18:02:21.947",
+	"lastModified": "2024-07-31T16:59:08.367",
+	"cpeLastModified": "2024-07-31T16:59:08.367",
 	"status": "Active",
 	"matches": [
 		{
@@ -438,6 +438,10 @@
 		{
 			"cpeName": "cpe:2.3:a:hyumika:openstreetmap:6.0.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "00B06449-23BC-4B28-B2BD-8DC2FD2C345B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hyumika:openstreetmap:6.0.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D2DD109E-F77C-4F1C-9B1F-975513F37F5C"
 		}
 	]
 }

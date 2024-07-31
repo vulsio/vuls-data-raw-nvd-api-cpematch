@@ -3,10 +3,14 @@
 	"matchCriteriaId": "D7E637C4-B5FD-4D4C-B417-3EBFAF7B0AEC",
 	"versionEndExcluding": "2.5.4",
 	"created": "2024-07-17T18:47:48.773",
-	"lastModified": "2024-07-17T18:47:48.773",
-	"cpeLastModified": "2024-07-17T18:47:48.773",
+	"lastModified": "2024-07-31T16:22:17.873",
+	"cpeLastModified": "2024-07-31T16:21:57.003",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:hackmd:codimd:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0A532F21-A60D-4382-BFC3-48259BC57D42"
+		},
 		{
 			"cpeName": "cpe:2.3:a:hackmd:codimd:0.3.3:*:*:*:-:*:*:*",
 			"cpeNameId": "56F3583D-75CC-461C-AE9D-5DE65725BB6F"

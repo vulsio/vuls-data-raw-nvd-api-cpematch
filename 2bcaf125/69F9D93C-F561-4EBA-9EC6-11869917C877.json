@@ -4,9 +4,13 @@
 	"versionEndIncluding": "5.4.0",
 	"created": "2022-02-24T14:27:39.513",
 	"lastModified": "2022-02-24T14:27:39.513",
-	"cpeLastModified": "2022-02-28T18:52:40.340",
+	"cpeLastModified": "2024-07-31T13:27:57.013",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:expressionengine:expressionengine:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B99BE0AA-F528-4FDA-B5F2-34CCCC6EB1D4"
+		},
 		{
 			"cpeName": "cpe:2.3:a:expressionengine:expressionengine:1.1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "F9C22D3B-DFE8-4DA2-A203-DAE03C3FAA4B"

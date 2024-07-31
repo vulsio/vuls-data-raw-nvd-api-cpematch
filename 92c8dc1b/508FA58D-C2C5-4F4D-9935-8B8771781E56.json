@@ -4,9 +4,13 @@
 	"versionEndExcluding": "2.5.0",
 	"created": "2021-12-20T17:24:17.563",
 	"lastModified": "2021-12-20T17:24:17.563",
-	"cpeLastModified": "2023-02-17T17:32:56.883",
+	"cpeLastModified": "2024-07-31T16:16:03.490",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:-:*:*:*:*:python:*:*",
+			"cpeNameId": "008904B7-AAB9-4D09-8DA1-2E7C87B04135"
+		},
 		{
 			"cpeName": "cpe:2.3:a:gradio_project:gradio:0.1.0:*:*:*:*:python:*:*",
 			"cpeNameId": "CD2A546E-75A3-4CF3-AF3C-57930E16A53C"

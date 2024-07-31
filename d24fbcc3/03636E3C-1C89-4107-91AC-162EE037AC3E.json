@@ -4,6 +4,12 @@
 	"versionEndIncluding": "1.1.5b",
 	"created": "2024-02-08T18:52:36.307",
 	"lastModified": "2024-02-08T18:52:36.307",
-	"cpeLastModified": "2024-02-08T18:52:36.307",
-	"status": "Active"
+	"cpeLastModified": "2024-07-31T13:06:14.860",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:estore-wss:payment_ex:1.1.5b:*:*:*:*:*:*:*",
+			"cpeNameId": "0126B14A-230E-4383-B7D7-7BC8F891C06E"
+		}
+	]
 }
