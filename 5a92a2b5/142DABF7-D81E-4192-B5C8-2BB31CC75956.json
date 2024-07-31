@@ -5,7 +5,7 @@
 	"versionEndExcluding": "n4.26",
 	"created": "2020-10-16T16:47:03.747",
 	"lastModified": "2020-10-16T16:47:03.747",
-	"cpeLastModified": "2023-09-28T16:38:45.480",
+	"cpeLastModified": "2024-07-31T11:09:23.093",
 	"status": "Active",
 	"matches": [
 		{
@@ -59,6 +59,10 @@
 		{
 			"cpeName": "cpe:2.3:a:br-automation:automation_runtime:g4.93:*:*:*:*:*:*:*",
 			"cpeNameId": "0D45C165-077C-4B33-AE78-9290328F3C3F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:br-automation:automation_runtime:i4.93:*:*:*:*:*:*:*",
+			"cpeNameId": "08430606-8EE1-4AB5-8D55-EB4A1414E1A6"
 		}
 	]
 }

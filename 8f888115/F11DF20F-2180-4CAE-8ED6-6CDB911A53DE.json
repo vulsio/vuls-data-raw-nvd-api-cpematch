@@ -4,7 +4,7 @@
 	"versionEndIncluding": "6.2.12",
 	"created": "2024-01-05T14:46:21.153",
 	"lastModified": "2024-01-12T12:35:05.863",
-	"cpeLastModified": "2024-01-12T12:35:05.863",
+	"cpeLastModified": "2024-07-31T12:03:11.410",
 	"status": "Active",
 	"matches": [
 		{
@@ -66,6 +66,10 @@
 		{
 			"cpeName": "cpe:2.3:a:dedebiz:dedebiz:6.2.10:*:*:*:*:*:*:*",
 			"cpeNameId": "E16FD1DE-AC4A-4345-A374-5A7E921095C1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dedebiz:dedebiz:6.2.11:*:*:*:*:*:*:*",
+			"cpeNameId": "4801AE89-93D6-443C-AD46-7ABF6F74E533"
 		},
 		{
 			"cpeName": "cpe:2.3:a:dedebiz:dedebiz:6.2.12:*:*:*:*:*:*:*",

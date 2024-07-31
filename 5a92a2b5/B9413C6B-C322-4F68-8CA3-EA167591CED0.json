@@ -3,8 +3,8 @@
 	"matchCriteriaId": "B9413C6B-C322-4F68-8CA3-EA167591CED0",
 	"versionEndIncluding": "i4.93",
 	"created": "2024-02-12T17:04:20.770",
-	"lastModified": "2024-02-12T17:04:20.770",
-	"cpeLastModified": "2024-02-12T17:04:20.770",
+	"lastModified": "2024-07-31T11:09:23.093",
+	"cpeLastModified": "2024-07-31T11:09:23.093",
 	"status": "Active",
 	"matches": [
 		{
@@ -102,6 +102,10 @@
 		{
 			"cpeName": "cpe:2.3:a:br-automation:automation_runtime:g4.93:*:*:*:*:*:*:*",
 			"cpeNameId": "0D45C165-077C-4B33-AE78-9290328F3C3F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:br-automation:automation_runtime:i4.93:*:*:*:*:*:*:*",
+			"cpeNameId": "08430606-8EE1-4AB5-8D55-EB4A1414E1A6"
 		}
 	]
 }

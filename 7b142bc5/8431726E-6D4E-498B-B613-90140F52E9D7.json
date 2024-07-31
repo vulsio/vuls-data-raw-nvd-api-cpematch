@@ -3,7 +3,7 @@
 	"matchCriteriaId": "8431726E-6D4E-498B-B613-90140F52E9D7",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2021-03-03T23:02:44.753",
+	"cpeLastModified": "2024-07-31T11:25:24.007",
 	"status": "Active",
 	"matches": [
 		{
@@ -17,6 +17,10 @@
 		{
 			"cpeName": "cpe:2.3:a:cisco:expressway:14.0.7:*:*:*:*:*:*:*",
 			"cpeNameId": "DB8EB757-A083-4B84-BFD2-184EC3DAC5E9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:expressway:15.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F19EA9CF-FFF4-468E-B581-379FD1EC7CC2"
 		},
 		{
 			"cpeName": "cpe:2.3:a:cisco:expressway:x8.1:*:*:*:*:*:*:*",

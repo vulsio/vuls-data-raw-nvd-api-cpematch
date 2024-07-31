@@ -3,7 +3,7 @@
 	"matchCriteriaId": "AA0E48F5-D4CB-49E3-8F28-6B6F27856D2E",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-06-21T16:34:55.793",
+	"cpeLastModified": "2024-07-31T11:28:44.727",
 	"status": "Active",
 	"matches": [
 		{
@@ -345,6 +345,14 @@
 		{
 			"cpeName": "cpe:2.3:a:cisco:prime_infrastructure:3.10.4:*:*:*:*:*:*:*",
 			"cpeNameId": "D2E97449-7C1B-4F2E-BA4A-CEC8833D3AC7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:prime_infrastructure:3.10.4:-:*:*:*:*:*:*",
+			"cpeNameId": "B4EE5557-8BBB-4D02-89DF-08B1B11C4CD9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:prime_infrastructure:3.10.4:update_01:*:*:*:*:*:*",
+			"cpeNameId": "CF5FFF5B-CC66-4852-9CC6-79280750BBA1"
 		}
 	]
 }

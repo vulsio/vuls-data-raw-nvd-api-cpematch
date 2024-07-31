@@ -4,7 +4,7 @@
 	"versionEndIncluding": "1.14.0",
 	"created": "2024-02-13T19:00:41.090",
 	"lastModified": "2024-02-13T19:00:41.090",
-	"cpeLastModified": "2024-02-13T19:00:41.090",
+	"cpeLastModified": "2024-07-31T12:14:11.850",
 	"status": "Active",
 	"matches": [
 		{
@@ -522,6 +522,10 @@
 		{
 			"cpeName": "cpe:2.3:a:dronecode:px4_drone_autopilot:1.13.3:*:*:*:*:*:*:*",
 			"cpeNameId": "3D2AD291-3310-46A5-828E-0CD5BF791FC1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dronecode:px4_drone_autopilot:1.14.0:-:*:*:*:*:*:*",
+			"cpeNameId": "C531F673-CD91-4437-9340-D75C82F27E7E"
 		},
 		{
 			"cpeName": "cpe:2.3:a:dronecode:px4_drone_autopilot:1.14.0:beta1:*:*:*:*:*:*",

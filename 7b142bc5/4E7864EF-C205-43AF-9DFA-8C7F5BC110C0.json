@@ -4,7 +4,7 @@
 	"versionEndExcluding": "x14.0.7",
 	"created": "2022-05-26T01:01:58.533",
 	"lastModified": "2022-05-26T01:01:58.533",
-	"cpeLastModified": "2022-06-29T11:19:53.630",
+	"cpeLastModified": "2024-07-31T11:25:24.007",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:a:cisco:expressway:14.0.7:*:*:*:*:*:*:*",
 			"cpeNameId": "DB8EB757-A083-4B84-BFD2-184EC3DAC5E9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:expressway:15.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F19EA9CF-FFF4-468E-B581-379FD1EC7CC2"
 		},
 		{
 			"cpeName": "cpe:2.3:a:cisco:expressway:x8.1:*:*:*:*:*:*:*",
