@@ -3,8 +3,8 @@
 	"matchCriteriaId": "0FC02DB1-16BC-4D60-9B8D-EC7200DCAC32",
 	"versionEndIncluding": "3.7.1",
 	"created": "2024-02-07T17:14:07.650",
-	"lastModified": "2024-02-07T17:14:07.650",
-	"cpeLastModified": "2024-02-07T17:14:07.650",
+	"lastModified": "2024-08-01T18:06:02.760",
+	"cpeLastModified": "2024-08-01T18:06:02.760",
 	"status": "Active",
 	"matches": [
 		{
@@ -1242,6 +1242,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ninjaforms:ninja_forms:3.6.34:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "31A6E5EF-42A2-4C10-81D3-7A3725DCCA08"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ninjaforms:ninja_forms:3.7.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2BC927FA-0738-4355-9645-A92741DE78AC"
 		}
 	]
 }

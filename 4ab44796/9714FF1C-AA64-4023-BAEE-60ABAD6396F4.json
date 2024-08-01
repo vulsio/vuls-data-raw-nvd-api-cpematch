@@ -4,9 +4,13 @@
 	"versionEndExcluding": "1.2.0",
 	"created": "2022-08-04T17:41:21.990",
 	"lastModified": "2022-08-04T17:41:21.990",
-	"cpeLastModified": "2022-08-04T19:19:12.997",
+	"cpeLastModified": "2024-08-01T14:21:30.773",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:kainelabs:youzify:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "42C84E1B-7F60-4F7B-9517-BAE3648A4C06"
+		},
 		{
 			"cpeName": "cpe:2.3:a:kainelabs:youzify:1.0.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "7CC63448-9106-4946-A446-D58FCEB7907C"

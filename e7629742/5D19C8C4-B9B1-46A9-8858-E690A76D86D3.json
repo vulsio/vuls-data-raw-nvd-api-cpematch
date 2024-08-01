@@ -3,7 +3,13 @@
 	"matchCriteriaId": "5D19C8C4-B9B1-46A9-8858-E690A76D86D3",
 	"versionEndExcluding": "12.3.0.6",
 	"created": "2024-07-31T18:55:29.503",
-	"lastModified": "2024-07-31T18:55:29.503",
-	"cpeLastModified": "2024-07-31T18:55:29.503",
-	"status": "Active"
+	"lastModified": "2024-08-01T14:44:38.650",
+	"cpeLastModified": "2024-08-01T14:44:38.650",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:dell:inventory_collector:-:*:*:*:*:*:*:*",
+			"cpeNameId": "665E501B-3BAC-4F1C-BC5E-4BA68119462C"
+		}
+	]
 }

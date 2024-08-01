@@ -4,7 +4,7 @@
 	"versionEndIncluding": "11.1.0",
 	"created": "2023-12-27T22:43:25.913",
 	"lastModified": "2023-12-27T22:43:25.913",
-	"cpeLastModified": "2024-01-18T16:30:54.280",
+	"cpeLastModified": "2024-08-01T16:07:55.727",
 	"status": "Active",
 	"matches": [
 		{
@@ -454,6 +454,10 @@
 		{
 			"cpeName": "cpe:2.3:a:microsoft:powershell:7.2.18:*:*:*:*:*:*:*",
 			"cpeNameId": "C6ED52E2-B5CE-4CE5-AD26-AFD9463FDA90"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:powershell:7.3:-:*:*:*:*:*:*",
+			"cpeNameId": "3515010F-9332-4A8A-BAC2-A95EAEC9AAAF"
 		},
 		{
 			"cpeName": "cpe:2.3:a:microsoft:powershell:7.3:preview1:*:*:*:*:*:*",

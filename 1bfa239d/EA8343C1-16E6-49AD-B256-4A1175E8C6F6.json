@@ -3,7 +3,7 @@
 	"matchCriteriaId": "EA8343C1-16E6-49AD-B256-4A1175E8C6F6",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2024-01-18T16:30:54.280",
+	"cpeLastModified": "2024-08-01T15:43:53.700",
 	"status": "Active",
 	"matches": [
 		{
@@ -1697,6 +1697,10 @@
 		{
 			"cpeName": "cpe:2.3:a:mediawiki:mediawiki:1.40.2:*:*:*:*:*:*:*",
 			"cpeNameId": "E294FAF9-C248-4BCF-A34F-7037189EF5E6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mediawiki:mediawiki:1.42.1:*:*:*:*:*:*:*",
+			"cpeNameId": "845A8617-FC0A-47AC-8381-5287BA0F3932"
 		}
 	]
 }

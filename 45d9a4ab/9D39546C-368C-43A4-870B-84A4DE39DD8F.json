@@ -3,10 +3,14 @@
 	"matchCriteriaId": "9D39546C-368C-43A4-870B-84A4DE39DD8F",
 	"versionEndExcluding": "3.7.4",
 	"created": "2024-07-12T17:29:31.617",
-	"lastModified": "2024-07-12T17:29:31.617",
-	"cpeLastModified": "2024-07-12T17:29:31.617",
+	"lastModified": "2024-08-01T14:27:35.167",
+	"cpeLastModified": "2024-08-01T14:27:35.167",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:libarchive:libarchive:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2F39F9EC-3134-4868-8DC2-B0B5D8C7F3A0"
+		},
 		{
 			"cpeName": "cpe:2.3:a:libarchive:libarchive:2.6.0:*:*:*:*:*:*:*",
 			"cpeNameId": "ABF99E56-9EBA-4C28-BEB7-C0FE7496DA20"

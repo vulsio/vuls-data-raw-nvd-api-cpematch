@@ -4,6 +4,12 @@
 	"versionEndIncluding": "0.7.3",
 	"created": "2024-07-25T16:54:02.947",
 	"lastModified": "2024-07-25T16:55:20.350",
-	"cpeLastModified": "2024-07-25T16:54:02.947",
-	"status": "Active"
+	"cpeLastModified": "2024-08-01T15:03:24.317",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:librechat:librechat:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4A727C5A-D647-42B0-B3C2-7EA9CC3F3771"
+		}
+	]
 }

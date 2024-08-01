@@ -5,7 +5,7 @@
 	"versionEndExcluding": "24.1.3",
 	"created": "2024-04-16T15:45:05.150",
 	"lastModified": "2024-04-16T15:45:05.150",
-	"cpeLastModified": "2024-04-16T15:45:05.150",
+	"cpeLastModified": "2024-08-01T15:48:01.930",
 	"status": "Active",
 	"matches": [
 		{
@@ -75,6 +75,14 @@
 		{
 			"cpeName": "cpe:2.3:a:microsoft:defender_for_iot:22.3.6:*:*:*:*:*:*:*",
 			"cpeNameId": "887454A1-4C5A-43C3-80CD-F22B5A08C2DB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:defender_for_iot:22.3.7:*:*:*:*:*:*:*",
+			"cpeNameId": "5A6A8058-864A-4999-8C6F-2CA942B4880E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:defender_for_iot:24.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "FC3AFBA0-823C-451F-B247-46531881F64B"
 		}
 	]
 }

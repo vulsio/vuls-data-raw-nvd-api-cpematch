@@ -4,6 +4,12 @@
 	"versionEndExcluding": "2021-02-13",
 	"created": "2022-12-20T16:25:52.603",
 	"lastModified": "2022-12-20T16:25:52.603",
-	"cpeLastModified": "2022-12-20T16:25:52.603",
-	"status": "Active"
+	"cpeLastModified": "2024-08-01T15:19:02.503",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:lmeve_project:lmeve:0.1.58:*:*:*:*:*:*:*",
+			"cpeNameId": "EED3528E-84C5-4D68-A8A6-9D14E2EE644C"
+		}
+	]
 }

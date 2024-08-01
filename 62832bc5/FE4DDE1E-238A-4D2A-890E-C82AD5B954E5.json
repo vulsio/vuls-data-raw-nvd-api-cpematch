@@ -4,6 +4,12 @@
 	"versionEndExcluding": "6.1.21356.1837",
 	"created": "2022-01-06T18:54:33.967",
 	"lastModified": "2022-01-06T18:54:33.967",
-	"cpeLastModified": "2022-01-06T19:16:56.650",
-	"status": "Active"
+	"cpeLastModified": "2024-08-01T16:30:09.647",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:netapp:virtual_desktop_service:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A3CA2F5A-CDAA-4035-BF9B-82F78A1AD666"
+		}
+	]
 }

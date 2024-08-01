@@ -3,10 +3,14 @@
 	"matchCriteriaId": "4A09ECD9-BF84-4FEF-9085-2EC1EACFE6AF",
 	"versionEndIncluding": "3.2.5",
 	"created": "2024-07-23T13:40:57.800",
-	"lastModified": "2024-07-23T13:40:57.800",
-	"cpeLastModified": "2024-07-23T13:40:57.800",
+	"lastModified": "2024-08-01T17:02:48.220",
+	"cpeLastModified": "2024-08-01T17:02:48.220",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oxilab:shortcode_addons:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9FE08C87-2E9D-4C75-8229-D3ACEEA3A485"
+		},
 		{
 			"cpeName": "cpe:2.3:a:oxilab:shortcode_addons:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "515EF58F-151D-447B-B085-0A2BC4E99B53"
@@ -90,6 +94,10 @@
 		{
 			"cpeName": "cpe:2.3:a:oxilab:shortcode_addons:3.2.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "F14CEE54-7845-45A0-9993-0570D17C47E7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oxilab:shortcode_addons:3.2.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "89D518A7-F118-4157-AF0A-ACFE53F96F18"
 		}
 	]
 }

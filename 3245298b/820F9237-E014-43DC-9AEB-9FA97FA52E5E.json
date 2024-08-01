@@ -5,7 +5,7 @@
 	"versionEndExcluding": "11.2.3",
 	"created": "2022-09-06T16:20:37.713",
 	"lastModified": "2022-11-18T17:27:06.603",
-	"cpeLastModified": "2022-05-31T16:48:23.167",
+	"cpeLastModified": "2024-08-01T14:45:56.157",
 	"status": "Active",
 	"matches": [
 		{
@@ -15,6 +15,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ibm:cognos_analytics:11.2.1:*:*:*:*:*:*:*",
 			"cpeNameId": "DD4506FE-DF98-4283-AE4D-599D030D52CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:cognos_analytics:11.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "71FAD1FD-BF2C-4CCF-AEDE-3EE818D7ACEC"
 		}
 	]
 }

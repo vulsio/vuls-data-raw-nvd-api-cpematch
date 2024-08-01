@@ -4,7 +4,7 @@
 	"versionEndIncluding": "4.2.7",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2020-07-27T13:37:03.450",
+	"cpeLastModified": "2024-08-01T18:11:41.793",
 	"status": "Active",
 	"matches": [
 		{
@@ -830,6 +830,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ntp:ntp:4.2.7:*:*:*:*:*:*:*",
 			"cpeNameId": "F99DD7C8-EB78-4C2A-B694-4E87EE17FF19"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ntp:ntp:4.2.7:-:*:*:*:*:*:*",
+			"cpeNameId": "9F41A903-5BF7-4BFE-8092-9C1FD2DB4FD7"
 		},
 		{
 			"cpeName": "cpe:2.3:a:ntp:ntp:4.2.7:p0:*:*:*:*:*:*",

@@ -5,6 +5,16 @@
 	"versionEndIncluding": "10.0.7.1",
 	"created": "2024-07-31T19:39:12.167",
 	"lastModified": "2024-07-31T19:39:12.167",
-	"cpeLastModified": "2024-07-31T19:39:12.167",
-	"status": "Active"
+	"cpeLastModified": "2024-08-01T14:58:27.260",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ibm:security_access_manager:10.0.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A0189362-5295-454E-8A77-8A3315C7DE95"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:security_access_manager:10.0.7.1:*:*:*:*:*:*:*",
+			"cpeNameId": "87DBAD71-6DC2-451F-8846-F876BF7D539D"
+		}
+	]
 }

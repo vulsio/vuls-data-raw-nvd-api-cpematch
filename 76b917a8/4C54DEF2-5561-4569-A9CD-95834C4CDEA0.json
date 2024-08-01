@@ -3,7 +3,7 @@
 	"matchCriteriaId": "4C54DEF2-5561-4569-A9CD-95834C4CDEA0",
 	"created": "2019-10-28T12:59:19.063",
 	"lastModified": "2019-10-28T12:59:19.063",
-	"cpeLastModified": "2021-03-22T20:02:38.157",
+	"cpeLastModified": "2024-08-01T14:58:27.260",
 	"status": "Active",
 	"matches": [
 		{
@@ -233,6 +233,14 @@
 		{
 			"cpeName": "cpe:2.3:a:ibm:security_access_manager:9.0.7.2:*:*:*:*:*:*:*",
 			"cpeNameId": "14F54F36-5F77-42FC-ABFA-07814A3E99F2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:security_access_manager:10.0.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A0189362-5295-454E-8A77-8A3315C7DE95"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:security_access_manager:10.0.7.1:*:*:*:*:*:*:*",
+			"cpeNameId": "87DBAD71-6DC2-451F-8846-F876BF7D539D"
 		}
 	]
 }

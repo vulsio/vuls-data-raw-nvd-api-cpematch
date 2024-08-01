@@ -5,12 +5,16 @@
 	"versionEndIncluding": "11.6.0.13",
 	"created": "2024-02-12T17:02:18.003",
 	"lastModified": "2024-02-12T17:02:18.003",
-	"cpeLastModified": "2024-02-12T17:02:18.003",
+	"cpeLastModified": "2024-08-01T16:30:09.647",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:netapp:storagegrid:11.6.0:*:*:*:*:*:*:*",
 			"cpeNameId": "0922EB12-9261-4305-B786-70926A648C3E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:netapp:storagegrid:11.6.0.13:*:*:*:*:*:*:*",
+			"cpeNameId": "5D42B816-B6ED-4F88-9888-77B2169B9826"
 		}
 	]
 }

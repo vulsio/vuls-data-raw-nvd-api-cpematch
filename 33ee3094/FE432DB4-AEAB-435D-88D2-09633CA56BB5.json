@@ -4,7 +4,7 @@
 	"versionEndIncluding": "2023.5",
 	"created": "2023-12-13T16:43:36.737",
 	"lastModified": "2023-12-13T17:19:31.757",
-	"cpeLastModified": "2023-12-13T17:19:31.757",
+	"cpeLastModified": "2024-08-01T16:21:04.703",
 	"status": "Active",
 	"matches": [
 		{
@@ -430,6 +430,10 @@
 		{
 			"cpeName": "cpe:2.3:a:mullvad:mullvad_vpn:2023.4:beta1:*:*:*:windows:*:*",
 			"cpeNameId": "498B3F86-B4F6-4E5C-92B1-60037DB56D47"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mullvad:mullvad_vpn:2023.5:*:*:*:*:windows:*:*",
+			"cpeNameId": "F0C3EE89-15BC-4F26-AE06-D6128B6CF842"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mullvad:mullvad_vpn:2023.5:-:*:*:*:windows:*:*",

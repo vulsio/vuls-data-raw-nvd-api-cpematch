@@ -4,9 +4,13 @@
 	"versionEndExcluding": "3.4.1",
 	"created": "2020-03-10T18:35:33.953",
 	"lastModified": "2020-03-10T18:35:33.953",
-	"cpeLastModified": "2020-03-10T18:35:33.970",
+	"cpeLastModified": "2024-08-01T14:27:35.167",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:libarchive:libarchive:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2F39F9EC-3134-4868-8DC2-B0B5D8C7F3A0"
+		},
 		{
 			"cpeName": "cpe:2.3:a:libarchive:libarchive:2.6.0:*:*:*:*:*:*:*",
 			"cpeNameId": "ABF99E56-9EBA-4C28-BEB7-C0FE7496DA20"
