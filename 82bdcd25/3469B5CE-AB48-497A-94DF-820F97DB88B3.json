@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:italtel:embrace:1.6.4:*:*:*:*:*:*:*",
 	"matchCriteriaId": "3469B5CE-AB48-497A-94DF-820F97DB88B3",
 	"created": "2024-07-25T14:10:03.847",
-	"lastModified": "2024-07-25T14:10:03.847",
-	"cpeLastModified": "2024-07-25T14:10:03.847",
-	"status": "Active"
+	"lastModified": "2024-08-01T12:16:53.653",
+	"cpeLastModified": "2024-08-01T12:16:53.653",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:italtel:embrace:1.6.4:*:*:*:*:*:*:*",
+			"cpeNameId": "3D130A7E-24D9-4655-ABFF-20DDA9344365"
+		}
+	]
 }
