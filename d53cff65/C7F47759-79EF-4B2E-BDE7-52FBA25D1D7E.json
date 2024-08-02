@@ -4,7 +4,7 @@
 	"versionStartIncluding": "6.0.0",
 	"created": "2022-08-26T17:48:32.293",
 	"lastModified": "2022-08-26T17:48:32.293",
-	"cpeLastModified": "2024-04-17T19:42:22.123",
+	"cpeLastModified": "2024-08-01T18:26:06.690",
 	"status": "Active",
 	"matches": [
 		{
@@ -266,6 +266,10 @@
 		{
 			"cpeName": "cpe:2.3:a:qemu:qemu:8.2.1:*:*:*:*:*:*:*",
 			"cpeNameId": "1D2BB682-FA76-46EA-8338-629E00BD30E5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qemu:qemu:9.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E7D85E89-8E0A-4420-8C45-B3A5D8B55609"
 		},
 		{
 			"cpeName": "cpe:2.3:a:qemu:qemu:2021-05-05:*:*:*:*:*:*:*",
