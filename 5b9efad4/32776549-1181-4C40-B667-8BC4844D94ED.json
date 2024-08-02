@@ -3,10 +3,14 @@
 	"matchCriteriaId": "32776549-1181-4C40-B667-8BC4844D94ED",
 	"versionEndIncluding": "1.7.3",
 	"created": "2024-07-24T17:25:33.527",
-	"lastModified": "2024-07-24T17:25:33.527",
-	"cpeLastModified": "2024-07-24T17:25:33.527",
+	"lastModified": "2024-08-02T12:32:53.617",
+	"cpeLastModified": "2024-08-02T12:32:53.617",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:qodeinteractive:qi_addons_for_elementor:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F91BC700-B53C-4A58-9E42-6353097799F9"
+		},
 		{
 			"cpeName": "cpe:2.3:a:qodeinteractive:qi_addons_for_elementor:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "476D6C71-1B3F-47D1-9155-0BAB1633E759"
@@ -110,6 +114,10 @@
 		{
 			"cpeName": "cpe:2.3:a:qodeinteractive:qi_addons_for_elementor:1.6.5:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "43AFB754-1610-4870-AB0F-AB6E694FE9B3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qodeinteractive:qi_addons_for_elementor:1.7.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3516085B-E343-4FDA-BA5B-5629618FB942"
 		}
 	]
 }

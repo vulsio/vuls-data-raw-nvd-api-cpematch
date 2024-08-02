@@ -3,10 +3,14 @@
 	"matchCriteriaId": "28B4489B-B02B-4C9B-B16E-E8E0A7C2E8AA",
 	"versionEndExcluding": "8.5.1",
 	"created": "2024-06-20T15:04:46.010",
-	"lastModified": "2024-06-20T15:04:46.010",
-	"cpeLastModified": "2024-06-20T15:04:46.010",
+	"lastModified": "2024-08-02T15:36:50.087",
+	"cpeLastModified": "2024-08-02T15:36:50.087",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sharethis:simple_share_buttons_adder:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DB95830F-94A6-4BDC-9509-9B94A89EF50F"
+		},
 		{
 			"cpeName": "cpe:2.3:a:sharethis:simple_share_buttons_adder:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "531A382D-CD16-41FA-8C0A-D55245C35168"

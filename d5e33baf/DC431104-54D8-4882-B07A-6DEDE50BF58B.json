@@ -3,10 +3,14 @@
 	"matchCriteriaId": "DC431104-54D8-4882-B07A-6DEDE50BF58B",
 	"versionEndExcluding": "12.6.6",
 	"created": "2024-07-25T15:35:11.750",
-	"lastModified": "2024-07-25T15:35:11.750",
-	"cpeLastModified": "2024-07-25T15:35:11.750",
+	"lastModified": "2024-08-02T16:49:56.843",
+	"cpeLastModified": "2024-08-02T16:49:56.843",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:tagdiv:newspaper:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C1D06941-9A41-4FA1-9199-2D434674A471"
+		},
 		{
 			"cpeName": "cpe:2.3:a:tagdiv:newspaper:6.7.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "7B5D1E36-846B-495A-AC39-6679A29BA759"

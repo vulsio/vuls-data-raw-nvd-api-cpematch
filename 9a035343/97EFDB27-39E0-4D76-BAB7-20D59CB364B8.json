@@ -4,6 +4,12 @@
 	"versionEndIncluding": "9.3.5",
 	"created": "2024-01-13T19:09:53.740",
 	"lastModified": "2024-01-13T19:09:53.740",
-	"cpeLastModified": "2024-01-13T19:09:53.740",
-	"status": "Active"
+	"cpeLastModified": "2024-08-02T15:13:28.543",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:schneider-electric:easergy_studio:9.3.5:*:*:*:*:*:*:*",
+			"cpeNameId": "FF913D56-FD2F-4A10-84AD-E94A1E616B5B"
+		}
+	]
 }

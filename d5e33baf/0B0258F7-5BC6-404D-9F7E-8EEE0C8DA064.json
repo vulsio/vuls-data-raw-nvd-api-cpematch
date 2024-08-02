@@ -4,9 +4,13 @@
 	"versionEndExcluding": "6.7.2",
 	"created": "2019-09-16T16:11:23.437",
 	"lastModified": "2019-09-16T16:11:23.437",
-	"cpeLastModified": "2019-09-17T15:20:32.283",
+	"cpeLastModified": "2024-08-02T16:49:56.843",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:tagdiv:newspaper:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C1D06941-9A41-4FA1-9199-2D434674A471"
+		},
 		{
 			"cpeName": "cpe:2.3:a:tagdiv:newspaper:6.7.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "7B5D1E36-846B-495A-AC39-6679A29BA759"

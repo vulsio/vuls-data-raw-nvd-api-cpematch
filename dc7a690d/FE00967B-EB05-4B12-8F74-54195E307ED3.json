@@ -3,10 +3,14 @@
 	"matchCriteriaId": "FE00967B-EB05-4B12-8F74-54195E307ED3",
 	"versionEndExcluding": "6.7.0",
 	"created": "2024-07-23T18:27:16.890",
-	"lastModified": "2024-07-23T18:27:16.890",
-	"cpeLastModified": "2024-07-23T18:27:16.890",
+	"lastModified": "2024-08-02T18:08:36.957",
+	"cpeLastModified": "2024-08-02T18:08:36.957",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:themepunch:slider_revolution:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A8E87AAB-56BA-4474-A339-1116515EDA7C"
+		},
 		{
 			"cpeName": "cpe:2.3:a:themepunch:slider_revolution:3.0.95:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "D690D1C7-8BA6-4325-A6D0-CEDCFFDEBE6F"

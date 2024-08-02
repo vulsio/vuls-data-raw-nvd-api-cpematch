@@ -4,9 +4,13 @@
 	"versionEndIncluding": "1.6.3",
 	"created": "2023-11-17T12:24:52.380",
 	"lastModified": "2023-11-17T14:19:57.510",
-	"cpeLastModified": "2023-11-17T14:19:57.510",
+	"cpeLastModified": "2024-08-02T12:32:53.617",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:qodeinteractive:qi_addons_for_elementor:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F91BC700-B53C-4A58-9E42-6353097799F9"
+		},
 		{
 			"cpeName": "cpe:2.3:a:qodeinteractive:qi_addons_for_elementor:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "476D6C71-1B3F-47D1-9155-0BAB1633E759"

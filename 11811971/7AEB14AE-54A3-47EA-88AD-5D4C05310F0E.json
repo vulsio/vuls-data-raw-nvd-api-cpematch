@@ -3,8 +3,8 @@
 	"matchCriteriaId": "7AEB14AE-54A3-47EA-88AD-5D4C05310F0E",
 	"versionEndExcluding": "7.3.1",
 	"created": "2024-02-14T21:29:27.453",
-	"lastModified": "2024-02-14T21:29:27.453",
-	"cpeLastModified": "2024-02-16T18:40:54.570",
+	"lastModified": "2024-08-02T15:55:19.113",
+	"cpeLastModified": "2024-08-02T15:55:19.113",
 	"status": "Active",
 	"matches": [
 		{
@@ -178,6 +178,10 @@
 		{
 			"cpeName": "cpe:2.3:a:snowsoftware:snow_inventory_agent:6.7.2:*:*:*:*:windows:*:*",
 			"cpeNameId": "4DB022D2-6717-4BA8-808F-A4459D2C82C0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:snowsoftware:snow_inventory_agent:7.0.0:*:*:*:*:-:*:*",
+			"cpeNameId": "9E310E1E-8468-4613-B2D1-1F925FEC38B2"
 		},
 		{
 			"cpeName": "cpe:2.3:a:snowsoftware:snow_inventory_agent:7.1.0:*:*:*:*:-:*:*",

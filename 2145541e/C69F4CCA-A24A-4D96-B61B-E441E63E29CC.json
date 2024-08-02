@@ -4,9 +4,13 @@
 	"versionEndExcluding": "3.7.0228.022817",
 	"created": "2022-03-30T14:03:55.033",
 	"lastModified": "2022-03-30T14:03:55.033",
-	"cpeLastModified": "2022-03-30T19:35:37.293",
+	"cpeLastModified": "2024-08-02T13:05:13.380",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:razer:synapse:-:*:*:*:*:*:*:*",
+			"cpeNameId": "58167565-C7FE-4089-829A-E09DEED2B604"
+		},
 		{
 			"cpeName": "cpe:2.3:a:razer:synapse:2.20.15.822:*:*:*:*:*:*:*",
 			"cpeNameId": "335F924E-8186-4402-B578-B050BA847982"

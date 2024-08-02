@@ -3,8 +3,8 @@
 	"matchCriteriaId": "4F290C07-897E-411E-8C9D-6EBBDB144AF6",
 	"versionEndIncluding": "2.1.0",
 	"created": "2024-06-20T16:20:51.497",
-	"lastModified": "2024-06-20T16:20:51.497",
-	"cpeLastModified": "2024-06-20T16:20:51.497",
+	"lastModified": "2024-08-02T18:17:54.117",
+	"cpeLastModified": "2024-08-02T18:17:54.117",
 	"status": "Active",
 	"matches": [
 		{
@@ -398,6 +398,10 @@
 		{
 			"cpeName": "cpe:2.3:a:thimpress:wp_hotel_booking:1.10.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "D5B4CC2F-128F-47E1-8EBE-939A14C7CBCE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:thimpress:wp_hotel_booking:2.1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8B5A50AF-CFEA-46B6-ABFB-C017C1A616B4"
 		}
 	]
 }

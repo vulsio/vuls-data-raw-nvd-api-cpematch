@@ -3,10 +3,14 @@
 	"matchCriteriaId": "C2E14EAD-42C2-4EA3-9CCE-BEC7BFCB9645",
 	"versionEndExcluding": "6.7.11",
 	"created": "2024-07-23T18:32:47.090",
-	"lastModified": "2024-07-23T18:32:47.090",
-	"cpeLastModified": "2024-07-23T18:32:47.090",
+	"lastModified": "2024-08-02T18:08:36.957",
+	"cpeLastModified": "2024-08-02T18:08:36.957",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:themepunch:slider_revolution:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A8E87AAB-56BA-4474-A339-1116515EDA7C"
+		},
 		{
 			"cpeName": "cpe:2.3:a:themepunch:slider_revolution:3.0.95:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "D690D1C7-8BA6-4325-A6D0-CEDCFFDEBE6F"
@@ -22,6 +26,10 @@
 		{
 			"cpeName": "cpe:2.3:a:themepunch:slider_revolution:6.6.19:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "CE972DDE-76AB-4AE1-8CC9-8452666C39B2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themepunch:slider_revolution:6.7.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "88A722BE-DF94-4F8B-ADD9-81A1DA75C157"
 		}
 	]
 }

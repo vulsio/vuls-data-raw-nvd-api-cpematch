@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:sudo_project:sudo:1.9.5:patch1:*:*:*:*:*:*",
 	"matchCriteriaId": "3C21138F-EB70-4AAE-9F45-C75CCE59BA89",
 	"created": "2021-02-02T19:42:44.247",
-	"lastModified": "2021-02-02T19:42:44.247",
-	"cpeLastModified": "2021-03-22T20:02:38.157",
-	"status": "Active"
+	"lastModified": "2024-08-02T16:35:23.960",
+	"cpeLastModified": "2024-08-02T16:35:23.960",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sudo_project:sudo:1.9.5:patch1:*:*:*:*:*:*",
+			"cpeNameId": "FC9169AE-1F40-41EE-BF48-0A4184593F6A"
+		}
+	]
 }

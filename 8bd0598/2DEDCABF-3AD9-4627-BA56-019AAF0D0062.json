@@ -3,10 +3,14 @@
 	"matchCriteriaId": "2DEDCABF-3AD9-4627-BA56-019AAF0D0062",
 	"versionEndExcluding": "1.21.0",
 	"created": "2024-07-19T14:58:19.470",
-	"lastModified": "2024-07-19T14:58:19.470",
-	"cpeLastModified": "2024-07-19T14:58:19.470",
+	"lastModified": "2024-08-02T15:25:21.240",
+	"cpeLastModified": "2024-08-02T15:25:21.240",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:schneider-electric:ecostruxure_it_gateway:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D9673BA9-B037-43D1-A8A1-B233F9E9C143"
+		},
 		{
 			"cpeName": "cpe:2.3:a:schneider-electric:ecostruxure_it_gateway:1.5.0.66:*:*:*:*:*:*:*",
 			"cpeNameId": "B6F14C44-27B2-4938-896F-61954D060702"

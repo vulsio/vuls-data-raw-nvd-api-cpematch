@@ -4,9 +4,13 @@
 	"versionEndIncluding": "1.8.4.2",
 	"created": "2021-03-23T16:26:53.277",
 	"lastModified": "2021-03-23T16:26:53.277",
-	"cpeLastModified": "2021-03-23T16:26:53.277",
+	"cpeLastModified": "2024-08-02T16:26:23.007",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:strangerstudios:paid_memberships_pro:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "12207D2B-FC3B-4496-8D53-C30A25BB09B5"
+		},
 		{
 			"cpeName": "cpe:2.3:a:strangerstudios:paid_memberships_pro:1.1.4:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "AB68A05E-77C3-4DC9-90DF-3FF6376017B5"

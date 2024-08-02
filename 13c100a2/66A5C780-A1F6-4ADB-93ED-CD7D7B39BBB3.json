@@ -4,9 +4,13 @@
 	"versionEndExcluding": "2.7.2",
 	"created": "2020-06-10T19:39:26.000",
 	"lastModified": "2020-06-10T19:39:26.000",
-	"cpeLastModified": "2020-06-10T20:04:09.120",
+	"cpeLastModified": "2024-08-02T18:13:51.240",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:themeboy:sportspress:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F5DB3CEC-4833-4C15-8582-DCEC8158E1A4"
+		},
 		{
 			"cpeName": "cpe:2.3:a:themeboy:sportspress:2.5.5:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "10EE6972-A6D8-4D32-BD9F-EFC79BC2C5FC"

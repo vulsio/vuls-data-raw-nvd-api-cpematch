@@ -3,8 +3,8 @@
 	"matchCriteriaId": "9DADE640-0BD7-4653-9F6D-F8EA94623C1D",
 	"versionEndIncluding": "1.4.4.1",
 	"created": "2024-07-09T19:33:08.510",
-	"lastModified": "2024-07-09T19:33:08.510",
-	"cpeLastModified": "2024-07-09T19:33:08.510",
+	"lastModified": "2024-08-02T16:18:54.410",
+	"cpeLastModified": "2024-08-02T16:18:54.410",
 	"status": "Active",
 	"matches": [
 		{
@@ -30,6 +30,10 @@
 		{
 			"cpeName": "cpe:2.3:a:staxwp:stax:1.4.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "0A47AEFB-9CF8-4877-9390-F197624B76A2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:staxwp:stax:1.4.4.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B727BE53-6BC5-479E-8B40-07ED0F7555CC"
 		}
 	]
 }

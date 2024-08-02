@@ -4,10 +4,14 @@
 	"versionStartIncluding": "1.0.0",
 	"versionEndExcluding": "4.4.0",
 	"created": "2023-12-19T15:19:25.093",
-	"lastModified": "2023-12-19T15:19:25.093",
-	"cpeLastModified": "2023-12-20T18:20:53.360",
+	"lastModified": "2024-08-02T15:40:38.517",
+	"cpeLastModified": "2024-08-02T15:40:38.517",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:silabs:gecko_software_development_kit:1.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "505A6B6E-D296-4FD7-B060-A10D0E672A24"
+		},
 		{
 			"cpeName": "cpe:2.3:a:silabs:gecko_software_development_kit:2.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "99F7A47E-FA49-40F6-8022-84816BF5D36F"

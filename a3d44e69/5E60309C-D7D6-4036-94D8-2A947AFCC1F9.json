@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.9.13",
 	"created": "2023-03-07T16:40:35.790",
 	"lastModified": "2023-03-21T16:32:40.997",
-	"cpeLastModified": "2023-03-21T16:32:40.997",
+	"cpeLastModified": "2024-08-02T16:35:23.960",
 	"status": "Active",
 	"matches": [
 		{
@@ -602,6 +602,10 @@
 		{
 			"cpeName": "cpe:2.3:a:sudo_project:sudo:1.9.5:p2:*:*:*:*:*:*",
 			"cpeNameId": "05F35CB1-599C-4C90-B43A-AC6BE9996F05"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sudo_project:sudo:1.9.5:patch1:*:*:*:*:*:*",
+			"cpeNameId": "FC9169AE-1F40-41EE-BF48-0A4184593F6A"
 		},
 		{
 			"cpeName": "cpe:2.3:a:sudo_project:sudo:1.9.6:-:*:*:*:*:*:*",

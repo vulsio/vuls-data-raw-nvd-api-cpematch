@@ -4,7 +4,7 @@
 	"versionStartIncluding": "2.10",
 	"created": "2022-04-25T16:11:48.320",
 	"lastModified": "2022-04-25T16:11:48.320",
-	"cpeLastModified": "2022-04-25T16:16:29.880",
+	"cpeLastModified": "2024-08-02T14:24:24.573",
 	"status": "Active",
 	"matches": [
 		{
@@ -42,6 +42,10 @@
 		{
 			"cpeName": "cpe:2.3:a:rockwellautomation:factorytalk_services_platform:6.11.00:*:*:*:*:*:*:*",
 			"cpeNameId": "40365A2A-7B20-4F0E-9B76-1BD3DD252C1D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rockwellautomation:factorytalk_services_platform:6.31.00:*:*:*:*:*:*:*",
+			"cpeNameId": "70BF3E01-DBD7-4880-88CC-A46B6570D651"
 		},
 		{
 			"cpeName": "cpe:2.3:a:rockwellautomation:factorytalk_services_platform:cpr9:*:*:*:*:*:*:*",

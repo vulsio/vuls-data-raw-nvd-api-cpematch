@@ -4,9 +4,13 @@
 	"versionEndIncluding": "4.4",
 	"created": "2022-11-15T17:34:29.523",
 	"lastModified": "2023-07-24T19:51:09.903",
-	"cpeLastModified": "2023-07-24T19:51:09.903",
+	"cpeLastModified": "2024-08-02T15:36:50.087",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sharethis:simple_share_buttons_adder:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DB95830F-94A6-4BDC-9509-9B94A89EF50F"
+		},
 		{
 			"cpeName": "cpe:2.3:a:sharethis:simple_share_buttons_adder:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "531A382D-CD16-41FA-8C0A-D55245C35168"

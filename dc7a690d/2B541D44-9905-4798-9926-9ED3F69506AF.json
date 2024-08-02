@@ -4,9 +4,13 @@
 	"versionEndExcluding": "6.6.19",
 	"created": "2024-01-10T17:55:57.670",
 	"lastModified": "2024-01-12T12:35:05.863",
-	"cpeLastModified": "2024-01-10T17:55:57.670",
+	"cpeLastModified": "2024-08-02T18:08:36.957",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:themepunch:slider_revolution:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A8E87AAB-56BA-4474-A339-1116515EDA7C"
+		},
 		{
 			"cpeName": "cpe:2.3:a:themepunch:slider_revolution:3.0.95:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "D690D1C7-8BA6-4325-A6D0-CEDCFFDEBE6F"
