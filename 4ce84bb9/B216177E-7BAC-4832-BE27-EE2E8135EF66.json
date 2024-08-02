@@ -5,12 +5,16 @@
 	"versionEndIncluding": "26.0.8",
 	"created": "2023-11-28T14:14:03.897",
 	"lastModified": "2023-11-29T14:07:17.840",
-	"cpeLastModified": "2023-11-29T14:07:17.840",
+	"cpeLastModified": "2024-08-02T12:03:30.647",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.0:*:*:*:-:*:*:*",
 			"cpeNameId": "99189749-7F6A-46C9-BDA8-0666EDFC6C66"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.1:*:*:*:-:*:*:*",
+			"cpeNameId": "1CCB8770-02C4-489C-B5C5-26C42FA4DD12"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.2:*:*:*:-:*:*:*",
@@ -25,8 +29,16 @@
 			"cpeNameId": "BA863223-02EF-47C1-812C-08ADA29FDC53"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.5:*:*:*:-:*:*:*",
+			"cpeNameId": "EF051697-822F-4DC7-A1E7-2D9EC109E289"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.6:*:*:*:-:*:*:*",
 			"cpeNameId": "58AE5ECC-721A-4221-9046-06DFE3640778"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.7:*:*:*:-:*:*:*",
+			"cpeNameId": "61290749-D7D9-4040-A15F-558A48BE6003"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.8:*:*:*:-:*:*:*",

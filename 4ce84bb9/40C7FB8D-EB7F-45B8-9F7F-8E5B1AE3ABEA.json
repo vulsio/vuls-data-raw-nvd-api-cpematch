@@ -4,7 +4,7 @@
 	"versionEndExcluding": "28.0.0",
 	"created": "2024-01-26T14:54:32.403",
 	"lastModified": "2024-02-03T01:48:48.543",
-	"cpeLastModified": "2024-08-01T16:45:00.117",
+	"cpeLastModified": "2024-08-02T12:03:30.647",
 	"status": "Active",
 	"matches": [
 		{
@@ -3792,6 +3792,10 @@
 			"cpeNameId": "42DBCB20-CE8D-49A9-B0DD-EC017026E01D"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.1:*:*:*:-:*:*:*",
+			"cpeNameId": "1CCB8770-02C4-489C-B5C5-26C42FA4DD12"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.2:*:*:*:*:*:*:*",
 			"cpeNameId": "655C8A3E-6955-4172-960A-5E13D96A14B0"
 		},
@@ -3820,6 +3824,10 @@
 			"cpeNameId": "D87BD825-3B31-4EF7-8627-F4FA1B064193"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.5:*:*:*:-:*:*:*",
+			"cpeNameId": "EF051697-822F-4DC7-A1E7-2D9EC109E289"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.6:*:*:*:-:*:*:*",
 			"cpeNameId": "58AE5ECC-721A-4221-9046-06DFE3640778"
 		},
@@ -3828,12 +3836,32 @@
 			"cpeNameId": "C9531877-64CF-4F45-A5AC-4C6334EBD69D"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.7:*:*:*:-:*:*:*",
+			"cpeNameId": "61290749-D7D9-4040-A15F-558A48BE6003"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.8:*:*:*:-:*:*:*",
 			"cpeNameId": "CAB3115F-AE72-427C-95B7-BCBB0928975C"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.8:*:*:*:enterprise:*:*:*",
 			"cpeNameId": "4157861D-6B4C-4A88-BE65-8B2D3498571B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.9:*:*:*:-:*:*:*",
+			"cpeNameId": "0CADD067-2AA4-4754-8866-47F9B142889E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.10:*:*:*:-:*:*:*",
+			"cpeNameId": "0CBA6D89-2436-4BB1-8A11-BF97F028EA9E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.11:*:*:*:-:*:*:*",
+			"cpeNameId": "6A4F48CB-3DAE-42D3-A5A7-A619947FE112"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.13:*:*:*:-:*:*:*",
+			"cpeNameId": "4630D0AE-CD02-4F9C-86E5-823D1D03AF57"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nextcloud:nextcloud_server:27.0.0:*:*:*:-:*:*:*",
