@@ -4,9 +4,13 @@
 	"versionEndExcluding": "5.3.0",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"cpeLastModified": "2024-08-02T20:51:25.110",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:pixelyoursite:pixelyoursite:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "027EC2E2-F836-4C93-9CCC-ABFBD1EE30B6"
+		},
 		{
 			"cpeName": "cpe:2.3:a:pixelyoursite:pixelyoursite:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "AC8451E8-31BC-49C7-984C-04109F7AC0A4"
