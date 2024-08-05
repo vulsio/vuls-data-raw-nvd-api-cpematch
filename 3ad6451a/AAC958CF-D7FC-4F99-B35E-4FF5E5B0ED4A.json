@@ -4,5 +4,12 @@
 	"versionEndExcluding": "2.1.0_a06",
 	"created": "2021-06-29T17:14:45.670",
 	"lastModified": "2021-06-29T17:14:45.670",
-	"status": "Active"
+	"cpeLastModified": "2024-08-05T15:34:40.643",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:vostro_15_5510_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8FA626BC-7207-4E10-AB29-6DEB8FDFC199"
+		}
+	]
 }

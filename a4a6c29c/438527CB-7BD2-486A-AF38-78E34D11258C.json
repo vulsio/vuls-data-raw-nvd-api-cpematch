@@ -3,7 +3,13 @@
 	"matchCriteriaId": "438527CB-7BD2-486A-AF38-78E34D11258C",
 	"versionEndExcluding": "1.33.0",
 	"created": "2021-09-29T13:48:17.423",
-	"lastModified": "2021-09-29T13:48:17.423",
-	"cpeLastModified": "2021-10-04T14:11:41.510",
-	"status": "Active"
+	"lastModified": "2024-08-05T15:34:40.643",
+	"cpeLastModified": "2024-08-05T15:34:40.643",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_7212_rugged_extreme_tablet_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "AA3227F7-E825-41FC-91DB-3A09A600CDA2"
+		}
+	]
 }

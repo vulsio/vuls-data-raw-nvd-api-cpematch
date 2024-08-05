@@ -3,10 +3,14 @@
 	"matchCriteriaId": "89A9C790-94DB-4AFD-84F7-B6829A83C9D2",
 	"versionEndExcluding": "8.4.1",
 	"created": "2024-07-12T15:29:34.977",
-	"lastModified": "2024-07-12T15:29:34.977",
-	"cpeLastModified": "2024-07-12T15:29:34.977",
+	"lastModified": "2024-08-05T17:48:04.987",
+	"cpeLastModified": "2024-08-05T17:48:04.987",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:livemesh:elementor_addons:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E9325526-1B2D-4DE9-9C88-BE8F503784F5"
+		},
 		{
 			"cpeName": "cpe:2.3:a:livemesh:elementor_addons:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "C603EE36-E134-4D6B-9292-4A51FB8602D1"
@@ -454,6 +458,10 @@
 		{
 			"cpeName": "cpe:2.3:a:livemesh:elementor_addons:8.3.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "B62F87A4-45D6-41DF-AB79-759B3708DB1E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:livemesh:elementor_addons:8.3.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6D72F2A5-CBBA-43D4-8815-07AE3A4BE68F"
 		}
 	]
 }

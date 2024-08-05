@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:dell:inspiron_16_5620:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "BC8EC788-8E9D-499C-A231-9063857AB4DC",
 	"created": "2024-07-03T12:49:03.580",
-	"lastModified": "2024-07-03T12:49:03.580",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
-	"status": "Active"
+	"lastModified": "2024-08-05T13:48:59.910",
+	"cpeLastModified": "2024-08-05T13:48:59.910",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:dell:inspiron_16_5620:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E5DAFFA0-0B77-44E0-B50D-51860CA8608A"
+		}
+	]
 }

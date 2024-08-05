@@ -4,9 +4,13 @@
 	"versionEndExcluding": "1.19.0",
 	"created": "2023-06-27T14:13:41.980",
 	"lastModified": "2023-06-27T14:13:41.980",
-	"cpeLastModified": "2023-06-27T14:13:41.980",
+	"cpeLastModified": "2024-08-05T15:34:40.643",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:g5_5090_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C868C1EB-7FC1-4285-8149-7649A78D13E9"
+		},
 		{
 			"cpeName": "cpe:2.3:o:dell:g5_5090_firmware:1.1.2:*:*:*:*:*:*:*",
 			"cpeNameId": "563C6AD0-F4EA-418E-B346-6549BEB8B277"

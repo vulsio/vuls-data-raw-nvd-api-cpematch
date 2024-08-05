@@ -4,9 +4,13 @@
 	"versionEndIncluding": "24.06",
 	"created": "2024-08-02T19:37:44.807",
 	"lastModified": "2024-08-02T19:37:44.807",
-	"cpeLastModified": "2024-08-02T19:37:44.807",
+	"cpeLastModified": "2024-08-05T17:35:30.293",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:johnsoncontrols:exacqvision_server:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B5953CE8-A6DA-4D28-8D4D-EEFD2E5EF1B1"
+		},
 		{
 			"cpeName": "cpe:2.3:a:johnsoncontrols:exacqvision_server:9.6:*:*:*:*:*:*:*",
 			"cpeNameId": "C12C6BF6-1432-4B66-8434-9114C14D969D"

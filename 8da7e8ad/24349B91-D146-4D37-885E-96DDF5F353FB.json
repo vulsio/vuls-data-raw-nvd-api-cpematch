@@ -4,6 +4,12 @@
 	"versionEndExcluding": "1.25.0",
 	"created": "2023-06-27T15:07:24.810",
 	"lastModified": "2023-06-27T15:07:24.810",
-	"cpeLastModified": "2023-06-27T15:07:24.810",
-	"status": "Active"
+	"cpeLastModified": "2024-08-05T15:34:40.643",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_3390_2-in-1_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D3C9837D-EBCE-496E-AB07-B533F8680463"
+		}
+	]
 }

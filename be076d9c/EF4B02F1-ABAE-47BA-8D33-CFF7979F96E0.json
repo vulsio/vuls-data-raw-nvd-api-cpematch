@@ -4,6 +4,12 @@
 	"versionEndExcluding": "1.12.0",
 	"created": "2023-02-08T16:34:14.043",
 	"lastModified": "2023-02-08T16:34:14.043",
-	"cpeLastModified": "2023-02-08T16:34:14.043",
-	"status": "Active"
+	"cpeLastModified": "2024-08-05T15:34:40.643",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:optiplex_7090_tower_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EE3E21FE-0372-47FC-83D5-AA0185C21E6A"
+		}
+	]
 }

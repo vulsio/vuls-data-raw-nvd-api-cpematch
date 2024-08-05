@@ -3,10 +3,14 @@
 	"matchCriteriaId": "CD30CC31-080C-4D02-88DA-87F155806DEB",
 	"versionEndExcluding": "1.9.4",
 	"created": "2024-07-24T13:49:37.597",
-	"lastModified": "2024-07-24T13:49:37.597",
-	"cpeLastModified": "2024-07-24T13:49:37.597",
+	"lastModified": "2024-08-05T16:15:25.563",
+	"cpeLastModified": "2024-08-05T16:15:25.563",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apollo13themes:apollo13_framework_extensions:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "90A3C9E2-E699-4560-BE15-363D2C3C0B0E"
+		},
 		{
 			"cpeName": "cpe:2.3:a:apollo13themes:apollo13_framework_extensions:1.1.4:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "944BBCEC-28E2-4C6E-A940-A6022E3DE913"
@@ -162,6 +166,10 @@
 		{
 			"cpeName": "cpe:2.3:a:apollo13themes:apollo13_framework_extensions:1.9.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "D3143985-59D2-412F-B1F8-606B83084346"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apollo13themes:apollo13_framework_extensions:1.9.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "57FE0ED5-1136-4940-9E9A-78044A288EE1"
 		}
 	]
 }

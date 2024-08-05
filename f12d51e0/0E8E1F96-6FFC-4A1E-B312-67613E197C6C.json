@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2.3.1",
 	"created": "2022-02-01T19:29:13.067",
 	"lastModified": "2022-02-01T19:29:13.067",
-	"cpeLastModified": "2022-02-04T14:52:40.430",
+	"cpeLastModified": "2024-08-05T15:34:40.643",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:optiplex_3070_firmware:1.0.3:*:*:*:*:*:*:*",
 			"cpeNameId": "E7E6F86B-C296-4192-B02A-56AE1F75CA2D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:optiplex_3070_firmware:1.26.0:*:*:*:*:*:*:*",
+			"cpeNameId": "694619C0-D88A-4A40-AF57-ABF7152C67C4"
 		}
 	]
 }

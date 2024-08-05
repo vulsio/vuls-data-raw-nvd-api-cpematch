@@ -4,6 +4,12 @@
 	"versionEndExcluding": "6.2.24135.272",
 	"created": "2024-08-01T15:12:38.933",
 	"lastModified": "2024-08-01T15:12:38.933",
-	"cpeLastModified": "2024-08-01T15:12:38.933",
-	"status": "Active"
+	"cpeLastModified": "2024-08-05T16:55:57.467",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:acronis:cloud_manager:-:*:*:*:*:windows:*:*",
+			"cpeNameId": "262808DE-27D6-4196-A5CC-CCF9B1275499"
+		}
+	]
 }

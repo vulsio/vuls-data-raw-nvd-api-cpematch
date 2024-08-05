@@ -3,12 +3,16 @@
 	"matchCriteriaId": "3C8A4344-6ABE-4626-ADA4-3FA91F8D76C7",
 	"created": "2023-06-26T17:32:15.557",
 	"lastModified": "2023-09-27T19:30:30.990",
-	"cpeLastModified": "2023-11-24T17:22:07.473",
+	"cpeLastModified": "2024-08-05T14:25:39.067",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:o:openbsd:openbsd:7.3:*:*:*:*:*:*:*",
 			"cpeNameId": "C2D4EDC8-F49F-422E-AE80-6F4019B8F4B0"
+		},
+		{
+			"cpeName": "cpe:2.3:o:openbsd:openbsd:7.3:-:*:*:*:*:*:*",
+			"cpeNameId": "9EB91F4D-EBD5-418E-B659-F6B5B0DFF2EE"
 		},
 		{
 			"cpeName": "cpe:2.3:o:openbsd:openbsd:7.3:errata_001:*:*:*:*:*:*",

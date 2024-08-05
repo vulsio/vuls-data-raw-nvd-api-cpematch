@@ -4,9 +4,13 @@
 	"versionEndIncluding": "8.3.1",
 	"created": "2024-02-12T19:36:59.037",
 	"lastModified": "2024-02-12T20:04:00.283",
-	"cpeLastModified": "2024-02-12T20:04:00.283",
+	"cpeLastModified": "2024-08-05T17:48:04.987",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:livemesh:elementor_addons:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E9325526-1B2D-4DE9-9C88-BE8F503784F5"
+		},
 		{
 			"cpeName": "cpe:2.3:a:livemesh:elementor_addons:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "C603EE36-E134-4D6B-9292-4A51FB8602D1"

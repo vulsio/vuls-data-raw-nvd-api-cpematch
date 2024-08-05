@@ -4,6 +4,12 @@
 	"versionEndExcluding": "1.10.0",
 	"created": "2022-02-01T19:55:02.753",
 	"lastModified": "2022-02-01T19:55:02.753",
-	"cpeLastModified": "2022-02-04T14:52:40.430",
-	"status": "Active"
+	"cpeLastModified": "2024-08-05T15:34:40.643",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_3640_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2ACCF7BB-1AAD-4CEC-9799-6EE053081ED8"
+		}
+	]
 }

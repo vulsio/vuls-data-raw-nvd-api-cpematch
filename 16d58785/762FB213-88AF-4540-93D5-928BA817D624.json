@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:dell:alienware_m18_r1:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "762FB213-88AF-4540-93D5-928BA817D624",
 	"created": "2024-07-03T12:49:03.580",
-	"lastModified": "2024-07-03T12:49:03.580",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
-	"status": "Active"
+	"lastModified": "2024-08-05T13:48:59.910",
+	"cpeLastModified": "2024-08-05T13:48:59.910",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:dell:alienware_m18_r1:-:*:*:*:*:*:*:*",
+			"cpeNameId": "90246CF8-6D7D-498D-B712-E03D1DDEB2F0"
+		}
+	]
 }

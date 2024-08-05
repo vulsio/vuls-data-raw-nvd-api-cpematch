@@ -3,7 +3,13 @@
 	"matchCriteriaId": "E6BBEF75-51A6-4841-8BC9-E834E81B4048",
 	"versionEndExcluding": "1.22.0",
 	"created": "2024-07-03T13:28:30.193",
-	"lastModified": "2024-07-03T13:28:30.193",
-	"cpeLastModified": "2024-07-03T13:28:30.193",
-	"status": "Active"
+	"lastModified": "2024-08-05T15:34:40.643",
+	"cpeLastModified": "2024-08-05T15:34:40.643",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:vostro_14_3420_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "82F909DF-F90C-4DF0-9EBC-8486E36B6A49"
+		}
+	]
 }

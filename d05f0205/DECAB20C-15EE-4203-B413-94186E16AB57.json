@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:dell:xps_9315_2-in-1:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "DECAB20C-15EE-4203-B413-94186E16AB57",
 	"created": "2024-07-03T12:49:03.580",
-	"lastModified": "2024-07-03T12:49:03.580",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
-	"status": "Active"
+	"lastModified": "2024-08-05T13:48:59.910",
+	"cpeLastModified": "2024-08-05T13:48:59.910",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:dell:xps_9315_2-in-1:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B9E36D65-FB6D-4981-B644-A08477E3FB2B"
+		}
+	]
 }

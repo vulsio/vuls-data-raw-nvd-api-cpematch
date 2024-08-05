@@ -5,6 +5,12 @@
 	"versionEndIncluding": "8.11.2",
 	"created": "2024-01-22T19:02:14.543",
 	"lastModified": "2024-01-22T19:02:14.543",
-	"cpeLastModified": "2024-01-22T19:02:14.543",
-	"status": "Active"
+	"cpeLastModified": "2024-08-05T17:23:12.873",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ibm:maximo_application_suite:8.11:*:*:*:*:*:*:*",
+			"cpeNameId": "FD454B43-F843-41AE-833F-5800A9B7FA08"
+		}
+	]
 }

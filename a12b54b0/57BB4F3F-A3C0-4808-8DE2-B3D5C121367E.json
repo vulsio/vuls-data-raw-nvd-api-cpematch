@@ -3,10 +3,14 @@
 	"matchCriteriaId": "57BB4F3F-A3C0-4808-8DE2-B3D5C121367E",
 	"versionEndExcluding": "5.3.1.0",
 	"created": "2024-08-01T13:53:41.847",
-	"lastModified": "2024-08-01T13:53:41.847",
-	"cpeLastModified": "2024-08-01T13:53:41.847",
+	"lastModified": "2024-08-05T17:11:59.857",
+	"cpeLastModified": "2024-08-05T17:11:59.857",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:dell:emc_idrac_service_module:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D44FC49B-D805-43A1-AD6C-224447D384BF"
+		},
 		{
 			"cpeName": "cpe:2.3:a:dell:emc_idrac_service_module:3.0.1:*:*:*:*:*:*:*",
 			"cpeNameId": "EECF77F9-39D1-4FAD-9A85-91B887E4855D"

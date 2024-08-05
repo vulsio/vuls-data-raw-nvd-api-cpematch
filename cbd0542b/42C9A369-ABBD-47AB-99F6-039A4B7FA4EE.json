@@ -4,8 +4,8 @@
 	"versionStartIncluding": "1.10.12.0",
 	"versionEndIncluding": "1.10.21.0",
 	"created": "2024-07-31T19:37:11.750",
-	"lastModified": "2024-07-31T19:37:11.750",
-	"cpeLastModified": "2024-07-31T19:37:11.750",
+	"lastModified": "2024-08-05T17:24:28.010",
+	"cpeLastModified": "2024-08-05T17:24:28.010",
 	"status": "Active",
 	"matches": [
 		{
@@ -19,6 +19,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ibm:qradar_suite:1.10.17.0:*:*:*:*:*:*:*",
 			"cpeNameId": "4E5D2A75-4936-43C9-B7C4-08674BFE606C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:qradar_suite:1.10.21.0:*:*:*:*:*:*:*",
+			"cpeNameId": "CE811DD6-2565-44E1-AD4A-B8BD4634B1AF"
 		}
 	]
 }

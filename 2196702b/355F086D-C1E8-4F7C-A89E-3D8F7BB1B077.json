@@ -4,9 +4,13 @@
 	"versionEndIncluding": "3.12.4",
 	"created": "2022-07-07T12:34:50.877",
 	"lastModified": "2022-07-07T12:34:50.877",
-	"cpeLastModified": "2022-07-07T14:15:38.483",
+	"cpeLastModified": "2024-08-05T18:20:38.007",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:openeclass:openeclass:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A46D62EC-5B92-4A03-BE76-53A0F9034CE7"
+		},
 		{
 			"cpeName": "cpe:2.3:a:openeclass:openeclass:2.10.1:*:*:*:*:*:*:*",
 			"cpeNameId": "D11CFE5B-250A-4A30-A6DF-489FB6689F8E"

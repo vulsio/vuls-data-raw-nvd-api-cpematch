@@ -3,7 +3,13 @@
 	"matchCriteriaId": "B9A79EAF-1309-44E0-9243-EA79866DC38E",
 	"versionEndExcluding": "1.9.0",
 	"created": "2024-07-03T13:22:32.850",
-	"lastModified": "2024-07-03T13:22:32.850",
-	"cpeLastModified": "2024-07-03T13:22:32.850",
-	"status": "Active"
+	"lastModified": "2024-08-05T15:34:40.643",
+	"cpeLastModified": "2024-08-05T15:34:40.643",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_5480_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FBBCAD27-5B50-446D-B3F8-5285CEC07E7D"
+		}
+	]
 }

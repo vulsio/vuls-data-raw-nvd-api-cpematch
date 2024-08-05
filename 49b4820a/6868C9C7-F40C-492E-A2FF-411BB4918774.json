@@ -4,8 +4,8 @@
 	"versionStartIncluding": "10.0.0.0",
 	"versionEndIncluding": "10.0.7.1",
 	"created": "2024-08-01T20:11:18.603",
-	"lastModified": "2024-08-01T20:11:18.603",
-	"cpeLastModified": "2024-08-01T20:11:18.603",
+	"lastModified": "2024-08-05T17:25:30.780",
+	"cpeLastModified": "2024-08-05T17:25:30.780",
 	"status": "Active",
 	"matches": [
 		{
@@ -63,6 +63,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ibm:security_verify_access:10.0.6:*:*:*:*:*:*:*",
 			"cpeNameId": "2364EC6C-1128-41CA-A269-4130C54E8DC1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibm:security_verify_access:10.0.7.1:*:*:*:*:*:*:*",
+			"cpeNameId": "799B38C0-719B-4B87-B57B-58DF9B0515D7"
 		}
 	]
 }

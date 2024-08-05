@@ -3,10 +3,14 @@
 	"matchCriteriaId": "45900311-03AD-4215-809B-0565B400E43A",
 	"versionEndIncluding": "3.15",
 	"created": "2024-07-25T15:39:42.343",
-	"lastModified": "2024-07-25T15:39:42.343",
-	"cpeLastModified": "2024-07-25T15:39:42.343",
+	"lastModified": "2024-08-05T18:20:38.007",
+	"cpeLastModified": "2024-08-05T18:20:38.007",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:openeclass:openeclass:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A46D62EC-5B92-4A03-BE76-53A0F9034CE7"
+		},
 		{
 			"cpeName": "cpe:2.3:a:openeclass:openeclass:2.10.1:*:*:*:*:*:*:*",
 			"cpeNameId": "D11CFE5B-250A-4A30-A6DF-489FB6689F8E"
@@ -294,6 +298,10 @@
 		{
 			"cpeName": "cpe:2.3:a:openeclass:openeclass:3.13:*:*:*:*:*:*:*",
 			"cpeNameId": "333E9C80-03EC-46EB-93A0-2C38697522B1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openeclass:openeclass:3.15:*:*:*:*:*:*:*",
+			"cpeNameId": "50DBCBC0-EBB0-4D73-8569-3CDA4CBF18DB"
 		}
 	]
 }

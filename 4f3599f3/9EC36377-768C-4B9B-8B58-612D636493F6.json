@@ -3,7 +3,13 @@
 	"matchCriteriaId": "9EC36377-768C-4B9B-8B58-612D636493F6",
 	"versionEndExcluding": "1.9.0",
 	"created": "2024-07-03T13:12:08.580",
-	"lastModified": "2024-07-03T13:12:08.580",
-	"cpeLastModified": "2024-07-03T13:12:08.580",
-	"status": "Active"
+	"lastModified": "2024-08-05T15:34:40.643",
+	"cpeLastModified": "2024-08-05T15:34:40.643",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_9440_2-in-1_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "394BADDD-4297-4316-8991-0886FAB6D076"
+		}
+	]
 }

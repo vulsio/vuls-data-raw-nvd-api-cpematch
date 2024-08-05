@@ -3,7 +3,13 @@
 	"matchCriteriaId": "5B0539C4-7BC8-4A15-81B5-76F9EFF4ACB0",
 	"versionEndExcluding": "1.11.0",
 	"created": "2024-07-03T13:22:32.850",
-	"lastModified": "2024-07-03T13:22:32.850",
-	"cpeLastModified": "2024-07-03T13:22:32.850",
-	"status": "Active"
+	"lastModified": "2024-08-05T15:34:40.643",
+	"cpeLastModified": "2024-08-05T15:34:40.643",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_3580_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E3E715FC-E7B1-4959-BA3E-1BBE4CE29F30"
+		}
+	]
 }

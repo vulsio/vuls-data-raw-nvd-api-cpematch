@@ -3,10 +3,14 @@
 	"matchCriteriaId": "5558E700-F442-451E-89D7-B50F4164FC2A",
 	"versionEndIncluding": "3.2.1",
 	"created": "2024-07-26T17:55:52.297",
-	"lastModified": "2024-07-26T17:55:52.297",
-	"cpeLastModified": "2024-07-26T17:55:52.297",
+	"lastModified": "2024-08-05T17:55:48.523",
+	"cpeLastModified": "2024-08-05T17:55:48.523",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:netatalk:netatalk:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F796173A-6118-4784-946E-3C842F5D2E65"
+		},
 		{
 			"cpeName": "cpe:2.3:a:netatalk:netatalk:1.4.99-0.20000927:*:*:*:*:*:*:*",
 			"cpeNameId": "6BE3574C-B436-4DED-97EB-CB64AFAEC985"
@@ -274,6 +278,10 @@
 		{
 			"cpeName": "cpe:2.3:a:netatalk:netatalk:3.1.17:*:*:*:*:*:*:*",
 			"cpeNameId": "831B037F-9AA3-4309-8335-D3ECB7D2ED7A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:netatalk:netatalk:3.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "E0C454E5-0042-44A9-9782-F8FE7479D55B"
 		}
 	]
 }

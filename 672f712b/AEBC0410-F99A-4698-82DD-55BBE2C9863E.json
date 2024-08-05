@@ -4,6 +4,12 @@
 	"versionEndExcluding": "1.2.1",
 	"created": "2023-06-27T14:44:40.767",
 	"lastModified": "2023-06-27T14:44:40.767",
-	"cpeLastModified": "2023-06-27T14:44:40.767",
-	"status": "Active"
+	"cpeLastModified": "2024-08-05T15:34:40.643",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_16_5630_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D306A97D-FC59-4B2E-9DC6-497E05ABC8EF"
+		}
+	]
 }

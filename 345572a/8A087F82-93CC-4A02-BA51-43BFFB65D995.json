@@ -4,6 +4,12 @@
 	"versionEndExcluding": "2.20.0",
 	"created": "2022-09-13T14:04:29.080",
 	"lastModified": "2022-09-13T14:04:29.080",
-	"cpeLastModified": "2022-09-13T14:04:29.080",
-	"status": "Active"
+	"cpeLastModified": "2024-08-05T15:34:40.643",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_3620_tower_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "AD36E715-B1F2-46EB-ACE9-7A2A628FBF77"
+		}
+	]
 }

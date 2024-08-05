@@ -3,7 +3,13 @@
 	"matchCriteriaId": "6340C5CB-8F7C-4225-AD37-9AB40E9E8618",
 	"versionEndExcluding": "01.03.00",
 	"created": "2024-07-03T13:22:32.850",
-	"lastModified": "2024-07-03T13:22:32.850",
-	"cpeLastModified": "2024-07-03T13:22:32.850",
-	"status": "Active"
+	"lastModified": "2024-08-05T15:34:40.643",
+	"cpeLastModified": "2024-08-05T15:34:40.643",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_7875_tower_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DF376A57-C242-4ABF-AA20-CAB16EDBF74A"
+		}
+	]
 }

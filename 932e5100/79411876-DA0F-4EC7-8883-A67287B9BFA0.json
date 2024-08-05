@@ -4,6 +4,12 @@
 	"versionEndExcluding": "1.4.1",
 	"created": "2024-01-10T18:30:27.570",
 	"lastModified": "2024-01-10T18:30:27.570",
-	"cpeLastModified": "2024-01-10T18:30:27.570",
-	"status": "Active"
+	"cpeLastModified": "2024-08-05T17:03:43.677",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:ic3000_industrial_compute_gateway:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B6182CEB-2862-422B-9BC8-D21F9E39F197"
+		}
+	]
 }
