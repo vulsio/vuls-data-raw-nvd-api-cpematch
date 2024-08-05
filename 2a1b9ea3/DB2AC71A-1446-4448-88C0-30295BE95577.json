@@ -4,7 +4,7 @@
 	"versionEndIncluding": "7.0.1-5018-r1715",
 	"created": "2022-01-18T21:15:17.913",
 	"lastModified": "2022-01-18T21:15:17.913",
-	"cpeLastModified": "2023-10-26T15:09:51.940",
+	"cpeLastModified": "2024-08-05T11:08:33.423",
 	"status": "Active",
 	"matches": [
 		{
@@ -326,6 +326,18 @@
 		{
 			"cpeName": "cpe:2.3:o:sonicwall:sonicos:7.0.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "18317A88-A1C9-4FE1-B956-859FF757487D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:sonicwall:sonicos:7.0.1:april_2021:*:*:*:*:*:*",
+			"cpeNameId": "0EA350F2-77C1-4B22-980E-7BC916927CFC"
+		},
+		{
+			"cpeName": "cpe:2.3:o:sonicwall:sonicos:7.0.1:july_2021:*:*:*:*:*:*",
+			"cpeNameId": "4069D8EA-61EF-4123-BC96-6401B33F72E0"
+		},
+		{
+			"cpeName": "cpe:2.3:o:sonicwall:sonicos:7.0.1:june_2021:*:*:*:*:*:*",
+			"cpeNameId": "E2D8D99D-0CE9-40DE-B31E-24182774D47C"
 		}
 	]
 }

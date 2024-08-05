@@ -3,10 +3,14 @@
 	"matchCriteriaId": "E16B3E6D-C06E-46DA-8076-06A69A1F7EA7",
 	"versionEndExcluding": "3.27.1",
 	"created": "2024-07-24T18:00:02.393",
-	"lastModified": "2024-07-24T18:00:02.393",
-	"cpeLastModified": "2024-07-24T18:00:02.393",
+	"lastModified": "2024-08-05T12:19:33.687",
+	"cpeLastModified": "2024-08-05T12:19:33.687",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "06F574CC-25E2-4127-B34E-2788127A5367"
+		},
 		{
 			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "B7AF46BC-F151-4CF2-AF94-EBFA99DC0A75"
@@ -158,6 +162,306 @@
 		{
 			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:1.9.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "D38D5276-6A83-4922-842B-7466A8BC16DA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.3.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C289DD51-C775-4920-BBC3-186DC3551894"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.3.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "740BA86A-4BE0-4014-B110-C7FE60501F46"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.3.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E43A7AC1-953F-4822-B837-445E30CB8D82"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.3.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "56D587FB-8BAD-4E03-8AF7-B7AD7AE9675E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.3.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "43C3B1FC-3922-410D-8994-75DDAB12C7DF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.3.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2E4F0B66-6314-4484-874F-88F9870584DE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.3.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "08D7803E-BBD0-4562-ADA9-8B53F50029AC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.3.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BEA255F2-925C-46B1-A850-F7BFA7E4A76A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.4.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "517C7EFC-EA22-4530-8163-343B28A94B9A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.4.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C4A0FCD4-B6F6-43D0-96E0-1A0BA6672B34"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.4.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "290F03EF-00EC-46AC-80CE-842D13F4C81F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.4.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "17E1596A-421E-41BA-AC8D-950E22A71253"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.4.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "38E86E97-E03C-48EF-9ACF-70A2D55A5519"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.4.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E242558C-A0A3-43B6-B845-85D4FB59279B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.4.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AF9DFF34-5C03-4257-ACE9-394E6E86E0E1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.4.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BC725908-AC07-47CB-B042-483EC385A33F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.5.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "82CB773B-BBF6-4DA1-B1CB-E2E5B180F72A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.6.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "774A0E9C-47E1-4EFF-B9B2-BA285EFC8808"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.6.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8311CA07-7704-4A86-B5ED-60184DC75B28"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.6.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "341E808C-FDA0-4C3B-A6A5-0DE5E402DBF2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.7.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "720C0141-A6F5-4086-81F9-86044B4A6BFC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.7.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3CC8D7F4-8084-4A57-B145-4D296F7816BF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.7.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1CB11F81-6725-41DA-BAB2-28F9E891A734"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.8.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "21C710E2-B428-428E-9C80-5EE6E44557C3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.8.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AB9EBAEE-8226-42E5-BB42-1C8319FF967F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.10.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "ECB7856D-4E88-4365-AC96-1101C96130AE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.11.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F2AF3E73-D867-4FCD-BD86-D31135F79302"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.11.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C58C7EA9-4EB8-4945-9B38-71EECBE9395F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.12.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CAE51458-130A-47DC-AA28-1DD1D91B1D83"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.12.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8DBD0C55-035B-488D-84FE-43F86DF85E18"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.12.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "26B29A97-22AC-4E3C-81F3-CE8EC00F210F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.12.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "70C4CC2C-7BB1-4087-A320-EEF3B5A04A11"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.12.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "24C260E5-2276-4E38-B35B-7126B6C59AF8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.12.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9B7E778C-78B6-47D1-AEF6-765E0DA69E8C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.13.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4EA48335-29DF-4D5F-ACEE-2C2F234BD350"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.13.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "33C9E09C-7E0B-4C9B-A8F2-6EA9EEE273D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.15.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8D8FB719-C2A2-4FC1-B29C-AD523DB826D5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.15.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A6088C9F-9CCC-4024-846D-CFCC04E6CB85"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.15.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "39FEC71C-4F8E-4053-B165-82D97180354A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.15.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5A383150-F1AA-47F6-B83E-66113802E66F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.15.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D7211E5D-9AC6-4DD7-8910-58EDB1AE1F3A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.15.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9790F031-8E5B-4915-9135-EAEEFCBC60EE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.16.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A06AD3CE-21C5-48C2-A5E7-19C1E8B06730"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.16.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B897823D-2ECF-4687-91F1-1EB7D46C9E59"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.16.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B3FBE60B-4BF6-4954-9957-0BFAF26282FE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.16.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8A4E11BE-E262-4B1F-9FA8-7CF39E32508F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.16.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "308E24BA-A501-45DE-9FAC-8268937ED738"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.16.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C50DCD4D-42ED-4E20-B24C-752273E26C01"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.17.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "74DF1CCD-182C-4C8D-9F33-08AD105FCB72"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.17.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3E007276-44EF-475D-8697-A7AEC4AB1F5F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.18.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4BAB71DE-7725-41E3-B226-80AF50BA112F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.18.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C2F247B6-4CBC-43A2-9277-E8E0B2B775B6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.18.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B86D9545-51CE-459E-A0E3-FF70728AFF71"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.18.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1494A49A-9D55-4605-821E-A79D33957F6B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.18.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B5778790-C528-4538-B718-263BD15469CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.18.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "59C6A4CA-A7A9-4333-99DA-3F1AFF053F4F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.19.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F9875F5D-3488-4350-AA11-F2370B897AFA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.20.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DF6654DC-AFDF-4268-A4C3-90FF88445265"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.21.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "209C9C8A-C2CA-42CB-9F15-E899D716A6D7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.21.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3EEFBC93-3AB5-45CD-8B8B-7F43E36CEA92"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.22.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5AB76354-DCBB-498F-B3DB-C557D6B39727"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.23.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5DFB9955-E1FB-4259-A4AE-CA6B40589F6D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.23.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9D3696C2-7AD5-444C-8B33-12D85644C6E5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.24.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E2D14213-B05A-4737-992F-A9987C112FD3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.24.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3104FAE4-BF20-4B39-A0E6-879748CE0081"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.24.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "81C6F6BF-E0C9-4585-A97F-104672400753"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.25.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "40605A27-E285-48E7-B213-72A3E4D285B8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.25.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "94DBAE49-82BE-443B-B56D-BA5A5E5AC3C6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.25.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F8348777-E6B6-4F4F-9CB6-8F626016BB36"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.25.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4D12E1A0-21E6-4412-A5A1-FB9BECE93B80"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.25.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DD88B659-8904-495E-9603-C41F937F8BB7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.26.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EB55B855-58CD-4B49-A662-CEEFFF9D0ADB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.26.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "47F9D994-451D-4DF4-9D8F-DD705295E244"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.26.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BA7C1618-9D5D-4883-AC74-C99161808035"
+		},
+		{
+			"cpeName": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.27.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8AE24103-7C51-4D59-B604-2AD83C94D29F"
 		}
 	]
 }

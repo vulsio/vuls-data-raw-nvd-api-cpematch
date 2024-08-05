@@ -3,8 +3,8 @@
 	"matchCriteriaId": "480B0626-2047-4A6F-8F92-F680D8E2929A",
 	"versionEndExcluding": "16.8",
 	"created": "2024-08-01T14:43:16.230",
-	"lastModified": "2024-08-01T14:43:16.230",
-	"cpeLastModified": "2024-08-01T14:43:16.230",
+	"lastModified": "2024-08-05T10:42:16.260",
+	"cpeLastModified": "2024-08-05T10:42:16.260",
 	"status": "Active",
 	"matches": [
 		{
@@ -1598,6 +1598,114 @@
 		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.5:build16530:*:*:*:*:*:*",
 			"cpeNameId": "41475093-DC72-4FE7-8799-9AF3A4DA3C10"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.5:build16540:*:*:*:*:*:*",
+			"cpeNameId": "4193A8D7-EE89-4248-8F0A-E3BF1F00F0A8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.5:build16550:*:*:*:*:*:*",
+			"cpeNameId": "A385FCBD-62DA-42F0-BDC5-4956CC208C71"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.5:build16570:*:*:*:*:*:*",
+			"cpeNameId": "5EB23788-9DF5-4573-928C-59179BA3F31B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.5:build16571:*:*:*:*:*:*",
+			"cpeNameId": "A5176334-E284-498B-A66F-560702983E4E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.5:build16572:*:*:*:*:*:*",
+			"cpeNameId": "B6943346-D5FF-4F47-9182-156B7E999500"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.5:build16573:*:*:*:*:*:*",
+			"cpeNameId": "1F64C9B7-181F-4706-BD80-4ED5BB17781B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.5:build16574:*:*:*:*:*:*",
+			"cpeNameId": "C4EEBE00-1B16-4AD9-B4AE-EAD4CAF483BA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.5:build16580:*:*:*:*:*:*",
+			"cpeNameId": "B10F1CC2-50F9-42E2-ACD2-4D09ABD57A1E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.5:build16590:*:*:*:*:*:*",
+			"cpeNameId": "C180A8DF-CB02-4B51-BD3D-90151FD570A8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.5:build16591:*:*:*:*:*:*",
+			"cpeNameId": "29D3F0D8-C83E-4148-911A-D9F55D0AC26F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.6:-:*:*:*:*:*:*",
+			"cpeNameId": "CDE5114E-F7D1-4672-B112-97FD63E775F6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.6:build16600:*:*:*:*:*:*",
+			"cpeNameId": "A5E22A5F-29AC-4AE9-AF2C-25D4562C638D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.6:build16610:*:*:*:*:*:*",
+			"cpeNameId": "CE32D94B-D674-474B-90B8-8B5BAA0E9413"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.6:build16620:*:*:*:*:*:*",
+			"cpeNameId": "13E40D54-B141-4B13-9978-182B9FF0F25D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.6:build16630:*:*:*:*:*:*",
+			"cpeNameId": "2506A0F7-062D-46AD-862A-482B9F341CA2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.6:build16631:*:*:*:*:*:*",
+			"cpeNameId": "097DD0A6-015F-44B2-8238-4AAA0B6D57AF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.6:build16640:*:*:*:*:*:*",
+			"cpeNameId": "CDE996A9-C42D-4668-B3B8-8EF0476ACA0A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.6:build16650:*:*:*:*:*:*",
+			"cpeNameId": "4D397C1A-9885-4D9D-8337-7DDE74B14626"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.6:build16680:*:*:*:*:*:*",
+			"cpeNameId": "2E14C420-80E2-401A-BB6F-06AF2D848F86"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.6:build16690:*:*:*:*:*:*",
+			"cpeNameId": "C6F0B030-B652-4C50-8F5A-4E47A96A0C5F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.7:-:*:*:*:*:*:*",
+			"cpeNameId": "3158667B-F830-4A40-93ED-5E3B9ABEB32A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.7:build16700:*:*:*:*:*:*",
+			"cpeNameId": "6DD5CF5B-2080-4497-9BDB-F6AB24260335"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.7:build16701:*:*:*:*:*:*",
+			"cpeNameId": "E8B75B6B-88C2-4A5A-8EBB-58924CD361CD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.7:build16702:*:*:*:*:*:*",
+			"cpeNameId": "C630088F-DAA6-4AC6-9726-6C6413B423EE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.7:build16703:*:*:*:*:*:*",
+			"cpeNameId": "F2DF98F2-9045-41BC-B04E-F91650D1A60A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.7:build16704:*:*:*:*:*:*",
+			"cpeNameId": "0FDABF21-48C4-4C1F-8B90-9444514A811D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_applications_manager:16.7:build16705:*:*:*:*:*:*",
+			"cpeNameId": "D2B31139-7809-4AB0-84EE-0CFB4FE7649A"
 		}
 	]
 }
