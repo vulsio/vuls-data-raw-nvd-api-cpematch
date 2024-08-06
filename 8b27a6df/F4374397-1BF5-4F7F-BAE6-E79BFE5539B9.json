@@ -3,7 +3,7 @@
 	"matchCriteriaId": "F4374397-1BF5-4F7F-BAE6-E79BFE5539B9",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2024-02-03T03:15:39.403",
+	"cpeLastModified": "2024-08-06T13:47:17.060",
 	"status": "Active",
 	"matches": [
 		{
@@ -1617,6 +1617,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ffmpeg:ffmpeg:6.7:*:*:*:*:*:*:*",
 			"cpeNameId": "B9D41BF1-1C72-4F9F-9D4D-E0F785F3F06C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ffmpeg:ffmpeg:7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "7CA34737-5737-462A-A7CC-50EEC88DFBD0"
 		},
 		{
 			"cpeName": "cpe:2.3:a:ffmpeg:ffmpeg:7.1:*:*:*:*:*:*:*",

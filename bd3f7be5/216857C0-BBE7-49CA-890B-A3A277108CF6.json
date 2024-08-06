@@ -3,8 +3,8 @@
 	"matchCriteriaId": "216857C0-BBE7-49CA-890B-A3A277108CF6",
 	"versionEndIncluding": "1.9.3",
 	"created": "2024-02-06T16:32:17.673",
-	"lastModified": "2024-02-06T16:32:17.673",
-	"cpeLastModified": "2024-02-06T16:32:17.673",
+	"lastModified": "2024-08-06T16:24:58.077",
+	"cpeLastModified": "2024-08-06T16:24:58.077",
 	"status": "Active",
 	"matches": [
 		{
@@ -418,6 +418,10 @@
 		{
 			"cpeName": "cpe:2.3:a:octoprint:octoprint:1.8.3:*:*:*:*:*:*:*",
 			"cpeNameId": "5BDA44BC-DF79-4A47-8D09-F3EC124D8E6D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:octoprint:octoprint:1.9.3:*:*:*:*:*:*:*",
+			"cpeNameId": "E9270EA8-0627-4CD0-A7F0-1F015D580968"
 		}
 	]
 }

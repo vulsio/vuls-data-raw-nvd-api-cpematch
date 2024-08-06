@@ -4,8 +4,8 @@
 	"versionStartIncluding": "r41p0",
 	"versionEndExcluding": "r50p0",
 	"created": "2024-08-05T14:07:01.327",
-	"lastModified": "2024-08-05T14:07:01.327",
-	"cpeLastModified": "2024-08-05T14:07:01.327",
+	"lastModified": "2024-08-06T12:56:02.240",
+	"cpeLastModified": "2024-08-06T12:56:02.240",
 	"status": "Active",
 	"matches": [
 		{
@@ -35,6 +35,18 @@
 		{
 			"cpeName": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r46p0:*:*:*:*:*:*:*",
 			"cpeNameId": "23301F56-DE46-403A-905F-2F1A7C548C12"
+		},
+		{
+			"cpeName": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r47p0:*:*:*:*:*:*:*",
+			"cpeNameId": "6D7D0C53-E36D-447B-9D3F-87779731ADD5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r48p0:*:*:*:*:*:*:*",
+			"cpeNameId": "D9643187-6D56-43BD-9E6B-CE780E719505"
+		},
+		{
+			"cpeName": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r49p0:*:*:*:*:*:*:*",
+			"cpeNameId": "7D50D018-30C1-4E11-B7A9-F61DD031F8F4"
 		}
 	]
 }

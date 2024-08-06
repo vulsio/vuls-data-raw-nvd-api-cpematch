@@ -4,8 +4,8 @@
 	"versionStartIncluding": "r41p0",
 	"versionEndExcluding": "r50p0",
 	"created": "2024-08-05T14:07:01.327",
-	"lastModified": "2024-08-05T14:07:01.327",
-	"cpeLastModified": "2024-08-05T14:07:01.327",
+	"lastModified": "2024-08-06T12:53:59.820",
+	"cpeLastModified": "2024-08-06T12:53:59.820",
 	"status": "Active",
 	"matches": [
 		{
@@ -35,6 +35,18 @@
 		{
 			"cpeName": "cpe:2.3:a:arm:5th_gen_gpu_architecture_kernel_driver:r46p0:*:*:*:*:*:*:*",
 			"cpeNameId": "814C1DDF-3CEE-4E21-B775-22F242BAD187"
+		},
+		{
+			"cpeName": "cpe:2.3:a:arm:5th_gen_gpu_architecture_kernel_driver:r47p0:*:*:*:*:*:*:*",
+			"cpeNameId": "3DE342FC-27E9-450C-8524-4DACCC16722A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:arm:5th_gen_gpu_architecture_kernel_driver:r48p0:*:*:*:*:*:*:*",
+			"cpeNameId": "68EF14FE-AD32-4384-BC5D-EA2206F25458"
+		},
+		{
+			"cpeName": "cpe:2.3:a:arm:5th_gen_gpu_architecture_kernel_driver:r49p0:*:*:*:*:*:*:*",
+			"cpeNameId": "4B0A8255-C240-4309-A82F-05479161A0BF"
 		}
 	]
 }
