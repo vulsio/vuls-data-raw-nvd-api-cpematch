@@ -3,10 +3,14 @@
 	"matchCriteriaId": "4C622A44-3E18-4C82-9C57-386712D4E68B",
 	"versionEndExcluding": "2.4.0",
 	"created": "2024-08-02T14:19:09.317",
-	"lastModified": "2024-08-02T14:19:09.317",
-	"cpeLastModified": "2024-08-02T14:19:09.317",
+	"lastModified": "2024-08-05T18:31:47.950",
+	"cpeLastModified": "2024-08-05T18:31:47.950",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:roundup-tracker:roundup:-:*:*:*:*:*:*:*",
+			"cpeNameId": "019276E7-8AF1-44C0-9C71-DAE1753C60DB"
+		},
 		{
 			"cpeName": "cpe:2.3:a:roundup-tracker:roundup:0.1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "BCE8675F-5940-46BC-8FD1-0EAE67DD6E4F"

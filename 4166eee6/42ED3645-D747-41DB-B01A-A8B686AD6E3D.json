@@ -4,6 +4,12 @@
 	"versionEndIncluding": "1.0.5",
 	"created": "2024-01-12T17:22:59.673",
 	"lastModified": "2024-01-12T17:22:59.673",
-	"cpeLastModified": "2024-01-12T17:22:59.673",
-	"status": "Active"
+	"cpeLastModified": "2024-08-05T18:29:41.557",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:qualys:policy_compliance:1.0.5:*:*:*:*:jenkins:*:*",
+			"cpeNameId": "FCB7F4E7-9FFC-4BE6-94D3-34E6C1A9A25C"
+		}
+	]
 }

@@ -3,10 +3,14 @@
 	"matchCriteriaId": "23C8B479-ECDA-4F19-8547-4129C63F3E0E",
 	"versionEndIncluding": "4.7.9",
 	"created": "2024-08-02T14:53:18.587",
-	"lastModified": "2024-08-02T14:53:18.587",
-	"cpeLastModified": "2024-08-02T14:53:18.587",
+	"lastModified": "2024-08-05T18:34:20.730",
+	"cpeLastModified": "2024-08-05T18:34:20.730",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ruoyi:ruoyi:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E2CD9E4E-D4C5-44D0-880E-EADC258745AF"
+		},
 		{
 			"cpeName": "cpe:2.3:a:ruoyi:ruoyi:2.2:*:*:*:*:*:*:*",
 			"cpeNameId": "3FD87027-3268-4260-9712-776EDA9A6D07"
@@ -122,6 +126,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ruoyi:ruoyi:4.7.8:*:*:*:*:*:*:*",
 			"cpeNameId": "D6AAFC54-2F11-4035-8ABC-738314130FAA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ruoyi:ruoyi:4.7.9:*:*:*:*:*:*:*",
+			"cpeNameId": "8E9E0AE8-9AC7-4C4B-B98E-40CE0902CF32"
 		}
 	]
 }
