@@ -4,7 +4,7 @@
 	"versionStartIncluding": "8.0.0",
 	"created": "2024-07-23T10:21:01.110",
 	"lastModified": "2024-07-23T10:21:01.110",
-	"cpeLastModified": "2024-07-23T10:21:01.110",
+	"cpeLastModified": "2024-08-07T10:59:28.853",
 	"status": "Active",
 	"matches": [
 		{
@@ -206,6 +206,46 @@
 		{
 			"cpeName": "cpe:2.3:a:elastic:apm_server:8.12.1:*:*:*:*:*:*:*",
 			"cpeNameId": "2308761F-B5A1-4A4F-97B2-66FDA5D23D34"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:apm_server:8.12.2:*:*:*:*:*:*:*",
+			"cpeNameId": "F4D9E709-547C-4CE7-95AC-28D800B3DAD2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:apm_server:8.13.0:*:*:*:*:*:*:*",
+			"cpeNameId": "96F4D7D3-2703-4E87-A87D-1BC9337B46FA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:apm_server:8.13.1:*:*:*:*:*:*:*",
+			"cpeNameId": "7CDFB7D6-7F6B-4ED4-A00E-FF81973AEBE9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:apm_server:8.13.2:*:*:*:*:*:*:*",
+			"cpeNameId": "68E4AE13-A026-49F0-8C68-057AE8FF39AC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:apm_server:8.13.3:*:*:*:*:*:*:*",
+			"cpeNameId": "964F1F09-BBD4-4DAB-B6EF-FACE90310DD0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:apm_server:8.13.4:*:*:*:*:*:*:*",
+			"cpeNameId": "81715543-B3C6-49C4-8800-6763A89AC150"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:apm_server:8.14.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5007AB4A-9AD2-43B5-B1A0-CFD001A1FDD4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:apm_server:8.14.1:*:*:*:*:*:*:*",
+			"cpeNameId": "1618AFBE-E9B9-4370-9752-D29CEF1F603F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:apm_server:8.14.2:*:*:*:*:*:*:*",
+			"cpeNameId": "57C738B6-7417-40EF-9F85-0544F6775F76"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:apm_server:8.14.3:*:*:*:*:*:*:*",
+			"cpeNameId": "E1E3A5B4-C93D-4667-8C3C-6BF077A48039"
 		}
 	]
 }

@@ -4,6 +4,12 @@
 	"versionEndExcluding": "0.4.6.",
 	"created": "2023-11-06T14:27:38.427",
 	"lastModified": "2023-11-06T14:27:38.427",
-	"cpeLastModified": "2023-11-06T14:27:38.427",
-	"status": "Active"
+	"cpeLastModified": "2024-08-07T12:23:21.460",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:nats:nkeys:0.4.6:*:*:*:*:*:*:*",
+			"cpeNameId": "6AECBC69-8F9C-4F2E-92E8-435093D1E610"
+		}
+	]
 }

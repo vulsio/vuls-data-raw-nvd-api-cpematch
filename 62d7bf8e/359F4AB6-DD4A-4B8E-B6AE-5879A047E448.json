@@ -4,7 +4,7 @@
 	"versionEndExcluding": "8.12.1",
 	"created": "2024-02-15T14:08:21.927",
 	"lastModified": "2024-02-15T19:36:07.900",
-	"cpeLastModified": "2024-02-15T19:39:21.393",
+	"cpeLastModified": "2024-08-07T10:59:28.853",
 	"status": "Active",
 	"matches": [
 		{
@@ -526,6 +526,26 @@
 		{
 			"cpeName": "cpe:2.3:a:elastic:apm_server:7.17.18:*:*:*:*:*:*:*",
 			"cpeNameId": "FF479F84-6409-43D9-B77B-AF5E4E77C949"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:apm_server:7.17.19:*:*:*:*:*:*:*",
+			"cpeNameId": "B243A359-9714-4673-B317-0D0A60A5F0DB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:apm_server:7.17.20:*:*:*:*:*:*:*",
+			"cpeNameId": "525AC2C5-62BE-4F03-8C5C-92391483E920"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:apm_server:7.17.21:*:*:*:*:*:*:*",
+			"cpeNameId": "551724C7-3B81-4BD8-83C0-C5F14A2DEE82"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:apm_server:7.17.22:*:*:*:*:*:*:*",
+			"cpeNameId": "63CD266E-7857-4F0B-97F2-EDDA61CD84DA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:apm_server:7.17.23:*:*:*:*:*:*:*",
+			"cpeNameId": "37C63AF0-0918-43BC-9FD8-4A7652F9BAB0"
 		},
 		{
 			"cpeName": "cpe:2.3:a:elastic:apm_server:8.0.0:-:*:*:*:*:*:*",
