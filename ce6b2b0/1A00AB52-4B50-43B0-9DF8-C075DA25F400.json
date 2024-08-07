@@ -3,8 +3,8 @@
 	"matchCriteriaId": "1A00AB52-4B50-43B0-9DF8-C075DA25F400",
 	"versionEndIncluding": "7.5.34",
 	"created": "2024-07-18T11:26:40.977",
-	"lastModified": "2024-07-18T11:26:40.977",
-	"cpeLastModified": "2024-07-18T11:26:40.977",
+	"lastModified": "2024-08-06T19:52:59.983",
+	"cpeLastModified": "2024-08-06T19:52:59.983",
 	"status": "Active",
 	"matches": [
 		{
@@ -298,6 +298,10 @@
 		{
 			"cpeName": "cpe:2.3:a:oracle:mysql_cluster:7.5.28:*:*:*:*:*:*:*",
 			"cpeNameId": "769EFE88-D0FC-4EEE-AABD-0C7DCBD98AAE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:mysql_cluster:7.5.34:*:*:*:*:*:*:*",
+			"cpeNameId": "244F900C-2412-4819-9611-90DE3DB8FFA0"
 		}
 	]
 }

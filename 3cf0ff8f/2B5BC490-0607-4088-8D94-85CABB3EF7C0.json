@@ -3,8 +3,8 @@
 	"matchCriteriaId": "2B5BC490-0607-4088-8D94-85CABB3EF7C0",
 	"versionEndExcluding": "3.11.2",
 	"created": "2024-08-01T17:07:56.023",
-	"lastModified": "2024-08-01T17:07:56.023",
-	"cpeLastModified": "2024-08-01T17:07:56.023",
+	"lastModified": "2024-08-06T20:00:45.587",
+	"cpeLastModified": "2024-08-06T20:00:45.587",
 	"status": "Active",
 	"matches": [
 		{
@@ -658,6 +658,82 @@
 		{
 			"cpeName": "cpe:2.3:a:wedevs:happy_addons_for_elementor:3.8.5:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "0236E6D4-5A40-40A3-B660-3705906E26F9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wedevs:happy_addons_for_elementor:3.8.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "370ECDF3-6375-47A4-A240-B123CA073073"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wedevs:happy_addons_for_elementor:3.8.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F111EE26-33BC-4DCD-B212-69F1EA156456"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wedevs:happy_addons_for_elementor:3.8.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "43D6655D-3E15-4163-B363-2EFCE63E18AF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wedevs:happy_addons_for_elementor:3.8.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "76AF52CF-A503-4624-B83E-0D2EEA604EDF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wedevs:happy_addons_for_elementor:3.9.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8643E269-371D-4EC5-83E1-16FBC311A689"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wedevs:happy_addons_for_elementor:3.9.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "71924242-A3F4-4EB5-86F1-DE58C7A31C8C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wedevs:happy_addons_for_elementor:3.9.1.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0A24E387-7C4E-4B5D-A0AE-E2DA8E806572"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wedevs:happy_addons_for_elementor:3.10.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AFC22750-979E-4EC7-914B-62F5DC2D2A99"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wedevs:happy_addons_for_elementor:3.10.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1942F7BD-6619-4542-9E4E-FBAEA09DCA7D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wedevs:happy_addons_for_elementor:3.10.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "00C8CA81-237C-4961-BDB3-3F06BAAB789B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wedevs:happy_addons_for_elementor:3.10.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7BD6BCF0-618C-4FE7-87C0-DFA3A032E534"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wedevs:happy_addons_for_elementor:3.10.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5D290563-D0F8-4170-8125-02CE0AE0A50C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wedevs:happy_addons_for_elementor:3.10.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "65AAB102-C2AD-41FE-8298-57448F0068F9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wedevs:happy_addons_for_elementor:3.10.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "184F71BE-1374-4009-B326-4DAB856701DA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wedevs:happy_addons_for_elementor:3.10.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "423B06B7-9211-48AC-A20B-4337CEBF0173"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wedevs:happy_addons_for_elementor:3.10.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FEF1815F-7EDA-4265-BFFD-DF08E9816B52"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wedevs:happy_addons_for_elementor:3.10.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1DA8E261-2FE7-41F6-BF9D-AEDEBEA73A81"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wedevs:happy_addons_for_elementor:3.11.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "74D08576-7A60-45B1-B824-61A3951E7E82"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wedevs:happy_addons_for_elementor:3.11.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9244CDC3-D190-4F54-8B23-0D220B9D6295"
 		}
 	]
 }

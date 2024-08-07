@@ -4,8 +4,8 @@
 	"versionStartIncluding": "7.6.0",
 	"versionEndIncluding": "7.6.30",
 	"created": "2024-07-18T11:26:40.977",
-	"lastModified": "2024-07-18T11:26:40.977",
-	"cpeLastModified": "2024-07-18T11:26:40.977",
+	"lastModified": "2024-08-06T19:52:59.983",
+	"cpeLastModified": "2024-08-06T19:52:59.983",
 	"status": "Active",
 	"matches": [
 		{
@@ -27,6 +27,10 @@
 		{
 			"cpeName": "cpe:2.3:a:oracle:mysql_cluster:7.6.24:*:*:*:*:*:*:*",
 			"cpeNameId": "946ED332-1B55-4E9A-8CCA-F6C82CF92E95"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:mysql_cluster:7.6.30:*:*:*:*:*:*:*",
+			"cpeNameId": "AC21004C-AA52-4605-96FE-C596F5F1E3C3"
 		}
 	]
 }
