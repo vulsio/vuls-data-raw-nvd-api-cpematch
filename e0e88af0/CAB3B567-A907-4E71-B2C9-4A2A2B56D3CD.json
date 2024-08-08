@@ -3,10 +3,14 @@
 	"matchCriteriaId": "CAB3B567-A907-4E71-B2C9-4A2A2B56D3CD",
 	"versionEndExcluding": "1.3.2.9",
 	"created": "2024-07-24T14:25:09.523",
-	"lastModified": "2024-07-24T14:25:09.523",
-	"cpeLastModified": "2024-07-24T14:25:09.523",
+	"lastModified": "2024-08-08T14:33:59.723",
+	"cpeLastModified": "2024-08-08T14:33:59.723",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:kibokolabs:chained_quiz:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C133CC38-2421-4613-8869-6FFA22638FB8"
+		},
 		{
 			"cpeName": "cpe:2.3:a:kibokolabs:chained_quiz:0.5.7:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "C89401FE-8A73-4D7F-98C3-6FA74E7E238D"
@@ -74,6 +78,10 @@
 		{
 			"cpeName": "cpe:2.3:a:kibokolabs:chained_quiz:1.3.2.5:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "507E2D99-40F4-42CA-B78D-A400A2E1EA9D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:kibokolabs:chained_quiz:1.3.2.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DE15C8F9-01F7-4601-84FB-64745E8C6298"
 		}
 	]
 }

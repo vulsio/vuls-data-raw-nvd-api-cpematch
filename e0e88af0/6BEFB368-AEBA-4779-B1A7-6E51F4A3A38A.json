@@ -4,9 +4,13 @@
 	"versionEndIncluding": "1.3.2.2",
 	"created": "2022-12-05T13:17:59.590",
 	"lastModified": "2022-12-05T13:21:55.683",
-	"cpeLastModified": "2022-12-05T13:21:55.683",
+	"cpeLastModified": "2024-08-08T14:33:59.723",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:kibokolabs:chained_quiz:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C133CC38-2421-4613-8869-6FFA22638FB8"
+		},
 		{
 			"cpeName": "cpe:2.3:a:kibokolabs:chained_quiz:0.5.7:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "C89401FE-8A73-4D7F-98C3-6FA74E7E238D"

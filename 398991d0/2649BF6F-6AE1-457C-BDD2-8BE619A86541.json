@@ -3,8 +3,8 @@
 	"matchCriteriaId": "2649BF6F-6AE1-457C-BDD2-8BE619A86541",
 	"versionEndExcluding": "4.0.5",
 	"created": "2024-07-18T14:42:26.223",
-	"lastModified": "2024-07-18T14:42:26.223",
-	"cpeLastModified": "2024-07-18T14:42:26.223",
+	"lastModified": "2024-08-08T13:49:53.450",
+	"cpeLastModified": "2024-08-08T13:49:53.450",
 	"status": "Active",
 	"matches": [
 		{
@@ -502,6 +502,50 @@
 		{
 			"cpeName": "cpe:2.3:a:themewinter:eventin:3.3.51:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "F2B98A5C-641E-4D2A-8148-26A6848B89C8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themewinter:eventin:3.3.52:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0275632C-F314-410D-9BBF-3144EFCBB6A4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themewinter:eventin:3.3.53:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E7932A78-AC9D-4A06-805C-99F70297D769"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themewinter:eventin:3.3.54:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "891D5AAE-07FA-44CF-A1FA-A07362B8AB5A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themewinter:eventin:3.3.55:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2E9BF0C2-3851-4A1F-8107-EE535C7BADC2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themewinter:eventin:3.3.56:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EE0E4B32-F26A-44C9-8D35-23FBB63972D1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themewinter:eventin:3.3.57:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "49413953-B08C-4183-98F8-FE28C5479FE2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themewinter:eventin:4.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2F092657-1390-4070-9872-ACDA467824D8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themewinter:eventin:4.0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "73C2683F-02AC-4E86-95B1-1790BB197B51"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themewinter:eventin:4.0.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2729F475-0A32-4479-9706-E8DBAEBE6AAE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themewinter:eventin:4.0.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E842790D-FE2E-4413-B949-7C8DADDB08BA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themewinter:eventin:4.0.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4209BEFE-1777-48C4-8D9B-72A3F4A91136"
 		}
 	]
 }

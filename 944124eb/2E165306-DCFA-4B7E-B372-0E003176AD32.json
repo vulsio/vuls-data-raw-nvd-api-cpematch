@@ -4,7 +4,7 @@
 	"versionEndExcluding": "8.0.4",
 	"created": "2023-04-28T16:27:42.493",
 	"lastModified": "2023-05-01T15:47:14.420",
-	"cpeLastModified": "2023-05-01T15:47:14.420",
+	"cpeLastModified": "2024-08-08T17:33:56.957",
 	"status": "Active",
 	"matches": [
 		{
@@ -306,6 +306,10 @@
 		{
 			"cpeName": "cpe:2.3:a:fullworksplugins:quick_contact_form:8.0.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "4EE6B475-FE22-4769-BF68-A69BE9E8AC43"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fullworksplugins:quick_contact_form:8.0.3.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "47F54273-48D1-4612-BA89-502D827EF750"
 		}
 	]
 }
