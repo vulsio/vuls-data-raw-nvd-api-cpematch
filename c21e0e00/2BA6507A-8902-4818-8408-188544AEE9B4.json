@@ -3,7 +3,7 @@
 	"matchCriteriaId": "2BA6507A-8902-4818-8408-188544AEE9B4",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-09-26T17:57:13.967",
+	"cpeLastModified": "2024-08-07T12:31:30.400",
 	"status": "Active",
 	"matches": [
 		{
@@ -73,6 +73,10 @@
 		{
 			"cpeName": "cpe:2.3:a:oscommerce:online_merchant:3.0.2:*:*:*:*:*:*:*",
 			"cpeNameId": "CE5DB6B7-D1A2-42C6-BB7E-D9152BFAC452"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oscommerce:online_merchant:4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "BDCF94B4-C824-4C29-8EA8-08905D23B53F"
 		}
 	]
 }

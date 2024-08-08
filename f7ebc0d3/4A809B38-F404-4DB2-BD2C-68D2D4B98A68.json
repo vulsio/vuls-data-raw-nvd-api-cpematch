@@ -4,8 +4,8 @@
 	"versionStartIncluding": "11.0.0",
 	"versionEndIncluding": "11.0.9",
 	"created": "2024-07-19T19:45:17.327",
-	"lastModified": "2024-07-19T19:45:17.327",
-	"cpeLastModified": "2024-07-19T19:45:17.327",
+	"lastModified": "2024-08-07T13:08:25.147",
+	"cpeLastModified": "2024-08-07T13:08:25.147",
 	"status": "Active",
 	"matches": [
 		{
@@ -43,6 +43,10 @@
 		{
 			"cpeName": "cpe:2.3:a:pingidentity:pingfederate:11.0.8:*:*:*:*:*:*:*",
 			"cpeNameId": "01025AED-2A96-4455-B5F7-D1FB295D1A56"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pingidentity:pingfederate:11.0.9:*:*:*:*:*:*:*",
+			"cpeNameId": "FC7EB9CC-6F5F-4A00-84ED-7B4C68E31EB9"
 		}
 	]
 }
