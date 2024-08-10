@@ -3,8 +3,8 @@
 	"matchCriteriaId": "0B083B7F-D749-44B1-8C9C-2A28013E210E",
 	"versionEndExcluding": "6.5.7.4",
 	"created": "2024-01-22T19:46:24.540",
-	"lastModified": "2024-01-22T19:46:24.540",
-	"cpeLastModified": "2024-01-22T19:46:24.540",
+	"lastModified": "2024-08-09T20:43:06.547",
+	"cpeLastModified": "2024-08-09T20:43:06.547",
 	"status": "Active",
 	"matches": [
 		{
@@ -910,6 +910,74 @@
 		{
 			"cpeName": "cpe:2.3:a:shopware:shopware:6.5.1.1:*:*:*:*:*:*:*",
 			"cpeNameId": "A217240F-CA7A-4ADE-862D-A248959DAAFA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:shopware:shopware:6.5.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "0C48ECAF-FF39-4FE6-B353-DC3F26553F59"
+		},
+		{
+			"cpeName": "cpe:2.3:a:shopware:shopware:6.5.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "C89AAA7B-21F5-4BFC-9702-08955F56CFD3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:shopware:shopware:6.5.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "23ECF1A6-CE91-4D4C-B276-DA05E8616E86"
+		},
+		{
+			"cpeName": "cpe:2.3:a:shopware:shopware:6.5.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "05A944E6-9A93-4E40-A1D6-C4571DE9248A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:shopware:shopware:6.5.3.2:*:*:*:*:*:*:*",
+			"cpeNameId": "2F64E1A0-FD30-433F-BFC4-D35BC72CA7EC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:shopware:shopware:6.5.3.3:*:*:*:*:*:*:*",
+			"cpeNameId": "F61D4597-CCCF-4FFD-AAD5-E6420703A8F8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:shopware:shopware:6.5.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5ED2BF25-C472-4F41-A1A3-73CD0E751FA8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:shopware:shopware:6.5.4.1:*:*:*:*:*:*:*",
+			"cpeNameId": "E9248EB6-3021-42A2-A229-3DDF843C9534"
+		},
+		{
+			"cpeName": "cpe:2.3:a:shopware:shopware:6.5.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5284EAD9-CCE5-481B-9235-EEB748323E83"
+		},
+		{
+			"cpeName": "cpe:2.3:a:shopware:shopware:6.5.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "35832055-4A77-40EC-9051-9214AE5C2A34"
+		},
+		{
+			"cpeName": "cpe:2.3:a:shopware:shopware:6.5.5.2:*:*:*:*:*:*:*",
+			"cpeNameId": "3D531264-DB94-40F0-8459-13F8B10E4778"
+		},
+		{
+			"cpeName": "cpe:2.3:a:shopware:shopware:6.5.6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D589ADE6-C6DE-4D3B-9945-FA6CD4BAD530"
+		},
+		{
+			"cpeName": "cpe:2.3:a:shopware:shopware:6.5.6.1:*:*:*:*:*:*:*",
+			"cpeNameId": "393F990B-8F06-462A-ADE0-D82D6A0E5B61"
+		},
+		{
+			"cpeName": "cpe:2.3:a:shopware:shopware:6.5.7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "2F5450E3-BC77-40E4-A281-0B60C18D7EA8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:shopware:shopware:6.5.7.1:*:*:*:*:*:*:*",
+			"cpeNameId": "C42277BC-CF41-4AED-9F3F-E6986FA69708"
+		},
+		{
+			"cpeName": "cpe:2.3:a:shopware:shopware:6.5.7.2:*:*:*:*:*:*:*",
+			"cpeNameId": "309D03ED-10BC-467E-A3E1-BF438DAC062B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:shopware:shopware:6.5.7.3:*:*:*:*:*:*:*",
+			"cpeNameId": "00E777B8-638D-4AAF-9833-ABA617125BDC"
 		}
 	]
 }
