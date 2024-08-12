@@ -4,7 +4,7 @@
 	"versionEndExcluding": "10.1.0.137\\(c00e137r2p11\\)",
 	"created": "2020-06-18T15:03:31.060",
 	"lastModified": "2020-06-18T15:03:31.060",
-	"cpeLastModified": "2021-08-20T15:03:49.387",
+	"cpeLastModified": "2024-08-12T17:57:43.273",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:o:huawei:tony-al00b_firmware:9.1.0.257\\(c00e222r2p1\\):*:*:*:*:*:*:*",
 			"cpeNameId": "2B148E99-BE4D-4EF2-BF79-5BA2C157DAC7"
+		},
+		{
+			"cpeName": "cpe:2.3:o:huawei:tony-al00b_firmware:10.0.0.175\\(c00e59r2p11\\):*:*:*:*:*:*:*",
+			"cpeNameId": "38E24684-7E51-453D-A489-782D29EE3EDC"
 		}
 	]
 }

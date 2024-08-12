@@ -4,7 +4,7 @@
 	"versionEndExcluding": "10.1.0.231\\(c636e3r3p1\\)",
 	"created": "2020-09-04T15:28:35.157",
 	"lastModified": "2020-09-04T15:28:35.157",
-	"cpeLastModified": "2021-01-04T16:29:54.360",
+	"cpeLastModified": "2024-08-12T17:57:43.273",
 	"status": "Active",
 	"matches": [
 		{
@@ -22,6 +22,10 @@
 		{
 			"cpeName": "cpe:2.3:o:huawei:yale-l21a_firmware:9.1.0.154\\(c636e2r2p1\\):*:*:*:*:*:*:*",
 			"cpeNameId": "AB50D609-B133-4E5C-820D-10396B1B72F3"
+		},
+		{
+			"cpeName": "cpe:2.3:o:huawei:yale-l21a_firmware:10.0.0.202\\(c10e3r3p2\\):*:*:*:*:*:*:*",
+			"cpeNameId": "4837F33B-C1D8-43A4-9EFC-0C932EF42323"
 		},
 		{
 			"cpeName": "cpe:2.3:o:huawei:yale-l21a_firmware:10.1.0.230\\(c432e9r5p1\\):*:*:*:*:*:*:*",

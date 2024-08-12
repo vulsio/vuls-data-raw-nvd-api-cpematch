@@ -4,9 +4,13 @@
 	"versionEndExcluding": "8.1.0.326\\(c01\\)",
 	"created": "2020-09-11T16:45:33.187",
 	"lastModified": "2020-09-11T16:45:33.187",
-	"cpeLastModified": "2020-09-11T16:45:33.203",
+	"cpeLastModified": "2024-08-12T17:57:43.273",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:huawei:bla-tl00b_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F2277061-CE3D-4BED-A817-A1EC6A31F58F"
+		},
 		{
 			"cpeName": "cpe:2.3:o:huawei:bla-tl00b_firmware:8.0.0.113\\(sp7c01\\):*:*:*:*:*:*:*",
 			"cpeNameId": "0C922931-7776-4D0B-8436-F8E1F9419801"

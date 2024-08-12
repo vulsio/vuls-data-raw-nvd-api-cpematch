@@ -3,8 +3,8 @@
 	"matchCriteriaId": "8D4E2493-F5E5-4DB3-BD0F-87A8B07A3BBD",
 	"versionEndExcluding": "10.0.0.196\\(c01e65r2p11\\)",
 	"created": "2024-07-23T11:59:07.740",
-	"lastModified": "2024-07-23T11:59:07.740",
-	"cpeLastModified": "2024-07-23T11:59:07.740",
+	"lastModified": "2024-08-12T17:57:43.273",
+	"cpeLastModified": "2024-08-12T17:57:43.273",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:huawei:tony-tl00b_firmware:9.1.0.206\\(c01e200r2p3\\):*:*:*:*:*:*:*",
 			"cpeNameId": "DFC858FF-38F7-40E6-A846-FD190D388691"
+		},
+		{
+			"cpeName": "cpe:2.3:o:huawei:tony-tl00b_firmware:10.0.0.175\\(c01e59r2p11\\):*:*:*:*:*:*:*",
+			"cpeNameId": "D5A8CE11-A021-474C-A339-561F02EA6F28"
 		}
 	]
 }

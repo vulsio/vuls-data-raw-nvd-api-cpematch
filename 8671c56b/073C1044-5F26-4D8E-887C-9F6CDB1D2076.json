@@ -3,10 +3,14 @@
 	"matchCriteriaId": "073C1044-5F26-4D8E-887C-9F6CDB1D2076",
 	"versionEndIncluding": "5.0.0",
 	"created": "2024-08-07T15:24:31.067",
-	"lastModified": "2024-08-07T15:24:31.067",
-	"cpeLastModified": "2024-08-07T15:24:31.067",
+	"lastModified": "2024-08-12T13:42:32.880",
+	"cpeLastModified": "2024-08-12T13:42:32.880",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:datagear:datagear:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4889E96E-766E-451E-9327-D2BE77F67E9D"
+		},
 		{
 			"cpeName": "cpe:2.3:a:datagear:datagear:1.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "15AFA211-F3AF-4933-885F-ADA4D7C561A9"
@@ -202,6 +206,18 @@
 		{
 			"cpeName": "cpe:2.3:a:datagear:datagear:4.5.1:*:*:*:*:*:*:*",
 			"cpeNameId": "35B0B853-EA3C-4349-81F9-B8860BD78DDD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:datagear:datagear:4.6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "EB4338E7-1795-4352-80BA-8B8A4C25FB1E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:datagear:datagear:4.7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "2DE94DFD-3B7A-4A44-8AEE-F596F5067C27"
+		},
+		{
+			"cpeName": "cpe:2.3:a:datagear:datagear:5.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "33B05F42-18E0-4E91-B523-606059340859"
 		}
 	]
 }

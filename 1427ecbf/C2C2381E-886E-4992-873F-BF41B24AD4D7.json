@@ -3,10 +3,14 @@
 	"matchCriteriaId": "C2C2381E-886E-4992-873F-BF41B24AD4D7",
 	"versionEndExcluding": "9.1.0.200\\(c636e4r1p5t8\\)",
 	"created": "2024-07-22T18:12:03.850",
-	"lastModified": "2024-07-22T18:12:03.850",
-	"cpeLastModified": "2024-07-22T18:12:03.850",
+	"lastModified": "2024-08-12T17:57:43.273",
+	"cpeLastModified": "2024-08-12T17:57:43.273",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:huawei:nova_3e_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CDF50935-83E2-40EB-A35D-E018296D4B3C"
+		},
 		{
 			"cpeName": "cpe:2.3:o:huawei:nova_3e_firmware:8.0.0.147\\(c461\\):*:*:*:*:*:*:*",
 			"cpeNameId": "A0EAC2C2-C85E-48EB-9C80-28C0BD6D1AE5"

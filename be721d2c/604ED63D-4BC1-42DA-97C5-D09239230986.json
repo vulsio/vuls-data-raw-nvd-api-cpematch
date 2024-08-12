@@ -3,8 +3,8 @@
 	"matchCriteriaId": "604ED63D-4BC1-42DA-97C5-D09239230986",
 	"versionEndExcluding": "1.18.1",
 	"created": "2024-08-08T21:43:37.563",
-	"lastModified": "2024-08-08T21:43:37.563",
-	"cpeLastModified": "2024-08-08T21:43:37.563",
+	"lastModified": "2024-08-12T12:32:35.897",
+	"cpeLastModified": "2024-08-12T12:32:35.897",
 	"status": "Active",
 	"matches": [
 		{
@@ -380,8 +380,100 @@
 			"cpeNameId": "BB475A9F-FC2D-43A7-84FE-D310FC15D083"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mongodb:php_driver:1.10.0:-:*:*:*:mongodb:*:*",
+			"cpeNameId": "3827D6E2-C732-49A6-9795-A80F27F2D207"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mongodb:php_driver:1.10.0:alpha1:*:*:*:mongodb:*:*",
 			"cpeNameId": "BA516155-3E58-4007-B60E-ACC977522301"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:php_driver:1.11.0:-:*:*:*:mongodb:*:*",
+			"cpeNameId": "FE9F577B-485D-4E72-A665-BC4FF04FA66C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:php_driver:1.11.0:alpha1:*:*:*:mongodb:*:*",
+			"cpeNameId": "636EFA15-FA1E-4690-BB99-BF6E4416DE1D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:php_driver:1.11.1:*:*:*:*:mongodb:*:*",
+			"cpeNameId": "4FCA3066-0971-4ABF-B73B-55EFB88E15E0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:php_driver:1.12.0:*:*:*:*:mongodb:*:*",
+			"cpeNameId": "EF8CEDCB-AB66-49E7-9B97-E27E5ABE40A9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:php_driver:1.12.1:*:*:*:*:mongodb:*:*",
+			"cpeNameId": "73993F6D-7AF8-44E3-8569-339EECB68197"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:php_driver:1.13.0:*:*:*:*:mongodb:*:*",
+			"cpeNameId": "826E3899-7C0F-48AF-833E-3C952BA60067"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:php_driver:1.14.0:-:*:*:*:mongodb:*:*",
+			"cpeNameId": "0E5B788C-F129-4D7D-BFB8-129F2C7468E8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:php_driver:1.14.0:beta1:*:*:*:mongodb:*:*",
+			"cpeNameId": "112F54E7-AB09-4DD3-ADF7-61324472D122"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:php_driver:1.14.1:*:*:*:*:mongodb:*:*",
+			"cpeNameId": "C96E84EC-DD1A-4F1B-9ADF-9AA8325F6ECD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:php_driver:1.14.2:*:*:*:*:mongodb:*:*",
+			"cpeNameId": "151CA3B0-34A9-4509-B7C6-97477D10DD1B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:php_driver:1.15.0:*:*:*:*:mongodb:*:*",
+			"cpeNameId": "4FB44CE1-AE80-4FB7-9734-25DFF20788BA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:php_driver:1.15.1:*:*:*:*:mongodb:*:*",
+			"cpeNameId": "57C04583-7F86-4D56-BEA9-46CCED6F4CA5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:php_driver:1.15.2:*:*:*:*:mongodb:*:*",
+			"cpeNameId": "8559CF88-F163-4D44-A8B7-AC467E98B236"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:php_driver:1.15.3:*:*:*:*:mongodb:*:*",
+			"cpeNameId": "8143552B-E18A-4870-8DE1-445ACA0287FB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:php_driver:1.16.0:*:*:*:*:mongodb:*:*",
+			"cpeNameId": "C73AAED0-3DFC-4740-8203-CC2ADE0B1331"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:php_driver:1.16.1:*:*:*:*:mongodb:*:*",
+			"cpeNameId": "3B74BA72-9ADE-4E65-AE59-37BCE7675F8C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:php_driver:1.16.2:*:*:*:*:mongodb:*:*",
+			"cpeNameId": "54848853-B47E-4F51-A6A0-217C96A7AB49"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:php_driver:1.17.0:*:*:*:*:mongodb:*:*",
+			"cpeNameId": "CED8304A-0EDE-4244-8B31-B850E546CF5D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:php_driver:1.17.1:*:*:*:*:mongodb:*:*",
+			"cpeNameId": "6BCBF002-6661-40AC-9DC2-7A339AB8C589"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:php_driver:1.17.2:*:*:*:*:mongodb:*:*",
+			"cpeNameId": "0187AF5D-ACAF-49C7-AFC7-29DCF1BDBB61"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:php_driver:1.17.3:*:*:*:*:mongodb:*:*",
+			"cpeNameId": "043B4CC5-2792-4C01-9293-9E7A6844A4AD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:php_driver:1.18.0:*:*:*:*:mongodb:*:*",
+			"cpeNameId": "F887D0AD-FBC9-408A-9DDB-5CC6CC1DB096"
 		}
 	]
 }

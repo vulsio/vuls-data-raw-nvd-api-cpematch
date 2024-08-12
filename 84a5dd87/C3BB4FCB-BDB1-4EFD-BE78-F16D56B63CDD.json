@@ -4,7 +4,7 @@
 	"versionEndExcluding": "10.1.0.214\\(c10e5r4p3\\)",
 	"created": "2020-09-04T15:28:34.563",
 	"lastModified": "2020-09-04T15:28:34.563",
-	"cpeLastModified": "2024-01-19T14:42:16.223",
+	"cpeLastModified": "2024-08-12T17:57:43.273",
 	"status": "Active",
 	"matches": [
 		{
@@ -38,6 +38,10 @@
 		{
 			"cpeName": "cpe:2.3:o:huawei:honor_view_20_firmware:10.0.0.195\\(c636e3r4p3\\):*:*:*:*:*:*:*",
 			"cpeNameId": "6A432700-9360-4BBD-A799-74BA12B74CF5"
+		},
+		{
+			"cpeName": "cpe:2.3:o:huawei:honor_view_20_firmware:10.0.0.198\\(c432e10r3p4\\):*:*:*:*:*:*:*",
+			"cpeNameId": "A48D15E7-FF56-453A-B26E-D3F8E6DDB89F"
 		},
 		{
 			"cpeName": "cpe:2.3:o:huawei:honor_view_20_firmware:10.0.0.200\\(c185e3r3p3\\):*:*:*:*:*:*:*",

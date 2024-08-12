@@ -3,7 +3,13 @@
 	"matchCriteriaId": "509E4F2C-2248-4B3B-8ABA-E52850E17B6C",
 	"versionEndExcluding": "8.0.0.376\\(c00\\)",
 	"created": "2024-07-22T18:12:03.850",
-	"lastModified": "2024-07-22T18:12:03.850",
-	"cpeLastModified": "2024-07-22T18:12:03.850",
-	"status": "Active"
+	"lastModified": "2024-08-12T17:57:43.273",
+	"cpeLastModified": "2024-08-12T17:57:43.273",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:huawei:rhone-al00_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F65538F3-D2CE-46F6-BB58-1BC63B6BB8AB"
+		}
+	]
 }

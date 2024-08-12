@@ -3,10 +3,14 @@
 	"matchCriteriaId": "2C3D122C-8B73-4D58-A82F-1A4AC75DD0A9",
 	"versionEndExcluding": "9.1.0.126\\(c00e126r1p7t8\\)",
 	"created": "2024-07-22T18:12:03.850",
-	"lastModified": "2024-07-22T18:12:03.850",
-	"cpeLastModified": "2024-07-22T18:12:03.850",
+	"lastModified": "2024-08-12T17:57:43.273",
+	"cpeLastModified": "2024-08-12T17:57:43.273",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:huawei:anne-al00_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5CF037A0-678B-421F-B2AF-DCF8B48BDEB9"
+		},
 		{
 			"cpeName": "cpe:2.3:o:huawei:anne-al00_firmware:8.0.0.151\\(c00\\):*:*:*:*:*:*:*",
 			"cpeNameId": "AF7D7C59-9BAF-4335-BCF9-C61F651EE708"

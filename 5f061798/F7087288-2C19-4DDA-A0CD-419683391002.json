@@ -4,9 +4,13 @@
 	"versionEndExcluding": "9.1.0.306\\(c185e2r1p13t8\\)",
 	"created": "2021-10-22T16:37:54.407",
 	"lastModified": "2021-10-22T16:37:54.407",
-	"cpeLastModified": "2021-11-04T15:58:24.717",
+	"cpeLastModified": "2024-08-12T17:57:43.273",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:huawei:bla-l29c_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E285B6DA-DBD4-46D5-B979-F09D22991083"
+		},
 		{
 			"cpeName": "cpe:2.3:o:huawei:bla-l29c_firmware:8.0.0.127\\(c432\\):*:*:*:*:*:*:*",
 			"cpeNameId": "8FAF8E64-0E72-44D5-8478-DE3355512267"
@@ -30,6 +34,10 @@
 		{
 			"cpeName": "cpe:2.3:o:huawei:bla-l29c_firmware:9.0.0.210\\(c635e4r1p13\\):*:*:*:*:*:*:*",
 			"cpeNameId": "8C9C0FC9-665E-43EE-8BFE-F547F1699846"
+		},
+		{
+			"cpeName": "cpe:2.3:o:huawei:bla-l29c_firmware:9.1.0.300\\(c432e4r1p11t8\\):*:*:*:*:*:*:*",
+			"cpeNameId": "DF826CBE-802D-4FD3-BDC2-ED3A1B20884E"
 		},
 		{
 			"cpeName": "cpe:2.3:o:huawei:bla-l29c_firmware:9.1.0.302\\(c635e4r1p13t8\\):*:*:*:*:*:*:*",

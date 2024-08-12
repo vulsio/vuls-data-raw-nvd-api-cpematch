@@ -4,9 +4,13 @@
 	"versionEndExcluding": "8.0.0.160\\(c185\\)",
 	"created": "2020-06-09T16:37:20.050",
 	"lastModified": "2020-06-09T16:37:20.050",
-	"cpeLastModified": "2020-07-23T17:38:42.013",
+	"cpeLastModified": "2024-08-12T17:57:43.273",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:huawei:p20_lite_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EF2B2C35-520D-4432-B722-894D4FC95983"
+		},
 		{
 			"cpeName": "cpe:2.3:o:huawei:p20_lite_firmware:8.0.0.147\\(c461\\):*:*:*:*:*:*:*",
 			"cpeNameId": "690036DA-5CBE-4FE0-A315-8B5AD64BE8A2"

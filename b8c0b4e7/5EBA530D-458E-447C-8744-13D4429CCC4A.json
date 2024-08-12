@@ -3,8 +3,8 @@
 	"matchCriteriaId": "5EBA530D-458E-447C-8744-13D4429CCC4A",
 	"versionEndExcluding": "5.4.279",
 	"created": "2024-07-22T17:55:48.687",
-	"lastModified": "2024-07-22T17:55:48.687",
-	"cpeLastModified": "2024-07-22T17:55:48.687",
+	"lastModified": "2024-08-12T17:18:12.723",
+	"cpeLastModified": "2024-08-12T17:18:12.723",
 	"status": "Active",
 	"matches": [
 		{
@@ -16154,6 +16154,14 @@
 		{
 			"cpeName": "cpe:2.3:o:linux:linux_kernel:4.19.316:*:*:*:*:*:*:*",
 			"cpeNameId": "7D65AEC1-209F-4CE2-A5FA-4D3FB56FD265"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:4.19.318:*:*:*:*:*:*:*",
+			"cpeNameId": "BFC397A0-62B9-4BCF-8907-501A3CDF1CD6"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:4.19.319:*:*:*:*:*:*:*",
+			"cpeNameId": "ACE5B4F6-6FB3-41D2-AA6D-E2586039CC21"
 		},
 		{
 			"cpeName": "cpe:2.3:o:linux:linux_kernel:4.20:*:*:*:*:*:*:*",

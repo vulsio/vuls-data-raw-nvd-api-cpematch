@@ -4,7 +4,7 @@
 	"versionEndExcluding": "115.12",
 	"created": "2024-07-26T14:10:26.643",
 	"lastModified": "2024-07-26T14:10:26.643",
-	"cpeLastModified": "2024-07-26T14:10:26.643",
+	"cpeLastModified": "2024-08-12T14:11:03.823",
 	"status": "Active",
 	"matches": [
 		{
@@ -1950,6 +1950,22 @@
 		{
 			"cpeName": "cpe:2.3:a:mozilla:thunderbird:115.7:*:*:*:*:*:*:*",
 			"cpeNameId": "51187040-C244-449E-BD02-D6D657830389"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:thunderbird:115.10.1:*:*:*:*:*:*:*",
+			"cpeNameId": "5805C5FF-12AE-4398-B93A-DB667511FAE6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:thunderbird:115.10.2:*:*:*:*:*:*:*",
+			"cpeNameId": "57CCEA0E-BF44-43B5-92D7-E9E365A25804"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:thunderbird:115.11.0:*:*:*:*:*:*:*",
+			"cpeNameId": "6F27AE02-BAAC-4DCF-B452-1DBBF63828ED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:thunderbird:115.11.1:*:*:*:*:*:*:*",
+			"cpeNameId": "54D47CBD-1F54-4D1B-B780-0A4B30354620"
 		}
 	]
 }

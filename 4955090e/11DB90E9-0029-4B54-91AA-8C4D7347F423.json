@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:arubanetworks:arubaos:10.6.0.0:*:*:*:*:*:*:*",
 	"matchCriteriaId": "11DB90E9-0029-4B54-91AA-8C4D7347F423",
 	"created": "2024-08-09T17:38:33.717",
-	"lastModified": "2024-08-09T17:55:22.450",
-	"cpeLastModified": "2024-08-09T17:55:22.450",
-	"status": "Active"
+	"lastModified": "2024-08-12T17:26:43.483",
+	"cpeLastModified": "2024-08-12T17:26:43.483",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:arubanetworks:arubaos:10.6.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "CBBB1230-15DD-4200-8DE0-F449779C81B2"
+		}
+	]
 }

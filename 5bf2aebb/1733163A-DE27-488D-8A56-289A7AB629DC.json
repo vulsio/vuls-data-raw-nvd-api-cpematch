@@ -3,10 +3,14 @@
 	"matchCriteriaId": "1733163A-DE27-488D-8A56-289A7AB629DC",
 	"versionEndExcluding": "9.1.0.201\\(c636e4r1p5t8\\)",
 	"created": "2024-07-22T18:12:03.850",
-	"lastModified": "2024-07-22T18:12:03.850",
-	"cpeLastModified": "2024-07-22T18:12:03.850",
+	"lastModified": "2024-08-12T17:57:43.273",
+	"cpeLastModified": "2024-08-12T17:57:43.273",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:huawei:p20_lite_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EF2B2C35-520D-4432-B722-894D4FC95983"
+		},
 		{
 			"cpeName": "cpe:2.3:o:huawei:p20_lite_firmware:8.0.0.147\\(c461\\):*:*:*:*:*:*:*",
 			"cpeNameId": "690036DA-5CBE-4FE0-A315-8B5AD64BE8A2"
@@ -50,6 +54,18 @@
 		{
 			"cpeName": "cpe:2.3:o:huawei:p20_lite_firmware:8.0.0.172\\(c636\\):*:*:*:*:*:*:*",
 			"cpeNameId": "62B55CBE-BDD3-4C1E-BCAE-157017556251"
+		},
+		{
+			"cpeName": "cpe:2.3:o:huawei:p20_lite_firmware:9.1.0.200\\(c605e4r1p3t8\\):*:*:*:*:*:*:*",
+			"cpeNameId": "350E0881-081C-455B-B536-0D68EE806B0C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:huawei:p20_lite_firmware:9.1.0.200\\(c635e5r1p1t8\\):*:*:*:*:*:*:*",
+			"cpeNameId": "EABEBF35-B078-4780-A39D-640A0D39F435"
+		},
+		{
+			"cpeName": "cpe:2.3:o:huawei:p20_lite_firmware:9.1.0.200\\(c636e4r1p5t8\\):*:*:*:*:*:*:*",
+			"cpeNameId": "1F0C8544-823E-4413-9034-90A97A503CE1"
 		}
 	]
 }

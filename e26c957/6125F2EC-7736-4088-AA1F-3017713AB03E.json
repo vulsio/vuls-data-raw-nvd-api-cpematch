@@ -4,10 +4,14 @@
 	"versionStartIncluding": "5.3.1",
 	"versionEndExcluding": "5.3.1-53",
 	"created": "2024-07-25T11:59:52.070",
-	"lastModified": "2024-07-25T11:59:52.070",
-	"cpeLastModified": "2024-07-25T11:59:52.070",
+	"lastModified": "2024-08-12T13:14:29.927",
+	"cpeLastModified": "2024-08-12T13:14:29.927",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:acronis:cyber_infrastructure:5.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "A5900314-5182-40CE-A5E5-48434578A921"
+		},
 		{
 			"cpeName": "cpe:2.3:a:acronis:cyber_infrastructure:5.3.1-41:*:*:*:*:*:*:*",
 			"cpeNameId": "8F150D65-CC07-4F9F-8575-CA0F632D9FCF"

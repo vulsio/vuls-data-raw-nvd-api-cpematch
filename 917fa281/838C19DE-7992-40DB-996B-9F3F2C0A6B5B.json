@@ -4,12 +4,28 @@
 	"versionEndIncluding": "1.52",
 	"created": "2021-12-01T16:46:51.263",
 	"lastModified": "2021-12-01T16:46:51.263",
-	"cpeLastModified": "2021-12-02T14:01:17.547",
+	"cpeLastModified": "2024-08-12T17:32:34.927",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:o:elecom:wrc-2533gs2-b_firmware:-:*:*:*:*:*:*:*",
 			"cpeNameId": "11DDC9A4-CFE0-4895-913C-405AD040470B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:elecom:wrc-2533gs2-b_firmware:1.00:*:*:*:*:*:*:*",
+			"cpeNameId": "D6962213-1CDB-4A58-91B7-7C75F44FC23F"
+		},
+		{
+			"cpeName": "cpe:2.3:o:elecom:wrc-2533gs2-b_firmware:1.20:*:*:*:*:*:*:*",
+			"cpeNameId": "531D3BDA-4D63-42B1-A674-81D56559827D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:elecom:wrc-2533gs2-b_firmware:1.22:*:*:*:*:*:*:*",
+			"cpeNameId": "562A04A8-9BC3-42EE-9C00-829E5D8DF363"
+		},
+		{
+			"cpeName": "cpe:2.3:o:elecom:wrc-2533gs2-b_firmware:1.51:*:*:*:*:*:*:*",
+			"cpeNameId": "4A040DF4-CB6B-477D-8184-E57930472165"
 		},
 		{
 			"cpeName": "cpe:2.3:o:elecom:wrc-2533gs2-b_firmware:1.52:*:*:*:*:*:*:*",

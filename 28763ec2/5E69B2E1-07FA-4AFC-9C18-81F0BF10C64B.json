@@ -3,8 +3,8 @@
 	"matchCriteriaId": "5E69B2E1-07FA-4AFC-9C18-81F0BF10C64B",
 	"versionEndExcluding": "128.1.0",
 	"created": "2024-08-12T10:38:56.630",
-	"lastModified": "2024-08-12T10:38:56.630",
-	"cpeLastModified": "2024-08-12T10:38:56.630",
+	"lastModified": "2024-08-12T14:11:03.823",
+	"cpeLastModified": "2024-08-12T14:11:03.823",
 	"status": "Active",
 	"matches": [
 		{
@@ -1950,6 +1950,42 @@
 		{
 			"cpeName": "cpe:2.3:a:mozilla:thunderbird:115.7:*:*:*:*:*:*:*",
 			"cpeNameId": "51187040-C244-449E-BD02-D6D657830389"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:thunderbird:115.10.1:*:*:*:*:*:*:*",
+			"cpeNameId": "5805C5FF-12AE-4398-B93A-DB667511FAE6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:thunderbird:115.10.2:*:*:*:*:*:*:*",
+			"cpeNameId": "57CCEA0E-BF44-43B5-92D7-E9E365A25804"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:thunderbird:115.11.0:*:*:*:*:*:*:*",
+			"cpeNameId": "6F27AE02-BAAC-4DCF-B452-1DBBF63828ED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:thunderbird:115.11.1:*:*:*:*:*:*:*",
+			"cpeNameId": "54D47CBD-1F54-4D1B-B780-0A4B30354620"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:thunderbird:115.12.1:*:*:*:*:*:*:*",
+			"cpeNameId": "C590C2AE-30D7-4886-9237-8B478061A663"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:thunderbird:115.12.2:*:*:*:*:*:*:*",
+			"cpeNameId": "558BDB13-1059-49D9-942F-15DD4ADF7D47"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:thunderbird:115.13.0:*:*:*:*:*:*:*",
+			"cpeNameId": "4B2FF0FE-7CDB-410A-BF8B-06403DDD6A93"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:thunderbird:115.14.0:*:*:*:*:*:*:*",
+			"cpeNameId": "9339EA80-5432-4570-AAE6-D534A3FEC9ED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:thunderbird:128.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "2D7A31CF-7B60-4EAE-AB36-34B991CF925A"
 		}
 	]
 }

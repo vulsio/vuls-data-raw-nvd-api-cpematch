@@ -5,6 +5,12 @@
 	"versionEndExcluding": "4.9.12",
 	"created": "2024-07-19T14:49:45.183",
 	"lastModified": "2024-07-19T14:49:45.183",
-	"cpeLastModified": "2024-07-19T14:49:45.183",
-	"status": "Active"
+	"cpeLastModified": "2024-08-12T14:18:21.877",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:arista:eos:4.9.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F27E2BEA-1381-40E0-BC1C-74DFD44C276E"
+		}
+	]
 }
