@@ -3,10 +3,14 @@
 	"matchCriteriaId": "002EDC18-1058-456D-B6B2-4AD1D26C6B99",
 	"versionEndExcluding": "4.1.6",
 	"created": "2024-08-09T17:11:33.707",
-	"lastModified": "2024-08-09T17:11:33.707",
-	"cpeLastModified": "2024-08-09T17:12:31.530",
+	"lastModified": "2024-08-12T12:17:22.893",
+	"cpeLastModified": "2024-08-12T12:17:22.893",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:-:*:*:*:*:*:*:*",
+			"cpeNameId": "40E2D917-5BE6-4843-8C22-B8954C7FB404"
+		},
 		{
 			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:0.1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "5CE2EB62-8132-4C63-A869-B894C1E1F620"
@@ -214,6 +218,94 @@
 		{
 			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:2.0.0:rc3:*:*:*:*:*:*",
 			"cpeNameId": "4FDCE089-8E8A-4143-AC3E-13E31DEA1777"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:2.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B7CD538E-7BF7-4329-B15B-A8B4EA4885A4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:2.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "8006C71E-151E-47E7-BB0C-40A748B5017A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:2.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "CED63B8E-D5F1-4B38-B769-7EC45C402BE0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:2.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "1F6B5CF6-294F-4BB9-A9D9-6BFBE7CC3AA9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:2.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "6BBEDAF5-B251-4028-BC55-860FBE6EAFE4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:2.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "23B79DF7-2BBE-4E81-90D4-A2283FDF5BF5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:2.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "71938120-416C-4069-9C74-3D85F7DEC3B0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:3.0.0:-:*:*:*:*:*:*",
+			"cpeNameId": "5EE88801-60B2-4C40-9C40-B6E483CDCA15"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:3.0.0:beta1:*:*:*:*:*:*",
+			"cpeNameId": "5130A6BE-956F-4329-AD77-9DE65F456930"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:3.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "CBB2D866-C6BA-4D27-ABA0-287B3990BD7F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:3.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "B5F2EE95-48F1-440A-83A5-E8FB795773B7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:4.0.0:-:*:*:*:*:*:*",
+			"cpeNameId": "B53B2AB8-1574-44BE-87B9-C0AE8CA838E9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:4.0.0:beta1:*:*:*:*:*:*",
+			"cpeNameId": "F6EA2C0F-A8A2-4FF5-A75E-81C8E5A0C5EC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:4.0.0:beta2:*:*:*:*:*:*",
+			"cpeNameId": "1AF6A374-1D40-4B8B-A5FF-3E80580BF4B5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:4.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "2365C605-19FA-46EC-9567-69A5176A152D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:4.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "AB035BB0-4B9E-4FD8-8CD8-23BCF1B593D2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:4.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C02DC661-3980-4824-ACA2-47E90F037CA9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:4.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "F4A68345-BE51-4206-A58B-473CBAFEDF9C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:4.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "F161C3C0-381A-4AB0-8D64-C823AA29FFB7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:4.1.3:*:*:*:*:*:*:*",
+			"cpeNameId": "0603128B-25FB-4221-945F-2CFB489F6A5F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:4.1.4:*:*:*:*:*:*:*",
+			"cpeNameId": "7EFB45BB-01EB-493D-BF0A-D6A2C82955F1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:4.1.5:*:*:*:*:*:*:*",
+			"cpeNameId": "8F6DF70A-AF04-4BB5-B9B2-01E351851F57"
 		}
 	]
 }

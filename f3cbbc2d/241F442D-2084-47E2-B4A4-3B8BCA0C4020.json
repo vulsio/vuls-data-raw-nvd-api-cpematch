@@ -4,9 +4,13 @@
 	"versionEndExcluding": "2.3.6",
 	"created": "2024-01-18T20:01:31.480",
 	"lastModified": "2024-02-02T22:20:37.337",
-	"cpeLastModified": "2024-01-18T20:01:31.480",
+	"cpeLastModified": "2024-08-12T11:48:40.760",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:spider-themes:eazydocs:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3D62BDAA-4B80-45DA-B123-F557B0BF34C1"
+		},
 		{
 			"cpeName": "cpe:2.3:a:spider-themes:eazydocs:1.1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "5A234179-66F8-4AE3-AD03-EF473719422F"

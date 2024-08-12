@@ -3,10 +3,14 @@
 	"matchCriteriaId": "D84E69AF-BB0B-4BB9-B5EA-6D03511649A9",
 	"versionEndExcluding": "2.5.0",
 	"created": "2024-07-03T11:31:03.103",
-	"lastModified": "2024-07-03T11:31:03.103",
-	"cpeLastModified": "2024-07-03T11:31:03.103",
+	"lastModified": "2024-08-12T11:48:40.760",
+	"cpeLastModified": "2024-08-12T11:48:40.760",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:spider-themes:eazydocs:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3D62BDAA-4B80-45DA-B123-F557B0BF34C1"
+		},
 		{
 			"cpeName": "cpe:2.3:a:spider-themes:eazydocs:1.1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "5A234179-66F8-4AE3-AD03-EF473719422F"
@@ -194,6 +198,26 @@
 		{
 			"cpeName": "cpe:2.3:a:spider-themes:eazydocs:2.3.6:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "890B25C1-50FE-49A7-ABF2-CFC6DDAE5B71"
+		},
+		{
+			"cpeName": "cpe:2.3:a:spider-themes:eazydocs:2.3.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9652D3DA-073A-4166-9886-875DFD085ECA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:spider-themes:eazydocs:2.3.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FB0BAB7D-990F-4E56-8B17-F1B81A64E8D7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:spider-themes:eazydocs:2.3.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F4C0CD5F-6B96-4476-A970-3FF51F0C7195"
+		},
+		{
+			"cpeName": "cpe:2.3:a:spider-themes:eazydocs:2.4.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B8A56782-6A16-4D85-B639-C4B9A96C3930"
+		},
+		{
+			"cpeName": "cpe:2.3:a:spider-themes:eazydocs:2.4.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "ECC2D09F-FDB0-42D1-9B46-E6CCE645C835"
 		}
 	]
 }

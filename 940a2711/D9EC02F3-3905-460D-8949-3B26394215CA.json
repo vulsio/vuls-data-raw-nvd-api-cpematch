@@ -3,7 +3,7 @@
 	"matchCriteriaId": "D9EC02F3-3905-460D-8949-3B26394215CA",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2023-02-16T14:40:57.227",
-	"cpeLastModified": "2023-12-18T22:44:15.577",
+	"cpeLastModified": "2024-08-12T11:48:40.760",
 	"status": "Active",
 	"matches": [
 		{
@@ -3835,6 +3835,14 @@
 			"cpeNameId": "AA958354-24B4-4203-8C0E-757B66B4C1C3"
 		},
 		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:13.2:p10:*:*:*:*:*:*",
+			"cpeNameId": "EC6AA512-8DD9-4120-B1D4-F7C776E83B67"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:13.2:p11:*:*:*:*:*:*",
+			"cpeNameId": "F9B9C0F8-4E45-4461-B7BE-C9506F55324B"
+		},
+		{
 			"cpeName": "cpe:2.3:o:freebsd:freebsd:13.2:p2:*:*:*:*:*:*",
 			"cpeNameId": "FB72130E-AAAE-437B-A80A-ABBB382C0588"
 		},
@@ -3863,6 +3871,26 @@
 			"cpeNameId": "ECF9EBF4-1204-483D-B48A-C9CA53A8AEBE"
 		},
 		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:13.2:p9:*:*:*:*:*:*",
+			"cpeNameId": "043A276C-3886-4F0B-ADDC-9615372B7252"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:13.3:-:*:*:*:*:*:*",
+			"cpeNameId": "BFDAFD49-ABB8-47D6-B389-28B8734E6EC1"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:13.3:p1:*:*:*:*:*:*",
+			"cpeNameId": "E9FEA1AD-2EB0-4573-BCE5-081BAA5D0DAE"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:13.3:p2:*:*:*:*:*:*",
+			"cpeNameId": "99DDA5AE-8CAE-4CF7-89DC-6BA04B7F94AD"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:13.3:p3:*:*:*:*:*:*",
+			"cpeNameId": "D8AF9830-07AA-4A26-82A4-B28B6BE404EB"
+		},
+		{
 			"cpeName": "cpe:2.3:o:freebsd:freebsd:14.0:-:*:*:*:*:*:*",
 			"cpeNameId": "82330AAF-50A4-479B-805B-471298D9E6C4"
 		},
@@ -3881,6 +3909,22 @@
 		{
 			"cpeName": "cpe:2.3:o:freebsd:freebsd:14.0:p3:*:*:*:*:*:*",
 			"cpeNameId": "C34CFD81-B219-47DB-BFF1-B5E1CA7466D7"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:14.0:p4:*:*:*:*:*:*",
+			"cpeNameId": "0C0B2749-2513-4E34-A25E-F74E2CD2CF3F"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:14.0:p5:*:*:*:*:*:*",
+			"cpeNameId": "55EB6EDF-9B45-4BDF-838F-1D333C7C94A9"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:14.0:p6:*:*:*:*:*:*",
+			"cpeNameId": "54B1EC0F-EAD4-4E2B-9C5F-26F3A129AC40"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:14.0:p7:*:*:*:*:*:*",
+			"cpeNameId": "3D73762A-7E46-45F9-8642-304B13CCC6BF"
 		},
 		{
 			"cpeName": "cpe:2.3:o:freebsd:freebsd:14.0:rc3:*:*:*:*:*:*",

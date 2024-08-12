@@ -4,9 +4,13 @@
 	"versionEndExcluding": "0.9.5",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2021-01-14T17:24:22.473",
+	"cpeLastModified": "2024-08-12T12:17:22.893",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:-:*:*:*:*:*:*:*",
+			"cpeNameId": "40E2D917-5BE6-4843-8C22-B8954C7FB404"
+		},
 		{
 			"cpeName": "cpe:2.3:a:jupyter:jupyterhub:0.1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "5CE2EB62-8132-4C63-A869-B894C1E1F620"
