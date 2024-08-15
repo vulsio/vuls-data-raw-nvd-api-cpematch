@@ -4,6 +4,12 @@
 	"versionEndExcluding": "2.3.0",
 	"created": "2022-02-22T17:08:50.483",
 	"lastModified": "2022-02-22T17:08:50.483",
-	"cpeLastModified": "2022-02-22T17:40:46.580",
-	"status": "Active"
+	"cpeLastModified": "2024-08-15T14:08:15.433",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:adobe:commerce:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C5DF576F-68FC-4693-885D-932AA136058B"
+		}
+	]
 }

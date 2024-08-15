@@ -4,9 +4,13 @@
 	"versionStartIncluding": "2.4.1",
 	"created": "2021-05-12T15:55:26.683",
 	"lastModified": "2021-05-12T15:55:26.683",
-	"cpeLastModified": "2024-06-27T11:56:38.337",
+	"cpeLastModified": "2024-08-15T16:47:13.190",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:adobe:magento:2.4.3:*:*:*:open_source:*:*:*",
+			"cpeNameId": "99BB061E-2E7F-42A5-BC00-65A5347F6A53"
+		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:magento:2.4.4:-:*:*:open_source:*:*:*",
 			"cpeNameId": "AFCE4546-FAC4-4E8F-8557-DC66DCFE22AC"
@@ -14,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:magento:2.4.4:p1:*:*:open_source:*:*:*",
 			"cpeNameId": "A4F9A9CB-4234-4465-BFC6-81F6C17EAEF0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:magento:2.4.4:p10:*:*:open_source:*:*:*",
+			"cpeNameId": "EC8DC249-34AF-4684-B729-F2060879CE86"
 		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:magento:2.4.4:p2:*:*:open_source:*:*:*",
@@ -42,6 +50,10 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:magento:2.4.4:p8:*:*:open_source:*:*:*",
 			"cpeNameId": "3EE39988-4D7D-4412-AED1-259AC5C730BC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:magento:2.4.4:p9:*:*:open_source:*:*:*",
+			"cpeNameId": "BDAFF4D0-96FB-4DE9-AED1-C3D292C08C2E"
 		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:magento:2.4.5:-:*:*:open_source:*:*:*",
@@ -76,6 +88,14 @@
 			"cpeNameId": "98238A4D-A37D-44C4-BC49-080D6D64652A"
 		},
 		{
+			"cpeName": "cpe:2.3:a:adobe:magento:2.4.5:p8:*:*:open_source:*:*:*",
+			"cpeNameId": "4D4E0269-81D7-4A21-9BFA-B1FD2D28BBCA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:magento:2.4.5:p9:*:*:open_source:*:*:*",
+			"cpeNameId": "8A9CBD96-2788-496D-A5F4-DB36BE383930"
+		},
+		{
 			"cpeName": "cpe:2.3:a:adobe:magento:2.4.6:-:*:*:open_source:*:*:*",
 			"cpeNameId": "DC6918F6-EAED-4FF7-AA16-2F12093FA764"
 		},
@@ -100,8 +120,28 @@
 			"cpeNameId": "1B69D723-12C3-4524-BFB4-5A9E249C4508"
 		},
 		{
+			"cpeName": "cpe:2.3:a:adobe:magento:2.4.6:p6:*:*:open_source:*:*:*",
+			"cpeNameId": "7C1BF7D4-58C2-4F9D-AE10-0538BCED9A78"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:magento:2.4.6:p7:*:*:open_source:*:*:*",
+			"cpeNameId": "2673B663-1CD9-4066-9D80-89B03576E2EB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:magento:2.4.7:-:*:*:open_source:*:*:*",
+			"cpeNameId": "AFE7B996-4A63-40BC-A906-DA7ADC21A495"
+		},
+		{
 			"cpeName": "cpe:2.3:a:adobe:magento:2.4.7:b1:*:*:open_source:*:*:*",
 			"cpeNameId": "AF2EB9AA-ACD3-4BC3-BD4F-AD2E42C25394"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:magento:2.4.7:p1:*:*:open_source:*:*:*",
+			"cpeNameId": "5877261F-318F-486F-876C-8F237DD439F3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:magento:2.4.7:p2:*:*:open_source:*:*:*",
+			"cpeNameId": "4BDF1DE5-E5D4-420A-8955-1F87E75A0A0C"
 		}
 	]
 }

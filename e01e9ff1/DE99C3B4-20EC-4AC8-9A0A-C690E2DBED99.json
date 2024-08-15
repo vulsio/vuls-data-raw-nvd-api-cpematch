@@ -5,9 +5,13 @@
 	"versionEndExcluding": "16.24.1",
 	"created": "2022-03-07T12:43:16.757",
 	"lastModified": "2022-03-07T12:43:16.757",
-	"cpeLastModified": "2022-04-25T15:22:06.350",
+	"cpeLastModified": "2024-08-15T12:44:23.460",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sangoma:asterisk:16.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B405CE03-35A5-460C-B081-B43F3747DAA9"
+		},
 		{
 			"cpeName": "cpe:2.3:a:sangoma:asterisk:16.5.0:rc1:*:*:*:*:*:*",
 			"cpeNameId": "AB6EF666-E5DC-4147-8706-00A1F1F7FB3E"
@@ -43,6 +47,10 @@
 		{
 			"cpeName": "cpe:2.3:a:sangoma:asterisk:16.14.0:rc1:*:*:*:*:*:*",
 			"cpeNameId": "1BD9D481-9DF5-4F70-8CD2-13DE4E27D5DB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sangoma:asterisk:16.14.1:*:*:*:*:*:*:*",
+			"cpeNameId": "C2CEE604-A056-4B4E-9B2B-DB5888AE3421"
 		},
 		{
 			"cpeName": "cpe:2.3:a:sangoma:asterisk:16.15.0:rc1:*:*:*:*:*:*",

@@ -3,10 +3,14 @@
 	"matchCriteriaId": "6EF6FB84-D104-4D32-B73D-CB95BDF11F6A",
 	"versionEndExcluding": "14.0",
 	"created": "2024-08-14T13:59:36.980",
-	"lastModified": "2024-08-14T13:59:36.980",
-	"cpeLastModified": "2024-08-14T13:59:36.980",
+	"lastModified": "2024-08-15T16:48:57.850",
+	"cpeLastModified": "2024-08-15T16:48:57.850",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:adobe:substance_3d_designer:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DA4AB43A-E80F-450E-B1C8-949F52515B77"
+		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:substance_3d_designer:12.4.0:*:*:*:*:*:*:*",
 			"cpeNameId": "D444AA67-93E5-4C33-90DB-C5CF61A49D4A"
