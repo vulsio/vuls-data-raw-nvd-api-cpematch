@@ -3,7 +3,7 @@
 	"matchCriteriaId": "BAC0B430-8851-4203-9F4F-1D3FB9CC5034",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2024-08-12T12:29:12.550",
+	"cpeLastModified": "2024-08-16T14:21:34.897",
 	"status": "Active",
 	"matches": [
 		{
@@ -1467,6 +1467,10 @@
 			"cpeNameId": "937695FF-A439-4E69-9E9A-FBC72ADE931F"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.0:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "DE076DD7-F97E-4723-A15F-BDC96F43D759"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.0:-:*:*:*:*:*:*",
 			"cpeNameId": "C5C9FD94-7C5E-444F-B8EC-BB6DB53D3464"
 		},
@@ -1543,64 +1547,132 @@
 			"cpeNameId": "78343922-8BCE-4ECC-8E55-103B692A0130"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.1:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "3BABBC5E-5D5E-4C60-A8CB-7F515BF3E3C1"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.2:*:*:*:*:*:*:*",
 			"cpeNameId": "DF7FC00F-022E-4D1E-8F3F-6F80DA7B4C49"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.2:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "9F6F4356-2E0F-4DAD-94D1-F8827DC97A33"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.3:*:*:*:*:*:*:*",
 			"cpeNameId": "ADC02FA2-EB6E-4AE3-8B9C-9F2262F9104D"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.3:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "4F12867B-48A2-40F1-A7FA-9BE5E8B0E3E4"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.4:*:*:*:*:*:*:*",
 			"cpeNameId": "9DAB7665-2C0B-4F7E-97D2-02B6FC09AADA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.4:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "AC47569E-9423-4118-9C5E-71C5DB133152"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.5:*:*:*:*:*:*:*",
 			"cpeNameId": "96E4E450-AC4D-4A28-A56F-3574379A56E4"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.5:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "00D857B5-5E31-4FD0-8562-671927F78DC0"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.6:*:*:*:*:*:*:*",
 			"cpeNameId": "ECC35B0A-FF9F-4622-879D-C6F6406EC40E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.6:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "EE1C1841-DF81-45D2-9422-EE54187BA0FD"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.7:*:*:*:*:*:*:*",
 			"cpeNameId": "A0D363DD-8724-49BA-A92A-65D9E51109F8"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.7:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "7B30593B-2205-4059-87A2-28838DF51F1A"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.8:*:*:*:*:*:*:*",
 			"cpeNameId": "CBA3929F-31B4-4DF4-B3E9-D87B382CB86A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.8:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "E10D1D38-276F-4B21-A199-62766CE5BCF7"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.9:*:*:*:*:*:*:*",
 			"cpeNameId": "A4CF6A97-AB12-4603-8CF2-EF3E667F6A42"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.9:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "1BA687B4-76CD-4D12-9A9D-946FA1AB494F"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.10:*:*:*:*:*:*:*",
 			"cpeNameId": "1AFCEF23-C649-4091-B200-404AEA08AD21"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.10:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "4556AE63-8791-4198-95BF-5D71079317A8"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.11:*:*:*:*:*:*:*",
 			"cpeNameId": "EE75B962-5C67-4324-81BD-F6673CE7C8D9"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.11:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "E6D5BA14-531A-436D-AEC8-1DF3A3A72F2D"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.12:*:*:*:*:*:*:*",
 			"cpeNameId": "660EC83C-07EF-4A30-ACA1-B6B6336736A2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.12:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "8DFD2409-BA37-401E-B646-7F9ADB8D8811"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.13:*:*:*:*:*:*:*",
 			"cpeNameId": "46E40A3E-3749-45C4-949A-3FED5F9AE346"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.13:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "117ABD6F-962D-4236-B239-ACCBA7DE6326"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.14:*:*:*:*:*:*:*",
 			"cpeNameId": "6F8F8A71-66D4-4CD5-BF1A-B291D1D073E8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.14:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "CE62B619-82E8-495E-9F49-C7F0BB6EE175"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.15:*:*:*:*:*:*:*",
 			"cpeNameId": "4118F74B-8C61-4D98-B60D-FD338ED69D97"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.15:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "E21E7529-4F0C-40CB-BE3D-B29D970E717C"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.16:*:*:*:*:*:*:*",
 			"cpeNameId": "3C32ED20-0AFD-4061-AA75-0BCD2685CFEE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.16:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "7EB58C15-5CCD-4B98-B7FD-57DBFA999146"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.0:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "3E9C9A88-E256-4C82-8F6A-E0C30241CAF8"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.0:-:*:*:*:*:*:*",
@@ -1663,48 +1735,96 @@
 			"cpeNameId": "B56AF870-6DF2-4722-9EBD-AD17E1491E47"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.1:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "20DD7B6F-6127-450F-83FB-BD3A081A7676"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.2:*:*:*:*:*:*:*",
 			"cpeNameId": "175517DA-EF07-4DB9-951C-7C24A9B9463F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.2:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "729638EB-83A8-436D-B2E4-084CC60CFA4B"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.3:*:*:*:*:*:*:*",
 			"cpeNameId": "85B96351-443C-45B2-98B5-C5F53AFE4295"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.3:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "7BDD5169-9CB7-437B-B03F-6C4085090B81"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.4:*:*:*:*:*:*:*",
 			"cpeNameId": "2EA736FA-280B-4BE9-A27D-83D8F50B290C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.4:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "B43EEAED-3C4F-4F8A-BFCB-AD96B43C2DA4"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.5:*:*:*:*:*:*:*",
 			"cpeNameId": "66E98783-7AB7-40E2-92B7-4AC031DE22E3"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.5:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "15A88BB9-3D4E-440D-89E5-3FFF75947308"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.6:*:*:*:*:*:*:*",
 			"cpeNameId": "3E74655F-8347-4828-9412-1268A3EF5455"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.6:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "31021713-DBEF-46FE-BEA3-112636775790"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.7:*:*:*:*:*:*:*",
 			"cpeNameId": "47C01787-091D-4541-9C0C-75907721A7E0"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.7:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "ADD25DE6-B385-4DD2-AE5D-A290DA92CC02"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.8:*:*:*:*:*:*:*",
 			"cpeNameId": "0A0DBB13-0975-4490-A5A5-9302C63DD3BA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.8:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "25568991-86F4-4CF4-AF9B-5B48B272680D"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.9:*:*:*:*:*:*:*",
 			"cpeNameId": "0051EC80-44DB-4F0D-ACB2-DB1A691293F3"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.9:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "99D3EE2E-CC6D-4709-982F-DFEDF6FA264C"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.10:*:*:*:*:*:*:*",
 			"cpeNameId": "721191A4-CC64-4CCE-92CF-1E3E2719CF6D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.10:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "0AC8D720-0300-44BC-8350-4AEB3D7390E8"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.11:*:*:*:*:*:*:*",
 			"cpeNameId": "9E198271-85A1-44FA-9E3D-D800A22ED123"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.11:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "F652C86A-BE6E-4678-A3C7-68AB73BBE03F"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.12:*:*:*:*:*:*:*",
 			"cpeNameId": "98AAD6D4-0955-460C-9E7D-EEE1FA03C2DE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.12:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "92370492-AFA3-4554-AD72-9C5901AB391E"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.1:*:*:*:*:*:*:*",
@@ -1731,20 +1851,40 @@
 			"cpeNameId": "EEA284DB-DDD2-4924-8073-9CAB890DCEC2"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.3.0:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "998FCB4A-1E40-4487-B1F9-4A02F8428244"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.3.1:*:*:*:*:*:*:*",
 			"cpeNameId": "0E06CE7D-2EE0-4F25-A18F-B9910B12D11D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.3.1:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "54A2C6D5-6933-48EC-BFDD-12B398E5C515"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.3.2:*:*:*:*:*:*:*",
 			"cpeNameId": "EEA09358-B12D-440E-9011-A72F1B6393E9"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.3.2:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "BD471FA7-6340-467A-937C-3CD9AA4E9D2F"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.3.3:*:*:*:*:*:*:*",
 			"cpeNameId": "3C55CB50-FDFA-40D4-9D6D-F1A4156AD445"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.3.3:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "131342E8-6987-419C-89EC-BBB4CA146704"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.3.4:*:*:*:*:*:*:*",
 			"cpeNameId": "6A82A357-6C97-47A4-BF21-9832C8CD278D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:7.3.4:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "ECF6F9E4-38BE-42C0-B71E-9275C4DDB7C4"
 		}
 	]
 }

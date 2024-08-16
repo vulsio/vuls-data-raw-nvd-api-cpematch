@@ -4,8 +4,8 @@
 	"versionStartIncluding": "8.0.0",
 	"versionEndIncluding": "8.14.0",
 	"created": "2024-07-31T17:48:58.487",
-	"lastModified": "2024-07-31T17:48:58.487",
-	"cpeLastModified": "2024-07-31T17:48:58.487",
+	"lastModified": "2024-08-16T16:25:22.890",
+	"cpeLastModified": "2024-08-16T16:25:22.890",
 	"status": "Active",
 	"matches": [
 		{
@@ -195,6 +195,34 @@
 		{
 			"cpeName": "cpe:2.3:a:elastic:kibana:8.12.1:*:*:*:*:*:*:*",
 			"cpeNameId": "5D0F5BD2-4E37-4E71-96AD-25431C609943"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:kibana:8.12.2:*:*:*:*:*:*:*",
+			"cpeNameId": "74BFF56D-0FD9-475F-BD36-88AEEBEC054E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:kibana:8.13.0:*:*:*:*:*:*:*",
+			"cpeNameId": "FE8BB2A0-FE67-40C1-B4EA-03A5ADAD69BD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:kibana:8.13.1:*:*:*:*:*:*:*",
+			"cpeNameId": "86FACC04-8DFB-4E27-93FC-4BCB481D7748"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:kibana:8.13.2:*:*:*:*:*:*:*",
+			"cpeNameId": "D0F901D9-8B8A-4507-A379-21660AFEF83B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:kibana:8.13.3:*:*:*:*:*:*:*",
+			"cpeNameId": "C9E3A8B1-5973-446A-9140-6EA35C4521CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:kibana:8.13.4:*:*:*:*:*:*:*",
+			"cpeNameId": "0B8A3926-209D-4D7D-96EA-691223675242"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:kibana:8.14.0:*:*:*:*:*:*:*",
+			"cpeNameId": "7AAF946D-957A-46AA-B34A-E145643A2D36"
 		}
 	]
 }
