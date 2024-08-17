@@ -3,8 +3,8 @@
 	"matchCriteriaId": "12C9ABF7-3B44-4C24-B152-488DCF9E2D39",
 	"versionEndExcluding": "129.0",
 	"created": "2024-08-09T16:46:37.937",
-	"lastModified": "2024-08-09T16:46:37.937",
-	"cpeLastModified": "2024-08-09T16:46:37.937",
+	"lastModified": "2024-08-16T23:16:51.620",
+	"cpeLastModified": "2024-08-16T23:16:51.620",
 	"status": "Active",
 	"matches": [
 		{
@@ -2522,6 +2522,46 @@
 		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:122.0:*:*:*:*:*:*:*",
 			"cpeNameId": "4AEE802B-B92D-4ECF-BA14-1A79B92A77FE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:126.0:*:*:*:*:*:*:*",
+			"cpeNameId": "4EF3E28A-5B0D-450B-A9DC-74E0906B8E78"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:126.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "CEF7A8C9-DE21-4E0C-A59F-66DB6D8EF552"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:127.0:*:*:*:*:*:*:*",
+			"cpeNameId": "40D38152-ED08-4676-B184-769FB86F0331"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:127.0:*:*:*:*:iphone_os:*:*",
+			"cpeNameId": "8D96CD16-F4F3-4126-BF75-D6058BE1E130"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:127.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "639670D1-B329-4494-89D1-A241EC8363A5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:127.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "0EEF589E-CD80-4E9D-8059-DD7F0464641B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:128.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E0B8E959-7B18-4C16-BCD8-AD667800ECA2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:128.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "0B98C343-A754-4E40-8721-E6D0E74984CA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:128.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "CDDA41DC-366C-4130-BE4A-B05E2FF4E2BA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:128.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "96C1785F-A120-40E7-B265-D944C08CC2EA"
 		}
 	]
 }

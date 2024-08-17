@@ -3,8 +3,8 @@
 	"matchCriteriaId": "4B0E84F8-45FC-476D-95BF-A1543DDBDF3D",
 	"versionEndExcluding": "3.2.20",
 	"created": "2024-07-25T11:48:29.297",
-	"lastModified": "2024-07-25T11:48:29.297",
-	"cpeLastModified": "2024-07-25T11:48:29.297",
+	"lastModified": "2024-08-16T21:42:00.317",
+	"cpeLastModified": "2024-08-16T21:42:00.317",
 	"status": "Active",
 	"matches": [
 		{
@@ -494,6 +494,14 @@
 		{
 			"cpeName": "cpe:2.3:a:robogallery:robo_gallery:3.2.17:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "D455821F-8058-4F71-965D-94570092731E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:robogallery:robo_gallery:3.2.18:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4A8258CA-E8F4-4393-8156-1E8D514A8F91"
+		},
+		{
+			"cpeName": "cpe:2.3:a:robogallery:robo_gallery:3.2.19:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "600030C5-46C0-4338-AD91-F496E2FD6A69"
 		}
 	]
 }

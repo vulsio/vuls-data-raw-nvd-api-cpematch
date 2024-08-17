@@ -4,13 +4,17 @@
 	"versionStartIncluding": "16.0",
 	"versionEndExcluding": "16.2",
 	"created": "2023-11-09T12:13:45.670",
-	"lastModified": "2023-11-09T12:13:45.670",
-	"cpeLastModified": "2023-12-01T10:45:30.163",
+	"lastModified": "2024-08-16T23:25:33.377",
+	"cpeLastModified": "2024-08-16T23:25:33.377",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:16.0:*:*:*:*:*:*:*",
 			"cpeNameId": "7D23749B-3880-412F-B0D7-6883BD6E3C26"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:16.1:*:*:*:*:*:*:*",
+			"cpeNameId": "F4858C20-4A7B-4C13-AB6B-693DC734028F"
 		}
 	]
 }

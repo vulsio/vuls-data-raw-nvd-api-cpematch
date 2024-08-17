@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:pepperl-fuchs:icdm-rx\\/tcp-16db9\\/rj45-rm:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "74FA0423-B701-4FD9-AB55-0C9EEEE0A28F",
 	"created": "2024-08-13T20:42:49.907",
-	"lastModified": "2024-08-13T20:42:49.907",
-	"cpeLastModified": "2024-08-13T20:42:49.907",
-	"status": "Active"
+	"lastModified": "2024-08-16T21:37:11.580",
+	"cpeLastModified": "2024-08-16T21:37:11.580",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:pepperl-fuchs:icdm-rx\\/tcp-16db9\\/rj45-rm:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A21C1ACE-77B1-4E4F-A9B4-04F388941F1D"
+		}
+	]
 }

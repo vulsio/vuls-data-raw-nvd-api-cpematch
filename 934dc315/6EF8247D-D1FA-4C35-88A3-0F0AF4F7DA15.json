@@ -3,8 +3,8 @@
 	"matchCriteriaId": "6EF8247D-D1FA-4C35-88A3-0F0AF4F7DA15",
 	"versionEndExcluding": "7.2.5",
 	"created": "2024-08-13T17:58:12.273",
-	"lastModified": "2024-08-13T17:58:12.273",
-	"cpeLastModified": "2024-08-13T17:58:12.273",
+	"lastModified": "2024-08-16T22:57:51.323",
+	"cpeLastModified": "2024-08-16T22:57:51.323",
 	"status": "Active",
 	"matches": [
 		{
@@ -222,6 +222,22 @@
 		{
 			"cpeName": "cpe:2.3:a:couchbase:couchbase_server:7.2.0:*:*:*:*:*:*:*",
 			"cpeNameId": "5968D637-F11D-4EF5-95B0-E97763656943"
+		},
+		{
+			"cpeName": "cpe:2.3:a:couchbase:couchbase_server:7.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "71697592-B0B7-46E2-8927-20063DD2506E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:couchbase:couchbase_server:7.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "DDED5C36-ED8B-4291-BB62-3E11E1B61962"
+		},
+		{
+			"cpeName": "cpe:2.3:a:couchbase:couchbase_server:7.2.3:*:*:*:*:*:*:*",
+			"cpeNameId": "8D5FDED2-CBCA-486F-AEF9-BE8685762325"
+		},
+		{
+			"cpeName": "cpe:2.3:a:couchbase:couchbase_server:7.2.4:*:*:*:*:*:*:*",
+			"cpeNameId": "D48AB689-8FEA-4E22-8928-E772F74749A5"
 		}
 	]
 }

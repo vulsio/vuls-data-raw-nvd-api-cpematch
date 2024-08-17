@@ -3,8 +3,8 @@
 	"matchCriteriaId": "44592EFE-8D69-4B7F-B089-A612B5217199",
 	"versionEndExcluding": "13.11",
 	"created": "2024-08-13T19:55:13.053",
-	"lastModified": "2024-08-13T19:55:13.053",
-	"cpeLastModified": "2024-08-13T19:55:13.053",
+	"lastModified": "2024-08-16T23:25:33.377",
+	"cpeLastModified": "2024-08-16T23:25:33.377",
 	"status": "Active",
 	"matches": [
 		{
@@ -122,6 +122,10 @@
 		{
 			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:13.9:*:*:*:*:*:*:*",
 			"cpeNameId": "A1D7E795-A080-4A8B-BDC3-7F1DD472A47D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:13.10:*:*:*:*:*:*:*",
+			"cpeNameId": "B52EC135-46BA-4D4E-9349-E72A3E891A6E"
 		}
 	]
 }

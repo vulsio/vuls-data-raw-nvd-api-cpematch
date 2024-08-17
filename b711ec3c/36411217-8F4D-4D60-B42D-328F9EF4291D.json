@@ -4,7 +4,21 @@
 	"versionStartIncluding": "17.0",
 	"versionEndExcluding": "17.3",
 	"created": "2024-08-12T16:54:56.140",
-	"lastModified": "2024-08-12T16:54:56.140",
-	"cpeLastModified": "2024-08-12T16:54:56.140",
-	"status": "Active"
+	"lastModified": "2024-08-16T23:25:33.377",
+	"cpeLastModified": "2024-08-16T23:25:33.377",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:17.0:*:*:*:*:*:*:*",
+			"cpeNameId": "57930B78-10A9-42F9-A2E6-2BDBE2278F31"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:17.1:*:*:*:*:*:*:*",
+			"cpeNameId": "02875D6B-E26E-435B-94EA-C59DFD7490CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:17.2:*:*:*:*:*:*:*",
+			"cpeNameId": "A650F08C-5D79-4D66-8091-67F43BD5AEE5"
+		}
+	]
 }

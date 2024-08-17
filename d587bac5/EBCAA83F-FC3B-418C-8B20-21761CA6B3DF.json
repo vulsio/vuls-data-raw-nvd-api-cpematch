@@ -4,8 +4,8 @@
 	"versionStartIncluding": "17.6.0",
 	"versionEndIncluding": "17.6.17",
 	"created": "2024-07-17T14:56:46.360",
-	"lastModified": "2024-07-17T14:56:46.360",
-	"cpeLastModified": "2024-07-17T14:56:46.360",
+	"lastModified": "2024-08-16T23:09:58.187",
+	"cpeLastModified": "2024-08-16T23:09:58.187",
 	"status": "Active",
 	"matches": [
 		{
@@ -43,6 +43,10 @@
 		{
 			"cpeName": "cpe:2.3:a:microsoft:visual_studio_2022:17.6.11:*:*:*:*:*:*:*",
 			"cpeNameId": "711D8F42-5B2B-4570-8E25-3E3650835A48"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:visual_studio_2022:17.6.17:*:*:*:*:*:*:*",
+			"cpeNameId": "8A27F45A-C25D-4B98-AF7A-D1F8157D32AF"
 		}
 	]
 }

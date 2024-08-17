@@ -3,8 +3,8 @@
 	"matchCriteriaId": "6907E2B7-9C1A-4964-A6D3-CF16E376B91E",
 	"versionEndExcluding": "17.2",
 	"created": "2024-08-15T22:02:22.997",
-	"lastModified": "2024-08-15T22:02:22.997",
-	"cpeLastModified": "2024-08-15T22:02:22.997",
+	"lastModified": "2024-08-16T23:25:33.377",
+	"cpeLastModified": "2024-08-16T23:25:33.377",
 	"status": "Active",
 	"matches": [
 		{
@@ -124,8 +124,32 @@
 			"cpeNameId": "A1D7E795-A080-4A8B-BDC3-7F1DD472A47D"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:13.10:*:*:*:*:*:*:*",
+			"cpeNameId": "B52EC135-46BA-4D4E-9349-E72A3E891A6E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:13.11:*:*:*:*:*:*:*",
+			"cpeNameId": "B5FB0B03-7C98-45BF-BA5E-E0C47F3A5124"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:13.12:*:*:*:*:*:*:*",
+			"cpeNameId": "F928B3D8-A4C5-4276-B002-F6ECF4A41798"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:14.0:*:*:*:*:*:*:*",
+			"cpeNameId": "2E01D9D0-748E-4715-99AD-5A13B402B84B"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:14.1:*:*:*:*:*:*:*",
 			"cpeNameId": "3E7410D0-5A47-45D4-B0DD-D8F78F858567"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:14.2:*:*:*:*:*:*:*",
+			"cpeNameId": "E3A7B6F6-5346-496F-9135-C3CA22F9F3A8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:14.3:*:*:*:*:*:*:*",
+			"cpeNameId": "148A9BDE-7227-4ACD-825F-D9C5CADE8E28"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:14.4:*:*:*:*:*:*:*",
@@ -144,6 +168,10 @@
 			"cpeNameId": "9DA62EE1-12EC-4FD2-91BF-47E6F9719EDE"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:15.3:*:*:*:*:*:*:*",
+			"cpeNameId": "10DD6BB4-3B55-4AD2-9AE4-B1EB4B25CDAA"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:15.4:*:*:*:*:*:*:*",
 			"cpeNameId": "F9871B5A-8A59-4F2A-8943-C9F67524F01F"
 		},
@@ -152,8 +180,40 @@
 			"cpeNameId": "7D23749B-3880-412F-B0D7-6883BD6E3C26"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:16.1:*:*:*:*:*:*:*",
+			"cpeNameId": "F4858C20-4A7B-4C13-AB6B-693DC734028F"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:16.2:*:*:*:*:*:*:*",
 			"cpeNameId": "CCD952BF-9CDB-4C09-986A-48628F21A6C1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:16.3:*:*:*:*:*:*:*",
+			"cpeNameId": "B9656977-8CDB-431C-BAF0-A4F7BB7E7E61"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:16.4:*:*:*:*:*:*:*",
+			"cpeNameId": "D826731C-ABD8-470C-8BEF-A65503DC9F28"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:16.5:*:*:*:*:*:*:*",
+			"cpeNameId": "EAE9D65B-D242-4F83-A848-EDEB2307C051"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:16.6:*:*:*:*:*:*:*",
+			"cpeNameId": "80E15B39-9198-425D-AB4B-8FFD14CFB5B2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:16.7:*:*:*:*:*:*:*",
+			"cpeNameId": "52A9386B-FD87-4F72-AD99-B315207DB4AD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:17.0:*:*:*:*:*:*:*",
+			"cpeNameId": "57930B78-10A9-42F9-A2E6-2BDBE2278F31"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nvidia:virtual_gpu:17.1:*:*:*:*:*:*:*",
+			"cpeNameId": "02875D6B-E26E-435B-94EA-C59DFD7490CF"
 		}
 	]
 }
