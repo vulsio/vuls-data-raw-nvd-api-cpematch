@@ -4,8 +4,8 @@
 	"versionStartIncluding": "15.008.20082",
 	"versionEndExcluding": "24.002.21005",
 	"created": "2024-08-15T17:09:28.023",
-	"lastModified": "2024-08-15T17:09:28.023",
-	"cpeLastModified": "2024-08-15T17:09:28.023",
+	"lastModified": "2024-08-19T13:36:53.300",
+	"cpeLastModified": "2024-08-19T13:36:53.300",
 	"status": "Active",
 	"matches": [
 		{
@@ -291,6 +291,14 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat_dc:23.006.20320:*:*:*:continuous:*:*:*",
 			"cpeNameId": "59F473E8-EFFA-4FE5-9A28-329959331CA0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_dc:24.002.20964:*:*:*:continuous:*:*:*",
+			"cpeNameId": "A601FBA5-A1C3-4B87-9F09-36FF07D92345"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_dc:24.002.20991:*:*:*:continuous:*:*:*",
+			"cpeNameId": "C4F6062F-725A-4294-8B11-916ADAB9F615"
 		}
 	]
 }

@@ -4,7 +4,7 @@
 	"versionEndIncluding": "21.8.0",
 	"created": "2021-10-18T17:28:59.507",
 	"lastModified": "2021-10-18T17:28:59.507",
-	"cpeLastModified": "2023-09-16T02:30:47.320",
+	"cpeLastModified": "2024-08-19T13:36:53.300",
 	"status": "Active",
 	"matches": [
 		{
@@ -802,6 +802,18 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat_reader:20.005.30524:*:*:*:classic:*:*:*",
 			"cpeNameId": "F6E4F21E-40EC-4424-8680-8FE99A3F31FA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader:20.005.30635:*:*:*:classic:*:*:*",
+			"cpeNameId": "416C50E2-C8DC-4CEE-AAB0-AAF52C903DB1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader:20.005.30636:*:*:*:classic:*:*:*",
+			"cpeNameId": "59B31433-529F-4AEB-BEAE-1590D8B21181"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader:20.005.30655:*:*:*:classic:*:*:*",
+			"cpeNameId": "CC68B1D9-3EF5-461A-A5DA-1BDDC7314324"
 		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat_reader:20.6.0:*:*:*:*:android:*:*",

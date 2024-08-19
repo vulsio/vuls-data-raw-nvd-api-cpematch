@@ -5,6 +5,16 @@
 	"versionEndIncluding": "9.4.1",
 	"created": "2024-07-25T12:25:40.443",
 	"lastModified": "2024-07-25T13:44:47.877",
-	"cpeLastModified": "2024-07-25T13:44:47.877",
-	"status": "Active"
+	"cpeLastModified": "2024-08-19T14:05:03.950",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E1E0C2D9-995E-46A8-ABCE-DAA1C0F887A9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.4.1:*:*:*:*:*:*:*",
+			"cpeNameId": "E28ED0F6-66E9-4C6A-A64C-27C1E09A6D95"
+		}
+	]
 }
