@@ -3,10 +3,14 @@
 	"matchCriteriaId": "2F6D2B5E-EF53-400A-B22A-2EF69081D007",
 	"versionEndExcluding": "5.0.0",
 	"created": "2024-08-03T14:21:26.193",
-	"lastModified": "2024-08-03T14:21:26.193",
-	"cpeLastModified": "2024-08-03T14:21:26.193",
+	"lastModified": "2024-08-20T11:41:51.010",
+	"cpeLastModified": "2024-08-20T11:41:51.010",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:biscuitsec:biscuit-auth:-:*:*:*:*:rust:*:*",
+			"cpeNameId": "1A14A806-16BE-439E-A8EA-EB89E42758D1"
+		},
 		{
 			"cpeName": "cpe:2.3:a:biscuitsec:biscuit-auth:0.1.0:*:*:*:*:rust:*:*",
 			"cpeNameId": "979BA3E0-CC27-4DD1-B4EF-A16F02C38B3B"
@@ -122,6 +126,46 @@
 		{
 			"cpeName": "cpe:2.3:a:biscuitsec:biscuit-auth:2.2.0:*:*:*:*:rust:*:*",
 			"cpeNameId": "4C0B0C3C-D333-4DDD-8690-85909B3C1E90"
+		},
+		{
+			"cpeName": "cpe:2.3:a:biscuitsec:biscuit-auth:3.0.0:-:*:*:*:rust:*:*",
+			"cpeNameId": "6C0CD87A-F93B-4BFC-8F24-FA4BBA84DC68"
+		},
+		{
+			"cpeName": "cpe:2.3:a:biscuitsec:biscuit-auth:3.0.0:alpha1:*:*:*:rust:*:*",
+			"cpeNameId": "08D363CE-C505-42EE-83A9-CFB5ED910899"
+		},
+		{
+			"cpeName": "cpe:2.3:a:biscuitsec:biscuit-auth:3.0.0:alpha2:*:*:*:rust:*:*",
+			"cpeNameId": "4A0FFF77-6CD1-409C-B2A2-A5E4424CAE51"
+		},
+		{
+			"cpeName": "cpe:2.3:a:biscuitsec:biscuit-auth:3.0.0:alpha3:*:*:*:rust:*:*",
+			"cpeNameId": "871803FD-269C-4EDE-BEDC-5ABD0ADFFE9D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:biscuitsec:biscuit-auth:3.0.0:alpha4:*:*:*:rust:*:*",
+			"cpeNameId": "1E46DB6F-55CD-455D-8365-C7090083B900"
+		},
+		{
+			"cpeName": "cpe:2.3:a:biscuitsec:biscuit-auth:3.1.0:*:*:*:*:rust:*:*",
+			"cpeNameId": "50F1EB71-B9F5-4BF4-9845-21B424BC013E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:biscuitsec:biscuit-auth:3.2.0:*:*:*:*:rust:*:*",
+			"cpeNameId": "AD61BFC5-53B9-4860-AD14-636748B674ED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:biscuitsec:biscuit-auth:4.0.0:*:*:*:*:rust:*:*",
+			"cpeNameId": "0381785F-DDE6-4FBD-8D0F-35478CAABD8F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:biscuitsec:biscuit-auth:4.1.0:*:*:*:*:rust:*:*",
+			"cpeNameId": "F2D589B1-3B9C-492E-95B3-02A5157E39E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:biscuitsec:biscuit-auth:4.1.1:*:*:*:*:rust:*:*",
+			"cpeNameId": "B265DF45-0C11-4228-9072-FFA03C4D8481"
 		}
 	]
 }

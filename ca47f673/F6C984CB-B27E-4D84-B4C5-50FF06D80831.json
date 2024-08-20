@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:cayintech:cms-se:11.0:p20821:*:*:*:*:*:*",
 	"matchCriteriaId": "F6C984CB-B27E-4D84-B4C5-50FF06D80831",
 	"created": "2024-08-14T22:37:58.067",
-	"lastModified": "2024-08-14T22:37:58.067",
-	"cpeLastModified": "2024-08-14T22:37:58.067",
-	"status": "Active"
+	"lastModified": "2024-08-20T11:54:56.060",
+	"cpeLastModified": "2024-08-20T11:54:56.060",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cayintech:cms-se:11.0:p20821:*:*:*:*:*:*",
+			"cpeNameId": "EA081857-DFBE-4E66-8B99-B4EF005D4F06"
+		}
+	]
 }

@@ -4,9 +4,13 @@
 	"versionEndExcluding": "8.2",
 	"created": "2022-04-21T13:23:27.890",
 	"lastModified": "2022-07-30T02:46:11.523",
-	"cpeLastModified": "2022-07-30T02:46:56.443",
+	"cpeLastModified": "2024-08-20T12:10:54.650",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:frrouting:frrouting:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0809E5FF-515C-44FC-8D8F-323800A574F9"
+		},
 		{
 			"cpeName": "cpe:2.3:a:frrouting:frrouting:2.0:-:*:*:*:*:*:*",
 			"cpeNameId": "7171B58A-1526-469E-89BA-CE18C4039D00"
