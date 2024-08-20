@@ -5,7 +5,7 @@
 	"versionEndExcluding": "4.3.16",
 	"created": "2023-07-13T17:40:16.843",
 	"lastModified": "2024-08-02T16:21:29.180",
-	"cpeLastModified": "2023-12-27T14:54:18.123",
+	"cpeLastModified": "2024-08-20T14:58:52.787",
 	"status": "Active",
 	"matches": [
 		{
@@ -27,6 +27,18 @@
 		{
 			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:2.7.4:*:*:*:*:*:*:*",
 			"cpeNameId": "26A96493-6A8F-454D-9951-23244A5CA680"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:2.7.7:*:*:*:*:*:*:*",
+			"cpeNameId": "E8C67F05-21B1-4E23-A6F7-767DB5DD6EBF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:2.7.8:*:*:*:*:*:*:*",
+			"cpeNameId": "2ADFB368-934A-4B57-9CB5-EFD8E68A02CD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:2.7.9:*:*:*:*:*:*:*",
+			"cpeNameId": "EE3C6C8A-C928-4D55-B28B-15DE7F61074B"
 		},
 		{
 			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:2.7.10:*:*:*:*:*:*:*",
@@ -75,6 +87,10 @@
 		{
 			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:2.15.0:*:*:*:*:*:*:*",
 			"cpeNameId": "36C0071E-FD26-49DB-9EDE-1B4E4D34D81E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:2.16.0:*:*:*:*:*:*:*",
+			"cpeNameId": "7A32DD7E-AA34-461A-BEBA-5DC5CE1F8527"
 		},
 		{
 			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:3.0.0:*:*:*:*:*:*:*",
@@ -177,6 +193,38 @@
 			"cpeNameId": "80BABA79-B845-4161-BEF4-0C546520F80E"
 		},
 		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:3.7.16:*:*:*:*:*:*:*",
+			"cpeNameId": "40F6AEAD-466D-4810-A77F-483C9A0D50CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:3.7.17:*:*:*:*:*:*:*",
+			"cpeNameId": "84D86A02-C9D0-4217-B959-08232213FD6A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:3.7.20:*:*:*:*:*:*:*",
+			"cpeNameId": "1AAAA61B-6D0C-4A56-AF73-E4FC2D26EA11"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:3.7.21:*:*:*:*:*:*:*",
+			"cpeNameId": "962E083A-76E3-4F94-A0C1-9595DD85A496"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:3.7.24:*:*:*:*:*:*:*",
+			"cpeNameId": "8C4A012E-61AD-4A80-A43C-2BD4EA4F200D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:3.7.25:*:*:*:*:*:*:*",
+			"cpeNameId": "D1C7A977-CDE3-4E60-B658-CD8844425B87"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:3.7.29:*:*:*:*:*:*:*",
+			"cpeNameId": "AC7D4A12-07F0-407C-AAD9-CBE595F13C9F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:3.7.30:*:*:*:*:*:*:*",
+			"cpeNameId": "9FF2C219-7855-490D-8755-0009731C5BB1"
+		},
+		{
 			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:3.7.33:*:*:*:*:*:*:*",
 			"cpeNameId": "50066ED5-A851-46BC-BA20-D815623AAC3E"
 		},
@@ -215,6 +263,38 @@
 		{
 			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:3.11.1:*:*:*:*:*:*:*",
 			"cpeNameId": "FB4B4120-8A3F-448D-8AC2-4C8B86C76855"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:3.11.4:*:*:*:*:*:*:*",
+			"cpeNameId": "765D3EEE-208E-4900-9B5C-705DC41B29E8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:3.11.5:*:*:*:*:*:*:*",
+			"cpeNameId": "55093493-52E4-4F08-91E8-74251597A082"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:3.11.8:*:*:*:*:*:*:*",
+			"cpeNameId": "F337C911-7EC8-4AF2-8DD2-9CA03EF26003"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:3.11.9:*:*:*:*:*:*:*",
+			"cpeNameId": "CDB7DE98-5A54-437E-BEFC-4CEE9CF66CD7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:3.11.12:*:*:*:*:*:*:*",
+			"cpeNameId": "A141939B-D3D8-4019-8FE4-6411641BD67D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:3.11.13:*:*:*:*:*:*:*",
+			"cpeNameId": "98C1ABD2-1AC8-4987-A465-F1CE8F2148FA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:3.11.17:*:*:*:*:*:*:*",
+			"cpeNameId": "9B2110E4-BC99-4879-B6C2-F93897EB3B86"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:3.11.18:*:*:*:*:*:*:*",
+			"cpeNameId": "D588D2EB-4A1A-4ED2-8674-CF230A206F84"
 		},
 		{
 			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:3.11.19:*:*:*:*:*:*:*",
@@ -257,12 +337,104 @@
 			"cpeNameId": "69868FED-C5F8-42BF-AA62-B4D67D169A46"
 		},
 		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.1.4:*:*:*:*:*:*:*",
+			"cpeNameId": "9CBCED92-E67A-458E-B389-AC717E6AD2BA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.1.5:*:*:*:*:*:*:*",
+			"cpeNameId": "C9035F3A-21B2-4C80-B68D-FB9A25AC17C6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C919FA13-7831-4993-B4E9-8896A3981356"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "27CC23FE-8322-4C3E-A2A7-A0E60B563E85"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "2A039839-8638-427A-A437-01B3055E8870"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.2.3:*:*:*:*:*:*:*",
+			"cpeNameId": "37BFC3C3-1D1A-49DE-84FC-A644CADB19AA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.2.9:*:*:*:*:*:*:*",
+			"cpeNameId": "822E8AAD-976B-4DD4-8F56-15EF15FEEF19"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.2.10:*:*:*:*:*:*:*",
+			"cpeNameId": "19BF021A-8436-41B8-B672-3A69102FEF57"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.2.11:*:*:*:*:*:*:*",
+			"cpeNameId": "0C8EBBEF-9BBB-4B7D-AE06-47EA91EB964B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.2.12:*:*:*:*:*:*:*",
+			"cpeNameId": "C483F850-CE39-4EBD-9D02-A8BA32EACDA0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.2.13:*:*:*:*:*:*:*",
+			"cpeNameId": "C4AFA78A-C738-4A85-9701-93E05940FA1C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.2.14:*:*:*:*:*:*:*",
+			"cpeNameId": "ACC25C42-2AD7-4B6A-B57E-9FFF4548AFA6"
+		},
+		{
 			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.3.0:*:*:*:*:*:*:*",
 			"cpeNameId": "4CD0949C-4769-482B-9728-BE84DA1713C6"
 		},
 		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.3.3:*:*:*:*:*:*:*",
+			"cpeNameId": "98BF38A6-4794-4CAB-9263-5D6F134123A7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.3.4:*:*:*:*:*:*:*",
+			"cpeNameId": "6B354996-7AC2-496C-A54F-DC1880297708"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.3.5:*:*:*:*:*:*:*",
+			"cpeNameId": "43A293D5-C475-4E8D-9769-A27AC00AAF43"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.3.6:*:*:*:*:*:*:*",
+			"cpeNameId": "F571D839-A57F-43B5-8BDD-5900685F6401"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.3.7:*:*:*:*:*:*:*",
+			"cpeNameId": "0DFDD8F6-465B-4A35-ADB4-6B4BA37654AE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.3.8:*:*:*:*:*:*:*",
+			"cpeNameId": "0C614724-B41B-449B-A061-B289CE354D1B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.3.9:*:*:*:*:*:*:*",
+			"cpeNameId": "2E13D7B2-DA18-41AE-BB8B-FA0F64392798"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.3.10:*:*:*:*:*:*:*",
+			"cpeNameId": "01B5AFDD-33EA-4793-98B3-687634BABFF6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.3.11:*:*:*:*:*:*:*",
+			"cpeNameId": "D8B90250-AADF-4B27-8559-3DF76F5D599F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.3.12:*:*:*:*:*:*:*",
+			"cpeNameId": "80600F8E-9FE0-40EA-870F-ECEA63B28EB3"
+		},
+		{
 			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.3.12.1:*:*:*:*:*:*:*",
 			"cpeNameId": "02E52AC3-0092-4159-9C6D-337CF4954580"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.3.13:*:*:*:*:*:*:*",
+			"cpeNameId": "A45892BC-8F54-4564-B04E-38BFF0CBA555"
 		},
 		{
 			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.3.14:*:*:*:*:*:*:*",

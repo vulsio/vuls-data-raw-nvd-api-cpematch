@@ -5,7 +5,7 @@
 	"versionEndIncluding": "2.13.0",
 	"created": "2019-07-08T11:59:00.533",
 	"lastModified": "2019-07-08T11:59:00.533",
-	"cpeLastModified": "2023-07-14T17:04:05.133",
+	"cpeLastModified": "2024-08-20T14:58:52.787",
 	"status": "Active",
 	"matches": [
 		{
@@ -123,6 +123,18 @@
 		{
 			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:2.7.4:*:*:*:*:*:*:*",
 			"cpeNameId": "26A96493-6A8F-454D-9951-23244A5CA680"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:2.7.7:*:*:*:*:*:*:*",
+			"cpeNameId": "E8C67F05-21B1-4E23-A6F7-767DB5DD6EBF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:2.7.8:*:*:*:*:*:*:*",
+			"cpeNameId": "2ADFB368-934A-4B57-9CB5-EFD8E68A02CD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:2.7.9:*:*:*:*:*:*:*",
+			"cpeNameId": "EE3C6C8A-C928-4D55-B28B-15DE7F61074B"
 		},
 		{
 			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:2.7.10:*:*:*:*:*:*:*",

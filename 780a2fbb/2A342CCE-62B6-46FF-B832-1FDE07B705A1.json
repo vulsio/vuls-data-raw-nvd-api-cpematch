@@ -4,9 +4,13 @@
 	"versionEndExcluding": "3.3.0",
 	"created": "2022-10-04T13:41:54.643",
 	"lastModified": "2022-10-04T13:41:54.643",
-	"cpeLastModified": "2022-10-04T13:41:54.643",
+	"cpeLastModified": "2024-08-20T12:18:57.550",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:desktop:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7512388F-08B7-4C01-AC31-349FB6BE600E"
+		},
 		{
 			"cpeName": "cpe:2.3:a:nextcloud:desktop:0.0.2:*:*:*:*:*:*:*",
 			"cpeNameId": "78086182-CA35-4DD4-8751-28F0E0B9C9A9"

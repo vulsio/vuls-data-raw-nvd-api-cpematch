@@ -3,10 +3,14 @@
 	"matchCriteriaId": "245A525A-2096-44AD-BBAD-412732856CE9",
 	"versionEndExcluding": "3.12.0",
 	"created": "2024-08-19T16:09:28.090",
-	"lastModified": "2024-08-19T16:09:28.090",
-	"cpeLastModified": "2024-08-19T16:09:28.090",
+	"lastModified": "2024-08-20T12:18:57.550",
+	"cpeLastModified": "2024-08-20T12:18:57.550",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:desktop:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7512388F-08B7-4C01-AC31-349FB6BE600E"
+		},
 		{
 			"cpeName": "cpe:2.3:a:nextcloud:desktop:0.0.2:*:*:*:*:*:*:*",
 			"cpeNameId": "78086182-CA35-4DD4-8751-28F0E0B9C9A9"
