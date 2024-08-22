@@ -4,8 +4,8 @@
 	"versionStartIncluding": "3.7.0",
 	"versionEndExcluding": "3.10.16",
 	"created": "2024-07-16T21:00:02.850",
-	"lastModified": "2024-07-16T21:00:02.850",
-	"cpeLastModified": "2024-07-16T21:00:02.850",
+	"lastModified": "2024-08-22T14:54:55.077",
+	"cpeLastModified": "2024-08-22T14:54:55.077",
 	"status": "Active",
 	"matches": [
 		{
@@ -539,6 +539,10 @@
 		{
 			"cpeName": "cpe:2.3:a:joomla:joomla\\!:3.10.14:*:*:*:*:*:*:*",
 			"cpeNameId": "CBE2BCE7-53CD-45A6-923D-4B4D0553128B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:joomla:joomla\\!:3.10.15:*:*:*:*:*:*:*",
+			"cpeNameId": "5CA834EB-20E0-426F-A510-DBC6A9F2A748"
 		}
 	]
 }

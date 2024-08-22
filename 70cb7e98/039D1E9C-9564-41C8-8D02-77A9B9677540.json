@@ -4,8 +4,8 @@
 	"versionStartIncluding": "4.0.0",
 	"versionEndExcluding": "4.4.6",
 	"created": "2024-07-16T20:58:48.480",
-	"lastModified": "2024-07-16T20:58:48.480",
-	"cpeLastModified": "2024-07-16T20:58:48.480",
+	"lastModified": "2024-08-22T14:54:55.077",
+	"cpeLastModified": "2024-08-22T14:54:55.077",
 	"status": "Active",
 	"matches": [
 		{
@@ -119,6 +119,22 @@
 		{
 			"cpeName": "cpe:2.3:a:joomla:joomla\\!:4.4.1:*:*:*:*:*:*:*",
 			"cpeNameId": "C2861C91-C2FB-4AD1-A28A-D0CE5B9905CB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:joomla:joomla\\!:4.4.2:*:*:*:*:*:*:*",
+			"cpeNameId": "47A6DD4D-C1CB-4390-A995-3AEEDAF1D430"
+		},
+		{
+			"cpeName": "cpe:2.3:a:joomla:joomla\\!:4.4.3:*:*:*:*:*:*:*",
+			"cpeNameId": "FDAD6890-AF0D-45B5-9368-A2EAF3D7CA42"
+		},
+		{
+			"cpeName": "cpe:2.3:a:joomla:joomla\\!:4.4.4:*:*:*:*:*:*:*",
+			"cpeNameId": "C397DF00-BDA8-4E10-99EF-A8F484478AC2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:joomla:joomla\\!:4.4.5:*:*:*:*:*:*:*",
+			"cpeNameId": "FD25A4C6-658D-42A8-91FA-89823C431D9D"
 		}
 	]
 }
