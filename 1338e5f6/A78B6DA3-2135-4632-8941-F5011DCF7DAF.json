@@ -3,10 +3,14 @@
 	"matchCriteriaId": "A78B6DA3-2135-4632-8941-F5011DCF7DAF",
 	"versionEndIncluding": "3.4.0-6",
 	"created": "2024-08-20T14:54:15.610",
-	"lastModified": "2024-08-20T14:54:15.610",
-	"cpeLastModified": "2024-08-20T14:54:15.610",
+	"lastModified": "2024-08-26T16:17:34.170",
+	"cpeLastModified": "2024-08-26T16:17:34.170",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:-:*:*:*:*:*:*:*",
+			"cpeNameId": "04D710EC-5AF8-40BE-AE72-D05824BC0AB8"
+		},
 		{
 			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "0A49A639-A8A4-46C1-B402-D9E4E7CE869A"
@@ -230,6 +234,142 @@
 		{
 			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.1.1-2:*:*:*:*:*:*:*",
 			"cpeNameId": "AA933A13-EC71-48B0-A83E-114E29901A4C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.1.1-4:*:*:*:*:*:*:*",
+			"cpeNameId": "334AFB02-8C9C-4D0A-84C7-8F2EBA4525B3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "190404EF-7AB0-4D2D-B938-086B64699A2E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.1.2-1:*:*:*:*:*:*:*",
+			"cpeNameId": "58DAD82E-2E39-4E5D-B5F1-A1A98D4E017E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.1.2-2:*:*:*:*:*:*:*",
+			"cpeNameId": "5E49504C-39E6-42B9-B74C-A9CB8BAAC235"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.1.2-3:*:*:*:*:*:*:*",
+			"cpeNameId": "847C5DB7-34D1-4077-B9C8-64D843755708"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.1.2-4:*:*:*:*:*:*:*",
+			"cpeNameId": "343D8754-C360-4511-9CAD-0432136A9CBD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "DE5D7E50-D824-469E-866E-15115F20A5FE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.2.0-1:*:*:*:*:*:*:*",
+			"cpeNameId": "734E38D6-56FD-41D0-B350-91F9174CF8C7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.2.0-2:*:*:*:*:*:*:*",
+			"cpeNameId": "D254A0F0-57A8-4016-A34D-FF8362BBC36F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.2.0-3:*:*:*:*:*:*:*",
+			"cpeNameId": "A16C486B-525B-4CA1-A134-F4252DE37E45"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.2.0-4:*:*:*:*:*:*:*",
+			"cpeNameId": "D4816A74-8750-425F-9095-BB9D7EA75960"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "88FBB4BE-3A11-40ED-BC24-1E5E86C53C53"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.2.1-1:*:*:*:*:*:*:*",
+			"cpeNameId": "899CB8CF-C99F-4FD3-B349-15318A0B40AF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.2.1-2:*:*:*:*:*:*:*",
+			"cpeNameId": "FC4A4370-4030-4E06-9855-59F6EECD71A1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.2.1-3:*:*:*:*:*:*:*",
+			"cpeNameId": "35910881-1664-4112-8568-D936AC3367E2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.2.1-4:*:*:*:*:*:*:*",
+			"cpeNameId": "81C53F66-F821-458A-87FE-246B6FA73BDC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.2.1-5:*:*:*:*:*:*:*",
+			"cpeNameId": "53530CE9-1F3E-4263-82F4-A4DD32B50B78"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.3.0-0:*:*:*:*:*:*:*",
+			"cpeNameId": "BF2B01F9-9980-453D-A292-4D82A4EDB0AD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.3.0-1:*:*:*:*:*:*:*",
+			"cpeNameId": "BE5AEB33-0A01-4720-94FA-8319990D6447"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.3.0-2:*:*:*:*:*:*:*",
+			"cpeNameId": "88D188D3-73CB-4E2B-925D-3B8016645541"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.3.0-3:*:*:*:*:*:*:*",
+			"cpeNameId": "374CBD4F-647D-4F82-B04D-DF77CD598AC2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.3.0-4:*:*:*:*:*:*:*",
+			"cpeNameId": "93EF0BDA-F50D-4712-8085-7AEA8F940F67"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.3.0-5:*:*:*:*:*:*:*",
+			"cpeNameId": "8190F136-3A10-4178-BE79-9241BA55B601"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.3.0-6:*:*:*:*:*:*:*",
+			"cpeNameId": "CF7EFA00-854A-4A64-9BD2-DC31BBAEB4F3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.3.0-7:*:*:*:*:*:*:*",
+			"cpeNameId": "8C4C60FB-EC4A-4BAF-835C-1640CC4EF840"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.3.0-8:*:*:*:*:*:*:*",
+			"cpeNameId": "EBEA33E2-7ACA-433A-AC84-5D38095A8AB7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.3.0-9:*:*:*:*:*:*:*",
+			"cpeNameId": "8C983440-9C2D-46A9-B3C5-1F6AC18494F1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.4.0-0:*:*:*:*:*:*:*",
+			"cpeNameId": "323E3A4D-9406-449A-9FFD-B840B0CE3B10"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.4.0-1:*:*:*:*:*:*:*",
+			"cpeNameId": "3CEAB079-A676-4810-9C49-6FA14BAF49E8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.4.0-2:*:*:*:*:*:*:*",
+			"cpeNameId": "2DA8B3CC-1B82-4954-A7F2-B6E177A94AB3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.4.0-3:*:*:*:*:*:*:*",
+			"cpeNameId": "EDB5674D-1C37-414F-86BC-704BAA3E2B0C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.4.0-4:*:*:*:*:*:*:*",
+			"cpeNameId": "56840A16-F992-4DFA-9469-B1E579CD6F59"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.4.0-5:*:*:*:*:*:*:*",
+			"cpeNameId": "B2052CA8-ECB2-4109-ACA8-C69B0B86EDB8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:public_knowledge_project:open_journal_systems:3.4.0-6:*:*:*:*:*:*:*",
+			"cpeNameId": "D30BDF3D-A335-401E-B047-FE5F637DB088"
 		}
 	]
 }
