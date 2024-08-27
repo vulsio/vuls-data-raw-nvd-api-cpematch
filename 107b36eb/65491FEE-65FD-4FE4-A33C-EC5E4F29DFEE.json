@@ -5,7 +5,7 @@
 	"versionEndExcluding": "17.06",
 	"created": "2024-08-08T14:01:49.140",
 	"lastModified": "2024-08-08T14:01:49.140",
-	"cpeLastModified": "2024-08-08T17:28:23.033",
+	"cpeLastModified": "2024-08-27T18:04:02.143",
 	"status": "Active",
 	"matches": [
 		{
@@ -10245,6 +10245,10 @@
 			"cpeNameId": "9536FB87-D44F-4612-8682-A7E506BE8956"
 		},
 		{
+			"cpeName": "cpe:2.3:a:gitlab:gitlab:17.1.6:*:*:*:*:*:*:*",
+			"cpeNameId": "C0CAE4D1-70F6-4149-B784-1D6C99FE8BE4"
+		},
+		{
 			"cpeName": "cpe:2.3:a:gitlab:gitlab:17.2.0:*:*:*:*:*:*:*",
 			"cpeNameId": "111A4C8C-07BF-4603-9603-6201B0B4162B"
 		},
@@ -10255,6 +10259,18 @@
 		{
 			"cpeName": "cpe:2.3:a:gitlab:gitlab:17.2.2:*:*:*:*:*:*:*",
 			"cpeNameId": "DF960D53-5729-42B2-99D6-38C12A8966B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gitlab:gitlab:17.2.4:*:*:*:*:*:*:*",
+			"cpeNameId": "32E7CE9D-951F-4228-868B-345C3611D9F5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gitlab:gitlab:17.3:*:*:*:*:*:*:*",
+			"cpeNameId": "57342B45-AF3D-4133-AF79-316E6C936E3C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gitlab:gitlab:17.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "2DF57583-A886-4433-A797-A82DA43C8A51"
 		}
 	]
 }

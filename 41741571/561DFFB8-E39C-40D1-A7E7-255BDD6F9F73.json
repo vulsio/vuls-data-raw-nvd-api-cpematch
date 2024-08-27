@@ -3,7 +3,7 @@
 	"matchCriteriaId": "561DFFB8-E39C-40D1-A7E7-255BDD6F9F73",
 	"created": "2024-08-13T19:25:32.647",
 	"lastModified": "2024-08-13T19:25:32.647",
-	"cpeLastModified": "2024-08-13T19:25:32.647",
+	"cpeLastModified": "2024-08-27T17:45:12.037",
 	"status": "Active",
 	"matches": [
 		{
@@ -53,6 +53,10 @@
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiddos-f:6.4.1:*:*:*:*:*:*:*",
 			"cpeNameId": "A47B3259-D2FE-4D3C-BC69-1314CAB966FD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiddos-f:6.4.2:*:*:*:*:*:*:*",
+			"cpeNameId": "04CBA890-40AC-4F9D-821F-ADED8BBCF9A9"
 		},
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiddos-f:6.5.0:*:*:*:*:*:*:*",

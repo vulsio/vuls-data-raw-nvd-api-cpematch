@@ -3,8 +3,8 @@
 	"matchCriteriaId": "375207D3-4659-4EEA-8EA1-AEBE6113C73E",
 	"versionEndIncluding": "2023-09-22",
 	"created": "2024-07-08T11:54:47.513",
-	"lastModified": "2024-07-08T11:54:47.513",
-	"cpeLastModified": "2024-07-08T11:54:47.513",
+	"lastModified": "2024-08-27T16:52:25.607",
+	"cpeLastModified": "2024-08-27T16:52:25.607",
 	"status": "Active",
 	"matches": [
 		{
@@ -22,6 +22,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dlink:dar-7000_firmware:2015-12-31:*:*:*:*:*:*:*",
 			"cpeNameId": "80C39863-A4D7-4F21-B80A-89AD50AAACAE"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dlink:dar-7000_firmware:2023-09-22:*:*:*:*:*:*:*",
+			"cpeNameId": "D9556B1A-2254-49FB-8BFC-F89F733F2F00"
 		}
 	]
 }

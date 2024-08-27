@@ -5,7 +5,7 @@
 	"versionEndIncluding": "3.10.0",
 	"created": "2023-08-25T17:03:32.693",
 	"lastModified": "2023-08-25T17:03:32.693",
-	"cpeLastModified": "2023-12-08T17:03:31.300",
+	"cpeLastModified": "2024-08-27T14:22:20.177",
 	"status": "Active",
 	"matches": [
 		{
@@ -897,6 +897,10 @@
 			"cpeNameId": "7C9EFBA7-B24F-4722-960D-08A031C275FD"
 		},
 		{
+			"cpeName": "cpe:2.3:a:python:python:3.8.19:*:*:*:*:*:*:*",
+			"cpeNameId": "B80FDE7E-56BD-43C2-AB92-EBCDAD1DAEFA"
+		},
+		{
 			"cpeName": "cpe:2.3:a:python:python:3.9:*:*:*:*:*:*:*",
 			"cpeNameId": "72D2B99D-1E9C-4D2B-A9E0-DBCE557147B8"
 		},
@@ -1043,6 +1047,10 @@
 		{
 			"cpeName": "cpe:2.3:a:python:python:3.9.18:*:*:*:*:*:*:*",
 			"cpeNameId": "ED6285CB-4FA9-4346-AB39-8753F3C9ED6B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:python:python:3.9.19:*:*:*:*:*:*:*",
+			"cpeNameId": "1CBE72FF-2861-4B61-8DC8-64D21E9D89B8"
 		},
 		{
 			"cpeName": "cpe:2.3:a:python:python:3.10:*:*:*:*:*:*:*",

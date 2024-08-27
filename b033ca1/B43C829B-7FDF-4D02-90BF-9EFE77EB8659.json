@@ -5,7 +5,7 @@
 	"versionEndIncluding": "3.9.1",
 	"created": "2023-08-25T17:05:51.397",
 	"lastModified": "2023-08-25T17:05:51.397",
-	"cpeLastModified": "2023-12-08T17:03:31.300",
+	"cpeLastModified": "2024-08-27T14:22:20.177",
 	"status": "Active",
 	"matches": [
 		{
@@ -559,6 +559,10 @@
 		{
 			"cpeName": "cpe:2.3:a:python:python:3.8.18:*:*:*:*:*:*:*",
 			"cpeNameId": "7C9EFBA7-B24F-4722-960D-08A031C275FD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:python:python:3.8.19:*:*:*:*:*:*:*",
+			"cpeNameId": "B80FDE7E-56BD-43C2-AB92-EBCDAD1DAEFA"
 		},
 		{
 			"cpeName": "cpe:2.3:a:python:python:3.9:*:*:*:*:*:*:*",

@@ -3,10 +3,14 @@
 	"matchCriteriaId": "A520EA13-9274-4E10-84B5-1F1FD9E5CE86",
 	"versionEndExcluding": "2.0.2.12610",
 	"created": "2022-09-15T13:21:59.510",
-	"lastModified": "2022-09-15T13:21:59.510",
-	"cpeLastModified": "2023-04-06T13:23:21.380",
+	"lastModified": "2024-08-27T17:12:38.710",
+	"cpeLastModified": "2024-08-27T17:12:38.710",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:adobe:air:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D2FD96E8-37C9-4AE4-B0B1-E31149716B96"
+		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:air:1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "F46B29FE-C624-4030-8967-A4B1305C18E1"

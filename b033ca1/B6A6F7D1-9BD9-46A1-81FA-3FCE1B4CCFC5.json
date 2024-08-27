@@ -4,7 +4,7 @@
 	"versionStartIncluding": "3.9.5",
 	"created": "2021-05-11T17:12:21.600",
 	"lastModified": "2021-05-11T17:12:21.600",
-	"cpeLastModified": "2023-12-08T17:03:52.743",
+	"cpeLastModified": "2024-08-27T14:22:20.177",
 	"status": "Active",
 	"matches": [
 		{
@@ -62,6 +62,10 @@
 		{
 			"cpeName": "cpe:2.3:a:python:python:3.9.18:*:*:*:*:*:*:*",
 			"cpeNameId": "ED6285CB-4FA9-4346-AB39-8753F3C9ED6B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:python:python:3.9.19:*:*:*:*:*:*:*",
+			"cpeNameId": "1CBE72FF-2861-4B61-8DC8-64D21E9D89B8"
 		},
 		{
 			"cpeName": "cpe:2.3:a:python:python:3.10:*:*:*:*:*:*:*",
@@ -180,6 +184,10 @@
 			"cpeNameId": "C0364016-4F2D-44C9-A520-60261F2D539B"
 		},
 		{
+			"cpeName": "cpe:2.3:a:python:python:3.10.14:*:*:*:*:*:*:*",
+			"cpeNameId": "2798BB1A-6117-4C85-BD45-76783ED35BBC"
+		},
+		{
 			"cpeName": "cpe:2.3:a:python:python:3.11:*:*:*:*:*:*:*",
 			"cpeNameId": "48B82286-1D15-4F63-B76A-784F59C19399"
 		},
@@ -272,6 +280,14 @@
 			"cpeNameId": "2C72C174-C388-4416-9987-ED06571A29D4"
 		},
 		{
+			"cpeName": "cpe:2.3:a:python:python:3.11.8:*:*:*:*:*:*:*",
+			"cpeNameId": "CC9FD053-4718-4F12-900D-35020815A83E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:python:python:3.11.9:*:*:*:*:*:*:*",
+			"cpeNameId": "6347CC71-B446-41B9-9248-389DB2257989"
+		},
+		{
 			"cpeName": "cpe:2.3:a:python:python:3.12:*:*:*:*:*:*:*",
 			"cpeNameId": "B7B64DA2-AB78-49F6-9687-743E766A0A78"
 		},
@@ -340,6 +356,22 @@
 			"cpeNameId": "591581E0-3EEB-4378-BFA6-6CB2A7D59897"
 		},
 		{
+			"cpeName": "cpe:2.3:a:python:python:3.12.2:*:*:*:*:*:*:*",
+			"cpeNameId": "8C5879E0-F33F-4E19-9B3B-5557C6818BA2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:python:python:3.12.3:*:*:*:*:*:*:*",
+			"cpeNameId": "DD876752-004E-4689-AA10-886DE7D8D53A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:python:python:3.12.4:*:*:*:*:*:*:*",
+			"cpeNameId": "7B314B47-B0BA-42FE-94CA-761FE5DEEC7A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:python:python:3.12.5:*:*:*:*:*:*:*",
+			"cpeNameId": "9CFF9012-5043-4A8E-AEEA-49836450F4CE"
+		},
+		{
 			"cpeName": "cpe:2.3:a:python:python:3.13.0:alpha0:*:*:*:*:*:*",
 			"cpeNameId": "6D8EC245-752F-48AE-B1F6-F87A54598414"
 		},
@@ -350,6 +382,42 @@
 		{
 			"cpeName": "cpe:2.3:a:python:python:3.13.0:alpha2:*:*:*:*:*:*",
 			"cpeNameId": "2787542B-0F72-4FA4-AFE8-591FBA056B89"
+		},
+		{
+			"cpeName": "cpe:2.3:a:python:python:3.13.0:alpha3:*:*:*:*:*:*",
+			"cpeNameId": "61326888-C38A-4D60-B1FA-516F033B2778"
+		},
+		{
+			"cpeName": "cpe:2.3:a:python:python:3.13.0:alpha4:*:*:*:*:*:*",
+			"cpeNameId": "F64C26EF-DE28-483F-B76C-D579A0A1564D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:python:python:3.13.0:alpha5:*:*:*:*:*:*",
+			"cpeNameId": "63FE1BDD-38A7-46A9-81E5-23E32E642A22"
+		},
+		{
+			"cpeName": "cpe:2.3:a:python:python:3.13.0:alpha6:*:*:*:*:*:*",
+			"cpeNameId": "61C76F86-59C7-48A5-A2B0-1E68C7313934"
+		},
+		{
+			"cpeName": "cpe:2.3:a:python:python:3.13.0:beta1:*:*:*:*:*:*",
+			"cpeNameId": "880CF6A4-69C8-4E79-AE00-C52AE1DBF6C7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:python:python:3.13.0:beta2:*:*:*:*:*:*",
+			"cpeNameId": "2245185B-6934-419C-9384-7C89E1B2BDAD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:python:python:3.13.0:beta3:*:*:*:*:*:*",
+			"cpeNameId": "B3B1454C-E1EB-4C2D-BD21-9363B0BEB7C3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:python:python:3.13.0:beta4:*:*:*:*:*:*",
+			"cpeNameId": "EED9A9AF-DF83-4342-9260-61E5A620C677"
+		},
+		{
+			"cpeName": "cpe:2.3:a:python:python:3.13.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "F17CAB40-FE8D-4D9D-9E7A-A97A8FBC665A"
 		}
 	]
 }

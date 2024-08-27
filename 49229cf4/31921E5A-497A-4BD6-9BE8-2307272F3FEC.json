@@ -5,7 +5,7 @@
 	"versionEndExcluding": "5.6.2",
 	"created": "2024-08-22T14:29:44.370",
 	"lastModified": "2024-08-22T14:29:44.370",
-	"cpeLastModified": "2024-08-22T14:29:44.370",
+	"cpeLastModified": "2024-08-27T17:45:12.037",
 	"status": "Active",
 	"matches": [
 		{
@@ -43,6 +43,14 @@
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiddos:5.5.1:*:*:*:*:*:*:*",
 			"cpeNameId": "CE5DFC7D-9C1E-4419-93FC-D06369AB15AC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiddos:5.6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "DC973A17-17AD-49D4-B7E2-BAAD90777BFD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiddos:5.6.1:*:*:*:*:*:*:*",
+			"cpeNameId": "C2314373-95F5-48FE-85A1-605781567762"
 		}
 	]
 }

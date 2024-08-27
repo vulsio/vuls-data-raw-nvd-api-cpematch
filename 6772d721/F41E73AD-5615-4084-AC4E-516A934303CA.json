@@ -3,8 +3,8 @@
 	"matchCriteriaId": "F41E73AD-5615-4084-AC4E-516A934303CA",
 	"versionEndIncluding": "6.06b03",
 	"created": "2024-06-25T16:31:49.157",
-	"lastModified": "2024-06-25T16:31:49.157",
-	"cpeLastModified": "2024-06-25T16:31:49.157",
+	"lastModified": "2024-08-27T16:52:25.607",
+	"cpeLastModified": "2024-08-27T16:52:25.607",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dlink:dir-615_firmware:3.03ww:*:*:*:*:*:*:*",
 			"cpeNameId": "4AF72DC7-3655-4F53-A707-E1F464FC6E01"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dlink:dir-615_firmware:6.06b03:*:*:*:*:*:*:*",
+			"cpeNameId": "D223A2E5-35DD-4D91-9B5E-4CFD6B22C84B"
 		}
 	]
 }

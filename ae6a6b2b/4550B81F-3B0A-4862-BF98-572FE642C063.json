@@ -3,8 +3,8 @@
 	"matchCriteriaId": "4550B81F-3B0A-4862-BF98-572FE642C063",
 	"versionEndExcluding": "13.0.9",
 	"created": "2024-08-19T12:29:37.553",
-	"lastModified": "2024-08-19T12:29:37.553",
-	"cpeLastModified": "2024-08-19T12:29:37.553",
+	"lastModified": "2024-08-27T17:12:38.710",
+	"cpeLastModified": "2024-08-27T17:12:38.710",
 	"status": "Active",
 	"matches": [
 		{
@@ -90,6 +90,10 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:bridge:13.0.7:*:*:*:*:*:*:*",
 			"cpeNameId": "29624D8B-171E-4DFA-ACDD-1D6C59789301"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:bridge:13.0.8:*:*:*:*:*:*:*",
+			"cpeNameId": "59E4CE2E-AB06-4193-BA32-DA613E7F2221"
 		}
 	]
 }

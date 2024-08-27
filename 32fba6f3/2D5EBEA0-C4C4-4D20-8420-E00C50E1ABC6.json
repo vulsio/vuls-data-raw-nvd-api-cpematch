@@ -4,9 +4,13 @@
 	"versionEndExcluding": "18.5.3",
 	"created": "2024-07-29T20:11:19.893",
 	"lastModified": "2024-08-16T18:19:47.103",
-	"cpeLastModified": "2024-07-29T20:11:19.893",
+	"cpeLastModified": "2024-08-27T17:12:38.710",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:adobe:indesign:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A9F3187D-9E89-4ED7-870E-3C40BC190278"
+		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:indesign:3.0:*:*:*:*:*:*:*",
 			"cpeNameId": "D08244B3-11BD-4DC7-9818-4ABDE45AEA8E"
@@ -194,6 +198,10 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:indesign:18.3:*:*:*:*:*:*:*",
 			"cpeNameId": "B289A701-0CB8-4FB8-96D8-9B991D815798"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:indesign:18.5.2:*:*:*:*:*:*:*",
+			"cpeNameId": "77114A95-8C5B-4B7A-9803-325DA550DF11"
 		}
 	]
 }

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "C66EAA7D-A420-4CBF-AD01-754983012129",
 	"versionEndIncluding": "2.056b06",
 	"created": "2024-06-25T16:31:49.157",
-	"lastModified": "2024-06-25T16:31:49.157",
-	"cpeLastModified": "2024-06-25T16:31:49.157",
+	"lastModified": "2024-08-27T16:52:25.607",
+	"cpeLastModified": "2024-08-27T16:52:25.607",
 	"status": "Active",
 	"matches": [
 		{
@@ -26,6 +26,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dlink:dir-600l_firmware:2.05:*:*:*:*:*:*:*",
 			"cpeNameId": "312F536D-F3C3-4014-95BA-086B0E816062"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dlink:dir-600l_firmware:2.056b06:*:*:*:*:*:*:*",
+			"cpeNameId": "45BE6874-718F-48AC-8D26-13E787A6C251"
 		}
 	]
 }

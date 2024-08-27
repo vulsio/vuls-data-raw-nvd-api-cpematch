@@ -4,9 +4,13 @@
 	"versionEndExcluding": "3.9.0.1210",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-04-06T13:23:21.380",
+	"cpeLastModified": "2024-08-27T17:12:38.710",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:adobe:air:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D2FD96E8-37C9-4AE4-B0B1-E31149716B96"
+		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:air:1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "F46B29FE-C624-4030-8967-A4B1305C18E1"
@@ -34,6 +38,10 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:air:2.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "996FE34E-B10A-4E5D-B29B-40E352F3FD96"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:air:2.0.2.12610:*:*:*:*:*:*:*",
+			"cpeNameId": "E10D5D3D-8C49-4391-9536-B76647B14E1A"
 		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:air:2.5:*:*:*:*:*:*:*",

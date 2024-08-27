@@ -3,10 +3,14 @@
 	"matchCriteriaId": "F7075D52-19B9-473A-9D2F-E1C4618DE4DA",
 	"versionEndIncluding": "3.4.11",
 	"created": "2024-08-16T17:27:23.097",
-	"lastModified": "2024-08-16T17:27:23.097",
-	"cpeLastModified": "2024-08-16T17:27:23.097",
+	"lastModified": "2024-08-27T17:08:47.800",
+	"cpeLastModified": "2024-08-27T17:08:47.800",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:adobe:dimension:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E58BD3A3-5E97-4E28-978F-3D20D1D39C0C"
+		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:dimension:3.4.3:*:*:*:*:*:*:*",
 			"cpeNameId": "9C976628-60A8-49DF-99CE-4941C1194491"
@@ -30,6 +34,10 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:dimension:3.4.10:*:*:*:*:*:*:*",
 			"cpeNameId": "AC17BE74-0B6D-4ADA-AFFF-F3A1850BC652"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:dimension:3.4.11:*:*:*:*:*:*:*",
+			"cpeNameId": "B4CD2CDB-080E-4773-91B2-D221A325FAFF"
 		}
 	]
 }

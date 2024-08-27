@@ -3,7 +3,7 @@
 	"matchCriteriaId": "28A9DB7F-187D-42BA-B271-1C302E529BFB",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"cpeLastModified": "2024-08-27T16:57:03.460",
 	"status": "Active",
 	"matches": [
 		{
@@ -69,6 +69,18 @@
 		{
 			"cpeName": "cpe:2.3:o:ibm:z\\/os:2.3.0:*:*:*:*:*:*:*",
 			"cpeNameId": "8E15802F-30EA-41CF-B0A6-5ADDFD2A68F7"
+		},
+		{
+			"cpeName": "cpe:2.3:o:ibm:z\\/os:2.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A52BCC9E-80C0-45FC-A127-70AEEE30E611"
+		},
+		{
+			"cpeName": "cpe:2.3:o:ibm:z\\/os:2.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "CFF7169E-E6B2-42CC-93F1-7FF4015D6953"
+		},
+		{
+			"cpeName": "cpe:2.3:o:ibm:z\\/os:3.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "6059101D-BC53-4091-8269-38C328DB0B70"
 		}
 	]
 }

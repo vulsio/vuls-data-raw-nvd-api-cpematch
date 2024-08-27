@@ -4,9 +4,13 @@
 	"versionEndIncluding": "16.4.1",
 	"created": "2022-06-21T14:51:10.247",
 	"lastModified": "2022-07-21T09:42:54.297",
-	"cpeLastModified": "2022-06-22T12:59:25.300",
+	"cpeLastModified": "2024-08-27T17:12:38.710",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:adobe:indesign:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A9F3187D-9E89-4ED7-870E-3C40BC190278"
+		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:indesign:3.0:*:*:*:*:*:*:*",
 			"cpeNameId": "D08244B3-11BD-4DC7-9818-4ABDE45AEA8E"
