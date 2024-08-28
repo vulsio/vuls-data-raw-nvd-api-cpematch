@@ -3,10 +3,14 @@
 	"matchCriteriaId": "64681AAD-3F3D-4534-88FC-DBF2460AC4BC",
 	"versionEndExcluding": "5.4.0",
 	"created": "2024-08-27T17:55:44.713",
-	"lastModified": "2024-08-27T17:55:44.713",
-	"cpeLastModified": "2024-08-27T17:55:44.713",
+	"lastModified": "2024-08-28T12:11:48.310",
+	"cpeLastModified": "2024-08-28T12:07:15.780",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1614B4A1-45B6-4E89-89C5-9E022AE82474"
+		},
 		{
 			"cpeName": "cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "406D49C7-9260-481E-B3ED-875E3B986B00"
@@ -482,6 +486,14 @@
 		{
 			"cpeName": "cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.2.5:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "94F6845C-8D67-4A14-B572-F34E56A73B62"
+		},
+		{
+			"cpeName": "cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.3.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "82B67B1C-E471-49E2-8D71-D9C1F69953BA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.3.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F7877AEF-AA72-4B83-9ADA-9962BC9954D2"
 		}
 	]
 }
