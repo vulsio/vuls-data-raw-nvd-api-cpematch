@@ -3,8 +3,8 @@
 	"matchCriteriaId": "B6E227D9-8897-4BD5-96DC-DC6F625305D8",
 	"versionEndIncluding": "1.577.0",
 	"created": "2024-08-21T16:35:18.657",
-	"lastModified": "2024-08-21T16:35:18.657",
-	"cpeLastModified": "2024-08-21T16:35:18.657",
+	"lastModified": "2024-08-28T12:46:49.043",
+	"cpeLastModified": "2024-08-28T12:46:49.043",
 	"status": "Active",
 	"matches": [
 		{
@@ -2378,6 +2378,18 @@
 		{
 			"cpeName": "cpe:2.3:a:casbin:casdoor:1.351.0:*:*:*:*:*:*:*",
 			"cpeNameId": "C3422807-AA22-48A5-B99C-2AC5FE1F3A0D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:casbin:casdoor:1.575.1:*:*:*:*:*:*:*",
+			"cpeNameId": "1BCF3E97-BA14-4E49-BA4D-057CE6B8B4C1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:casbin:casdoor:1.576.0:*:*:*:*:*:*:*",
+			"cpeNameId": "937F9BE4-4A89-424F-AC40-E8E2899A00D1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:casbin:casdoor:1.577.0:*:*:*:*:*:*:*",
+			"cpeNameId": "EAB092A5-22AC-4451-9F39-B249EB80B3C4"
 		}
 	]
 }

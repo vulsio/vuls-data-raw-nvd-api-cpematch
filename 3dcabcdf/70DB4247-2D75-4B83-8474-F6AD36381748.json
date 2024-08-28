@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.9.2",
 	"created": "2024-08-27T16:38:19.577",
 	"lastModified": "2024-08-27T16:38:19.577",
-	"cpeLastModified": "2024-08-27T16:38:19.577",
+	"cpeLastModified": "2024-08-28T15:51:23.730",
 	"status": "Active",
 	"matches": [
 		{
@@ -82,6 +82,46 @@
 		{
 			"cpeName": "cpe:2.3:a:checkoutplugins:stripe_payments_for_woocommerce:1.4.11:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "0D71EC6F-DEA6-4493-AB49-EDBBBE3DECB0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:checkoutplugins:stripe_payments_for_woocommerce:1.4.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9AA5AD78-5A6E-4066-947A-9DC57C35BFA3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:checkoutplugins:stripe_payments_for_woocommerce:1.4.14:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "30A34CD9-71FA-4BF0-9DDE-633CF28225CC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:checkoutplugins:stripe_payments_for_woocommerce:1.5.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "285D40B6-5FB3-49C7-A11D-2F21FFBF973F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:checkoutplugins:stripe_payments_for_woocommerce:1.6.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "00486631-D5EE-4D55-99D6-B9FB2B2D4786"
+		},
+		{
+			"cpeName": "cpe:2.3:a:checkoutplugins:stripe_payments_for_woocommerce:1.6.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "48DDEC2E-6725-4B6C-9A37-6A02D0CDE50E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:checkoutplugins:stripe_payments_for_woocommerce:1.7.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9FDD739B-3AFD-4613-A33C-7C49F9D41BB5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:checkoutplugins:stripe_payments_for_woocommerce:1.8.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C8D93F09-42B2-485F-AA51-7974D73D6ADB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:checkoutplugins:stripe_payments_for_woocommerce:1.8.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7D28D9E1-C4C7-4E9D-A18B-50FDAE18F244"
+		},
+		{
+			"cpeName": "cpe:2.3:a:checkoutplugins:stripe_payments_for_woocommerce:1.9.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5F5B44F0-9F2E-43DD-A6BC-C64FA4525BDD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:checkoutplugins:stripe_payments_for_woocommerce:1.9.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "656B904F-9748-414B-B730-D21473D8B6C4"
 		}
 	]
 }

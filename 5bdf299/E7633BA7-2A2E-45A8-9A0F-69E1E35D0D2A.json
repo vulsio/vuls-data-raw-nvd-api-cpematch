@@ -3,10 +3,14 @@
 	"matchCriteriaId": "E7633BA7-2A2E-45A8-9A0F-69E1E35D0D2A",
 	"versionEndIncluding": "1.7047",
 	"created": "2024-08-28T11:54:52.437",
-	"lastModified": "2024-08-28T11:54:52.437",
-	"cpeLastModified": "2024-08-28T11:54:52.437",
+	"lastModified": "2024-08-28T15:49:26.793",
+	"cpeLastModified": "2024-08-28T15:49:26.793",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:app\\:\\:cpanminus_project:app\\:\\:cpanminus:-:*:*:*:*:perl:*:*",
+			"cpeNameId": "F996F764-A21D-4D3E-99F2-F44287DB1722"
+		},
 		{
 			"cpeName": "cpe:2.3:a:app\\:\\:cpanminus_project:app\\:\\:cpanminus:1.7000:*:*:*:*:perl:*:*",
 			"cpeNameId": "49C19030-1A4C-4245-9773-A963C2713807"
@@ -186,6 +190,18 @@
 		{
 			"cpeName": "cpe:2.3:a:app\\:\\:cpanminus_project:app\\:\\:cpanminus:1.7044:*:*:*:*:perl:*:*",
 			"cpeNameId": "CBCBACFE-47D3-4067-A19F-5ADCE39A5320"
+		},
+		{
+			"cpeName": "cpe:2.3:a:app\\:\\:cpanminus_project:app\\:\\:cpanminus:1.7045:*:*:*:*:perl:*:*",
+			"cpeNameId": "9E147CC2-E5A1-4A6B-ACDA-C3BBCC04811C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:app\\:\\:cpanminus_project:app\\:\\:cpanminus:1.7046:*:*:*:*:perl:*:*",
+			"cpeNameId": "1A5FB3CB-4F41-4E04-B3DB-15E2C0569A1E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:app\\:\\:cpanminus_project:app\\:\\:cpanminus:1.7047:*:*:*:*:perl:*:*",
+			"cpeNameId": "44AFE6AB-2D99-404E-8450-E7675B9B1C42"
 		}
 	]
 }

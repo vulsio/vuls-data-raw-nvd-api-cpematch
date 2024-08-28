@@ -3,8 +3,8 @@
 	"matchCriteriaId": "6E05DB02-1B8F-47AE-8750-594D0288BC1A",
 	"versionEndIncluding": "2.7.3",
 	"created": "2024-08-27T18:12:15.207",
-	"lastModified": "2024-08-27T18:12:15.207",
-	"cpeLastModified": "2024-08-27T18:12:15.207",
+	"lastModified": "2024-08-28T16:11:54.893",
+	"cpeLastModified": "2024-08-28T16:11:54.893",
 	"status": "Active",
 	"matches": [
 		{
@@ -162,6 +162,38 @@
 		{
 			"cpeName": "cpe:2.3:a:mycred:mycred:2.6.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "E5A2C6D8-B82A-4E5A-AB5D-A24B1FB870EB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mycred:mycred:2.6.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "34C2767C-65CC-48C3-88D9-01641BE8601A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mycred:mycred:2.6.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AE0A5AA5-5FB3-4A76-8AF6-78F3E070A9EB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mycred:mycred:2.6.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1FBAB28F-15DA-43E2-8FF4-D8E8EA128849"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mycred:mycred:2.6.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C189C0F1-746B-4DD0-A7D2-35D0002544A6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mycred:mycred:2.7.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "023E85BA-9E46-4B1D-BAD4-8792A3F8BA0A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mycred:mycred:2.7.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "73B1153B-98CC-4350-8EA7-7CE7210A944A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mycred:mycred:2.7.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "39DD9952-3635-4023-9F96-AF78AB593807"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mycred:mycred:2.7.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "74604B82-FE06-4FF9-9C7C-523ADF07C99C"
 		}
 	]
 }
