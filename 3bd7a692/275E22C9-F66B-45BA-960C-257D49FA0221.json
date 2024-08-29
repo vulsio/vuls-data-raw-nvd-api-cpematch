@@ -4,7 +4,17 @@
 	"versionStartIncluding": "20.1.0",
 	"versionEndExcluding": "20.2.1",
 	"created": "2024-08-19T12:08:30.430",
-	"lastModified": "2024-08-19T12:08:30.430",
-	"cpeLastModified": "2024-08-19T12:08:30.430",
-	"status": "Active"
+	"lastModified": "2024-08-29T15:40:02.280",
+	"cpeLastModified": "2024-08-29T15:40:02.280",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:f5:big-ip_next_central_manager:20.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F02273B8-8994-47D0-9013-B2E46EE2EB24"
+		},
+		{
+			"cpeName": "cpe:2.3:a:f5:big-ip_next_central_manager:20.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A687E936-5022-4996-A638-8C0730EB6CAF"
+		}
+	]
 }

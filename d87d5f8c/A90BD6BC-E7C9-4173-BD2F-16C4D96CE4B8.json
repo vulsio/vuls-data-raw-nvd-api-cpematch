@@ -3,7 +3,7 @@
 	"matchCriteriaId": "A90BD6BC-E7C9-4173-BD2F-16C4D96CE4B8",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-11-03T18:17:08.937",
+	"cpeLastModified": "2024-08-29T15:40:02.280",
 	"status": "Active",
 	"matches": [
 		{
@@ -909,6 +909,10 @@
 		{
 			"cpeName": "cpe:2.3:a:f5:big-ip_global_traffic_manager:16.1.4.1:*:*:*:*:*:*:*",
 			"cpeNameId": "62A555E3-0ADE-461F-8357-DF8BC13069BD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:f5:big-ip_global_traffic_manager:16.1.5:*:*:*:*:*:*:*",
+			"cpeNameId": "5BFE0BDC-0B63-4FE0-BB03-76B86336E35E"
 		},
 		{
 			"cpeName": "cpe:2.3:a:f5:big-ip_global_traffic_manager:17.0.0:*:*:*:*:*:*:*",

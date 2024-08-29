@@ -5,6 +5,16 @@
 	"versionEndIncluding": "4.0e",
 	"created": "2024-07-08T18:08:54.200",
 	"lastModified": "2024-07-08T18:08:54.200",
-	"cpeLastModified": "2024-07-08T18:08:54.200",
-	"status": "Active"
+	"cpeLastModified": "2024-08-29T15:41:41.773",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:syngo_sc2000_firmware:4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "76B4EA84-6F57-4CBC-81DC-7F75E9B70C74"
+		},
+		{
+			"cpeName": "cpe:2.3:o:siemens:syngo_sc2000_firmware:4.0e:*:*:*:*:*:*:*",
+			"cpeNameId": "1FB38D0B-8DCF-4152-9E99-F725C2C701FB"
+		}
+	]
 }

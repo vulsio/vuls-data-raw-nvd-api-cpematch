@@ -5,7 +5,7 @@
 	"versionEndIncluding": "17.1.0",
 	"created": "2023-05-16T11:59:57.250",
 	"lastModified": "2023-08-07T18:14:29.270",
-	"cpeLastModified": "2023-10-17T14:47:05.403",
+	"cpeLastModified": "2024-08-29T15:40:02.280",
 	"status": "Active",
 	"matches": [
 		{
@@ -563,6 +563,10 @@
 		{
 			"cpeName": "cpe:2.3:a:f5:big-ip_advanced_firewall_manager:16.1.4.1:*:*:*:*:*:*:*",
 			"cpeNameId": "0D9FC2F3-D09E-43CD-A690-A861D1942D4F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:f5:big-ip_advanced_firewall_manager:16.1.5:*:*:*:*:*:*:*",
+			"cpeNameId": "5CE2C105-2828-414C-B954-B82A4C6E5ECE"
 		},
 		{
 			"cpeName": "cpe:2.3:a:f5:big-ip_advanced_firewall_manager:17.0.0:*:*:*:*:*:*:*",

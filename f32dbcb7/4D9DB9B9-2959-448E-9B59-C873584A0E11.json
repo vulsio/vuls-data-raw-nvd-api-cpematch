@@ -5,7 +5,7 @@
 	"versionEndIncluding": "17.1.0",
 	"created": "2023-05-16T11:59:57.250",
 	"lastModified": "2023-05-16T11:59:57.250",
-	"cpeLastModified": "2023-10-17T15:29:38.663",
+	"cpeLastModified": "2024-08-29T15:40:02.280",
 	"status": "Active",
 	"matches": [
 		{
@@ -339,6 +339,10 @@
 		{
 			"cpeName": "cpe:2.3:a:f5:big-ip_edge_gateway:16.1.4.1:*:*:*:*:*:*:*",
 			"cpeNameId": "47F5F2AA-C4DC-48D5-9B84-725C957CE173"
+		},
+		{
+			"cpeName": "cpe:2.3:a:f5:big-ip_edge_gateway:16.1.5:*:*:*:*:*:*:*",
+			"cpeNameId": "2D151311-63D8-4618-9649-E6E519559DDC"
 		},
 		{
 			"cpeName": "cpe:2.3:a:f5:big-ip_edge_gateway:17.0.0:*:*:*:*:*:*:*",

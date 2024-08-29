@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:siemens:multix_top_acss:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "68111C12-7DD9-4DB3-AC80-B95A5A063A09",
 	"created": "2024-07-22T16:21:21.130",
-	"lastModified": "2024-07-22T16:21:21.130",
-	"cpeLastModified": "2024-07-22T16:21:21.130",
-	"status": "Active"
+	"lastModified": "2024-08-29T15:41:41.773",
+	"cpeLastModified": "2024-08-29T15:41:41.773",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:siemens:multix_top_acss:-:*:*:*:*:*:*:*",
+			"cpeNameId": "609C9DB5-97FE-4DEF-89DB-6797A03CD7E7"
+		}
+	]
 }

@@ -3,7 +3,7 @@
 	"matchCriteriaId": "1C186B14-DCBF-43CD-BE7D-2ED72EF6E3C3",
 	"created": "2022-12-19T13:37:34.977",
 	"lastModified": "2022-12-19T13:37:34.977",
-	"cpeLastModified": "2022-12-19T13:37:34.977",
+	"cpeLastModified": "2024-08-29T15:41:41.773",
 	"status": "Active",
 	"matches": [
 		{
@@ -13,6 +13,10 @@
 		{
 			"cpeName": "cpe:2.3:o:siemens:scalance_m874-3_firmware:7.1.2:*:*:*:*:*:*:*",
 			"cpeNameId": "BB214D6D-141B-4C5A-93E5-17251F86A8E0"
+		},
+		{
+			"cpeName": "cpe:2.3:o:siemens:scalance_m874-3_firmware:8.1:*:*:*:*:*:*:*",
+			"cpeNameId": "471F5C1D-18F6-4CE5-9CBD-242C6232F91C"
 		}
 	]
 }

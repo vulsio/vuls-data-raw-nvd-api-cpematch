@@ -5,6 +5,12 @@
 	"versionEndExcluding": "9.1.2",
 	"created": "2024-08-28T17:20:28.293",
 	"lastModified": "2024-08-28T17:20:28.293",
-	"cpeLastModified": "2024-08-28T17:20:28.293",
-	"status": "Active"
+	"cpeLastModified": "2024-08-29T15:35:04.927",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:rubrik:cloud_data_management:9.1.0:-:*:*:*:*:*:*",
+			"cpeNameId": "0DC96A59-4747-41C1-9BA0-FA985FACC0F0"
+		}
+	]
 }

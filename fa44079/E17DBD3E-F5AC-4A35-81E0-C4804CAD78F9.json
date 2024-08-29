@@ -5,7 +5,7 @@
 	"versionEndIncluding": "17.1.0",
 	"created": "2023-05-16T11:59:57.250",
 	"lastModified": "2023-08-07T18:14:29.270",
-	"cpeLastModified": "2023-11-03T18:17:08.937",
+	"cpeLastModified": "2024-08-29T15:40:02.280",
 	"status": "Active",
 	"matches": [
 		{
@@ -551,6 +551,10 @@
 		{
 			"cpeName": "cpe:2.3:a:f5:big-ip_analytics:16.1.4.1:*:*:*:*:*:*:*",
 			"cpeNameId": "C6C833B1-9DBD-40C9-B6B0-63699FADE326"
+		},
+		{
+			"cpeName": "cpe:2.3:a:f5:big-ip_analytics:16.1.5:*:*:*:*:*:*:*",
+			"cpeNameId": "6F560E94-327F-4BF8-9A62-77FE78EBB5CF"
 		},
 		{
 			"cpeName": "cpe:2.3:a:f5:big-ip_analytics:17.0.0:*:*:*:*:*:*:*",

@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:f5:nginx_plus:r31:-:*:*:*:*:*:*",
 	"matchCriteriaId": "8248517E-D805-4928-8252-2168472341EF",
 	"created": "2024-08-19T14:06:06.507",
-	"lastModified": "2024-08-19T14:06:06.507",
-	"cpeLastModified": "2024-08-19T14:06:06.507",
-	"status": "Active"
+	"lastModified": "2024-08-29T15:40:02.280",
+	"cpeLastModified": "2024-08-29T15:40:02.280",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:f5:nginx_plus:r31:-:*:*:*:*:*:*",
+			"cpeNameId": "DCE61D13-B358-4F3D-96A7-E9685D2A962C"
+		}
+	]
 }

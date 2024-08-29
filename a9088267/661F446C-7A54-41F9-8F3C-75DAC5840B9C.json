@@ -3,7 +3,13 @@
 	"matchCriteriaId": "661F446C-7A54-41F9-8F3C-75DAC5840B9C",
 	"versionEndExcluding": "8.1",
 	"created": "2024-08-13T14:59:05.660",
-	"lastModified": "2024-08-13T14:59:05.660",
-	"cpeLastModified": "2024-08-13T14:59:05.660",
-	"status": "Active"
+	"lastModified": "2024-08-29T15:41:41.773",
+	"cpeLastModified": "2024-08-29T15:41:41.773",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:siemens:scalance_m816-1_\\(annex_b\\)_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1D9D13C8-69E0-4289-BF30-3F1A723BAD4F"
+		}
+	]
 }

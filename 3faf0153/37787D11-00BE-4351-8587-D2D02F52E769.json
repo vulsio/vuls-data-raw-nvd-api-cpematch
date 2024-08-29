@@ -5,6 +5,12 @@
 	"versionEndExcluding": "4.2.0sr01",
 	"created": "2024-08-12T16:08:09.383",
 	"lastModified": "2024-08-12T16:08:09.383",
-	"cpeLastModified": "2024-08-12T16:08:09.383",
-	"status": "Active"
+	"cpeLastModified": "2024-08-29T15:27:17.180",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:dieboldnixdorf:vynamic_security_suite:4.2.0:-:*:*:*:*:*:*",
+			"cpeNameId": "47EF25F5-EEB7-41C0-BA71-76AE0E5ECFEB"
+		}
+	]
 }
