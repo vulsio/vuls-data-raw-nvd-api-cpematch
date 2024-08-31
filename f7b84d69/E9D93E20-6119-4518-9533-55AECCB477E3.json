@@ -4,7 +4,7 @@
 	"versionEndExcluding": "0.27.3",
 	"created": "2023-07-18T15:17:06.710",
 	"lastModified": "2023-07-18T15:17:06.710",
-	"cpeLastModified": "2023-07-18T15:17:06.710",
+	"cpeLastModified": "2024-08-30T19:35:34.410",
 	"status": "Active",
 	"matches": [
 		{
@@ -486,6 +486,18 @@
 		{
 			"cpeName": "cpe:2.3:a:decidim:decidim:0.26.7:*:*:*:*:ruby:*:*",
 			"cpeNameId": "0CE6C99E-D646-4645-842B-7ED5B80907F2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:decidim:decidim:0.26.8:*:*:*:*:ruby:*:*",
+			"cpeNameId": "6CE676E5-11C1-45BA-B756-80D06034B519"
+		},
+		{
+			"cpeName": "cpe:2.3:a:decidim:decidim:0.26.9:*:*:*:*:ruby:*:*",
+			"cpeNameId": "10CF6F00-DE4D-4EC2-AABE-33BB73F348B6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:decidim:decidim:0.26.10:*:*:*:*:ruby:*:*",
+			"cpeNameId": "E4BF7999-2373-438B-8EAA-88B4AEF1E7A0"
 		},
 		{
 			"cpeName": "cpe:2.3:a:decidim:decidim:0.27.0:-:*:*:*:ruby:*:*",
