@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:a:progress:openedge:*:*:*:*:lts:*:*:*",
+	"matchCriteriaId": "B0E79746-7010-49F5-B6AC-6EBF67947271",
+	"versionEndIncluding": "11.7.18",
+	"created": "2024-09-04T13:54:55.050",
+	"lastModified": "2024-09-04T13:54:55.050",
+	"cpeLastModified": "2024-09-04T13:54:55.050",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:progress:openedge:11.7.16:*:*:*:lts:*:*:*",
+			"cpeNameId": "1F3C12A2-47AB-4A6B-8985-582BCFDF76F8"
+		}
+	]
+}

@@ -4,9 +4,13 @@
 	"versionEndExcluding": "2.4.126",
 	"created": "2020-05-19T15:11:16.290",
 	"lastModified": "2020-05-19T15:11:16.290",
-	"cpeLastModified": "2020-05-19T15:11:16.337",
+	"cpeLastModified": "2024-09-04T17:40:50.690",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:misp:misp:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C8B431E8-B166-41C6-A97B-1D7F41DDE271"
+		},
 		{
 			"cpeName": "cpe:2.3:a:misp:misp:0.1:*:*:*:*:*:*:*",
 			"cpeNameId": "DB7E2E89-A5B6-41EA-BFBE-8B962F67EF9D"
