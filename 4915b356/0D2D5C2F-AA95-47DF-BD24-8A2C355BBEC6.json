@@ -1,10 +1,10 @@
 {
 	"criteria": "cpe:2.3:o:hms-networks:ewon_cosy\\+_firmware:*:*:*:*:*:*:*:*",
-	"matchCriteriaId": "04E2B00A-5F5D-455D-84DA-4ABFA82A1863",
-	"versionStartIncluding": "21.0s0",
-	"versionEndExcluding": "21.2s10",
-	"created": "2024-08-06T19:45:22.770",
-	"lastModified": "2024-09-03T19:20:14.570",
+	"matchCriteriaId": "0D2D5C2F-AA95-47DF-BD24-8A2C355BBEC6",
+	"versionStartIncluding": "21.0",
+	"versionEndIncluding": "21.2s10",
+	"created": "2024-09-03T18:33:46.210",
+	"lastModified": "2024-09-03T18:33:46.210",
 	"cpeLastModified": "2024-09-03T19:20:14.570",
 	"status": "Active",
 	"matches": [
@@ -47,6 +47,10 @@
 		{
 			"cpeName": "cpe:2.3:o:hms-networks:ewon_cosy\\+_firmware:21.2s8:*:*:*:*:*:*:*",
 			"cpeNameId": "6E871BBB-AD4A-4587-A11E-658FFC0A5789"
+		},
+		{
+			"cpeName": "cpe:2.3:o:hms-networks:ewon_cosy\\+_firmware:21.2s10:*:*:*:*:*:*:*",
+			"cpeNameId": "5B26409E-A7DC-40FF-8EC7-73A44300E58D"
 		}
 	]
 }

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "2B5A34D4-70EC-43A8-8C46-6FF6361540EE",
 	"versionEndExcluding": "2.26.4",
 	"created": "2022-05-31T20:19:34.167",
-	"lastModified": "2022-05-31T20:19:34.167",
-	"cpeLastModified": "2019-05-21T17:59:50.810",
+	"lastModified": "2024-09-03T20:36:47.940",
+	"cpeLastModified": "2024-09-03T20:36:47.940",
 	"status": "Active",
 	"matches": [
 		{
@@ -1194,6 +1194,50 @@
 		{
 			"cpeName": "cpe:2.3:a:webkitgtk:webkitgtk\\+:2.24.2:*:*:*:*:*:*:*",
 			"cpeNameId": "E739262B-1AB2-4E01-8162-85E7835B2742"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webkitgtk:webkitgtk\\+:2.24.3:*:*:*:*:*:*:*",
+			"cpeNameId": "D0274941-AB49-4E84-A90A-0FE06DEE492A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webkitgtk:webkitgtk\\+:2.24.4:*:*:*:*:*:*:*",
+			"cpeNameId": "5EFF546C-3277-4146-AFC1-7B22B4883285"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webkitgtk:webkitgtk\\+:2.25.1:*:*:*:*:*:*:*",
+			"cpeNameId": "EBAA3659-8B81-4038-A43C-7682DC9DCED4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webkitgtk:webkitgtk\\+:2.25.2:*:*:*:*:*:*:*",
+			"cpeNameId": "28EE48BF-4C32-4C5F-8606-2FDC74B5007A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webkitgtk:webkitgtk\\+:2.25.3:*:*:*:*:*:*:*",
+			"cpeNameId": "A5FD6F09-BD62-4CF9-969E-44D37DF4695C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webkitgtk:webkitgtk\\+:2.25.4:*:*:*:*:*:*:*",
+			"cpeNameId": "76B8225F-5590-4763-A779-1020248B326B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webkitgtk:webkitgtk\\+:2.25.92:*:*:*:*:*:*:*",
+			"cpeNameId": "AA71E79A-6901-49DB-B748-6008D9A195F0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webkitgtk:webkitgtk\\+:2.26.0:*:*:*:*:*:*:*",
+			"cpeNameId": "220129CD-0C39-4BAE-A6A5-B9040F1AAEE7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webkitgtk:webkitgtk\\+:2.26.1:*:*:*:*:*:*:*",
+			"cpeNameId": "6811C2F4-F6F1-4007-B7AF-59A2C2B4A283"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webkitgtk:webkitgtk\\+:2.26.2:*:*:*:*:*:*:*",
+			"cpeNameId": "01C352BB-5F98-401A-B717-D86232B03E72"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webkitgtk:webkitgtk\\+:2.26.3:*:*:*:*:*:*:*",
+			"cpeNameId": "2D01B9CD-7C07-4A3F-9E35-3F1A4FB337E1"
 		}
 	]
 }
