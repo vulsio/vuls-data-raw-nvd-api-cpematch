@@ -4,7 +4,7 @@
 	"versionStartIncluding": "3.0",
 	"created": "2022-12-15T14:31:20.410",
 	"lastModified": "2022-12-15T14:31:20.410",
-	"cpeLastModified": "2024-08-01T12:32:10.960",
+	"cpeLastModified": "2024-09-04T20:00:26.737",
 	"status": "Active",
 	"matches": [
 		{
@@ -156,8 +156,28 @@
 			"cpeNameId": "D0865507-F78F-42CF-9E72-8807A39A3AC9"
 		},
 		{
+			"cpeName": "cpe:2.3:a:vmware:cloud_foundation:4.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "F8E5932E-0767-4F74-87F0-549B6B204B58"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vmware:cloud_foundation:4.5.2:*:*:*:*:*:*:*",
+			"cpeNameId": "EC71CECF-5942-425B-9510-BE1F1E80B3D1"
+		},
+		{
 			"cpeName": "cpe:2.3:a:vmware:cloud_foundation:5.0:*:*:*:*:*:*:*",
 			"cpeNameId": "7136CDD1-B9DB-41B5-A875-DCE5BC6364B0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vmware:cloud_foundation:5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "1D2A2EE1-43A2-4E91-88D0-FAF79221ED15"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vmware:cloud_foundation:5.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "32120DAA-9E5D-40D2-AFB1-717F0D928497"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vmware:cloud_foundation:5.2:*:*:*:*:*:*:*",
+			"cpeNameId": "AD34496F-7B98-4929-A9A7-C6FF0D5B0DE2"
 		}
 	]
 }

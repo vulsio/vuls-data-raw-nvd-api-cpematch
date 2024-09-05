@@ -5,7 +5,7 @@
 	"versionEndIncluding": "5.0",
 	"created": "2024-07-12T12:27:55.583",
 	"lastModified": "2024-07-12T12:27:55.583",
-	"cpeLastModified": "2024-08-01T12:32:10.960",
+	"cpeLastModified": "2024-09-04T20:00:26.737",
 	"status": "Active",
 	"matches": [
 		{
@@ -63,6 +63,14 @@
 		{
 			"cpeName": "cpe:2.3:a:vmware:cloud_foundation:4.5:*:*:*:*:*:*:*",
 			"cpeNameId": "D0865507-F78F-42CF-9E72-8807A39A3AC9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vmware:cloud_foundation:4.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "F8E5932E-0767-4F74-87F0-549B6B204B58"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vmware:cloud_foundation:4.5.2:*:*:*:*:*:*:*",
+			"cpeNameId": "EC71CECF-5942-425B-9510-BE1F1E80B3D1"
 		},
 		{
 			"cpeName": "cpe:2.3:a:vmware:cloud_foundation:5.0:*:*:*:*:*:*:*",

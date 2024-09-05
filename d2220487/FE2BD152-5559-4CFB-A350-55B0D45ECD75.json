@@ -4,9 +4,13 @@
 	"versionEndExcluding": "1.63.0",
 	"created": "2023-03-24T18:42:48.863",
 	"lastModified": "2023-04-14T13:43:07.393",
-	"cpeLastModified": "2023-04-14T13:43:07.393",
+	"cpeLastModified": "2024-09-04T19:22:29.390",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:advancedformintegration:advanced_form_integration:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BE00FA25-8189-4CF9-856D-A9C3108AFC91"
+		},
 		{
 			"cpeName": "cpe:2.3:a:advancedformintegration:advanced_form_integration:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "3DC9D563-821B-432B-8CFF-21511261D980"

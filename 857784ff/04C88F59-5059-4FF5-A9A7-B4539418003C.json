@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:zohocorp:manageengine_opmanager:12.8:build128186:*:*:*:*:*:*",
 	"matchCriteriaId": "04C88F59-5059-4FF5-A9A7-B4539418003C",
 	"created": "2024-08-26T18:24:17.510",
-	"lastModified": "2024-08-26T18:24:17.510",
-	"cpeLastModified": "2024-08-26T18:24:17.510",
-	"status": "Active"
+	"lastModified": "2024-09-04T20:09:54.983",
+	"cpeLastModified": "2024-09-04T20:09:54.983",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_opmanager:12.8:build128186:*:*:*:*:*:*",
+			"cpeNameId": "17D159A0-AA1B-42B9-B626-C3E4B8FC8209"
+		}
+	]
 }

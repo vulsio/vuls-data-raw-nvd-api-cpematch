@@ -4,7 +4,7 @@
 	"versionEndExcluding": "8.0.0",
 	"created": "2023-11-20T20:06:14.800",
 	"lastModified": "2023-11-20T20:06:14.800",
-	"cpeLastModified": "2024-01-18T16:30:54.280",
+	"cpeLastModified": "2024-09-04T19:40:09.007",
 	"status": "Active",
 	"matches": [
 		{
@@ -336,6 +336,34 @@
 			"cpeNameId": "9015D87C-6F05-4F25-961F-F9F508FE3EEF"
 		},
 		{
+			"cpeName": "cpe:2.3:a:microsoft:.net:6.0.27:*:*:*:*:*:*:*",
+			"cpeNameId": "259DD317-54B5-499D-8A32-0E7F0D07A0E9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:.net:6.0.28:*:*:*:*:*:*:*",
+			"cpeNameId": "3A1DE07A-4C84-4E0B-8E32-37C00BB1CCF3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:.net:6.0.29:*:*:*:*:*:*:*",
+			"cpeNameId": "F9C97942-D84A-4898-A8CF-2D751A84B5D1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:.net:6.0.30:*:*:*:*:*:*:*",
+			"cpeNameId": "DA91CED5-7186-40ED-AB90-602F09E8E616"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:.net:6.0.31:*:*:*:*:*:*:*",
+			"cpeNameId": "99CC88D3-6857-4B2F-9208-CCB54C6E9158"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:.net:6.0.32:*:*:*:*:*:*:*",
+			"cpeNameId": "50FA3A85-1126-41D3-8A0E-B8A5A596CB86"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:.net:6.0.33:*:*:*:*:*:*:*",
+			"cpeNameId": "EB15E2AA-A0C3-4F48-90CD-8D6990155046"
+		},
+		{
 			"cpeName": "cpe:2.3:a:microsoft:.net:7.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "045DB53D-B9F6-4DAA-86BC-2FF64FD1C1C1"
 		},
@@ -426,6 +454,26 @@
 		{
 			"cpeName": "cpe:2.3:a:microsoft:.net:7.0.15:*:*:*:*:*:*:*",
 			"cpeNameId": "F315BD13-53ED-47EA-A3A3-389751D1925F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:.net:7.0.16:*:*:*:*:*:*:*",
+			"cpeNameId": "D48DF8F7-7BEA-4DC4-B156-1DC1DF023B42"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:.net:7.0.17:*:*:*:*:*:*:*",
+			"cpeNameId": "A34A4EE3-26CD-4821-9344-48E27CAE8C8F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:.net:7.0.18:*:*:*:*:*:*:*",
+			"cpeNameId": "07FEDF0C-3673-43C0-BA6C-E041A29EEB21"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:.net:7.0.19:*:*:*:*:*:*:*",
+			"cpeNameId": "904C50D8-5319-4FB9-B960-E628BE6AB88E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:.net:7.0.20:*:*:*:*:*:*:*",
+			"cpeNameId": "F3CBB67D-C836-497E-932E-F79FCC5B1EEE"
 		}
 	]
 }

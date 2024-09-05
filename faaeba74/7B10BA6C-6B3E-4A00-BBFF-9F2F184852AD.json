@@ -3,10 +3,14 @@
 	"matchCriteriaId": "7B10BA6C-6B3E-4A00-BBFF-9F2F184852AD",
 	"versionEndExcluding": "8.1",
 	"created": "2024-08-12T20:30:54.213",
-	"lastModified": "2024-08-12T20:30:54.213",
-	"cpeLastModified": "2024-08-12T20:30:54.213",
+	"lastModified": "2024-09-04T20:07:07.460",
+	"cpeLastModified": "2024-09-04T20:07:07.460",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A8B59305-8939-43C8-95B0-4261F79B533C"
+		},
 		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:4.1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "5A587C86-09AA-4845-AE20-32B467DC80B9"
@@ -362,6 +366,26 @@
 		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.2:7271:*:*:*:*:*:*",
 			"cpeNameId": "B738E7D5-3D46-4176-819C-192F8515DE73"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:8.0:-:*:*:*:*:*:*",
+			"cpeNameId": "76C8471B-5DB9-474B-AA27-B31776F815D0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:8.0:8000:*:*:*:*:*:*",
+			"cpeNameId": "F1DB0AB4-36DF-4BD5-977C-4958FA24CDE8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:8.0:8001:*:*:*:*:*:*",
+			"cpeNameId": "34703C7A-1157-496A-94F5-7910FCE62F88"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:8.0:8002:*:*:*:*:*:*",
+			"cpeNameId": "54E1FD9E-EAC1-4BB2-86EA-DD138FF4E9CD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:8.0:8003:*:*:*:*:*:*",
+			"cpeNameId": "BD2B0524-FDF2-4321-8B64-D90270FB1219"
 		}
 	]
 }

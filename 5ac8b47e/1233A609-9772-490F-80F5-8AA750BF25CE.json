@@ -4,8 +4,8 @@
 	"versionStartIncluding": "6.0.0",
 	"versionEndExcluding": "6.0.32",
 	"created": "2024-08-19T13:40:20.827",
-	"lastModified": "2024-08-19T13:40:20.827",
-	"cpeLastModified": "2024-08-19T13:40:20.827",
+	"lastModified": "2024-09-04T19:40:09.007",
+	"cpeLastModified": "2024-09-04T19:40:09.007",
 	"status": "Active",
 	"matches": [
 		{
@@ -155,6 +155,26 @@
 		{
 			"cpeName": "cpe:2.3:a:microsoft:.net:6.0.26:*:*:*:*:*:*:*",
 			"cpeNameId": "9015D87C-6F05-4F25-961F-F9F508FE3EEF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:.net:6.0.27:*:*:*:*:*:*:*",
+			"cpeNameId": "259DD317-54B5-499D-8A32-0E7F0D07A0E9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:.net:6.0.28:*:*:*:*:*:*:*",
+			"cpeNameId": "3A1DE07A-4C84-4E0B-8E32-37C00BB1CCF3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:.net:6.0.29:*:*:*:*:*:*:*",
+			"cpeNameId": "F9C97942-D84A-4898-A8CF-2D751A84B5D1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:.net:6.0.30:*:*:*:*:*:*:*",
+			"cpeNameId": "DA91CED5-7186-40ED-AB90-602F09E8E616"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:.net:6.0.31:*:*:*:*:*:*:*",
+			"cpeNameId": "99CC88D3-6857-4B2F-9208-CCB54C6E9158"
 		}
 	]
 }
