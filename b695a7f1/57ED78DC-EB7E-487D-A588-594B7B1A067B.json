@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:haproxy:haproxy:3.1:dev2:*:*:*:*:*:*",
 	"matchCriteriaId": "57ED78DC-EB7E-487D-A588-594B7B1A067B",
 	"created": "2024-09-04T18:45:41.337",
-	"lastModified": "2024-09-04T18:45:41.337",
-	"cpeLastModified": "2024-09-04T18:45:41.337",
-	"status": "Active"
+	"lastModified": "2024-09-06T20:23:08.077",
+	"cpeLastModified": "2024-09-06T20:23:08.077",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:haproxy:haproxy:3.1:dev2:*:*:*:*:*:*",
+			"cpeNameId": "21F06933-9853-4A9F-A34C-414129E5459B"
+		}
+	]
 }

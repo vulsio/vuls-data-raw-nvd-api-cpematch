@@ -3,10 +3,14 @@
 	"matchCriteriaId": "130E2AF0-E5EC-47A0-B599-FF7A78E69BD7",
 	"versionEndIncluding": "1.1.7",
 	"created": "2024-08-30T20:15:24.650",
-	"lastModified": "2024-08-30T20:15:24.650",
-	"cpeLastModified": "2024-09-06T15:16:45.257",
+	"lastModified": "2024-09-06T20:54:43.843",
+	"cpeLastModified": "2024-09-06T20:54:43.843",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:atlaspolicy:power_bi_embedded:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9889968F-F998-4BA4-9E87-744842E1DAF7"
+		},
 		{
 			"cpeName": "cpe:2.3:a:atlaspolicy:power_bi_embedded:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "20B70B09-292B-44AC-82C1-E57CE22A5175"
@@ -46,6 +50,10 @@
 		{
 			"cpeName": "cpe:2.3:a:atlaspolicy:power_bi_embedded:1.1.6:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "502C9122-0B58-4AF9-B476-835BD212A966"
+		},
+		{
+			"cpeName": "cpe:2.3:a:atlaspolicy:power_bi_embedded:1.1.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D6A1A4E2-D03C-46A5-92BE-7E47142CAB7B"
 		}
 	]
 }
