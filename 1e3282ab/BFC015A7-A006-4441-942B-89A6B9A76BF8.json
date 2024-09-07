@@ -4,9 +4,13 @@
 	"versionEndIncluding": "4.4.2",
 	"created": "2023-03-23T14:57:11.473",
 	"lastModified": "2023-09-28T14:18:49.030",
-	"cpeLastModified": "2024-04-08T16:42:47.930",
+	"cpeLastModified": "2024-09-07T01:11:45.397",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ibm:aspera_faspex:-:*:*:*:*:*:*:*",
+			"cpeNameId": "78495062-D99C-4453-A009-ED1BBE856AD0"
+		},
 		{
 			"cpeName": "cpe:2.3:a:ibm:aspera_faspex:4.4.1:*:*:*:*:*:*:*",
 			"cpeNameId": "D1999409-3D17-4170-A1F6-33A9EE822D2D"
