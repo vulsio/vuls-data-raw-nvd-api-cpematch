@@ -3,8 +3,8 @@
 	"matchCriteriaId": "5426A720-F345-4C8E-B5B5-76639D447A6D",
 	"versionEndIncluding": "12.8.2",
 	"created": "2024-08-14T21:25:09.123",
-	"lastModified": "2024-08-14T21:25:09.123",
-	"cpeLastModified": "2024-08-14T21:34:41.850",
+	"lastModified": "2024-09-07T15:44:19.247",
+	"cpeLastModified": "2024-09-07T15:44:19.247",
 	"status": "Active",
 	"matches": [
 		{
@@ -74,6 +74,46 @@
 		{
 			"cpeName": "cpe:2.3:a:solarwinds:web_help_desk:12.7.8:*:*:*:*:*:*:*",
 			"cpeNameId": "AE43C35E-ADB4-4B2E-A107-B324400674CD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:solarwinds:web_help_desk:12.7.9:*:*:*:*:*:*:*",
+			"cpeNameId": "332BFF83-70C7-4DDA-BE62-0E2CCAEC0449"
+		},
+		{
+			"cpeName": "cpe:2.3:a:solarwinds:web_help_desk:12.7.10:*:*:*:*:*:*:*",
+			"cpeNameId": "88562660-1C8F-4B88-9A27-49CC516DE9D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:solarwinds:web_help_desk:12.7.11:*:*:*:*:*:*:*",
+			"cpeNameId": "12395BAA-53C5-45C7-B3D6-384D31FE0790"
+		},
+		{
+			"cpeName": "cpe:2.3:a:solarwinds:web_help_desk:12.7.12:-:*:*:*:*:*:*",
+			"cpeNameId": "A4B497C9-EDC9-47C9-811A-537FD9870D7B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:solarwinds:web_help_desk:12.7.12:hotfix1:*:*:*:*:*:*",
+			"cpeNameId": "F38DD241-B4AD-4F17-9DA2-BC5FE14979C8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:solarwinds:web_help_desk:12.7.13:*:*:*:*:*:*:*",
+			"cpeNameId": "B4DCA43A-A380-4DDB-966A-1FDDEDA7750D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:solarwinds:web_help_desk:12.8.0:*:*:*:*:*:*:*",
+			"cpeNameId": "2F429C9E-1105-4B78-B4BC-8BE8426C4860"
+		},
+		{
+			"cpeName": "cpe:2.3:a:solarwinds:web_help_desk:12.8.1:*:*:*:*:*:*:*",
+			"cpeNameId": "71A11794-77A8-4A10-B781-1B78638E912B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:solarwinds:web_help_desk:12.8.1.824:*:*:*:*:*:*:*",
+			"cpeNameId": "1D6F39CD-BA18-4275-86ED-839AEE0764D2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:solarwinds:web_help_desk:12.8.2:*:*:*:*:*:*:*",
+			"cpeNameId": "6C5BA25F-B75B-45BF-91E9-CB7D323ACB29"
 		}
 	]
 }

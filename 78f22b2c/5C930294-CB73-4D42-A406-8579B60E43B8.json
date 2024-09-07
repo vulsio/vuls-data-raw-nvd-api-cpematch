@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:sap:document_builder:731:*:*:*:*:*:*:*",
 	"matchCriteriaId": "5C930294-CB73-4D42-A406-8579B60E43B8",
 	"created": "2024-07-29T18:09:31.163",
-	"lastModified": "2024-07-29T18:09:31.163",
-	"cpeLastModified": "2024-07-29T18:09:31.163",
-	"status": "Active"
+	"lastModified": "2024-09-07T15:10:24.647",
+	"cpeLastModified": "2024-09-07T15:10:24.647",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sap:document_builder:731:*:*:*:*:*:*:*",
+			"cpeNameId": "14239CD6-2EB6-46B0-B5C9-FCE8079FBDBD"
+		}
+	]
 }

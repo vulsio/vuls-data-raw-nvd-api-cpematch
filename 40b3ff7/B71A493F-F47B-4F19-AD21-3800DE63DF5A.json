@@ -4,7 +4,7 @@
 	"versionEndExcluding": "18.9",
 	"created": "2022-12-07T15:58:48.910",
 	"lastModified": "2023-12-20T13:26:22.067",
-	"cpeLastModified": "2023-12-20T13:26:22.067",
+	"cpeLastModified": "2024-09-07T14:56:29.433",
 	"status": "Active",
 	"matches": [
 		{
@@ -46,6 +46,62 @@
 		{
 			"cpeName": "cpe:2.3:a:sangoma:certified_asterisk:13.13.0:rc2:*:*:*:*:*:*",
 			"cpeNameId": "EA18C7BA-E7C3-4D10-A90D-94658215B2E5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sangoma:certified_asterisk:16.8:cert10:*:*:*:*:*:*",
+			"cpeNameId": "B89D9A23-4044-4550-BD37-DB63A4A07200"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sangoma:certified_asterisk:16.8:cert11:*:*:*:*:*:*",
+			"cpeNameId": "71503914-DDF3-41D6-88EA-B2E2EA039CB8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sangoma:certified_asterisk:16.8:cert12:*:*:*:*:*:*",
+			"cpeNameId": "2CA958D4-F869-4139-B716-8F1BF9D452FC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sangoma:certified_asterisk:16.8:cert13:*:*:*:*:*:*",
+			"cpeNameId": "F128D8A1-BB3A-4B0A-BE36-B09845172D9C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sangoma:certified_asterisk:16.8:cert14:*:*:*:*:*:*",
+			"cpeNameId": "6BCA330C-A23B-4BF5-BADE-FE9E099A2318"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sangoma:certified_asterisk:16.8:cert1-rc1:*:*:*:*:*:*",
+			"cpeNameId": "7E53518F-68B6-40E2-9AFB-3DE5A2602972"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sangoma:certified_asterisk:16.8:cert1-rc2:*:*:*:*:*:*",
+			"cpeNameId": "9DA1D427-19ED-42DD-B447-460210535505"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sangoma:certified_asterisk:16.8:cert1-rc3:*:*:*:*:*:*",
+			"cpeNameId": "4302619B-215E-4EF9-96F0-E54F0472AAC5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sangoma:certified_asterisk:16.8:cert1-rc4:*:*:*:*:*:*",
+			"cpeNameId": "38738BC1-AAEF-46AF-905F-93DED112183F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sangoma:certified_asterisk:16.8:cert1-rc5:*:*:*:*:*:*",
+			"cpeNameId": "0C94CFA5-CCF4-42F5-9732-FF6ABFE6DB94"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sangoma:certified_asterisk:16.8:cert4-rc1:*:*:*:*:*:*",
+			"cpeNameId": "ABD0966F-182C-4F86-9F95-8D66E55A74CE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sangoma:certified_asterisk:16.8:cert4-rc2:*:*:*:*:*:*",
+			"cpeNameId": "68F33866-0266-4366-A7BF-A5EF659C77B6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sangoma:certified_asterisk:16.8:cert4-rc3:*:*:*:*:*:*",
+			"cpeNameId": "2B5D6512-8657-4808-93DD-AC554AE6B023"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sangoma:certified_asterisk:16.8:cert4-rc4:*:*:*:*:*:*",
+			"cpeNameId": "CC443C35-EC84-4EF6-BC41-C25E359696DA"
 		},
 		{
 			"cpeName": "cpe:2.3:a:sangoma:certified_asterisk:16.8.0:-:*:*:*:*:*:*",

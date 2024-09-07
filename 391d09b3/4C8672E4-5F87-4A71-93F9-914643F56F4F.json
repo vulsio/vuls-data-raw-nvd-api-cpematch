@@ -3,8 +3,8 @@
 	"matchCriteriaId": "4C8672E4-5F87-4A71-93F9-914643F56F4F",
 	"versionEndExcluding": "8.8.8",
 	"created": "2024-09-04T17:46:30.307",
-	"lastModified": "2024-09-04T17:46:30.307",
-	"cpeLastModified": "2024-09-04T17:46:30.307",
+	"lastModified": "2024-09-07T13:55:04.363",
+	"cpeLastModified": "2024-09-07T13:55:04.363",
 	"status": "Active",
 	"matches": [
 		{
@@ -242,6 +242,18 @@
 		{
 			"cpeName": "cpe:2.3:a:progress:ws_ftp_server:8.8.4:*:*:*:*:*:*:*",
 			"cpeNameId": "F75BB7DD-3E3B-4698-863E-3D6B9BB35432"
+		},
+		{
+			"cpeName": "cpe:2.3:a:progress:ws_ftp_server:8.8.5:*:*:*:*:*:*:*",
+			"cpeNameId": "B85B42AA-9D02-4088-B37F-3ED2C061DCDB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:progress:ws_ftp_server:8.8.6:*:*:*:*:*:*:*",
+			"cpeNameId": "6E75EE3F-97AA-4760-AF77-9459C9F61269"
+		},
+		{
+			"cpeName": "cpe:2.3:a:progress:ws_ftp_server:8.8.7:*:*:*:*:*:*:*",
+			"cpeNameId": "F6F2C79E-4A09-4895-93EA-55FA536C5BE7"
 		}
 	]
 }
