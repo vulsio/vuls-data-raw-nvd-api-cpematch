@@ -5,6 +5,12 @@
 	"versionEndIncluding": "4.1",
 	"created": "2024-09-04T16:30:38.880",
 	"lastModified": "2024-09-04T16:56:06.287",
-	"cpeLastModified": "2024-09-04T16:30:38.880",
-	"status": "Active"
+	"cpeLastModified": "2024-09-09T12:21:51.920",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:openatom:openharmony:4.0:-:*:*:-:*:*:*",
+			"cpeNameId": "3104B8B8-FD63-411B-A975-91B668BDE053"
+		}
+	]
 }
