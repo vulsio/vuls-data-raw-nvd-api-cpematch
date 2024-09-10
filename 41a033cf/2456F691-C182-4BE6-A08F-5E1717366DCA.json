@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:zyxel:dx3300-t1:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "2456F691-C182-4BE6-A08F-5E1717366DCA",
 	"created": "2024-09-04T19:59:07.860",
-	"lastModified": "2024-09-04T19:59:07.860",
-	"cpeLastModified": "2024-09-04T19:59:07.860",
-	"status": "Active"
+	"lastModified": "2024-09-10T14:20:56.850",
+	"cpeLastModified": "2024-09-10T14:20:56.850",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:zyxel:dx3300-t1:-:*:*:*:*:*:*:*",
+			"cpeNameId": "475BFA52-CF19-492E-B7ED-C6A0DA6A880C"
+		}
+	]
 }

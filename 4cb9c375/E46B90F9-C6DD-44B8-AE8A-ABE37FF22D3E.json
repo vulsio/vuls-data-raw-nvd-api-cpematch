@@ -3,8 +3,8 @@
 	"matchCriteriaId": "E46B90F9-C6DD-44B8-AE8A-ABE37FF22D3E",
 	"versionEndExcluding": "10.2.341",
 	"created": "2024-07-18T19:43:43.580",
-	"lastModified": "2024-07-18T19:43:43.580",
-	"cpeLastModified": "2024-07-18T19:43:43.580",
+	"lastModified": "2024-09-10T14:13:13.683",
+	"cpeLastModified": "2024-09-10T14:13:13.683",
 	"status": "Active",
 	"matches": [
 		{
@@ -54,6 +54,10 @@
 		{
 			"cpeName": "cpe:2.3:a:sonicwall:netextender:10.2.337:*:*:*:*:windows:*:*",
 			"cpeNameId": "D67384DF-7429-432A-9B23-61E4B91C8522"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sonicwall:netextender:10.2.339:*:*:*:*:windows:*:*",
+			"cpeNameId": "D78652E3-B566-435D-97FE-CA2F8D7D3C6A"
 		}
 	]
 }
