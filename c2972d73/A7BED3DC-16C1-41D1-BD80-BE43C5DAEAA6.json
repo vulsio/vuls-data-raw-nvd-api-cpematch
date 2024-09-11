@@ -3,7 +3,7 @@
 	"matchCriteriaId": "A7BED3DC-16C1-41D1-BD80-BE43C5DAEAA6",
 	"created": "2019-12-09T14:39:01.117",
 	"lastModified": "2019-12-09T14:39:01.117",
-	"cpeLastModified": "2024-09-09T21:30:03.943",
+	"cpeLastModified": "2024-09-11T13:43:14.960",
 	"status": "Active",
 	"matches": [
 		{
@@ -1785,6 +1785,54 @@
 		{
 			"cpeName": "cpe:2.3:o:qnap:qts:5.1.5.2645:-:*:*:*:*:*:*",
 			"cpeNameId": "55A2E592-7D7C-4990-B360-DD8E2C4D21B3"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:qts:5.1.5.2645:build_20240116:*:*:*:*:*:*",
+			"cpeNameId": "A392FFD6-8865-4F5F-8632-BDAD3FE7BEBC"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:qts:5.1.5.2679:build_20240219:*:*:*:*:*:*",
+			"cpeNameId": "8B07B6F2-5645-4A41-9170-810804DC422A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:qts:5.1.6.2722:build_20240402:*:*:*:*:*:*",
+			"cpeNameId": "375AF163-62BE-4424-91C4-8258EB1AB9C8"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:qts:5.1.7.2770:build_20240520:*:*:*:*:*:*",
+			"cpeNameId": "8A454199-CC8F-45BE-AC93-E66DEE26520C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:qts:5.1.8.2823:build_20240712:*:*:*:*:*:*",
+			"cpeNameId": "5BED2860-E1BC-4966-88DA-C4B3D307C589"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:qts:5.2.0.2737:build_20240417:*:*:*:*:*:*",
+			"cpeNameId": "6DC4B634-FFBF-4F1F-B111-A2E8A3462828"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:qts:5.2.0.2744:build_20240424:*:*:*:*:*:*",
+			"cpeNameId": "CD49FD28-D3F3-44B9-8EC1-77ED4D3F714C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:qts:5.2.0.2782:build_20240601:*:*:*:*:*:*",
+			"cpeNameId": "84219A99-E9BF-4C3D-9C84-29CAF4CEE195"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:qts:5.2.0.2802:build_20240620:*:*:*:*:*:*",
+			"cpeNameId": "2B9AE157-87D3-49E6-B69F-A1F48BB2A8BD"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:qts:5.2.0.2823:build_20240711:*:*:*:*:*:*",
+			"cpeNameId": "BCCB7656-B973-4EC8-A715-9E97D09155FD"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:qts:5.2.0.2851:build_20240808:*:*:*:*:*:*",
+			"cpeNameId": "CE9D59F6-B4CC-45C0-B62F-5CB17757A3C6"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:qts:5.2.0.2860:build_20240817:*:*:*:*:*:*",
+			"cpeNameId": "D3BF5D9C-D924-41E8-AC6D-7D7366980723"
 		}
 	]
 }

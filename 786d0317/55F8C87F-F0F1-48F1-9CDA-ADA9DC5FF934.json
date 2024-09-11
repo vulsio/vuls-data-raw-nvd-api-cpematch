@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.3.6",
 	"created": "2024-08-30T19:17:57.900",
 	"lastModified": "2024-08-30T19:17:57.900",
-	"cpeLastModified": "2024-08-30T19:17:57.900",
+	"cpeLastModified": "2024-09-11T17:48:07.877",
 	"status": "Active",
 	"matches": [
 		{
@@ -94,6 +94,50 @@
 		{
 			"cpeName": "cpe:2.3:a:wpdirectorykit:wp_directory_kit:1.2.4:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "D672E4C8-5238-439A-9AA0-8DE90AE4CFC9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdirectorykit:wp_directory_kit:1.2.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9B511D03-7767-4ABB-A129-92A8807B4159"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdirectorykit:wp_directory_kit:1.2.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "698944A3-CA6F-4D62-8846-B3F9B3749ADB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdirectorykit:wp_directory_kit:1.2.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "44A225CB-E7A2-46E6-9E7D-FC4838853B51"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdirectorykit:wp_directory_kit:1.2.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9ECA4D66-32AC-4845-BFF2-75484EF6A0BF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdirectorykit:wp_directory_kit:1.2.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8E6F1FC8-8F15-402E-9F0B-BCADE58DF879"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdirectorykit:wp_directory_kit:1.3.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CDB5FC69-6088-4A49-8809-AB41758FAAC1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdirectorykit:wp_directory_kit:1.3.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D9EE6288-5AC9-4F6B-997F-A945BFC0E501"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdirectorykit:wp_directory_kit:1.3.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "407981E7-C67E-4A42-A842-01349B3837CE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdirectorykit:wp_directory_kit:1.3.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "98DD6F81-8C67-42A8-89D1-D5A0DF20C3FE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdirectorykit:wp_directory_kit:1.3.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6B374F4F-2C6E-45CF-8E91-08807DCEEF8C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdirectorykit:wp_directory_kit:1.3.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CF34443D-0CFF-4A41-B91F-9CD650607AC4"
 		}
 	]
 }

@@ -3,10 +3,14 @@
 	"matchCriteriaId": "B62C9C43-F43A-465C-B046-0CC44487DF0C",
 	"versionEndExcluding": "7.5.0",
 	"created": "2024-08-30T13:43:09.763",
-	"lastModified": "2024-08-30T13:43:09.763",
-	"cpeLastModified": "2024-08-30T13:43:09.763",
+	"lastModified": "2024-09-11T17:49:12.740",
+	"cpeLastModified": "2024-09-11T17:49:12.740",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:in2code:powermail:-:*:*:*:*:typo3:*:*",
+			"cpeNameId": "07BE3549-1B9E-4B0E-B885-760810782257"
+		},
 		{
 			"cpeName": "cpe:2.3:a:in2code:powermail:0.1.3:alpha:*:*:*:typo3:*:*",
 			"cpeNameId": "F3737D75-15EC-4424-B7A1-3F6002301F06"
@@ -1098,6 +1102,22 @@
 		{
 			"cpeName": "cpe:2.3:a:in2code:powermail:7.3.1:*:*:*:*:typo3:*:*",
 			"cpeNameId": "347492EE-2005-4551-8961-24DACD1301D4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:in2code:powermail:7.4.0:*:*:*:*:typo3:*:*",
+			"cpeNameId": "36BECC79-43A0-45E1-9324-D37010A4697A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:in2code:powermail:7.4.1:*:*:*:*:typo3:*:*",
+			"cpeNameId": "06DE9B3D-C1B7-4F67-B644-3131584A1B3E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:in2code:powermail:7.4.2:*:*:*:*:typo3:*:*",
+			"cpeNameId": "0729C939-D348-4FBC-8E90-DDA1B5F20109"
+		},
+		{
+			"cpeName": "cpe:2.3:a:in2code:powermail:7.4.3:*:*:*:*:typo3:*:*",
+			"cpeNameId": "D416DEFA-4F95-43DC-B3F8-C16478D6E67D"
 		}
 	]
 }

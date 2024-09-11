@@ -3,8 +3,8 @@
 	"matchCriteriaId": "68657A8B-215C-4BCE-8498-77861BBCA29E",
 	"versionEndExcluding": "9.99.2.0",
 	"created": "2024-08-30T17:48:07.077",
-	"lastModified": "2024-08-30T17:48:07.077",
-	"cpeLastModified": "2024-08-30T17:48:07.077",
+	"lastModified": "2024-09-11T17:48:07.877",
+	"cpeLastModified": "2024-09-11T17:48:07.877",
 	"status": "Active",
 	"matches": [
 		{
@@ -2110,6 +2110,118 @@
 		{
 			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.89.1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "7C321E25-2CD1-400C-A603-9E0E73D48B7E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.90.0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6EE41CBF-A232-4B81-A34E-5D27F6DCBDF7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.90.1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "489C93A2-04B1-4520-BE61-2767CB24EE0A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.90.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8C2B84BE-662B-4BCF-A3B7-ED5791D7973B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.90.3.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "27A0ED5D-C854-47AE-A92D-B857AA7CE661"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.90.3.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "46A9C488-E6BC-41B7-B652-9B9D6C7D9586"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.91.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "09724B12-F390-486E-AB9C-DA1607CB70E1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.91.1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "43691BCA-5724-4249-A770-6123AEDD6991"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.92.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AA80F60E-896E-46F3-B9A6-47D1BF1CE72D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.92.1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C58357C5-34FC-4DC9-B250-11FBCF344DB8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.92.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5BDDB37A-F70F-4B9A-BF98-39F2EBE81AB8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.92.3.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FF40C93E-EB4F-4B87-9082-E0C39D66C41F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.92.4.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "55E476B2-5AE7-409B-8880-BF753C5DF677"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.93.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BB482614-0402-47E9-A266-12B73B4F4A95"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.93.1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DC378B3D-0057-4BDD-8EF1-C2539230C475"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.93.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "75675248-7449-46EF-840D-892D4CC1279D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.93.3.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "12B1D080-6256-4E13-820F-0A6431F32A94"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.94.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9F22B86B-25C1-40E9-ADC0-D6E02B824A99"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.94.1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "658BE0D4-2CB1-4370-9373-99BA721AEDBF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.94.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "306B2954-2207-48F5-A2D6-39C1E13723B1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.95.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "72B05BDA-1194-43BA-ADD4-F9847761A8F7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.96.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "52DBB53F-379B-4877-8024-66BCC9B9072C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.97.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "58448FCF-27DE-46D8-A3E0-D35DB1A15481"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.97.1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4EA23E74-5CD6-45B5-BCA7-140CAE0A2CE6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.97.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C68E1558-443B-44A9-8F60-D53CE3BDDE9C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.98.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DEFF6CF1-2623-46FA-8FE5-661DBD9ED8C3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.98.1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C61E4170-0479-4DB9-A42C-6A01CDE70011"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.99.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5B470CCB-0433-4263-9179-2F7E7AF51255"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.99.1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AA11FB1D-5495-4022-A895-7E3CA85D4BF4"
 		}
 	]
 }
