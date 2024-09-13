@@ -4,9 +4,13 @@
 	"versionEndExcluding": "2.3.4",
 	"created": "2021-04-10T00:53:43.500",
 	"lastModified": "2021-04-10T00:53:43.500",
-	"cpeLastModified": "2021-07-13T17:19:02.177",
+	"cpeLastModified": "2024-09-12T20:13:21.743",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cern:indico:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6291A910-F64A-4228-B7D3-09B73FDB758D"
+		},
 		{
 			"cpeName": "cpe:2.3:a:cern:indico:1.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "979F35C2-22F4-44FC-9F3D-849A2753A766"

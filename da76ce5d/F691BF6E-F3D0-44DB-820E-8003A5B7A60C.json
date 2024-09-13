@@ -4,10 +4,14 @@
 	"versionStartIncluding": "2.0.0",
 	"versionEndExcluding": "2.13.5",
 	"created": "2024-08-23T15:57:39.007",
-	"lastModified": "2024-08-23T15:57:39.007",
-	"cpeLastModified": "2024-08-23T15:57:39.007",
+	"lastModified": "2024-09-12T20:25:51.580",
+	"cpeLastModified": "2024-09-12T20:25:51.580",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:bitapps:contact_form_builder:2.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0AA1ECEB-9330-4AF3-A2B2-042794946B07"
+		},
 		{
 			"cpeName": "cpe:2.3:a:bitapps:contact_form_builder:2.0.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "09C55055-43BD-4019-BA4B-959E87C822CB"

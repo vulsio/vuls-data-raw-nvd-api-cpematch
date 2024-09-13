@@ -3,10 +3,14 @@
 	"matchCriteriaId": "BCDB75F2-DF11-42D4-80DC-B33ADC939A30",
 	"versionEndExcluding": "3.3.4",
 	"created": "2024-09-11T16:26:02.300",
-	"lastModified": "2024-09-11T16:26:02.300",
-	"cpeLastModified": "2024-09-11T16:26:02.300",
+	"lastModified": "2024-09-12T20:13:21.743",
+	"cpeLastModified": "2024-09-12T20:13:21.743",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cern:indico:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6291A910-F64A-4228-B7D3-09B73FDB758D"
+		},
 		{
 			"cpeName": "cpe:2.3:a:cern:indico:1.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "979F35C2-22F4-44FC-9F3D-849A2753A766"
@@ -410,6 +414,34 @@
 		{
 			"cpeName": "cpe:2.3:a:cern:indico:3.2.6:*:*:*:*:*:*:*",
 			"cpeNameId": "12275D98-5F0A-4BED-BC37-A65F191F9259"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cern:indico:3.2.7:*:*:*:*:*:*:*",
+			"cpeNameId": "2B2FAD63-2DC2-4634-BF0F-ED25F3CEC948"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cern:indico:3.2.8:*:*:*:*:*:*:*",
+			"cpeNameId": "1E194613-E6BB-4743-A7DE-83AED2D5EFF0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cern:indico:3.2.9:*:*:*:*:*:*:*",
+			"cpeNameId": "6A061A4F-A9D2-4A42-9F28-A94438F5104B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cern:indico:3.3:*:*:*:*:*:*:*",
+			"cpeNameId": "34CA990B-833C-46FE-8523-D0F0457E782E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cern:indico:3.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "ABCFF42C-0B7F-4688-87B4-1B79B7931309"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cern:indico:3.3.2:*:*:*:*:*:*:*",
+			"cpeNameId": "5C6F919A-408A-4202-8185-D841D44C0A13"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cern:indico:3.3.3:*:*:*:*:*:*:*",
+			"cpeNameId": "B804D2B2-68BC-4D95-90ED-89FDBA2E37CB"
 		}
 	]
 }
