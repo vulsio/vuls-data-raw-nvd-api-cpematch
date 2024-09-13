@@ -3,7 +3,13 @@
 	"matchCriteriaId": "5319EC7A-BBCA-4651-AC0E-992474DC436E",
 	"versionEndExcluding": "1.6.3",
 	"created": "2024-08-26T16:13:07.810",
-	"lastModified": "2024-08-26T16:13:07.810",
-	"cpeLastModified": "2024-08-26T16:13:07.810",
-	"status": "Active"
+	"lastModified": "2024-09-13T15:48:00.930",
+	"cpeLastModified": "2024-09-13T15:48:00.930",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:phoenixcontact:charx_sec-3150_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BD80DEE2-C746-472A-8C36-0E1C3F55DA28"
+		}
+	]
 }

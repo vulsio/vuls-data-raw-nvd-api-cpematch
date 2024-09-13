@@ -3,7 +3,7 @@
 	"matchCriteriaId": "4C56F007-5F8E-4BDD-A803-C907BCC0AF55",
 	"created": "2021-09-22T14:21:42.877",
 	"lastModified": "2021-09-22T14:21:42.877",
-	"cpeLastModified": "2024-07-03T12:21:27.453",
+	"cpeLastModified": "2024-09-13T17:53:15.670",
 	"status": "Active",
 	"matches": [
 		{
@@ -291,6 +291,10 @@
 			"cpeNameId": "40E6FD3B-8C67-4413-BB26-37B93672303E"
 		},
 		{
+			"cpeName": "cpe:2.3:o:apple:macos:12.7.1:*:*:*:*:*:*:*",
+			"cpeNameId": "F58879FD-0E30-4AB8-BA9D-0EC1B3CA6B6E"
+		},
+		{
 			"cpeName": "cpe:2.3:o:apple:macos:12.7.2:*:*:*:*:*:*:*",
 			"cpeNameId": "78205E74-FCC7-46AD-A6E3-072DEB65FA72"
 		},
@@ -301,6 +305,14 @@
 		{
 			"cpeName": "cpe:2.3:o:apple:macos:12.7.4:*:*:*:*:*:*:*",
 			"cpeNameId": "2AB51D62-A79A-4CEA-8BF5-D5706FF4D4BF"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:macos:12.7.5:*:*:*:*:*:*:*",
+			"cpeNameId": "F76408DE-7995-46FD-8150-BD5D57BD755B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:macos:12.7.6:*:*:*:*:*:*:*",
+			"cpeNameId": "387F232F-0D06-42AF-A191-890D4735935E"
 		},
 		{
 			"cpeName": "cpe:2.3:o:apple:macos:13.0:*:*:*:*:*:*:*",
@@ -367,6 +379,14 @@
 			"cpeNameId": "F7CF2538-A412-47FB-B3EB-D287A888FFBA"
 		},
 		{
+			"cpeName": "cpe:2.3:o:apple:macos:13.6.7:*:*:*:*:*:*:*",
+			"cpeNameId": "BBB27ABC-4333-4985-BCBF-7FA1B3FC5268"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:macos:13.6.8:*:*:*:*:*:*:*",
+			"cpeNameId": "DF3B0750-1C31-40BF-BB7E-519688EFA472"
+		},
+		{
 			"cpeName": "cpe:2.3:o:apple:macos:14.0:*:*:*:*:*:*:*",
 			"cpeNameId": "F6E4881F-9805-4C20-AFB5-81254C17B75E"
 		},
@@ -397,6 +417,14 @@
 		{
 			"cpeName": "cpe:2.3:o:apple:macos:14.4:*:*:*:*:*:*:*",
 			"cpeNameId": "C6DEFC3D-AD99-45DE-B5C8-7DB07C1D7D3F"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:macos:15.0:-:*:*:*:*:*:*",
+			"cpeNameId": "BA32308A-F094-402F-B92E-41F15499DE1A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:macos:15.0:beta3:*:*:*:*:*:*",
+			"cpeNameId": "AA498313-1280-4082-88CC-DC471E826224"
 		}
 	]
 }
