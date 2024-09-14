@@ -4,8 +4,8 @@
 	"versionStartIncluding": "6.2022.1",
 	"versionEndExcluding": "6.2024.9",
 	"created": "2024-09-12T19:51:28.767",
-	"lastModified": "2024-09-12T19:51:28.767",
-	"cpeLastModified": "2024-09-12T19:51:28.767",
+	"lastModified": "2024-09-13T20:16:17.943",
+	"cpeLastModified": "2024-09-13T20:16:17.943",
 	"status": "Active",
 	"matches": [
 		{
@@ -71,6 +71,42 @@
 		{
 			"cpeName": "cpe:2.3:a:payara:payara:6.2023.11:*:*:*:community:*:*:*",
 			"cpeNameId": "E2462780-E855-4017-8710-272577C31BB7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:payara:payara:6.2023.12:*:*:*:community:*:*:*",
+			"cpeNameId": "6D4D9D59-89EE-4A7E-9BB4-F4134E887390"
+		},
+		{
+			"cpeName": "cpe:2.3:a:payara:payara:6.2024.1:*:*:*:community:*:*:*",
+			"cpeNameId": "4511B882-D589-4E24-AC7A-BC8099860D53"
+		},
+		{
+			"cpeName": "cpe:2.3:a:payara:payara:6.2024.2:*:*:*:community:*:*:*",
+			"cpeNameId": "37AA5B9C-C629-4799-9928-46C6AF5A3D23"
+		},
+		{
+			"cpeName": "cpe:2.3:a:payara:payara:6.2024.3:*:*:*:community:*:*:*",
+			"cpeNameId": "6225F5B0-22FC-4E23-9615-795C7675FD85"
+		},
+		{
+			"cpeName": "cpe:2.3:a:payara:payara:6.2024.4:*:*:*:community:*:*:*",
+			"cpeNameId": "4E8EE78F-7ED9-4001-9FE8-C545D38F46AB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:payara:payara:6.2024.5:*:*:*:community:*:*:*",
+			"cpeNameId": "6D54D7B2-4803-4B19-96F2-EF012E4D36A3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:payara:payara:6.2024.6:*:*:*:community:*:*:*",
+			"cpeNameId": "B572AA4C-1CBE-4B90-8AE3-5C61F41DB9AC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:payara:payara:6.2024.7:*:*:*:community:*:*:*",
+			"cpeNameId": "A70F2501-86B2-4003-A212-AD41B0EA7F86"
+		},
+		{
+			"cpeName": "cpe:2.3:a:payara:payara:6.2024.8:*:*:*:community:*:*:*",
+			"cpeNameId": "3A0026FB-35AB-48B5-A221-6DB792BB7477"
 		}
 	]
 }

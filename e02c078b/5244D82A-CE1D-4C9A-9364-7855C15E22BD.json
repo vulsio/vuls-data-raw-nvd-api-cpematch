@@ -5,7 +5,7 @@
 	"versionEndIncluding": "13.0.0",
 	"created": "2022-09-26T18:34:11.163",
 	"lastModified": "2022-11-07T19:08:34.203",
-	"cpeLastModified": "2022-11-07T19:08:34.203",
+	"cpeLastModified": "2024-09-13T21:25:12.323",
 	"status": "Active",
 	"matches": [
 		{
@@ -57,6 +57,10 @@
 			"cpeNameId": "A266087E-C38B-4AED-BCDF-D693F8917FCD"
 		},
 		{
+			"cpeName": "cpe:2.3:a:rockwellautomation:thinmanager:11.1.8:*:*:*:*:*:*:*",
+			"cpeNameId": "5CDD8139-51F1-4C7B-8468-B740EF472423"
+		},
+		{
 			"cpeName": "cpe:2.3:a:rockwellautomation:thinmanager:11.2.0:*:*:*:*:*:*:*",
 			"cpeNameId": "0A1AEEB1-1FCA-4569-8D24-CB8F542DE5E1"
 		},
@@ -85,6 +89,10 @@
 			"cpeNameId": "C0EE1050-4D3C-406C-BE1A-E913C58BB774"
 		},
 		{
+			"cpeName": "cpe:2.3:a:rockwellautomation:thinmanager:11.2.9:*:*:*:*:*:*:*",
+			"cpeNameId": "DFF330F4-3272-4B62-971C-55A141A10974"
+		},
+		{
 			"cpeName": "cpe:2.3:a:rockwellautomation:thinmanager:12.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "71AB1297-6E46-4675-BC7B-00E99CDF06EF"
 		},
@@ -103,6 +111,10 @@
 		{
 			"cpeName": "cpe:2.3:a:rockwellautomation:thinmanager:12.0.4:*:*:*:*:*:*:*",
 			"cpeNameId": "A7CCD8F2-9AA0-45D4-B65C-BD001F2E4C88"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rockwellautomation:thinmanager:12.0.7:*:*:*:*:*:*:*",
+			"cpeNameId": "6FB5960F-7EAC-491D-A560-C5D235FEE82D"
 		},
 		{
 			"cpeName": "cpe:2.3:a:rockwellautomation:thinmanager:12.1.0:*:*:*:*:*:*:*",
@@ -127,6 +139,10 @@
 		{
 			"cpeName": "cpe:2.3:a:rockwellautomation:thinmanager:12.1.5:*:*:*:*:*:*:*",
 			"cpeNameId": "376E8A6F-7C3F-491C-8FD6-A6E7C2AF0135"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rockwellautomation:thinmanager:12.1.8:*:*:*:*:*:*:*",
+			"cpeNameId": "66C91F10-E03C-4F2B-AF4E-1A1082408DDE"
 		},
 		{
 			"cpeName": "cpe:2.3:a:rockwellautomation:thinmanager:13.0.0:*:*:*:*:*:*:*",

@@ -5,6 +5,12 @@
 	"versionEndExcluding": "1.10.12-lts",
 	"created": "2024-09-10T19:12:25.570",
 	"lastModified": "2024-09-10T19:12:25.570",
-	"cpeLastModified": "2024-09-10T19:12:25.570",
-	"status": "Active"
+	"cpeLastModified": "2024-09-13T20:00:56.703",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:fit2cloud:1panel:1.10.10-lts:*:*:*:*:*:*:*",
+			"cpeNameId": "B8584579-865E-4E03-9402-F70DE406BF29"
+		}
+	]
 }

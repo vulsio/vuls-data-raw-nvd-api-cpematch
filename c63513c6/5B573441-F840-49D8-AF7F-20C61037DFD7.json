@@ -4,9 +4,13 @@
 	"versionEndIncluding": "2.6.10",
 	"created": "2024-01-05T19:34:57.620",
 	"lastModified": "2024-01-06T19:22:44.120",
-	"cpeLastModified": "2024-01-06T19:22:44.120",
+	"cpeLastModified": "2024-09-13T19:55:26.493",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:crocoblock:jetelements:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "69AFFA0E-AFC6-4E34-A973-B973D365ADF1"
+		},
 		{
 			"cpeName": "cpe:2.3:a:crocoblock:jetelements:1.0.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "E4C19E0A-388B-452A-B40F-F8E02FDBBDF8"

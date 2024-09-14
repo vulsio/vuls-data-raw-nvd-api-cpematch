@@ -4,8 +4,8 @@
 	"versionStartIncluding": "13.0.0",
 	"versionEndExcluding": "13.0.5",
 	"created": "2024-09-11T19:50:06.920",
-	"lastModified": "2024-09-11T19:50:06.920",
-	"cpeLastModified": "2024-09-11T19:50:06.920",
+	"lastModified": "2024-09-13T21:25:12.323",
+	"cpeLastModified": "2024-09-13T21:25:12.323",
 	"status": "Active",
 	"matches": [
 		{
@@ -23,6 +23,10 @@
 		{
 			"cpeName": "cpe:2.3:a:rockwellautomation:thinmanager:13.0.3:*:*:*:*:*:*:*",
 			"cpeNameId": "1992D30E-9C51-403C-9D15-EC3CF05F3F4B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rockwellautomation:thinmanager:13.0.4:*:*:*:*:*:*:*",
+			"cpeNameId": "382D62B6-C626-45F3-B536-2A66D0F62AE9"
 		}
 	]
 }

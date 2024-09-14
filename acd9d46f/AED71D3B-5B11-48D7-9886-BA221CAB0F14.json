@@ -5,6 +5,12 @@
 	"versionEndExcluding": "13.1.2",
 	"created": "2024-09-11T19:53:49.100",
 	"lastModified": "2024-09-11T19:53:49.100",
-	"cpeLastModified": "2024-09-11T19:53:49.100",
-	"status": "Active"
+	"cpeLastModified": "2024-09-13T21:25:12.323",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:rockwellautomation:thinserver:13.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E70F1CF6-D33F-484E-8722-A8BFAC98257D"
+		}
+	]
 }

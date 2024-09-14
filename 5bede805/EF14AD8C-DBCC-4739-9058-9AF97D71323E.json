@@ -4,8 +4,8 @@
 	"versionStartIncluding": "6.0.0",
 	"versionEndExcluding": "6.18.0",
 	"created": "2024-09-12T19:47:00.570",
-	"lastModified": "2024-09-12T19:47:00.570",
-	"cpeLastModified": "2024-09-12T19:47:00.570",
+	"lastModified": "2024-09-13T20:16:17.943",
+	"cpeLastModified": "2024-09-13T20:16:17.943",
 	"status": "Active",
 	"matches": [
 		{
@@ -43,6 +43,42 @@
 		{
 			"cpeName": "cpe:2.3:a:payara:payara:6.8.0:*:*:*:enterprise:*:*:*",
 			"cpeNameId": "E45FD4B8-FE58-46C8-9A3C-70BFD6C170CC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:payara:payara:6.9.0:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "291DC779-DED5-4879-9E85-6E3E38D18109"
+		},
+		{
+			"cpeName": "cpe:2.3:a:payara:payara:6.10.0:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "85A18827-D2B7-4B27-829A-2F595F8D7A02"
+		},
+		{
+			"cpeName": "cpe:2.3:a:payara:payara:6.11.0:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "A3DF116B-EE26-44A3-920E-8597C1A9CC9D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:payara:payara:6.12.0:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "84162519-DE3B-4C74-B422-C990DBDF2527"
+		},
+		{
+			"cpeName": "cpe:2.3:a:payara:payara:6.13.0:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "F4EAAC60-0BCB-45F4-92B1-91C0D4FB303F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:payara:payara:6.14.0:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "6F482116-A9EA-470F-994F-AF24E05D8C6E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:payara:payara:6.15.0:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "EDC39375-E73F-4372-9365-3AE8A1800BDB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:payara:payara:6.16.0:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "E290B78A-763A-4700-B0CE-36C298EF1167"
+		},
+		{
+			"cpeName": "cpe:2.3:a:payara:payara:6.17.0:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "25C85DE8-88C1-483D-AE35-17B2E3A80E6D"
 		}
 	]
 }

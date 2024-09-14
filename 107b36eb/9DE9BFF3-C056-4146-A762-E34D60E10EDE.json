@@ -5,6 +5,12 @@
 	"versionEndExcluding": "17.2.5",
 	"created": "2024-09-13T17:54:00.300",
 	"lastModified": "2024-09-13T17:54:00.300",
-	"cpeLastModified": "2024-09-13T17:54:00.300",
-	"status": "Active"
+	"cpeLastModified": "2024-09-13T20:37:18.097",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:gitlab:gitlab:17.2.0:*:*:*:community:*:*:*",
+			"cpeNameId": "8B0C7199-A4E5-458A-85B7-19DD6E9783CC"
+		}
+	]
 }

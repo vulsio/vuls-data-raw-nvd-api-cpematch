@@ -3,10 +3,14 @@
 	"matchCriteriaId": "52F14CCA-B445-4A26-B203-41189888D27F",
 	"versionEndIncluding": "2.6.20",
 	"created": "2024-08-29T20:23:04.120",
-	"lastModified": "2024-08-29T20:23:04.120",
-	"cpeLastModified": "2024-08-29T20:23:04.120",
+	"lastModified": "2024-09-13T19:55:26.493",
+	"cpeLastModified": "2024-09-13T19:55:26.493",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:crocoblock:jetelements:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "69AFFA0E-AFC6-4E34-A973-B973D365ADF1"
+		},
 		{
 			"cpeName": "cpe:2.3:a:crocoblock:jetelements:1.0.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "E4C19E0A-388B-452A-B40F-F8E02FDBBDF8"
@@ -470,6 +474,34 @@
 		{
 			"cpeName": "cpe:2.3:a:crocoblock:jetelements:2.6.14:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "1A6F0B03-B58C-49CF-81F8-179D69AD9CF5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:crocoblock:jetelements:2.6.15:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "354C859F-1568-4F1A-9B79-22629459AEC0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:crocoblock:jetelements:2.6.16:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "904F87E4-F07D-4E09-82E3-3844030D8E97"
+		},
+		{
+			"cpeName": "cpe:2.3:a:crocoblock:jetelements:2.6.17:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C72E1B33-D08A-459A-B143-95B395E9817A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:crocoblock:jetelements:2.6.17.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "09B0F2A1-B6DD-4395-A56E-F04F8C677561"
+		},
+		{
+			"cpeName": "cpe:2.3:a:crocoblock:jetelements:2.6.18:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9501EB84-6366-41CF-949D-0187B44DFBC0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:crocoblock:jetelements:2.6.19:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A623AC99-7111-42AF-8484-DB3ED3DD4459"
+		},
+		{
+			"cpeName": "cpe:2.3:a:crocoblock:jetelements:2.6.20:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F5D32361-7660-4991-9F0F-DDCACA427A66"
 		}
 	]
 }

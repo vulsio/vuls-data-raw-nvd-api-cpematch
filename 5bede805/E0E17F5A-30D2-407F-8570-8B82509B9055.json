@@ -4,10 +4,14 @@
 	"versionStartIncluding": "5.2020.2",
 	"versionEndExcluding": "5.2022.5",
 	"created": "2024-09-12T19:51:28.767",
-	"lastModified": "2024-09-12T19:51:28.767",
-	"cpeLastModified": "2024-09-12T19:51:28.767",
+	"lastModified": "2024-09-13T20:16:17.943",
+	"cpeLastModified": "2024-09-13T20:16:17.943",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:payara:payara:5.2020.2:*:*:*:community:*:*:*",
+			"cpeNameId": "56A03B39-89B7-4A7E-86D2-06303247CD8C"
+		},
 		{
 			"cpeName": "cpe:2.3:a:payara:payara:5.2020.3:*:*:*:community:*:*:*",
 			"cpeNameId": "47D7737B-B08B-4E6E-9641-513E3361C062"
