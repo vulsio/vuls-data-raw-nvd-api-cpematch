@@ -4,9 +4,13 @@
 	"versionEndExcluding": "3.3.1",
 	"created": "2024-09-11T20:00:56.870",
 	"lastModified": "2024-09-11T20:00:56.870",
-	"cpeLastModified": "2024-09-11T20:00:56.870",
+	"cpeLastModified": "2024-09-16T13:54:01.560",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:qnap:helpdesk:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BB9F68B9-4EDB-4672-AA36-C19CF9945DEB"
+		},
 		{
 			"cpeName": "cpe:2.3:a:qnap:helpdesk:1.0.06:*:*:*:*:*:*:*",
 			"cpeNameId": "6B1D700A-EA87-432E-85BD-AEF9410AE89A"

@@ -5,7 +5,7 @@
 	"versionEndIncluding": "4.4.0",
 	"created": "2019-12-09T02:31:04.257",
 	"lastModified": "2019-12-09T02:31:04.257",
-	"cpeLastModified": "2024-03-20T13:57:27.073",
+	"cpeLastModified": "2024-09-16T13:55:38.943",
 	"status": "Active",
 	"matches": [
 		{
@@ -323,6 +323,14 @@
 		{
 			"cpeName": "cpe:2.3:o:qnap:qts:4.3.6.2441:build_20230621:*:*:*:*:*:*",
 			"cpeNameId": "C1933538-50B7-4352-9F62-ECDE8794286B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:qts:4.3.6.2665:build_20240131:*:*:*:*:*:*",
+			"cpeNameId": "C39EC493-8C48-410B-A9E7-CB5EB9936D84"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:qts:4.3.6.2805:build_20240619:*:*:*:*:*:*",
+			"cpeNameId": "7E6098C6-B804-4602-843E-85EB0907A260"
 		},
 		{
 			"cpeName": "cpe:2.3:o:qnap:qts:4.4.0:*:*:*:*:*:*:*",

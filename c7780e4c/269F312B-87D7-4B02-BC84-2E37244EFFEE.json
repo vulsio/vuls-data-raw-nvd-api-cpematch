@@ -5,6 +5,12 @@
 	"versionEndExcluding": "2.4.0.0570",
 	"created": "2024-09-11T21:42:27.463",
 	"lastModified": "2024-09-11T21:42:27.463",
-	"cpeLastModified": "2024-09-11T21:42:27.463",
-	"status": "Active"
+	"cpeLastModified": "2024-09-16T13:54:01.560",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:qnap:qvr_smart_client:2.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "0C1FFBB6-A32B-48B6-88CC-794288B1162A"
+		}
+	]
 }
