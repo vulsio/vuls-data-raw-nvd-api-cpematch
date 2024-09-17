@@ -5,7 +5,7 @@
 	"versionEndIncluding": "6.11.8",
 	"created": "2024-09-05T15:53:03.100",
 	"lastModified": "2024-09-05T15:53:03.100",
-	"cpeLastModified": "2024-09-05T15:53:03.100",
+	"cpeLastModified": "2024-09-17T12:33:59.870",
 	"status": "Active",
 	"matches": [
 		{
@@ -15,6 +15,10 @@
 		{
 			"cpeName": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.11.1:*:*:*:*:*:*:*",
 			"cpeNameId": "B04B230F-5999-42BD-8A8A-BD6F5859ADA1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.11.8:*:*:*:*:*:*:*",
+			"cpeNameId": "5FD6708B-7908-4857-BA66-88EEA30088AD"
 		}
 	]
 }

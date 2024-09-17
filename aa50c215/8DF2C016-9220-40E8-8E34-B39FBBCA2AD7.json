@@ -3,8 +3,8 @@
 	"matchCriteriaId": "8DF2C016-9220-40E8-8E34-B39FBBCA2AD7",
 	"versionEndExcluding": "2.19.0",
 	"created": "2024-09-11T20:51:35.333",
-	"lastModified": "2024-09-11T20:51:35.333",
-	"cpeLastModified": "2024-09-16T16:34:40.670",
+	"lastModified": "2024-09-17T16:01:19.627",
+	"cpeLastModified": "2024-09-17T16:01:19.627",
 	"status": "Active",
 	"matches": [
 		{
@@ -378,6 +378,370 @@
 		{
 			"cpeName": "cpe:2.3:a:halo:halo:1.6.1:*:*:*:*:*:*:*",
 			"cpeNameId": "9B279974-7DBF-4380-96A6-D94251AE9FE5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.0.0:-:*:*:*:*:*:*",
+			"cpeNameId": "667A405D-3F0B-4163-B8BC-8CF38EFBFA2F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.0.0:alpha1:*:*:*:*:*:*",
+			"cpeNameId": "71BEF8AF-01D7-47C0-A31D-4036401D2A02"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.0.0:alpha2:*:*:*:*:*:*",
+			"cpeNameId": "241A0222-E8FA-4D89-B90B-AC6CF99E2C9E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.0.0:alpha3:*:*:*:*:*:*",
+			"cpeNameId": "BC1340FD-A8C3-49FF-B710-3C79B37253BA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.0.0:alpha4:*:*:*:*:*:*",
+			"cpeNameId": "C18D7939-FA76-45B7-971A-7ABBBB758FD0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.0.0:beta1:*:*:*:*:*:*",
+			"cpeNameId": "3F0481C9-DF86-464A-AB08-DFBBCE74AFAA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.0.0:beta2:*:*:*:*:*:*",
+			"cpeNameId": "EE6D9842-8273-486E-8708-503BF9D7178B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.0.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "14329D24-E697-462F-97AF-68ABD25AFF55"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.0.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "C53A2931-A293-484F-9FA2-B3E79F0265ED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "24D4821B-5D55-4D87-8CF0-5EBE5A3EE823"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "7DCD6558-FD4E-43A0-827D-E3E03931ABA4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "CBA8DA3B-180F-4EB1-B0FC-827F2FAEC2A9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.1.0:-:*:*:*:*:*:*",
+			"cpeNameId": "43B42916-AE39-4EB4-8701-9E90DF52722F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.1.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "CCEC2F2F-D050-455E-A33C-90541509DE15"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "2FE0F6B8-BBEB-4817-98CC-3FC014C58025"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "055358C3-75F9-4826-8362-AE47DFC40A26"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.3.0:-:*:*:*:*:*:*",
+			"cpeNameId": "2772DA96-C4B6-4528-8F1A-D252E3985D2E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.3.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "26C07B37-BFA7-4CAF-876B-98B13495618E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "47393AAC-910C-4CC4-B914-735835C9A978"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.3.2:*:*:*:*:*:*:*",
+			"cpeNameId": "F1DE0DB7-E182-46C5-ACBD-43002594BB9B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.4.0:-:*:*:*:*:*:*",
+			"cpeNameId": "B3FC63F0-D384-443D-8936-42418CFDF633"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.4.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "2530B723-C8B8-4F9A-8BBA-709332270F7A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.4.1:*:*:*:*:*:*:*",
+			"cpeNameId": "72681DC2-1213-4CBE-ACCE-79F587B9CE98"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.4.2:*:*:*:*:*:*:*",
+			"cpeNameId": "4FA89FAD-F58D-4135-927E-D5AE6080FBA3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.4.3:*:*:*:*:*:*:*",
+			"cpeNameId": "58507B83-F60D-45D1-BDE1-E54E251046FD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.5.0:-:*:*:*:*:*:*",
+			"cpeNameId": "69442BC3-985F-472A-B9F7-74F88592BA84"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.5.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "643E2F6B-5368-4B8C-AB01-D3287224C894"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.5.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "EB7B729A-FFCA-43CB-A14E-61A1E11DE2B6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "12237778-72A4-48C4-9C89-430B73563425"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.5.2:*:*:*:*:*:*:*",
+			"cpeNameId": "409345B7-DDD6-4631-9942-39B6B5DA8413"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.5.3:*:*:*:*:*:*:*",
+			"cpeNameId": "AEFB72C4-028E-4A5D-AD28-05C3141407FE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.6.0:-:*:*:*:*:*:*",
+			"cpeNameId": "53F3A77C-F8A3-4E4F-8FAF-525AA2316AB4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.6.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "18FCCD4E-A21F-445D-B406-30FC750FD412"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.6.1:*:*:*:*:*:*:*",
+			"cpeNameId": "799B01A6-ED1C-4DCF-8B54-CE0D92322841"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.7.0:-:*:*:*:*:*:*",
+			"cpeNameId": "99A63C2F-E14C-4FBA-BAFD-7F9EDFC66C7A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.7.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "F3725EBA-9C76-49C4-A6C2-10ABBF483DB5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.7.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "52E698CE-8A34-47B1-9E45-3EFE65D42420"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.8.0:-:*:*:*:*:*:*",
+			"cpeNameId": "E1BC597C-F893-43FB-BAF5-C413FBFBCF71"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.8.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "0B071582-509C-442A-A27B-4BB24D2E46D4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.8.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "C929184C-74BD-44DF-8952-CD3F246D7ED6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.9.0:-:*:*:*:*:*:*",
+			"cpeNameId": "B02781CF-6881-4404-89DE-641A1E6388ED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.9.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "8CB88E9C-1436-4AA5-87C7-3C3BD795153B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.9.1:*:*:*:*:*:*:*",
+			"cpeNameId": "5087E11C-A6C6-4DD4-9C63-D53722E50A46"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.9.2:*:*:*:*:*:*:*",
+			"cpeNameId": "8D4DF2C7-873E-432C-9756-244D0B453CDB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.10.0:-:*:*:*:*:*:*",
+			"cpeNameId": "FBB7A2E5-18B1-44EC-9F06-FD49D1D5689D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.10.0:alpha1:*:*:*:*:*:*",
+			"cpeNameId": "6B8C1ED5-7244-4D0F-96E8-9524F3936FC8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.10.0:beta1:*:*:*:*:*:*",
+			"cpeNameId": "D0CDBB39-4A34-453D-97D6-ED11D9157BF1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.10.1:*:*:*:*:*:*:*",
+			"cpeNameId": "D22E88F3-6D92-4F25-B1EA-72B0497421B8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.10.2:*:*:*:*:*:*:*",
+			"cpeNameId": "B3F4E98F-C447-4F79-8310-E05C0FAD5F1F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.11.0:-:*:*:*:*:*:*",
+			"cpeNameId": "AB8561A3-6FD0-4B07-A01E-1B55B95D6AB3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.11.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "EABF64AC-F00F-4E53-B520-19D6171784C4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.11.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "AED24886-3606-436A-929E-3E3FBA136CD2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.11.1:*:*:*:*:*:*:*",
+			"cpeNameId": "53EE6254-C7F2-46DC-B697-541CBCFA4020"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.11.2:*:*:*:*:*:*:*",
+			"cpeNameId": "CD4E20DE-ACC6-496D-9C2D-F1CABC20263F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.11.3:*:*:*:*:*:*:*",
+			"cpeNameId": "79F6E21F-4814-4290-B1F9-B1022F762ABE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.12.0:-:*:*:*:*:*:*",
+			"cpeNameId": "9D5C9050-423F-4482-8CCE-A96A20122F6F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.12.0:alpha1:*:*:*:*:*:*",
+			"cpeNameId": "F29A97E7-C0B7-48EB-8FCC-0D443AAF7171"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.12.0:alpha2:*:*:*:*:*:*",
+			"cpeNameId": "88C8D984-CDFB-4706-A092-0674A76B645A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.12.0:beta1:*:*:*:*:*:*",
+			"cpeNameId": "17BAD38D-9E90-4D0D-B4D3-42FC7BED01AC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.12.0:beta2:*:*:*:*:*:*",
+			"cpeNameId": "E1AD7CA1-C72D-4B05-A184-881F0EA72155"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.12.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "884C2BD3-67BD-4DBB-ADAB-1964C4E9210A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.12.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "B6AA4E65-9A0A-4834-8268-8E9AEAC07A86"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.12.1:*:*:*:*:*:*:*",
+			"cpeNameId": "46B5D3C2-561B-4E0D-9CE6-44D580C6DA62"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.12.2:*:*:*:*:*:*:*",
+			"cpeNameId": "81798B63-E89D-4EB7-B142-0693909D4805"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.12.3:*:*:*:*:*:*:*",
+			"cpeNameId": "4708BFB9-E699-4A2B-AE02-C822EB545461"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.12.4:*:*:*:*:*:*:*",
+			"cpeNameId": "2D2E4A5F-9F07-443B-8B50-AE0CBB3A09CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.13.0:-:*:*:*:*:*:*",
+			"cpeNameId": "7C18C94E-70B7-407D-9CF8-3CA02469EEBE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.13.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "B4336C03-A4A4-459C-9370-51F29353AB17"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.13.1:*:*:*:*:*:*:*",
+			"cpeNameId": "1D380765-5FC0-4293-A329-EA795C6E5143"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.14.0:-:*:*:*:*:*:*",
+			"cpeNameId": "4C386394-AF12-4372-90C2-636AD76D76F3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.14.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "69D09F54-AFC9-45DB-8B73-DB6E4605FB89"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.14.1:*:*:*:*:*:*:*",
+			"cpeNameId": "7D5CB738-32F0-4D63-9082-8BCEF2446AB5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.15.0:-:*:*:*:*:*:*",
+			"cpeNameId": "68E2F1E9-3B91-4734-8DF9-4901355BB88F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.15.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "7E106D77-B93A-44FB-B3D0-AEF2883587CB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.15.1:*:*:*:*:*:*:*",
+			"cpeNameId": "62F7B611-6171-4F4A-88EF-2836BA38CEE0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.15.2:*:*:*:*:*:*:*",
+			"cpeNameId": "27EA5C12-5118-40A9-A95A-E31F548319E0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.16.0:-:*:*:*:*:*:*",
+			"cpeNameId": "95E13E8B-56BC-44D0-94F1-CC113B6CC342"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.16.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "4101621E-F203-4D75-AABA-A15C6023E8D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.16.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "1777693C-EDB6-4713-BCC4-59E0A8B391AB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.16.1:*:*:*:*:*:*:*",
+			"cpeNameId": "83097A33-7CC9-46D6-BA62-46407CA108A5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.16.2:*:*:*:*:*:*:*",
+			"cpeNameId": "19EB70A3-B1D6-46CF-B887-01690BE9B202"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.16.3:*:*:*:*:*:*:*",
+			"cpeNameId": "EBFDFE47-80C1-4FFA-91D8-54756A428193"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.17.0:-:*:*:*:*:*:*",
+			"cpeNameId": "51B46758-2B27-4ADE-B573-462A980AED6F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.17.0:alpha1:*:*:*:*:*:*",
+			"cpeNameId": "EB3836FC-CED1-419D-8551-C3E23AE15224"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.17.0:alpha2:*:*:*:*:*:*",
+			"cpeNameId": "4D818C74-F06F-4371-8962-A85735B0B884"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.17.0:beta1:*:*:*:*:*:*",
+			"cpeNameId": "C7C1A639-A335-4906-99DA-24ECB5B1C27A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.17.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "F6408941-6BCD-48CA-AE76-FD7D691209BE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.17.1:*:*:*:*:*:*:*",
+			"cpeNameId": "CB136B73-82FB-4F80-8673-53F357EFFCA0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.17.2:*:*:*:*:*:*:*",
+			"cpeNameId": "DF39513D-781C-4F06-ADA4-702A09CB02B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.18.0:-:*:*:*:*:*:*",
+			"cpeNameId": "187D5F5C-2C42-4DA0-91A4-6CB4EF15A9CD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:halo:halo:2.18.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "31E071FB-D983-471C-8ACA-76C100F7DBF7"
 		}
 	]
 }
