@@ -3,8 +3,8 @@
 	"matchCriteriaId": "FF8A13B9-1EFA-484F-82D7-DEAF65D20165",
 	"versionEndExcluding": "1.2.37",
 	"created": "2024-09-17T13:42:16.230",
-	"lastModified": "2024-09-17T13:42:16.230",
-	"cpeLastModified": "2024-09-17T13:42:16.230",
+	"lastModified": "2024-09-19T21:36:23.500",
+	"cpeLastModified": "2024-09-19T21:36:23.500",
 	"status": "Active",
 	"matches": [
 		{
@@ -358,6 +358,14 @@
 		{
 			"cpeName": "cpe:2.3:a:kanboard:kanboard:1.2.34:*:*:*:*:*:*:*",
 			"cpeNameId": "B0787183-627A-4C4B-8A96-7930BBFFB737"
+		},
+		{
+			"cpeName": "cpe:2.3:a:kanboard:kanboard:1.2.35:*:*:*:*:*:*:*",
+			"cpeNameId": "9A753BB2-6B4A-4B54-A5EF-D3B58DC0A58F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:kanboard:kanboard:1.2.36:*:*:*:*:*:*:*",
+			"cpeNameId": "50F7B3B2-A7D8-4BB1-9250-57B483E56703"
 		}
 	]
 }

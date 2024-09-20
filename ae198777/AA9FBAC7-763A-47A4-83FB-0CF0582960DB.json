@@ -3,8 +3,8 @@
 	"matchCriteriaId": "AA9FBAC7-763A-47A4-83FB-0CF0582960DB",
 	"versionEndExcluding": "1.5.10.47",
 	"created": "2024-09-10T16:44:00.953",
-	"lastModified": "2024-09-10T16:44:00.953",
-	"cpeLastModified": "2024-09-10T16:44:00.953",
+	"lastModified": "2024-09-19T21:51:22.157",
+	"cpeLastModified": "2024-09-19T21:51:22.157",
 	"status": "Active",
 	"matches": [
 		{
@@ -112,8 +112,20 @@
 			"cpeNameId": "DF92FDC9-29F9-4A0F-A979-34A0763C34B3"
 		},
 		{
+			"cpeName": "cpe:2.3:a:fogproject:fogproject:1.5.10.30:*:*:*:*:*:*:*",
+			"cpeNameId": "821F6966-8C4A-4DB9-AAE4-DB0F9788C98F"
+		},
+		{
 			"cpeName": "cpe:2.3:a:fogproject:fogproject:1.5.10.41:*:*:*:*:*:*:*",
 			"cpeNameId": "229F2B5C-3491-4CFE-BFCE-EA17FFE3EB28"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fogproject:fogproject:1.5.10.41.2:*:*:*:*:*:*:*",
+			"cpeNameId": "F655BE28-BEB5-4D36-A351-A029D9DB8128"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fogproject:fogproject:1.5.10.41.3:*:*:*:*:*:*:*",
+			"cpeNameId": "560250F0-ABAE-4AAC-9762-8D499028FC23"
 		}
 	]
 }

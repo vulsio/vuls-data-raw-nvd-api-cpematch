@@ -4,7 +4,7 @@
 	"versionEndIncluding": "8.2.2",
 	"created": "2024-01-10T20:11:38.123",
 	"lastModified": "2024-01-10T20:11:38.123",
-	"cpeLastModified": "2024-01-10T20:11:38.123",
+	"cpeLastModified": "2024-09-20T16:27:53.840",
 	"status": "Active",
 	"matches": [
 		{
@@ -1800,8 +1800,16 @@
 			"cpeNameId": "8F47F473-FE67-4D42-8A58-52B615398DF5"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:7.8.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F373796A-82E1-461A-961C-A40B65744D94"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:7.9.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "2DB03DE2-98C7-4FF1-AC32-DEFB74CD3CC9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:7.9.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "81B44895-221E-4032-BCDA-10124B24DAC4"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:8.0.0:*:*:*:*:wordpress:*:*",
@@ -1820,12 +1828,20 @@
 			"cpeNameId": "1BC0999A-8811-4637-93BD-509EE39C5364"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:8.0.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D97D6D9D-31CE-4B15-AC51-A9AAB5790449"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:8.1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "7F0F8A20-FA1A-4A2A-AB47-3FF0223CABCB"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:8.1.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "A6E35B4D-9C39-4EA1-BDD6-F8405AEEB8F4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:8.1.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BF20969F-5DDB-45D6-8CCC-5E24880ECD0E"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:8.2.0:*:*:*:*:wordpress:*:*",

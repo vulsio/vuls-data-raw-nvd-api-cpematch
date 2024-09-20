@@ -3,8 +3,8 @@
 	"matchCriteriaId": "2B6E8490-E280-46CD-8543-8AA4D8654259",
 	"versionEndExcluding": "23.6.9",
 	"created": "2024-09-13T17:46:04.543",
-	"lastModified": "2024-09-13T17:46:04.543",
-	"cpeLastModified": "2024-09-13T17:46:04.543",
+	"lastModified": "2024-09-19T20:42:20.887",
+	"cpeLastModified": "2024-09-19T20:42:20.887",
 	"status": "Active",
 	"matches": [
 		{
@@ -90,6 +90,10 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:media_encoder:22.1.1:*:*:*:*:*:*:*",
 			"cpeNameId": "986D70AB-79A2-4932-8999-E8F4AEA7477A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:media_encoder:23.6.8:*:*:*:*:*:*:*",
+			"cpeNameId": "6D93D374-1315-4089-A459-7529F4341C6F"
 		}
 	]
 }

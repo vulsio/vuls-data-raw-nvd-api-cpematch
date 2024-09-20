@@ -4,7 +4,7 @@
 	"versionEndExcluding": "3.12.0",
 	"created": "2024-08-19T16:09:28.090",
 	"lastModified": "2024-08-20T12:18:57.550",
-	"cpeLastModified": "2024-08-20T12:18:57.550",
+	"cpeLastModified": "2024-09-19T11:53:34.067",
 	"status": "Active",
 	"matches": [
 		{
@@ -738,6 +738,66 @@
 		{
 			"cpeName": "cpe:2.3:a:nextcloud:desktop:3.8.0:*:*:*:*:*:*:*",
 			"cpeNameId": "73CDF4AE-98B4-429D-A171-A81745BA48B7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:desktop:3.8.1:*:*:*:*:*:*:*",
+			"cpeNameId": "58E5F0B7-4960-42BA-9573-5CF7D72B27FA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:desktop:3.8.2:*:*:*:*:*:*:*",
+			"cpeNameId": "B8862080-1C53-4A1F-8C9C-7596DE0332AF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:desktop:3.9.0:-:*:*:*:*:*:*",
+			"cpeNameId": "28F84E8A-8AC5-4E7E-836D-38D3C493724C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:desktop:3.9.1:*:*:*:*:*:*:*",
+			"cpeNameId": "B14AB62F-2F7B-4D10-BAE9-F60D7A8DD053"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:desktop:3.9.2:*:*:*:*:*:*:*",
+			"cpeNameId": "6EC7C091-F53D-432C-BFF6-6561521F486F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:desktop:3.9.3:*:*:*:*:*:*:*",
+			"cpeNameId": "2CEA3BCD-1C14-48C5-BF33-1290069A7991"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:desktop:3.9.4:*:*:*:*:*:*:*",
+			"cpeNameId": "CB90DE0D-8846-489C-9A8F-AE7722C8F416"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:desktop:3.10.0:-:*:*:*:*:*:*",
+			"cpeNameId": "C5C30E5C-FAEC-4530-8B1F-35066066DC15"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:desktop:3.10.1:*:*:*:*:*:*:*",
+			"cpeNameId": "7EADD533-2248-429C-AFC1-58B87A44BB21"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:desktop:3.10.2:*:*:*:*:*:*:*",
+			"cpeNameId": "DE7E2CCF-688D-4754-ABE2-CBDD154E72CA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:desktop:3.10.3:*:*:*:*:*:*:*",
+			"cpeNameId": "04DC44F5-ED3C-4644-8810-713E7E6C7BD0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:desktop:3.10.4:*:*:*:*:*:*:*",
+			"cpeNameId": "C4FAB902-F76B-4346-B7EA-D3AC79A4802A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:desktop:3.11.0:-:*:*:*:*:*:*",
+			"cpeNameId": "AC7CF75A-870C-4B07-8317-9813DE1770CE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:desktop:3.11.1:*:*:*:*:*:*:*",
+			"cpeNameId": "1FA18290-CB48-4338-A505-86939E0F6DDC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:desktop:3.11.2:*:*:*:*:*:*:*",
+			"cpeNameId": "1DB67666-F36E-44EA-BFF1-5BA2124CE1E3"
 		}
 	]
 }

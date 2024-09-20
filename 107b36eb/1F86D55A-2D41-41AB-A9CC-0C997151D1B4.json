@@ -5,7 +5,7 @@
 	"versionEndExcluding": "17.2.2",
 	"created": "2024-08-08T14:01:49.140",
 	"lastModified": "2024-08-08T17:28:23.033",
-	"cpeLastModified": "2024-09-13T20:37:18.097",
+	"cpeLastModified": "2024-09-19T22:08:18.980",
 	"status": "Active",
 	"matches": [
 		{
@@ -23,6 +23,10 @@
 		{
 			"cpeName": "cpe:2.3:a:gitlab:gitlab:17.2.1:*:*:*:*:*:*:*",
 			"cpeNameId": "7F0288B9-BBDB-4D0F-8436-B10914B39269"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gitlab:gitlab:17.2.1:*:*:*:community:*:*:*",
+			"cpeNameId": "D2A29E55-DBA3-4A18-963F-6BAE1D0BBCE0"
 		},
 		{
 			"cpeName": "cpe:2.3:a:gitlab:gitlab:17.2.1:*:*:*:enterprise:*:*:*",

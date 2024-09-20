@@ -5,7 +5,7 @@
 	"versionEndIncluding": "1.5.10.41",
 	"created": "2024-08-02T19:33:41.220",
 	"lastModified": "2024-08-05T17:15:58.620",
-	"cpeLastModified": "2024-08-05T17:15:58.620",
+	"cpeLastModified": "2024-09-19T21:51:22.157",
 	"status": "Active",
 	"matches": [
 		{
@@ -15,6 +15,10 @@
 		{
 			"cpeName": "cpe:2.3:a:fogproject:fogproject:1.5.10.15:*:*:*:*:*:*:*",
 			"cpeNameId": "DF92FDC9-29F9-4A0F-A979-34A0763C34B3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fogproject:fogproject:1.5.10.30:*:*:*:*:*:*:*",
+			"cpeNameId": "821F6966-8C4A-4DB9-AAE4-DB0F9788C98F"
 		},
 		{
 			"cpeName": "cpe:2.3:a:fogproject:fogproject:1.5.10.41:*:*:*:*:*:*:*",

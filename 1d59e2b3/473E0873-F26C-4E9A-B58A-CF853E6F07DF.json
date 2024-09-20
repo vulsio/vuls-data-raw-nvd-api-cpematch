@@ -3,8 +3,8 @@
 	"matchCriteriaId": "473E0873-F26C-4E9A-B58A-CF853E6F07DF",
 	"versionEndExcluding": "7.6.0",
 	"created": "2024-08-19T11:21:06.400",
-	"lastModified": "2024-08-19T11:21:06.400",
-	"cpeLastModified": "2024-08-19T11:21:06.400",
+	"lastModified": "2024-09-19T22:01:35.547",
+	"cpeLastModified": "2024-09-19T22:01:35.547",
 	"status": "Active",
 	"matches": [
 		{
@@ -70,6 +70,26 @@
 		{
 			"cpeName": "cpe:2.3:a:fortra:goanywhere_managed_file_transfer:7.4.1:*:*:*:*:*:*:*",
 			"cpeNameId": "29E8C35D-C73A-4304-9420-6710D2F9776D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortra:goanywhere_managed_file_transfer:7.4.2:*:*:*:*:*:*:*",
+			"cpeNameId": "2DED6CB9-44CE-4C63-BCDB-B8C28AE9A0B6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortra:goanywhere_managed_file_transfer:7.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "FC949A15-B9D5-4E77-948B-7399D3F0FADF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortra:goanywhere_managed_file_transfer:7.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "C07A8C20-10EE-443B-AF44-135B31A8DA14"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortra:goanywhere_managed_file_transfer:7.5.2:*:*:*:*:*:*:*",
+			"cpeNameId": "3154A9D4-ABEE-426B-8F54-06190B0CAA3A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortra:goanywhere_managed_file_transfer:7.5.3:*:*:*:*:*:*:*",
+			"cpeNameId": "4B1CFD9A-6FC9-4795-803B-F4813734A700"
 		}
 	]
 }
