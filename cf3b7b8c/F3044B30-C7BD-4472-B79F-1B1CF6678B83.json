@@ -4,9 +4,13 @@
 	"versionEndIncluding": "3.10.5",
 	"created": "2021-07-30T16:35:41.253",
 	"lastModified": "2021-07-30T16:35:41.253",
-	"cpeLastModified": "2021-07-30T16:35:41.253",
+	"cpeLastModified": "2024-09-23T13:11:26.647",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:openjsf:express:-:*:*:*:*:node.js:*:*",
+			"cpeNameId": "AD286AF4-EA69-402E-AE1B-E110968C51BB"
+		},
 		{
 			"cpeName": "cpe:2.3:a:openjsf:express:0.0.1:*:*:*:*:node.js:*:*",
 			"cpeNameId": "9A12FE9C-B9B1-4208-BFCF-011A05E93411"

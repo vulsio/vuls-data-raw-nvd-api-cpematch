@@ -4,8 +4,8 @@
 	"versionStartIncluding": "5.3",
 	"versionEndExcluding": "5.4.283",
 	"created": "2024-09-06T13:17:50.940",
-	"lastModified": "2024-09-06T13:17:50.940",
-	"cpeLastModified": "2024-09-06T13:17:50.940",
+	"lastModified": "2024-09-23T13:45:03.520",
+	"cpeLastModified": "2024-09-23T13:45:03.520",
 	"status": "Active",
 	"matches": [
 		{
@@ -1259,6 +1259,10 @@
 		{
 			"cpeName": "cpe:2.3:o:linux:linux_kernel:5.4.280:*:*:*:*:*:*:*",
 			"cpeNameId": "9513977F-A95A-4F0F-AADE-B21201231052"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:5.4.282:*:*:*:*:*:*:*",
+			"cpeNameId": "6057E10C-DE66-4645-A2B5-44203C31F784"
 		}
 	]
 }

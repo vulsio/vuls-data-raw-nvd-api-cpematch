@@ -5,7 +5,7 @@
 	"versionEndExcluding": "6.6.14",
 	"created": "2024-03-14T16:56:16.283",
 	"lastModified": "2024-03-14T16:56:16.283",
-	"cpeLastModified": "2024-08-12T17:18:12.723",
+	"cpeLastModified": "2024-09-23T13:45:03.520",
 	"status": "Active",
 	"matches": [
 		{
@@ -115,6 +115,10 @@
 		{
 			"cpeName": "cpe:2.3:o:linux:linux_kernel:5.12.19:*:*:*:*:*:*:*",
 			"cpeNameId": "6CE0FEDB-F644-4A9C-A88A-8F9D69B58BBA"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:5.12.25:*:*:*:*:*:*:*",
+			"cpeNameId": "E9B47122-76AA-45F9-9BA9-9AA7D47E1819"
 		},
 		{
 			"cpeName": "cpe:2.3:o:linux:linux_kernel:5.13:-:*:*:*:*:*:*",
@@ -973,6 +977,10 @@
 			"cpeNameId": "405263B7-A847-493D-BAC8-67CDC081E8A8"
 		},
 		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:5.15.155:*:*:*:*:*:*:*",
+			"cpeNameId": "82D13E0C-C092-4C55-8F8E-A8EC9F7C5B28"
+		},
+		{
 			"cpeName": "cpe:2.3:o:linux:linux_kernel:5.15.156:*:*:*:*:*:*:*",
 			"cpeNameId": "0208D826-E36F-43ED-94E2-47B3786BDA8A"
 		},
@@ -995,6 +1003,22 @@
 		{
 			"cpeName": "cpe:2.3:o:linux:linux_kernel:5.15.163:*:*:*:*:*:*:*",
 			"cpeNameId": "9F1AF162-C909-4161-9860-93F52BA93C11"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:5.15.164:*:*:*:*:*:*:*",
+			"cpeNameId": "E82128C3-95AC-4517-8595-90030EB8B1B7"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:5.15.165:*:*:*:*:*:*:*",
+			"cpeNameId": "DD75A3C4-3B2C-47C3-8249-25430F6326F6"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:5.15.166:*:*:*:*:*:*:*",
+			"cpeNameId": "C4AE610D-F204-40F4-9F0E-A12F96513628"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:5.15.167:*:*:*:*:*:*:*",
+			"cpeNameId": "AD2CD499-D496-457D-B206-76DD055935D8"
 		},
 		{
 			"cpeName": "cpe:2.3:o:linux:linux_kernel:5.16:-:*:*:*:*:*:*",
@@ -1893,8 +1917,16 @@
 			"cpeNameId": "14B574EE-69F8-4E87-9017-91CBFDAEC743"
 		},
 		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:6.1.81:*:*:*:*:*:*:*",
+			"cpeNameId": "94E966D4-1DB0-4695-98DA-A28CB90D32EB"
+		},
+		{
 			"cpeName": "cpe:2.3:o:linux:linux_kernel:6.1.84:*:*:*:*:*:*:*",
 			"cpeNameId": "61BB8657-3718-4355-BAA8-92F84B14D1A8"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:6.1.85:*:*:*:*:*:*:*",
+			"cpeNameId": "A599E08D-FD19-4E86-A335-C107B0C6CB0B"
 		},
 		{
 			"cpeName": "cpe:2.3:o:linux:linux_kernel:6.1.89:*:*:*:*:*:*:*",
@@ -1951,6 +1983,30 @@
 		{
 			"cpeName": "cpe:2.3:o:linux:linux_kernel:6.1.103:*:*:*:*:*:*:*",
 			"cpeNameId": "C3564FF2-0B2D-42BF-AA29-3AAF57DF9D0B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:6.1.105:*:*:*:*:*:*:*",
+			"cpeNameId": "BC26835E-2E39-465E-B48C-E871C740CB06"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:6.1.106:*:*:*:*:*:*:*",
+			"cpeNameId": "2142A9D9-E547-4FE9-BDA3-B7B27D3CEF4D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:6.1.107:*:*:*:*:*:*:*",
+			"cpeNameId": "9F7EB5C3-3C76-4816-BB64-A0D47A8FF148"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:6.1.108:*:*:*:*:*:*:*",
+			"cpeNameId": "A0B4BCED-0919-484E-B64A-2D6F944128BC"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:6.1.109:*:*:*:*:*:*:*",
+			"cpeNameId": "14C4B1A8-4457-4620-A2F4-A7BAAB479E01"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:6.1.110:*:*:*:*:*:*:*",
+			"cpeNameId": "08F57941-7A99-4F2F-982B-54B72CA90ECA"
 		},
 		{
 			"cpeName": "cpe:2.3:o:linux:linux_kernel:6.2:-:*:*:*:*:*:*",

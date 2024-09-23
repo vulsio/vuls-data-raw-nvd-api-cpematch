@@ -5,7 +5,7 @@
 	"versionEndExcluding": "3.9.17",
 	"created": "2024-09-17T12:53:13.813",
 	"lastModified": "2024-09-17T12:53:13.813",
-	"cpeLastModified": "2024-09-17T12:53:13.813",
+	"cpeLastModified": "2024-09-23T15:18:05.153",
 	"status": "Active",
 	"matches": [
 		{
@@ -55,6 +55,26 @@
 		{
 			"cpeName": "cpe:2.3:a:github:enterprise_server:3.9.11:*:*:*:*:*:*:*",
 			"cpeNameId": "A424AFE3-D7D7-4AB5-A0C5-997105AE75C5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.9.12:*:*:*:*:*:*:*",
+			"cpeNameId": "8AAD1373-C020-4CE8-969C-B00335C62BF3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.9.13:*:*:*:*:*:*:*",
+			"cpeNameId": "B33A9D57-6F80-4D72-8386-7C04251DEF11"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.9.14:*:*:*:*:*:*:*",
+			"cpeNameId": "89E58A84-DEAE-4AE9-B3B7-7CF0BBE7DA84"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.9.15:*:*:*:*:*:*:*",
+			"cpeNameId": "67A51258-2F5D-4BF7-8A2F-0D2E2E6463FA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:github:enterprise_server:3.9.16:*:*:*:*:*:*:*",
+			"cpeNameId": "BDF93DF0-5235-4BBE-A3C4-03049EC81844"
 		}
 	]
 }

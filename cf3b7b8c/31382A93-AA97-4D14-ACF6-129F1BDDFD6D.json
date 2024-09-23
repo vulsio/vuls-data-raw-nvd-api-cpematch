@@ -3,10 +3,14 @@
 	"matchCriteriaId": "31382A93-AA97-4D14-ACF6-129F1BDDFD6D",
 	"versionEndExcluding": "4.17.3",
 	"created": "2022-11-28T17:27:46.197",
-	"lastModified": "2022-11-28T17:27:46.197",
-	"cpeLastModified": "2022-11-28T17:27:46.197",
+	"lastModified": "2024-09-23T13:11:26.647",
+	"cpeLastModified": "2024-09-23T13:11:26.647",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:openjsf:express:-:*:*:*:*:node.js:*:*",
+			"cpeNameId": "AD286AF4-EA69-402E-AE1B-E110968C51BB"
+		},
 		{
 			"cpeName": "cpe:2.3:a:openjsf:express:0.0.1:*:*:*:*:node.js:*:*",
 			"cpeNameId": "9A12FE9C-B9B1-4208-BFCF-011A05E93411"
@@ -1094,6 +1098,10 @@
 		{
 			"cpeName": "cpe:2.3:a:openjsf:express:4.17.1:*:*:*:*:node.js:*:*",
 			"cpeNameId": "DE976235-8E97-4612-BF08-582399D42B6F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openjsf:express:4.17.2:*:*:*:*:node.js:*:*",
+			"cpeNameId": "DE3906A4-78FC-43F8-B7B4-56B5D3498A50"
 		}
 	]
 }

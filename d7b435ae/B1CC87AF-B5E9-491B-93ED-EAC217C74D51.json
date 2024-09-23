@@ -4,7 +4,7 @@
 	"versionEndExcluding": "4.13.1.0",
 	"created": "2020-05-19T15:37:37.977",
 	"lastModified": "2020-05-19T15:37:37.977",
-	"cpeLastModified": "2024-07-08T13:38:12.117",
+	"cpeLastModified": "2024-09-23T14:41:27.467",
 	"status": "Active",
 	"matches": [
 		{
@@ -186,6 +186,10 @@
 		{
 			"cpeName": "cpe:2.3:a:apache:cloudstack:4.4.4:*:*:*:*:*:*:*",
 			"cpeNameId": "5A1F875B-0DA4-4853-B141-344A66F7F34B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:cloudstack:4.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C5A0D7A5-2EB8-4A33-B265-2D4A2A41DC84"
 		},
 		{
 			"cpeName": "cpe:2.3:a:apache:cloudstack:4.5.1:*:*:*:*:*:*:*",

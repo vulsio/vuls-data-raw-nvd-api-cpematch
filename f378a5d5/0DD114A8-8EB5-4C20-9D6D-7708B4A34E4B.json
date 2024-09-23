@@ -4,6 +4,12 @@
 	"versionStartIncluding": "0.13.0",
 	"created": "2024-08-30T16:35:08.070",
 	"lastModified": "2024-08-30T16:35:08.070",
-	"cpeLastModified": "2024-08-30T16:35:08.070",
-	"status": "Active"
+	"cpeLastModified": "2024-09-23T14:41:27.467",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apache:iotdb_workbench:0.13.0:*:*:*:*:*:*:*",
+			"cpeNameId": "BF8E68D5-2C5E-48AD-BFE8-BC9D13E8FF50"
+		}
+	]
 }

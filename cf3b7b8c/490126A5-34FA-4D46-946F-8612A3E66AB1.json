@@ -3,10 +3,14 @@
 	"matchCriteriaId": "490126A5-34FA-4D46-946F-8612A3E66AB1",
 	"versionEndExcluding": "4.20.0",
 	"created": "2024-09-20T13:20:19.140",
-	"lastModified": "2024-09-20T13:20:19.140",
-	"cpeLastModified": "2024-09-20T13:20:19.140",
+	"lastModified": "2024-09-23T13:11:26.647",
+	"cpeLastModified": "2024-09-23T13:11:26.647",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:openjsf:express:-:*:*:*:*:node.js:*:*",
+			"cpeNameId": "AD286AF4-EA69-402E-AE1B-E110968C51BB"
+		},
 		{
 			"cpeName": "cpe:2.3:a:openjsf:express:0.0.1:*:*:*:*:node.js:*:*",
 			"cpeNameId": "9A12FE9C-B9B1-4208-BFCF-011A05E93411"
@@ -1094,6 +1098,42 @@
 		{
 			"cpeName": "cpe:2.3:a:openjsf:express:4.17.1:*:*:*:*:node.js:*:*",
 			"cpeNameId": "DE976235-8E97-4612-BF08-582399D42B6F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openjsf:express:4.17.2:*:*:*:*:node.js:*:*",
+			"cpeNameId": "DE3906A4-78FC-43F8-B7B4-56B5D3498A50"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openjsf:express:4.17.3:*:*:*:*:node.js:*:*",
+			"cpeNameId": "D6637E8C-49F8-4E67-AD6A-5775412AD6C8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openjsf:express:4.18.0:*:*:*:*:node.js:*:*",
+			"cpeNameId": "8BC7DDCA-F0C2-4FCE-8340-334A464ED1BB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openjsf:express:4.18.1:*:*:*:*:node.js:*:*",
+			"cpeNameId": "DDFA9287-83F2-49E8-8DE9-5DF1FA3318A8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openjsf:express:4.18.2:*:*:*:*:node.js:*:*",
+			"cpeNameId": "1233B5C1-AD7E-45ED-A73C-A27D841DEC93"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openjsf:express:4.18.3:*:*:*:*:node.js:*:*",
+			"cpeNameId": "7F7E0B75-4B9F-4140-8CF2-941487326A68"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openjsf:express:4.19.0:*:*:*:*:node.js:*:*",
+			"cpeNameId": "F5DE96FE-4FE8-408E-A59E-B5384BACED46"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openjsf:express:4.19.1:*:*:*:*:node.js:*:*",
+			"cpeNameId": "6FAE2322-0700-4F83-ADAA-7EA707B34B89"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openjsf:express:4.19.2:*:*:*:*:node.js:*:*",
+			"cpeNameId": "8F9F5027-2979-4391-A3E6-02471F516CE3"
 		}
 	]
 }

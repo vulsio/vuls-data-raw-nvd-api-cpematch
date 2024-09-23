@@ -4,7 +4,13 @@
 	"versionStartExcluding": "7.7.6",
 	"versionEndExcluding": "7.10.1.30",
 	"created": "2024-09-10T20:37:34.360",
-	"lastModified": "2024-09-10T20:37:34.360",
-	"cpeLastModified": "2024-09-10T20:37:34.360",
-	"status": "Active"
+	"lastModified": "2024-09-23T15:10:42.487",
+	"cpeLastModified": "2024-09-23T15:10:42.487",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:dell:powerprotect_data_domain:7.10.1.20:*:*:*:lts:*:*:*",
+			"cpeNameId": "41076963-30E7-4398-ABB9-77D7801739C5"
+		}
+	]
 }

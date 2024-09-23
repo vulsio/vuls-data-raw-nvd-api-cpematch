@@ -5,12 +5,16 @@
 	"versionEndExcluding": "6.1.94",
 	"created": "2024-07-29T19:45:47.167",
 	"lastModified": "2024-08-12T17:18:12.723",
-	"cpeLastModified": "2024-07-29T19:45:47.167",
+	"cpeLastModified": "2024-09-23T13:45:03.520",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:o:linux:linux_kernel:6.1.84:*:*:*:*:*:*:*",
 			"cpeNameId": "61BB8657-3718-4355-BAA8-92F84B14D1A8"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:6.1.85:*:*:*:*:*:*:*",
+			"cpeNameId": "A599E08D-FD19-4E86-A335-C107B0C6CB0B"
 		},
 		{
 			"cpeName": "cpe:2.3:o:linux:linux_kernel:6.1.89:*:*:*:*:*:*:*",

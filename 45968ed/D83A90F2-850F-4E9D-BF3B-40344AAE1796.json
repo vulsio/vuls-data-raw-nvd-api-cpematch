@@ -3,8 +3,8 @@
 	"matchCriteriaId": "D83A90F2-850F-4E9D-BF3B-40344AAE1796",
 	"versionEndExcluding": "4.2.7.1",
 	"created": "2024-09-12T17:53:35.883",
-	"lastModified": "2024-09-12T17:53:35.883",
-	"cpeLastModified": "2024-09-12T17:53:35.883",
+	"lastModified": "2024-09-23T14:15:04.927",
+	"cpeLastModified": "2024-09-23T14:15:04.927",
 	"status": "Active",
 	"matches": [
 		{
@@ -502,6 +502,10 @@
 		{
 			"cpeName": "cpe:2.3:a:thimpress:learnpress:4.2.6.9.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "5B247D0B-8325-447B-91F9-01796C349EE3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:thimpress:learnpress:4.2.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6E97D05E-AC2E-4224-A688-B5D1420D3FD0"
 		}
 	]
 }
