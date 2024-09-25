@@ -4,9 +4,13 @@
 	"versionEndIncluding": "6.9.2",
 	"created": "2023-09-19T19:01:42.127",
 	"lastModified": "2023-09-19T19:01:42.127",
-	"cpeLastModified": "2023-09-19T19:01:42.127",
+	"cpeLastModified": "2024-09-25T13:03:46.867",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:superstorefinder:super_store_finder:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D5EEDCCC-B8ED-4977-8C62-EA51AAC76283"
+		},
 		{
 			"cpeName": "cpe:2.3:a:superstorefinder:super_store_finder:1.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "FC58FA83-F53D-497E-B75D-43221D3199F1"

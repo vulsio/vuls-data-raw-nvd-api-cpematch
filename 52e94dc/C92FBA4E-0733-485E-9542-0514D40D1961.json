@@ -4,9 +4,13 @@
 	"versionEndIncluding": "4.9.9",
 	"created": "2023-03-29T17:15:13.937",
 	"lastModified": "2023-04-03T15:41:23.663",
-	"cpeLastModified": "2023-04-03T15:41:23.663",
+	"cpeLastModified": "2024-09-25T15:25:04.277",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:greenshiftwp:greenshift_-_animation_and_page_builder_blocks:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0B5546CF-BC89-4672-AC32-2CA4F106E8DA"
+		},
 		{
 			"cpeName": "cpe:2.3:a:greenshiftwp:greenshift_-_animation_and_page_builder_blocks:0.8.8:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "86193FB5-1DE9-49E2-9B69-A8638DBD1328"

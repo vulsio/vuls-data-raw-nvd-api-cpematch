@@ -3,8 +3,8 @@
 	"matchCriteriaId": "D8255B98-6D23-43D8-A72F-5CFA1F08DFF8",
 	"versionEndExcluding": "1.5.8",
 	"created": "2024-09-24T22:00:24.637",
-	"lastModified": "2024-09-24T22:00:24.637",
-	"cpeLastModified": "2024-09-24T22:00:24.637",
+	"lastModified": "2024-09-25T12:59:37.027",
+	"cpeLastModified": "2024-09-25T12:59:37.027",
 	"status": "Active",
 	"matches": [
 		{
@@ -162,6 +162,30 @@
 		{
 			"cpeName": "cpe:2.3:a:awplife:album_gallery:1.5.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "BFBB34D3-58B3-4E7E-8FA7-8689047E9B86"
+		},
+		{
+			"cpeName": "cpe:2.3:a:awplife:album_gallery:1.5.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "ED4D532E-1A2A-4383-983C-3E4552FE6461"
+		},
+		{
+			"cpeName": "cpe:2.3:a:awplife:album_gallery:1.5.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A1D6FFD7-4E69-4058-9400-7C29A60920BC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:awplife:album_gallery:1.5.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5F52858B-E982-4D2D-AA61-1AC262459538"
+		},
+		{
+			"cpeName": "cpe:2.3:a:awplife:album_gallery:1.5.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4F6BCF17-3FCA-45B9-98F3-91A60B27A054"
+		},
+		{
+			"cpeName": "cpe:2.3:a:awplife:album_gallery:1.5.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "44C843CD-AA5A-4422-892E-B5F0778C1638"
+		},
+		{
+			"cpeName": "cpe:2.3:a:awplife:album_gallery:1.5.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3598E345-3C8F-416D-B53A-2B2DBEA3498A"
 		}
 	]
 }

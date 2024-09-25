@@ -3,10 +3,14 @@
 	"matchCriteriaId": "6E3EFA59-6DCE-4E98-AD5F-3105E594C649",
 	"versionEndExcluding": "3.2.6",
 	"created": "2024-09-25T11:59:46.850",
-	"lastModified": "2024-09-25T11:59:46.850",
-	"cpeLastModified": "2024-09-25T11:59:46.850",
+	"lastModified": "2024-09-25T13:03:46.867",
+	"cpeLastModified": "2024-09-25T13:03:46.867",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "426BA278-73E3-48BB-A54C-0F6AB9B9062A"
+		},
 		{
 			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:2.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "8D6EF418-28FA-459F-8246-7A3EA7660F52"
@@ -706,6 +710,114 @@
 		{
 			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.0.20:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "DDA65E7D-5440-4BFE-AEF7-0CF802B3C610"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.0.21:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CFE866DF-EE89-488A-9F6B-BE8071306C8F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.0.22:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0EB9154A-C7C0-496A-9AB1-66D0A8446DFF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.0.22.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8EE99110-68B7-4028-A625-09AAC48CF520"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.0.22.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2668D2E9-BF39-4B1A-81DB-FE56D7EB6AFF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.0.23:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1DA443EA-90B2-4501-8F8B-D18E3E01C2B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.0.24:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F494B198-FAC4-4A82-B9E6-86891C462EC4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "32DBAA4F-357E-4F26-9156-FD372B765A5A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.1.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DFA3AF3D-5527-43FB-AF23-43CD24CD7195"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.1.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BD25A6D2-9D97-4B20-8DF0-6CFB770BE5E5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.1.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A89C59FD-BC2F-4211-877C-BECB638AE7CE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.1.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "965D3475-2E0D-4BC7-855D-5098119FE142"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.1.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B4639AE2-45B9-4E07-AD52-6088E7446133"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.1.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "66FD2B27-1EBB-48EB-8ED6-6C140CD6AD33"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.1.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CAB7F945-0EAD-4348-B005-302C6B1F7270"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.1.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B4F133C4-30A2-4B2E-BB2D-759D08AE788E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.1.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5B1D2A7B-75AE-488E-AEC4-FBB5E0E718B1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.1.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7E59AF40-1D0B-4404-8ED2-69101FDDA22A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.1.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1F1950CB-229B-468B-8101-F4835EA9E770"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.1.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "30A59CB4-F3A8-4558-98BD-632E56712190"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.1.12.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "87F5BC61-658B-4839-8AF4-C3C5AA65B288"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.1.13:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7B919B00-5060-416B-A181-4E0B512D9B08"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B98436BB-B1B4-4C7F-86F5-243977C1C654"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3F25F8A0-FBE5-4864-9ADC-6F43A157C136"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.2.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2529CF46-4C4C-4E65-820A-3C9F8F2AB2F9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.2.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "33C38F1E-8013-4B5D-B35E-2F97E2CA205A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.2.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E7C18E64-C3B2-4BA0-BA4F-3C651B9B23DF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.2.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8E180D41-0E3E-4B4C-A819-6E84A9C18F09"
 		}
 	]
 }

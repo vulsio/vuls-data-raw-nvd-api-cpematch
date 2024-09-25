@@ -3,10 +3,14 @@
 	"matchCriteriaId": "525C4F21-20C0-4A7E-9773-86DE86482B6D",
 	"versionEndExcluding": "6.9.8",
 	"created": "2024-09-24T16:28:31.227",
-	"lastModified": "2024-09-24T16:28:31.227",
-	"cpeLastModified": "2024-09-24T16:28:31.227",
+	"lastModified": "2024-09-25T13:03:46.867",
+	"cpeLastModified": "2024-09-25T13:03:46.867",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:superstorefinder:super_store_finder:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D5EEDCCC-B8ED-4977-8C62-EA51AAC76283"
+		},
 		{
 			"cpeName": "cpe:2.3:a:superstorefinder:super_store_finder:1.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "FC58FA83-F53D-497E-B75D-43221D3199F1"
@@ -262,6 +266,26 @@
 		{
 			"cpeName": "cpe:2.3:a:superstorefinder:super_store_finder:6.9.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "123D3744-F04B-4D70-B7DD-38E284D8E978"
+		},
+		{
+			"cpeName": "cpe:2.3:a:superstorefinder:super_store_finder:6.9.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E5B27B1D-8E47-4DC6-B1A2-22692BA27B2C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:superstorefinder:super_store_finder:6.9.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EB6A832A-CFD3-4446-BDCD-58E6B44000D0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:superstorefinder:super_store_finder:6.9.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "683D42E3-FAA9-4781-A246-536D3E8F96A3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:superstorefinder:super_store_finder:6.9.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5E9BFA6D-C00E-4CD2-8E83-F6FF1BB3C142"
+		},
+		{
+			"cpeName": "cpe:2.3:a:superstorefinder:super_store_finder:6.9.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1C15545E-94F6-46EF-8815-5985D705CA76"
 		}
 	]
 }
