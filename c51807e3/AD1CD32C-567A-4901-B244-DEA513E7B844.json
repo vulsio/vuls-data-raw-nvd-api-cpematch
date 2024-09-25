@@ -4,6 +4,12 @@
 	"versionEndIncluding": "1.2.35",
 	"created": "2024-09-24T17:29:58.370",
 	"lastModified": "2024-09-24T17:29:58.370",
-	"cpeLastModified": "2024-09-24T17:29:58.370",
-	"status": "Active"
+	"cpeLastModified": "2024-09-24T19:18:56.040",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:webhammer:wp_custom_fields_search:0.3.28:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2C0A2F0F-7176-4AFE-9F4F-B4B4A64CDE83"
+		}
+	]
 }
