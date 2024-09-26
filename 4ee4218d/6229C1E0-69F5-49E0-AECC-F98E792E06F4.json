@@ -4,9 +4,13 @@
 	"versionEndExcluding": "1.23.11",
 	"created": "2023-07-21T15:54:54.793",
 	"lastModified": "2023-07-21T17:24:53.500",
-	"cpeLastModified": "2023-08-04T16:27:57.550",
+	"cpeLastModified": "2024-09-25T20:52:30.830",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:envoyproxy:envoy:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BCCD2049-AD8C-4E33-AC96-38A0771CD3FA"
+		},
 		{
 			"cpeName": "cpe:2.3:a:envoyproxy:envoy:1.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "DC171AB6-8DE2-446A-BCAA-3AC81C0853C3"

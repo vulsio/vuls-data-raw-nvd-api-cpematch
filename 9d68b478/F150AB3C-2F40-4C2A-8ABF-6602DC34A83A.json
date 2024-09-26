@@ -4,9 +4,13 @@
 	"versionEndExcluding": "3.14.25",
 	"created": "2023-12-10T17:57:42.017",
 	"lastModified": "2023-12-10T19:23:51.777",
-	"cpeLastModified": "2023-12-10T19:23:51.777",
+	"cpeLastModified": "2024-09-25T19:07:08.443",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:code4recovery:12_step_meeting_list:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CA32E179-854D-4BF2-9ED7-FD354EFB9000"
+		},
 		{
 			"cpeName": "cpe:2.3:a:code4recovery:12_step_meeting_list:3.4:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "5EA46005-AA84-460C-A1C9-36D34309C46C"

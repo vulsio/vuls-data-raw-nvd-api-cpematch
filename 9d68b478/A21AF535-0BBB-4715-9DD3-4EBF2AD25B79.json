@@ -3,10 +3,14 @@
 	"matchCriteriaId": "A21AF535-0BBB-4715-9DD3-4EBF2AD25B79",
 	"versionEndExcluding": "3.14.29",
 	"created": "2024-09-24T21:33:47.777",
-	"lastModified": "2024-09-24T21:33:47.777",
-	"cpeLastModified": "2024-09-24T21:33:47.777",
+	"lastModified": "2024-09-25T19:07:08.443",
+	"cpeLastModified": "2024-09-25T19:07:08.443",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:code4recovery:12_step_meeting_list:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CA32E179-854D-4BF2-9ED7-FD354EFB9000"
+		},
 		{
 			"cpeName": "cpe:2.3:a:code4recovery:12_step_meeting_list:3.4:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "5EA46005-AA84-460C-A1C9-36D34309C46C"
@@ -326,6 +330,18 @@
 		{
 			"cpeName": "cpe:2.3:a:code4recovery:12_step_meeting_list:3.14.25:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "561DBF4F-B192-4930-B561-A16C6AF335FC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:code4recovery:12_step_meeting_list:3.14.26:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7A2F4310-627A-42A5-B5AE-4B3719AC6E9D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:code4recovery:12_step_meeting_list:3.14.27:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7C1286CF-3DD5-4B76-B06C-6E5C7C9B1F30"
+		},
+		{
+			"cpeName": "cpe:2.3:a:code4recovery:12_step_meeting_list:3.14.28:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4360DC8B-827F-4EEC-B388-A979D8B6323E"
 		}
 	]
 }

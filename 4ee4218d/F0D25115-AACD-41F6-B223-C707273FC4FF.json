@@ -5,7 +5,7 @@
 	"versionEndExcluding": "1.91.1",
 	"created": "2021-08-30T11:57:01.523",
 	"lastModified": "2021-08-30T11:57:01.523",
-	"cpeLastModified": "2024-06-06T12:19:46.877",
+	"cpeLastModified": "2024-09-25T20:52:30.830",
 	"status": "Active",
 	"matches": [
 		{
@@ -345,6 +345,18 @@
 			"cpeNameId": "7F6D995C-A5AA-4ED5-A5A6-4ABA1275A60A"
 		},
 		{
+			"cpeName": "cpe:2.3:a:envoyproxy:envoy:1.28.5:*:*:*:*:*:*:*",
+			"cpeNameId": "838327A0-DE2A-4518-BB90-01FF62F43D10"
+		},
+		{
+			"cpeName": "cpe:2.3:a:envoyproxy:envoy:1.28.6:*:*:*:*:*:*:*",
+			"cpeNameId": "D027A617-7B32-4330-8381-58AF209903CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:envoyproxy:envoy:1.28.7:*:*:*:*:*:*:*",
+			"cpeNameId": "05683DA7-953E-4570-A52A-A29F84920579"
+		},
+		{
 			"cpeName": "cpe:2.3:a:envoyproxy:envoy:1.29.0:*:*:*:*:*:*:*",
 			"cpeNameId": "7912777D-4B59-4FE5-868A-C9A8DC5E52FC"
 		},
@@ -369,6 +381,22 @@
 			"cpeNameId": "C4AD675E-18EE-4750-B6B1-225BA42F0F86"
 		},
 		{
+			"cpeName": "cpe:2.3:a:envoyproxy:envoy:1.29.6:*:*:*:*:*:*:*",
+			"cpeNameId": "49FC8E84-D775-4734-8DD3-96DAB9E7777F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:envoyproxy:envoy:1.29.7:*:*:*:*:*:*:*",
+			"cpeNameId": "8A90AD16-09BF-4DBF-8EEE-1BFCB48F3D70"
+		},
+		{
+			"cpeName": "cpe:2.3:a:envoyproxy:envoy:1.29.8:*:*:*:*:*:*:*",
+			"cpeNameId": "46A38B77-CC64-4D58-8C3F-5BCF53D408BD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:envoyproxy:envoy:1.29.9:*:*:*:*:*:*:*",
+			"cpeNameId": "B5CB82CB-25D2-4872-9B1A-97B4CE602954"
+		},
+		{
 			"cpeName": "cpe:2.3:a:envoyproxy:envoy:1.30.0:*:*:*:*:*:*:*",
 			"cpeNameId": "067C9CC7-2E6A-411B-979D-46CE306835D7"
 		},
@@ -379,6 +407,30 @@
 		{
 			"cpeName": "cpe:2.3:a:envoyproxy:envoy:1.30.2:*:*:*:*:*:*:*",
 			"cpeNameId": "29ECC493-D9ED-4447-B1E1-70C95541FBC7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:envoyproxy:envoy:1.30.3:*:*:*:*:*:*:*",
+			"cpeNameId": "D4E1F550-EC6E-4828-AB7D-F22941CE6545"
+		},
+		{
+			"cpeName": "cpe:2.3:a:envoyproxy:envoy:1.30.4:*:*:*:*:*:*:*",
+			"cpeNameId": "FE6AC335-718D-4630-8043-00496C7D4F46"
+		},
+		{
+			"cpeName": "cpe:2.3:a:envoyproxy:envoy:1.30.5:*:*:*:*:*:*:*",
+			"cpeNameId": "8477570A-BDB6-418D-A4E8-8EA1DA9298A2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:envoyproxy:envoy:1.30.6:*:*:*:*:*:*:*",
+			"cpeNameId": "01A30B07-3DCA-4645-8A58-12C0AEB1D688"
+		},
+		{
+			"cpeName": "cpe:2.3:a:envoyproxy:envoy:1.31.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C910D6E5-1CE8-4ADD-A505-0281F7C3F77D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:envoyproxy:envoy:1.31.1:*:*:*:*:*:*:*",
+			"cpeNameId": "A1532977-28F3-439C-BAC8-4B4BE570CEC2"
 		}
 	]
 }

@@ -3,10 +3,14 @@
 	"matchCriteriaId": "C5E423BE-4022-47AB-A5D4-B218627517DD",
 	"versionEndExcluding": "1.28.7",
 	"created": "2024-09-24T13:52:23.213",
-	"lastModified": "2024-09-24T13:52:23.213",
-	"cpeLastModified": "2024-09-24T13:52:23.213",
+	"lastModified": "2024-09-25T20:52:30.830",
+	"cpeLastModified": "2024-09-25T20:52:30.830",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:envoyproxy:envoy:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BCCD2049-AD8C-4E33-AC96-38A0771CD3FA"
+		},
 		{
 			"cpeName": "cpe:2.3:a:envoyproxy:envoy:1.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "DC171AB6-8DE2-446A-BCAA-3AC81C0853C3"
@@ -594,6 +598,14 @@
 		{
 			"cpeName": "cpe:2.3:a:envoyproxy:envoy:1.28.4:*:*:*:*:*:*:*",
 			"cpeNameId": "7F6D995C-A5AA-4ED5-A5A6-4ABA1275A60A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:envoyproxy:envoy:1.28.5:*:*:*:*:*:*:*",
+			"cpeNameId": "838327A0-DE2A-4518-BB90-01FF62F43D10"
+		},
+		{
+			"cpeName": "cpe:2.3:a:envoyproxy:envoy:1.28.6:*:*:*:*:*:*:*",
+			"cpeNameId": "D027A617-7B32-4330-8381-58AF209903CF"
 		}
 	]
 }
