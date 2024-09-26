@@ -3,10 +3,14 @@
 	"matchCriteriaId": "D0B5DAE3-AC23-48C9-B266-7315B643700A",
 	"versionEndExcluding": "4.24.2",
 	"created": "2024-09-25T21:00:21.403",
-	"lastModified": "2024-09-25T21:00:21.403",
-	"cpeLastModified": "2024-09-25T21:00:21.403",
+	"lastModified": "2024-09-26T13:09:03.600",
+	"cpeLastModified": "2024-09-26T13:09:03.600",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:-:*:*:*:*:*:*:*",
+			"cpeNameId": "21C9CA0A-5A98-4CAE-B8BF-BDF231915CC3"
+		},
 		{
 			"cpeName": "cpe:2.3:a:strapi:strapi:0.0.1:*:*:*:*:*:*:*",
 			"cpeNameId": "79F55F25-EA51-4C22-ACFF-92FEA6279361"
@@ -2098,6 +2102,118 @@
 		{
 			"cpeName": "cpe:2.3:a:strapi:strapi:4.15.4:*:*:*:*:*:*:*",
 			"cpeNameId": "50E83EA2-3933-4128-B9D5-B1C8B9F0CC74"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.15.5:-:*:*:*:*:*:*",
+			"cpeNameId": "37DBB799-8BD2-48B0-8FA0-02463CD559FF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.15.5:alpha1:*:*:*:*:*:*",
+			"cpeNameId": "7E0DF89B-E2B4-4318-8CC8-E7682A7A5DE0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.15.5:alpha2:*:*:*:*:*:*",
+			"cpeNameId": "AFDDF677-FD3B-479F-85CE-17CB89A358DD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.15.5:alpha3:*:*:*:*:*:*",
+			"cpeNameId": "A484CCF2-286E-4EA3-ABFB-A6F5FF617959"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.15.5:alpha4:*:*:*:*:*:*",
+			"cpeNameId": "678647E9-9FA1-4EF9-A895-240EEFDEAB9C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.15.5:alpha5:*:*:*:*:*:*",
+			"cpeNameId": "8E7D87F4-0B3D-48C2-A678-4C4F395BE39F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.16.0:*:*:*:*:*:*:*",
+			"cpeNameId": "0B89F7C8-94F5-46CE-9061-7980EA4A5A54"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.16.1:*:*:*:*:*:*:*",
+			"cpeNameId": "E583743A-5E73-48A4-B7F7-F268A1642A63"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.16.2:*:*:*:*:*:*:*",
+			"cpeNameId": "CC18AD86-C5A4-4ACD-BDA7-FA3C275D5944"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.17.0:*:*:*:*:*:*:*",
+			"cpeNameId": "EE70C712-C5AF-4C31-901C-D1FD6F4033A5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.17.1:*:*:*:*:*:*:*",
+			"cpeNameId": "08D1C5E9-B9C5-4CAD-975A-19ECD1E6C424"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.19.0:*:*:*:*:*:*:*",
+			"cpeNameId": "7055CFAA-CCA6-444D-8447-FA203471D6CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.19.1:*:*:*:*:*:*:*",
+			"cpeNameId": "F2B71A47-FB9C-4977-94B9-A7193BB39A38"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.20.0:*:*:*:*:*:*:*",
+			"cpeNameId": "63383EA0-9834-45C9-A863-52306F7C3AE2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.20.1:*:*:*:*:*:*:*",
+			"cpeNameId": "E6E03B84-4F9C-482E-ADF1-74FC3135833D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.20.2:*:*:*:*:*:*:*",
+			"cpeNameId": "E018D922-2FD8-427B-B460-7557D7B9F7B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.20.3:*:*:*:*:*:*:*",
+			"cpeNameId": "FD1C6ADE-E5F4-4330-B154-E4C8F9C02645"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.20.4:*:*:*:*:*:*:*",
+			"cpeNameId": "ADEDA295-F697-4A10-921B-FC000A138B3E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.20.5:*:*:*:*:*:*:*",
+			"cpeNameId": "D4D03922-286E-408F-B6B1-35673C89E8CA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.21.0:*:*:*:*:*:*:*",
+			"cpeNameId": "632E05F8-289E-4A77-ACEE-C07205DA3F7F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.21.1:*:*:*:*:*:*:*",
+			"cpeNameId": "95468FF3-0847-4430-9360-FD1866CA0A36"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.22.0:*:*:*:*:*:*:*",
+			"cpeNameId": "92C360DC-CDDF-4D83-8BC4-0F2A515FCFBE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.22.1:*:*:*:*:*:*:*",
+			"cpeNameId": "F09F7366-E06B-4814-AD1D-45F351B5857A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.23.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A8B70B52-29C9-4936-B26A-896BC87F738A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.23.1:*:*:*:*:*:*:*",
+			"cpeNameId": "6A0F22EA-048A-4ED7-9D10-8EEEC9F3A79E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.23.2:*:*:*:*:*:*:*",
+			"cpeNameId": "FB4A649F-2968-494A-AA1B-2BF5B1E7A567"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.24.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A65A1FD1-D7A3-4F6B-9F73-F85E7876086B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.24.1:*:*:*:*:*:*:*",
+			"cpeNameId": "8361CA8F-3BB1-4EFA-817F-C5013C9FC03D"
 		}
 	]
 }

@@ -3,10 +3,14 @@
 	"matchCriteriaId": "BDFAF527-F672-4CA8-80E4-896AA7FEA40B",
 	"versionEndExcluding": "4.19.1",
 	"created": "2024-09-25T20:25:03.343",
-	"lastModified": "2024-09-25T20:25:03.343",
-	"cpeLastModified": "2024-09-25T20:38:50.080",
+	"lastModified": "2024-09-26T13:09:03.600",
+	"cpeLastModified": "2024-09-26T13:09:03.600",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:-:*:*:*:*:*:*:*",
+			"cpeNameId": "21C9CA0A-5A98-4CAE-B8BF-BDF231915CC3"
+		},
 		{
 			"cpeName": "cpe:2.3:a:strapi:strapi:0.0.1:*:*:*:*:*:*:*",
 			"cpeNameId": "79F55F25-EA51-4C22-ACFF-92FEA6279361"
@@ -2098,6 +2102,54 @@
 		{
 			"cpeName": "cpe:2.3:a:strapi:strapi:4.15.4:*:*:*:*:*:*:*",
 			"cpeNameId": "50E83EA2-3933-4128-B9D5-B1C8B9F0CC74"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.15.5:-:*:*:*:*:*:*",
+			"cpeNameId": "37DBB799-8BD2-48B0-8FA0-02463CD559FF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.15.5:alpha1:*:*:*:*:*:*",
+			"cpeNameId": "7E0DF89B-E2B4-4318-8CC8-E7682A7A5DE0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.15.5:alpha2:*:*:*:*:*:*",
+			"cpeNameId": "AFDDF677-FD3B-479F-85CE-17CB89A358DD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.15.5:alpha3:*:*:*:*:*:*",
+			"cpeNameId": "A484CCF2-286E-4EA3-ABFB-A6F5FF617959"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.15.5:alpha4:*:*:*:*:*:*",
+			"cpeNameId": "678647E9-9FA1-4EF9-A895-240EEFDEAB9C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.15.5:alpha5:*:*:*:*:*:*",
+			"cpeNameId": "8E7D87F4-0B3D-48C2-A678-4C4F395BE39F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.16.0:*:*:*:*:*:*:*",
+			"cpeNameId": "0B89F7C8-94F5-46CE-9061-7980EA4A5A54"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.16.1:*:*:*:*:*:*:*",
+			"cpeNameId": "E583743A-5E73-48A4-B7F7-F268A1642A63"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.16.2:*:*:*:*:*:*:*",
+			"cpeNameId": "CC18AD86-C5A4-4ACD-BDA7-FA3C275D5944"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.17.0:*:*:*:*:*:*:*",
+			"cpeNameId": "EE70C712-C5AF-4C31-901C-D1FD6F4033A5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.17.1:*:*:*:*:*:*:*",
+			"cpeNameId": "08D1C5E9-B9C5-4CAD-975A-19ECD1E6C424"
+		},
+		{
+			"cpeName": "cpe:2.3:a:strapi:strapi:4.19.0:*:*:*:*:*:*:*",
+			"cpeNameId": "7055CFAA-CCA6-444D-8447-FA203471D6CF"
 		}
 	]
 }
