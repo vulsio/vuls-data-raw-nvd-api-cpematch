@@ -3,8 +3,8 @@
 	"matchCriteriaId": "DEEA516B-1918-402E-95C0-8071BEE50873",
 	"versionEndIncluding": "4.5.33",
 	"created": "2024-01-05T12:43:02.597",
-	"lastModified": "2024-01-05T12:43:02.597",
-	"cpeLastModified": "2024-01-05T12:43:02.597",
+	"lastModified": "2024-09-27T12:59:45.627",
+	"cpeLastModified": "2024-09-27T12:59:45.627",
 	"status": "Active",
 	"matches": [
 		{
@@ -674,6 +674,86 @@
 		{
 			"cpeName": "cpe:2.3:a:webba-booking:webba_booking:4.2.27:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "33C4AC0E-171C-4FC0-9EA6-E336108AC2F0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webba-booking:webba_booking:4.2.29:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "97BA1B5F-ED53-4E32-9276-DBF38924B5C8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webba-booking:webba_booking:4.2.30.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E755913F-4B49-41C4-B746-92A3AE32844C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webba-booking:webba_booking:4.2.30.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4191ACD4-D856-451B-A173-EB8F33D3587A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webba-booking:webba_booking:4.2.30.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "54A1FABC-065F-46CD-B38E-BF4D56441DB7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webba-booking:webba_booking:4.2.30.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "786812E7-6E49-4416-B825-0C15FB8D51A3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webba-booking:webba_booking:4.2.30.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AA0D0065-65A5-41D6-AACB-31849383B689"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webba-booking:webba_booking:4.5.15:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E6F9010C-50D6-495F-B668-6131419E2060"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webba-booking:webba_booking:4.5.16:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "996B58E9-68EC-47A9-B942-208DA2695DBA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webba-booking:webba_booking:4.5.17:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0069D83A-DBDE-4A45-BD4E-3FF61E02358B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webba-booking:webba_booking:4.5.18:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DE085508-9D97-4C00-BF0B-F3FC37B58340"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webba-booking:webba_booking:4.5.19:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "349999E8-FFCC-4873-9CAA-6CE3A5A30055"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webba-booking:webba_booking:4.5.20:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "93B53239-DD3E-4383-BBF2-0191BBBB95F0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webba-booking:webba_booking:4.5.22:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "37CF44A0-6756-4E69-A2A1-C70D31FCE859"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webba-booking:webba_booking:4.5.23:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5CAD5994-53F4-460E-9798-FBB68DD4D89A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webba-booking:webba_booking:4.5.24:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "708877FD-3F96-449A-8F07-516EF988611F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webba-booking:webba_booking:4.5.25:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4E3581EB-1CDE-4F2D-8B15-A90B96916173"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webba-booking:webba_booking:4.5.27:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "02E32686-ECCF-4A46-B0DF-7A03A43DF019"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webba-booking:webba_booking:4.5.28:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5EE0ABB5-80CF-44A6-8636-DEE9F70259EF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webba-booking:webba_booking:4.5.31:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2F082398-7E5F-4C38-BB41-CAEA86525BB1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webba-booking:webba_booking:4.5.33:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C2D2A671-A18D-45A6-ACCF-D08C155007CE"
 		}
 	]
 }
