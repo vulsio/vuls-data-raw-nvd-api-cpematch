@@ -4,9 +4,13 @@
 	"versionEndIncluding": "3.7.1",
 	"created": "2024-02-07T17:14:07.650",
 	"lastModified": "2024-08-01T18:06:02.760",
-	"cpeLastModified": "2024-08-01T18:06:02.760",
+	"cpeLastModified": "2024-09-30T18:14:23.353",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ninjaforms:ninja_forms:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1F6263BF-2897-4E98-A3C5-C05CE8B25A56"
+		},
 		{
 			"cpeName": "cpe:2.3:a:ninjaforms:ninja_forms:2.2.6:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "3D65B188-06F0-406E-A5F3-21E17129E020"
@@ -1242,6 +1246,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ninjaforms:ninja_forms:3.6.34:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "31A6E5EF-42A2-4C10-81D3-7A3725DCCA08"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ninjaforms:ninja_forms:3.7.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "086EAE14-C8B2-4B2D-B9E8-CF84A59F1B3C"
 		},
 		{
 			"cpeName": "cpe:2.3:a:ninjaforms:ninja_forms:3.7.1:*:*:*:*:wordpress:*:*",

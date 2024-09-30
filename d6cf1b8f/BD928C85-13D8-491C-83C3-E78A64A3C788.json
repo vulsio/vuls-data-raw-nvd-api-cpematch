@@ -4,7 +4,7 @@
 	"versionEndExcluding": "5.2.5",
 	"created": "2024-07-25T18:40:02.310",
 	"lastModified": "2024-07-29T11:00:02.963",
-	"cpeLastModified": "2024-07-25T18:40:02.310",
+	"cpeLastModified": "2024-09-30T17:34:26.470",
 	"status": "Active",
 	"matches": [
 		{
@@ -226,6 +226,30 @@
 		{
 			"cpeName": "cpe:2.3:a:advancedfilemanager:advanced_file_manager:5.1.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "FE08925A-0B52-4DCC-8891-C94AD2BE30BE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:advancedfilemanager:advanced_file_manager:5.1.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "586E80A1-546F-4217-81CE-1B4A46704119"
+		},
+		{
+			"cpeName": "cpe:2.3:a:advancedfilemanager:advanced_file_manager:5.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4D8D6C1E-5916-4F13-8FC2-5D347C18D9B7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:advancedfilemanager:advanced_file_manager:5.2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "83B6E683-6F98-4904-8EAA-A4FF2809F839"
+		},
+		{
+			"cpeName": "cpe:2.3:a:advancedfilemanager:advanced_file_manager:5.2.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "95660A73-C304-4F55-B870-651AEA353E20"
+		},
+		{
+			"cpeName": "cpe:2.3:a:advancedfilemanager:advanced_file_manager:5.2.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5C7A0C0D-E431-40D5-A0EF-5349C9AE3D33"
+		},
+		{
+			"cpeName": "cpe:2.3:a:advancedfilemanager:advanced_file_manager:5.2.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2E79F9D1-1ACC-4B72-B89E-85D49FCFEDF4"
 		}
 	]
 }

@@ -4,9 +4,13 @@
 	"versionEndIncluding": "2.8.8",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"cpeLastModified": "2024-09-30T18:14:23.353",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ninjaforms:ninja_forms:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1F6263BF-2897-4E98-A3C5-C05CE8B25A56"
+		},
 		{
 			"cpeName": "cpe:2.3:a:ninjaforms:ninja_forms:2.2.6:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "3D65B188-06F0-406E-A5F3-21E17129E020"

@@ -3,10 +3,14 @@
 	"matchCriteriaId": "0D048C93-62B6-4AC0-A8E4-668736E658C6",
 	"versionEndExcluding": "3.8.7",
 	"created": "2024-08-27T17:46:44.087",
-	"lastModified": "2024-08-27T17:46:44.087",
-	"cpeLastModified": "2024-08-27T17:46:44.087",
+	"lastModified": "2024-09-30T18:14:23.353",
+	"cpeLastModified": "2024-09-30T18:14:23.353",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ninjaforms:ninja_forms:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1F6263BF-2897-4E98-A3C5-C05CE8B25A56"
+		},
 		{
 			"cpeName": "cpe:2.3:a:ninjaforms:ninja_forms:2.2.6:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "3D65B188-06F0-406E-A5F3-21E17129E020"
@@ -1244,8 +1248,48 @@
 			"cpeNameId": "31A6E5EF-42A2-4C10-81D3-7A3725DCCA08"
 		},
 		{
+			"cpeName": "cpe:2.3:a:ninjaforms:ninja_forms:3.7.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "086EAE14-C8B2-4B2D-B9E8-CF84A59F1B3C"
+		},
+		{
 			"cpeName": "cpe:2.3:a:ninjaforms:ninja_forms:3.7.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "2BC927FA-0738-4355-9645-A92741DE78AC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ninjaforms:ninja_forms:3.7.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "45DF20BB-E4E1-47AE-BC4D-06AFFFAA44E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ninjaforms:ninja_forms:3.7.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "418BBEC3-B633-4BC5-BC15-3DCB42AEE9A7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ninjaforms:ninja_forms:3.8.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "19888097-F55D-4FAE-B6D5-28ABBA792804"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ninjaforms:ninja_forms:3.8.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "840B076A-4E0A-4D5E-8521-FE4A33FBFC39"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ninjaforms:ninja_forms:3.8.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "406ABDE0-BDCB-405B-BF28-DCD56009F85C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ninjaforms:ninja_forms:3.8.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "96671973-ED89-44A1-89A9-882B45942588"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ninjaforms:ninja_forms:3.8.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9A817865-1785-41C9-B029-ABA14FB8ADDF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ninjaforms:ninja_forms:3.8.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D2DFEDB7-F4A7-4C32-86DB-AA2CAC8DCBE0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ninjaforms:ninja_forms:3.8.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5AB46BF8-AFFF-4A4A-BA3B-D58786B3D3F2"
 		}
 	]
 }

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "BE14DB85-BB7F-4090-B329-04BF0551E45B",
 	"versionEndExcluding": "9.8.0",
 	"created": "2024-09-26T18:48:15.457",
-	"lastModified": "2024-09-26T18:48:15.457",
-	"cpeLastModified": "2024-09-26T18:48:15.457",
+	"lastModified": "2024-09-30T14:07:04.497",
+	"cpeLastModified": "2024-09-30T14:07:04.497",
 	"status": "Active",
 	"matches": [
 		{
@@ -406,6 +406,90 @@
 		{
 			"cpeName": "cpe:2.3:a:acymailing:acymailing:8.6.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "A98A412B-1F82-439B-829A-CB51B8587F76"
+		},
+		{
+			"cpeName": "cpe:2.3:a:acymailing:acymailing:8.7.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E5E04216-7558-4CAB-9A0C-62B847585FA0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:acymailing:acymailing:8.7.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "240DED3E-3364-4142-A6AE-9FB079002839"
+		},
+		{
+			"cpeName": "cpe:2.3:a:acymailing:acymailing:8.7.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "345595C4-724B-4D07-8748-A5E0305D3E71"
+		},
+		{
+			"cpeName": "cpe:2.3:a:acymailing:acymailing:8.7.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DC77AE93-D80B-453D-BB57-E362F218D34D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:acymailing:acymailing:8.7.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "82C2CE45-F143-484D-B0DF-38B8C44BFE0D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:acymailing:acymailing:8.8.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FF9578FD-2D2D-4C30-A880-D988996703E5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:acymailing:acymailing:9.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B85427F2-1250-4043-8F89-B276CB5BD614"
+		},
+		{
+			"cpeName": "cpe:2.3:a:acymailing:acymailing:9.0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5CAB5878-17E5-4BBA-8D04-799E758B1DAF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:acymailing:acymailing:9.0.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D46F50C6-0FA8-4106-AFFE-6DE0B1FF4F66"
+		},
+		{
+			"cpeName": "cpe:2.3:a:acymailing:acymailing:9.1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "635A12FB-D184-4B82-817A-55A8DDBB6DB9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:acymailing:acymailing:9.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D1598F12-3587-4488-9EAF-44FC223FAF09"
+		},
+		{
+			"cpeName": "cpe:2.3:a:acymailing:acymailing:9.3.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DD87928F-6572-4ABE-98A6-17DECB43AA43"
+		},
+		{
+			"cpeName": "cpe:2.3:a:acymailing:acymailing:9.3.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "51AA56CE-154E-4A8A-9369-212DB51A3555"
+		},
+		{
+			"cpeName": "cpe:2.3:a:acymailing:acymailing:9.4.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6D2E5F63-66AA-42D7-A242-159B58570B09"
+		},
+		{
+			"cpeName": "cpe:2.3:a:acymailing:acymailing:9.4.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D0383175-C453-4F54-A7E6-FB5732829CD8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:acymailing:acymailing:9.5.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "51483A7C-949D-4EE5-8E4A-4DA63781FD6D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:acymailing:acymailing:9.5.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3530C102-5CAD-4DA1-9E73-10057AC5A4A9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:acymailing:acymailing:9.6.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F5E12742-D65A-4F95-837D-C76ABCD38AD3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:acymailing:acymailing:9.7.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B7E45E7C-5080-4CDE-B2C8-DF51F9D6CF20"
+		},
+		{
+			"cpeName": "cpe:2.3:a:acymailing:acymailing:9.7.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "06831B57-4FD9-46E4-AFFA-E4E8DF3DCB43"
+		},
+		{
+			"cpeName": "cpe:2.3:a:acymailing:acymailing:9.7.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DB06AE75-DF74-456A-91D1-A73F5CFCFCAA"
 		}
 	]
 }
