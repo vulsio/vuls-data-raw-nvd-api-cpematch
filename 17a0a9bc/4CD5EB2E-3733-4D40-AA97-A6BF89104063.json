@@ -3,8 +3,8 @@
 	"matchCriteriaId": "4CD5EB2E-3733-4D40-AA97-A6BF89104063",
 	"versionEndExcluding": "4.0.4.4",
 	"created": "2024-09-25T21:37:32.550",
-	"lastModified": "2024-09-25T21:37:32.550",
-	"cpeLastModified": "2024-09-25T21:37:32.550",
+	"lastModified": "2024-10-01T15:24:08.013",
+	"cpeLastModified": "2024-10-01T15:24:08.013",
 	"status": "Active",
 	"matches": [
 		{
@@ -886,6 +886,58 @@
 		{
 			"cpeName": "cpe:2.3:a:metagauss:eventprime:3.5.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "D74BDA9E-E3C2-4EF1-85C5-DD1064FF592F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:metagauss:eventprime:3.5.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4684467A-37C1-43CD-9AE9-E16660DEFCDF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:metagauss:eventprime:3.5.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5F21FE2C-D4F4-424D-9E3E-92C3E000773B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:metagauss:eventprime:4.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6D141F93-13F6-4635-9FEA-0C618E951182"
+		},
+		{
+			"cpeName": "cpe:2.3:a:metagauss:eventprime:4.0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B7039670-9847-471F-A06A-9282CBB98FEA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:metagauss:eventprime:4.0.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7B23A9A5-5179-4038-B765-0AB4C9C0C4B5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:metagauss:eventprime:4.0.2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "49FB1958-D1CA-492C-AE3C-61BAA7A7BF00"
+		},
+		{
+			"cpeName": "cpe:2.3:a:metagauss:eventprime:4.0.3.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9D8180CD-14BF-44CD-B1D2-86B7876C5029"
+		},
+		{
+			"cpeName": "cpe:2.3:a:metagauss:eventprime:4.0.3.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A646AE93-DE2C-4C2D-932D-B44671A49982"
+		},
+		{
+			"cpeName": "cpe:2.3:a:metagauss:eventprime:4.0.3.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "327E8D7A-65AE-45B4-90C3-DD17088473ED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:metagauss:eventprime:4.0.4.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AB1E1260-A67E-425A-A1A8-C52E5F6C9743"
+		},
+		{
+			"cpeName": "cpe:2.3:a:metagauss:eventprime:4.0.4.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AF3770BF-296C-4E3C-AD44-5ABD2A7B4349"
+		},
+		{
+			"cpeName": "cpe:2.3:a:metagauss:eventprime:4.0.4.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2AD5DF1A-CC0C-4CB5-9110-C3262DEC09EC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:metagauss:eventprime:4.0.4.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4BEA3EDF-D5D7-49EF-B548-2BAC7DAC8941"
 		}
 	]
 }

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "365FBE22-3CC7-40AA-95E1-A87AD543F852",
 	"versionEndExcluding": "1.3.13",
 	"created": "2024-09-26T14:57:42.840",
-	"lastModified": "2024-09-26T14:57:42.840",
-	"cpeLastModified": "2024-09-26T14:57:42.840",
+	"lastModified": "2024-10-01T15:28:14.397",
+	"cpeLastModified": "2024-10-01T15:28:14.397",
 	"status": "Active",
 	"matches": [
 		{
@@ -154,6 +154,98 @@
 		{
 			"cpeName": "cpe:2.3:a:ibericode:koko_analytics:1.0.35:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "71828755-94B9-445F-85FF-FE9CF843EE3B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:koko_analytics:1.0.36:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "516C5F21-D1B2-480B-A7D0-3B1CD20C5773"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:koko_analytics:1.0.37:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DD06F2E5-B055-4066-BADF-A7AF607DEE39"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:koko_analytics:1.0.38:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5408A683-DDEE-466A-94F0-260309CD75C5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:koko_analytics:1.0.39:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A5425FFF-2BE9-4D26-AF7E-0824B8CD80C7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:koko_analytics:1.0.40:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F0C3D9F5-F8C2-4619-8A47-283ED576C82E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:koko_analytics:1.1.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5432ABF2-084A-4989-8C69-7346FBA6AF99"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:koko_analytics:1.1.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "80FFA25A-6B09-4BEE-8981-DA7C72E90F76"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:koko_analytics:1.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BEA8402A-E33C-40A8-9373-9ABE32D2882A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:koko_analytics:1.2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "43BBECD8-3AE1-4D05-AE4F-C7C9AB8DD871"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:koko_analytics:1.2.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "83C280C5-EF70-4420-9789-4428C7317338"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:koko_analytics:1.3.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7A8AC73D-5056-4AEE-B04B-052C3B646286"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:koko_analytics:1.3.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E612FA33-1620-492C-82ED-13E1EB7AD813"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:koko_analytics:1.3.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F3249474-63B9-4942-83E4-AA8393297672"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:koko_analytics:1.3.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0495B2C7-5C4D-4DDF-B099-8374EBCC2F51"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:koko_analytics:1.3.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "158205F1-6936-4CCE-9112-0E7D09B2ED18"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:koko_analytics:1.3.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B784EB87-EE44-480F-8849-6BF2CAA01A74"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:koko_analytics:1.3.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A15927CE-69ED-4D3A-862C-C1D401DA6825"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:koko_analytics:1.3.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1A7B34DD-64DA-4FF9-9BCE-EDC3720B4DFF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:koko_analytics:1.3.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "894E5CB9-8B35-4665-A290-7EFFFD8285F3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:koko_analytics:1.3.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "49EFA4C6-B18E-4D40-9CDA-CFB61C463312"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:koko_analytics:1.3.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "60B906BA-3A53-4982-A40C-3E1DD32BF948"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:koko_analytics:1.3.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C9EF97E7-BF0A-488E-83C2-B6707649DF70"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ibericode:koko_analytics:1.3.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "75C361FE-768E-4E8A-8B7C-F3AF2E43D48A"
 		}
 	]
 }
