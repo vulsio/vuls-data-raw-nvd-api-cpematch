@@ -1,9 +1,9 @@
 {
 	"criteria": "cpe:2.3:a:uncannyowl:uncanny_groups_for_learndash:*:*:*:*:*:*:*:*",
-	"matchCriteriaId": "7F54AE36-ED19-4296-9719-E1786CC55824",
-	"versionEndExcluding": "3.7",
-	"created": "2020-12-23T16:18:09.333",
-	"lastModified": "2020-12-23T16:18:09.333",
+	"matchCriteriaId": "339BC1EC-8F07-4240-94A1-9549AE957786",
+	"versionEndIncluding": "6.1.0.1",
+	"created": "2024-10-02T12:05:04.320",
+	"lastModified": "2024-10-02T12:05:04.320",
 	"cpeLastModified": "2024-10-02T12:06:32.850",
 	"status": "Active",
 	"matches": [
@@ -218,6 +218,46 @@
 		{
 			"cpeName": "cpe:2.3:a:uncannyowl:uncanny_groups_for_learndash:3.6.3:*:*:*:*:*:*:*",
 			"cpeNameId": "1942747D-87A7-4D3F-8601-952B85FCFADA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:uncannyowl:uncanny_groups_for_learndash:3.7:*:*:*:*:*:*:*",
+			"cpeNameId": "934C51C7-CC23-442D-B558-1E8EC8A565FA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:uncannyowl:uncanny_groups_for_learndash:3.7.1:*:*:*:*:*:*:*",
+			"cpeNameId": "5E5C064C-8A1A-401B-B26B-4075B6F31F7C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:uncannyowl:uncanny_groups_for_learndash:3.7.2:*:*:*:*:*:*:*",
+			"cpeNameId": "D3FE930F-1E81-405E-8637-D89CE4AE07DC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:uncannyowl:uncanny_groups_for_learndash:3.7.3:*:*:*:*:*:*:*",
+			"cpeNameId": "114CCDF6-5201-447C-87CD-B6F06074055C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:uncannyowl:uncanny_groups_for_learndash:3.7.4:*:*:*:*:*:*:*",
+			"cpeNameId": "7C186B82-D831-4CC2-B53F-843E045D24EA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:uncannyowl:uncanny_groups_for_learndash:3.8:*:*:*:*:*:*:*",
+			"cpeNameId": "6E28372A-866E-4FB6-9A40-151CD1F6304C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:uncannyowl:uncanny_groups_for_learndash:3.8.1:*:*:*:*:*:*:*",
+			"cpeNameId": "78B0A723-C615-4EDA-88AB-75A51DADD4A3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:uncannyowl:uncanny_groups_for_learndash:3.9:*:*:*:*:*:*:*",
+			"cpeNameId": "BE3FF2B4-FD99-4DFA-B882-9F00EEA8815E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:uncannyowl:uncanny_groups_for_learndash:3.10:*:*:*:*:*:*:*",
+			"cpeNameId": "75CA545D-9B24-4136-AFD6-10EF30E79E8B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:uncannyowl:uncanny_groups_for_learndash:3.10.1:*:*:*:*:*:*:*",
+			"cpeNameId": "A6012BD0-0D91-478E-9D73-F82FB8221360"
 		}
 	]
 }
