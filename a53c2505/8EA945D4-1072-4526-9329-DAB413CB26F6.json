@@ -3,10 +3,14 @@
 	"matchCriteriaId": "8EA945D4-1072-4526-9329-DAB413CB26F6",
 	"versionEndExcluding": "3.14.2",
 	"created": "2024-08-23T17:06:00.430",
-	"lastModified": "2024-08-23T17:06:00.430",
-	"cpeLastModified": "2024-08-23T17:06:00.430",
+	"lastModified": "2024-10-03T13:53:03.900",
+	"cpeLastModified": "2024-10-03T13:53:03.900",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "61A442E6-ABBF-4C9B-9D69-0FB40FFF4A2A"
+		},
 		{
 			"cpeName": "cpe:2.3:a:givewp:givewp:0.8:beta:*:*:*:wordpress:*:*",
 			"cpeNameId": "DC3EE89D-0492-4A0E-9ABD-6ACE8646BC3E"
@@ -950,6 +954,10 @@
 		{
 			"cpeName": "cpe:2.3:a:givewp:givewp:3.14.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "ED466508-7CF2-40BE-9C75-DB7D672042A5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:3.14.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EA6F7E6B-900E-44A9-81C5-1498DDF429A7"
 		}
 	]
 }

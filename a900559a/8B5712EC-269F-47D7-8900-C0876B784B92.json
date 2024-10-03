@@ -3,10 +3,14 @@
 	"matchCriteriaId": "8B5712EC-269F-47D7-8900-C0876B784B92",
 	"versionEndExcluding": "1.8.15",
 	"created": "2024-09-25T16:05:04.147",
-	"lastModified": "2024-09-25T16:05:04.147",
-	"cpeLastModified": "2024-09-25T16:05:04.147",
+	"lastModified": "2024-10-03T13:53:03.900",
+	"cpeLastModified": "2024-10-03T13:53:03.900",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:enviragallery:envira_gallery:-:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "FCF09F49-5A27-4D7A-8D62-EF4B6F588460"
+		},
 		{
 			"cpeName": "cpe:2.3:a:enviragallery:envira_gallery:1.0.0:*:*:*:lite:wordpress:*:*",
 			"cpeNameId": "DDF8945A-D236-424C-A6A6-FC75749EAF2F"
@@ -530,6 +534,42 @@
 		{
 			"cpeName": "cpe:2.3:a:enviragallery:envira_gallery:1.8.7.1:*:*:*:lite:wordpress:*:*",
 			"cpeNameId": "545EF15F-12FD-46EC-96FE-8F9BCA03D0E8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:enviragallery:envira_gallery:1.8.7.2:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "2C13A2B2-B9B6-4088-A83D-6249FE02E6A1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:enviragallery:envira_gallery:1.8.7.3:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "9EC1EC56-6994-4A8F-8AB2-D14E33B7B208"
+		},
+		{
+			"cpeName": "cpe:2.3:a:enviragallery:envira_gallery:1.8.8:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "1AA68544-2B69-47ED-AABC-445644C25766"
+		},
+		{
+			"cpeName": "cpe:2.3:a:enviragallery:envira_gallery:1.8.9:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "D123EF63-E77F-4035-80EC-46A0F51F4058"
+		},
+		{
+			"cpeName": "cpe:2.3:a:enviragallery:envira_gallery:1.8.10:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "34799134-DD58-4035-9D76-DE35BE40ED0F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:enviragallery:envira_gallery:1.8.11:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "B9BA62C1-6946-454B-A6D2-25B8D0FD486E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:enviragallery:envira_gallery:1.8.12:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "1C776F40-A426-4906-B754-05ED5E99278F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:enviragallery:envira_gallery:1.8.13:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "D943D53A-14A2-4A9A-9C71-6669EC113BAE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:enviragallery:envira_gallery:1.8.14:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "53CC824F-2357-4B65-A592-D2224770D2C5"
 		}
 	]
 }

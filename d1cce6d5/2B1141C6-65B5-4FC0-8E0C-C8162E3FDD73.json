@@ -4,7 +4,7 @@
 	"versionEndExcluding": "6.0.0",
 	"created": "2023-03-15T15:18:20.350",
 	"lastModified": "2023-06-09T18:10:15.570",
-	"cpeLastModified": "2023-06-09T18:10:15.570",
+	"cpeLastModified": "2024-10-03T17:57:32.493",
 	"status": "Active",
 	"matches": [
 		{
@@ -2948,6 +2948,14 @@
 			"cpeNameId": "C53D3E3A-D886-48E2-B4CE-7214E7DEA250"
 		},
 		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:5.3.6:*:*:*:*:*:*:*",
+			"cpeNameId": "82ABB3DC-927D-42A0-A902-6F4625309FD5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:5.3.7:*:*:*:*:*:*:*",
+			"cpeNameId": "5C77B0D3-2851-4653-A006-DA5226BF89B2"
+		},
+		{
 			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:5.4.0:-:*:*:*:*:*:*",
 			"cpeNameId": "D3629E24-A6FE-424E-92C8-D364E430EA21"
 		},
@@ -2994,6 +3002,30 @@
 		{
 			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:5.4.4:*:*:*:*:*:*:*",
 			"cpeNameId": "2AABA31E-2117-4DF3-AAF9-29A69F0DB2DC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:5.4.5:*:*:*:*:*:*:*",
+			"cpeNameId": "9ED271BF-552A-4301-A0E0-6B2E2F84C437"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:5.4.6:*:*:*:*:*:*:*",
+			"cpeNameId": "3B5CC919-CA4C-4DE1-B3EC-14638127469B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:5.4.7:*:*:*:*:*:*:*",
+			"cpeNameId": "3BA9AB31-CBF3-4D92-A93E-A192BC8CBE1B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:5.4.8:*:*:*:*:*:*:*",
+			"cpeNameId": "5C18F6BD-B479-4954-91A9-6B26302911FD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:5.4.9:*:*:*:*:*:*:*",
+			"cpeNameId": "18553287-8298-4BF4-A3B9-641B33E08823"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:5.4.10:*:*:*:*:*:*:*",
+			"cpeNameId": "CAB10395-E72E-4A13-818F-6335B7B3CE81"
 		}
 	]
 }

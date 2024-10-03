@@ -3,8 +3,8 @@
 	"matchCriteriaId": "CA1281C6-658E-4128-A934-07F6B9FDE748",
 	"versionEndIncluding": "2.10.6",
 	"created": "2024-01-10T15:59:34.433",
-	"lastModified": "2024-01-10T15:59:34.433",
-	"cpeLastModified": "2024-01-10T15:59:34.433",
+	"lastModified": "2024-10-03T18:09:16.510",
+	"cpeLastModified": "2024-10-03T18:09:16.510",
 	"status": "Active",
 	"matches": [
 		{
@@ -142,6 +142,18 @@
 		{
 			"cpeName": "cpe:2.3:a:presstigers:simple_job_board:2.10.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "5E15B43E-3507-481E-AEC7-6382021D02E2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:presstigers:simple_job_board:2.10.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F2997532-0A5B-4E9D-A1BA-A287146A7595"
+		},
+		{
+			"cpeName": "cpe:2.3:a:presstigers:simple_job_board:2.10.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "665C9700-B079-48AC-B91D-51BB7953C2C1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:presstigers:simple_job_board:2.10.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6F1276AB-143E-4403-B1A6-F64970313B06"
 		}
 	]
 }

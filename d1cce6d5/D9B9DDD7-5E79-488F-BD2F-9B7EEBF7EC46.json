@@ -3,8 +3,8 @@
 	"matchCriteriaId": "D9B9DDD7-5E79-488F-BD2F-9B7EEBF7EC46",
 	"versionEndExcluding": "6.7.9",
 	"created": "2024-09-26T17:07:45.110",
-	"lastModified": "2024-09-26T17:07:45.110",
-	"cpeLastModified": "2024-09-26T17:18:42.750",
+	"lastModified": "2024-10-03T17:57:32.493",
+	"cpeLastModified": "2024-10-03T17:57:32.493",
 	"status": "Active",
 	"matches": [
 		{
@@ -2948,6 +2948,14 @@
 			"cpeNameId": "C53D3E3A-D886-48E2-B4CE-7214E7DEA250"
 		},
 		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:5.3.6:*:*:*:*:*:*:*",
+			"cpeNameId": "82ABB3DC-927D-42A0-A902-6F4625309FD5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:5.3.7:*:*:*:*:*:*:*",
+			"cpeNameId": "5C77B0D3-2851-4653-A006-DA5226BF89B2"
+		},
+		{
 			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:5.4.0:-:*:*:*:*:*:*",
 			"cpeNameId": "D3629E24-A6FE-424E-92C8-D364E430EA21"
 		},
@@ -2994,6 +3002,30 @@
 		{
 			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:5.4.4:*:*:*:*:*:*:*",
 			"cpeNameId": "2AABA31E-2117-4DF3-AAF9-29A69F0DB2DC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:5.4.5:*:*:*:*:*:*:*",
+			"cpeNameId": "9ED271BF-552A-4301-A0E0-6B2E2F84C437"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:5.4.6:*:*:*:*:*:*:*",
+			"cpeNameId": "3B5CC919-CA4C-4DE1-B3EC-14638127469B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:5.4.7:*:*:*:*:*:*:*",
+			"cpeNameId": "3BA9AB31-CBF3-4D92-A93E-A192BC8CBE1B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:5.4.8:*:*:*:*:*:*:*",
+			"cpeNameId": "5C18F6BD-B479-4954-91A9-6B26302911FD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:5.4.9:*:*:*:*:*:*:*",
+			"cpeNameId": "18553287-8298-4BF4-A3B9-641B33E08823"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:5.4.10:*:*:*:*:*:*:*",
+			"cpeNameId": "CAB10395-E72E-4A13-818F-6335B7B3CE81"
 		},
 		{
 			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.0.0:-:*:*:*:*:*:*",
@@ -3054,6 +3086,582 @@
 		{
 			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.0.0:rc9:*:*:*:*:*:*",
 			"cpeNameId": "3C9C12B3-C7D0-474A-8194-F09110B5F9C7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "9A888BB1-BCD6-494F-8AEE-88964248A5A5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "BDAF846A-16D2-4E15-91DC-62FA7A34BDE9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "F5EEA94A-AF01-4FE4-A5C9-35E3B89235EC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.0.4:*:*:*:*:*:*:*",
+			"cpeNameId": "C444EF39-71C1-466B-870A-95D8193B720A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.0.5:*:*:*:*:*:*:*",
+			"cpeNameId": "71F89A95-66AA-4D88-AC95-36A3F6A05576"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.0.6:*:*:*:*:*:*:*",
+			"cpeNameId": "D75DB25A-9864-4B8A-AF65-5151AF487219"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.0.7:*:*:*:*:*:*:*",
+			"cpeNameId": "9D75E144-D1D2-420E-9B2B-133F5D0E6BE5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.0.8:*:*:*:*:*:*:*",
+			"cpeNameId": "E67305E7-F107-4053-8F81-8A1D19071D96"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.1.0:-:*:*:*:*:*:*",
+			"cpeNameId": "F0CE0836-3649-46F8-9FD1-EBDD13AA39D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "5D63FA57-4C78-4A89-8415-8E819B0714E4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "9F168027-9FA4-4C6E-9A3F-4F98D8C3B703"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.1.3:*:*:*:*:*:*:*",
+			"cpeNameId": "BC3F04B3-1AA5-4F3E-83E8-73BFD7664EEE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.1.4:*:*:*:*:*:*:*",
+			"cpeNameId": "0C2F5A2C-DBA5-4ED5-AD68-A3AA87562A0F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.1.5:*:*:*:*:*:*:*",
+			"cpeNameId": "7C15B284-A659-406F-936A-FF033F38B675"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.1.6:*:*:*:*:*:*:*",
+			"cpeNameId": "B93A6A72-F0CB-410F-8803-9888E7002767"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.1.7:*:*:*:*:*:*:*",
+			"cpeNameId": "4604B9EE-3105-40A2-8053-3C543E98CBAB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.1.8:*:*:*:*:*:*:*",
+			"cpeNameId": "D585D2BE-ED0C-4FC4-ABCE-DE8EA052FD72"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.2.0:-:*:*:*:*:*:*",
+			"cpeNameId": "4D85C872-FF00-4A0F-80BE-6979423C0F6D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.2.0:rc0:*:*:*:*:*:*",
+			"cpeNameId": "69717012-3774-42E0-B8E0-92494FC1AF2C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.2.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "2DE60FFC-9B8C-4312-8949-2F7586E17492"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.2.0:rc10:*:*:*:*:*:*",
+			"cpeNameId": "2C4AB7F2-DA3D-486B-865E-C5C9C089F088"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.2.0:rc11:*:*:*:*:*:*",
+			"cpeNameId": "078ECBFD-224E-4658-864B-26608A877C42"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.2.0:rc12:*:*:*:*:*:*",
+			"cpeNameId": "AC25F52F-806E-4BC5-A650-61DEF8CAC512"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.2.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "30C75A1A-7632-4A85-B186-DA5FC069DA63"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.2.0:rc3:*:*:*:*:*:*",
+			"cpeNameId": "EFC0D652-CF4A-4EFB-865D-ECCD46CEE911"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.2.0:rc4:*:*:*:*:*:*",
+			"cpeNameId": "BF8C4196-0F53-479B-A829-31BF9DABFD6C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.2.0:rc5:*:*:*:*:*:*",
+			"cpeNameId": "2375E254-55C9-4FE7-80C8-6E19A75A9F7B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.2.0:rc6:*:*:*:*:*:*",
+			"cpeNameId": "8D116CDE-5CAA-4294-A31E-4DF069A64904"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.2.0:rc7:*:*:*:*:*:*",
+			"cpeNameId": "185FC23A-DFBE-43E0-943F-33C3977E75DE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.2.0:rc8:*:*:*:*:*:*",
+			"cpeNameId": "A26B4E85-A188-4A2A-907B-6DB97A54F7AC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.2.0:rc9:*:*:*:*:*:*",
+			"cpeNameId": "EB3E848A-3843-4233-A5E1-7A9CA17562BD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "BD7702AE-69B3-4AC6-BE1D-173DA08E1A83"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "2238B467-3378-48EB-B847-7F4D08FC0744"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.2.3:*:*:*:*:*:*:*",
+			"cpeNameId": "D21462E5-4C98-42ED-A53B-001E88113538"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.2.4:*:*:*:*:*:*:*",
+			"cpeNameId": "7C664700-162F-418D-876F-FC6802FDB8D5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.2.5:*:*:*:*:*:*:*",
+			"cpeNameId": "07E0B2D6-1558-474F-8742-08531B573FC1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.2.6:*:*:*:*:*:*:*",
+			"cpeNameId": "10FDD526-57CE-4371-9039-C4991F89546A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.2.8:*:*:*:*:*:*:*",
+			"cpeNameId": "3FC2673E-F04D-4F62-9AA7-49CA700F5211"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.2.9:*:*:*:*:*:*:*",
+			"cpeNameId": "0A5E8D8E-4238-4366-9571-5E15BD1FC03E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.2.10:*:*:*:*:*:*:*",
+			"cpeNameId": "2240EE67-1D42-46BB-A920-E417603477C7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.2.11:*:*:*:*:*:*:*",
+			"cpeNameId": "36AAAAE8-4FC2-41EB-8387-718D0F179AD5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.2.12:*:*:*:*:*:*:*",
+			"cpeNameId": "936E4C77-11FA-4325-BC78-661D2A6EF64C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.3.0:-:*:*:*:*:*:*",
+			"cpeNameId": "A8F96007-BD32-4FAC-8D3E-9B6916442FF0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.3.0:rc0:*:*:*:*:*:*",
+			"cpeNameId": "AF8017BE-82D0-4B95-B48C-C546967117E9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.3.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "BDA35FEF-2279-48D8-9BD5-EE5CD16EAA17"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.3.0:rc10:*:*:*:*:*:*",
+			"cpeNameId": "C4D95820-F6EC-4E7F-9C92-CEB567C6F57D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.3.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "24F02098-FFBD-45B6-A8A9-3E4810404226"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.3.0:rc3:*:*:*:*:*:*",
+			"cpeNameId": "1ABD8A61-B42E-44A7-A834-FF9B03FA54C4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.3.0:rc4:*:*:*:*:*:*",
+			"cpeNameId": "E0AB2E41-4424-4BBC-AE06-9AD90FAD2FE4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.3.0:rc5:*:*:*:*:*:*",
+			"cpeNameId": "73318995-D7C7-4A06-96C6-E4368C203052"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.3.0:rc6:*:*:*:*:*:*",
+			"cpeNameId": "A1485628-536E-408A-B29F-D80AF0B2A44D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.3.0:rc7:*:*:*:*:*:*",
+			"cpeNameId": "372BD3FD-0C77-4879-AD20-FB58D2CA12E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.3.0:rc8:*:*:*:*:*:*",
+			"cpeNameId": "68E05214-DDF3-4438-BB7C-0146DBCBA704"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.3.0:rc9:*:*:*:*:*:*",
+			"cpeNameId": "89D9EA36-C27A-4AE7-9924-BD56894EC854"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "0B796757-5688-4D36-A6D9-B5F3EDAF5E7B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.3.2:*:*:*:*:*:*:*",
+			"cpeNameId": "28966853-1BE5-4A75-A9DF-1E464A3EB6CB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.3.3:*:*:*:*:*:*:*",
+			"cpeNameId": "6E793C68-FF6C-40E1-9C75-8CFF6023DD81"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.3.5:*:*:*:*:*:*:*",
+			"cpeNameId": "FC26074F-18A8-43E3-AA85-801FAE49FCD2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.3.6:*:*:*:*:*:*:*",
+			"cpeNameId": "B910E92C-81DD-4A01-99E9-7B58230A5605"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.3.7:*:*:*:*:*:*:*",
+			"cpeNameId": "C32404FB-AC30-46E8-87CB-DCBD1CDED1AB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.3.8:*:*:*:*:*:*:*",
+			"cpeNameId": "0528B6DD-361C-4088-A533-2E1BDD8D07A1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.3.9:*:*:*:*:*:*:*",
+			"cpeNameId": "43A67005-26BE-4D80-ABA5-E02C848CC47A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.3.10:*:*:*:*:*:*:*",
+			"cpeNameId": "F847F37C-B846-4BD0-8243-7BB9473355DC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.3.11:*:*:*:*:*:*:*",
+			"cpeNameId": "88BE075F-E734-4501-802A-84788F680F7B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.3.12:*:*:*:*:*:*:*",
+			"cpeNameId": "FC2F0B5A-0605-4F96-A881-AF41F1CB3A18"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.4.0:-:*:*:*:*:*:*",
+			"cpeNameId": "1CEC8EA7-1AB1-4B30-BA62-04A31BE9A581"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.4.0:rc0:*:*:*:*:*:*",
+			"cpeNameId": "94C459F1-3F25-40B1-AEA0-23440AEC00D2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.4.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "E768C2F2-29A9-4CDD-BE0C-4A43938E15FC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.4.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "2ACDC62D-F2C3-4EA7-BFAE-D7E538AC8387"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.4.0:rc3:*:*:*:*:*:*",
+			"cpeNameId": "6539B73A-FED9-4988-AA06-5724279F82C1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.4.0:rc4:*:*:*:*:*:*",
+			"cpeNameId": "4D9F1B4A-DBEF-4D55-A29B-D10888E3C8DE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.4.0:rc5:*:*:*:*:*:*",
+			"cpeNameId": "87364676-350E-448A-9E6D-2EAA4F4FF008"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.4.1:*:*:*:*:*:*:*",
+			"cpeNameId": "894B6070-694B-486B-B582-1B9A2E5640F1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.4.2:*:*:*:*:*:*:*",
+			"cpeNameId": "6BDE9790-6370-4C72-B25A-4F689D1E0C10"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.4.3:*:*:*:*:*:*:*",
+			"cpeNameId": "3917FDEB-B8E7-4E40-9C7C-638A47C885E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.4.4:*:*:*:*:*:*:*",
+			"cpeNameId": "9A63BF79-5A6D-43AC-BAE4-B083C5D24561"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.4.5:*:*:*:*:*:*:*",
+			"cpeNameId": "8C5FD54E-4350-4E2B-8124-AE355A8F3D3B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.4.6:*:*:*:*:*:*:*",
+			"cpeNameId": "B70FD710-E811-4419-9E9D-D37C340FD64A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.4.7:*:*:*:*:*:*:*",
+			"cpeNameId": "CA36A1CD-39A9-4910-8A1F-F73B8C71EC82"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.4.8:*:*:*:*:*:*:*",
+			"cpeNameId": "634DB53F-A8FE-4A09-84B4-376BC6B6EBEB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.4.9:*:*:*:*:*:*:*",
+			"cpeNameId": "B17B1033-AA5D-49BC-B92F-5E13FFB8A100"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.0:-:*:*:*:*:*:*",
+			"cpeNameId": "B84A3551-BC4A-4FEF-90F6-465BF608EE04"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.0:rc0:*:*:*:*:*:*",
+			"cpeNameId": "1327EE9D-A473-499F-9BC5-67E5540AFD5F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "17CED58F-E602-4DEB-9E06-6299D8CEFAFD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.0:rc10:*:*:*:*:*:*",
+			"cpeNameId": "92233446-D3F4-4AA0-A450-FF60D8DA4A50"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.0:rc11:*:*:*:*:*:*",
+			"cpeNameId": "E98DEDEC-0073-4A7C-BFAB-9B47ECF87CC3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.0:rc12:*:*:*:*:*:*",
+			"cpeNameId": "2EEDB188-C24F-4DFD-A972-CFA035C7E295"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.0:rc13:*:*:*:*:*:*",
+			"cpeNameId": "5FA38CC0-39A1-4CDF-90BD-9E0FFC8FF85F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.0:rc14:*:*:*:*:*:*",
+			"cpeNameId": "FA7B2BC9-01AE-4DFA-ABB0-73D5DE4C710E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.0:rc15:*:*:*:*:*:*",
+			"cpeNameId": "2F2D2D1E-364E-4AF9-985A-9C07FADBE40F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.0:rc16:*:*:*:*:*:*",
+			"cpeNameId": "A59CD7F1-E375-48B1-82C1-539A3C353F54"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.0:rc17:*:*:*:*:*:*",
+			"cpeNameId": "312ACE49-5EB0-4507-8F1F-C5D9360686F3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.0:rc18:*:*:*:*:*:*",
+			"cpeNameId": "DE510A35-10D6-43A5-B528-EF39FEB93250"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.0:rc19:*:*:*:*:*:*",
+			"cpeNameId": "D07E791B-081F-4F07-A16A-00C6E12418AF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "F74A6CA5-FBFF-4D00-9060-194BBB82DBCC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.0:rc3:*:*:*:*:*:*",
+			"cpeNameId": "B9F2B57F-43DE-41CB-8DA2-2709F325D2D0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.0:rc4:*:*:*:*:*:*",
+			"cpeNameId": "906B79A0-394E-422A-A4DA-12F96162074A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.0:rc5:*:*:*:*:*:*",
+			"cpeNameId": "47F903D4-E2C3-42E4-9088-9E7BFD276F13"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.0:rc6:*:*:*:*:*:*",
+			"cpeNameId": "B2B523AB-15DB-4B25-9CD5-DD8A4299F6A2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.0:rc7:*:*:*:*:*:*",
+			"cpeNameId": "D1F97FE7-A927-46AD-8076-DA8809217FDC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.0:rc8:*:*:*:*:*:*",
+			"cpeNameId": "F98208E8-9B92-43F1-8831-E608B220109A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.0:rc9:*:*:*:*:*:*",
+			"cpeNameId": "EF7DE56B-18F8-4D72-B936-AEA083F318C2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "4B661B9C-E9A5-41B2-9AEE-74B318A873E9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.2:*:*:*:*:*:*:*",
+			"cpeNameId": "7FB9ED70-C74F-482B-84C7-6FFFFF277C4D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.3:*:*:*:*:*:*:*",
+			"cpeNameId": "379E2948-406F-4450-B619-22B67DA79BB5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.4:*:*:*:*:*:*:*",
+			"cpeNameId": "3178A253-4BB5-423C-A611-27F039F31F90"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.5:*:*:*:*:*:*:*",
+			"cpeNameId": "EF8C3A58-ECE8-4F4C-BF3D-B180D60D620F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.6:*:*:*:*:*:*:*",
+			"cpeNameId": "C871818E-D878-481B-BE25-BA1AA3F1E8E8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.7:*:*:*:*:*:*:*",
+			"cpeNameId": "334E7411-9A0B-4A86-98F0-C573514FB899"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.5.8:*:*:*:*:*:*:*",
+			"cpeNameId": "3874C5DA-DAAC-477B-9A72-F948EC006CFB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.6.0:-:*:*:*:*:*:*",
+			"cpeNameId": "085F409D-88C7-4294-BD3F-761A054E2957"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.6.0:rc0:*:*:*:*:*:*",
+			"cpeNameId": "EE751140-A1C9-43D0-BA7A-E22FD2EA096E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.6.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "5E22C444-4D5A-41C0-96C4-E9EBF3C7FE9D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.6.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "364FDB44-A303-4771-8A9A-670B2A4694B7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.6.0:rc3:*:*:*:*:*:*",
+			"cpeNameId": "D51E97EF-3FAE-4DA1-BF4B-AFAC89B681ED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.6.0:rc4:*:*:*:*:*:*",
+			"cpeNameId": "5D0CFD87-6882-4594-86FE-ED9A0B638230"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.6.0:rc5:*:*:*:*:*:*",
+			"cpeNameId": "80372AA2-63F4-4A7C-9DB7-AA0E7FB1D262"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.6.0:rc6:*:*:*:*:*:*",
+			"cpeNameId": "FCC128AC-462C-4AB2-9668-02A45DF497C6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.6.0:rc7:*:*:*:*:*:*",
+			"cpeNameId": "2456FBA6-9763-4892-AABB-0D6A2111B929"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.6.1:*:*:*:*:*:*:*",
+			"cpeNameId": "78A17A4D-EAC5-4D84-81A0-287AB83BBD2D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.6.2:*:*:*:*:*:*:*",
+			"cpeNameId": "2EC7282B-2C12-47BF-9F82-CB038157FDF3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.6.3:*:*:*:*:*:*:*",
+			"cpeNameId": "BA8EE795-8069-414E-9D92-B08AD7B41AD5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.6.4:*:*:*:*:*:*:*",
+			"cpeNameId": "0B1CE3EA-2165-41AB-B3EC-56A0FA0882B2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.6.5:*:*:*:*:*:*:*",
+			"cpeNameId": "B6912DAC-24D3-4DFF-AFA4-BB9D6527135C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.6.6:*:*:*:*:*:*:*",
+			"cpeNameId": "30EB6BDA-7DE7-4674-8134-FAB4F05A7317"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.6.7:*:*:*:*:*:*:*",
+			"cpeNameId": "FEE48579-60DA-4AD9-806A-B00979B4CE83"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.6.8:*:*:*:*:*:*:*",
+			"cpeNameId": "7590F35C-9F9F-4F26-9653-8DDDBB190AC6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.6.9:*:*:*:*:*:*:*",
+			"cpeNameId": "A16B1500-A0A7-416F-9D5A-2576510359C2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.6.10:*:*:*:*:*:*:*",
+			"cpeNameId": "43745C5B-0CCD-4B27-A9B2-F6417189B072"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.6.11:*:*:*:*:*:*:*",
+			"cpeNameId": "8A0B1632-EF27-4FDF-8FD7-92A9531CD1DF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.6.12:*:*:*:*:*:*:*",
+			"cpeNameId": "40EC6231-9D8D-46B7-96FF-E602F01686F6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.7.0:-:*:*:*:*:*:*",
+			"cpeNameId": "5D22C6A7-A868-4BB8-B34B-FB3D07F6FF46"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.7.0:rc0:*:*:*:*:*:*",
+			"cpeNameId": "09E6A443-1FA2-4835-A7A3-813FBA3A73E4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.7.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "34A1D9E4-DF99-40AB-BFB4-81E9CBBA0154"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.7.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "8B4D92B6-AC11-4FAB-BDE2-4EC2D400E4EF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.7.0:rc3:*:*:*:*:*:*",
+			"cpeNameId": "948DBCE9-5B6B-4D70-92F7-B7B37CD60BFE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.7.0:rc4:*:*:*:*:*:*",
+			"cpeNameId": "36073ABA-873B-4F93-B98F-5CF6FBB86BB9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.7.1:*:*:*:*:*:*:*",
+			"cpeNameId": "1139C5CD-D4C3-4475-A484-69D693954CEC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.7.2:*:*:*:*:*:*:*",
+			"cpeNameId": "DDA9B8A9-CB72-4C3A-8379-CF4D0BB7AB3B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.7.3:*:*:*:*:*:*:*",
+			"cpeNameId": "0A11B4C9-65C0-44E8-85FC-BDB54440AC11"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.7.4:*:*:*:*:*:*:*",
+			"cpeNameId": "145302F7-E5E3-4F39-9F96-1143DB217280"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.7.5:*:*:*:*:*:*:*",
+			"cpeNameId": "AF9462D0-983E-47C9-AC8B-FFF20A5521CD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.7.6:*:*:*:*:*:*:*",
+			"cpeNameId": "3D3EC0B0-BF57-4340-A3BC-0D5581395D9C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:6.7.7:*:*:*:*:*:*:*",
+			"cpeNameId": "B7FFB048-E88E-4DEE-90B6-6C83D4244E75"
 		}
 	]
 }

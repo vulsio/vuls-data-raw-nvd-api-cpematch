@@ -4,9 +4,13 @@
 	"versionEndIncluding": "1.7.6",
 	"created": "2023-05-23T14:22:22.827",
 	"lastModified": "2023-07-24T19:51:09.903",
-	"cpeLastModified": "2023-07-24T19:51:09.903",
+	"cpeLastModified": "2024-10-03T13:53:03.900",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:enviragallery:envira_gallery:-:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "FCF09F49-5A27-4D7A-8D62-EF4B6F588460"
+		},
 		{
 			"cpeName": "cpe:2.3:a:enviragallery:envira_gallery:1.0.0:*:*:*:lite:wordpress:*:*",
 			"cpeNameId": "DDF8945A-D236-424C-A6A6-FC75749EAF2F"

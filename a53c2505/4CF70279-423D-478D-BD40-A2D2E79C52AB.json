@@ -4,9 +4,13 @@
 	"versionEndExcluding": "3.12.1",
 	"created": "2024-08-29T18:38:58.503",
 	"lastModified": "2024-08-29T18:38:58.503",
-	"cpeLastModified": "2024-08-29T18:38:58.503",
+	"cpeLastModified": "2024-10-03T13:53:03.900",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:givewp:givewp:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "61A442E6-ABBF-4C9B-9D69-0FB40FFF4A2A"
+		},
 		{
 			"cpeName": "cpe:2.3:a:givewp:givewp:0.8:beta:*:*:*:wordpress:*:*",
 			"cpeNameId": "DC3EE89D-0492-4A0E-9ABD-6ACE8646BC3E"

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "CA2ECBE4-E788-42EB-AD4A-EA9BFFA5EAAC",
 	"versionEndExcluding": "1.15.28",
 	"created": "2024-09-30T16:56:37.337",
-	"lastModified": "2024-09-30T16:56:37.337",
-	"cpeLastModified": "2024-09-30T16:56:37.337",
+	"lastModified": "2024-10-03T13:22:37.187",
+	"cpeLastModified": "2024-10-03T13:22:37.187",
 	"status": "Active",
 	"matches": [
 		{
@@ -1278,6 +1278,30 @@
 		{
 			"cpeName": "cpe:2.3:a:10web:form_maker:1.15.21:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "89B9EA04-90AD-42A4-8D1D-9EE29080B07A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:10web:form_maker:1.15.22:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6AB9C323-CE85-4FA1-9EA8-07A85CC6E941"
+		},
+		{
+			"cpeName": "cpe:2.3:a:10web:form_maker:1.15.23:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0C4A863B-B4C8-485D-A75B-FE281280D849"
+		},
+		{
+			"cpeName": "cpe:2.3:a:10web:form_maker:1.15.24:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C80337AB-C3EC-47A8-A730-2150D9E96A34"
+		},
+		{
+			"cpeName": "cpe:2.3:a:10web:form_maker:1.15.25:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9DA4AD56-3CD9-43D6-968C-832B04738C15"
+		},
+		{
+			"cpeName": "cpe:2.3:a:10web:form_maker:1.15.26:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B9E760E0-F818-4F1C-8D82-34E4D98B8BF7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:10web:form_maker:1.15.27:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B3343893-A6CF-41EF-A930-E68F063DFCBC"
 		}
 	]
 }
