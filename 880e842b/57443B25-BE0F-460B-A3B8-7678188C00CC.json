@@ -3,8 +3,8 @@
 	"matchCriteriaId": "57443B25-BE0F-460B-A3B8-7678188C00CC",
 	"versionEndExcluding": "20240919-4",
 	"created": "2024-09-24T14:11:24.807",
-	"lastModified": "2024-09-24T14:11:24.807",
-	"cpeLastModified": "2024-09-24T14:11:24.807",
+	"lastModified": "2024-10-02T19:19:21.783",
+	"cpeLastModified": "2024-10-02T19:19:21.783",
 	"status": "Active",
 	"matches": [
 		{
@@ -182,6 +182,30 @@
 		{
 			"cpeName": "cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:20240410:*:*:*:*:*:*:*",
 			"cpeNameId": "0C57EA7F-7CA1-40EB-8390-C503B4BBC0D7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:20240628:*:*:*:*:*:*:*",
+			"cpeNameId": "84EE14C7-9618-46D6-9ACA-48F00C712708"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:20240802:*:*:*:*:*:*:*",
+			"cpeNameId": "1DF233A6-DD7B-4C67-950F-5CBC86C97DC3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:20240914:*:*:*:*:*:*:*",
+			"cpeNameId": "4AFBF3D1-3E6D-42FB-BE5B-52040166E030"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:20240918:*:*:*:*:*:*:*",
+			"cpeNameId": "C9C35E27-8EB6-419E-BB36-56E5D70B7274"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:20240919-2:*:*:*:*:*:*:*",
+			"cpeNameId": "01011FB2-C92D-4424-96FB-CF970A577FD8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:20240919-3:*:*:*:*:*:*:*",
+			"cpeNameId": "DC08E094-08A6-4796-A9F9-B8625D3CE7E8"
 		}
 	]
 }

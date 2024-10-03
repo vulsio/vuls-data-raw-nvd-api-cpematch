@@ -3,8 +3,8 @@
 	"matchCriteriaId": "B223170E-958F-48BE-9626-60F2099964FF",
 	"versionEndExcluding": "20240918",
 	"created": "2024-09-24T14:04:43.290",
-	"lastModified": "2024-09-24T14:04:43.290",
-	"cpeLastModified": "2024-09-24T14:04:43.290",
+	"lastModified": "2024-10-02T19:19:21.783",
+	"cpeLastModified": "2024-10-02T19:19:21.783",
 	"status": "Active",
 	"matches": [
 		{
@@ -182,6 +182,18 @@
 		{
 			"cpeName": "cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:20240410:*:*:*:*:*:*:*",
 			"cpeNameId": "0C57EA7F-7CA1-40EB-8390-C503B4BBC0D7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:20240628:*:*:*:*:*:*:*",
+			"cpeNameId": "84EE14C7-9618-46D6-9ACA-48F00C712708"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:20240802:*:*:*:*:*:*:*",
+			"cpeNameId": "1DF233A6-DD7B-4C67-950F-5CBC86C97DC3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:20240914:*:*:*:*:*:*:*",
+			"cpeNameId": "4AFBF3D1-3E6D-42FB-BE5B-52040166E030"
 		}
 	]
 }

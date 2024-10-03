@@ -4,7 +4,7 @@
 	"versionEndExcluding": "24.0.3",
 	"created": "2024-09-04T17:47:13.790",
 	"lastModified": "2024-09-04T17:47:13.790",
-	"cpeLastModified": "2024-09-04T17:47:13.790",
+	"cpeLastModified": "2024-10-02T20:10:47.017",
 	"status": "Active",
 	"matches": [
 		{
@@ -590,6 +590,74 @@
 		{
 			"cpeName": "cpe:2.3:a:redhat:keycloak:22.0.7:*:*:*:*:*:*:*",
 			"cpeNameId": "2B6EB861-5BD4-4C68-8255-9F4D4C5C1EA1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:keycloak:22.0.8:*:*:*:*:*:*:*",
+			"cpeNameId": "74AA55D2-1499-4977-8077-AD0FB2BA48B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:keycloak:22.0.9:*:*:*:*:*:*:*",
+			"cpeNameId": "C9DE231D-228A-40E7-94C8-42C93FAA3999"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:keycloak:22.0.10:*:*:*:*:*:*:*",
+			"cpeNameId": "DC494A4C-51D0-4809-A375-55BE98F48455"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:keycloak:22.0.11:*:*:*:*:*:*:*",
+			"cpeNameId": "BEDD01F2-CBC8-4299-94A2-703FD376F86D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:keycloak:22.0.12:*:*:*:*:*:*:*",
+			"cpeNameId": "FF425C35-22C5-4A5B-B231-651034B62D0E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:keycloak:22.0.13:*:*:*:*:*:*:*",
+			"cpeNameId": "66989C24-E318-493D-B4C5-59996081CE9A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:keycloak:23.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "8869AC7C-8652-4734-AE80-BE811FCBE3F5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:keycloak:23.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "3EBB6530-AF0A-42EF-827E-95F58DB83FE4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:keycloak:23.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "77E142C7-23EF-4359-9D53-46DE6E456912"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:keycloak:23.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "7A938B87-3466-49E2-B295-139D36017D75"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:keycloak:23.0.4:*:*:*:*:*:*:*",
+			"cpeNameId": "DB3BC7AC-D02D-4F35-AB4F-96C3757DD2F2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:keycloak:23.0.5:*:*:*:*:*:*:*",
+			"cpeNameId": "A2C28983-A341-487F-8DD9-21E91E6DB778"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:keycloak:23.0.6:*:*:*:*:*:*:*",
+			"cpeNameId": "23DE2001-6426-4D98-8184-4249B355236D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:keycloak:23.0.7:*:*:*:*:*:*:*",
+			"cpeNameId": "0F565A32-10BA-41B2-8DCB-7024AAE043E7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:keycloak:24.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "594F011F-E21D-4464-BCAD-843E7F26F12D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:keycloak:24.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "8541A1FA-A462-4BCD-BA92-F5C4FB616EF3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:keycloak:24.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "37BC3584-621B-4DC9-84A7-841B430E1B22"
 		}
 	]
 }

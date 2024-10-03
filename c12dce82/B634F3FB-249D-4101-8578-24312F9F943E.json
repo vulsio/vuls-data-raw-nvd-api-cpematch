@@ -3,8 +3,8 @@
 	"matchCriteriaId": "B634F3FB-249D-4101-8578-24312F9F943E",
 	"versionEndExcluding": "8.0.1",
 	"created": "2024-09-20T15:18:03.447",
-	"lastModified": "2024-09-20T15:18:03.447",
-	"cpeLastModified": "2024-09-20T15:18:03.447",
+	"lastModified": "2024-10-02T20:07:34.380",
+	"cpeLastModified": "2024-10-02T20:07:34.380",
 	"status": "Active",
 	"matches": [
 		{
@@ -314,6 +314,58 @@
 		{
 			"cpeName": "cpe:2.3:a:onlyoffice:document_server:7.0.1:*:*:*:*:*:*:*",
 			"cpeNameId": "EAEBABDE-D930-4E84-BE68-346308048490"
+		},
+		{
+			"cpeName": "cpe:2.3:a:onlyoffice:document_server:7.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "CB2C9739-25A0-45DC-9177-95389EC6D7B0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:onlyoffice:document_server:7.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "A9757645-C77A-42A4-9C34-CD52AE4DBCF1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:onlyoffice:document_server:7.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "23EA0B10-107B-4871-8C46-B1CB5B1EF393"
+		},
+		{
+			"cpeName": "cpe:2.3:a:onlyoffice:document_server:7.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "A5D857D4-1FAB-4BB9-BD4D-3D4FB60269A3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:onlyoffice:document_server:7.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "27C21D55-854C-4B97-97EE-80C069D94986"
+		},
+		{
+			"cpeName": "cpe:2.3:a:onlyoffice:document_server:7.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "3BF840B3-7E4F-425C-8B22-52930BFD4CC4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:onlyoffice:document_server:7.3.2:*:*:*:*:*:*:*",
+			"cpeNameId": "7E3930FF-C847-4B60-B7C3-272DFF18D31D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:onlyoffice:document_server:7.3.3:*:*:*:*:*:*:*",
+			"cpeNameId": "508C6849-3D13-4742-AB78-087AF2368A04"
+		},
+		{
+			"cpeName": "cpe:2.3:a:onlyoffice:document_server:7.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F93914DF-E943-471D-9B8D-54F043EFA5C8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:onlyoffice:document_server:7.4.1:*:*:*:*:*:*:*",
+			"cpeNameId": "D88D9ADE-70DE-4EEA-8CB1-07241021EAED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:onlyoffice:document_server:7.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "795574B1-9691-4114-B4E1-EBF138065E70"
+		},
+		{
+			"cpeName": "cpe:2.3:a:onlyoffice:document_server:7.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "B8095078-7735-4131-973A-5646193C8224"
+		},
+		{
+			"cpeName": "cpe:2.3:a:onlyoffice:document_server:8.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "14AB758C-464F-4116-82FF-8A9BE5D3CA9C"
 		}
 	]
 }

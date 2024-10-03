@@ -5,7 +5,7 @@
 	"versionEndIncluding": "7.3.2",
 	"created": "2023-08-17T23:24:24.950",
 	"lastModified": "2023-08-17T23:24:24.950",
-	"cpeLastModified": "2023-08-17T23:24:24.950",
+	"cpeLastModified": "2024-10-02T20:07:34.380",
 	"status": "Active",
 	"matches": [
 		{
@@ -295,6 +295,34 @@
 		{
 			"cpeName": "cpe:2.3:a:onlyoffice:document_server:7.0.1:*:*:*:*:*:*:*",
 			"cpeNameId": "EAEBABDE-D930-4E84-BE68-346308048490"
+		},
+		{
+			"cpeName": "cpe:2.3:a:onlyoffice:document_server:7.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "CB2C9739-25A0-45DC-9177-95389EC6D7B0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:onlyoffice:document_server:7.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "A9757645-C77A-42A4-9C34-CD52AE4DBCF1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:onlyoffice:document_server:7.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "23EA0B10-107B-4871-8C46-B1CB5B1EF393"
+		},
+		{
+			"cpeName": "cpe:2.3:a:onlyoffice:document_server:7.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "A5D857D4-1FAB-4BB9-BD4D-3D4FB60269A3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:onlyoffice:document_server:7.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "27C21D55-854C-4B97-97EE-80C069D94986"
+		},
+		{
+			"cpeName": "cpe:2.3:a:onlyoffice:document_server:7.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "3BF840B3-7E4F-425C-8B22-52930BFD4CC4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:onlyoffice:document_server:7.3.2:*:*:*:*:*:*:*",
+			"cpeNameId": "7E3930FF-C847-4B60-B7C3-272DFF18D31D"
 		}
 	]
 }
