@@ -3,8 +3,8 @@
 	"matchCriteriaId": "439B094F-B8C8-4EFA-B250-D25F819E9357",
 	"versionEndExcluding": "1.8.1.15",
 	"created": "2024-09-26T14:17:31.270",
-	"lastModified": "2024-09-26T14:17:31.270",
-	"cpeLastModified": "2024-09-26T14:17:31.270",
+	"lastModified": "2024-10-03T18:21:18.313",
+	"cpeLastModified": "2024-10-03T18:21:18.313",
 	"status": "Active",
 	"matches": [
 		{
@@ -546,6 +546,98 @@
 		{
 			"cpeName": "cpe:2.3:a:wpcharitable:charitable:1.7.0.13:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "E9E6A5FC-73BD-4E43-AA2B-40E23677A205"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpcharitable:charitable:1.7.0.14:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0761FE25-EB0C-4FF2-A2ED-A2EA86B3652F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpcharitable:charitable:1.8.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "610466E2-BA45-4301-A79B-D7753C4B7994"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpcharitable:charitable:1.8.0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D0E39972-3EA5-4BF5-87D7-0F1A71F5DFE8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpcharitable:charitable:1.8.0.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7B02C412-6F10-413B-8149-3FF649281231"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpcharitable:charitable:1.8.0.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "74F0B13F-EB00-4ED4-B4B1-A83D238DFCAC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpcharitable:charitable:1.8.0.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2FE574DE-D925-441E-8F7D-9777AA8A2494"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpcharitable:charitable:1.8.0.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0993E1E9-FDB1-40F2-8D6D-40B6051B3BE7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpcharitable:charitable:1.8.0.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5FD8B0A7-E9E9-4EEC-8DE2-464D559F2CC9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpcharitable:charitable:1.8.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0694FBB0-9BCA-47E4-8DB0-548E804AFA59"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpcharitable:charitable:1.8.1.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CC876C0A-6A5C-4202-819E-95E164F60B47"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpcharitable:charitable:1.8.1.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "519BF730-E61C-47A7-A763-4926D842F7D8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpcharitable:charitable:1.8.1.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B5248F47-6A10-4284-A888-EC3E77377867"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpcharitable:charitable:1.8.1.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C86E6965-3224-4EE7-BA61-A251293CABB7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpcharitable:charitable:1.8.1.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "81F9E964-8B41-4C62-9534-CA7D0F9FBA92"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpcharitable:charitable:1.8.1.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6E86CB45-E104-4B4F-A8FF-72395EB10CDC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpcharitable:charitable:1.8.1.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "81394BB7-61E3-4FD2-8BDD-8A63D93A33E9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpcharitable:charitable:1.8.1.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "95CE98A0-8DCB-48EA-9E39-6ABDA176A1B0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpcharitable:charitable:1.8.1.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E9F54835-54D0-4F58-AE5E-5040C2C2D609"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpcharitable:charitable:1.8.1.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D0DB98BB-B7F7-4A06-8C0D-84EA2F2AA135"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpcharitable:charitable:1.8.1.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8EAEB1E9-6DD5-44D0-9E67-3D966AA3F354"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpcharitable:charitable:1.8.1.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5B3F5237-DFF3-486F-8C41-D487D282C907"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpcharitable:charitable:1.8.1.13:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0513EBF1-1A27-41B5-AA4A-109F56BAFAA9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpcharitable:charitable:1.8.1.14:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CD43031E-382D-40AB-AD3B-22C42F65DBAD"
 		}
 	]
 }

@@ -4,7 +4,7 @@
 	"versionEndIncluding": "6.3.4",
 	"created": "2024-09-05T01:17:44.280",
 	"lastModified": "2024-09-05T01:17:44.280",
-	"cpeLastModified": "2024-10-03T17:57:32.493",
+	"cpeLastModified": "2024-10-03T19:14:07.660",
 	"status": "Active",
 	"matches": [
 		{
@@ -2906,6 +2906,10 @@
 		{
 			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:5.2.1:*:*:*:*:*:*:*",
 			"cpeNameId": "F397D73D-5404-4386-B765-E539AF9E657A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:5.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "11E5051C-9EED-4102-A1D3-5D4DBC56252A"
 		},
 		{
 			"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:5.3.0:-:*:*:*:*:*:*",

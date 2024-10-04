@@ -3,8 +3,8 @@
 	"matchCriteriaId": "51E555A1-9156-4759-A180-156B8D7C93BE",
 	"versionEndExcluding": "4.6.13",
 	"created": "2024-09-26T19:15:46.273",
-	"lastModified": "2024-09-26T19:15:46.273",
-	"cpeLastModified": "2024-09-26T19:15:46.273",
+	"lastModified": "2024-10-03T18:27:11.950",
+	"cpeLastModified": "2024-10-03T18:27:11.950",
 	"status": "Active",
 	"matches": [
 		{
@@ -490,6 +490,58 @@
 		{
 			"cpeName": "cpe:2.3:a:wpml:wpml:4.5.14:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "61FA405B-EDE8-4536-AF26-1B817136FC59"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpml:wpml:4.6:-:*:*:*:wordpress:*:*",
+			"cpeNameId": "C5F24363-E1DA-49E9-8B71-0B2B0511FA7B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpml:wpml:4.6:beta2:*:*:*:wordpress:*:*",
+			"cpeNameId": "2BF0AF4E-87CA-47D9-B0E1-54DEFDD1C87A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpml:wpml:4.6.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2685A6A3-74BB-4FD5-BD2A-C1DD1CE48B9D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpml:wpml:4.6.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A4B96A46-D76A-4B14-8072-0AF891EB6859"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpml:wpml:4.6.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "13426A4E-BF12-4142-8CC4-5A93692539DC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpml:wpml:4.6.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "046BAF5D-ECE1-4901-9DCC-E6E3A76FFF6E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpml:wpml:4.6.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "18C5D834-6F34-4A11-917E-21088C60E465"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpml:wpml:4.6.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "482545AC-A4A0-4E04-B6D2-DE35C958A445"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpml:wpml:4.6.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DFC28D58-97E4-4785-BCF9-D4AF1C69C9EF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpml:wpml:4.6.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9262A959-5D7F-486F-B14E-53B1283A8B92"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpml:wpml:4.6.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0F68624C-935D-4479-8219-4CD41FA9A567"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpml:wpml:4.6.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A387E1C6-8D68-4004-9514-6BF8F7872B52"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpml:wpml:4.6.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2FD01E1C-8FC3-4F73-AAB0-6B3CFFE2A60B"
 		}
 	]
 }
