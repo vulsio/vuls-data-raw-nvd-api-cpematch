@@ -4,7 +4,7 @@
 	"versionEndIncluding": "7.0.1",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2021-09-14T14:29:34.207",
+	"cpeLastModified": "2024-10-04T18:04:51.010",
 	"status": "Active",
 	"matches": [
 		{
@@ -410,6 +410,22 @@
 		{
 			"cpeName": "cpe:2.3:a:apache:lucene:6.6.1:*:*:*:*:*:*:*",
 			"cpeNameId": "92FED5DD-591F-46FE-A52B-8FC9BED8EA6F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:lucene:6.6.3:*:*:*:*:*:*:*",
+			"cpeNameId": "C2C3E4E5-5D76-4B5B-ADB7-518365701514"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:lucene:6.6.4:*:*:*:*:*:*:*",
+			"cpeNameId": "F3497DBF-CF6B-4221-8A74-45F84D0A94A2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:lucene:6.6.5:*:*:*:*:*:*:*",
+			"cpeNameId": "14A65279-2639-4024-A59F-2ECEA2A7A148"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apache:lucene:6.6.6:*:*:*:*:*:*:*",
+			"cpeNameId": "2064C071-9F8A-4FBF-BA61-2A415BE9AC8B"
 		},
 		{
 			"cpeName": "cpe:2.3:a:apache:lucene:7.0.0:*:*:*:*:*:*:*",

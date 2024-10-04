@@ -4,7 +4,7 @@
 	"versionEndIncluding": "3.2.4",
 	"created": "2024-09-09T12:21:53.383",
 	"lastModified": "2024-09-09T12:21:53.383",
-	"cpeLastModified": "2024-09-09T12:21:53.383",
+	"cpeLastModified": "2024-10-04T16:56:10.227",
 	"status": "Active",
 	"matches": [
 		{
@@ -50,6 +50,10 @@
 		{
 			"cpeName": "cpe:2.3:o:openatom:openharmony:3.1.6:*:*:*:-:*:*:*",
 			"cpeNameId": "202D50D7-D540-49E6-B0B9-F5AA2890B5AD"
+		},
+		{
+			"cpeName": "cpe:2.3:o:openatom:openharmony:3.2:-:*:*:-:*:*:*",
+			"cpeNameId": "F5A29D6B-B94C-453B-BB5C-6611038265A1"
 		},
 		{
 			"cpeName": "cpe:2.3:o:openatom:openharmony:3.2:beta1:*:*:-:*:*:*",
