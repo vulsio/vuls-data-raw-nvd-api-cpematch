@@ -3,8 +3,8 @@
 	"matchCriteriaId": "C23104B4-E4D5-4CE0-8133-566FBC08A12B",
 	"versionEndExcluding": "4.6.6",
 	"created": "2024-09-30T15:31:15.800",
-	"lastModified": "2024-09-30T15:31:15.800",
-	"cpeLastModified": "2024-09-30T15:31:15.800",
+	"lastModified": "2024-10-04T18:44:31.300",
+	"cpeLastModified": "2024-10-04T18:44:31.300",
 	"status": "Active",
 	"matches": [
 		{
@@ -170,6 +170,14 @@
 		{
 			"cpeName": "cpe:2.3:a:artbees:jupiter_x_core:4.5.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "C34906E9-AFB0-4C3B-8794-15810F8B82E5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:artbees:jupiter_x_core:4.6.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7F1470C1-7012-42D6-A9D3-5AD9B88473D2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:artbees:jupiter_x_core:4.6.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9662DE1C-2174-4A49-9A5A-A318EE229201"
 		}
 	]
 }
