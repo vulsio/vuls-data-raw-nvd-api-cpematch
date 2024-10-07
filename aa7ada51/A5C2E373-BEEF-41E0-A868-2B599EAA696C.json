@@ -3,8 +3,8 @@
 	"matchCriteriaId": "A5C2E373-BEEF-41E0-A868-2B599EAA696C",
 	"versionEndIncluding": "2.6.2",
 	"created": "2023-07-25T16:07:06.450",
-	"lastModified": "2023-07-25T16:07:06.450",
-	"cpeLastModified": "2023-07-25T16:07:06.450",
+	"lastModified": "2024-10-07T15:22:46.400",
+	"cpeLastModified": "2024-10-07T15:22:46.400",
 	"status": "Active",
 	"matches": [
 		{
@@ -398,6 +398,30 @@
 		{
 			"cpeName": "cpe:2.3:a:hasthemes:woolentor_-_woocommerce_elementor_addons_\\+_builder:2.5.6:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "0C696184-1541-41BD-8398-A6E560777B80"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hasthemes:woolentor_-_woocommerce_elementor_addons_\\+_builder:2.5.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D0C04491-DDB1-4A93-BADB-6F1EF25A6593"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hasthemes:woolentor_-_woocommerce_elementor_addons_\\+_builder:2.5.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B88856DB-F0A9-41C8-ADB5-AC53A862D07C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hasthemes:woolentor_-_woocommerce_elementor_addons_\\+_builder:2.5.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EF02F3F0-AB2B-4B3C-8F17-79E774D0A273"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hasthemes:woolentor_-_woocommerce_elementor_addons_\\+_builder:2.6.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "73F70A54-323F-4F12-B1A1-5D88E1841D6F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hasthemes:woolentor_-_woocommerce_elementor_addons_\\+_builder:2.6.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "659B5BD0-4C3C-406C-9745-7E9C0876AB3A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hasthemes:woolentor_-_woocommerce_elementor_addons_\\+_builder:2.6.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EA137178-A64C-4236-9C01-62226D701C76"
 		}
 	]
 }
