@@ -3,8 +3,8 @@
 	"matchCriteriaId": "B57963B2-68B5-4E7C-97B7-64304BB64F6C",
 	"versionEndExcluding": "2.54.10",
 	"created": "2024-09-24T10:49:33.500",
-	"lastModified": "2024-09-24T10:49:33.500",
-	"cpeLastModified": "2024-09-24T10:53:14.260",
+	"lastModified": "2024-10-07T12:20:08.533",
+	"cpeLastModified": "2024-10-07T12:20:08.533",
 	"status": "Active",
 	"matches": [
 		{
@@ -1722,6 +1722,606 @@
 		{
 			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.41.1:*:*:*:*:*:*:*",
 			"cpeNameId": "B13F7582-B8D2-47C2-9EB0-819BD8E48352"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.41.2:*:*:*:*:*:*:*",
+			"cpeNameId": "7B019F1E-6145-4A0F-964F-97AAD6728A29"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.41.3:*:*:*:*:*:*:*",
+			"cpeNameId": "819D7982-41C9-4528-8D6E-7E3C3519FEDC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.41.4:*:*:*:*:*:*:*",
+			"cpeNameId": "EA5FD88E-2813-4388-870D-BF8CD6E9A27F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.41.5:*:*:*:*:*:*:*",
+			"cpeNameId": "25B64E5A-105D-4F2D-994E-06DF5D8A4A55"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.41.6:*:*:*:*:*:*:*",
+			"cpeNameId": "3BDAF192-C86E-4E9D-95B2-0E0547EABE39"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.41.7:*:*:*:*:*:*:*",
+			"cpeNameId": "D6DAA9F1-5DC6-4797-86BC-64F2DAA4EE65"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.41.8:*:*:*:*:*:*:*",
+			"cpeNameId": "59B7C22E-B898-4FD5-8564-167FBD0F9995"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.41.9:*:*:*:*:*:*:*",
+			"cpeNameId": "32833B50-D5F6-4C20-A350-BAF383FCBA7B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.41.10:*:*:*:*:*:*:*",
+			"cpeNameId": "DEF14D6F-140C-4DF5-9CDB-F52A13FCA8A2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.41.11:*:*:*:*:*:*:*",
+			"cpeNameId": "43541C9A-1EBA-431E-A490-B25302A8107F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.41.12:*:*:*:*:*:*:*",
+			"cpeNameId": "D9FBE518-DF61-47A6-A358-1ED68F9C29C7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.41.13:*:*:*:*:*:*:*",
+			"cpeNameId": "3A75BAD6-C803-44A9-B4C8-726833C53E1B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.41.14:*:*:*:*:*:*:*",
+			"cpeNameId": "EBEED15F-5115-4CF2-B635-7BC5969227F0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.41.15:*:*:*:*:*:*:*",
+			"cpeNameId": "79A4A27C-83DB-43A3-8E0D-FC80C98FAD40"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.42.0:-:*:*:*:*:*:*",
+			"cpeNameId": "D88C5067-0E4F-4C8F-AF5E-3ABA6CF203B6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.42.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "CC280F42-1A05-4232-B443-4B806DCC67F5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.42.1:*:*:*:*:*:*:*",
+			"cpeNameId": "41A0D3F5-3CB8-4A79-9378-A2B895459F1E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.42.2:-:*:*:*:*:*:*",
+			"cpeNameId": "33D9D168-64A2-4C76-86F6-C3578759AA29"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.42.2:beta1:*:*:*:*:*:*",
+			"cpeNameId": "FAC7A0D9-B1B2-4CDD-AD71-90199271E43E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.42.3:*:*:*:*:*:*:*",
+			"cpeNameId": "39D755F1-C9B3-44D0-A13A-2C23109BF83D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.42.4:*:*:*:*:*:*:*",
+			"cpeNameId": "CAD63558-D8FB-4511-BEA0-1D01824EF8CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.42.5:*:*:*:*:*:*:*",
+			"cpeNameId": "F97BFDCB-1DF6-4D0B-98A2-BAC1BC905609"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.42.6:*:*:*:*:*:*:*",
+			"cpeNameId": "1F391DE9-84F9-4085-9B39-F6F985F37AA2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.42.7:*:*:*:*:*:*:*",
+			"cpeNameId": "F7CE23AC-0809-42AE-A0FD-EC516EAB0A97"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.42.8:*:*:*:*:*:*:*",
+			"cpeNameId": "22CE3BF1-334A-4922-9414-DB4E06068053"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.42.9:*:*:*:*:*:*:*",
+			"cpeNameId": "E45E454F-F557-4B1C-9E98-81D0FB32AF81"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.42.10:*:*:*:*:*:*:*",
+			"cpeNameId": "3AA8CC2C-0B20-4A40-A0B3-E9F4D22A629A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.42.11:*:*:*:*:*:*:*",
+			"cpeNameId": "1EB2F3F5-17BD-40B9-8F90-3D97F786F902"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.42.12:*:*:*:*:*:*:*",
+			"cpeNameId": "C2FF6367-729E-42CC-AD5A-7051FD8B921F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.42.13:*:*:*:*:*:*:*",
+			"cpeNameId": "273ED876-35B4-4BCA-B4E5-0ED08700E41C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.42.14:*:*:*:*:*:*:*",
+			"cpeNameId": "3E382D4A-09C1-47F9-AF25-DB4543498ABA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.42.15:*:*:*:*:*:*:*",
+			"cpeNameId": "89A9B444-F689-4CD2-9F40-B6AEF7EDB07D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.42.16:*:*:*:*:*:*:*",
+			"cpeNameId": "A4B2660F-FAE7-490A-BFA3-F90CCB3413FE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.42.17:*:*:*:*:*:*:*",
+			"cpeNameId": "E494AD45-69AC-4524-83FA-487D49BE2D9E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.43.0:-:*:*:*:*:*:*",
+			"cpeNameId": "13B7816F-02E4-4763-B6E2-144CAFB60C9F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.43.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "5F6A3D27-7994-45C1-BB67-AA6E3F56D2F7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.43.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "9D0B3C51-DF60-409A-B1B5-1F5A6F5E0283"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.43.0:rc3:*:*:*:*:*:*",
+			"cpeNameId": "1590CD2C-FF5D-491E-B4B4-2897A9D33B2F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.43.0:rc4:*:*:*:*:*:*",
+			"cpeNameId": "F385AD69-AFF4-4A13-B1F4-BCF549356CF2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.43.0:rc5:*:*:*:*:*:*",
+			"cpeNameId": "3B512AC2-F5D9-42FA-BFF8-32E8403EE570"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.43.0:rc6:*:*:*:*:*:*",
+			"cpeNameId": "011D556F-9CC0-4800-B434-2B8514D4D795"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.43.0:rc7:*:*:*:*:*:*",
+			"cpeNameId": "F3898995-EC2E-46AC-948A-48610B5C486F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.43.1:*:*:*:*:*:*:*",
+			"cpeNameId": "0D1743D5-0CE2-4F8B-81BB-1586458DBF0F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.43.2:*:*:*:*:*:*:*",
+			"cpeNameId": "C59C37F7-4343-4E6A-952D-AB0857D3ACEE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.43.3:*:*:*:*:*:*:*",
+			"cpeNameId": "7720AE40-1159-4552-82D9-A06FC4843210"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.43.4:*:*:*:*:*:*:*",
+			"cpeNameId": "D1B90DB3-FBCF-4358-A36E-5F6550E3EF9C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.43.5:*:*:*:*:*:*:*",
+			"cpeNameId": "EFC9ECCC-E8D2-4472-BD55-50EE20AEE92A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.43.6:*:*:*:*:*:*:*",
+			"cpeNameId": "02D656DC-FB73-4587-8488-915E3E2CD068"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.43.7:*:*:*:*:*:*:*",
+			"cpeNameId": "C222E071-7BA6-47C0-89F4-E8E31654DD9E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.43.8:*:*:*:*:*:*:*",
+			"cpeNameId": "080EFFCE-86F5-415A-A3E6-D3CB7FD4DF3D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.43.9:*:*:*:*:*:*:*",
+			"cpeNameId": "1FB1103C-4A30-4895-89D0-66A3905A335A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.43.10:*:*:*:*:*:*:*",
+			"cpeNameId": "5F55D5E3-157E-4284-BB03-D17302561225"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.43.11:*:*:*:*:*:*:*",
+			"cpeNameId": "C94BCFAE-1518-4E8A-A57C-1C4D261E113C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.44.0:-:*:*:*:*:*:*",
+			"cpeNameId": "AE68369F-430A-420D-8981-1C2839EEC195"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.44.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "9BECD6C5-9867-473F-A9FC-31FC95F0EEF6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.44.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "0BF6D879-96B9-43CD-A531-94E96E13DCD4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.44.1:*:*:*:*:*:*:*",
+			"cpeNameId": "92700AA5-ACB5-490C-B190-4BA02A50AF51"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.44.2:*:*:*:*:*:*:*",
+			"cpeNameId": "CB0F5039-6E35-49D2-A9C2-D2053A3BF1D2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.44.3:*:*:*:*:*:*:*",
+			"cpeNameId": "19A2457A-695C-4072-9CC1-FB9C11C76762"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.44.4:*:*:*:*:*:*:*",
+			"cpeNameId": "6D0848BD-C5D6-4F32-B2FD-A754F07D74A9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.44.5:*:*:*:*:*:*:*",
+			"cpeNameId": "0EC7E106-899F-475C-A6FE-1E41D8C96D5C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.44.6:*:*:*:*:*:*:*",
+			"cpeNameId": "11F15DDD-092B-4988-906E-12EC10683694"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.44.7:*:*:*:*:*:*:*",
+			"cpeNameId": "FD20CA09-95A6-419D-A509-6D84AB79C4D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.45.0:-:*:*:*:*:*:*",
+			"cpeNameId": "F11347D4-E86F-4A9E-8933-810E43C52F34"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.45.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "19CEA283-BCD9-4758-88FE-F5F5082642A2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.45.1:*:*:*:*:*:*:*",
+			"cpeNameId": "362BBEF9-480A-4BF7-A11F-6F9B18FC1517"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.45.2:*:*:*:*:*:*:*",
+			"cpeNameId": "A3E6C99E-43B7-4DBF-89AF-32D6EDFB9F94"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.45.3:*:*:*:*:*:*:*",
+			"cpeNameId": "682C4285-E5D1-4673-A669-B65819376903"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.45.4:*:*:*:*:*:*:*",
+			"cpeNameId": "3EFA667D-B103-42F7-9406-C29F80B94797"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.45.5:*:*:*:*:*:*:*",
+			"cpeNameId": "5DDAF920-1A28-45A3-BAF4-465C48266BD1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.45.6:*:*:*:*:*:*:*",
+			"cpeNameId": "BC4FED8B-C54C-42DD-BA8F-4AB5111B45DF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.45.7:*:*:*:*:*:*:*",
+			"cpeNameId": "58FA1C21-57A7-4A42-9CD6-F2D1C2AACBF2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.46.0:-:*:*:*:*:*:*",
+			"cpeNameId": "63A3DCDB-5DA2-417A-9797-124B23089C45"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.46.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "8F4E79E4-D4A4-400E-8522-129785BCDD90"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.46.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "98F69A3D-57C7-41C7-976E-C3CC47D0FDBB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.46.1:*:*:*:*:*:*:*",
+			"cpeNameId": "AA736AC3-0A1C-4C0D-8852-E9E603D2BD10"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.46.2:*:*:*:*:*:*:*",
+			"cpeNameId": "DD91C239-FE3D-4664-AF59-8DB031748108"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.46.3:*:*:*:*:*:*:*",
+			"cpeNameId": "61874001-2FC1-4E66-8AA8-83A927CF128E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.46.4:*:*:*:*:*:*:*",
+			"cpeNameId": "9D318655-ECC9-4D1B-B800-38787A1E7B3F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.46.5:*:*:*:*:*:*:*",
+			"cpeNameId": "D547B983-C05B-497B-A46B-5CA7846BCBFE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.46.6:*:*:*:*:*:*:*",
+			"cpeNameId": "7F00F8DF-6879-446B-ADCB-ED491B00690C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.46.7:*:*:*:*:*:*:*",
+			"cpeNameId": "67B8351E-CC11-427A-9B85-FCE974BD6334"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.47.0:-:*:*:*:*:*:*",
+			"cpeNameId": "BCE84E6C-6606-4B12-BFCF-311634EED42F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.47.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "CD78551D-752D-45E9-9C2B-D10CEB7EB9B7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.47.1:*:*:*:*:*:*:*",
+			"cpeNameId": "8A14891B-4AB2-4C44-89B4-E8D601CCD81F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.47.2:*:*:*:*:*:*:*",
+			"cpeNameId": "1133C372-3B00-46C2-AE68-A697D987A4DC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.47.3:*:*:*:*:*:*:*",
+			"cpeNameId": "27D11419-5BFC-4823-BA51-F368B8116F0F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.47.4:*:*:*:*:*:*:*",
+			"cpeNameId": "EFE17A9A-3057-459B-B467-66B56C542697"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.47.5:*:*:*:*:*:*:*",
+			"cpeNameId": "A8F6F28E-1D04-443A-96B7-AB45BCB05CFE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.47.6:*:*:*:*:*:*:*",
+			"cpeNameId": "EF9D2D44-DFA6-434B-A11C-5B9F692F2B79"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.47.7:*:*:*:*:*:*:*",
+			"cpeNameId": "200DF4F6-8294-4DC0-A0F0-DC3220D25ABB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.47.8:*:*:*:*:*:*:*",
+			"cpeNameId": "2A906AF3-FDDB-46B1-B539-9542CFED912A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.47.9:*:*:*:*:*:*:*",
+			"cpeNameId": "68242943-4D67-463C-A6D3-C3A8B1E014E1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.47.10:*:*:*:*:*:*:*",
+			"cpeNameId": "810BD073-A192-48ED-8E1F-DAE4AD9C4266"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.48.0:-:*:*:*:*:*:*",
+			"cpeNameId": "B78B5C73-1F6F-4A95-B2AF-EE935B49E7AD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.48.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "B6F8BA96-75EC-4DC7-85DD-414B32462DE8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.48.1:*:*:*:*:*:*:*",
+			"cpeNameId": "5D2BE345-4112-436D-A839-D9ABAE098815"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.48.2:*:*:*:*:*:*:*",
+			"cpeNameId": "98FA5571-08C0-4FBC-B6E8-4E303F07C656"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.48.3:*:*:*:*:*:*:*",
+			"cpeNameId": "A854ADE9-3EA2-45E1-BA80-B40410D98E3E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.48.4:*:*:*:*:*:*:*",
+			"cpeNameId": "3E8688F2-275C-473A-AD42-44F09A7029F0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.48.5:*:*:*:*:*:*:*",
+			"cpeNameId": "57CC480E-7659-4E9A-87C5-A550C889345B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.49.0:-:*:*:*:*:*:*",
+			"cpeNameId": "618888A3-B8D0-4BAE-8F5D-D1C73651B785"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.49.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "71CA9DBB-697B-4069-AC54-CC778E0918AE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.49.1:*:*:*:*:*:*:*",
+			"cpeNameId": "D4089279-3EA7-4808-A26F-8E525B1ED159"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.49.2:*:*:*:*:*:*:*",
+			"cpeNameId": "B7489776-68BF-4ABE-B171-27D634EFF886"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.49.3:*:*:*:*:*:*:*",
+			"cpeNameId": "615EFD2D-7A44-475B-A2E8-0A412DA8F041"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.49.4:*:*:*:*:*:*:*",
+			"cpeNameId": "5A9D0DFF-B5A2-42E6-9685-990D82ABDB52"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.49.5:*:*:*:*:*:*:*",
+			"cpeNameId": "27C79277-F549-404B-9FCE-9BE444AA4CB8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.50.0:-:*:*:*:*:*:*",
+			"cpeNameId": "297D46AF-4833-46DE-884E-AC9BC9049BDD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.50.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "7E236FA6-A1D7-473A-8B74-022C8F37D425"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.50.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "237C8132-C608-4F81-8A84-5BCCEF065435"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.50.1:*:*:*:*:*:*:*",
+			"cpeNameId": "D75EB28C-957D-41C8-AE5C-C5D509D78824"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.50.2:*:*:*:*:*:*:*",
+			"cpeNameId": "50CBCF3D-ACAD-493A-90F7-76602EC252AE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.50.3:*:*:*:*:*:*:*",
+			"cpeNameId": "0AD9ADAF-B5C7-4741-9514-02C4C4379DF0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.50.4:*:*:*:*:*:*:*",
+			"cpeNameId": "C861F629-FDA7-4F6C-91E7-ABE134194624"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.50.5:*:*:*:*:*:*:*",
+			"cpeNameId": "92BBE052-D92E-44AF-BA5C-E3F34775640C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.50.6:*:*:*:*:*:*:*",
+			"cpeNameId": "20335740-8658-40FE-8409-760D2CB7C708"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.51.0:-:*:*:*:*:*:*",
+			"cpeNameId": "B7BFB6EB-A8E7-471C-BE65-042831D08615"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.51.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "CB62D411-9C7C-4EFF-9D38-98590F47F61E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.51.1:*:*:*:*:*:*:*",
+			"cpeNameId": "7E5CF28B-EFD9-44A5-B740-5DAB11BED693"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.51.2:*:*:*:*:*:*:*",
+			"cpeNameId": "49DB84F3-A981-4861-9249-26FB4E962C7A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.51.3:*:*:*:*:*:*:*",
+			"cpeNameId": "07C3C1F2-25A6-4886-8D21-D48C5394FB7D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.51.4:*:*:*:*:*:*:*",
+			"cpeNameId": "6B5E3262-7826-470A-8120-640646830437"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.52.0:-:*:*:*:*:*:*",
+			"cpeNameId": "AFCEBE85-4104-4A4A-8ADC-8DF10015FD02"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.52.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "ABF7CDB1-8F5B-426A-8A02-4D73C408E86C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.52.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "2D71C36A-24C5-4801-9D6B-BF5B5F82130E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.52.1:*:*:*:*:*:*:*",
+			"cpeNameId": "590FC144-16F3-4BB3-8694-58B672E10B52"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.52.2:*:*:*:*:*:*:*",
+			"cpeNameId": "5BDC1939-4869-4A26-BA31-28753E6C3C51"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.52.3:*:*:*:*:*:*:*",
+			"cpeNameId": "F3350657-8F93-49D9-A864-8595CD8B535F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.53.0:-:*:*:*:*:*:*",
+			"cpeNameId": "258A0755-588C-42B0-85B1-550F62508EF4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.53.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "E85159DE-298E-4B13-9BED-657F3D06FBB1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.53.1:*:*:*:*:*:*:*",
+			"cpeNameId": "AA7116CA-AC4F-4686-A202-1E98B0F33396"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.53.2:*:*:*:*:*:*:*",
+			"cpeNameId": "3556CF74-5129-4810-A977-3E5E69463482"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.53.3:*:*:*:*:*:*:*",
+			"cpeNameId": "55646F78-0FCB-49F9-B4D1-82035806D373"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.53.4:*:*:*:*:*:*:*",
+			"cpeNameId": "F0056FFD-F0B7-4FFD-A4AF-C6FC8A3A38D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.53.5:*:*:*:*:*:*:*",
+			"cpeNameId": "CBE80A24-D6E5-497F-99B1-D8464E2ED889"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.53.6:*:*:*:*:*:*:*",
+			"cpeNameId": "2C327FB1-3221-4FF4-9E4A-26D379B0CA97"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.53.7:*:*:*:*:*:*:*",
+			"cpeNameId": "338C04D8-72A6-4BDE-91BB-2FBDCF3444D0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.53.8:*:*:*:*:*:*:*",
+			"cpeNameId": "DE147EAA-9302-480D-B951-8F336BCA536D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.53.9:*:*:*:*:*:*:*",
+			"cpeNameId": "2427F86F-CC5D-441A-86E6-012EC6D90DDC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.54.0:*:*:*:*:*:*:*",
+			"cpeNameId": "77B1117C-32B7-41DE-B612-2013EC982B37"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.54.1:*:*:*:*:*:*:*",
+			"cpeNameId": "DD447B60-66BB-4A8B-BAFA-4451EA3FC08B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.54.2:*:*:*:*:*:*:*",
+			"cpeNameId": "C8BDF574-C65F-4E4C-9F20-A539A2431848"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.54.3:*:*:*:*:*:*:*",
+			"cpeNameId": "45E3421A-436C-4B20-9843-EAE3D0453397"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.54.4:*:*:*:*:*:*:*",
+			"cpeNameId": "88726BD7-D65D-46DF-A0F3-5F101ED0B233"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.54.5:*:*:*:*:*:*:*",
+			"cpeNameId": "F98B24DE-9751-42E4-9619-1BF6774ABE96"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.54.6:*:*:*:*:*:*:*",
+			"cpeNameId": "857DC237-12CC-4660-846B-A34CACAE7AA1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.54.7:*:*:*:*:*:*:*",
+			"cpeNameId": "5F6833B0-0C97-4766-9002-18B77055712A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.54.8:*:*:*:*:*:*:*",
+			"cpeNameId": "6438F7C4-ABAC-4461-A9E8-E04498227497"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zitadel:zitadel:2.54.9:*:*:*:*:*:*:*",
+			"cpeNameId": "321DF788-DCD8-4611-A8CA-416EB01BDC59"
 		}
 	]
 }
