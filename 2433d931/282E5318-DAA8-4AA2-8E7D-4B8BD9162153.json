@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:draytek:vigor3912:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "282E5318-DAA8-4AA2-8E7D-4B8BD9162153",
 	"created": "2024-10-07T15:34:09.120",
-	"lastModified": "2024-10-07T15:34:09.120",
-	"cpeLastModified": "2024-10-07T15:34:09.120",
-	"status": "Active"
+	"lastModified": "2024-10-08T15:39:34.343",
+	"cpeLastModified": "2024-10-08T15:39:34.343",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:draytek:vigor3912:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D384F4EE-2A3C-4FDF-B5A9-3C1A5FC056C0"
+		}
+	]
 }

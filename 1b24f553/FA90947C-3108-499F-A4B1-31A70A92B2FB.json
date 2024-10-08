@@ -4,9 +4,13 @@
 	"versionEndExcluding": "2.4.2",
 	"created": "2021-09-16T18:39:27.037",
 	"lastModified": "2021-09-16T18:39:27.037",
-	"cpeLastModified": "2021-09-17T15:20:12.813",
+	"cpeLastModified": "2024-10-08T13:55:14.673",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cozmoslabs:membership_\\&_content_restriction_-_paid_member_subscriptions:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "179514AD-C8C8-4B7F-8B95-9E8A8A474DB2"
+		},
 		{
 			"cpeName": "cpe:2.3:a:cozmoslabs:membership_\\&_content_restriction_-_paid_member_subscriptions:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "4BC25D08-981B-44CB-BDEE-4BDC046295F4"
