@@ -3,8 +3,8 @@
 	"matchCriteriaId": "2FBC4B4D-0916-4DB0-A8C6-2F91A26EFF5E",
 	"versionEndExcluding": "4.41.0",
 	"created": "2024-10-08T22:50:55.597",
-	"lastModified": "2024-10-08T22:50:55.597",
-	"cpeLastModified": "2024-10-08T22:50:55.597",
+	"lastModified": "2024-10-09T11:53:37.357",
+	"cpeLastModified": "2024-10-09T11:53:37.357",
 	"status": "Active",
 	"matches": [
 		{
@@ -1492,12 +1492,424 @@
 			"cpeNameId": "884188D7-0AE1-441A-A5C5-9923DBDFA06B"
 		},
 		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.36.1:*:*:*:*:python:*:*",
+			"cpeNameId": "8DDC01D9-5445-4D2D-B005-0CBF8271CD34"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.37.0:*:*:*:*:python:*:*",
+			"cpeNameId": "18E681C0-7196-4BFA-B7A6-7B5DF469E1F9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.38.0:*:*:*:*:python:*:*",
+			"cpeNameId": "073B81CC-0390-460B-AB82-CF483C9D4A0D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.39.0:*:*:*:*:python:*:*",
+			"cpeNameId": "E5517B97-A876-4738-AB5B-8AA2D88D545C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.40.0:*:*:*:*:python:*:*",
+			"cpeNameId": "AF5A9EA9-3C8C-40F9-AE2C-FB643E4EDA27"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.40.1:*:*:*:*:python:*:*",
+			"cpeNameId": "CDF319F9-90EE-4585-AEAD-4A253EE95482"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.41.0:*:*:*:*:python:*:*",
+			"cpeNameId": "A009EFF9-EFE0-433E-B425-FB0090A09533"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.41.1:*:*:*:*:python:*:*",
+			"cpeNameId": "C6963C5A-2348-430E-8DC0-AC8E8C17F23A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.41.2:*:*:*:*:python:*:*",
+			"cpeNameId": "2D9F211E-B2C2-4306-A409-08F36E314CF2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.42.0:*:*:*:*:python:*:*",
+			"cpeNameId": "658AEF4C-BD66-4376-807A-BA4F4D530156"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.43.0:*:*:*:*:python:*:*",
+			"cpeNameId": "5019D61D-F8AB-47C9-919B-CA29FB8BCFCD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.43.1:*:*:*:*:python:*:*",
+			"cpeNameId": "20A9FA30-1D84-4D29-B42C-2AED6603F4FC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.43.2:*:*:*:*:python:*:*",
+			"cpeNameId": "86D52DC4-07D2-4770-94C5-C751F14F4CD1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.44.0:*:*:*:*:python:*:*",
+			"cpeNameId": "DEE6F893-00ED-43B3-A606-CA218ED162EF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.44.1:*:*:*:*:python:*:*",
+			"cpeNameId": "31FDD374-D1DE-4259-A93E-5E0E3C1A6B48"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.44.2:*:*:*:*:python:*:*",
+			"cpeNameId": "2EBCDC0B-BB6B-417D-A130-28928EFB8B4F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.44.3:*:*:*:*:python:*:*",
+			"cpeNameId": "A720C9C8-3245-494C-9B96-12F6F89F0027"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.44.4:*:*:*:*:python:*:*",
+			"cpeNameId": "75345589-270F-4502-8C25-06FE60EFC789"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.45.0:-:*:*:*:python:*:*",
+			"cpeNameId": "9BEC522A-59C4-4A8B-AD0E-3A307B14E8EF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.45.0:beta0:*:*:*:python:*:*",
+			"cpeNameId": "30C2EA4D-1FD8-4C10-A6AA-FCC092C2C6BC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.45.0:beta10:*:*:*:python:*:*",
+			"cpeNameId": "DD086102-0475-4A2E-9DC5-5CF5672C7A59"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.45.0:beta11:*:*:*:python:*:*",
+			"cpeNameId": "1FBBE918-6C29-49AA-BD66-A068AAC0CE68"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.45.0:beta12:*:*:*:python:*:*",
+			"cpeNameId": "AB6536C3-971C-425D-A5AD-F0C2CBC8A309"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.45.0:beta13:*:*:*:python:*:*",
+			"cpeNameId": "83106E0D-6EE5-4505-AD2D-23FE6368343D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.45.0:beta2:*:*:*:python:*:*",
+			"cpeNameId": "BA7E262D-3624-4AAA-A081-380ACD388EC0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.45.0:beta3:*:*:*:python:*:*",
+			"cpeNameId": "74C93F47-221E-4E82-B79A-542F8BE4CF89"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.45.0:beta4:*:*:*:python:*:*",
+			"cpeNameId": "1462ECBD-1AF0-42EE-81E5-CC28E68EE4C2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.45.0:beta5:*:*:*:python:*:*",
+			"cpeNameId": "2B514AFE-DA73-4F20-8D51-2BEE158CD190"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.45.0:beta6:*:*:*:python:*:*",
+			"cpeNameId": "2680739D-B2C6-410F-A0B6-723AAF16B196"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.45.0:beta7:*:*:*:python:*:*",
+			"cpeNameId": "3965ACC9-2F65-4F6C-BD5D-37FEAF007997"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.45.0:beta8:*:*:*:python:*:*",
+			"cpeNameId": "E0BDF83B-61C9-4217-8455-D1CD5D48C352"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.45.0:beta9:*:*:*:python:*:*",
+			"cpeNameId": "4F3F2078-98AF-447B-BBCC-92D751F2922E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.45.1:*:*:*:*:python:*:*",
+			"cpeNameId": "BC66F149-90C5-46CF-8400-87551CBFC4F3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.45.2:*:*:*:*:python:*:*",
+			"cpeNameId": "4FCC237B-AF34-4C8B-9F94-14152D358EB4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.46.0:*:*:*:*:python:*:*",
+			"cpeNameId": "B3C431D4-AB50-4F8F-B707-940F7380A28A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.46.1:*:*:*:*:python:*:*",
+			"cpeNameId": "95325513-B46A-4F2B-8E04-7352590B5342"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.47.0:*:*:*:*:python:*:*",
+			"cpeNameId": "F09F2A68-0C72-4494-9A1E-73A8C77D2E98"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.47.1:*:*:*:*:python:*:*",
+			"cpeNameId": "17104424-464A-445E-8A8C-806DA6747DB7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.48.0:*:*:*:*:python:*:*",
+			"cpeNameId": "16C53187-B5E1-4F43-9BC1-1C763AB3D4D0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.49.0:*:*:*:*:python:*:*",
+			"cpeNameId": "116D0289-ED9E-491E-B0E3-99BBE2695DBF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.50.0:*:*:*:*:python:*:*",
+			"cpeNameId": "47AD6913-2054-40D0-8697-5C28CB8A1BAE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.50.1:*:*:*:*:python:*:*",
+			"cpeNameId": "FE9CC55D-944E-4F21-878B-25530DDC3640"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:3.50.2:*:*:*:*:python:*:*",
+			"cpeNameId": "6D7DE7D6-141C-4EFF-A0DB-6B775C431FB5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.0.0:-:*:*:*:python:*:*",
+			"cpeNameId": "F29190FF-CA32-452E-8721-EF633D24ADC1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.0.0:beta15:*:*:*:python:*:*",
+			"cpeNameId": "AC6D79B7-FDF2-4C6F-A7C3-CBC2E7BB0CA7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.0.1:*:*:*:*:python:*:*",
+			"cpeNameId": "9FEDCDC3-23EC-4679-8FD6-FA1B9A127D18"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.0.2:*:*:*:*:python:*:*",
+			"cpeNameId": "4835EDEB-6B2C-45A0-A745-150B99C890AE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.1.0:*:*:*:*:python:*:*",
+			"cpeNameId": "F0F07B51-EBCF-4C09-A8ED-5CF4391B27BE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.1.1:*:*:*:*:python:*:*",
+			"cpeNameId": "35A96687-51A4-40BD-8F2E-B494C39823E9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.1.2:*:*:*:*:python:*:*",
+			"cpeNameId": "55C83963-5154-4339-A147-D4A90AEB893C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.2.0:*:*:*:*:python:*:*",
+			"cpeNameId": "DF1F8ADE-BFA7-4E9E-A8C6-7969E61EFF53"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.3.0:*:*:*:*:python:*:*",
+			"cpeNameId": "CCA5A0CC-7E14-4377-8756-95DAF26B5221"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.4.0:*:*:*:*:python:*:*",
+			"cpeNameId": "4898FACB-933B-4DD6-A79E-15FC82623461"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.4.1:*:*:*:*:python:*:*",
+			"cpeNameId": "136E5565-5FDF-4BB9-8713-1C653B6D1B39"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.5.0:*:*:*:*:python:*:*",
+			"cpeNameId": "BC8197A1-A073-420E-8576-EBBE28C3539F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.6.0:*:*:*:*:python:*:*",
+			"cpeNameId": "4969E38E-A338-42FE-BE5C-A020FFBDF07A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.7.0:*:*:*:*:python:*:*",
+			"cpeNameId": "D72282EA-1973-4CC7-B40E-69EC5A3D969F"
+		},
+		{
 			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.8.0:*:*:*:*:python:*:*",
 			"cpeNameId": "8276D32F-56CA-48EC-83A9-9A8E36F09BEA"
 		},
 		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.9.0:*:*:*:*:python:*:*",
+			"cpeNameId": "170E91C3-A85B-4951-850D-AC1571235D90"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.9.1:*:*:*:*:python:*:*",
+			"cpeNameId": "20CF268A-B443-4ACA-81DF-F2DDBD6D529C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.10.0:*:*:*:*:python:*:*",
+			"cpeNameId": "4AB2C174-8191-4886-ABDD-E8832D471EBD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.11.0:*:*:*:*:python:*:*",
+			"cpeNameId": "E1D182F6-137E-4907-B887-635E901E6F7D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.12.0:*:*:*:*:python:*:*",
+			"cpeNameId": "2BC3E0F3-258D-429A-B71F-E41C734FA67E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.13.0:*:*:*:*:python:*:*",
+			"cpeNameId": "B4FF7760-4990-4646-BCE3-D562B58A2A16"
+		},
+		{
 			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.14.0:*:*:*:*:python:*:*",
 			"cpeNameId": "AE736AFA-1EE3-4FBB-9487-EBF9D7DC2685"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.15.0:*:*:*:*:python:*:*",
+			"cpeNameId": "E52E1FCD-9F89-4C98-8E80-EFBF9712E6BE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.16.0:*:*:*:*:python:*:*",
+			"cpeNameId": "E6FB08D5-A9D3-451E-82BB-4A91DE383F0D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.17.0:*:*:*:*:python:*:*",
+			"cpeNameId": "0EB39B2A-F7D9-4683-BEF4-F803D68BAD74"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.18.0:*:*:*:*:python:*:*",
+			"cpeNameId": "4F601A2C-8A8D-4E1B-947D-1145D0C07847"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.19.0:*:*:*:*:python:*:*",
+			"cpeNameId": "2C81B0BB-3849-46E3-BCCA-429287D1E9CD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.19.1:*:*:*:*:python:*:*",
+			"cpeNameId": "307DA13C-FFF4-4FA9-8CD9-28E4853E4B83"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.19.2:*:*:*:*:python:*:*",
+			"cpeNameId": "593122AA-780F-4C9F-BD3D-51181BF65495"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.20.0:*:*:*:*:python:*:*",
+			"cpeNameId": "04DA6A38-46FA-434A-A62E-5002C27EEB4D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.20.1:*:*:*:*:python:*:*",
+			"cpeNameId": "695535B3-643A-4F3D-B0A8-02BC185A3876"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.21.0:*:*:*:*:python:*:*",
+			"cpeNameId": "74EC3491-38D0-4C25-AA8A-1C14D9F65C6C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.22.0:*:*:*:*:python:*:*",
+			"cpeNameId": "07F29BE7-4D7E-45B1-A25E-76E63DEC600F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.23.0:*:*:*:*:python:*:*",
+			"cpeNameId": "E8A5A24D-903D-44AF-9A17-8421120D3DC6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.24.0:*:*:*:*:python:*:*",
+			"cpeNameId": "74EA78D2-3A81-4301-A74B-A08759001BCE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.25.0:*:*:*:*:python:*:*",
+			"cpeNameId": "9C1D62CC-63D9-4865-99B9-0D7F6AE0F364"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.26.0:*:*:*:*:python:*:*",
+			"cpeNameId": "644E4866-4E77-422E-A07A-2C2064AB9936"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.27.0:*:*:*:*:python:*:*",
+			"cpeNameId": "14BEAA9B-A85B-4A34-B98D-90657320EC5A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.28.0:*:*:*:*:python:*:*",
+			"cpeNameId": "B22AD7A0-BD8C-484E-B3CD-CA580AF3047F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.28.1:*:*:*:*:python:*:*",
+			"cpeNameId": "089FB414-D66A-44B9-A890-73BC86DCEA4A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.28.2:*:*:*:*:python:*:*",
+			"cpeNameId": "94B6D4AD-DCF0-439F-BCF7-FCD68DA7F4A1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.28.3:*:*:*:*:python:*:*",
+			"cpeNameId": "778CD3C2-BD60-4094-BCC1-BE6D73F0AE4C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.29.0:*:*:*:*:python:*:*",
+			"cpeNameId": "19711B33-0233-4643-BE97-34E6F90303D3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.31.0:*:*:*:*:python:*:*",
+			"cpeNameId": "6C027B2E-E0CA-4632-B8D8-42806700F517"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.31.1:*:*:*:*:python:*:*",
+			"cpeNameId": "AACAEF8A-FE04-4261-B2E6-CCC4D9D9C27A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.31.2:*:*:*:*:python:*:*",
+			"cpeNameId": "8021D76F-84AD-4591-B9D1-B35289AFE83B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.31.3:*:*:*:*:python:*:*",
+			"cpeNameId": "C9999AAD-D1D9-4E5E-BAFE-1156168E8A49"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.31.4:*:*:*:*:python:*:*",
+			"cpeNameId": "A259822E-1BB5-4371-BC50-0DFC680A6AC9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.31.5:*:*:*:*:python:*:*",
+			"cpeNameId": "C877B757-0D7E-478F-8EC1-B2807DA62E61"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.32.0:*:*:*:*:python:*:*",
+			"cpeNameId": "CF6AA6DD-4189-4D68-BCB4-02F7276876A0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.32.1:*:*:*:*:python:*:*",
+			"cpeNameId": "45FF93F0-6D94-4BD0-B288-F63F51866079"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.32.2:*:*:*:*:python:*:*",
+			"cpeNameId": "0FDA82DC-695F-450C-9B59-5C76CEE033DA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.33.0:*:*:*:*:python:*:*",
+			"cpeNameId": "0F13274D-A64B-4FE9-9976-2DD8B998BD53"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.35.0:*:*:*:*:python:*:*",
+			"cpeNameId": "B936D89B-FF9E-4D32-976A-A4542F1CC20E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.36.0:*:*:*:*:python:*:*",
+			"cpeNameId": "713AF338-0D1C-463F-9A9F-7331C0FCAA85"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.36.1:*:*:*:*:python:*:*",
+			"cpeNameId": "E8200E0A-CCA1-42F7-97D4-4D43C94A0645"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.37.1:*:*:*:*:python:*:*",
+			"cpeNameId": "6210B9B3-4602-4DB3-8EFB-7E53D2E22CFD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.37.2:*:*:*:*:python:*:*",
+			"cpeNameId": "BF54364B-B3D5-431D-B5DB-C5F8269017C6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.38.0:*:*:*:*:python:*:*",
+			"cpeNameId": "9C237DD3-3837-44E1-A112-E63F05967AED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.38.1:*:*:*:*:python:*:*",
+			"cpeNameId": "0C899DD8-487A-4CDE-B3F9-5B9548DD367B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.39.0:*:*:*:*:python:*:*",
+			"cpeNameId": "6E857B3B-CA7A-4AB6-A880-AF1FDEE6963D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gradio_project:gradio:4.40.0:*:*:*:*:python:*:*",
+			"cpeNameId": "ADEAA40C-4981-4179-989A-D3B13550699F"
 		}
 	]
 }
