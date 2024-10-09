@@ -1,0 +1,16 @@
+{
+	"criteria": "cpe:2.3:o:cisco:meraki_mx64_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "23FA0FF8-5926-4623-9348-4347331C5F3F",
+	"versionStartIncluding": "17.6.0",
+	"versionEndExcluding": "18.211.2",
+	"created": "2024-10-08T18:32:35.330",
+	"lastModified": "2024-10-08T18:32:35.330",
+	"cpeLastModified": "2024-10-08T18:32:35.330",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:meraki_mx64_firmware:17.10.1:*:*:*:*:*:*:*",
+			"cpeNameId": "F5F23EE0-A5E8-4786-ADDF-0DEE379B4F15"
+		}
+	]
+}

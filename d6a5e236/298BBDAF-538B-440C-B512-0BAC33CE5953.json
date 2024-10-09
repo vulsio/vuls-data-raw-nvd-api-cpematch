@@ -3,10 +3,14 @@
 	"matchCriteriaId": "298BBDAF-538B-440C-B512-0BAC33CE5953",
 	"versionEndExcluding": "2.1.2",
 	"created": "2024-10-07T16:48:18.917",
-	"lastModified": "2024-10-07T16:48:18.917",
-	"cpeLastModified": "2024-10-07T16:48:18.917",
+	"lastModified": "2024-10-08T19:15:33.617",
+	"cpeLastModified": "2024-10-08T19:15:33.617",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:berqier:berqwp:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "104BC515-5BC2-4F13-A89A-45449C299C0F"
+		},
 		{
 			"cpeName": "cpe:2.3:a:berqier:berqwp:1.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "8E7EA0B7-D44C-4B9B-A15C-16AED77AE654"
@@ -174,6 +178,74 @@
 		{
 			"cpeName": "cpe:2.3:a:berqier:berqwp:1.8.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "31327908-245D-4C71-AA59-E5CFD241BCF6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:berqier:berqwp:1.8.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E43DCD5D-2749-438A-AC9B-9FF49A0D095A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:berqier:berqwp:1.8.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5BB54379-BF5D-4AD7-90A8-426082F74AE0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:berqier:berqwp:1.8.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7CF9D699-2887-4486-8395-6D30B14E7F06"
+		},
+		{
+			"cpeName": "cpe:2.3:a:berqier:berqwp:1.8.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DD12E8BE-B0E3-40A8-BCDF-A718A675B343"
+		},
+		{
+			"cpeName": "cpe:2.3:a:berqier:berqwp:1.8.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F5DC9F5C-CA58-40C1-B9AE-72CEE39D6788"
+		},
+		{
+			"cpeName": "cpe:2.3:a:berqier:berqwp:1.8.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "946DBFBB-8D6A-4ABE-BB49-049F89240B62"
+		},
+		{
+			"cpeName": "cpe:2.3:a:berqier:berqwp:1.8.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4F618E90-CB0A-402F-BF53-661E09041047"
+		},
+		{
+			"cpeName": "cpe:2.3:a:berqier:berqwp:1.8.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F15BBED3-9609-43AE-8D35-94E1E8963F9E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:berqier:berqwp:1.9.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2A38B817-DFBB-4A75-9C09-2B8AFEF14BDF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:berqier:berqwp:1.9.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6B11669C-F714-4C5E-B326-3834D74E8358"
+		},
+		{
+			"cpeName": "cpe:2.3:a:berqier:berqwp:1.9.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "64610648-2CFC-41FC-B2A9-3822FDA2F7F3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:berqier:berqwp:1.9.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2C54DD0D-61BB-419A-A78E-181CA4CC4DF3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:berqier:berqwp:1.9.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B0C7FF55-059C-4CF3-A8E3-54811E25C501"
+		},
+		{
+			"cpeName": "cpe:2.3:a:berqier:berqwp:1.9.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1F124B13-D9DC-4485-8248-36C0846B8D91"
+		},
+		{
+			"cpeName": "cpe:2.3:a:berqier:berqwp:1.9.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "38E35026-5E88-4017-8C23-7E8BD7B80762"
+		},
+		{
+			"cpeName": "cpe:2.3:a:berqier:berqwp:1.9.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DDFEC635-8CD6-49C5-8566-D81B65A757C2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:berqier:berqwp:1.9.91:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C229EEB9-0943-449C-B76C-EC4F79E34E39"
 		}
 	]
 }
