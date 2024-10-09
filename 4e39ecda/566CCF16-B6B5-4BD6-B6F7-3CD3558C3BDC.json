@@ -3,8 +3,8 @@
 	"matchCriteriaId": "566CCF16-B6B5-4BD6-B6F7-3CD3558C3BDC",
 	"versionEndExcluding": "2.6.54",
 	"created": "2024-09-24T18:07:29.047",
-	"lastModified": "2024-09-24T18:07:29.047",
-	"cpeLastModified": "2024-09-24T18:07:29.047",
+	"lastModified": "2024-10-09T18:03:15.880",
+	"cpeLastModified": "2024-10-09T18:03:15.880",
 	"status": "Active",
 	"matches": [
 		{
@@ -334,6 +334,34 @@
 		{
 			"cpeName": "cpe:2.3:a:likebtn:like_button_rating:2.6.46:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "244D4081-71E9-4AD7-B739-473A846E7D74"
+		},
+		{
+			"cpeName": "cpe:2.3:a:likebtn:like_button_rating:2.6.47:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1AD09DD2-BFD5-4802-9FC4-1A5EC14A40DB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:likebtn:like_button_rating:2.6.48:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A2C25F64-B369-4024-BAFC-3B88D84E490A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:likebtn:like_button_rating:2.6.49:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E92CB95E-83AA-4CC2-927D-A555898619EC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:likebtn:like_button_rating:2.6.50:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C29AD346-F6DD-4C87-8E48-EBD936507AB4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:likebtn:like_button_rating:2.6.51:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6A833046-B60A-40EA-B38E-89DFA8B86EE9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:likebtn:like_button_rating:2.6.52:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8E6E16D8-90C6-4B10-B081-918F190868B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:likebtn:like_button_rating:2.6.53:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1F3602AE-585A-46A5-9213-F6E12BEE942F"
 		}
 	]
 }

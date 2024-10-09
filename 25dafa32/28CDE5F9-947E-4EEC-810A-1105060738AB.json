@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:qualcomm:snapdragon_8_gen_2_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "28CDE5F9-947E-4EEC-810A-1105060738AB",
 	"created": "2024-09-04T15:06:41.870",
-	"lastModified": "2024-09-04T15:06:41.870",
-	"cpeLastModified": "2024-09-04T15:06:41.870",
-	"status": "Active"
+	"lastModified": "2024-10-09T15:04:50.107",
+	"cpeLastModified": "2024-10-09T15:04:50.107",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:qualcomm:snapdragon_8_gen_2_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D1BDBBED-060D-46CF-A28A-D05C1B08CBF9"
+		}
+	]
 }

@@ -4,9 +4,13 @@
 	"versionEndExcluding": "3.7",
 	"created": "2020-12-23T16:18:09.333",
 	"lastModified": "2020-12-23T16:18:09.333",
-	"cpeLastModified": "2024-10-02T12:06:32.850",
+	"cpeLastModified": "2024-10-09T14:02:01.303",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:uncannyowl:uncanny_groups_for_learndash:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6DC304FB-EB12-4661-90A6-5331E354EADA"
+		},
 		{
 			"cpeName": "cpe:2.3:a:uncannyowl:uncanny_groups_for_learndash:1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "129542E5-C792-4FB2-8677-3C78852C77FB"

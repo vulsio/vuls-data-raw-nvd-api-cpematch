@@ -4,7 +4,7 @@
 	"versionStartIncluding": "4.8.0",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2021-06-07T13:47:56.540",
+	"cpeLastModified": "2024-10-09T13:37:06.090",
 	"status": "Active",
 	"matches": [
 		{
@@ -490,6 +490,326 @@
 		{
 			"cpeName": "cpe:2.3:a:redhat:libvirt:8.2.0:rc2:*:*:*:*:*:*",
 			"cpeNameId": "61F915C5-6B99-4CFA-A041-5681A1F5C51F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:8.3.0:-:*:*:*:*:*:*",
+			"cpeNameId": "9D7615FC-B2C2-4E52-9B83-9574828BF474"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:8.3.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "84B9833C-3A07-481E-88A4-B0132DA0B83A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:8.3.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "D9835347-D4C5-4284-9AAF-3F97F6E6CEF8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:8.4.0:-:*:*:*:*:*:*",
+			"cpeNameId": "28CB3B1D-ADDB-4C61-80C4-D05CED1495A3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:8.4.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "7D7EECEC-0748-49CD-AF94-E0ED6BB3DC65"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:8.4.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "59E0905B-5CFF-480A-BEB8-6F59236CC2DC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:8.5.0:-:*:*:*:*:*:*",
+			"cpeNameId": "676C3821-FCFE-4DE2-8FB7-C5F165447710"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:8.5.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "9572DE15-621E-4A2E-9F99-888CEC2C897F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:8.5.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "90A9204D-9732-4F7D-8DB5-69BB8034BF6F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:8.6.0:-:*:*:*:*:*:*",
+			"cpeNameId": "F49E7CC9-B357-48A1-B2CB-E261135E262D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:8.6.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "2855C9F4-8A7C-42B4-A55B-B6972B24201F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:8.6.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "1F582D17-AA90-4CFB-B773-EBB6A31DD66D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:8.7.0:-:*:*:*:*:*:*",
+			"cpeNameId": "7B084D7E-F8D4-4FC8-92C2-54B9ECB41796"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:8.7.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "CB2A7315-E7EE-4349-803F-BBF60851BEC6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:8.7.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "8A46B475-9F3D-47F9-A23D-EEAA838CA5AC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:8.8.0:-:*:*:*:*:*:*",
+			"cpeNameId": "3F746894-4FDD-465B-9A59-DC9A225F8646"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:8.8.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "3B5FC2C4-140D-4385-88F3-E065DBA13007"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:8.8.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "03FD74AC-1505-4B67-91FD-2D8BE0333DCA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:8.9.0:-:*:*:*:*:*:*",
+			"cpeNameId": "1CC2A33A-7EF3-43B5-AD5C-8C881C306917"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:8.9.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "4D660125-FCE6-4F4C-9292-6DAC8DE366FC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:8.9.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "8E8E6504-5633-45E6-B7B7-97F0026863DB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:8.10.0:-:*:*:*:*:*:*",
+			"cpeNameId": "5F2FE378-38EE-4775-B74A-88AD77920EDC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:8.10.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "D5C8EB4A-7B3B-452D-A996-C8879574DC91"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:8.10.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "5E064167-4E6A-452A-A5D0-58E92020317D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.0.0:-:*:*:*:*:*:*",
+			"cpeNameId": "B4BB6837-4486-462F-9DE7-6C4EE2612365"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.0.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "EDCEE8E2-5F34-45CA-B788-2AD8C89ABF8F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.0.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "B6C69F36-75E3-4165-94DA-1BB7998697F6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.1.0:-:*:*:*:*:*:*",
+			"cpeNameId": "5D17169B-B78D-44BF-B77E-65A6E6291A45"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.1.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "1FD4031D-5EA3-4178-93A9-8ED869C380D8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.1.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "79265A95-E154-4200-AAE2-DC670E650188"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.2.0:-:*:*:*:*:*:*",
+			"cpeNameId": "542D1635-C7A2-47C7-B147-F10E3E43BD35"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.2.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "F365E820-4B0C-45E2-9891-C2C1B261FA47"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.2.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "5C37C179-C901-46CF-A1BC-901594AA9DA8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.3.0:-:*:*:*:*:*:*",
+			"cpeNameId": "85921A05-1A28-4804-8A00-7C5A3C0BD5E8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.3.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "545A46A8-6B8D-4160-8810-EC0C4A1E0628"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.3.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "8C48829D-3AA2-481A-82EC-9A09FACA06D3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.4.0:-:*:*:*:*:*:*",
+			"cpeNameId": "FC843D6A-14D0-4DB3-A1AA-8313CF9BD626"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.4.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "9591CFF7-67BC-4507-A8CE-69AD53497218"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.4.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "F02F193C-4FF4-49B5-9197-F40CAE87FD73"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.5.0:-:*:*:*:*:*:*",
+			"cpeNameId": "7B050DD3-A9BE-4F9B-8DE1-321B372AE99A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.5.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "BBA71112-2B38-4C40-95B0-DF46993C25C3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.5.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "AC569AF0-0DCE-4E09-90A6-1F07BFAB2A62"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.6.0:-:*:*:*:*:*:*",
+			"cpeNameId": "97834CD5-AEDF-41DC-94F7-7CBA129E4713"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.6.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "46F71B5A-1F4C-446A-BD5C-155993EB7164"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.6.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "74F33EBA-A279-4B71-9A23-12A4D40A0793"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.7.0:-:*:*:*:*:*:*",
+			"cpeNameId": "BED02010-5F01-4CEF-AA21-11F8C485772C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.7.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "A3458051-B63E-4A2E-86E2-5167FD8BCDBE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.7.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "9554691E-DB79-4EF9-8ACE-3997CDA9B8CD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.8.0:-:*:*:*:*:*:*",
+			"cpeNameId": "A369056B-A4D5-4418-AFD9-1928BBC0A9B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.8.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "EF9DAB84-473A-400E-8947-F3E8DE409DE5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.8.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "C3ECF10E-49FB-47E4-A3BD-0EC5EB9DB04E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.9.0:-:*:*:*:*:*:*",
+			"cpeNameId": "DBC1FF9E-2512-4CF9-83FF-3E768AB9AB6A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.9.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "9FB8DD4C-409D-4A9F-9B26-4A9266FA20C4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.9.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "04D6D293-8330-4686-BC68-DD7C4EFE54C5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.10.0:-:*:*:*:*:*:*",
+			"cpeNameId": "2377FDD0-18C0-4A3F-A31F-99877F400DB4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.10.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "39CB27BF-1D8F-444F-8196-17140EA50F87"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:9.10.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "68423BF1-BDD9-4EFE-AF7C-CAA71C607A39"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:10.0.0:-:*:*:*:*:*:*",
+			"cpeNameId": "FAF74A94-BE64-4B76-BFE6-D02B4FB2DD10"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:10.0.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "7612B346-E6BF-4D97-85E2-60FE201EB67A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:10.0.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "2455CB74-4350-45B5-9111-9D330ABE0BD3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:10.1.0:-:*:*:*:*:*:*",
+			"cpeNameId": "D2B09A40-5815-4CC8-82B9-5877103B2975"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:10.1.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "0D793698-DB01-4F1F-911C-8A552DFC5B25"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:10.1.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "068F79CF-F036-455D-AB81-B29D37818832"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:10.2.0:-:*:*:*:*:*:*",
+			"cpeNameId": "8E670C8E-D795-46C0-BDA6-614833E6F160"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:10.2.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "21C9AD7E-2516-4C62-8729-A8D5D35CC59F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:10.2.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "7BB82043-2931-47AA-BD78-EEF41628A3B5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:10.3.0:-:*:*:*:*:*:*",
+			"cpeNameId": "58965D21-B19B-4F2D-9B07-B7078AAE3776"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:10.3.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "B1664477-F17E-4179-A18B-037BD9695981"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:10.4.0:-:*:*:*:*:*:*",
+			"cpeNameId": "796AF38A-61E9-44CF-8DF7-F33AF9CEAC14"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:10.4.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "D28E8A47-CFD7-4266-BE97-674E1B819E8C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:10.4.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "1FB30A20-5CE3-4872-9F50-37D43D20F356"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:10.5.0:-:*:*:*:*:*:*",
+			"cpeNameId": "E681056E-5C16-4C49-8E86-792758FE5364"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:10.5.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "815FBBF4-FBC8-4EDA-86CC-455288BDE260"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:10.5.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "8CC719A7-0DD1-446B-8563-39339221C1A0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:10.6.0:-:*:*:*:*:*:*",
+			"cpeNameId": "9CF2933A-63E9-4262-89D5-20D8F62255DB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:10.6.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "2A02A6B6-E4E8-4C9C-8B3A-33DB7D448BB2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:10.7.0:-:*:*:*:*:*:*",
+			"cpeNameId": "046D8775-8134-4A7B-ACEE-40621C7349BE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:10.7.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "4D7A729B-2DFB-4DEC-AE43-C291B2770739"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:10.7.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "F4C9BFB8-D521-415B-8D78-211649767232"
+		},
+		{
+			"cpeName": "cpe:2.3:a:redhat:libvirt:10.8.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "D923061A-B673-400B-A0FA-F3813C870DA9"
 		}
 	]
 }

@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:qualcomm:snapdragon_x65_5g_modem-rf:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "8031F868-16B3-4173-835A-0F818471CF4F",
 	"created": "2024-09-04T16:52:13.320",
-	"lastModified": "2024-09-04T16:52:13.320",
-	"cpeLastModified": "2024-09-04T16:52:13.320",
-	"status": "Active"
+	"lastModified": "2024-10-09T14:56:52.977",
+	"cpeLastModified": "2024-10-09T14:56:52.977",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_x65_5g_modem-rf:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DA1ACE09-5049-4C78-9A5D-596DA2CB15F6"
+		}
+	]
 }

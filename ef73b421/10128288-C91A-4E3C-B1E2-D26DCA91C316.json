@@ -4,7 +4,7 @@
 	"versionEndExcluding": "4.2.2",
 	"created": "2024-09-12T21:11:18.080",
 	"lastModified": "2024-09-12T21:11:18.080",
-	"cpeLastModified": "2024-09-12T21:11:18.080",
+	"cpeLastModified": "2024-10-09T17:49:55.060",
 	"status": "Active",
 	"matches": [
 		{
@@ -138,6 +138,86 @@
 		{
 			"cpeName": "cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:3.8.7:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "9D5FD92E-BB03-49B2-92D9-479BDD6CBEEA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:3.8.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "12D325D5-82AF-43F7-9404-3BD7C8D9CAF9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:3.8.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4C391298-095D-470B-B826-65052635A93D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:3.9.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0DEF1148-7CAB-4255-B131-8FA841F8BC8B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:3.9.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "40201616-8DF9-4A4B-925D-6D84FAAFE093"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:3.9.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AD4B8C8E-2994-48E3-B3C1-28339B31F755"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:3.9.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "865B009B-8073-48D3-BE16-987B2204CA90"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:3.9.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1560C4FF-6C73-4CD0-978E-9E8A5908AC36"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:3.9.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5A4BF651-472B-4693-8A32-58E468F446FE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:3.9.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EE8804B9-6903-4F96-8BC2-271CBC320F8F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:3.9.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C12E9596-7A10-4179-A170-F2D796E18112"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:3.9.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "754F0E3C-BC35-45FC-BBD5-CCA8B8851ABA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:4.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "02F0AEDC-763E-42B2-9950-E6D665F74899"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:4.0.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1C834B84-5912-47CB-A450-8D037351DAE2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:4.0.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FE2C68E7-0AE2-4046-AF9E-9F0D43B65E67"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:4.0.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "538BB4E7-E680-43A2-A778-AF1832AEFC64"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:4.0.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EB79C45F-2E41-4BC0-A822-F9EC8CD60F77"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:4.0.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2F45807A-4BB8-436A-A2F2-C95BB6612FC2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:4.1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "26028348-2DE6-432F-A12A-CD9B5A06E3D3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:4.1.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "48984075-160C-46DE-A8F8-35AAF9D5253A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:4.1.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E44F1DEB-F2EA-4E6B-9D2D-F5329F393877"
 		}
 	]
 }

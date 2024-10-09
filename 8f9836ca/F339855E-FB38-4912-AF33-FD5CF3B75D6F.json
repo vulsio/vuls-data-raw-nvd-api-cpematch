@@ -4,9 +4,13 @@
 	"versionEndExcluding": "1.8.13",
 	"created": "2019-10-16T16:45:50.647",
 	"lastModified": "2019-10-16T16:45:50.647",
-	"cpeLastModified": "2019-12-17T14:01:31.873",
+	"cpeLastModified": "2024-10-09T16:04:02.620",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:code-atlantic:popup_maker:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FB068DD9-ADE1-4CF8-9DF0-2C2D92ACDA40"
+		},
 		{
 			"cpeName": "cpe:2.3:a:code-atlantic:popup_maker:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "F2A442E9-5DF7-4CB6-9598-31568556B938"

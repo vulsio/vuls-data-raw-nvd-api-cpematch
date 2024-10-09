@@ -3,8 +3,8 @@
 	"matchCriteriaId": "D8862E39-A57C-4CD5-A289-A853D9402298",
 	"versionEndExcluding": "2.11.9",
 	"created": "2024-09-24T11:48:47.853",
-	"lastModified": "2024-09-24T11:48:47.853",
-	"cpeLastModified": "2024-09-24T11:50:13.223",
+	"lastModified": "2024-10-09T13:57:02.423",
+	"cpeLastModified": "2024-10-09T13:57:02.423",
 	"status": "Active",
 	"matches": [
 		{
@@ -1554,6 +1554,58 @@
 		{
 			"cpeName": "cpe:2.3:a:traefik:traefik:2.10.5:*:*:*:*:*:*:*",
 			"cpeNameId": "720E4B93-0E28-4DF1-A45A-AC27A624B5B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traefik:traefik:2.10.6:*:*:*:*:*:*:*",
+			"cpeNameId": "E8258361-9C28-4112-95BE-70C3F48889BC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traefik:traefik:2.10.7:*:*:*:*:*:*:*",
+			"cpeNameId": "B5E50F35-038E-40C8-982C-98B8AACBB884"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traefik:traefik:2.11.0:-:*:*:*:*:*:*",
+			"cpeNameId": "56859C2D-D1CA-49C9-97FF-38EE64018344"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traefik:traefik:2.11.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "BF451DAF-2A9C-460D-9D12-D5DEB2A58D3E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traefik:traefik:2.11.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "57F4C9C8-2FAF-4540-9C52-20E097A59550"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traefik:traefik:2.11.1:*:*:*:*:*:*:*",
+			"cpeNameId": "A6558DE3-292A-476E-A6DE-8D9A0A017EBE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traefik:traefik:2.11.2:*:*:*:*:*:*:*",
+			"cpeNameId": "03ED6DA0-A5E1-4C00-BE55-21EFCAA9841E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traefik:traefik:2.11.3:*:*:*:*:*:*:*",
+			"cpeNameId": "B14EFEB8-4EB4-40B6-8C68-96236B2DA37D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traefik:traefik:2.11.4:*:*:*:*:*:*:*",
+			"cpeNameId": "E173F187-147C-4330-B468-6CE7D893D037"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traefik:traefik:2.11.5:*:*:*:*:*:*:*",
+			"cpeNameId": "0F64ABE3-5CE5-4014-9F48-952DAAD1CAFF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traefik:traefik:2.11.6:*:*:*:*:*:*:*",
+			"cpeNameId": "E8E6DC7B-5DA0-4A71-A00B-9466905A5F45"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traefik:traefik:2.11.7:*:*:*:*:*:*:*",
+			"cpeNameId": "E4EB5867-7ACE-4027-87DA-BF8E9DC13354"
+		},
+		{
+			"cpeName": "cpe:2.3:a:traefik:traefik:2.11.8:*:*:*:*:*:*:*",
+			"cpeNameId": "3C182B0A-F49C-411E-9392-0E96E23DD30C"
 		}
 	]
 }

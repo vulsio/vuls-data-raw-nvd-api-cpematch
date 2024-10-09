@@ -3,10 +3,14 @@
 	"matchCriteriaId": "D6E8FCA7-F8E5-43D8-A38A-A088C8D02BB1",
 	"versionEndExcluding": "1.19.1",
 	"created": "2024-10-07T12:57:21.810",
-	"lastModified": "2024-10-07T12:57:21.810",
-	"cpeLastModified": "2024-10-07T12:57:21.810",
+	"lastModified": "2024-10-09T16:04:02.620",
+	"cpeLastModified": "2024-10-09T16:04:02.620",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:code-atlantic:popup_maker:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FB068DD9-ADE1-4CF8-9DF0-2C2D92ACDA40"
+		},
 		{
 			"cpeName": "cpe:2.3:a:code-atlantic:popup_maker:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "F2A442E9-5DF7-4CB6-9598-31568556B938"
@@ -598,6 +602,10 @@
 		{
 			"cpeName": "cpe:2.3:a:code-atlantic:popup_maker:1.18.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "CF1DD78D-6915-47E8-B5AC-A5C070956D0D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:code-atlantic:popup_maker:1.19.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6459F89F-7EB5-4B2C-B7FC-FDA74B427CFC"
 		}
 	]
 }
