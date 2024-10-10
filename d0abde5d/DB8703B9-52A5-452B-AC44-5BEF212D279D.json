@@ -1,0 +1,19 @@
+{
+	"criteria": "cpe:2.3:a:microsoft:azure_monitor_agent:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "DB8703B9-52A5-452B-AC44-5BEF212D279D",
+	"versionEndExcluding": "1.30.0",
+	"created": "2024-10-10T14:36:44.093",
+	"lastModified": "2024-10-10T14:36:44.093",
+	"cpeLastModified": "2024-10-10T14:36:44.093",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microsoft:azure_monitor_agent:-:*:*:*:*:*:*:*",
+			"cpeNameId": "67276E00-A5F3-4FDB-9632-BCF41CECA6BA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:azure_monitor_agent:1.26.0:*:*:*:*:*:*:*",
+			"cpeNameId": "79FDDC65-7CEA-43C1-AE3C-C583B87799B5"
+		}
+	]
+}
