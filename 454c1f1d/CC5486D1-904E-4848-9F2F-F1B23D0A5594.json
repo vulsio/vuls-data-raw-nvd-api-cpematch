@@ -3,8 +3,8 @@
 	"matchCriteriaId": "CC5486D1-904E-4848-9F2F-F1B23D0A5594",
 	"versionEndExcluding": "14.10.21",
 	"created": "2024-08-20T11:21:25.457",
-	"lastModified": "2024-08-20T11:21:25.457",
-	"cpeLastModified": "2024-08-20T11:21:25.457",
+	"lastModified": "2024-10-09T18:22:58.447",
+	"cpeLastModified": "2024-10-09T18:22:58.447",
 	"status": "Active",
 	"matches": [
 		{
@@ -34,6 +34,26 @@
 		{
 			"cpeName": "cpe:2.3:a:xwiki:xwiki:1.3:rc1:*:*:*:*:*:*",
 			"cpeNameId": "1B07072D-96D5-48FB-A1CC-BA9299BD0E19"
+		},
+		{
+			"cpeName": "cpe:2.3:a:xwiki:xwiki:1.5:-:*:*:*:*:*:*",
+			"cpeNameId": "E94D2C31-1E32-4908-AB30-D905ED23EEC6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:xwiki:xwiki:1.5:rc1:*:*:*:*:*:*",
+			"cpeNameId": "517502BD-F34D-4FA4-900B-7F01D3CE5689"
+		},
+		{
+			"cpeName": "cpe:2.3:a:xwiki:xwiki:1.5:rc2:*:*:*:*:*:*",
+			"cpeNameId": "6E90ECD0-7479-4996-ADF0-DF58EB54C025"
+		},
+		{
+			"cpeName": "cpe:2.3:a:xwiki:xwiki:1.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "FA626856-407B-4FDF-9232-48C25BAADA3D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:xwiki:xwiki:1.5.2:*:*:*:*:*:*:*",
+			"cpeNameId": "01428218-470C-4A12-B349-FA2128D6D2EE"
 		},
 		{
 			"cpeName": "cpe:2.3:a:xwiki:xwiki:1.7:*:*:*:*:*:*:*",
@@ -1880,8 +1900,24 @@
 			"cpeNameId": "23918E08-4CCE-4B32-9545-579EE4569103"
 		},
 		{
+			"cpeName": "cpe:2.3:a:xwiki:xwiki:14.10.16:*:*:*:*:*:*:*",
+			"cpeNameId": "4FD0CE1A-4168-4A7E-A64C-EC0136778D87"
+		},
+		{
 			"cpeName": "cpe:2.3:a:xwiki:xwiki:14.10.17:*:*:*:*:*:*:*",
 			"cpeNameId": "4AAE8694-F060-4C88-A785-72A6F99CAE05"
+		},
+		{
+			"cpeName": "cpe:2.3:a:xwiki:xwiki:14.10.18:*:*:*:*:*:*:*",
+			"cpeNameId": "1EC53B79-4B2F-4731-9A8D-CBAC103D7308"
+		},
+		{
+			"cpeName": "cpe:2.3:a:xwiki:xwiki:14.10.19:*:*:*:*:*:*:*",
+			"cpeNameId": "0C6F5CD5-ACF9-4EB2-8496-114A2392EE11"
+		},
+		{
+			"cpeName": "cpe:2.3:a:xwiki:xwiki:14.10.20:*:*:*:*:*:*:*",
+			"cpeNameId": "0A42CBCA-E61E-4A78-AAF2-13958340F92B"
 		}
 	]
 }

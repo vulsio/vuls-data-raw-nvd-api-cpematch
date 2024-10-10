@@ -4,8 +4,8 @@
 	"versionStartExcluding": "15.0",
 	"versionEndExcluding": "15.5.5",
 	"created": "2024-08-27T16:55:37.310",
-	"lastModified": "2024-08-27T16:55:37.310",
-	"cpeLastModified": "2024-08-27T16:55:37.310",
+	"lastModified": "2024-10-09T18:22:58.447",
+	"cpeLastModified": "2024-10-09T18:22:58.447",
 	"status": "Active",
 	"matches": [
 		{
@@ -41,6 +41,10 @@
 			"cpeNameId": "A852A0E6-DBB2-4FFA-87BA-15EE3796AA17"
 		},
 		{
+			"cpeName": "cpe:2.3:a:xwiki:xwiki:15.5:*:*:*:*:*:*:*",
+			"cpeNameId": "B7E1A645-86B7-4937-B142-07E04FFC5528"
+		},
+		{
 			"cpeName": "cpe:2.3:a:xwiki:xwiki:15.5:-:*:*:*:*:*:*",
 			"cpeNameId": "72FC4E7A-36EC-4A7A-9434-17DE0666A962"
 		},
@@ -59,6 +63,10 @@
 		{
 			"cpeName": "cpe:2.3:a:xwiki:xwiki:15.5.3:*:*:*:*:*:*:*",
 			"cpeNameId": "94B7E6DC-76C7-447A-B7F2-C278277180BB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:xwiki:xwiki:15.5.4:*:*:*:*:*:*:*",
+			"cpeNameId": "43096F02-CF5D-4A8C-A080-665CE8EF806C"
 		}
 	]
 }
