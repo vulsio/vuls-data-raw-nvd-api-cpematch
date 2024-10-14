@@ -1,10 +1,10 @@
 {
 	"criteria": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor:*:*:*:*:*:wordpress:*:*",
-	"matchCriteriaId": "173FA58A-808B-4DE4-859C-B9B418973170",
-	"versionEndExcluding": "1.5.66",
-	"created": "2024-10-11T13:42:18.210",
+	"matchCriteriaId": "D2A2EFFB-5349-48CA-A065-355AB2D72684",
+	"versionEndExcluding": "1.5.67",
+	"created": "2024-10-14T13:43:12.070",
 	"lastModified": "2024-10-14T13:43:12.070",
-	"cpeLastModified": "2024-10-14T13:43:10.163",
+	"cpeLastModified": "2024-10-14T13:43:12.070",
 	"status": "Active",
 	"matches": [
 		{
@@ -854,6 +854,10 @@
 		{
 			"cpeName": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor:1.5.65:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "E4CEF3EB-D66B-4D90-B8B7-36F4F9204990"
+		},
+		{
+			"cpeName": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor:1.5.66:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B1A16C48-1094-4DE6-84C2-F9E82290484C"
 		}
 	]
 }

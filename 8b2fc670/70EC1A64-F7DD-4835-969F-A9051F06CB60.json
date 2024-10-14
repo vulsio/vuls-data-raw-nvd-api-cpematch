@@ -4,13 +4,21 @@
 	"versionStartIncluding": "2019",
 	"versionEndExcluding": "2019.6",
 	"created": "2022-03-22T18:25:10.777",
-	"lastModified": "2022-03-22T18:25:10.777",
-	"cpeLastModified": "2022-04-28T16:08:16.510",
+	"lastModified": "2024-10-14T13:05:29.800",
+	"cpeLastModified": "2024-10-14T13:05:29.800",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:autodesk:navisworks:2019:*:*:*:*:*:*:*",
 			"cpeNameId": "4460362E-0F50-4E70-B934-E1BE546E4294"
+		},
+		{
+			"cpeName": "cpe:2.3:a:autodesk:navisworks:2019.3:*:*:*:*:*:*:*",
+			"cpeNameId": "E443809A-987B-4AEA-8565-DDC69649254F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:autodesk:navisworks:2019.4:*:*:*:*:*:*:*",
+			"cpeNameId": "FF564181-A094-4391-AB4D-17C20FB35B32"
 		}
 	]
 }

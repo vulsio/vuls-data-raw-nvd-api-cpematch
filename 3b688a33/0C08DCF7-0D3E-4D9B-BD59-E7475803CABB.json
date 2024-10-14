@@ -1,10 +1,10 @@
 {
 	"criteria": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor:*:*:*:*:*:wordpress:*:*",
-	"matchCriteriaId": "173FA58A-808B-4DE4-859C-B9B418973170",
-	"versionEndExcluding": "1.5.66",
-	"created": "2024-10-11T13:42:18.210",
+	"matchCriteriaId": "0C08DCF7-0D3E-4D9B-BD59-E7475803CABB",
+	"versionEndExcluding": "1.5.49",
+	"created": "2024-10-14T13:43:12.070",
 	"lastModified": "2024-10-14T13:43:12.070",
-	"cpeLastModified": "2024-10-14T13:43:10.163",
+	"cpeLastModified": "2024-10-14T13:43:12.070",
 	"status": "Active",
 	"matches": [
 		{
@@ -786,74 +786,6 @@
 		{
 			"cpeName": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor:1.5.48:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "3579B247-10CB-4E90-9D5B-D50BDD5DCFA7"
-		},
-		{
-			"cpeName": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor:1.5.49:*:*:*:*:wordpress:*:*",
-			"cpeNameId": "230B1D31-2A4D-4CAA-BB3F-27C38938C2BC"
-		},
-		{
-			"cpeName": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor:1.5.50:*:*:*:*:wordpress:*:*",
-			"cpeNameId": "3E7FACE4-E0C6-4892-A820-BC0257506B68"
-		},
-		{
-			"cpeName": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor:1.5.51:*:*:*:*:wordpress:*:*",
-			"cpeNameId": "9D32F4CC-2E4A-4DFE-9D5B-40F4226FB8F6"
-		},
-		{
-			"cpeName": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor:1.5.52:*:*:*:*:wordpress:*:*",
-			"cpeNameId": "4D0B19F6-29F4-4442-8EFD-5A0BBA77B585"
-		},
-		{
-			"cpeName": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor:1.5.53:*:*:*:*:wordpress:*:*",
-			"cpeNameId": "967C3B30-A458-4C2A-AD58-F8B0528EEC84"
-		},
-		{
-			"cpeName": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor:1.5.54:*:*:*:*:wordpress:*:*",
-			"cpeNameId": "C17D16B9-1B68-4CBC-81BA-88E12885E027"
-		},
-		{
-			"cpeName": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor:1.5.55:*:*:*:*:wordpress:*:*",
-			"cpeNameId": "F64412A0-E244-4847-8BED-7BC0D349B288"
-		},
-		{
-			"cpeName": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor:1.5.56:*:*:*:*:wordpress:*:*",
-			"cpeNameId": "E4EDBCE3-5FD9-4C32-A2BD-9C2B62895BD8"
-		},
-		{
-			"cpeName": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor:1.5.57:*:*:*:*:wordpress:*:*",
-			"cpeNameId": "4D7F71B2-D77B-48E6-82F5-84661752C64F"
-		},
-		{
-			"cpeName": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor:1.5.58:*:*:*:*:wordpress:*:*",
-			"cpeNameId": "166D5050-B9F2-4698-9F30-0BF3FD777B97"
-		},
-		{
-			"cpeName": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor:1.5.59:*:*:*:*:wordpress:*:*",
-			"cpeNameId": "C26C46AA-FD74-4D74-B0FC-D0DB71EF285D"
-		},
-		{
-			"cpeName": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor:1.5.60:*:*:*:*:wordpress:*:*",
-			"cpeNameId": "A7972210-2D6F-4E7B-B9A3-30D60BA95D63"
-		},
-		{
-			"cpeName": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor:1.5.61:*:*:*:*:wordpress:*:*",
-			"cpeNameId": "26BF4607-1353-4665-9797-A617B40967DB"
-		},
-		{
-			"cpeName": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor:1.5.62:*:*:*:*:wordpress:*:*",
-			"cpeNameId": "870F4B08-3E2C-4076-82FD-E1EBF8C2B71E"
-		},
-		{
-			"cpeName": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor:1.5.63:*:*:*:*:wordpress:*:*",
-			"cpeNameId": "DADED157-1DC5-4989-ACBD-CCE3C378FAE6"
-		},
-		{
-			"cpeName": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor:1.5.64:*:*:*:*:wordpress:*:*",
-			"cpeNameId": "D5BE1A6D-1994-488B-B643-C3EF52885C2A"
-		},
-		{
-			"cpeName": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor:1.5.65:*:*:*:*:wordpress:*:*",
-			"cpeNameId": "E4CEF3EB-D66B-4D90-B8B7-36F4F9204990"
 		}
 	]
 }
