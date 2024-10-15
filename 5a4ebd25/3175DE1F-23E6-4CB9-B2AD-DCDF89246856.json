@@ -3,10 +3,14 @@
 	"matchCriteriaId": "3175DE1F-23E6-4CB9-B2AD-DCDF89246856",
 	"versionEndIncluding": "2.8.2",
 	"created": "2024-09-06T19:52:44.417",
-	"lastModified": "2024-09-06T19:52:44.417",
-	"cpeLastModified": "2024-09-06T19:52:44.417",
+	"lastModified": "2024-10-15T14:43:56.153",
+	"cpeLastModified": "2024-10-15T14:43:56.153",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:templateinvaders:ti_woocommerce_wishlist:-:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "1E180FAC-BC5D-4211-831E-BF26620B3F16"
+		},
 		{
 			"cpeName": "cpe:2.3:a:templateinvaders:ti_woocommerce_wishlist:1.0.0:*:*:*:free:wordpress:*:*",
 			"cpeNameId": "78509D7F-6802-46DD-A677-957EE367D4F2"
@@ -902,6 +906,14 @@
 		{
 			"cpeName": "cpe:2.3:a:templateinvaders:ti_woocommerce_wishlist:2.5.2:*:*:*:free:wordpress:*:*",
 			"cpeNameId": "7FAE28F5-F1A4-4EF5-B4F5-0293462E173E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:templateinvaders:ti_woocommerce_wishlist:2.8.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "11F97666-EE13-41F6-891D-B8F7DD0664D4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:templateinvaders:ti_woocommerce_wishlist:2.8.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "68437FA3-CC74-4DB2-96A8-BE559DBBD491"
 		}
 	]
 }
