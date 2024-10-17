@@ -3,8 +3,8 @@
 	"matchCriteriaId": "3751EA63-14B1-470A-8BB2-2B91C331DAA7",
 	"versionEndExcluding": "3.9.3",
 	"created": "2024-10-07T13:38:46.750",
-	"lastModified": "2024-10-07T13:38:46.750",
-	"cpeLastModified": "2024-10-07T13:38:46.750",
+	"lastModified": "2024-10-17T10:59:05.603",
+	"cpeLastModified": "2024-10-17T10:59:05.603",
 	"status": "Active",
 	"matches": [
 		{
@@ -422,6 +422,38 @@
 		{
 			"cpeName": "cpe:2.3:a:slicedinvoices:sliced_invoices:3.8.12:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "8A1CC586-CC36-4B5A-A65F-A02C54AAD6D4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:slicedinvoices:sliced_invoices:3.8.13:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "611B5288-3BF5-4E6E-99DC-A1673B192706"
+		},
+		{
+			"cpeName": "cpe:2.3:a:slicedinvoices:sliced_invoices:3.8.14:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "31545E63-CDCA-44C7-92F8-2DBCBC2B7416"
+		},
+		{
+			"cpeName": "cpe:2.3:a:slicedinvoices:sliced_invoices:3.8.15:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3D9C40B6-5559-4421-B5E6-E398B21E636A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:slicedinvoices:sliced_invoices:3.8.16:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B06D23AD-AB7F-4345-B945-A089D19C52FE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:slicedinvoices:sliced_invoices:3.8.17:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "751CF898-F9CC-4F83-8B1A-9C4BF5789CBE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:slicedinvoices:sliced_invoices:3.9.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E6625C9D-230B-4D42-8BD8-7192C96726CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:slicedinvoices:sliced_invoices:3.9.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C97581C2-757D-4350-AFFF-31E7F085E34B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:slicedinvoices:sliced_invoices:3.9.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D288BA8F-3994-4550-89C2-C1408217B0B0"
 		}
 	]
 }

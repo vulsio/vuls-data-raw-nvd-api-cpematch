@@ -4,9 +4,17 @@
 	"versionEndExcluding": "4.0.4",
 	"created": "2024-10-04T21:51:13.273",
 	"lastModified": "2024-10-09T17:06:14.463",
-	"cpeLastModified": "2024-10-09T17:06:14.463",
+	"cpeLastModified": "2024-10-17T10:55:01.670",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:mainwp:staging_extension:1.0:beta1:*:*:*:wordpress:*:*",
+			"cpeNameId": "F3AC53C5-120B-4DF7-BC24-B49573C115D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mainwp:staging_extension:1.0:beta2:*:*:*:wordpress:*:*",
+			"cpeNameId": "EEA6B9DB-28DF-4749-B0E1-8CFDF6566AFD"
+		},
 		{
 			"cpeName": "cpe:2.3:a:mainwp:staging_extension:1.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "F0AA120F-D353-440C-9009-49E0D3B9E69E"
