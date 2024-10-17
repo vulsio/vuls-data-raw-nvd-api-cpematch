@@ -5,7 +5,7 @@
 	"versionEndExcluding": "6.6.4",
 	"created": "2021-02-05T13:28:58.790",
 	"lastModified": "2021-02-05T13:28:58.790",
-	"cpeLastModified": "2024-10-07T17:35:44.570",
+	"cpeLastModified": "2024-10-17T14:10:07.187",
 	"status": "Active",
 	"matches": [
 		{
@@ -189,8 +189,16 @@
 			"cpeNameId": "1D85FB34-284B-4016-BBB5-BB1976026DEB"
 		},
 		{
+			"cpeName": "cpe:2.3:o:cisco:ios_xr:6.6.2:*:*:*:*:*:x64:*",
+			"cpeNameId": "78B15985-BEEF-4BC4-8A77-354C3ECAD317"
+		},
+		{
 			"cpeName": "cpe:2.3:o:cisco:ios_xr:6.6.3:*:*:*:*:*:*:*",
 			"cpeNameId": "C70749CD-F432-4AFD-A50C-D48003CB3CDD"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios_xr:6.6.3:*:*:*:*:*:x64:*",
+			"cpeNameId": "54457E54-CEAC-48A0-AAB3-87EDAB08EFEB"
 		}
 	]
 }

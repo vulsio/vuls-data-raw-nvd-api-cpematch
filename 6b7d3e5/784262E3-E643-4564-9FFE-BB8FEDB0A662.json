@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2.3.0",
 	"created": "2024-09-04T14:39:09.400",
 	"lastModified": "2024-09-04T14:39:09.400",
-	"cpeLastModified": "2024-09-04T14:39:09.400",
+	"cpeLastModified": "2024-10-17T13:01:58.320",
 	"status": "Active",
 	"matches": [
 		{
@@ -756,6 +756,14 @@
 			"cpeNameId": "9B684CF3-F903-4F67-830A-D980493D7FA3"
 		},
 		{
+			"cpeName": "cpe:2.3:a:checkmk:checkmk:2.1.0:p48:*:*:*:*:*:*",
+			"cpeNameId": "09477E32-8550-470E-BF59-D541F851CDEA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:checkmk:checkmk:2.1.0:p49:*:*:*:*:*:*",
+			"cpeNameId": "7C328649-3CD2-40CD-86FB-74299FB8A56C"
+		},
+		{
 			"cpeName": "cpe:2.3:a:checkmk:checkmk:2.1.0:p5:*:*:*:*:*:*",
 			"cpeNameId": "A684507D-C670-42EC-A0BE-DE3E11452157"
 		},
@@ -918,6 +926,18 @@
 		{
 			"cpeName": "cpe:2.3:a:checkmk:checkmk:2.2.0:p32:*:*:*:*:*:*",
 			"cpeNameId": "E0CEBAD0-D5CC-43EE-B023-0CB69FE1CBBF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:checkmk:checkmk:2.2.0:p34:*:*:*:*:*:*",
+			"cpeNameId": "E02CCA60-B529-4E18-ADE0-9BB5D6596FEE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:checkmk:checkmk:2.2.0:p35:*:*:*:*:*:*",
+			"cpeNameId": "BB747492-5E20-4EA6-9605-1CCDB82F77D5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:checkmk:checkmk:2.2.0:p36:*:*:*:*:*:*",
+			"cpeNameId": "1C8292F2-DEB1-4080-9B25-7F0C74F036B7"
 		},
 		{
 			"cpeName": "cpe:2.3:a:checkmk:checkmk:2.2.0:p4:*:*:*:*:*:*",

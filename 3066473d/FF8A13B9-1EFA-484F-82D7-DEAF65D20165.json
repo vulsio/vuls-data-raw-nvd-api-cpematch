@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.2.37",
 	"created": "2024-09-17T13:42:16.230",
 	"lastModified": "2024-09-19T21:36:23.500",
-	"cpeLastModified": "2024-09-19T21:36:23.500",
+	"cpeLastModified": "2024-10-17T13:34:08.147",
 	"status": "Active",
 	"matches": [
 		{
@@ -354,6 +354,14 @@
 		{
 			"cpeName": "cpe:2.3:a:kanboard:kanboard:1.2.31:*:*:*:*:*:*:*",
 			"cpeNameId": "A3C411DA-3A4E-4F3C-85C4-B108F7462D5E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:kanboard:kanboard:1.2.32:*:*:*:*:*:*:*",
+			"cpeNameId": "DD38F844-006D-4A78-83A5-2A85030237B6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:kanboard:kanboard:1.2.33:*:*:*:*:*:*:*",
+			"cpeNameId": "61BA4556-8300-428C-813E-9B35564A9DF1"
 		},
 		{
 			"cpeName": "cpe:2.3:a:kanboard:kanboard:1.2.34:*:*:*:*:*:*:*",

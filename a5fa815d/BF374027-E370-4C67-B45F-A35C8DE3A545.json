@@ -5,7 +5,7 @@
 	"versionEndExcluding": "13.6",
 	"created": "2024-09-05T14:17:44.643",
 	"lastModified": "2024-09-05T14:17:44.643",
-	"cpeLastModified": "2024-09-05T14:17:44.643",
+	"cpeLastModified": "2024-10-17T14:01:42.273",
 	"status": "Active",
 	"matches": [
 		{
@@ -19,6 +19,18 @@
 		{
 			"cpeName": "cpe:2.3:a:vmware:fusion:13.0.2:*:*:*:*:*:*:*",
 			"cpeNameId": "7398CC91-1334-4793-8C52-A34ECF75B292"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vmware:fusion:13.5:*:*:*:*:*:*:*",
+			"cpeNameId": "ECF124F0-21AD-4006-8744-BC98B1DF94E5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vmware:fusion:13.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "A86BABC5-442C-44CF-923E-09507DE29DA2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vmware:fusion:13.5.2:*:*:*:*:*:*:*",
+			"cpeNameId": "34412E5F-1E4B-4B6B-86F5-CC142C8E714A"
 		}
 	]
 }

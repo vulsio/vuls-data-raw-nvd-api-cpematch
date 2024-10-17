@@ -3,7 +3,7 @@
 	"matchCriteriaId": "9A17F6CB-1A34-4EC9-A8D4-F4BC5E00F3F2",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2023-11-06T18:33:35.603",
+	"cpeLastModified": "2024-10-17T13:36:16.210",
 	"status": "Active",
 	"matches": [
 		{
@@ -1877,6 +1877,38 @@
 		{
 			"cpeName": "cpe:2.3:a:moodle:moodle:4.2.3:*:*:*:*:*:*:*",
 			"cpeNameId": "89CE897D-0052-448D-8DFD-5B0697398008"
+		},
+		{
+			"cpeName": "cpe:2.3:a:moodle:moodle:4.2.4:*:*:*:*:*:*:*",
+			"cpeNameId": "744CA4CC-724C-4085-82F7-5781D194EDDF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:moodle:moodle:4.2.5:*:*:*:*:*:*:*",
+			"cpeNameId": "9FAEB265-2D2B-4A50-ABCA-E5A1E14BF05E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:moodle:moodle:4.2.6:*:*:*:*:*:*:*",
+			"cpeNameId": "C111E4CF-B0CC-4A36-A965-4006E3498BEC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:moodle:moodle:4.2.7:*:*:*:*:*:*:*",
+			"cpeNameId": "DE456F20-41B9-4B3D-8CCC-E599DC19E8E1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:moodle:moodle:4.2.8:*:*:*:*:*:*:*",
+			"cpeNameId": "2841EE7C-5401-4402-9C9A-3510A247AB3F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:moodle:moodle:4.2.9:*:*:*:*:*:*:*",
+			"cpeNameId": "88BC126B-5059-44A5-837C-F5278C341E1A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:moodle:moodle:4.2.10:*:*:*:*:*:*:*",
+			"cpeNameId": "8637B027-92EE-4C48-977E-076B49BB86FB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:moodle:moodle:4.2.11:*:*:*:*:*:*:*",
+			"cpeNameId": "1E35B81B-CC34-4B0A-8F9C-879C40866810"
 		},
 		{
 			"cpeName": "cpe:2.3:a:moodle:moodle:4.3.0:-:*:*:*:*:*:*",

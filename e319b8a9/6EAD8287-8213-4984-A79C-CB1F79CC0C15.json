@@ -3,8 +3,8 @@
 	"matchCriteriaId": "6EAD8287-8213-4984-A79C-CB1F79CC0C15",
 	"versionEndIncluding": "24.03",
 	"created": "2024-08-09T18:47:08.380",
-	"lastModified": "2024-08-09T18:47:08.380",
-	"cpeLastModified": "2024-08-09T18:47:08.380",
+	"lastModified": "2024-10-17T13:34:08.147",
+	"cpeLastModified": "2024-10-17T13:34:08.147",
 	"status": "Active",
 	"matches": [
 		{
@@ -22,6 +22,10 @@
 		{
 			"cpeName": "cpe:2.3:a:johnsoncontrols:exacqvision_web_service:21.03:*:*:*:*:*:*:*",
 			"cpeNameId": "0571A19C-D23E-4332-8AC4-74C070B81A82"
+		},
+		{
+			"cpeName": "cpe:2.3:a:johnsoncontrols:exacqvision_web_service:24.03:*:*:*:*:*:*:*",
+			"cpeNameId": "9BAF9FBE-7029-43C6-BC2B-DE5EFF2173FA"
 		}
 	]
 }

@@ -4,7 +4,7 @@
 	"versionEndExcluding": "5.9.0",
 	"created": "2024-09-18T13:17:33.313",
 	"lastModified": "2024-09-18T13:18:24.310",
-	"cpeLastModified": "2024-09-18T13:17:33.313",
+	"cpeLastModified": "2024-10-17T13:34:08.147",
 	"status": "Active",
 	"matches": [
 		{
@@ -30,6 +30,10 @@
 		{
 			"cpeName": "cpe:2.3:a:mattermost:mattermost_desktop:5.5.1:*:*:*:*:*:*:*",
 			"cpeNameId": "F75B9DBB-F454-48EF-8D30-FE28963EFD69"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mattermost:mattermost_desktop:5.7.0:-:*:*:*:*:*:*",
+			"cpeNameId": "B9EE4E77-6ED6-4E0A-B212-81F276846536"
 		}
 	]
 }

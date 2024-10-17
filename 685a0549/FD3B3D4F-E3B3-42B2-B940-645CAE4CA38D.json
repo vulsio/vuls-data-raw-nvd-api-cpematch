@@ -4,9 +4,13 @@
 	"versionEndIncluding": "3.9.1",
 	"created": "2019-08-26T12:34:33.693",
 	"lastModified": "2019-08-26T12:34:33.693",
-	"cpeLastModified": "2019-08-26T12:42:29.813",
+	"cpeLastModified": "2024-10-17T13:59:18.457",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ampache:ampache:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2CCC77A5-5315-4943-B2F0-5E0AACEF5901"
+		},
 		{
 			"cpeName": "cpe:2.3:a:ampache:ampache:3.5.1:*:*:*:*:*:*:*",
 			"cpeNameId": "B8F1DE02-B21F-4ABE-A982-6FF00D9E5CD7"

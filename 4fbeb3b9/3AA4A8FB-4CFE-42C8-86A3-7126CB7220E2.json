@@ -4,7 +4,7 @@
 	"versionEndExcluding": "5.2.0",
 	"created": "2021-05-21T17:04:15.283",
 	"lastModified": "2021-05-21T17:04:15.283",
-	"cpeLastModified": "2024-10-17T12:32:29.737",
+	"cpeLastModified": "2024-10-17T12:34:10.360",
 	"status": "Active",
 	"matches": [
 		{
@@ -2012,360 +2012,720 @@
 			"cpeNameId": "8EEE5892-1A2F-43CE-B828-5B590DB176AE"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.5.9:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "94F91165-3A60-4CB6-A22E-968A4F9BF0D3"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.6.0:-:*:*:*:wordpress:*:*",
 			"cpeNameId": "32E1DC5A-3C70-4690-BC11-B7B0E0C1316A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.6.0:-:*:*:free:wordpress:*:*",
+			"cpeNameId": "7BE1D051-E2C6-49E7-9F97-DCBE42AE7FB5"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.6.0:beta1:*:*:*:wordpress:*:*",
 			"cpeNameId": "3DB0A3A7-04F0-4514-A535-D7C1FA8A82BF"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.6.0:beta1:*:*:free:wordpress:*:*",
+			"cpeNameId": "FF2FB499-16FA-4CD8-B4CF-4E8D449C46AD"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.6.0:rc1:*:*:*:wordpress:*:*",
 			"cpeNameId": "348FAB46-93C7-4942-AC66-BDC0A73EC95E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.6.0:rc1:*:*:free:wordpress:*:*",
+			"cpeNameId": "ACD2775F-EE44-4E1A-BCF4-7037FB399FD0"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.6.0:rc2:*:*:*:wordpress:*:*",
 			"cpeNameId": "8E0F3B43-C941-407C-B391-D3261F6A6646"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.6.0:rc2:*:*:free:wordpress:*:*",
+			"cpeNameId": "4991E9F0-8788-4EE8-BDF3-0354B57D9400"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.6.0:rc3:*:*:*:wordpress:*:*",
 			"cpeNameId": "4A86A314-7009-469B-9C02-134B0230D502"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.6.0:rc3:*:*:free:wordpress:*:*",
+			"cpeNameId": "22F45A9E-F6B1-4701-A4F6-7D15164E7E1D"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.6.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "CD535982-151B-4448-8447-7D475960DD6B"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.6.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "69073025-69F3-42BB-8181-167DBC0D1D07"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.6.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "7F1232BE-5177-4A14-BC47-0CCF01A3658C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.6.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "5E59873E-86F5-4574-9FA9-63A32560208A"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.6.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "9CA163DF-7638-4BFF-BD77-778083B94B21"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.6.3:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "A58F0DCD-6FB6-4036-9BE1-18ABF7FF1B64"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.6.4:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "4FC31DAA-B2C2-4641-85C5-FA6D0B7C8249"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.6.4:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "42F1D1F4-BB4B-49F9-ABB8-33F5485BD5B4"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.6.5:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "EBBEDB05-016A-4B4E-9C78-2E49FA0803D8"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.6.5:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "9ED58128-38CC-4B76-8F61-544F09CB185D"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.6.6:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "B13D52DA-370D-4423-98FC-E6B01E4389BD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.6.6:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "92BE6CBC-2825-4E9F-B69A-0715B7BE2440"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.7.0:-:*:*:*:wordpress:*:*",
 			"cpeNameId": "0881D4E3-8B49-4D9C-AB2F-24EECE557DDB"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.7.0:-:*:*:free:wordpress:*:*",
+			"cpeNameId": "08FCD6B9-9DB1-4139-9661-750B1DD62EFA"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.7.0:beta1:*:*:*:wordpress:*:*",
 			"cpeNameId": "E4B1B77E-68D2-4E17-B765-908CB0AEE8E1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.7.0:beta1:*:*:free:wordpress:*:*",
+			"cpeNameId": "4F3DD4A7-70DC-44FE-9FDF-223E5A24580F"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.7.0:rc1:*:*:*:wordpress:*:*",
 			"cpeNameId": "10BAF9DA-CD44-4D6D-B211-C43C210F30B4"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.7.0:rc1:*:*:free:wordpress:*:*",
+			"cpeNameId": "37CC51D7-9CA1-416D-8635-0950B7E97ECB"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.7.0:rc2:*:*:*:wordpress:*:*",
 			"cpeNameId": "506B0393-6EF4-4C97-8F8A-C03EDDC056AA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.7.0:rc2:*:*:free:wordpress:*:*",
+			"cpeNameId": "B2F9C6CD-A4EA-4886-82F4-47B839B4A305"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.7.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "C576FB02-9BF5-48AB-91FA-A615DEB81D0F"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.7.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "5A39044E-2617-46CA-8E22-DB9C8D3FDF43"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.7.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "26627AAC-C613-4AEA-BCB3-3D3B49D7EDE7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.7.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "74AD294D-B9B5-45F0-99EB-4C99FA277E00"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.8.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "CBDF876A-6975-437E-9549-5EEBF03BB0CA"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.8.0:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "881E7ABD-B4FF-4F89-9394-2191814D97F5"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.8.0:beta1:*:*:*:wordpress:*:*",
 			"cpeNameId": "21AB5178-90E4-4BC3-9E4D-EE7172262610"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.8.0:beta1:*:*:free:wordpress:*:*",
+			"cpeNameId": "D7E98DFE-F34E-4B58-AE93-317CC335799E"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.8.0:rc1:*:*:*:wordpress:*:*",
 			"cpeNameId": "A1A1A1E1-0808-45C6-B635-21EBDD05E670"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.8.0:rc1:*:*:free:wordpress:*:*",
+			"cpeNameId": "62F94373-05D0-4BCE-B4C6-D1752265C101"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.8.0:rc2:*:*:*:wordpress:*:*",
 			"cpeNameId": "ED198694-3831-4726-8007-DF01B47DF788"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.8.0:rc2:*:*:free:wordpress:*:*",
+			"cpeNameId": "38B6D9CC-6641-4F79-9323-51F1515097DB"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.8.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "966565F4-96B5-47A7-9C29-52F449A96A10"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.8.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "EE79AF68-3935-406E-9AA9-270BC0FA8828"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.8.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "02B73149-A2B9-4476-9604-FED8E5032AF2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.8.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "EA062CBE-6DF3-48D5-9D11-8E05439E4CED"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.9.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "656264B6-49E8-4ADC-ABE9-F2A688D84CBB"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.9.0:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "EC05D960-A9A7-426A-A5EB-49EBE907541B"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.9.0:beta1:*:*:*:wordpress:*:*",
 			"cpeNameId": "C49D0C05-CAD3-4FDE-99A5-249CE7AACF7D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.9.0:beta1:*:*:free:wordpress:*:*",
+			"cpeNameId": "D56856EE-2FC9-412F-813E-4150FC5D918E"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.9.0:beta2:*:*:*:wordpress:*:*",
 			"cpeNameId": "6ED8BB48-4B24-401C-8780-7A989CDD5643"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.9.0:beta2:*:*:free:wordpress:*:*",
+			"cpeNameId": "14E4C222-5663-4FCF-8D69-911867EEDE97"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.9.0:rc1:*:*:*:wordpress:*:*",
 			"cpeNameId": "FCA342F3-FBA6-4A58-BA47-9668DA18FE5A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.9.0:rc1:*:*:free:wordpress:*:*",
+			"cpeNameId": "F87C9BBB-6036-4560-9E2D-1CB5E81AA212"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.9.0:rc2:*:*:*:wordpress:*:*",
 			"cpeNameId": "6041EC1E-5311-4403-B597-6AC30D860395"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.9.0:rc2:*:*:free:wordpress:*:*",
+			"cpeNameId": "28F7F6A8-DF2F-4C76-B492-7B2EF9ECC6FE"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.9.0:rc3:*:*:*:wordpress:*:*",
 			"cpeNameId": "35C68C0A-F33A-4D02-BAFB-D89E5F9E8A0F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.9.0:rc3:*:*:free:wordpress:*:*",
+			"cpeNameId": "C2C9C800-7950-4D66-BEE1-38AAE50EC998"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.9.0:rc4:*:*:*:wordpress:*:*",
 			"cpeNameId": "BD3FAFD1-4508-4202-A1DB-3A260AF33DF1"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.9.0:rc4:*:*:free:wordpress:*:*",
+			"cpeNameId": "4E0031DF-1FD0-4204-85D0-BC9313E04C6A"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.9.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "86177AA6-5CCD-424A-89ED-A7BBBA4B6053"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.9.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "9590D4BA-6CC5-4D49-B9C7-9E73E642467D"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.9.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "1735E248-DF1F-48D5-83DB-A63D465CDBF1"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.9.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "45DF1547-83AE-45EB-B490-61884150E930"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.9.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "D4CD48E0-0D33-4024-820F-7AE53A668AF4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.9.3:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "3267269F-0D96-4B13-A0F0-94CB5659CBED"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.9.4:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "2B0593CB-F110-4939-82AB-D5683120223A"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.9.4:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "658FC899-C6F1-4744-9372-DDAED9601440"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "89E221C3-38ED-4F05-8850-D9FE825316C9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.0.0:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "216BA6B7-3F05-49AA-B22B-0B7012CB5CA1"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.0.0:beta1:*:*:*:wordpress:*:*",
 			"cpeNameId": "7532423D-2B7E-49A0-B2E6-0A4CAAF46E92"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.0.0:beta1:*:*:free:wordpress:*:*",
+			"cpeNameId": "E0B4D78A-0CB1-442C-8E19-75E769167E51"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.0.0:rc1:*:*:*:wordpress:*:*",
 			"cpeNameId": "B153A67E-906A-4A5A-80C1-A02F42469962"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.0.0:rc1:*:*:free:wordpress:*:*",
+			"cpeNameId": "467180A3-5552-4D9E-906F-DEE30EA7B117"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.0.0:rc2:*:*:*:wordpress:*:*",
 			"cpeNameId": "9835ACFD-F16C-4DE7-B62E-B83706FABAEB"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.0.0:rc2:*:*:free:wordpress:*:*",
+			"cpeNameId": "89917CBD-A6CF-42A3-969A-70F61427C543"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.0.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "97CB5E79-CE0A-4730-84D4-CA0F23AA1E98"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.0.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "477CD63A-35DC-4467-A517-F7A33138949C"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.0.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "4ACCE9E5-DA98-4DB1-ABCE-A9B7BE1763C8"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.0.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "4313F788-0864-4F2B-B7A4-928FD9F0857B"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "C5726233-9935-48A2-8B16-2F97E593378B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.1.0:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "F408325B-48CA-4A5E-BC70-008F3CC9D00E"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.1.0:beta1:*:*:*:wordpress:*:*",
 			"cpeNameId": "DE527B22-77B5-4BDF-85B8-A21EEF2A90E0"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.1.0:beta1:*:*:free:wordpress:*:*",
+			"cpeNameId": "31129E87-FA81-482A-82BE-45D61E1C08D3"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.1.0:beta2:*:*:*:wordpress:*:*",
 			"cpeNameId": "BE3D7C08-0F6E-406A-8701-763D0C4AB30C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.1.0:beta2:*:*:free:wordpress:*:*",
+			"cpeNameId": "EC1B40B4-839C-4F5B-AE25-CAE13267B237"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.1.0:rc1:*:*:*:wordpress:*:*",
 			"cpeNameId": "5BAE34A8-2DD7-4C26-B10F-64466BCF9EFA"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.1.0:rc1:*:*:free:wordpress:*:*",
+			"cpeNameId": "B3855977-4684-4C60-853E-78337A6A6D21"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.1.0:rc2:*:*:*:wordpress:*:*",
 			"cpeNameId": "9BEDFF25-3C39-468B-AFDD-A90BB1F0C9A4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.1.0:rc2:*:*:free:wordpress:*:*",
+			"cpeNameId": "6F027C28-0E6C-470A-B490-7AA2E95843C9"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.1.0:rc3:*:*:*:wordpress:*:*",
 			"cpeNameId": "E8F7E168-4375-457F-8046-75A608435DBA"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.1.0:rc3:*:*:free:wordpress:*:*",
+			"cpeNameId": "D6A1CB99-8123-4B2C-BFFE-CE854E71881B"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.1.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "BA65C325-5D10-43C2-853F-FCAE4993D49B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.1.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "1596C25F-1B53-4D2C-80BB-6D03AA1F6274"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.1.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "76ECE9DA-5829-45CE-8B79-B37DAC2B4CE2"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.1.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "9CFE3FC5-15B9-4FC2-90E3-7D62B086CA9E"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.1.2.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "ADF71464-B804-4CE7-AD3B-5C20717253F1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.1.2.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "C65DEE24-FC31-4EB2-9A3A-A29DF24B566A"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.2.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "67134E74-BB29-433D-812A-CD66445EC267"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.2.0:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "B4549D37-D36E-45E2-9C68-AD0CB17E95B9"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.2.0:beta1:*:*:*:wordpress:*:*",
 			"cpeNameId": "BA35D15D-C98B-4AC1-9522-4FD61186C382"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.2.0:beta1:*:*:free:wordpress:*:*",
+			"cpeNameId": "25DFDFB0-E46C-454C-90F3-CB0BD713F489"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.2.0:rc1:*:*:*:wordpress:*:*",
 			"cpeNameId": "5E8AFA59-EFED-4D24-863C-8A6D68EA5F3E"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.2.0:rc1:*:*:free:wordpress:*:*",
+			"cpeNameId": "7E1AFA22-754A-4DDE-AF9C-A5B42BEBEBDB"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.2.0:rc2:*:*:*:wordpress:*:*",
 			"cpeNameId": "6A2B4BAF-F21C-4D1B-9197-1DC5CA9E01E7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.2.0:rc2:*:*:free:wordpress:*:*",
+			"cpeNameId": "E1779AD4-0F9C-4BAB-BD13-B92DC36E2687"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.2.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "BFC5F909-5376-4DA8-87CA-C1DCC720EC9B"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.2.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "6E479D02-DEAD-4733-B52E-F475B76D228F"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.2.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "E4287EA0-A3BD-4958-886D-24356EE3ACCB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.2.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "8FD0D0D6-258C-4DE9-A0D3-99F93652539B"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.2.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "A35964B1-5A14-4793-B704-B125A31E38A7"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.2.3:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "02E330F2-C46A-4F83-AD08-97C743726EE6"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.2.3.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "7594F0C5-35AB-4D08-8333-1691660E8161"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.2.3.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "7795E779-D2DC-4AC8-9C1B-248344B64A57"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.3.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "98E5E43B-300A-4451-80B5-F26C22449412"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.3.0:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "79E8E589-F280-47CD-ABFE-C21A67BB4692"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.3.0:beta1:*:*:*:wordpress:*:*",
 			"cpeNameId": "17293556-777A-4411-A974-946D7B507442"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.3.0:beta1:*:*:free:wordpress:*:*",
+			"cpeNameId": "3E0E3C87-E344-475B-902E-B6DE76FA6AC5"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.3.0:rc1:*:*:*:wordpress:*:*",
 			"cpeNameId": "357B5280-A299-4974-BF75-605D3E412310"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.3.0:rc1:*:*:free:wordpress:*:*",
+			"cpeNameId": "B41FB684-77B6-46E8-893F-A7018D2160D1"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.3.0:rc2:*:*:*:wordpress:*:*",
 			"cpeNameId": "250A49C2-DE1E-46E6-8490-DE6E387BB9A7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.3.0:rc2:*:*:free:wordpress:*:*",
+			"cpeNameId": "2F4F8A89-3960-48C6-B6F5-4EBB3BAB0A8F"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.3.0:rc3:*:*:*:wordpress:*:*",
 			"cpeNameId": "EFE5C38E-E54D-4BFB-B350-421956A59BA0"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.3.0:rc3:*:*:free:wordpress:*:*",
+			"cpeNameId": "2D18FB2D-7F30-4E76-8C47-1BDD4EE13BAB"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.3.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "4FB06BB6-AB31-44D4-A529-D50E08D79759"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.3.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "EE4E842E-E790-4FB1-AFBC-FECBC95B302D"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.3.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "A6041ABA-8A17-42C3-84C9-B9D0BC97768C"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.3.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "B5CCA5D8-8155-4F72-8BF6-2682298998FA"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.3.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "A9FA011F-C5AB-48EB-80BD-52BF7B02ACF6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.3.3:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "36C26D9D-9FDD-4908-8BA6-FD4F1AF8DC6F"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.3.4:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "B5EFD6E2-FE9E-47D0-BFF0-B10A7C807699"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.3.4:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "4D598494-AA1B-474F-B92A-FB97ECE91AF3"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.3.4.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "DA32AFC5-D504-462B-A393-25A386FD5B4F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.3.4.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "6C6DC23E-775A-4662-8FEA-54CAD0278790"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.4.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "6946F638-08C2-498D-9B6D-DD748C7323B1"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.4.0:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "FF7B9D9D-CEB1-48DE-95B2-15F62DEBCFE6"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.4.0:beta1:*:*:*:wordpress:*:*",
 			"cpeNameId": "F9DDEF55-E94D-4EA8-A801-F953F3400110"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.4.0:beta1:*:*:free:wordpress:*:*",
+			"cpeNameId": "0A4F637E-C2EA-4CAE-853B-F8CC900B69B3"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.4.0:rc1:*:*:*:wordpress:*:*",
 			"cpeNameId": "0677D64A-4D14-414E-8C29-0328C515B07E"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.4.0:rc1:*:*:free:wordpress:*:*",
+			"cpeNameId": "EFEDDBB8-52EB-4908-94D0-D488CCC5A4EA"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.4.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "73082F98-A70F-408D-908D-EBE2D6DD42FF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.4.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "BBCB94DE-A0F2-4CC9-AE82-441A876E2497"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.4.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "0617E231-6CFE-4DE4-AEA1-B1211088D6C0"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.4.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "E0DD43B1-F37A-48AA-BB97-F9B5E53EF893"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.4.2.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "DFF4B48E-F4DE-4FD4-9733-E58F35630702"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.4.2.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "39EE4723-C883-4A62-9586-8D17D4387F19"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.5.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "B4D14C1F-5509-45BA-8914-26BF105318D6"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.5.0:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "69098A84-D566-4705-B421-53056EA5C26A"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.5.0:beta1:*:*:*:wordpress:*:*",
 			"cpeNameId": "39495ADC-1F4F-4E00-8FDB-8AD6D24C42CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.5.0:beta1:*:*:free:wordpress:*:*",
+			"cpeNameId": "406C847C-78EE-4CB7-98FE-42558336FA0E"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.5.0:rc1:*:*:*:wordpress:*:*",
 			"cpeNameId": "5F802F08-6AE1-406F-8CFA-32BEEED9100F"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.5.0:rc1:*:*:free:wordpress:*:*",
+			"cpeNameId": "CF728253-8B14-4A50-B06E-FE2785F58649"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.5.0:rc2:*:*:*:wordpress:*:*",
 			"cpeNameId": "3986C5FB-EDA9-417B-94DE-2347F7D8A5DF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.5.0:rc2:*:*:free:wordpress:*:*",
+			"cpeNameId": "84DB4110-0C9C-49F2-9940-48901C34A8A7"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.5.0:rc3:*:*:*:wordpress:*:*",
 			"cpeNameId": "5574E921-9ACC-4682-90F1-07B1F844EF38"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.5.0:rc3:*:*:free:wordpress:*:*",
+			"cpeNameId": "A388D4AF-3804-4E1E-8C3F-6A6CAE685C95"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.5.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "C1440037-CE61-42A7-9697-7D77D537080D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.5.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "98FE2302-08C0-4AFB-8035-4D23AD6F50F5"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.5.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "310A90BF-31D3-4390-A98F-3B42CA4F0118"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.5.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "76C62A62-9748-4E83-BDEC-23711A574F17"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.5.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "092AB0AC-FD0A-49A0-B1C0-9F1BD394594C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.5.3:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "2FAA7FF1-B10B-4E93-9C7D-AC131069EDBD"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.5.3.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "1181A6D4-F720-46BC-8738-8392D90F67A2"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.5.3.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "E81E46E6-5B36-4D97-9273-CD71D5BBED15"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.6.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "A1651E4A-4663-4C36-812B-477C716AD6ED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.6.0:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "01884A84-15CB-4113-A579-C3DF497B00E1"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.6.0:beta1:*:*:*:wordpress:*:*",
 			"cpeNameId": "A6EAD58A-8E30-4C07-A825-F799EBAB916B"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.6.0:beta1:*:*:free:wordpress:*:*",
+			"cpeNameId": "7E74E018-E2DF-430B-8A0E-238453274E98"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.6.0:rc1:*:*:*:wordpress:*:*",
 			"cpeNameId": "DAE6797C-16A2-44F2-85DC-B96DB1CCC450"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.6.0:rc1:*:*:free:wordpress:*:*",
+			"cpeNameId": "8E051F3C-E4E4-41B0-8C58-ED361B27F096"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.6.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "54C0D2CB-7FB2-4C81-BDFA-6AD37F19DC3C"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.6.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "6DA519A1-0A01-491B-9CAF-F2104FAACD76"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.6.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "F675A716-2385-4DF0-A9F1-431B088DF882"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.6.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "E5746093-534B-4D86-ABDA-74DD07FCE5FB"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.6.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "7E203C3D-51E4-40A3-935E-ABDF20D9CF36"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.6.3:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "89A709FA-8B98-4D03-80E1-A57E717D523F"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.6.3.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "906D0B18-291E-4051-BD22-D7C8BEA53D73"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.6.3.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "0E60C958-4E6F-4C9C-B673-81E31546ED82"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.7.0:*:*:*:*:wordpress:*:*",
@@ -2376,120 +2736,240 @@
 			"cpeNameId": "AFA2CE3D-11BF-49F2-8D5D-12345A2D5C2D"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.7.0:-:*:*:free:wordpress:*:*",
+			"cpeNameId": "004B5C19-A2C8-48E2-B254-D342D62710A8"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.7.0:beta1:*:*:*:wordpress:*:*",
 			"cpeNameId": "568DB172-5EC2-4E85-A3D0-AB834D3CCCAF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.7.0:beta1:*:*:free:wordpress:*:*",
+			"cpeNameId": "66548463-1041-42F8-9D44-E1DD4442940C"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.7.0:beta2:*:*:*:wordpress:*:*",
 			"cpeNameId": "84BB2087-E300-40A8-85E7-B61D26CE2836"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.7.0:beta2:*:*:free:wordpress:*:*",
+			"cpeNameId": "CF11129C-F782-4FDD-B452-87F864610CC9"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.7.0:rc1:*:*:*:wordpress:*:*",
 			"cpeNameId": "7BADE834-121E-4ED8-9648-91EA78761279"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.7.0:rc1:*:*:free:wordpress:*:*",
+			"cpeNameId": "0D485290-BF22-4127-A6C1-ACEFDCA2FA7B"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.7.1:-:*:*:*:wordpress:*:*",
 			"cpeNameId": "17DEAE62-CEFC-4941-A4FF-70D13A2EC876"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.7.1:-:*:*:free:wordpress:*:*",
+			"cpeNameId": "B0418330-BA96-4325-BFD8-63D316C3E665"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.7.1:beta1:*:*:*:wordpress:*:*",
 			"cpeNameId": "497F43F7-2FFE-4947-936B-C945F9A35065"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.7.1:beta1:*:*:free:wordpress:*:*",
+			"cpeNameId": "2E6B7CE1-728A-401F-AACD-D68F37A56985"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.7.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "4DCA341F-1B41-4C2A-BBDA-77664BB52ED4"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.7.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "4EFED4BA-D233-4729-BF9C-DE8E95AEB8E7"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.8.0:-:*:*:*:wordpress:*:*",
 			"cpeNameId": "605BCFAC-0781-4C69-BC35-503FCF476CD0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.8.0:-:*:*:free:wordpress:*:*",
+			"cpeNameId": "1751E2F2-3675-45F3-A248-81B942237C43"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.8.0:beta1:*:*:*:wordpress:*:*",
 			"cpeNameId": "B74A911C-CFC9-4BE3-B0D9-8C35D4BD4043"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.8.0:beta1:*:*:free:wordpress:*:*",
+			"cpeNameId": "F3B8AEC2-6A3C-4188-B6C2-FF8F727CC6ED"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.8.0:rc1:*:*:*:wordpress:*:*",
 			"cpeNameId": "AB58EDCD-6248-423E-89DC-4C1B530A744A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.8.0:rc1:*:*:free:wordpress:*:*",
+			"cpeNameId": "979FDF1B-B3E0-4172-801C-BDE8466EF1B8"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.8.0:rc2:*:*:*:wordpress:*:*",
 			"cpeNameId": "68FEA90F-3332-4B19-AFD0-ED5E733EBC0F"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.8.0:rc2:*:*:free:wordpress:*:*",
+			"cpeNameId": "A20F021E-80C9-49D9-968B-652812F798F5"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.8.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "E8114E88-6AE0-4B72-A717-DDAA66698FEC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.8.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "08A2A282-BCD2-459E-A42A-D011644A9F73"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.9.0:-:*:*:*:wordpress:*:*",
 			"cpeNameId": "CB5AC4A6-4E11-4FC4-8A5D-67AEA4870B73"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.9.0:-:*:*:free:wordpress:*:*",
+			"cpeNameId": "3FA42B8C-4B5A-4FAF-883C-6741D80CEDA2"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.9.0:beta1:*:*:*:wordpress:*:*",
 			"cpeNameId": "9A771DC6-C49C-4564-A501-5FA8BD442ADB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.9.0:beta1:*:*:free:wordpress:*:*",
+			"cpeNameId": "CBA2805D-2B49-4398-9280-97C774897827"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.9.0:rc1:*:*:*:wordpress:*:*",
 			"cpeNameId": "0BDB37B4-FE5C-405D-8C4B-9224F39B5791"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.9.0:rc1:*:*:free:wordpress:*:*",
+			"cpeNameId": "43422B7A-7ECE-4123-9E87-F602EA5FA738"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.9.0:rc2:*:*:*:wordpress:*:*",
 			"cpeNameId": "4D854C25-F574-4FAF-A662-EB2B22EB182C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.9.0:rc2:*:*:free:wordpress:*:*",
+			"cpeNameId": "B80D6CFB-44F4-4C06-B8D3-47BB3462711D"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.9.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "5E7EC28B-BB8D-4978-82BE-5631FDFACF5C"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.9.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "405DEA92-38EF-44F9-99EE-55F9531E1FD3"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.9.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "8D6A425A-60A7-496F-93A8-4918E74712F8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.9.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "8A488174-40AF-4A48-88A0-036CBD81120E"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.9.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "FFC6DC37-DE51-4B6B-BEDB-91DE5F8807C2"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.9.3:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "30B90C78-D40A-4CAA-8CD3-C03CC12D3AC8"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.0.0:-:*:*:*:wordpress:*:*",
 			"cpeNameId": "D8013446-C046-4286-8BAB-69737996DF82"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.0.0:-:*:*:free:wordpress:*:*",
+			"cpeNameId": "14FABB7B-E60C-4A39-919F-B4197C6FC1B2"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.0.0:beta1:*:*:*:wordpress:*:*",
 			"cpeNameId": "916EBDA5-C87B-4C6F-B1FC-9E5AE6729640"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.0.0:beta1:*:*:free:wordpress:*:*",
+			"cpeNameId": "703C3414-0111-44AD-9A74-2B808497C388"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.0.0:beta2:*:*:*:wordpress:*:*",
 			"cpeNameId": "BD18D863-B11D-4125-9C4A-2799F2C28A46"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.0.0:beta2:*:*:free:wordpress:*:*",
+			"cpeNameId": "8E74EDC0-4133-4505-97A4-6CF021442B65"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.0.0:rc1:*:*:*:wordpress:*:*",
 			"cpeNameId": "B7A723C7-6389-4A50-A3A9-54E5462369B5"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.0.0:rc1:*:*:free:wordpress:*:*",
+			"cpeNameId": "E47C145F-B19C-4D9A-AFA0-88FA562FEE02"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.0.0:rc2:*:*:*:wordpress:*:*",
 			"cpeNameId": "046F3EAD-E2C4-4C7F-BFD1-A9558B4D84C7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.0.0:rc2:*:*:free:wordpress:*:*",
+			"cpeNameId": "B9223484-8F4D-413D-B99B-B7CDB6BDD24B"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.0.0:rc3:*:*:*:wordpress:*:*",
 			"cpeNameId": "B52E2239-56E4-43BA-A868-C499EDEEB448"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.0.0:rc3:*:*:free:wordpress:*:*",
+			"cpeNameId": "4DD2BB6A-9004-4EA6-A779-5E38D5B72AF4"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.0.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "A0977C08-7503-42CC-9073-308ABDC18501"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.0.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "15DBBC67-8BAC-4038-9E86-F57D95ED2C8D"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.1.0:-:*:*:*:wordpress:*:*",
 			"cpeNameId": "25C39AA9-79B1-4417-AB78-00ECC48DB5E8"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.1.0:-:*:*:free:wordpress:*:*",
+			"cpeNameId": "FE99E830-180A-4A45-AFDD-74F6A926E323"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.1.0:beta1:*:*:*:wordpress:*:*",
 			"cpeNameId": "9E418877-2F58-44D3-BAA9-5597A1CE7F23"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.1.0:beta1:*:*:free:wordpress:*:*",
+			"cpeNameId": "417D3B21-0920-461B-AF36-FC66DC6C8BC9"
 		},
 		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.1.0:rc1:*:*:*:wordpress:*:*",
 			"cpeNameId": "1B9B1F24-4C06-40F8-9392-244A9EA3ACC1"
 		},
 		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.1.0:rc1:*:*:free:wordpress:*:*",
+			"cpeNameId": "AA4F7456-05D1-43BE-81D3-65624E7721B2"
+		},
+		{
 			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.1.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "50DAD68F-F5B4-481C-8DA8-3F20BE6E7F34"
+		},
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.1.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "834832E5-0436-4238-A36F-A76F7337DE1A"
 		}
 	]
 }

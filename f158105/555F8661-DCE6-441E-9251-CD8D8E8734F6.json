@@ -3,8 +3,8 @@
 	"matchCriteriaId": "555F8661-DCE6-441E-9251-CD8D8E8734F6",
 	"versionEndExcluding": "2.2.0",
 	"created": "2024-10-10T14:02:45.567",
-	"lastModified": "2024-10-10T14:02:45.567",
-	"cpeLastModified": "2024-10-10T14:02:45.567",
+	"lastModified": "2024-10-17T14:14:55.803",
+	"cpeLastModified": "2024-10-17T14:14:55.803",
 	"status": "Active",
 	"matches": [
 		{
@@ -960,6 +960,22 @@
 			"cpeNameId": "8D16C706-D903-43F3-AB24-E5E7AF24D80C"
 		},
 		{
+			"cpeName": "cpe:2.3:o:redhat:389_directory_server:1.4.3.20:*:*:*:*:*:*:*",
+			"cpeNameId": "3F1755AC-07C3-4B6D-BFA6-80A1211CA985"
+		},
+		{
+			"cpeName": "cpe:2.3:o:redhat:389_directory_server:1.4.3.21:*:*:*:*:*:*:*",
+			"cpeNameId": "2B8414C9-D4B4-4B6B-BAAB-77A9569B6CF6"
+		},
+		{
+			"cpeName": "cpe:2.3:o:redhat:389_directory_server:1.4.3.22:*:*:*:*:*:*:*",
+			"cpeNameId": "8DE7C46C-B152-4C12-9DDA-F671EAC7C8D6"
+		},
+		{
+			"cpeName": "cpe:2.3:o:redhat:389_directory_server:1.4.3.23:*:*:*:*:*:*:*",
+			"cpeNameId": "1D30799F-C6D7-4226-833B-A520226452E8"
+		},
+		{
 			"cpeName": "cpe:2.3:o:redhat:389_directory_server:1.4.4.0:*:*:*:*:*:*:*",
 			"cpeNameId": "E0D39AB3-1B35-4CB3-8C34-320105D3E7E5"
 		},
@@ -1062,6 +1078,86 @@
 		{
 			"cpeName": "cpe:2.3:o:redhat:389_directory_server:2.0.7:*:*:*:*:*:*:*",
 			"cpeNameId": "4241EB3E-43DB-43EF-B21B-2754FD35EDC9"
+		},
+		{
+			"cpeName": "cpe:2.3:o:redhat:389_directory_server:2.0.8:*:*:*:*:*:*:*",
+			"cpeNameId": "EB9E500B-0B84-4404-A8E5-914FCAD02EE0"
+		},
+		{
+			"cpeName": "cpe:2.3:o:redhat:389_directory_server:2.0.9:*:*:*:*:*:*:*",
+			"cpeNameId": "CB117C71-7399-45C2-A9E2-E65F6254533D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:redhat:389_directory_server:2.0.10:*:*:*:*:*:*:*",
+			"cpeNameId": "F5960AB6-A95A-4604-B583-DD6B09FC4F5A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:redhat:389_directory_server:2.0.11:*:*:*:*:*:*:*",
+			"cpeNameId": "C4864DCC-1956-4C4E-B15D-49B6371359B9"
+		},
+		{
+			"cpeName": "cpe:2.3:o:redhat:389_directory_server:2.0.12:*:*:*:*:*:*:*",
+			"cpeNameId": "C98D2121-73F4-4FD2-92AF-E6D9311D484F"
+		},
+		{
+			"cpeName": "cpe:2.3:o:redhat:389_directory_server:2.0.13:*:*:*:*:*:*:*",
+			"cpeNameId": "7F08906D-0B35-43AB-A13A-125FA63585DD"
+		},
+		{
+			"cpeName": "cpe:2.3:o:redhat:389_directory_server:2.0.14:*:*:*:*:*:*:*",
+			"cpeNameId": "4398889A-7921-4281-A101-07E710135958"
+		},
+		{
+			"cpeName": "cpe:2.3:o:redhat:389_directory_server:2.0.15:*:*:*:*:*:*:*",
+			"cpeNameId": "3F874481-C68D-490E-A4A7-815BF16DBB5B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:redhat:389_directory_server:2.0.16:*:*:*:*:*:*:*",
+			"cpeNameId": "15CEDE31-4DE4-4942-8D7F-43A3BFEC9A7C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:redhat:389_directory_server:2.0.17:*:*:*:*:*:*:*",
+			"cpeNameId": "3EA4168C-1D0E-4EFA-A0B0-EC55EE3E3A0D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:redhat:389_directory_server:2.0.20:*:*:*:*:*:*:*",
+			"cpeNameId": "46F935B4-08B1-4F9A-BEED-076DE256C3B2"
+		},
+		{
+			"cpeName": "cpe:2.3:o:redhat:389_directory_server:2.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "064337B8-D6D1-4607-B377-659E1A4F7F44"
+		},
+		{
+			"cpeName": "cpe:2.3:o:redhat:389_directory_server:2.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "73D28647-59A5-4E60-A713-878AE3635142"
+		},
+		{
+			"cpeName": "cpe:2.3:o:redhat:389_directory_server:2.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "420198D9-183A-47C3-A1E3-2C51C647EAC3"
+		},
+		{
+			"cpeName": "cpe:2.3:o:redhat:389_directory_server:2.1.3:*:*:*:*:*:*:*",
+			"cpeNameId": "22DDB383-EEDB-4C20-AC65-2D98CFDCF207"
+		},
+		{
+			"cpeName": "cpe:2.3:o:redhat:389_directory_server:2.1.4:*:*:*:*:*:*:*",
+			"cpeNameId": "171C071C-94A5-42A1-8C01-988EA8A1E934"
+		},
+		{
+			"cpeName": "cpe:2.3:o:redhat:389_directory_server:2.1.5:*:*:*:*:*:*:*",
+			"cpeNameId": "97072BF2-CB3C-44CF-B288-6B82B61EFA9F"
+		},
+		{
+			"cpeName": "cpe:2.3:o:redhat:389_directory_server:2.1.6:*:*:*:*:*:*:*",
+			"cpeNameId": "775F3671-3E0F-4610-8941-37A504D0A9B9"
+		},
+		{
+			"cpeName": "cpe:2.3:o:redhat:389_directory_server:2.1.8:*:*:*:*:*:*:*",
+			"cpeNameId": "EFFD9C0F-D85A-4E01-93F9-52952691756F"
+		},
+		{
+			"cpeName": "cpe:2.3:o:redhat:389_directory_server:2.1.9:*:*:*:*:*:*:*",
+			"cpeNameId": "FB27BCB2-2447-41CC-8220-6B87B73A3894"
 		}
 	]
 }

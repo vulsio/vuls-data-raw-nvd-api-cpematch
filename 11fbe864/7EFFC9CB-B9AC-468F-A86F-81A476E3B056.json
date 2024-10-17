@@ -5,12 +5,16 @@
 	"versionEndExcluding": "7.2.1",
 	"created": "2020-01-30T23:56:50.377",
 	"lastModified": "2020-01-30T23:56:50.377",
-	"cpeLastModified": "2020-08-18T17:13:00.893",
+	"cpeLastModified": "2024-10-17T14:10:07.187",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:o:cisco:ios_xr:7.2.0:*:*:*:*:*:*:*",
 			"cpeNameId": "DDEF7C58-B593-4081-A4C8-574B357019C6"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios_xr:7.2.0:*:*:*:*:*:x64:*",
+			"cpeNameId": "742AAA20-D213-4631-970F-3B84EE2AD0DE"
 		}
 	]
 }

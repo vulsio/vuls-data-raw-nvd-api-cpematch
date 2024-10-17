@@ -4,8 +4,8 @@
 	"versionStartIncluding": "5.0.0",
 	"versionEndIncluding": "5.15.2",
 	"created": "2024-08-23T02:28:37.510",
-	"lastModified": "2024-08-23T02:34:37.883",
-	"cpeLastModified": "2024-08-23T02:28:37.510",
+	"lastModified": "2024-10-17T13:06:24.783",
+	"cpeLastModified": "2024-10-17T13:06:24.783",
 	"status": "Active",
 	"matches": [
 		{
@@ -47,6 +47,10 @@
 		{
 			"cpeName": "cpe:2.3:a:cybozu:garoon:5.15.1:*:*:*:*:*:*:*",
 			"cpeNameId": "49215CE8-B951-465F-B62A-3A5D03D8724A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cybozu:garoon:5.15.2:*:*:*:*:*:*:*",
+			"cpeNameId": "9B10E2ED-5048-4B5D-B099-71AACF06AAC8"
 		}
 	]
 }

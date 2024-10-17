@@ -3,8 +3,8 @@
 	"matchCriteriaId": "8CC556B7-656B-48C5-BF04-F96422CAD4C8",
 	"versionEndIncluding": "7.5.13",
 	"created": "2024-10-10T13:27:54.913",
-	"lastModified": "2024-10-10T13:27:54.913",
-	"cpeLastModified": "2024-10-10T16:59:03.067",
+	"lastModified": "2024-10-17T14:04:12.910",
+	"cpeLastModified": "2024-10-17T14:04:12.910",
 	"status": "Active",
 	"matches": [
 		{
@@ -514,6 +514,54 @@
 		{
 			"cpeName": "cpe:2.3:a:ylefebvre:link_library:7.5.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "60B425D4-5CEF-4F1B-9EE2-B2F39AC817B7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ylefebvre:link_library:7.5.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A943784F-22A1-428F-82F2-5B2B150EB313"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ylefebvre:link_library:7.5.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "39826496-8960-4C8B-9C9C-19565A9BEAD5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ylefebvre:link_library:7.5.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E45A5064-4DE0-4307-A59A-A49E1FD7522B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ylefebvre:link_library:7.5.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7653A748-831A-4851-AECE-E2566BEECF94"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ylefebvre:link_library:7.5.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "486A6FB7-09C4-4046-A6B9-5579F2AB99D1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ylefebvre:link_library:7.5.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F950E95D-A151-4048-BD88-C1C1C6A115CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ylefebvre:link_library:7.5.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2FE1DBF3-51BB-4642-A073-9B34A44CCAF3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ylefebvre:link_library:7.5.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7085F517-DCFD-41E0-AD19-CCA603F49DAB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ylefebvre:link_library:7.5.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B5157D70-880B-4DF7-A0A5-1D06E51D7427"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ylefebvre:link_library:7.5.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AA8DC288-5A04-4CE7-BD81-8495AD195D33"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ylefebvre:link_library:7.5.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1DB703C1-4E8B-43E8-A019-42B8BBF3AEF9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ylefebvre:link_library:7.5.13:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C07381F4-34F5-4F1F-90A3-AC183DB0C7F5"
 		}
 	]
 }

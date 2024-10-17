@@ -3,10 +3,14 @@
 	"matchCriteriaId": "C0C41343-E02F-4FD7-A270-FDB27E36AC85",
 	"versionEndExcluding": "6.5.6",
 	"created": "2024-10-15T14:06:59.370",
-	"lastModified": "2024-10-15T14:06:59.370",
-	"cpeLastModified": "2024-10-16T13:45:15.620",
+	"lastModified": "2024-10-17T13:34:08.147",
+	"cpeLastModified": "2024-10-17T13:34:08.147",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:indutny:elliptic:-:*:*:*:*:node.js:*:*",
+			"cpeNameId": "8862A704-54FA-43F6-A296-D35E6340E478"
+		},
 		{
 			"cpeName": "cpe:2.3:a:indutny:elliptic:0.1.0:*:*:*:*:node.js:*:*",
 			"cpeNameId": "63804BD2-3D1E-427F-9DDD-8AC620EA4BAF"
@@ -346,6 +350,10 @@
 		{
 			"cpeName": "cpe:2.3:a:indutny:elliptic:6.5.4:*:*:*:*:node.js:*:*",
 			"cpeNameId": "369BA9E4-61BD-45AC-8583-2902BC1E838D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:indutny:elliptic:6.5.5:*:*:*:*:node.js:*:*",
+			"cpeNameId": "070DDA10-7C39-4D9C-A480-E12A0B821EFF"
 		}
 	]
 }

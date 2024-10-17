@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:cervantessec:cervantes:0.3:alpha:*:*:*:*:*:*",
 	"matchCriteriaId": "42E46CBB-A967-4EC5-9A4F-A4947893E7DA",
 	"created": "2024-08-29T18:10:03.353",
-	"lastModified": "2024-08-29T18:10:03.353",
-	"cpeLastModified": "2024-08-29T18:10:03.353",
-	"status": "Active"
+	"lastModified": "2024-10-17T13:06:24.783",
+	"cpeLastModified": "2024-10-17T13:06:24.783",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cervantessec:cervantes:0.3:alpha:*:*:*:*:*:*",
+			"cpeNameId": "D65E75EA-A68C-4E7B-8F69-ED52CAD264F1"
+		}
+	]
 }

@@ -4,9 +4,13 @@
 	"versionEndExcluding": "6.5.4",
 	"created": "2024-10-16T13:45:17.320",
 	"lastModified": "2024-10-16T13:45:17.320",
-	"cpeLastModified": "2024-10-16T13:45:17.320",
+	"cpeLastModified": "2024-10-17T13:34:08.147",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:indutny:elliptic:-:*:*:*:*:node.js:*:*",
+			"cpeNameId": "8862A704-54FA-43F6-A296-D35E6340E478"
+		},
 		{
 			"cpeName": "cpe:2.3:a:indutny:elliptic:0.1.0:*:*:*:*:node.js:*:*",
 			"cpeNameId": "63804BD2-3D1E-427F-9DDD-8AC620EA4BAF"

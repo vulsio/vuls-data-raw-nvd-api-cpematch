@@ -4,7 +4,7 @@
 	"versionEndExcluding": "127.0.2651.98",
 	"created": "2024-08-13T16:36:35.130",
 	"lastModified": "2024-08-13T16:36:35.130",
-	"cpeLastModified": "2024-08-13T16:36:35.130",
+	"cpeLastModified": "2024-10-17T13:35:55.480",
 	"status": "Active",
 	"matches": [
 		{
@@ -538,6 +538,10 @@
 		{
 			"cpeName": "cpe:2.3:a:microsoft:edge_chromium:121.0.2277.98:*:*:*:*:*:*:*",
 			"cpeNameId": "C411E408-DB57-4AF0-8627-880E5E1C5CCF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:edge_chromium:126.0.2592.81:*:*:*:*:*:*:*",
+			"cpeNameId": "13D8BDB8-B3C9-486C-9F16-0664D4E4AE6D"
 		}
 	]
 }

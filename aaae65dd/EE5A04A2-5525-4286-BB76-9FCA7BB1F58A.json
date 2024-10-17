@@ -3,7 +3,13 @@
 	"matchCriteriaId": "EE5A04A2-5525-4286-BB76-9FCA7BB1F58A",
 	"versionEndExcluding": "1.8.3",
 	"created": "2024-08-20T13:25:28.680",
-	"lastModified": "2024-08-20T13:25:28.680",
-	"cpeLastModified": "2024-08-20T13:25:28.680",
-	"status": "Active"
+	"lastModified": "2024-10-17T14:18:24.217",
+	"cpeLastModified": "2024-10-17T14:18:24.217",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:xc_core_xc7625_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9B8A8DB6-F226-457D-A233-9A58A5535E20"
+		}
+	]
 }

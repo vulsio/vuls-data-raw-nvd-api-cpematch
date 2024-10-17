@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:cisco:n9k-c93120tx:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "018DEE0B-F3BC-4D3F-B2E4-2FF40203E65F",
 	"created": "2021-08-30T15:10:45.183",
-	"lastModified": "2021-08-30T15:10:45.183",
-	"cpeLastModified": "2021-09-21T16:55:44.317",
-	"status": "Inactive"
+	"lastModified": "2024-10-17T14:16:22.163",
+	"cpeLastModified": "2024-10-17T14:16:22.163",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:cisco:n9k-c93120tx:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2FE3A8E3-695C-435A-AC9E-140B8C79C720"
+		}
+	]
 }

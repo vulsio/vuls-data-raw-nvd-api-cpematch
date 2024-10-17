@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:cisco:rv042_firmware:1.5.1.05:*:*:*:*:*:*:*",
 	"matchCriteriaId": "88DE2217-2A37-41D2-ADFE-6648969C676A",
 	"created": "2024-10-08T13:42:01.870",
-	"lastModified": "2024-10-08T13:42:01.870",
-	"cpeLastModified": "2024-10-08T13:42:01.870",
-	"status": "Active"
+	"lastModified": "2024-10-17T14:10:07.187",
+	"cpeLastModified": "2024-10-17T14:10:07.187",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:rv042_firmware:1.5.1.05:*:*:*:*:*:*:*",
+			"cpeNameId": "73BF0F00-1922-4AED-AAEE-6DFABAACC51C"
+		}
+	]
 }

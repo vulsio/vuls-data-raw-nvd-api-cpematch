@@ -4,7 +4,7 @@
 	"versionEndIncluding": "23.05.00",
 	"created": "2024-08-12T15:35:53.100",
 	"lastModified": "2024-08-12T15:35:53.100",
-	"cpeLastModified": "2024-08-12T15:35:53.100",
+	"cpeLastModified": "2024-10-17T13:17:53.073",
 	"status": "Active",
 	"matches": [
 		{
@@ -1340,6 +1340,18 @@
 			"cpeNameId": "E61E0422-BC86-4C7B-8617-975916BDC0EA"
 		},
 		{
+			"cpeName": "cpe:2.3:a:koha:koha:18.11.14:*:*:*:*:*:*:*",
+			"cpeNameId": "C0BC4EC0-6636-4376-B996-F611DA8770C9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:18.11.15:*:*:*:*:*:*:*",
+			"cpeNameId": "34F4F281-2CF8-4ED1-B7D6-160D6EC0DC83"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:18.11.16:*:*:*:*:*:*:*",
+			"cpeNameId": "ED22F776-B4B9-4149-A85E-FEA695321354"
+		},
+		{
 			"cpeName": "cpe:2.3:a:koha:koha:19.05.00:*:*:*:*:*:*:*",
 			"cpeNameId": "36267EC5-C3BB-4412-A84F-86862A982B4F"
 		},
@@ -1374,6 +1386,46 @@
 		{
 			"cpeName": "cpe:2.3:a:koha:koha:19.05.07:*:*:*:*:*:*:*",
 			"cpeNameId": "CFB00AC4-0BC3-41BA-8153-15351CEDFE14"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:19.05.08:*:*:*:*:*:*:*",
+			"cpeNameId": "7B6035BC-78DD-4431-8002-5EC3AE8360BE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:19.05.09:*:*:*:*:*:*:*",
+			"cpeNameId": "BD2FFDE9-376A-4965-BC5B-965EF671AF73"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:19.05.10:*:*:*:*:*:*:*",
+			"cpeNameId": "83A4845C-38FF-44C3-9887-F295DB32239B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:19.05.11:*:*:*:*:*:*:*",
+			"cpeNameId": "704EBFBB-DA0C-44BE-B4AB-7A4466CA507B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:19.05.12:*:*:*:*:*:*:*",
+			"cpeNameId": "F053CDDC-4EE5-4A61-8462-99BA272D8A40"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:19.05.13:*:*:*:*:*:*:*",
+			"cpeNameId": "36D97339-854D-4D8D-B9D4-B634D42D3F8D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:19.05.14:*:*:*:*:*:*:*",
+			"cpeNameId": "7490DAA2-F960-4BE6-8232-13DEEDB77CCF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:19.05.15:*:*:*:*:*:*:*",
+			"cpeNameId": "B166E466-EF40-4C68-9D8A-64D43CDF2BED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:19.05.16:*:*:*:*:*:*:*",
+			"cpeNameId": "5E36F0BB-F76B-47B2-B0A3-D90974ED6E42"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:19.05.17:*:*:*:*:*:*:*",
+			"cpeNameId": "AEAF5685-8E7E-46B1-8769-A08941DE0660"
 		},
 		{
 			"cpeName": "cpe:2.3:a:koha:koha:19.11.00:*:*:*:*:*:*:*",
@@ -1856,6 +1908,18 @@
 			"cpeNameId": "7168AFED-820D-4C7A-87B1-8FDB106494AA"
 		},
 		{
+			"cpeName": "cpe:2.3:a:koha:koha:21.11.24:*:*:*:*:*:*:*",
+			"cpeNameId": "2DB9A0CD-EAED-45EA-A7E7-B1E15EB192D1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:21.11.25:*:*:*:*:*:*:*",
+			"cpeNameId": "85C1E012-F3CD-48D6-996E-19EE56E8931B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:21.11.26:*:*:*:*:*:*:*",
+			"cpeNameId": "D076FF5D-3095-4401-B870-ECCC9CD76655"
+		},
+		{
 			"cpeName": "cpe:2.3:a:koha:koha:22.05.00:*:*:*:*:*:*:*",
 			"cpeNameId": "8B793F1D-C24A-4B14-A531-0CB161FC17F4"
 		},
@@ -1928,6 +1992,38 @@
 			"cpeNameId": "9074EB26-85AD-4113-B84D-54C023C287A6"
 		},
 		{
+			"cpeName": "cpe:2.3:a:koha:koha:22.05.16:*:*:*:*:*:*:*",
+			"cpeNameId": "C7CE168C-AE15-49B7-9745-E2DE2A3308A3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:22.05.17:*:*:*:*:*:*:*",
+			"cpeNameId": "68487BF7-32D3-4C69-A35D-505BD43C53E7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:22.05.18:*:*:*:*:*:*:*",
+			"cpeNameId": "A0A3BD78-DD6A-4E2B-9539-B4DFA2662955"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:22.05.19:*:*:*:*:*:*:*",
+			"cpeNameId": "26675E1D-6668-4AC6-8CC1-804EDD2473A5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:22.05.20:*:*:*:*:*:*:*",
+			"cpeNameId": "0D4A01EA-051D-4217-A322-86909F9DF5EB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:22.05.20-2:*:*:*:*:*:*:*",
+			"cpeNameId": "CF4A837B-8A77-4E39-8C17-7EF6171570B3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:22.05.21:*:*:*:*:*:*:*",
+			"cpeNameId": "37B296F4-1B35-47B2-81DA-133CFFC5724E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:22.05.22:*:*:*:*:*:*:*",
+			"cpeNameId": "6E109B86-DF70-4E2D-9167-4FEC90B56D72"
+		},
+		{
 			"cpeName": "cpe:2.3:a:koha:koha:22.11.00:*:*:*:*:*:*:*",
 			"cpeNameId": "38318F8F-0365-4D37-BB0F-77BC90F4D4F7"
 		},
@@ -1970,6 +2066,66 @@
 		{
 			"cpeName": "cpe:2.3:a:koha:koha:22.11.09:*:*:*:*:*:*:*",
 			"cpeNameId": "A9F0A30B-D557-4141-B96C-40B1062C0C53"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:22.11.10:*:*:*:*:*:*:*",
+			"cpeNameId": "6005658E-7DAD-478D-8D87-B63EAB5BF946"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:22.11.11:*:*:*:*:*:*:*",
+			"cpeNameId": "3E0B702B-4404-4A43-B72B-FF2928B44BB7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:22.11.12:*:*:*:*:*:*:*",
+			"cpeNameId": "26F8D838-50DB-4122-81C7-9F7860335B55"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:22.11.13:*:*:*:*:*:*:*",
+			"cpeNameId": "C487A89E-876F-40BE-B1E9-96C4A9624234"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:22.11.14:*:*:*:*:*:*:*",
+			"cpeNameId": "CCDE7C81-8972-4B79-B3A3-3095D3E0476D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:22.11.15:*:*:*:*:*:*:*",
+			"cpeNameId": "51DF0118-7D23-41B8-A11D-2332B8FEC43E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:22.11.15-1:*:*:*:*:*:*:*",
+			"cpeNameId": "76E3C07E-CE3D-4821-B23F-B05FCB4E5798"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:22.11.16:*:*:*:*:*:*:*",
+			"cpeNameId": "CC6C8464-208C-4A61-8C5A-F4251F245BD8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:22.11.16-1:*:*:*:*:*:*:*",
+			"cpeNameId": "448392EB-D2F4-4E61-9692-CDD23F18C725"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:22.11.17:*:*:*:*:*:*:*",
+			"cpeNameId": "1E3DD2CE-9B09-4BA0-985D-66F10FE3CC4A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:22.11.18:*:*:*:*:*:*:*",
+			"cpeNameId": "C1113216-3C85-464E-B596-4854B6A9ABEF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:22.11.19:*:*:*:*:*:*:*",
+			"cpeNameId": "C042C160-EAB0-4CFC-8F5F-9DA5A14E331C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:22.11.20:*:*:*:*:*:*:*",
+			"cpeNameId": "6550EA21-D0C4-48C9-91A8-B90189BD5506"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:22.11.20-2:*:*:*:*:*:*:*",
+			"cpeNameId": "25663826-81FD-44E7-B908-F3B953E186D9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:koha:koha:22.11.21:*:*:*:*:*:*:*",
+			"cpeNameId": "D46BBCED-93DB-42F0-BEDC-C23FCE02C9B5"
 		},
 		{
 			"cpeName": "cpe:2.3:a:koha:koha:23.05.00:*:*:*:*:*:*:*",

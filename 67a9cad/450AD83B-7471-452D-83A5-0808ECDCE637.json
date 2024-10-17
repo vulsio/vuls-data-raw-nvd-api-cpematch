@@ -3,8 +3,8 @@
 	"matchCriteriaId": "450AD83B-7471-452D-83A5-0808ECDCE637",
 	"versionEndExcluding": "1.0.13",
 	"created": "2024-10-07T15:30:12.897",
-	"lastModified": "2024-10-07T15:30:12.897",
-	"cpeLastModified": "2024-10-07T15:30:12.897",
+	"lastModified": "2024-10-17T13:08:49.560",
+	"cpeLastModified": "2024-10-17T13:08:49.560",
 	"status": "Active",
 	"matches": [
 		{
@@ -42,6 +42,30 @@
 		{
 			"cpeName": "cpe:2.3:a:hcltech:hcl_nomad:1.0.8:*:*:*:*:-:*:*",
 			"cpeNameId": "7090DF1A-E2CF-4F26-AAC2-DBDC4FD7AA51"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hcltech:hcl_nomad:1.0.9:*:*:*:*:-:*:*",
+			"cpeNameId": "DC92CB82-1E01-4693-A6A8-24615BEA1AE8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hcltech:hcl_nomad:1.0.10:-:*:*:*:-:*:*",
+			"cpeNameId": "7792DD58-E7EC-4231-9512-18F0AF92D89A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hcltech:hcl_nomad:1.0.10:if1:*:*:*:-:*:*",
+			"cpeNameId": "6D331725-C77D-4BB3-A094-34911D2E09B9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hcltech:hcl_nomad:1.0.11:*:*:*:*:-:*:*",
+			"cpeNameId": "E8258487-3F60-492E-9C61-68496455A6C6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hcltech:hcl_nomad:1.0.12:-:*:*:*:-:*:*",
+			"cpeNameId": "EA336C2D-D2A1-4936-93E4-2CDEB5FEF717"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hcltech:hcl_nomad:1.0.12:if1:*:*:*:-:*:*",
+			"cpeNameId": "96304A4B-D601-4773-9A24-5CF5E22CBB1C"
 		}
 	]
 }
