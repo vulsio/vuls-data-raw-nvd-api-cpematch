@@ -4,7 +4,7 @@
 	"versionEndExcluding": "81.0",
 	"created": "2020-10-02T04:45:19.697",
 	"lastModified": "2020-10-02T04:45:19.697",
-	"cpeLastModified": "2024-08-01T16:18:02.040",
+	"cpeLastModified": "2024-10-16T20:07:01.913",
 	"status": "Active",
 	"matches": [
 		{
@@ -1896,6 +1896,10 @@
 			"cpeNameId": "2F84FDE7-1B19-4558-85E8-5AFA7ADE87E6"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:67.0.1:*:*:*:-:*:*:*",
+			"cpeNameId": "1365D3DF-42AD-4A56-9433-88076213FC95"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:67.0.2:*:*:*:*:*:*:*",
 			"cpeNameId": "91B5E712-C808-4943-89DD-6B5910E25873"
 		},
@@ -2046,6 +2050,10 @@
 		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:80.0:*:*:*:android:*:*:*",
 			"cpeNameId": "5E2B1AC0-5AEE-486E-8C22-49D4139B8FDE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:80.0.1:*:*:*:-:*:*:*",
+			"cpeNameId": "7119FA71-3836-46DC-85F7-48AA6BC933C7"
 		}
 	]
 }
