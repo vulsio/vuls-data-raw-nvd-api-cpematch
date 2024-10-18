@@ -5,6 +5,16 @@
 	"versionEndIncluding": "12.2.0.13489",
 	"created": "2024-08-16T14:25:30.050",
 	"lastModified": "2024-08-16T14:25:30.050",
-	"cpeLastModified": "2024-08-16T14:25:30.050",
-	"status": "Active"
+	"cpeLastModified": "2024-10-18T18:06:27.320",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:kingsoft:wps_office:12.2.0.13110:*:*:*:*:*:*:*",
+			"cpeNameId": "109177B7-B783-4F25-B711-20FDB4BB48B1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:kingsoft:wps_office:12.2.0.13489:*:*:*:*:*:*:*",
+			"cpeNameId": "79BED463-8B14-41DC-884F-FEAD9B6F9EDF"
+		}
+	]
 }

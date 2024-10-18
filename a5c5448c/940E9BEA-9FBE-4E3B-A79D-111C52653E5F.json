@@ -5,6 +5,12 @@
 	"versionEndExcluding": "555.99",
 	"created": "2024-08-13T20:13:41.780",
 	"lastModified": "2024-08-13T20:13:41.780",
-	"cpeLastModified": "2024-08-13T20:13:41.780",
-	"status": "Active"
+	"cpeLastModified": "2024-10-18T13:08:26.440",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:nvidia:gpu_display_driver:555:*:*:*:*:windows:*:*",
+			"cpeNameId": "F98BF068-AFC0-4C2A-9CE2-B15D26412253"
+		}
+	]
 }

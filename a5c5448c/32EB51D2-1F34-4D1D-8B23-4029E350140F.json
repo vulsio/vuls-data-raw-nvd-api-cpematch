@@ -4,8 +4,8 @@
 	"versionStartIncluding": "470",
 	"versionEndExcluding": "475.06",
 	"created": "2024-08-13T20:13:41.780",
-	"lastModified": "2024-08-13T20:13:41.780",
-	"cpeLastModified": "2024-08-13T20:13:41.780",
+	"lastModified": "2024-10-18T13:08:26.440",
+	"cpeLastModified": "2024-10-18T13:08:26.440",
 	"status": "Active",
 	"matches": [
 		{
@@ -63,6 +63,18 @@
 		{
 			"cpeName": "cpe:2.3:a:nvidia:gpu_display_driver:474.30:*:*:*:*:windows:*:*",
 			"cpeNameId": "B7A3A0B1-44E9-4971-807D-B1E8AA3C647C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nvidia:gpu_display_driver:474.44:*:*:*:*:windows:*:*",
+			"cpeNameId": "B3914C93-C9B8-484F-BC6D-16C5FA74BC62"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nvidia:gpu_display_driver:474.64:*:*:*:*:windows:*:*",
+			"cpeNameId": "A0D31DCE-E12A-4F5C-9D00-7E635FB0B37F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nvidia:gpu_display_driver:474.82:*:*:*:*:windows:*:*",
+			"cpeNameId": "8E9629CA-408C-41C4-9665-18DBF303D2C8"
 		}
 	]
 }

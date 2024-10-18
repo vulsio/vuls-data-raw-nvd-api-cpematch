@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.10.6:patch_release_6255:*:*:*:*:*:*",
 	"matchCriteriaId": "8C1DE547-F217-4518-AD90-3607AE21F6ED",
 	"created": "2024-10-17T16:22:38.073",
-	"lastModified": "2024-10-17T16:22:38.073",
-	"cpeLastModified": "2024-10-17T16:22:38.073",
-	"status": "Active"
+	"lastModified": "2024-10-18T13:21:32.573",
+	"cpeLastModified": "2024-10-18T13:21:32.573",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.10.6:patch_release_6255:*:*:*:*:*:*",
+			"cpeNameId": "75DF4A45-4711-4082-B1DD-D2E03D1D3E2B"
+		}
+	]
 }

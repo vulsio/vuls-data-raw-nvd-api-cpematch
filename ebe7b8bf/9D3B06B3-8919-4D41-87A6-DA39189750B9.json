@@ -4,7 +4,7 @@
 	"versionEndExcluding": "7.10.5",
 	"created": "2022-12-30T14:54:44.573",
 	"lastModified": "2023-07-24T19:52:31.487",
-	"cpeLastModified": "2022-12-30T14:54:44.573",
+	"cpeLastModified": "2024-10-18T13:21:32.573",
 	"status": "Active",
 	"matches": [
 		{
@@ -146,6 +146,114 @@
 		{
 			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:*:*:*:*:*:*:*",
 			"cpeNameId": "A84C17CD-8ED3-4456-8162-7CA3E147778F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:-:*:*:*:*:*:*",
+			"cpeNameId": "B1581131-699A-436D-A237-39CD7859EB23"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_3464:*:*:*:*:*:*",
+			"cpeNameId": "2509ACB7-2830-4B84-968D-7429569F7B14"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_3519:*:*:*:*:*:*",
+			"cpeNameId": "C55FA2E6-79E8-45E9-B95E-B86DD4141EC1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_3569:*:*:*:*:*:*",
+			"cpeNameId": "502277FD-9161-494C-8C40-0445D2FCE7BA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_3627:*:*:*:*:*:*",
+			"cpeNameId": "454A7A0F-686B-4378-8DE3-B507ED430A03"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_3728:*:*:*:*:*:*",
+			"cpeNameId": "C4643FB1-1AEA-4EF7-BCD2-CB67BD1E2C6F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_3875:*:*:*:*:*:*",
+			"cpeNameId": "24CDBD24-51DB-464A-94E0-872BD291448B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_3922:*:*:*:*:*:*",
+			"cpeNameId": "96FFF6A6-FB5B-4E87-A717-7BDC14844A2A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_3949:*:*:*:*:*:*",
+			"cpeNameId": "D688B4E4-5FB2-4AE7-A02F-D6A95DC0EE64"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_3991:*:*:*:*:*:*",
+			"cpeNameId": "98B86C8B-25F3-45B0-9620-98351A7ECA8C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_4047:*:*:*:*:*:*",
+			"cpeNameId": "BD9BE581-982E-4832-9B16-F7743038F312"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_4133:*:*:*:*:*:*",
+			"cpeNameId": "F437D2E8-3AFC-4789-897F-BE888F2847F6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_4423:*:*:*:*:*:*",
+			"cpeNameId": "6F3C772D-703B-43F0-BAD1-CE6171817F19"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_4470:*:*:*:*:*:*",
+			"cpeNameId": "822E4E73-06E7-4C03-8F71-CE1E3AE1E048"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_4552:*:*:*:*:*:*",
+			"cpeNameId": "74A6E619-6E1F-4DB3-AE64-3B1F2DE800F6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_4667:*:*:*:*:*:*",
+			"cpeNameId": "9873A144-EDB5-40B4-AD51-18A67FC36807"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_4750:*:*:*:*:*:*",
+			"cpeNameId": "6408826A-2524-4DFE-BDD8-893601F83153"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_4789:*:*:*:*:*:*",
+			"cpeNameId": "69C19B0F-5ADB-4901-973C-362DCB55C6E8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_4839:*:*:*:*:*:*",
+			"cpeNameId": "73864A31-D2E9-412C-893E-6DD97B167D19"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_4860:*:*:*:*:*:*",
+			"cpeNameId": "1472D0C4-9B55-4791-8152-FAB4FCFB9F44"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_4895:*:*:*:*:*:*",
+			"cpeNameId": "4C9A5530-5151-4A12-A088-2BB5126C927B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_5104:*:*:*:*:*:*",
+			"cpeNameId": "FA6FC2DC-630B-473C-B4CB-581C537BB2AE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_5165:*:*:*:*:*:*",
+			"cpeNameId": "EC6381B1-904D-4885-8801-AF205F9E47CB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_5231:*:*:*:*:*:*",
+			"cpeNameId": "880B7892-E795-4BFD-AA2D-2288931B6EC1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_5537:*:*:*:*:*:*",
+			"cpeNameId": "0529FC92-9AE9-4512-8992-69ECBD9789E4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_5637:*:*:*:*:*:*",
+			"cpeNameId": "3FDDDA67-12F0-41AF-943B-5AD2127D81D7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:patch_release_5910:*:*:*:*:*:*",
+			"cpeNameId": "A914E5B2-6A33-4547-968E-CF6185F7B9F2"
 		},
 		{
 			"cpeName": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.6.3:rev14:*:*:*:*:*:*",

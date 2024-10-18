@@ -5,6 +5,12 @@
 	"versionEndExcluding": "16.15",
 	"created": "2024-08-08T19:52:32.730",
 	"lastModified": "2024-08-08T19:52:32.730",
-	"cpeLastModified": "2024-08-08T19:52:32.730",
-	"status": "Active"
+	"cpeLastModified": "2024-10-18T13:05:46.440",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:nask:ezd_rp:16:*:*:*:*:*:*:*",
+			"cpeNameId": "2C01B9E1-A467-49AA-8EDA-33358E3C6D91"
+		}
+	]
 }

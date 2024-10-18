@@ -4,6 +4,12 @@
 	"versionEndIncluding": "2.41",
 	"created": "2024-09-05T15:58:48.680",
 	"lastModified": "2024-09-05T15:58:48.680",
-	"cpeLastModified": "2024-09-05T15:58:48.680",
-	"status": "Active"
+	"cpeLastModified": "2024-10-18T13:38:21.520",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:idec:kit-smart-40-bdc-rs_firmware:2.41:*:*:*:*:*:*:*",
+			"cpeNameId": "0CFFA58D-39BF-439E-9A71-2B7BD95FABC4"
+		}
+	]
 }
