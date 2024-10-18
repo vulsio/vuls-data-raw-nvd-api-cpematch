@@ -4,7 +4,7 @@
 	"versionEndIncluding": "x8.8",
 	"created": "2021-08-24T15:26:13.103",
 	"lastModified": "2021-08-24T15:26:13.103",
-	"cpeLastModified": "2021-08-25T18:56:26.110",
+	"cpeLastModified": "2024-10-18T11:17:09.563",
 	"status": "Active",
 	"matches": [
 		{
@@ -96,12 +96,24 @@
 			"cpeNameId": "E69DDCE7-7C22-4F3D-9805-B1D1411E186B"
 		},
 		{
+			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.1:*:*:*:expressway:*:*:*",
+			"cpeNameId": "637C85E2-1798-4CFE-825D-BF055FE10939"
+		},
+		{
 			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.1.1:*:*:*:*:*:*:*",
 			"cpeNameId": "CB7406AF-A406-4F6E-A7E4-A237A84DDEF7"
 		},
 		{
+			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.1.1:*:*:*:expressway:*:*:*",
+			"cpeNameId": "1B10D0BE-B3F9-471C-8C5B-D2EECB06D149"
+		},
+		{
 			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.1.2:*:*:*:*:*:*:*",
 			"cpeNameId": "537B961B-50E1-408C-8003-3794CE6A17D2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.1.2:*:*:*:expressway:*:*:*",
+			"cpeNameId": "1AE00CD5-2AE2-4C90-88B0-63D8CD9D1DB4"
 		},
 		{
 			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.1_base:*:*:*:*:*:*:*",
@@ -112,16 +124,32 @@
 			"cpeNameId": "0DC32F41-088C-4C9E-AE40-15B4B1DEA24C"
 		},
 		{
+			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.2:*:*:*:expressway:*:*:*",
+			"cpeNameId": "E1B98636-A071-402E-BC2D-F657361109C5"
+		},
+		{
 			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.2.1:*:*:*:*:*:*:*",
 			"cpeNameId": "44825914-7695-4467-89B5-A2F06D6A0CF5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.2.1:*:*:*:expressway:*:*:*",
+			"cpeNameId": "97907125-9A35-4E56-B263-CEEBD043828C"
 		},
 		{
 			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.2.2:*:*:*:*:*:*:*",
 			"cpeNameId": "C46CEDA2-54A0-48E5-AFD5-062DD066A378"
 		},
 		{
+			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.2.2:*:*:*:expressway:*:*:*",
+			"cpeNameId": "A3C6510C-DDC2-4013-B868-9D1D30284774"
+		},
+		{
 			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.2_base:*:*:*:*:*:*:*",
 			"cpeNameId": "39650507-7307-46D0-9274-E9FB32B12435"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.5:*:*:*:expressway:*:*:*",
+			"cpeNameId": "771CC67C-577D-4EAE-B4BD-50C646F527EB"
 		},
 		{
 			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.5:-:*:*:*:*:*:*",
@@ -140,16 +168,32 @@
 			"cpeNameId": "416DC6C4-25E2-4418-B605-F2B493B9B8F4"
 		},
 		{
+			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.5.1:*:*:*:expressway:*:*:*",
+			"cpeNameId": "03159DAE-0F67-4E13-8221-B06B75ECD72A"
+		},
+		{
 			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.5.2:*:*:*:*:*:*:*",
 			"cpeNameId": "5EFE746B-1574-434B-A48F-FBFAD0CDE5C4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.5.2:*:*:*:expressway:*:*:*",
+			"cpeNameId": "0A873D0A-AA67-406A-9E06-E96D51F97FA5"
 		},
 		{
 			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.5.3:*:*:*:*:*:*:*",
 			"cpeNameId": "9B11A7EE-F724-4B4C-95A8-8F4C632ACA13"
 		},
 		{
+			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.5.3:*:*:*:expressway:*:*:*",
+			"cpeNameId": "EC0F87CD-D5D2-40AA-927C-9CA84545D463"
+		},
+		{
 			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.6:*:*:*:*:*:*:*",
 			"cpeNameId": "AAE36980-AF01-4809-ABE2-3086D22E4293"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.6:*:*:*:expressway:*:*:*",
+			"cpeNameId": "14BA4343-D44A-4DBD-B549-9359133F1C15"
 		},
 		{
 			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.6.0:*:*:*:*:*:*:*",
@@ -160,8 +204,16 @@
 			"cpeNameId": "1C7D8CAD-2974-43AE-BCF6-9A3267148F69"
 		},
 		{
+			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.6.1:*:*:*:expressway:*:*:*",
+			"cpeNameId": "C9D6222B-F723-4931-BA75-5EE9CEC2DDEB"
+		},
+		{
 			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.7:*:*:*:*:*:*:*",
 			"cpeNameId": "C6E94F75-ABD2-4F5C-BEE5-4BB47147DF74"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.7:*:*:*:expressway:*:*:*",
+			"cpeNameId": "00CDDD2E-C6B9-4B10-833B-59962EF81B78"
 		},
 		{
 			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.7.0:*:*:*:*:*:*:*",
@@ -172,16 +224,32 @@
 			"cpeNameId": "2379CCC6-1AD6-469D-AB65-343CC1641C9B"
 		},
 		{
+			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.7.1:*:*:*:expressway:*:*:*",
+			"cpeNameId": "352744B7-9E5A-42AD-AF8A-4F3923C61EFC"
+		},
+		{
 			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.7.2:*:*:*:*:*:*:*",
 			"cpeNameId": "D1AF611E-DC62-4160-9102-4C7AB63CE1DF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.7.2:*:*:*:expressway:*:*:*",
+			"cpeNameId": "F27E65CC-9D6A-44F7-B4F7-3B845360A700"
 		},
 		{
 			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.7.3:*:*:*:*:*:*:*",
 			"cpeNameId": "1633829A-4876-47F7-890D-7168B7636259"
 		},
 		{
+			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.7.3:*:*:*:expressway:*:*:*",
+			"cpeNameId": "434AA8FD-637E-4C01-A77E-46685F7F1B5F"
+		},
+		{
 			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.8:*:*:*:*:*:*:*",
 			"cpeNameId": "59BF63C6-81A2-4FF0-A720-70C6651939EF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:telepresence_video_communication_server:x8.8:*:*:*:expressway:*:*:*",
+			"cpeNameId": "07CED17F-6654-40F7-B32B-F18C31FBE186"
 		}
 	]
 }

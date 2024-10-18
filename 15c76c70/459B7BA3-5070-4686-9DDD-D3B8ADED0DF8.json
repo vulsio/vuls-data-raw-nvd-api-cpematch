@@ -4,8 +4,8 @@
 	"versionStartIncluding": "1.15.0",
 	"versionEndExcluding": "1.15.5",
 	"created": "2024-02-09T15:16:30.157",
-	"lastModified": "2024-02-09T15:16:30.157",
-	"cpeLastModified": "2024-02-09T15:16:30.157",
+	"lastModified": "2024-10-18T12:35:02.923",
+	"cpeLastModified": "2024-10-18T12:35:02.923",
 	"status": "Active",
 	"matches": [
 		{
@@ -23,6 +23,14 @@
 		{
 			"cpeName": "cpe:2.3:a:hashicorp:vault:1.15.2:*:*:*:enterprise:*:*:*",
 			"cpeNameId": "5A697208-88BE-4CEB-A9A4-3B6CE93FEF54"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hashicorp:vault:1.15.3:*:*:*:-:*:*:*",
+			"cpeNameId": "C5BB49DC-3F94-45DE-8791-998FA3CF4BD9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hashicorp:vault:1.15.4:*:*:*:-:*:*:*",
+			"cpeNameId": "BA5DF864-9660-4B01-873C-7EF4A9212BAB"
 		}
 	]
 }

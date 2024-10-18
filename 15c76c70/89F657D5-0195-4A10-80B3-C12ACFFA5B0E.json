@@ -4,8 +4,8 @@
 	"versionStartIncluding": "1.15.0",
 	"versionEndExcluding": "1.15.4",
 	"created": "2023-12-13T11:23:52.197",
-	"lastModified": "2023-12-13T11:23:52.197",
-	"cpeLastModified": "2023-12-13T11:23:52.197",
+	"lastModified": "2024-10-18T12:35:02.923",
+	"cpeLastModified": "2024-10-18T12:35:02.923",
 	"status": "Active",
 	"matches": [
 		{
@@ -23,6 +23,10 @@
 		{
 			"cpeName": "cpe:2.3:a:hashicorp:vault:1.15.2:*:*:*:enterprise:*:*:*",
 			"cpeNameId": "5A697208-88BE-4CEB-A9A4-3B6CE93FEF54"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hashicorp:vault:1.15.3:*:*:*:-:*:*:*",
+			"cpeNameId": "C5BB49DC-3F94-45DE-8791-998FA3CF4BD9"
 		}
 	]
 }
