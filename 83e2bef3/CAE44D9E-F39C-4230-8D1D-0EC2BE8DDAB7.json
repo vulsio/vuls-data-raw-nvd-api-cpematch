@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2.1.2",
 	"created": "2023-07-14T17:10:53.650",
 	"lastModified": "2023-07-14T17:10:53.650",
-	"cpeLastModified": "2023-07-14T17:10:53.650",
+	"cpeLastModified": "2024-10-17T20:46:50.653",
 	"status": "Active",
 	"matches": [
 		{
@@ -12,8 +12,32 @@
 			"cpeNameId": "3439F2BE-6488-46E7-BCB6-4FBCF01BDFFF"
 		},
 		{
+			"cpeName": "cpe:2.3:a:myeventon:eventon:-:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "6EB14FA9-0C09-43E4-A253-16851DC92EB2"
+		},
+		{
 			"cpeName": "cpe:2.3:a:myeventon:eventon:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "FA8F3C01-81F3-4908-B68A-5287AE79FB99"
+		},
+		{
+			"cpeName": "cpe:2.3:a:myeventon:eventon:1.0:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "A2BC6BCD-5EE1-45E8-92D3-B0B4A4FA2EAA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:myeventon:eventon:1.0.1:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "7B14AAE8-36C8-496F-BA22-EC589134602A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:myeventon:eventon:1.0.2:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "F4FE321D-B742-460D-9E97-FF96CAA6923C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:myeventon:eventon:1.0.3:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "57AE5F34-9B00-4C35-A7CD-A7F63E8A10AF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:myeventon:eventon:1.0.4:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "342D0711-A141-446D-842E-B54751261386"
 		},
 		{
 			"cpeName": "cpe:2.3:a:myeventon:eventon:1.1:*:*:*:*:wordpress:*:*",
@@ -56,8 +80,16 @@
 			"cpeNameId": "A93E0C0F-F81B-4A1A-86FE-02239F7E1FEB"
 		},
 		{
+			"cpeName": "cpe:2.3:a:myeventon:eventon:2.0:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "0A610AEA-7829-4F25-8F67-1504F8060149"
+		},
+		{
 			"cpeName": "cpe:2.3:a:myeventon:eventon:2.0.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "DD7C5FC1-03DB-4A15-9ADB-2B41B1EB965F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:myeventon:eventon:2.0.1:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "511ACD65-7E3F-4115-AE0D-530F777A9230"
 		},
 		{
 			"cpeName": "cpe:2.3:a:myeventon:eventon:2.0.2:*:*:*:*:wordpress:*:*",
@@ -90,6 +122,10 @@
 		{
 			"cpeName": "cpe:2.3:a:myeventon:eventon:2.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "4376DFAD-9474-4D69-84A1-31764076A5E6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:myeventon:eventon:2.1:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "A7C143AE-9638-41A5-A8D2-880610C35841"
 		},
 		{
 			"cpeName": "cpe:2.3:a:myeventon:eventon:2.1.1:*:*:*:*:wordpress:*:*",
