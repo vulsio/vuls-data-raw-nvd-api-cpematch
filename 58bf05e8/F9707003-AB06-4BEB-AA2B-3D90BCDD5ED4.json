@@ -4,7 +4,7 @@
 	"versionEndExcluding": "3.2.5",
 	"created": "2021-04-26T14:04:03.803",
 	"lastModified": "2021-04-26T14:04:03.803",
-	"cpeLastModified": "2024-08-05T18:32:35.747",
+	"cpeLastModified": "2024-10-18T18:34:48.883",
 	"status": "Active",
 	"matches": [
 		{
@@ -22,6 +22,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ruby-lang:rexml:3.1.9:*:*:*:*:ruby:*:*",
 			"cpeNameId": "B7CBCC11-465B-4B7B-8B63-443422592566"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ruby-lang:rexml:3.1.9.1:*:*:*:*:ruby:*:*",
+			"cpeNameId": "681C660F-1624-468D-B307-73822B888C32"
 		},
 		{
 			"cpeName": "cpe:2.3:a:ruby-lang:rexml:3.2.0:*:*:*:*:ruby:*:*",
