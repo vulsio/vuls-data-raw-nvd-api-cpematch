@@ -4,7 +4,7 @@
 	"versionEndIncluding": "3.6.25",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2024-08-01T16:18:02.040",
+	"cpeLastModified": "2024-10-21T13:55:00.353",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:-:*:*:*:*:iphone_os:*:*",
 			"cpeNameId": "30EFE0CC-E458-48F1-A717-AE9E1B370028"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:-:*:*:*:esr:*:*:*",
+			"cpeNameId": "85D925FA-22B8-487A-8817-952D0DDCF99A"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:0.1:*:*:*:*:*:*:*",

@@ -5,6 +5,12 @@
 	"versionEndExcluding": "34.014",
 	"created": "2024-10-16T14:17:46.410",
 	"lastModified": "2024-10-16T14:17:46.410",
-	"cpeLastModified": "2024-10-16T14:17:46.410",
-	"status": "Active"
+	"cpeLastModified": "2024-10-21T13:22:06.847",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:rockwellautomation:compactlogix_5380_firmware:34.011:*:*:*:*:*:*:*",
+			"cpeNameId": "DD2CA779-BA56-4F94-8463-28107B38CD2E"
+		}
+	]
 }

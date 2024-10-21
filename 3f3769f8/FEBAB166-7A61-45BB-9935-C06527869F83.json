@@ -4,12 +4,16 @@
 	"versionEndExcluding": "33.011",
 	"created": "2022-06-08T13:13:06.263",
 	"lastModified": "2022-06-08T13:13:06.263",
-	"cpeLastModified": "2022-12-30T17:42:48.737",
+	"cpeLastModified": "2024-10-21T13:22:06.847",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:o:rockwellautomation:guardlogix_5580_firmware:-:*:*:*:*:*:*:*",
 			"cpeNameId": "CAAF3649-2E41-459C-A282-BA2A279F9CEA"
+		},
+		{
+			"cpeName": "cpe:2.3:o:rockwellautomation:guardlogix_5580_firmware:31.011:*:*:*:*:*:*:*",
+			"cpeNameId": "B7F95D74-FD01-444C-A062-8DE897B47968"
 		},
 		{
 			"cpeName": "cpe:2.3:o:rockwellautomation:guardlogix_5580_firmware:32.011:*:*:*:*:*:*:*",

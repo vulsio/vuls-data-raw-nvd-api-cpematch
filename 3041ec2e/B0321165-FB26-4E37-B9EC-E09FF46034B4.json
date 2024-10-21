@@ -4,7 +4,7 @@
 	"versionEndExcluding": "22.0",
 	"created": "2024-07-09T17:05:04.497",
 	"lastModified": "2024-07-09T17:05:04.497",
-	"cpeLastModified": "2024-08-01T16:18:02.040",
+	"cpeLastModified": "2024-10-21T13:55:00.353",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:-:*:*:*:*:iphone_os:*:*",
 			"cpeNameId": "30EFE0CC-E458-48F1-A717-AE9E1B370028"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:-:*:*:*:esr:*:*:*",
+			"cpeNameId": "85D925FA-22B8-487A-8817-952D0DDCF99A"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:0.1:*:*:*:*:*:*:*",
@@ -720,52 +724,104 @@
 			"cpeNameId": "53B9E9E7-F416-4187-A5C7-538E56CD4F2E"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:10.0:*:*:*:-:*:*:*",
+			"cpeNameId": "76E3A4F9-BFCF-4FF9-BEFC-60612B6ABC67"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:10.0.1:*:*:*:*:*:*:*",
 			"cpeNameId": "5DDA4F3A-62D0-4D8F-BC8F-99BFF1DD2E90"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:10.0.1:*:*:*:-:*:*:*",
+			"cpeNameId": "CDEB26A9-A38E-42CC-9E27-8548B8433B23"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:10.0.2:*:*:*:*:*:*:*",
 			"cpeNameId": "2B7BC36D-A56D-456B-AEC3-212717A64B01"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:10.0.2:*:*:*:-:*:*:*",
+			"cpeNameId": "EE35C8B4-B2E3-4B03-A6BC-DAF154934C68"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:10.0.3:*:*:*:*:*:*:*",
 			"cpeNameId": "A1090207-E40C-4966-AD96-1F83A81A0A5B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:10.0.3:*:*:*:esr:*:*:*",
+			"cpeNameId": "52CE0562-1F90-436D-BBC4-05EB74C5F512"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:10.0.4:*:*:*:*:*:*:*",
 			"cpeNameId": "C627CE62-D1F7-4117-B556-9C969C95EEAB"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:10.0.4:*:*:*:esr:*:*:*",
+			"cpeNameId": "11E5190B-E3DB-49C0-AB70-46E7EB8CE6B3"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:10.0.5:*:*:*:*:*:*:*",
 			"cpeNameId": "BF73CC86-C500-4BD3-817E-17279647D161"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:10.0.5:*:*:*:esr:*:*:*",
+			"cpeNameId": "64360410-E1E7-483F-964C-62D809E0D796"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:10.0.6:*:*:*:*:*:*:*",
 			"cpeNameId": "6A3BD0B0-EBCC-4DB3-9635-F3B2E7801F51"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:10.0.6:*:*:*:esr:*:*:*",
+			"cpeNameId": "BB2C57FA-70D7-42DF-858D-892E9022AF5B"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:10.0.7:*:*:*:*:*:*:*",
 			"cpeNameId": "F43BC6F5-DDF6-4483-9DAC-B4B36700C8C4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:10.0.7:*:*:*:esr:*:*:*",
+			"cpeNameId": "A7505C5C-70A0-42F2-B23C-D454E3A476C3"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:10.0.8:*:*:*:*:*:*:*",
 			"cpeNameId": "08797A68-E837-48CF-AC7A-76E38E7584B0"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:10.0.8:*:*:*:esr:*:*:*",
+			"cpeNameId": "7F5D22CA-C342-4F8D-9847-A5D6343EE969"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:10.0.9:*:*:*:*:*:*:*",
 			"cpeNameId": "0F6C5D4A-4B69-4F58-BE48-8A11361D6032"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:10.0.9:*:*:*:esr:*:*:*",
+			"cpeNameId": "CB6381D8-0FB1-480D-B4EF-D2944A9D2C59"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:10.0.10:*:*:*:*:*:*:*",
 			"cpeNameId": "1A83CF10-2DEC-4583-9C2B-EA8519651BD2"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:10.0.10:*:*:*:esr:*:*:*",
+			"cpeNameId": "3FB20E85-EE02-451E-B6D4-F00BA23035B0"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:10.0.11:*:*:*:*:*:*:*",
 			"cpeNameId": "E95249EC-758D-478E-9A38-D443538B831F"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:10.0.11:*:*:*:esr:*:*:*",
+			"cpeNameId": "2024962F-8F69-48D8-AAE4-6EA16660FD1E"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:10.0.12:*:*:*:*:*:*:*",
 			"cpeNameId": "64E04B74-E4B7-4989-829D-0DE645363035"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:10.0.12:*:*:*:esr:*:*:*",
+			"cpeNameId": "0AA003A1-67C5-435B-9662-EE12C844CAB2"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:11.0:*:*:*:*:*:*:*",
@@ -868,48 +924,96 @@
 			"cpeNameId": "5D43B199-7257-4AB8-A2B4-3FB6FB9D54A6"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:17.0:*:*:*:-:*:*:*",
+			"cpeNameId": "AA8323E2-73FD-4FF0-8F19-93EDD0BBB29D"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:17.0.1:*:*:*:*:*:*:*",
 			"cpeNameId": "038F8E57-A064-4446-A2D2-84C6E7E0E608"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:17.0.1:*:*:*:-:*:*:*",
+			"cpeNameId": "E8898288-9986-4198-8972-2BF350B6E4D1"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:17.0.2:*:*:*:*:*:*:*",
 			"cpeNameId": "41ED5C0D-248E-47B2-9270-97337A8E06F1"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:17.0.2:*:*:*:esr:*:*:*",
+			"cpeNameId": "A7B13D25-A5F6-462F-B4C3-48EC0BEDB6CA"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:17.0.3:*:*:*:*:*:*:*",
 			"cpeNameId": "B41BA55D-0203-42A5-9EFC-D6BB51BCC42B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:17.0.3:*:*:*:esr:*:*:*",
+			"cpeNameId": "2FBAA08F-D1C9-42CB-AD70-38BFB84B306E"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:17.0.4:*:*:*:*:*:*:*",
 			"cpeNameId": "8F9F47F7-0C2E-4880-9B95-BF437F4C7561"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:17.0.4:*:*:*:esr:*:*:*",
+			"cpeNameId": "456B1B5C-6743-4AAE-A2F6-0C7C5B19EEC6"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:17.0.5:*:*:*:*:*:*:*",
 			"cpeNameId": "6658E53E-1756-42C6-ADA4-9C27602EADD0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:17.0.5:*:*:*:esr:*:*:*",
+			"cpeNameId": "B8BFAF36-7FB1-4E65-8B56-5D09863E0D86"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:17.0.6:*:*:*:*:*:*:*",
 			"cpeNameId": "478ED7D0-D0FE-4469-8145-A1E04C7D825C"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:17.0.6:*:*:*:esr:*:*:*",
+			"cpeNameId": "40810F3A-DE13-479A-ABB4-516A8C14157F"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:17.0.7:*:*:*:*:*:*:*",
 			"cpeNameId": "94F4B813-AD53-4CA1-9F92-D5429CD0BCCA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:17.0.7:*:*:*:esr:*:*:*",
+			"cpeNameId": "2C82469A-7405-4BA6-9247-ACAA11C69F24"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:17.0.8:*:*:*:*:*:*:*",
 			"cpeNameId": "F26F3A30-0D19-4326-BEAB-D6338CF63F59"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:17.0.8:*:*:*:esr:*:*:*",
+			"cpeNameId": "01F3C19D-E7E8-490D-A9E2-807B383A7FEE"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:17.0.9:*:*:*:*:*:*:*",
 			"cpeNameId": "66081362-ECB2-4DCD-8EFC-D24B5C6B6AAA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:17.0.9:*:*:*:esr:*:*:*",
+			"cpeNameId": "34A96044-47FB-425D-92DA-B20DE5539D50"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:17.0.10:*:*:*:*:*:*:*",
 			"cpeNameId": "883D8832-06A2-459C-B8DA-C9570FA69FCC"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:17.0.10:*:*:*:esr:*:*:*",
+			"cpeNameId": "23BA1080-C675-4C5E-A1F9-F739F70FC948"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:17.0.11:*:*:*:*:*:*:*",
 			"cpeNameId": "B1835996-ADF5-4AFD-94BD-2991E30DFE57"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:17.0.11:*:*:*:esr:*:*:*",
+			"cpeNameId": "71CCC744-BACD-4330-A794-747FA41504F8"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mozilla:firefox:17.1:*:*:*:*:iphone_os:*:*",

@@ -5,6 +5,12 @@
 	"versionEndExcluding": "35.013",
 	"created": "2024-10-16T14:17:46.410",
 	"lastModified": "2024-10-16T14:17:46.410",
-	"cpeLastModified": "2024-10-16T14:17:46.410",
-	"status": "Active"
+	"cpeLastModified": "2024-10-21T13:22:06.847",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:rockwellautomation:controllogix_5580_firmware:35.011:*:*:*:*:*:*:*",
+			"cpeNameId": "12450DFB-0A8D-4C1A-864D-6A62F1525096"
+		}
+	]
 }
