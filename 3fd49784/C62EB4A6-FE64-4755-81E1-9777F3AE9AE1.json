@@ -4,9 +4,13 @@
 	"versionEndExcluding": "1.4.15",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-07-22T16:37:38.133",
+	"cpeLastModified": "2024-10-28T12:18:51.480",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wp-property-hive:propertyhive:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "71949BDB-8712-4470-8FD6-5699A11DBE3B"
+		},
 		{
 			"cpeName": "cpe:2.3:a:wp-property-hive:propertyhive:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "9E0616CD-7BC5-4A6F-AB0C-9D259C6B3F16"

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "ED00AC55-8777-46E9-81B5-DA3D229BA834",
 	"versionEndExcluding": "3.2.0",
 	"created": "2024-10-23T12:30:17.593",
-	"lastModified": "2024-10-23T12:30:17.593",
-	"cpeLastModified": "2024-10-23T12:30:17.593",
+	"lastModified": "2024-10-28T11:45:06.183",
+	"cpeLastModified": "2024-10-28T11:45:06.183",
 	"status": "Active",
 	"matches": [
 		{
@@ -202,6 +202,54 @@
 		{
 			"cpeName": "cpe:2.3:a:funnelkit:funnelkit_automations:2.7.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "259B075A-C9A2-45AA-9D63-4E1062DAACF0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:funnelkit:funnelkit_automations:2.8.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2630EBCD-D098-4081-B0C5-F05C6523150E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:funnelkit:funnelkit_automations:2.8.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7804FA67-C5B9-4538-BA50-46514A793508"
+		},
+		{
+			"cpeName": "cpe:2.3:a:funnelkit:funnelkit_automations:2.8.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "45B97A1A-5AD1-4A2C-BC6F-EEC3C67AE22B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:funnelkit:funnelkit_automations:2.8.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "812ACDE3-212B-429D-8FE5-4341846C4D0E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:funnelkit:funnelkit_automations:2.8.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FF63157B-9894-41BF-B8E5-84053E3A5C17"
+		},
+		{
+			"cpeName": "cpe:2.3:a:funnelkit:funnelkit_automations:3.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FC4790B9-FE87-4A62-9E13-C2DA197B7394"
+		},
+		{
+			"cpeName": "cpe:2.3:a:funnelkit:funnelkit_automations:3.0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "45E5E58C-12CC-40AB-9E41-FF92A8F5B3EB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:funnelkit:funnelkit_automations:3.0.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D1B7354B-9B91-4C04-8A9F-437D270AE9AB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:funnelkit:funnelkit_automations:3.0.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C1F84611-3BA3-4228-89DD-FF4F898A4FEB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:funnelkit:funnelkit_automations:3.1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0A156CBB-31B9-4E4D-BA0F-BA2B72824756"
+		},
+		{
+			"cpeName": "cpe:2.3:a:funnelkit:funnelkit_automations:3.1.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1D8A85EB-514D-4401-A9D8-6F3B9B8F7344"
+		},
+		{
+			"cpeName": "cpe:2.3:a:funnelkit:funnelkit_automations:3.1.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "931D0BE1-5536-4578-969A-A2F35B37989F"
 		}
 	]
 }

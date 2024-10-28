@@ -4,7 +4,7 @@
 	"versionEndExcluding": "6.0.13",
 	"created": "2023-06-26T13:26:34.530",
 	"lastModified": "2024-07-15T17:44:40.717",
-	"cpeLastModified": "2024-10-22T17:11:28.710",
+	"cpeLastModified": "2024-10-28T12:04:17.097",
 	"status": "Active",
 	"matches": [
 		{
@@ -394,6 +394,10 @@
 		{
 			"cpeName": "cpe:2.3:a:oisf:suricata:4.1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "A0506EA7-8A37-4EEA-BA92-4A4D62114703"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oisf:suricata:4.1.0:-:*:*:*:*:*:*",
+			"cpeNameId": "ED94352C-D73E-4E2E-902D-3E6D536F86FE"
 		},
 		{
 			"cpeName": "cpe:2.3:a:oisf:suricata:4.1.0:beta1:*:*:*:*:*:*",
