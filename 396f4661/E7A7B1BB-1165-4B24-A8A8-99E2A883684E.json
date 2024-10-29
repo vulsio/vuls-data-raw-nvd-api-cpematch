@@ -3,8 +3,8 @@
 	"matchCriteriaId": "E7A7B1BB-1165-4B24-A8A8-99E2A883684E",
 	"versionEndExcluding": "1.2.70.4",
 	"created": "2024-09-26T14:36:10.057",
-	"lastModified": "2024-09-26T14:36:10.057",
-	"cpeLastModified": "2024-09-26T14:36:10.057",
+	"lastModified": "2024-10-29T18:00:02.230",
+	"cpeLastModified": "2024-10-29T18:00:02.230",
 	"status": "Active",
 	"matches": [
 		{
@@ -586,6 +586,106 @@
 		{
 			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.54.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "FB4B2E74-9E5F-48C3-8466-1186D4E38B75"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.55.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6EFC3BD1-1B56-4E47-B77F-7A8BB14DB323"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.55.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2283ACF9-C208-4A49-8512-61C060331B00"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.56.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8B822D08-4753-47E1-9184-DC480107143A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.57.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "099DDCB1-C281-4ECE-AB57-51BD14E256B9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.58.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "553A57D1-E07F-4A68-8AF1-66298CE74E9B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.58.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B95C705D-F73A-45D4-9419-B0BB45DC7934"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.58.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CE09BB0A-7B19-4F16-A6A5-B172D3B8ADD1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.59.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "960341A2-198D-4FA4-82A4-67F0229F3AC5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.60.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "39954541-CACB-4FDB-86A4-5AAD87493D71"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.61.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4DA68E2B-6050-4F55-9969-830D2CA5CC26"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.62.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CFF356AF-0BAB-44CC-A787-8528D2B394AB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.63.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "42D6A344-ADA8-490D-8D41-34C145D2AAAA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.64.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "ACAFBF6A-0BEC-4F20-8A44-67A8B9B9AECA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.65.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EBF24ED0-D818-4D12-A53E-4131D6EAD1C6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.65.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0B473877-DF2F-45F6-97BB-E58C496DC081"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.66.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "59FC7E33-6FE0-4831-B757-0031063C129A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.67.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "69F4EF3B-FAC4-455B-A429-FC285E20D279"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.67.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DE210BDE-EF1F-4290-B0C2-69F880E0592F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.68.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CE770737-567B-45D6-86D9-42A7A0A229DC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.69.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "65707395-1266-403E-8922-9A80A6D127E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.69.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F365A0A4-6725-40EB-BD62-4B0FB6F64EC8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.70.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B44782D3-E5B9-491B-A1F2-20296690D76B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.70.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9B686CC5-4B30-4808-9FC4-DC4292932450"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.70.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E696F4BD-DA1A-4EDC-A468-CD9FD9BC638D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mailoptin:mailoptin:1.2.70.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DB96BC33-A365-499A-9919-E7152E7F685D"
 		}
 	]
 }

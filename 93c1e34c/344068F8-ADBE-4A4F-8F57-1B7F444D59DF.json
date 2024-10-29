@@ -4,9 +4,13 @@
 	"versionEndExcluding": "1.6.83",
 	"created": "2024-02-13T17:16:55.597",
 	"lastModified": "2024-02-13T17:16:55.597",
-	"cpeLastModified": "2024-02-13T17:16:55.597",
+	"cpeLastModified": "2024-10-29T17:57:49.283",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:meowapps:ai_engine:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1A4B4F91-AD34-4F4F-9066-7E991B2A29E0"
+		},
 		{
 			"cpeName": "cpe:2.3:a:meowapps:ai_engine:0.0.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "A9F3B8B6-B3EF-4FE6-AF4F-28D6C24720C2"

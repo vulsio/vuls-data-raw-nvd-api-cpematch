@@ -4,7 +4,7 @@
 	"versionEndExcluding": "5.3.5.1",
 	"created": "2021-12-16T18:43:29.847",
 	"lastModified": "2021-12-16T18:43:29.847",
-	"cpeLastModified": "2023-12-29T18:02:38.650",
+	"cpeLastModified": "2024-10-29T17:59:05.283",
 	"status": "Active",
 	"matches": [
 		{
@@ -356,6 +356,14 @@
 			"cpeNameId": "E29CFF83-2B15-4202-B84A-76219DF06366"
 		},
 		{
+			"cpeName": "cpe:2.3:a:cisco:network_services_orchestrator:4.7.1:*:*:*:*:*:*:*",
+			"cpeNameId": "6E6658D0-6919-4CF9-9409-BFEB5C84FFD1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:network_services_orchestrator:4.7.3:*:*:*:*:*:*:*",
+			"cpeNameId": "34A97070-ACCA-4B5F-A5E3-88D397A36E3A"
+		},
+		{
 			"cpeName": "cpe:2.3:a:cisco:network_services_orchestrator:4.7.7.3:*:*:*:*:*:*:*",
 			"cpeNameId": "12DA69A0-6F28-4BB7-9377-081725652E21"
 		},
@@ -410,6 +418,10 @@
 		{
 			"cpeName": "cpe:2.3:a:cisco:network_services_orchestrator:5.1.4.2:*:*:*:*:*:*:*",
 			"cpeNameId": "64D936ED-D151-405D-909A-EF70A4642DC7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:network_services_orchestrator:5.1.4.3:*:*:*:*:*:*:*",
+			"cpeNameId": "6B39E16E-C60C-45F7-A023-7BB80792438F"
 		},
 		{
 			"cpeName": "cpe:2.3:a:cisco:network_services_orchestrator:5.1.5:*:*:*:*:*:*:*",

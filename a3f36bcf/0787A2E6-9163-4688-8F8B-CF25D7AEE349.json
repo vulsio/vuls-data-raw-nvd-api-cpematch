@@ -3,8 +3,8 @@
 	"matchCriteriaId": "0787A2E6-9163-4688-8F8B-CF25D7AEE349",
 	"versionEndExcluding": "5.0.10",
 	"created": "2024-09-30T13:07:35.127",
-	"lastModified": "2024-09-30T13:07:35.127",
-	"cpeLastModified": "2024-09-30T13:07:35.127",
+	"lastModified": "2024-10-29T17:26:24.383",
+	"cpeLastModified": "2024-10-29T17:26:24.383",
 	"status": "Active",
 	"matches": [
 		{
@@ -522,6 +522,90 @@
 		{
 			"cpeName": "cpe:2.3:a:wpchill:download_monitor:4.9.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "943B7299-12B9-42A3-9AAE-643E3B3BE22B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpchill:download_monitor:4.9.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9BDD0C72-0194-43DC-AA07-D65E92DB542E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpchill:download_monitor:4.9.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "17D5F74C-2744-411B-83FE-5B284DBF3E92"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpchill:download_monitor:4.9.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E52AD824-1A41-4439-A2B0-CC91036ED6F8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpchill:download_monitor:4.9.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "965A0818-D98F-4EEF-B149-99E317DE1D3C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpchill:download_monitor:4.9.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "858EE7AD-93FF-4A4D-BAB2-B2046AE5854E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpchill:download_monitor:4.9.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B45E6338-CBA9-450E-AA69-B1D6222F9354"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpchill:download_monitor:4.9.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7EF0A8CF-A63C-484C-A45E-A0EBD694317F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpchill:download_monitor:4.9.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "76AAC9DF-F013-492B-B59B-9CA5DCE36A30"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpchill:download_monitor:4.9.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "50448F4D-4F8F-40FD-BD93-5CE92A38FE9F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpchill:download_monitor:4.9.13:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4A9F4793-EE75-4FF0-8146-3A50296816D3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpchill:download_monitor:4.9.14:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5C10742D-974C-4C26-9A00-E548A446CBE9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpchill:download_monitor:5.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B63CB2C8-C990-4D59-BCE0-A7CE473D4B9E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpchill:download_monitor:5.0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9CCDC646-129E-417F-A43A-1980821F258A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpchill:download_monitor:5.0.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "98FF5BFD-E0F3-477B-AD96-595F10817694"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpchill:download_monitor:5.0.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EC509DD3-5DC8-4F54-9955-53B94866045B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpchill:download_monitor:5.0.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4BDD14CE-8965-4058-95E5-3342D48C1C60"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpchill:download_monitor:5.0.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2F2616C7-57A9-4944-8B09-5340466EDC77"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpchill:download_monitor:5.0.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F2FD81DC-18F4-4CB3-96BB-D806480CCDF5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpchill:download_monitor:5.0.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3EDF7EC3-5949-4E90-BF5B-CA4DF0449B69"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpchill:download_monitor:5.0.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B8ED5B00-AE43-416B-9294-15E6C9AFC89B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpchill:download_monitor:5.0.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FE201564-BCDF-4837-8276-40B641D43C47"
 		}
 	]
 }
