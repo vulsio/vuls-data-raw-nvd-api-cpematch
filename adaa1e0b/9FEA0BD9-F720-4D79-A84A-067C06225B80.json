@@ -3,8 +3,8 @@
 	"matchCriteriaId": "9FEA0BD9-F720-4D79-A84A-067C06225B80",
 	"versionEndIncluding": "1.2.3.3",
 	"created": "2024-06-20T14:51:11.710",
-	"lastModified": "2024-06-20T14:51:11.710",
-	"cpeLastModified": "2024-06-20T14:51:11.710",
+	"lastModified": "2024-10-31T16:20:29.057",
+	"cpeLastModified": "2024-10-31T16:20:29.057",
 	"status": "Active",
 	"matches": [
 		{
@@ -378,6 +378,58 @@
 		{
 			"cpeName": "cpe:2.3:a:vowelweb:ibtana:1.2.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "E360AEC6-44D3-4904-B749-EC5873C28CEB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vowelweb:ibtana:1.2.2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AA3046EB-F923-48A8-8013-D08051568AD2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vowelweb:ibtana:1.2.2.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EFC47DF3-98E5-43F8-86A3-8D7EB28AA980"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vowelweb:ibtana:1.2.2.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "01E11961-A4AF-4AD9-963F-3B60E990801E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vowelweb:ibtana:1.2.2.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CBBB80C3-226D-402C-A2A8-8F96567478E0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vowelweb:ibtana:1.2.2.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "15E9E78B-E58A-43E1-87B6-2C6AE59DA919"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vowelweb:ibtana:1.2.2.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "96904C5A-4471-4F5A-8699-C8E697399B45"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vowelweb:ibtana:1.2.2.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "140055F2-8AB6-4CE0-8039-4008E3F8E77D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vowelweb:ibtana:1.2.2.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BC132CCC-BC10-4F6C-868F-2A5298E6164D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vowelweb:ibtana:1.2.2.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F3267715-D168-420B-A3F6-25213D079A43"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vowelweb:ibtana:1.2.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0D5D6BD7-9408-4C86-8D74-490C1F3C5480"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vowelweb:ibtana:1.2.3.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9FD51AB4-E189-4BE5-B6A5-713703FD2861"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vowelweb:ibtana:1.2.3.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E19BF5FA-5A33-447D-8B60-277D46C12291"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vowelweb:ibtana:1.2.3.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C70D89FF-F6EE-461C-AE04-1EC65F8E9D10"
 		}
 	]
 }

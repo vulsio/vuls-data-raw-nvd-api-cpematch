@@ -4,9 +4,13 @@
 	"versionEndIncluding": "3.1",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-09-11T17:01:15.243",
+	"cpeLastModified": "2024-10-31T12:43:30.593",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:openrefine:openrefine:-:*:*:*:*:*:*:*",
+			"cpeNameId": "466825D4-B288-43F9-83FB-3BD73F170993"
+		},
 		{
 			"cpeName": "cpe:2.3:a:openrefine:openrefine:1.0:-:*:*:*:*:*:*",
 			"cpeNameId": "E0C8C092-14F7-4494-8D50-3C2F7F4E5570"
