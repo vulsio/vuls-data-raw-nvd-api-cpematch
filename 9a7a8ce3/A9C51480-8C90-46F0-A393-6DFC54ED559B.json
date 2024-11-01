@@ -3,8 +3,8 @@
 	"matchCriteriaId": "A9C51480-8C90-46F0-A393-6DFC54ED559B",
 	"versionEndExcluding": "1.23.1",
 	"created": "2024-10-31T19:01:53.503",
-	"lastModified": "2024-10-31T19:01:53.503",
-	"cpeLastModified": "2024-10-31T19:01:53.503",
+	"lastModified": "2024-11-01T14:00:27.090",
+	"cpeLastModified": "2024-11-01T14:00:27.090",
 	"status": "Active",
 	"matches": [
 		{
@@ -562,6 +562,90 @@
 		{
 			"cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.20.3:*:*:*:*:*:*:*",
 			"cpeNameId": "863891A8-2571-460B-B9B2-8981595B3632"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.20.4:*:*:*:*:*:*:*",
+			"cpeNameId": "BE55BFBC-0F60-42C5-AEF5-CD675834F2A8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.20.5:*:*:*:*:*:*:*",
+			"cpeNameId": "5BC2064F-E8FC-42D8-B257-084F2B0451F2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.20.6:*:*:*:*:*:*:*",
+			"cpeNameId": "EF2F6770-68D9-41BC-8E78-73CC489393E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.20.7:*:*:*:*:*:*:*",
+			"cpeNameId": "EAF9450C-E228-46F6-B2F0-B242F0B974CB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.21.1:*:*:*:*:*:*:*",
+			"cpeNameId": "B61F67C4-BC68-4B5B-914C-C746EDF718C2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.21.2:*:*:*:*:*:*:*",
+			"cpeNameId": "7C350832-EBC2-41DE-8D09-B76DBB7DD26A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.21.3:*:*:*:*:*:*:*",
+			"cpeNameId": "197A9A35-54A1-4F1E-8F92-8AF45A5DC3FB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.21.90:*:*:*:*:*:*:*",
+			"cpeNameId": "CDDC95F9-7319-4320-98BC-FBA0586CC196"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.22.0:*:*:*:*:*:*:*",
+			"cpeNameId": "64DA6C2A-3829-4050-BAEF-A786669D1C64"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.22.1:*:*:*:*:*:*:*",
+			"cpeNameId": "CEEC8742-07ED-442E-A2B0-D573CDEE46AE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.22.2:*:*:*:*:*:*:*",
+			"cpeNameId": "C701CA73-DB7F-46E8-AE37-234B174A1306"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.22.3:*:*:*:*:*:*:*",
+			"cpeNameId": "3CA8EA51-47EF-4421-BD11-37D7F09658FB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.22.4:*:*:*:*:*:*:*",
+			"cpeNameId": "C087F91D-A0E6-4F2A-B97A-B01AD8BFEA98"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.22.5:*:*:*:*:*:*:*",
+			"cpeNameId": "CA6C3A74-F2C7-420F-AF49-DDC2C7439CC4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.22.6:*:*:*:*:*:*:*",
+			"cpeNameId": "7AD7C526-7E21-41E8-9C64-0F5AA3B6B4CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.22.7:*:*:*:*:*:*:*",
+			"cpeNameId": "366B1F16-9D97-4CCD-BF08-0A1B954F3AC2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.22.8:*:*:*:*:*:*:*",
+			"cpeNameId": "EA9F0E88-37FC-437D-9918-3B14B0AD1604"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.22.9:*:*:*:*:*:*:*",
+			"cpeNameId": "9C626DA4-3B86-4F70-9838-ED7795C82DE0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.22.10:*:*:*:*:*:*:*",
+			"cpeNameId": "B962186C-8FD0-4674-B315-0142D73683A5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.22.11:*:*:*:*:*:*:*",
+			"cpeNameId": "58804210-A783-46B6-BD4F-6EF5E2A9D562"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.22.12:*:*:*:*:*:*:*",
+			"cpeNameId": "1A741749-01A0-406E-8835-6B5899FD1FA3"
 		}
 	]
 }

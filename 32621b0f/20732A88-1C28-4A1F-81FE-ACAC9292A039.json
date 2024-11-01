@@ -3,8 +3,8 @@
 	"matchCriteriaId": "20732A88-1C28-4A1F-81FE-ACAC9292A039",
 	"versionEndExcluding": "5.0.10",
 	"created": "2024-10-31T16:20:43.800",
-	"lastModified": "2024-10-31T16:20:43.800",
-	"cpeLastModified": "2024-10-31T16:20:43.800",
+	"lastModified": "2024-11-01T13:32:35.543",
+	"cpeLastModified": "2024-11-01T13:32:35.543",
 	"status": "Active",
 	"matches": [
 		{
@@ -162,6 +162,26 @@
 		{
 			"cpeName": "cpe:2.3:a:gsheetconnector:cf7_google_sheets_connector:5.0.4:*:*:*:free:wordpress:*:*",
 			"cpeNameId": "2F40CDC1-AA91-4B99-BBF1-A394BF5EC64D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gsheetconnector:cf7_google_sheets_connector:5.0.5:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "B1BCE2DF-6161-4715-912A-4EFC519B8338"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gsheetconnector:cf7_google_sheets_connector:5.0.6:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "C675757F-B0E8-41CE-B3D5-FF73C7194364"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gsheetconnector:cf7_google_sheets_connector:5.0.7:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "D729DD7F-6BD4-43B9-A51E-22261CE6BD48"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gsheetconnector:cf7_google_sheets_connector:5.0.8:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "030D23DC-C74F-4B63-85C0-EB855D5DDBBB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gsheetconnector:cf7_google_sheets_connector:5.0.9:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "3AEB7713-65B8-4C65-B185-31126273B452"
 		}
 	]
 }
