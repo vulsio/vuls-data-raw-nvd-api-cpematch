@@ -3,8 +3,8 @@
 	"matchCriteriaId": "79686948-F4C5-4127-8EC5-877994B66A27",
 	"versionEndExcluding": "10.0",
 	"created": "2024-10-31T16:57:38.237",
-	"lastModified": "2024-10-31T16:57:38.237",
-	"cpeLastModified": "2024-10-31T16:57:38.237",
+	"lastModified": "2024-10-31T18:41:22.293",
+	"cpeLastModified": "2024-10-31T18:41:22.293",
 	"status": "Active",
 	"matches": [
 		{
@@ -570,6 +570,130 @@
 		{
 			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:8.4.6:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "BBD27A1D-3A77-4E89-A8E1-858F0A6E4530"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:8.4.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E4007E6B-0269-4AAA-8B6E-9BC34B565136"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:8.4.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DC0180A4-5036-4847-9428-8BB380C8D71B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:8.4.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FEA6F5F2-5B3B-4751-BD77-BE419B74C9E8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:8.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9A21D513-8AAC-4110-8A05-A87B69D4CADE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:8.5.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "85066DDE-2972-4472-90CD-55CA08ECB446"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:8.5.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F7B8EEBD-2F3E-4DAB-AA23-EEB594B2C75D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:8.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7BC13BDD-ABDB-4E8C-A536-E485B1C73329"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:8.6.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B39B709B-222E-4CDA-ABA4-0E97B0B5D7C3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:8.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D7B388B9-C10F-4D36-AF8E-35D63DBE858C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:8.7.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "611B75DC-317E-43F0-A9E6-D7C87F4BEE7D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:8.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "607FB2E7-A75E-4E9A-88AF-D0F72AAE50F4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:8.8.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "211773AA-D52F-4CC0-9449-344108B2CD8C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:8.8.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C15C53A7-5E1E-4ED5-816D-68653EFCEF38"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:9.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A095CB76-EFDE-4BDB-AB01-DEE32D4A2174"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:9.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "04BFB312-335D-46BC-A302-29D5B441E59B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:9.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "93258830-FF96-4D55-97DB-6E15ACBBEAD0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:9.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1689BF03-22E5-4E58-BE8A-20CA0F3CBBFD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:9.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4E90A472-ED04-46DA-9A91-FAAC48442AB6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:9.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "640CA903-5890-4B76-A0B2-6AC4980B4EA0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:9.5.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E7DE6F26-D59A-4D72-898E-761A17A5BD7E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:9.5.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E5D8B59C-BC97-4B73-A909-E293D2C93E87"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:9.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "53C671C6-8F8F-48CF-966F-1C40E06F84E2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:9.6.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DF38DB99-A7C9-40B2-857C-6E7728656F7B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:9.6.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0DFCC6E1-3546-46A8-A55F-53601CEBA51E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:9.6.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9201396D-ED5C-4046-BF02-6B3551F1F42C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:9.6.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8D59FBC6-7A70-440E-B66C-FF66FA56A875"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:9.6.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5C526A69-513D-403B-A206-B333568BAF75"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:9.6.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4AA38C6C-02CC-4073-8027-5C8C64CE5C65"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:9.6.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "104BF53D-C6E3-4D9D-B7D3-C62CB30C5C9E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:9.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7872D4F2-2449-4C23-841E-4274D93C7534"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salonbookingsystem:salon_booking_system:9.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FB536F6F-6B3E-4A46-B384-A9931AAF69CE"
 		}
 	]
 }
