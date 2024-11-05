@@ -3,8 +3,8 @@
 	"matchCriteriaId": "8D13C5E8-29D1-4532-88C1-826651CDA34E",
 	"versionEndExcluding": "3.14.1",
 	"created": "2024-09-20T18:17:47.470",
-	"lastModified": "2024-09-20T18:17:47.470",
-	"cpeLastModified": "2024-09-20T18:17:47.470",
+	"lastModified": "2024-11-04T18:42:48.880",
+	"cpeLastModified": "2024-11-04T18:42:48.880",
 	"status": "Active",
 	"matches": [
 		{
@@ -662,6 +662,42 @@
 		{
 			"cpeName": "cpe:2.3:a:man:d-tale:3.7.0:*:*:*:*:*:*:*",
 			"cpeNameId": "C65AF9B7-5FAD-4AC1-9B43-5E119FF84EE7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:man:d-tale:3.8.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F97A3795-502F-4D8D-BF64-CC966566E307"
+		},
+		{
+			"cpeName": "cpe:2.3:a:man:d-tale:3.8.1:*:*:*:*:*:*:*",
+			"cpeNameId": "A9CE6C6C-2FF5-414A-BDFA-973A09C3091D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:man:d-tale:3.9.0:*:*:*:*:*:*:*",
+			"cpeNameId": "22265E52-E2D0-41A4-8C66-21F8B997B6F7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:man:d-tale:3.10.0:*:*:*:*:*:*:*",
+			"cpeNameId": "77888084-C44A-4B9E-A97E-7BE56994C5BE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:man:d-tale:3.11.0:*:*:*:*:*:*:*",
+			"cpeNameId": "BA3036A3-3F20-480A-971E-0FFC9B4AD336"
+		},
+		{
+			"cpeName": "cpe:2.3:a:man:d-tale:3.12.0:*:*:*:*:*:*:*",
+			"cpeNameId": "DA85DEF2-BE7D-4EC2-B33C-8344FAE8F214"
+		},
+		{
+			"cpeName": "cpe:2.3:a:man:d-tale:3.13.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B91FC1ED-2D9D-4826-8659-1137781CA256"
+		},
+		{
+			"cpeName": "cpe:2.3:a:man:d-tale:3.13.1:*:*:*:*:*:*:*",
+			"cpeNameId": "9F41D87A-A6D0-441C-AD23-224C83E5F42A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:man:d-tale:3.14.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5DBBC15F-8F58-4125-9784-DCCA6E11A065"
 		}
 	]
 }
