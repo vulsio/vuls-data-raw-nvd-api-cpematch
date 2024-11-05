@@ -3,8 +3,8 @@
 	"matchCriteriaId": "2BA89373-7E25-4632-89A1-7B1D54AB051A",
 	"versionEndExcluding": "2.65.0",
 	"created": "2024-10-11T22:01:41.480",
-	"lastModified": "2024-10-11T22:01:41.480",
-	"cpeLastModified": "2024-10-11T22:01:41.480",
+	"lastModified": "2024-11-05T16:18:26.110",
+	"cpeLastModified": "2024-11-05T16:18:26.110",
 	"status": "Active",
 	"matches": [
 		{
@@ -674,6 +674,46 @@
 		{
 			"cpeName": "cpe:2.3:a:microsoft:azure_cli:2.54.0:*:*:*:*:*:*:*",
 			"cpeNameId": "5E21FF3B-210E-4FC9-801F-1F6E4A09FC8A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:azure_cli:2.55.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B434082C-1DDD-4F40-BDAA-7EF346A6A284"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:azure_cli:2.56.0:*:*:*:*:*:*:*",
+			"cpeNameId": "2D226B22-74B7-4A43-823F-29C6AA05C5B0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:azure_cli:2.57.0:*:*:*:*:*:*:*",
+			"cpeNameId": "939828B2-6226-4E19-A0DD-7A67661C01A5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:azure_cli:2.58.0:*:*:*:*:*:*:*",
+			"cpeNameId": "58F01408-474A-4F58-A0D1-CEE03674C8FC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:azure_cli:2.59.0:*:*:*:*:*:*:*",
+			"cpeNameId": "59621708-0464-4B11-9D83-55772474B071"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:azure_cli:2.60.0:*:*:*:*:*:*:*",
+			"cpeNameId": "EEDC2347-6DBF-4CBB-B7BE-F719FF619A8B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:azure_cli:2.61.0:*:*:*:*:*:*:*",
+			"cpeNameId": "1C301DD2-75F8-4133-B478-1E9817E9B01A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:azure_cli:2.62.0:*:*:*:*:*:*:*",
+			"cpeNameId": "2698D61B-538A-4665-9E50-7D695E225A3C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:azure_cli:2.63.0:*:*:*:*:*:*:*",
+			"cpeNameId": "9D00AEAE-C18E-48C5-9885-4CFFA52EF764"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:azure_cli:2.64.0:*:*:*:*:*:*:*",
+			"cpeNameId": "AA90BCC2-44A3-463E-917E-0CD4E48BA99F"
 		}
 	]
 }

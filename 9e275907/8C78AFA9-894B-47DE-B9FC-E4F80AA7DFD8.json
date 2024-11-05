@@ -3,8 +3,8 @@
 	"matchCriteriaId": "8C78AFA9-894B-47DE-B9FC-E4F80AA7DFD8",
 	"versionEndExcluding": "0.20.8",
 	"created": "2024-11-04T22:59:35.560",
-	"lastModified": "2024-11-04T22:59:35.560",
-	"cpeLastModified": "2024-11-04T22:59:35.560",
+	"lastModified": "2024-11-05T15:47:27.880",
+	"cpeLastModified": "2024-11-05T15:47:27.880",
 	"status": "Active",
 	"matches": [
 		{
@@ -222,6 +222,14 @@
 		{
 			"cpeName": "cpe:2.3:a:tainacan:tainacan:0.20.5:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "5E3A0F16-9D4B-4426-AFE6-CD1DD7F8AC12"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tainacan:tainacan:0.20.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DE1E48DD-3C55-4720-81AE-3845E235BD33"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tainacan:tainacan:0.20.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "23C15140-B5A3-4951-90F9-EB947527C6A8"
 		}
 	]
 }

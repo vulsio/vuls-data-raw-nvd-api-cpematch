@@ -4,7 +4,7 @@
 	"versionEndIncluding": "12.0.1-3",
 	"created": "2023-09-21T17:20:51.187",
 	"lastModified": "2023-09-21T17:20:51.187",
-	"cpeLastModified": "2024-03-26T12:36:00.533",
+	"cpeLastModified": "2024-11-05T13:00:55.183",
 	"status": "Active",
 	"matches": [
 		{
@@ -354,6 +354,14 @@
 		{
 			"cpeName": "cpe:2.3:o:univention:univention_corporate_server:5.0:7:*:*:*:*:*:*",
 			"cpeNameId": "C6112F27-029D-4130-881E-D09CD0F3F149"
+		},
+		{
+			"cpeName": "cpe:2.3:o:univention:univention_corporate_server:5.0.8:*:*:*:*:*:*:*",
+			"cpeNameId": "B7AF2392-43F9-46C9-8030-34FB0C15EBD1"
+		},
+		{
+			"cpeName": "cpe:2.3:o:univention:univention_corporate_server:5.0.9:*:*:*:*:*:*:*",
+			"cpeNameId": "366C462F-32AC-44E9-899F-18CB0FBF8909"
 		}
 	]
 }
