@@ -3,8 +3,8 @@
 	"matchCriteriaId": "9FD8A536-9D0A-4818-8382-6371687D3005",
 	"versionEndExcluding": "5.10.2",
 	"created": "2024-11-04T12:02:50.063",
-	"lastModified": "2024-11-04T12:02:50.063",
-	"cpeLastModified": "2024-11-04T12:02:50.063",
+	"lastModified": "2024-11-06T14:59:27.587",
+	"cpeLastModified": "2024-11-06T14:59:27.587",
 	"status": "Active",
 	"matches": [
 		{
@@ -278,6 +278,54 @@
 		{
 			"cpeName": "cpe:2.3:a:bdthemes:element_pack:5.7.5:*:*:*:lite:wordpress:*:*",
 			"cpeNameId": "DFF103FA-A512-45CE-9D0D-FDC0CD35AA41"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bdthemes:element_pack:5.7.6:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "1A5FCB76-149A-4CF7-A109-31CAA1957073"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bdthemes:element_pack:5.7.7:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "3BC10B1E-8D88-4257-81E4-841EC17B03E9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bdthemes:element_pack:5.7.8:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "10AEEE7C-E6C9-4080-AA7B-80FC9C199941"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bdthemes:element_pack:5.8.0:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "0306107D-B393-41E2-8BF2-F3B496734C2C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bdthemes:element_pack:5.8.1:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "77BE5A84-3303-4C18-BD65-D2E6FA81AC6E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bdthemes:element_pack:5.8.2:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "8C624004-02EF-4225-867E-6390587F6FA6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bdthemes:element_pack:5.8.3:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "3A82A200-0C75-4F52-9717-336CA6F1B673"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bdthemes:element_pack:5.8.4:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "AD4DC3D4-829C-4601-8B89-B46CD44B6928"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bdthemes:element_pack:5.8.5:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "48B2FE30-A945-46E2-941A-F31611A2AED1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bdthemes:element_pack:5.9.0:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "B6740C2B-BE5C-4091-A526-9221B6C73CF4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bdthemes:element_pack:5.10.0:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "0D7F40E5-41AC-42B9-AA93-B5311CC0BD4C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bdthemes:element_pack:5.10.1:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "6B87E2B3-F034-4AF7-8C45-1B222EB6EA61"
 		}
 	]
 }
