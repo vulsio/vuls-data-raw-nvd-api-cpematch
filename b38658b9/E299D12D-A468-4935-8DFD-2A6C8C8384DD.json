@@ -3,10 +3,14 @@
 	"matchCriteriaId": "E299D12D-A468-4935-8DFD-2A6C8C8384DD",
 	"versionEndExcluding": "5.0.1",
 	"created": "2024-11-04T13:40:51.557",
-	"lastModified": "2024-11-04T13:40:51.557",
-	"cpeLastModified": "2024-11-04T13:41:57.130",
+	"lastModified": "2024-11-05T18:41:50.437",
+	"cpeLastModified": "2024-11-05T18:41:50.437",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:qbittorrent:qbittorrent:-:*:*:*:*:*:*:*",
+			"cpeNameId": "00FF90A9-7442-44C6-9E16-13B56C506D86"
+		},
 		{
 			"cpeName": "cpe:2.3:a:qbittorrent:qbittorrent:0.9.2:*:*:*:*:*:*:*",
 			"cpeNameId": "30A4F646-B797-49A5-80A3-CB8710B606AE"
@@ -904,6 +908,10 @@
 			"cpeNameId": "751A2961-CBA5-4455-996C-D754E66D86E1"
 		},
 		{
+			"cpeName": "cpe:2.3:a:qbittorrent:qbittorrent:4.6.0:-:*:*:*:*:*:*",
+			"cpeNameId": "D6D6BDBD-BE77-4446-8BD7-7C8D1E8EFF4F"
+		},
+		{
 			"cpeName": "cpe:2.3:a:qbittorrent:qbittorrent:4.6.0:alpha1:*:*:*:*:*:*",
 			"cpeNameId": "66223BBE-F907-429C-921B-2148B01978EE"
 		},
@@ -918,6 +926,46 @@
 		{
 			"cpeName": "cpe:2.3:a:qbittorrent:qbittorrent:4.6.0:rc2:*:*:*:*:*:*",
 			"cpeNameId": "088D886A-784D-4E20-BEFF-7691E2592A03"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qbittorrent:qbittorrent:4.6.1:*:*:*:*:*:*:*",
+			"cpeNameId": "4B9A9776-C75E-4A97-9614-A711477A9F20"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qbittorrent:qbittorrent:4.6.2:*:*:*:*:*:*:*",
+			"cpeNameId": "8D8AA9C8-17F6-4B4E-B508-D7254FF1C752"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qbittorrent:qbittorrent:4.6.3:*:*:*:*:*:*:*",
+			"cpeNameId": "184AD1AF-C99C-4375-B847-2159346443FE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qbittorrent:qbittorrent:4.6.4:*:*:*:*:*:*:*",
+			"cpeNameId": "EDFF2459-CFE2-449F-9049-3CBE7C034975"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qbittorrent:qbittorrent:4.6.5:*:*:*:*:*:*:*",
+			"cpeNameId": "FABDC4D9-B893-4EAF-9275-51427353FEE9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qbittorrent:qbittorrent:4.6.6:*:*:*:*:*:*:*",
+			"cpeNameId": "717409A5-5C00-4BEC-BF75-6E907E0278D0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qbittorrent:qbittorrent:4.6.7:*:*:*:*:*:*:*",
+			"cpeNameId": "C5F3BB19-69CA-48A4-8BB2-73E6A2E19B6A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qbittorrent:qbittorrent:5.0.0:-:*:*:*:*:*:*",
+			"cpeNameId": "0CD7A3A4-09F6-4242-8769-BEAF4C689E3D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qbittorrent:qbittorrent:5.0.0:beta1:*:*:*:*:*:*",
+			"cpeNameId": "926388E8-F84B-4100-A816-3980B8A2C005"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qbittorrent:qbittorrent:5.0.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "F7FD5B44-1FA9-4ED6-A7FF-CEA2419EE71E"
 		}
 	]
 }

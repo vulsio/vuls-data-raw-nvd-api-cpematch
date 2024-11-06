@@ -3,8 +3,8 @@
 	"matchCriteriaId": "EB0B75F2-9702-4E5D-AC4E-E4C85C985144",
 	"versionEndExcluding": "3.4.8",
 	"created": "2024-10-24T12:03:37.937",
-	"lastModified": "2024-10-24T12:03:37.937",
-	"cpeLastModified": "2024-10-24T12:03:37.937",
+	"lastModified": "2024-11-05T18:41:50.437",
+	"cpeLastModified": "2024-11-05T18:41:50.437",
 	"status": "Active",
 	"matches": [
 		{
@@ -422,6 +422,50 @@
 		{
 			"cpeName": "cpe:2.3:a:themeisle:multiple_page_generator:3.3.21:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "974EFB7D-768E-4B86-86DE-8236D83CD337"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeisle:multiple_page_generator:3.3.22:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7A098FA8-44B7-45FE-B8E7-90E37F425635"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeisle:multiple_page_generator:3.3.23:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1FE010FE-724B-4574-A200-C8C20E0F4688"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeisle:multiple_page_generator:3.3.24:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1B4D2B1B-0876-439D-B556-3210FC87A5B2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeisle:multiple_page_generator:3.4.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1404C5B4-833F-43AD-8A52-389F1ACB6F4B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeisle:multiple_page_generator:3.4.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5A25F4A5-424E-4505-99E3-63FF71763B44"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeisle:multiple_page_generator:3.4.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2DA49B69-AD62-4017-ACDD-FA94F154897E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeisle:multiple_page_generator:3.4.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2ED5F8F5-3666-4125-B893-051330207BD7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeisle:multiple_page_generator:3.4.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "92F803F5-8F5B-462D-9751-BC46D203646C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeisle:multiple_page_generator:3.4.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A465F1F1-9A7E-4B11-8578-31860723AF8A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeisle:multiple_page_generator:3.4.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7F4DBA06-6514-4185-A06D-9FE22A716CB2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeisle:multiple_page_generator:3.4.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9B25222A-1F90-4FC0-845E-9876A1FEFC3A"
 		}
 	]
 }

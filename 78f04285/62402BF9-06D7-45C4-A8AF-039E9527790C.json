@@ -3,8 +3,8 @@
 	"matchCriteriaId": "62402BF9-06D7-45C4-A8AF-039E9527790C",
 	"versionEndExcluding": "7.7.12",
 	"created": "2024-10-04T13:44:46.287",
-	"lastModified": "2024-10-04T13:44:46.287",
-	"cpeLastModified": "2024-10-04T13:44:46.287",
+	"lastModified": "2024-11-05T18:41:50.437",
+	"cpeLastModified": "2024-11-05T18:41:50.437",
 	"status": "Active",
 	"matches": [
 		{
@@ -282,6 +282,30 @@
 		{
 			"cpeName": "cpe:2.3:a:radiustheme:the_post_grid:7.7.5:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "3705CDCB-E65C-481F-B8D5-4D14B3863FE1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:radiustheme:the_post_grid:7.7.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "90DC3B76-4F59-4C2F-8D0B-8FA56A8C0942"
+		},
+		{
+			"cpeName": "cpe:2.3:a:radiustheme:the_post_grid:7.7.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A3057546-6071-4C7E-9BE7-D83E198A5EF7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:radiustheme:the_post_grid:7.7.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "30434C18-BE3C-4B78-8962-9C0FC5FF5766"
+		},
+		{
+			"cpeName": "cpe:2.3:a:radiustheme:the_post_grid:7.7.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "913C173B-5547-488A-8DF0-4C145B95AAA0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:radiustheme:the_post_grid:7.7.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C9A33708-3DD8-4FA4-A8F3-4EBA97059C4C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:radiustheme:the_post_grid:7.7.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3B55E571-FF85-4F30-A203-8AFA8F4A9004"
 		}
 	]
 }
