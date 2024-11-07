@@ -4,8 +4,8 @@
 	"versionStartIncluding": "24.0",
 	"versionEndIncluding": "24.4.1",
 	"created": "2024-09-11T20:55:11.463",
-	"lastModified": "2024-09-11T20:55:11.463",
-	"cpeLastModified": "2024-09-11T20:55:11.463",
+	"lastModified": "2024-11-07T12:40:47.143",
+	"cpeLastModified": "2024-11-07T12:40:47.143",
 	"status": "Active",
 	"matches": [
 		{
@@ -15,6 +15,10 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:audition:24.1:*:*:*:*:*:*:*",
 			"cpeNameId": "2D008BFC-0D8F-4210-B6DF-939409477CC6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:audition:24.4.1:*:*:*:*:*:*:*",
+			"cpeNameId": "C9CA7562-6DFB-4AA5-BA4A-FC7AC5038858"
 		}
 	]
 }

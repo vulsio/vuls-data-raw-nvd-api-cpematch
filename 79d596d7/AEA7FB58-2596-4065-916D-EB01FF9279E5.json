@@ -4,9 +4,13 @@
 	"versionEndIncluding": "2.16.0",
 	"created": "2022-09-24T02:55:57.723",
 	"lastModified": "2022-10-25T14:52:31.320",
-	"cpeLastModified": "2022-10-25T14:52:31.320",
+	"cpeLastModified": "2024-11-07T12:53:18.117",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "66C24028-FFF0-4997-B1BB-723507A4F71E"
+		},
 		{
 			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "1063A05D-7208-4944-A00B-8462BD68E852"

@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:sharp:mx-5111n_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "B6F045B8-62AE-4E8E-BF26-C72FF7322539",
 	"created": "2024-11-04T17:23:18.507",
-	"lastModified": "2024-11-04T17:23:18.507",
-	"cpeLastModified": "2024-11-04T17:23:18.507",
-	"status": "Active"
+	"lastModified": "2024-11-07T13:43:04.647",
+	"cpeLastModified": "2024-11-07T13:43:04.647",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:sharp:mx-5111n_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EE37B5AA-15E6-4C9C-BF99-3A2F30C3FB76"
+		}
+	]
 }

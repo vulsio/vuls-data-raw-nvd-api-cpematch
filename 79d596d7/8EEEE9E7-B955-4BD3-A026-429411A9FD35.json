@@ -3,10 +3,14 @@
 	"matchCriteriaId": "8EEEE9E7-B955-4BD3-A026-429411A9FD35",
 	"versionEndExcluding": "3.6.0",
 	"created": "2024-11-07T11:46:05.743",
-	"lastModified": "2024-11-07T11:46:05.743",
-	"cpeLastModified": "2024-11-07T11:46:05.743",
+	"lastModified": "2024-11-07T12:53:18.117",
+	"cpeLastModified": "2024-11-07T12:53:18.117",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "66C24028-FFF0-4997-B1BB-723507A4F71E"
+		},
 		{
 			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "1063A05D-7208-4944-A00B-8462BD68E852"
@@ -742,6 +746,110 @@
 		{
 			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:2.17.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "6A9A10E8-7EC5-457E-AEC4-120CF3761310"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:2.18.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2E754175-13A8-41C4-96C4-7AF8EFA996FA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:2.19.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D0EE3D1B-ADF3-4480-9496-F757BFB82C8C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:2.20.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6EE52AF1-517B-454A-9794-D9A83E18CFAC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:2.20.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6C3E3378-627B-46C4-8CC2-4C93491306D5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:2.20.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9361EABC-CA5A-4E08-BFF3-4913B87422DA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:2.20.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0C732410-917E-4BE3-A618-3D8697BAD876"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:2.21.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CE8DF728-E536-4581-A3D0-BFB6011A6361"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:2.22.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3AF6C7BC-E467-4F2C-9548-5ABF71CF2370"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:2.22.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AE169B0D-577A-4722-BEB8-4127D29AE141"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:2.23.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9EC3EC65-D699-4E94-A3C0-80600EEAB9A0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:2.24.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E7F056F7-5367-4F81-AEBB-61BC5451E2C2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:2.25.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "473CE3C5-ECDC-4DAC-AAED-7A0EAAFAA5CA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:2.25.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "303D180C-9917-4EE9-9118-407AF0852C31"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:2.25.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3838E3E6-5749-42E5-A92F-1EE915AEAC5F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:2.25.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E9BA6DFF-F0B3-4C4E-9099-8B3113CDCBB8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:3.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4DA4FA9F-09E5-453F-97A9-FE145104A755"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:3.0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DAC7D9D2-5687-4576-B41A-C6D1E1784216"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:3.0.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3FD7F696-F418-4D3C-8C5F-352FD032CAC2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:3.1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F9BBCF1F-EFE0-46C0-A008-3AE2F7B137ED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:3.1.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C222DDB8-D391-4973-8034-60CB63B3A87C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:3.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5EAAE872-2484-4E6E-8C21-CF1D0C3F5D79"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:3.3.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "851E9172-1390-46AA-B66D-E34321F8CB00"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:3.3.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C9F4E676-2BEA-44F8-B749-338EC47449D4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:3.4.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3231CB2E-65DC-4DC7-8830-A382C405B0BC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:3.4.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8D1AFA4F-1592-4561-82D7-28CCEFE968E4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:castos:seriously_simple_podcasting:3.5.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B3ECE465-5A94-4361-81EA-FA5711E8E308"
 		}
 	]
 }

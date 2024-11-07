@@ -3,8 +3,8 @@
 	"matchCriteriaId": "5AC7653C-F4C4-44E4-846A-C0C5BF9CC4D4",
 	"versionEndIncluding": "2.37",
 	"created": "2024-02-13T16:22:58.773",
-	"lastModified": "2024-02-13T16:22:58.773",
-	"cpeLastModified": "2024-02-13T16:22:58.773",
+	"lastModified": "2024-11-07T18:02:26.837",
+	"cpeLastModified": "2024-11-07T18:02:26.837",
 	"status": "Active",
 	"matches": [
 		{
@@ -130,6 +130,54 @@
 		{
 			"cpeName": "cpe:2.3:a:webfactoryltd:minimal_coming_soon_\\&_maintenance_mode:2.17:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "FC3A19C9-1F18-41AA-8EF1-EC36234026E6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webfactoryltd:minimal_coming_soon_\\&_maintenance_mode:2.18:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0FBF0B88-3080-489E-8F2F-7A418C8ACFF2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webfactoryltd:minimal_coming_soon_\\&_maintenance_mode:2.19:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "97A80B7A-4EC0-46EE-9873-2643927AD0E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webfactoryltd:minimal_coming_soon_\\&_maintenance_mode:2.20:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3E44187B-700B-466F-A65C-11783B1507F2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webfactoryltd:minimal_coming_soon_\\&_maintenance_mode:2.22:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2A913F38-71A2-4815-AE79-3AD052C7BDB3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webfactoryltd:minimal_coming_soon_\\&_maintenance_mode:2.25:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D9013E21-2D06-4871-9037-836A3A8892F2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webfactoryltd:minimal_coming_soon_\\&_maintenance_mode:2.26:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "113E1B5A-3861-4C24-BEC9-12407D147FE8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webfactoryltd:minimal_coming_soon_\\&_maintenance_mode:2.27:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "081ADE56-6060-49AE-AB27-4A8B364A0C3B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webfactoryltd:minimal_coming_soon_\\&_maintenance_mode:2.30:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "35D3F6A7-538C-4C23-96A4-7925D85A093A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webfactoryltd:minimal_coming_soon_\\&_maintenance_mode:2.33:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9D7521AD-8DFF-42EA-8D0E-1DF238AB116E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webfactoryltd:minimal_coming_soon_\\&_maintenance_mode:2.35:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A1A76040-1B13-4F0E-8BD9-29F8F4D4E957"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webfactoryltd:minimal_coming_soon_\\&_maintenance_mode:2.36:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "054AAE89-FE92-4FDC-BA84-8FCE04FAFCC9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webfactoryltd:minimal_coming_soon_\\&_maintenance_mode:2.37:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B5DB8AAA-E169-4C4A-A8AC-0BA15AEBD426"
 		}
 	]
 }

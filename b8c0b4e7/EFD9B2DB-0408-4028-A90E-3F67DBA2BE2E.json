@@ -4,10 +4,14 @@
 	"versionStartIncluding": "5.10.215",
 	"versionEndExcluding": "5.10.219",
 	"created": "2024-07-29T19:45:47.167",
-	"lastModified": "2024-07-29T19:45:47.167",
-	"cpeLastModified": "2024-07-29T19:45:47.167",
+	"lastModified": "2024-11-07T13:44:38.547",
+	"cpeLastModified": "2024-11-07T13:44:38.547",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:5.10.215:*:*:*:*:*:*:*",
+			"cpeNameId": "3800AEF1-ED61-41F4-9D70-EA3E0B77361D"
+		},
 		{
 			"cpeName": "cpe:2.3:o:linux:linux_kernel:5.10.216:*:*:*:*:*:*:*",
 			"cpeNameId": "0E9E733E-B81F-4112-AD2F-CE938439024B"

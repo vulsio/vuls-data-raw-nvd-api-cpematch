@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:sharp:mx-c382scb_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "3DAD0332-4286-40EF-85B1-83BCC0F3A7AF",
 	"created": "2024-11-04T17:23:18.507",
-	"lastModified": "2024-11-04T17:23:18.507",
-	"cpeLastModified": "2024-11-04T17:23:18.507",
-	"status": "Active"
+	"lastModified": "2024-11-07T13:43:04.647",
+	"cpeLastModified": "2024-11-07T13:43:04.647",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:sharp:mx-c382scb_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "265AC54B-7BA9-44AC-9A7E-19F8888B98F5"
+		}
+	]
 }

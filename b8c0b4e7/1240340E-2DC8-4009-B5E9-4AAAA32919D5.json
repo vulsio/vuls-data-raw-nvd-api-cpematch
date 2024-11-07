@@ -4,10 +4,14 @@
 	"versionStartIncluding": "4.19.317",
 	"versionEndExcluding": "4.19.320",
 	"created": "2024-09-05T20:27:18.230",
-	"lastModified": "2024-09-05T20:27:18.230",
-	"cpeLastModified": "2024-09-05T20:27:18.230",
+	"lastModified": "2024-11-07T13:44:38.547",
+	"cpeLastModified": "2024-11-07T13:44:38.547",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:4.19.317:*:*:*:*:*:*:*",
+			"cpeNameId": "E9C2D84D-3412-4889-868B-AEA2AD1982C1"
+		},
 		{
 			"cpeName": "cpe:2.3:o:linux:linux_kernel:4.19.318:*:*:*:*:*:*:*",
 			"cpeNameId": "BFC397A0-62B9-4BCF-8907-501A3CDF1CD6"

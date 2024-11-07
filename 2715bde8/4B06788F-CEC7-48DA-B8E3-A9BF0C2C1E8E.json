@@ -3,8 +3,8 @@
 	"matchCriteriaId": "4B06788F-CEC7-48DA-B8E3-A9BF0C2C1E8E",
 	"versionEndExcluding": "4.0.4",
 	"created": "2024-10-11T17:47:26.833",
-	"lastModified": "2024-10-11T17:47:26.833",
-	"cpeLastModified": "2024-10-11T17:47:26.833",
+	"lastModified": "2024-11-07T12:37:16.613",
+	"cpeLastModified": "2024-11-07T12:37:16.613",
 	"status": "Active",
 	"matches": [
 		{
@@ -38,6 +38,22 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:dimension:3.4.11:*:*:*:*:*:*:*",
 			"cpeNameId": "B4CD2CDB-080E-4773-91B2-D221A325FAFF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:dimension:4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "DC2A25DD-BC83-430B-B8E1-730527E2C0A7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:dimension:4.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "1A30064C-0C1D-46BA-AA2B-FA3F4A86ADD7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:dimension:4.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "44087C36-3746-45F3-9150-D78508C4D0AB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:dimension:4.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "895FE48E-2A91-49C8-BF00-E81CCDF12379"
 		}
 	]
 }

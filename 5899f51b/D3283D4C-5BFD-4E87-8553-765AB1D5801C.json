@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:sharp:dx-2500n_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "D3283D4C-5BFD-4E87-8553-765AB1D5801C",
 	"created": "2024-11-04T17:23:18.507",
-	"lastModified": "2024-11-04T17:23:18.507",
-	"cpeLastModified": "2024-11-04T17:23:18.507",
-	"status": "Active"
+	"lastModified": "2024-11-07T13:43:04.647",
+	"cpeLastModified": "2024-11-07T13:43:04.647",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:sharp:dx-2500n_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F821D9FB-B397-4F4E-AB4F-D40EDCD8AD09"
+		}
+	]
 }

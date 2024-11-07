@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:sharp:mx-3640nr_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "ED23591B-5936-4EC2-9B26-4F4A3F57FBAF",
 	"created": "2024-11-04T17:23:18.507",
-	"lastModified": "2024-11-04T17:23:18.507",
-	"cpeLastModified": "2024-11-04T17:23:18.507",
-	"status": "Active"
+	"lastModified": "2024-11-07T13:43:04.647",
+	"cpeLastModified": "2024-11-07T13:43:04.647",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:sharp:mx-3640nr_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FA75E282-76D1-41C9-AC2F-ED96CC79E241"
+		}
+	]
 }

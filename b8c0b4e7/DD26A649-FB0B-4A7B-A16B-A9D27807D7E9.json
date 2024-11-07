@@ -4,10 +4,14 @@
 	"versionStartIncluding": "6.8.10",
 	"versionEndExcluding": "6.9",
 	"created": "2024-10-09T18:01:35.740",
-	"lastModified": "2024-10-09T18:01:35.740",
-	"cpeLastModified": "2024-10-09T18:01:35.740",
+	"lastModified": "2024-11-07T13:44:38.547",
+	"cpeLastModified": "2024-11-07T13:44:38.547",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:6.8.10:*:*:*:*:*:*:*",
+			"cpeNameId": "DA233A76-2843-42F9-BE64-E161DCBE7084"
+		},
 		{
 			"cpeName": "cpe:2.3:o:linux:linux_kernel:6.8.11:*:*:*:*:*:*:*",
 			"cpeNameId": "D6510469-001B-4E1F-81C4-79B94BE9B631"
