@@ -1,10 +1,10 @@
 {
 	"criteria": "cpe:2.3:o:zephyrproject:zephyr:*:*:*:*:*:*:*:*",
-	"matchCriteriaId": "8BA5725B-1797-45C0-846C-FE2EC98D6440",
-	"versionEndIncluding": "3.6.0",
-	"created": "2024-09-16T16:02:25.700",
-	"lastModified": "2024-11-08T15:44:14.137",
-	"cpeLastModified": "2024-10-09T15:18:16.560",
+	"matchCriteriaId": "4B10CB41-5336-4560-A5F3-6E0EB805D5F0",
+	"versionEndIncluding": "3.6",
+	"created": "2024-11-08T15:43:40.207",
+	"lastModified": "2024-11-08T15:43:40.207",
+	"cpeLastModified": "2024-11-08T15:43:40.207",
 	"status": "Active",
 	"matches": [
 		{
@@ -546,22 +546,6 @@
 		{
 			"cpeName": "cpe:2.3:o:zephyrproject:zephyr:3.4.0:*:*:*:*:*:*:*",
 			"cpeNameId": "B593D1FC-5E1D-476C-AA0B-8AFC4AD6A3E4"
-		},
-		{
-			"cpeName": "cpe:2.3:o:zephyrproject:zephyr:3.6.0:-:*:*:*:*:*:*",
-			"cpeNameId": "5A5E235E-8C52-4E87-BD62-945D73185381"
-		},
-		{
-			"cpeName": "cpe:2.3:o:zephyrproject:zephyr:3.6.0:rc1:*:*:*:*:*:*",
-			"cpeNameId": "B6DB5A73-26AD-4696-9FE9-F29810F0552E"
-		},
-		{
-			"cpeName": "cpe:2.3:o:zephyrproject:zephyr:3.6.0:rc2:*:*:*:*:*:*",
-			"cpeNameId": "4A1B3F9C-98D3-4729-9C9D-1701AA12FC5F"
-		},
-		{
-			"cpeName": "cpe:2.3:o:zephyrproject:zephyr:3.6.0:rc3:*:*:*:*:*:*",
-			"cpeNameId": "76C84FD7-0821-4323-AEFE-A63F3B2AF822"
 		}
 	]
 }
