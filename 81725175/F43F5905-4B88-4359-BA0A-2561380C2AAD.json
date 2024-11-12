@@ -3,8 +3,8 @@
 	"matchCriteriaId": "F43F5905-4B88-4359-BA0A-2561380C2AAD",
 	"versionEndExcluding": "2.4.6",
 	"created": "2024-11-08T17:44:03.867",
-	"lastModified": "2024-11-08T17:44:03.867",
-	"cpeLastModified": "2024-11-08T17:44:03.867",
+	"lastModified": "2024-11-12T15:00:21.897",
+	"cpeLastModified": "2024-11-12T15:00:21.897",
 	"status": "Active",
 	"matches": [
 		{
@@ -138,6 +138,30 @@
 		{
 			"cpeName": "cpe:2.3:a:backupbliss:clone:2.3.9:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "7798A5BD-1F90-4B94-B972-5D3758A7CD53"
+		},
+		{
+			"cpeName": "cpe:2.3:a:backupbliss:clone:2.4.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3E8D70EA-BDED-43D7-A559-95F687B6BE2B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:backupbliss:clone:2.4.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "16D7A47C-1187-48C7-9D13-40DA30B8C8F8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:backupbliss:clone:2.4.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "676AF569-1100-4B04-9FFD-847E131DC8DB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:backupbliss:clone:2.4.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6CF5AD13-30F8-46FB-8701-B0D082EB9B28"
+		},
+		{
+			"cpeName": "cpe:2.3:a:backupbliss:clone:2.4.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "320F88D8-0160-4396-B989-62B023920667"
+		},
+		{
+			"cpeName": "cpe:2.3:a:backupbliss:clone:2.4.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "95D915E5-F7C3-494F-91AE-84C6661A5EEB"
 		}
 	]
 }

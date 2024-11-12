@@ -3,8 +3,8 @@
 	"matchCriteriaId": "AFB7C068-D4A1-411A-9517-6868B4B2CC6A",
 	"versionEndExcluding": "5.5.7",
 	"created": "2024-11-08T19:11:39.843",
-	"lastModified": "2024-11-08T19:11:39.843",
-	"cpeLastModified": "2024-11-08T19:11:39.843",
+	"lastModified": "2024-11-12T15:00:21.897",
+	"cpeLastModified": "2024-11-12T15:00:21.897",
 	"status": "Active",
 	"matches": [
 		{
@@ -146,6 +146,14 @@
 		{
 			"cpeName": "cpe:2.3:a:beardev:joomsport:5.2.8:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "D46B8BF5-6650-4D8B-AC71-BC52DB452304"
+		},
+		{
+			"cpeName": "cpe:2.3:a:beardev:joomsport:5.2.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "99A4FBE4-7132-4F60-B50C-EE8D024F5C9E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:beardev:joomsport:5.3.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0D6B7805-7BD1-4093-8091-3DBDC5BE3D17"
 		}
 	]
 }

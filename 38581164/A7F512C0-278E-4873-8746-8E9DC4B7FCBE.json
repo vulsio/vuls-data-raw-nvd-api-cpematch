@@ -3,8 +3,8 @@
 	"matchCriteriaId": "A7F512C0-278E-4873-8746-8E9DC4B7FCBE",
 	"versionEndExcluding": "2.2.14",
 	"created": "2024-11-08T21:21:46.720",
-	"lastModified": "2024-11-08T21:21:46.720",
-	"cpeLastModified": "2024-11-08T21:21:46.720",
+	"lastModified": "2024-11-12T15:10:32.140",
+	"cpeLastModified": "2024-11-12T15:10:32.140",
 	"status": "Active",
 	"matches": [
 		{
@@ -150,6 +150,46 @@
 		{
 			"cpeName": "cpe:2.3:a:everestthemes:everest_backup:2.2.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "747896C4-F0F4-4A5D-9C92-3CB26D9595DE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:everestthemes:everest_backup:2.2.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FF413E53-D364-453D-A593-E895A6CAEE48"
+		},
+		{
+			"cpeName": "cpe:2.3:a:everestthemes:everest_backup:2.2.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7D37179C-B384-4040-A062-00B70D55D19E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:everestthemes:everest_backup:2.2.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "061C6217-3098-4B13-866D-21158BC9A35E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:everestthemes:everest_backup:2.2.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4884388D-9EC5-4A71-957B-C314594CE496"
+		},
+		{
+			"cpeName": "cpe:2.3:a:everestthemes:everest_backup:2.2.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "31074909-23D8-42B8-A838-2A7BB14937A4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:everestthemes:everest_backup:2.2.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8F914D38-92B8-4F83-BA1B-C5F6571AF3B0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:everestthemes:everest_backup:2.2.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CEA00C05-D560-4CD9-8321-8E0BD3F26A52"
+		},
+		{
+			"cpeName": "cpe:2.3:a:everestthemes:everest_backup:2.2.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "34724982-F6A9-4226-B96D-E3E031A4DA47"
+		},
+		{
+			"cpeName": "cpe:2.3:a:everestthemes:everest_backup:2.2.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "27E49403-0E6D-4310-A62E-8F36C7763510"
+		},
+		{
+			"cpeName": "cpe:2.3:a:everestthemes:everest_backup:2.2.13:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2760CC52-E591-45D4-BCE5-D6973AC115AA"
 		}
 	]
 }

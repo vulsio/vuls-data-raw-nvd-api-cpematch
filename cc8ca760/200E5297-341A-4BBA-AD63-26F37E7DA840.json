@@ -3,10 +3,14 @@
 	"matchCriteriaId": "200E5297-341A-4BBA-AD63-26F37E7DA840",
 	"versionEndExcluding": "5.9.7",
 	"created": "2024-11-07T16:31:37.370",
-	"lastModified": "2024-11-07T16:31:37.370",
-	"cpeLastModified": "2024-11-07T16:36:37.557",
+	"lastModified": "2024-11-12T15:00:21.897",
+	"cpeLastModified": "2024-11-12T15:00:21.897",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:avecnous:event_post:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F25C45E8-3BF7-4A0A-915A-7D08D69DE7DD"
+		},
 		{
 			"cpeName": "cpe:2.3:a:avecnous:event_post:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "31572256-F94B-4AF5-AF4E-28C8236B4219"
@@ -414,6 +418,34 @@
 		{
 			"cpeName": "cpe:2.3:a:avecnous:event_post:5.8.6:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "195F1B99-CCC3-4058-883E-251C07679F0A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avecnous:event_post:5.9.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9E7314D1-C4DB-4792-9247-3898ED4FAFD5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avecnous:event_post:5.9.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9B576E8F-B054-45E1-A55A-DB92FBD04444"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avecnous:event_post:5.9.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8244DF21-5AF6-455A-9CFF-9967ECA73AC5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avecnous:event_post:5.9.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DD67644B-F5B7-4F8E-8AC6-D2B43D50F6E7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avecnous:event_post:5.9.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7CB4464C-7116-4B56-AD75-32763FD02F24"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avecnous:event_post:5.9.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F2E52771-596F-4579-9C24-14181E1478A0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:avecnous:event_post:5.9.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6B12D0A3-9215-4DEF-8A95-9C2354456A8F"
 		}
 	]
 }

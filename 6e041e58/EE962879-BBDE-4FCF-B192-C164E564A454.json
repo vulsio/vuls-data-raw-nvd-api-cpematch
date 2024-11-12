@@ -3,10 +3,14 @@
 	"matchCriteriaId": "EE962879-BBDE-4FCF-B192-C164E564A454",
 	"versionEndIncluding": "1.0",
 	"created": "2024-01-30T19:13:05.000",
-	"lastModified": "2024-01-30T19:13:05.000",
-	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"lastModified": "2024-11-12T15:00:21.897",
+	"cpeLastModified": "2024-11-12T15:00:21.897",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:benjaminzekavica:easy_svg_support:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1ECC8BC1-B947-4DBE-BCE1-44BA15924E45"
+		},
 		{
 			"cpeName": "cpe:2.3:a:benjaminzekavica:easy_svg_support:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "C330B033-E15B-409A-8520-998BDEC2624D"
