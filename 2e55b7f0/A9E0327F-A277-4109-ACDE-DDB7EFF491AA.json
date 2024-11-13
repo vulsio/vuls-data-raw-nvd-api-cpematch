@@ -3,8 +3,8 @@
 	"matchCriteriaId": "A9E0327F-A277-4109-ACDE-DDB7EFF491AA",
 	"versionEndExcluding": "2.94.2",
 	"created": "2024-11-07T17:03:48.737",
-	"lastModified": "2024-11-07T17:03:48.737",
-	"cpeLastModified": "2024-11-07T17:03:48.737",
+	"lastModified": "2024-11-13T17:43:00.753",
+	"cpeLastModified": "2024-11-13T17:43:00.753",
 	"status": "Active",
 	"matches": [
 		{
@@ -964,6 +964,10 @@
 			"cpeNameId": "6AAC4B1D-CEE0-4AD2-AF38-D561BBDF7798"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.81.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "55994478-9652-44AB-A265-0AB5056EA178"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.81.2:*:*:*:free:wordpress:*:*",
 			"cpeNameId": "C874F818-6488-4311-8D18-538D23F4575F"
 		},
@@ -1072,8 +1076,16 @@
 			"cpeNameId": "F21442D5-66D3-4244-AD82-45198CC63D60"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.83.21:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "8C4C190B-E313-4412-836C-7E25C5AFD850"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.83.22:*:*:*:free:wordpress:*:*",
 			"cpeNameId": "2CBB97CE-C85F-4FCD-B9F8-3F5694C74582"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.83.23:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "046150E8-3A84-4C93-A27D-5DABF64AE43A"
 		},
 		{
 			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.84:*:*:*:free:wordpress:*:*",
@@ -1164,8 +1176,344 @@
 			"cpeNameId": "5F500D32-C40B-4BFE-8253-A541876ADBED"
 		},
 		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.84.22:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "5310711F-0AA3-49CA-91CC-5F52C2001678"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.85:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "22B0FA7A-63B8-432A-B621-70626EAFD580"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.85.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "A98D4CB6-97E8-46B3-9110-65C53EF9677A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.85.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "3930E481-58E5-45F3-99AC-124C061B22B2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.85.3:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "A6D9BA38-2E1D-417B-8CBB-65B20198AD5B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.85.4:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "99854234-8B95-44B2-A136-FBDE05D4ABD7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.85.5:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "E4C06E0B-4AAC-4203-A652-221C5B536A1D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.85.6:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "38CD9A7B-75FB-4359-8417-3AC29152B2B8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.85.7:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "660CD6D7-2E9D-4C8C-B8BA-2DF4DE074000"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.85.8:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "234D7A06-A6F1-4937-A79B-D95432613331"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.85.9:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "7B9F67CC-4062-442C-93B3-E57F46CBBF7C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.86:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "618AE73A-DDC0-4305-B733-AB937087D072"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.86.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "08D829AB-9745-471F-ADF7-761F886E37B2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.86.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "27564E05-0023-4AFC-A6FA-F1BAD421631F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.86.3:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "D5B14F2B-DD26-4A3B-826C-9E1BBF8ECC0B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.86.4:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "FA9C6BB5-601F-46D0-9DF6-2FC8085F47DC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.86.5:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "544955CC-FA5A-47EF-859C-7AD2A5938417"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.86.6:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "AE09C42E-31FF-4AC1-BB52-47C017245F9E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.86.7:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "B7204D89-5911-4BCD-90FF-4D5AB4300E6E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.86.8:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "5E63AC58-271C-444C-A581-BF5FD6E0BB03"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.86.9:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "EAF427ED-4813-4A8F-9304-1EA71A959423"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.86.10:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "CFA8E275-ED47-4EBE-A6F7-CC1A9AD75FC6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.86.11:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "D0E7BDFD-2CC2-43D2-8DAB-E72AF50C7DA6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.86.12:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "B1C7A59E-3BFA-4C46-BEB5-8CADE605D8CB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.86.13:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "0F3F066D-ADD1-4020-834E-37CB0740CB3F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.86.14:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "F3FF670D-1E60-4692-B944-D179D6EE40E0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.86.15:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "F2D08CCD-2825-4970-AE5C-DEAE63ADA03B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.86.16:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "BE08A30A-88D1-4707-8794-8C14138C8A91"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.86.17:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "228F9146-C43D-46FA-8A28-106248237A7F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.86.18:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "F524C3D7-1F26-4B40-8BBC-56256D5E7550"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.87:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "A8CEA9BE-032C-4A92-915D-1144B352B873"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.87.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "5AB12C65-F654-4CB3-9F3D-0EF7D407C6DA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.87.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "A289950E-EFBB-46D4-8B3B-8E7E90523292"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.87.3:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "6BC5F4C5-5F9B-4030-A02C-18FB50855351"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.87.4:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "E3D35F0B-CD3D-4487-905D-798CCAAC7AAD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.87.5:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "3C65F603-4D3E-4598-94C2-5252259053A3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.88:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "51F62A17-0CB6-4991-AD24-F28A23E4611B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.88.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "16327163-5900-49BF-9A15-78EB730BD041"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.88.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "B62F77D0-CF6E-45AA-8B53-689B1CB00CA0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.88.3:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "CA6427E4-811C-485C-93A3-35BBECD51276"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.88.4:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "43053EAA-0229-4ACE-82BF-DC3728E858B6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.88.5:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "5C4B1407-802E-4728-9E4F-5943641FA062"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.88.6:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "51F3A92F-770D-4F54-ADC7-C380144350A8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.88.7:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "F34C876C-CD56-4B5B-AC92-955C64976119"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.88.8:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "2487893E-0D2F-493C-82AD-BB19C088C5D2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.88.9:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "B72B440F-89E8-4E5C-AFF4-91401D970CD4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.88.10:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "FCB2FEAB-B809-441C-9031-2DB10DA7815C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.88.11:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "2664C697-1039-4CFA-A078-416BAE71528C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.88.12:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "AAF1F7D5-59B8-48A0-B918-8B1DB236D1E8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.88.13:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "B351871F-545D-4C91-A750-546473133DFC"
+		},
+		{
 			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.88.14:*:*:*:free:wordpress:*:*",
 			"cpeNameId": "8E14037C-54DF-4A79-A64F-BB9CE371C2AA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.88.15:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "24654351-01D5-4A43-A1BE-C8A19CFE3FF0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.88.16:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "1722179B-E0CE-4873-A586-50454A3A7B93"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.88.17:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "49CE5A50-45FF-4414-93F4-A9D71B3E90C1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.88.18:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "7ABFC9FD-6123-4586-8C8B-0029FD369E3E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.88.19:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "6E8ED628-BF63-4E0E-9DD0-EAA120C73555"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.89:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "1BD2D70C-1CE0-40DA-8C91-2036187F3E5E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.89.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "B0A7D6D2-1199-46DC-B59C-20468549BAB5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.89.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "7E611A7F-7F18-40FC-9AAA-C29C5D0CBF41"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.89.3:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "34E8C9CB-D406-4A9C-88D6-720CAC8F1B8F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.89.4:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "886F1F37-5BD1-4E84-BEB6-BF582DA87CD9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.89.5:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "EE5ECE0A-2470-426F-B9C6-15945650507F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.89.6:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "72FA980E-15AA-4DB2-B394-02D165139081"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.89.7:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "E42D2F7F-2E5E-4EED-BD39-B3E93BD726C4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.89.8:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "88B5D1CE-4410-40C4-90A4-136CBCD9B127"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.89.9:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "5039CB28-5843-40B9-B4D9-315FE859AA32"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.89.10:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "E8388E70-DE76-435B-822D-3D10C24D1955"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.89.11:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "81DBD64A-0516-4292-BA28-0FEDFD46AEA2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.90.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "5150C9FB-3BA6-49FB-92F5-8E2B4D0A114F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.90.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "D85FBDB0-98A0-4C1E-B599-FCF9EE9B5324"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.90.3:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "A074A14F-BF8D-4BFD-9155-79CD07DA6FBD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.90.4:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "E8272DF4-A7CA-4416-9EAE-BC518308A69C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.90.5:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "46A64682-8495-4C80-B7EB-91FAE9487407"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.90.6:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "62B5BEEB-014C-41D1-AD80-2F00B334CD6D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.91.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "E00464E5-19E0-404B-BF18-E094B9D37826"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.91.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "0D272B58-6563-4B1F-A214-19D7D8FD42F4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.91.3:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "9DFEA59E-B56E-4FF1-AFCE-184DEBDD5E06"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.91.4:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "81D11794-218C-4C05-BF48-74373D7E0A9D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.91.5:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "7AA64621-1563-4DAF-A688-CF5BB7C28160"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.91.6:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "A2844069-4A59-4EC0-9FC7-FF37D759DAB6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.92.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "5780C23E-D91B-4A23-AB5E-57B2686DBEEB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.92.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "0E700796-DED8-4AD0-9D5E-96D13102A9D8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.93:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "38ACD06F-C396-4AFF-97B3-7D8F1B57D817"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.94:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "9EDAF8D9-89E6-4D25-AC21-3650F7911978"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress:2.94.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "62F73C6C-0DCC-4A9D-9B12-A2202A6525F5"
 		}
 	]
 }

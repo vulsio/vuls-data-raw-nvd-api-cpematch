@@ -3,8 +3,8 @@
 	"matchCriteriaId": "A2803295-4D8A-4643-B5C4-C027FF8CD278",
 	"versionEndIncluding": "1.16.2",
 	"created": "2024-11-07T17:49:15.700",
-	"lastModified": "2024-11-07T17:49:15.700",
-	"cpeLastModified": "2024-11-07T17:49:15.700",
+	"lastModified": "2024-11-13T17:24:07.830",
+	"cpeLastModified": "2024-11-13T17:24:07.830",
 	"status": "Active",
 	"matches": [
 		{
@@ -562,6 +562,138 @@
 		{
 			"cpeName": "cpe:2.3:a:humhub:humhub:1.11.4:*:*:*:*:*:*:*",
 			"cpeNameId": "663ECC88-4656-483B-938A-377B41DA02A0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.12.0:-:*:*:*:*:*:*",
+			"cpeNameId": "76D7A175-B4A6-4A20-9453-68831F3B4C7B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.12.0:beta1:*:*:*:*:*:*",
+			"cpeNameId": "A85F8727-3FD2-4D63-97A6-56074FF80A79"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.12.1:*:*:*:*:*:*:*",
+			"cpeNameId": "D3A8006A-A5CE-47FA-A670-EAEB79D0EFBA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.12.2:*:*:*:*:*:*:*",
+			"cpeNameId": "A9C0AB7D-1C81-4AAA-9917-D8815F97FC93"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.12.3:*:*:*:*:*:*:*",
+			"cpeNameId": "975F6244-A442-4836-8611-8EBA6C7AB21A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.13.0:-:*:*:*:*:*:*",
+			"cpeNameId": "DE807FCF-6A88-40CB-A93C-6AF1EF45DE29"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.13.0:beta1:*:*:*:*:*:*",
+			"cpeNameId": "2E77983E-BD5A-4505-A30A-F22C0269B792"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.13.0:beta2:*:*:*:*:*:*",
+			"cpeNameId": "2B29714C-0FAB-410A-AC40-B295F670E541"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.13.1:*:*:*:*:*:*:*",
+			"cpeNameId": "75E73E06-901B-4018-8DB1-26E26E4E74A1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.13.2:*:*:*:*:*:*:*",
+			"cpeNameId": "E3C15518-F905-4C59-A116-47FDAA1F75E8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.14.0:-:*:*:*:*:*:*",
+			"cpeNameId": "0A7A5594-6D2B-4E0E-BD99-EA14ED0C5661"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.14.0:beta1:*:*:*:*:*:*",
+			"cpeNameId": "D7EC3F50-0755-498A-AD30-08571F15EE27"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.14.0:beta2:*:*:*:*:*:*",
+			"cpeNameId": "370B95E9-1F26-49E5-8CA2-8163A211CCFD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.14.1:*:*:*:*:*:*:*",
+			"cpeNameId": "E1FDA70F-6177-436A-A9A6-05DED01BD8B2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.14.2:*:*:*:*:*:*:*",
+			"cpeNameId": "0BAB96E9-E43E-43C9-B15A-D1DD746FE97F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.14.3:*:*:*:*:*:*:*",
+			"cpeNameId": "1C411C18-4B38-4F8E-85BC-2F175F3DD899"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.14.4:*:*:*:*:*:*:*",
+			"cpeNameId": "999B4F89-F359-4107-B861-BE39C58F1566"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.14.5:*:*:*:*:*:*:*",
+			"cpeNameId": "6389404B-3DB6-4441-A54C-63366C2FEA44"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.15.0:-:*:*:*:*:*:*",
+			"cpeNameId": "A46EA81E-23BA-493E-BCC6-3202B1F71A7A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.15.0:beta1:*:*:*:*:*:*",
+			"cpeNameId": "BF08E201-9B28-4503-9DEB-054F3904A9D0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.15.0:beta2:*:*:*:*:*:*",
+			"cpeNameId": "5DDB6B46-63DF-4B9B-BDA5-21C9D17DD41A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.15.1:*:*:*:*:*:*:*",
+			"cpeNameId": "CAFC19C0-F3FB-4582-B07D-E0ED0ACF0B6B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.15.2:*:*:*:*:*:*:*",
+			"cpeNameId": "33CA360C-0EE1-4DD1-8225-1297FDAB121D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.15.3:*:*:*:*:*:*:*",
+			"cpeNameId": "A44AEF51-086A-4177-AA43-0EFEC5674867"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.15.4:*:*:*:*:*:*:*",
+			"cpeNameId": "8F68AD7A-9A47-482C-9E6B-5334BFEE730F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.15.5:*:*:*:*:*:*:*",
+			"cpeNameId": "0A457E06-406E-43A1-B8F3-50D935C09D6A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.15.6:*:*:*:*:*:*:*",
+			"cpeNameId": "5F910D00-B0AF-4860-8AC6-F746BBE6BCC4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.16.0:-:*:*:*:*:*:*",
+			"cpeNameId": "68C0A5DD-C6D5-4260-865C-C93CC22DA5E9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.16.0:beta1:*:*:*:*:*:*",
+			"cpeNameId": "F5DA0ABE-B598-4123-A928-12036E408A17"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.16.0:beta2:*:*:*:*:*:*",
+			"cpeNameId": "7CEC6E30-61BB-4A6D-9163-DBA5B1D4D72D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.16.0:beta3:*:*:*:*:*:*",
+			"cpeNameId": "D86D697B-D09B-44F3-86EB-2517FFE602A0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.16.1:*:*:*:*:*:*:*",
+			"cpeNameId": "5BC8D150-67FC-43BB-8BE7-F672027D835A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:humhub:humhub:1.16.2:*:*:*:*:*:*:*",
+			"cpeNameId": "5B6F1A2A-39E5-4B99-B891-C44D7FA67302"
 		}
 	]
 }
