@@ -4,8 +4,8 @@
 	"versionStartIncluding": "0.1.6",
 	"versionEndExcluding": "4.4.2",
 	"created": "2024-11-12T17:25:29.480",
-	"lastModified": "2024-11-12T17:25:29.480",
-	"cpeLastModified": "2024-11-12T17:25:29.480",
+	"lastModified": "2024-11-12T20:34:50.973",
+	"cpeLastModified": "2024-11-12T20:34:50.973",
 	"status": "Active",
 	"matches": [
 		{
@@ -535,6 +535,138 @@
 		{
 			"cpeName": "cpe:2.3:a:weechat:weechat:3.5:rc1:*:*:*:*:*:*",
 			"cpeNameId": "26BCB771-1D05-42A9-BC76-E5B5897BF098"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:3.6:-:*:*:*:*:*:*",
+			"cpeNameId": "66702C15-BF69-4F38-BA88-EC397085586E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:3.6:rc1:*:*:*:*:*:*",
+			"cpeNameId": "A1B236F4-9959-42D0-8779-C1A95504DDAE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:3.7:*:*:*:*:*:*:*",
+			"cpeNameId": "E49D5D17-BAB0-4E71-BA82-E13C5CE2934A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:3.7.1:*:*:*:*:*:*:*",
+			"cpeNameId": "C8453ED7-B42C-4941-8804-2AEE6B41925F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:3.8:-:*:*:*:*:*:*",
+			"cpeNameId": "3EEBE56F-5DBB-4B27-BE27-706B8AAA57D8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:3.8:rc1:*:*:*:*:*:*",
+			"cpeNameId": "8AF47F0C-ADA2-4DFE-B39E-4DC72202BB99"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.0.0:-:*:*:*:*:*:*",
+			"cpeNameId": "3C0D542A-2A5A-42EF-8B5E-4C7897F71C1C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.0.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "85D3D9F1-66D6-49E2-97EB-5D57E88C63F6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "A97CDAFD-B84A-4896-BDF1-1BE77B10E6DB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "0802B371-7B26-4D28-872C-D2266C1ECE05"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "B176C70D-79C7-4B7F-BCA4-772266573C65"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.0.4:*:*:*:*:*:*:*",
+			"cpeNameId": "4AC01E26-8CFD-4706-8066-FB03CF353EA7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.0.5:*:*:*:*:*:*:*",
+			"cpeNameId": "4E0321BD-0CB2-4809-A408-70542F34555D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.0.6:*:*:*:*:*:*:*",
+			"cpeNameId": "00A4B5C5-50C1-4F98-AA5A-151A80A0B53D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.0.7:*:*:*:*:*:*:*",
+			"cpeNameId": "B74F7AD7-8E87-4C7D-8D15-AF4CAC2F47D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.0.8:*:*:*:*:*:*:*",
+			"cpeNameId": "433592FE-C656-4226-92B2-9711BEB94A19"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "8F0C935E-3186-4D93-A59F-A36DFD99BE71"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "1F069F69-36A7-4D6D-9C31-C671DF63645C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "9586599B-FCC0-4F00-BE7A-BD2DC10FF102"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.1.3:*:*:*:*:*:*:*",
+			"cpeNameId": "FCA837D9-BB5B-4E06-987D-886F233A9C49"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "09E97AC4-6C62-453D-ACAF-B41141C64681"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "8B3FBA8B-636A-41A0-A8A6-01015EBAEA8C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "16A57283-2033-443A-B2C6-481E14111CC3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.2.3:*:*:*:*:*:*:*",
+			"cpeNameId": "A4787707-5194-4149-A715-874611C3DA2E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "CE1680F3-FDEB-4DB7-8FEA-8222C4BA7C83"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "45110791-ECF0-4783-B9F5-1B6510DB60CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.3.2:*:*:*:*:*:*:*",
+			"cpeNameId": "D981BFFD-7398-4041-B2BB-BCB0A807D185"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.3.3:*:*:*:*:*:*:*",
+			"cpeNameId": "4409F023-5516-4778-8DFD-386D650874DE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.3.4:*:*:*:*:*:*:*",
+			"cpeNameId": "3FD0FC18-3CC1-42A1-9E7C-9230BA4985D1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.3.5:*:*:*:*:*:*:*",
+			"cpeNameId": "24A0B0E5-F09F-43D7-B17A-43F2796FF440"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.3.6:*:*:*:*:*:*:*",
+			"cpeNameId": "945A7383-0158-435D-864F-A23980BD3252"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "8BFA7D54-4975-4CA6-B24B-A47A4FCAF302"
+		},
+		{
+			"cpeName": "cpe:2.3:a:weechat:weechat:4.4.1:*:*:*:*:*:*:*",
+			"cpeNameId": "0A6434B8-E0B0-4295-8A51-EC1F9C8FC53A"
 		}
 	]
 }

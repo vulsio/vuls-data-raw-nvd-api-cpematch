@@ -3,10 +3,14 @@
 	"matchCriteriaId": "CE693C78-B144-4CA0-929F-8BD6FD78F7DA",
 	"versionEndExcluding": "3.4.3",
 	"created": "2024-10-02T14:41:57.420",
-	"lastModified": "2024-10-02T14:41:57.420",
-	"cpeLastModified": "2024-10-02T14:41:57.420",
+	"lastModified": "2024-11-12T20:51:43.830",
+	"cpeLastModified": "2024-11-12T20:51:43.830",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:xtendify:simple_calendar:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E90A3EE7-17AE-42AB-BBBD-CE4665CD8B67"
+		},
 		{
 			"cpeName": "cpe:2.3:a:xtendify:simple_calendar:2.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "A6002A29-6D58-45E6-AEAA-217CD9BE5608"
@@ -404,8 +408,24 @@
 			"cpeNameId": "EA17D0C0-2106-4D20-867B-9B4400571C9C"
 		},
 		{
+			"cpeName": "cpe:2.3:a:xtendify:simple_calendar:3.3.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "380552E4-4AC0-4FC5-AA12-9011C36C4B07"
+		},
+		{
+			"cpeName": "cpe:2.3:a:xtendify:simple_calendar:3.3.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4A3281B0-9030-4114-A8AC-0C6C8F1772C2"
+		},
+		{
 			"cpeName": "cpe:2.3:a:xtendify:simple_calendar:3.4:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "354792AD-3A90-4455-B164-C8F8D46A9B4B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:xtendify:simple_calendar:3.4.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1B9AA887-538B-4EBA-8B3C-F4AEB459E6E9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:xtendify:simple_calendar:3.4.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "96DC535A-6915-4FE1-AEE8-C080FE22B3E3"
 		}
 	]
 }
