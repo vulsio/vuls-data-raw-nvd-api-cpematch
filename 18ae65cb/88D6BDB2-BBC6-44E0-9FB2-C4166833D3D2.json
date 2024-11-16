@@ -3,8 +3,8 @@
 	"matchCriteriaId": "88D6BDB2-BBC6-44E0-9FB2-C4166833D3D2",
 	"versionEndExcluding": "0.36.2",
 	"created": "2024-11-14T16:02:24.030",
-	"lastModified": "2024-11-14T16:02:24.030",
-	"cpeLastModified": "2024-11-14T16:02:24.030",
+	"lastModified": "2024-11-15T19:42:37.100",
+	"cpeLastModified": "2024-11-15T19:42:37.100",
 	"status": "Active",
 	"matches": [
 		{
@@ -526,6 +526,54 @@
 		{
 			"cpeName": "cpe:2.3:a:encode:starlette:0.28.0:*:*:*:*:python:*:*",
 			"cpeNameId": "316A1A8B-A008-4244-93B0-D0A0E1CD171D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:encode:starlette:0.29.0:*:*:*:*:python:*:*",
+			"cpeNameId": "611DBBFB-1B53-44D9-B908-DE4E0A067561"
+		},
+		{
+			"cpeName": "cpe:2.3:a:encode:starlette:0.30.0:*:*:*:*:python:*:*",
+			"cpeNameId": "0187AF6D-92D9-4B9F-AF05-DC3D86733DCE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:encode:starlette:0.31.0:*:*:*:*:python:*:*",
+			"cpeNameId": "A172156B-28A3-44CB-97D6-71D7C25502AE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:encode:starlette:0.31.1:*:*:*:*:python:*:*",
+			"cpeNameId": "F75C704A-B208-47E6-A396-FEECB4A72B92"
+		},
+		{
+			"cpeName": "cpe:2.3:a:encode:starlette:0.32.0:-:*:*:*:python:*:*",
+			"cpeNameId": "55511E09-BF07-48EE-B66A-1D088E371264"
+		},
+		{
+			"cpeName": "cpe:2.3:a:encode:starlette:0.32.0:post1:*:*:*:python:*:*",
+			"cpeNameId": "BA9DB481-69BA-4F63-A5E1-B0E24B16F79B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:encode:starlette:0.33.0:*:*:*:*:python:*:*",
+			"cpeNameId": "48F84619-7F30-470F-8CCD-E4CB30083CC4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:encode:starlette:0.34.0:*:*:*:*:python:*:*",
+			"cpeNameId": "64F1D132-1D9D-463C-8B69-B2763C1DB64B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:encode:starlette:0.35.0:*:*:*:*:python:*:*",
+			"cpeNameId": "3D3F04CB-0FCB-4B14-9D32-8267FD483CCF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:encode:starlette:0.35.1:*:*:*:*:python:*:*",
+			"cpeNameId": "CF8C862B-1832-4F19-B3A4-4B143A74A34A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:encode:starlette:0.36.0:*:*:*:*:python:*:*",
+			"cpeNameId": "41BB4131-49BE-4FDD-8F36-A5C8C7E40F95"
+		},
+		{
+			"cpeName": "cpe:2.3:a:encode:starlette:0.36.1:*:*:*:*:python:*:*",
+			"cpeNameId": "6A25CEB5-57D3-471A-BD52-D8309BDCC289"
 		}
 	]
 }

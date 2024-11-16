@@ -3,8 +3,8 @@
 	"matchCriteriaId": "D85D6464-6631-459D-8897-960F5BCAFAB2",
 	"versionEndExcluding": "3.7.8",
 	"created": "2024-11-08T18:24:34.277",
-	"lastModified": "2024-11-08T18:24:34.277",
-	"cpeLastModified": "2024-11-12T15:10:32.140",
+	"lastModified": "2024-11-15T19:23:26.770",
+	"cpeLastModified": "2024-11-15T19:23:26.770",
 	"status": "Active",
 	"matches": [
 		{
@@ -226,6 +226,62 @@
 		{
 			"cpeName": "cpe:2.3:a:fontsplugin:fonts:3.6.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "B3F285E7-5905-4D32-B4FE-5653CF016EDC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fontsplugin:fonts:3.6.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7825DF9E-89A3-419E-88BC-7B9F45148F4B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fontsplugin:fonts:3.6.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F26187C5-4F5C-4D48-8279-D46B039B3300"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fontsplugin:fonts:3.6.31:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F611C331-413C-4FF1-B412-CDECAFBED3FA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fontsplugin:fonts:3.6.41:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A39DD39A-E5B6-4433-A4E2-B8381A4F85F0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fontsplugin:fonts:3.6.42:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CFB05611-4E99-4BBE-ACCE-F9239A50F0B7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fontsplugin:fonts:3.6.51:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EF0F7515-E8EE-4E68-96D3-C376124887D2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fontsplugin:fonts:3.7.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9B129289-4873-44E1-A3DF-2BBC971D7DFD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fontsplugin:fonts:3.7.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E99AD1F2-6D78-4F1C-812F-99A98BC27E2E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fontsplugin:fonts:3.7.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0EA725F5-7962-4477-8231-BFC1A2EA67C2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fontsplugin:fonts:3.7.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7C553498-14C3-49C8-B2C4-1BB73DC9441D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fontsplugin:fonts:3.7.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C5E6C9EC-0F47-42A5-BA0F-AA6C45316B6B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fontsplugin:fonts:3.7.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FA7AFAFC-6256-40F2-909F-F52EE1B7D7AE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fontsplugin:fonts:3.7.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "47E81F4F-3A1D-40A4-B0C9-2BE38108AFBC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fontsplugin:fonts:3.7.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D691D022-11B7-45DC-8539-D73E23EC70DF"
 		}
 	]
 }

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "C80F9830-2AB1-45C0-9ECA-97610C7E9F56",
 	"versionEndExcluding": "2.0.12",
 	"created": "2024-11-08T16:36:56.407",
-	"lastModified": "2024-11-08T16:36:56.407",
-	"cpeLastModified": "2024-11-08T16:36:56.407",
+	"lastModified": "2024-11-15T19:23:26.770",
+	"cpeLastModified": "2024-11-15T19:23:26.770",
 	"status": "Active",
 	"matches": [
 		{
@@ -182,6 +182,66 @@
 		{
 			"cpeName": "cpe:2.3:a:futuriowp:futurio_extra:1.8.4:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "3DCBF979-5F58-498B-AFA9-CA51E63D1377"
+		},
+		{
+			"cpeName": "cpe:2.3:a:futuriowp:futurio_extra:1.8.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8272FFE2-69C0-45FC-8539-463300C049A5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:futuriowp:futurio_extra:1.9.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F76C8520-E4EB-4C74-AE39-69DB2BBA6259"
+		},
+		{
+			"cpeName": "cpe:2.3:a:futuriowp:futurio_extra:1.9.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "23B262D8-AC0B-4AB0-87F6-51B8DA2D6F1E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:futuriowp:futurio_extra:2.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "809FB0C5-C94D-4726-B15C-B91E4EBDF23B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:futuriowp:futurio_extra:2.0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "503F3EC3-F360-4CE9-A0A9-6028B29CAF8A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:futuriowp:futurio_extra:2.0.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A36D19BE-A4E3-440D-AC6D-C98AF1E22CC0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:futuriowp:futurio_extra:2.0.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6F60B334-2E46-48F9-874B-0C3BDE967DF0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:futuriowp:futurio_extra:2.0.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0ABEDD45-EE30-4608-916A-926A7118CC92"
+		},
+		{
+			"cpeName": "cpe:2.3:a:futuriowp:futurio_extra:2.0.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3A168EC6-0F13-4E53-A24C-4B57A7DA1BC9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:futuriowp:futurio_extra:2.0.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0BD50DBF-80D3-4845-8908-12437F556F8A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:futuriowp:futurio_extra:2.0.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D90E800F-FE9B-43D6-8163-CD47589D34A8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:futuriowp:futurio_extra:2.0.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "99122EB1-6874-449A-BD5F-C74306C43C73"
+		},
+		{
+			"cpeName": "cpe:2.3:a:futuriowp:futurio_extra:2.0.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "22E35A83-FDAE-4628-A055-E3B72F62AAB2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:futuriowp:futurio_extra:2.0.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "10AE1246-91A9-48AE-9B65-A7DD08749C8C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:futuriowp:futurio_extra:2.0.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "07B67644-D027-429E-AC9E-74343B894721"
 		}
 	]
 }
