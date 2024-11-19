@@ -3,8 +3,8 @@
 	"matchCriteriaId": "CDD73A97-EBC9-49D2-A4BE-ADE42D2E44DD",
 	"versionEndIncluding": "7.13.52",
 	"created": "2023-06-24T01:45:24.380",
-	"lastModified": "2023-06-24T01:45:24.380",
-	"cpeLastModified": "2023-06-24T01:45:24.380",
+	"lastModified": "2024-11-19T13:52:36.373",
+	"cpeLastModified": "2024-11-19T13:52:36.373",
 	"status": "Active",
 	"matches": [
 		{
@@ -858,6 +858,34 @@
 		{
 			"cpeName": "cpe:2.3:a:heateor:super_socializer:7.13.45:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "583FF30A-0B5F-4353-9585-93AD39B6F731"
+		},
+		{
+			"cpeName": "cpe:2.3:a:heateor:super_socializer:7.13.46:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FDC2454C-E14F-4116-AEBF-D72EAB093EF8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:heateor:super_socializer:7.13.47:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1DE42C43-AB40-43BB-835D-E7BEE612C556"
+		},
+		{
+			"cpeName": "cpe:2.3:a:heateor:super_socializer:7.13.48:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "444C3C5B-9140-493A-B84F-83D6F6A31EC4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:heateor:super_socializer:7.13.49:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "29196542-0883-4677-B6ED-6A70B5B9E81E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:heateor:super_socializer:7.13.50:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C2E0F894-86E2-4EA5-86E8-6B6B788DFCCD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:heateor:super_socializer:7.13.51:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "991BE4F6-5852-4384-A3C7-739DC27251E8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:heateor:super_socializer:7.13.52:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C695279D-F1D8-4EC3-A521-6ED3E55B450B"
 		}
 	]
 }
