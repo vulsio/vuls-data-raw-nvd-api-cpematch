@@ -4,8 +4,8 @@
 	"versionStartIncluding": "2.0.0",
 	"versionEndExcluding": "2.4.3",
 	"created": "2024-11-15T16:32:07.357",
-	"lastModified": "2024-11-15T16:32:07.357",
-	"cpeLastModified": "2024-11-15T16:32:07.357",
+	"lastModified": "2024-11-18T19:01:03.303",
+	"cpeLastModified": "2024-11-18T19:01:03.303",
 	"status": "Active",
 	"matches": [
 		{
@@ -219,6 +219,78 @@
 		{
 			"cpeName": "cpe:2.3:a:linuxfoundation:harbor:2.3.0:rc3:*:*:*:*:*:*",
 			"cpeNameId": "CF7AC9DF-65D1-4DA6-9B4D-63158C7833C1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:harbor:2.3.1:-:*:*:*:*:*:*",
+			"cpeNameId": "69925661-FB24-44A2-B4C0-8DBBBF8C05C8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:harbor:2.3.1:rc1:*:*:*:*:*:*",
+			"cpeNameId": "A486CFE0-B5B6-4341-8FC0-EEC38DFD34E9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:harbor:2.3.2:-:*:*:*:*:*:*",
+			"cpeNameId": "0C947DE8-58C8-4608-B264-FCAE45AA6AB3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:harbor:2.3.2:rc1:*:*:*:*:*:*",
+			"cpeNameId": "AD62BEA1-524D-4FD4-89E2-81100FCB1C6F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:harbor:2.3.3:-:*:*:*:*:*:*",
+			"cpeNameId": "33B1ABCE-4F01-4911-8141-A55C684F8ACF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:harbor:2.3.3:rc1:*:*:*:*:*:*",
+			"cpeNameId": "26959ECA-D7C3-41BA-8613-46D61662DC62"
+		},
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:harbor:2.3.4:-:*:*:*:*:*:*",
+			"cpeNameId": "AEA1BFFB-BCEB-482A-A593-7C80CB4DC7C3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:harbor:2.3.4:rc1:*:*:*:*:*:*",
+			"cpeNameId": "8DEA90DF-0A30-4655-A840-39DD07EA653D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:harbor:2.3.5:-:*:*:*:*:*:*",
+			"cpeNameId": "6EF556CF-C32D-430A-A708-68842998580E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:harbor:2.3.5:rc1:*:*:*:*:*:*",
+			"cpeNameId": "AD77EAC9-5A9D-4404-B8CD-748E35A7D60E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:harbor:2.4.0:-:*:*:*:*:*:*",
+			"cpeNameId": "17B6D442-CF56-4191-9694-8228E9D8E134"
+		},
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:harbor:2.4.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "5AFD6057-63AB-4A63-9BDE-62B53B5D0247"
+		},
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:harbor:2.4.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "248FA9B6-9C1D-4373-B0EE-D9CCC73EE621"
+		},
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:harbor:2.4.1:-:*:*:*:*:*:*",
+			"cpeNameId": "A1A036D8-4ADA-4682-A1FC-D4BA9DD7A545"
+		},
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:harbor:2.4.1:rc1:*:*:*:*:*:*",
+			"cpeNameId": "FA51A5C4-7D78-47A9-9483-57DD646E5CFB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:harbor:2.4.1:rc2:*:*:*:*:*:*",
+			"cpeNameId": "44A97379-0E66-4BD5-BAFA-5F013AD697F0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:harbor:2.4.2:-:*:*:*:*:*:*",
+			"cpeNameId": "F4FD265C-21D8-4021-84AB-C23173AF79E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:linuxfoundation:harbor:2.4.2:rc1:*:*:*:*:*:*",
+			"cpeNameId": "64F0ECC9-C078-4077-8602-641B8BD81B67"
 		}
 	]
 }
