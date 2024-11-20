@@ -3,10 +3,14 @@
 	"matchCriteriaId": "AC919BAE-B706-44AD-9960-F4852092F1F1",
 	"versionEndIncluding": "1.10.29",
 	"created": "2024-11-19T17:00:02.530",
-	"lastModified": "2024-11-19T17:00:02.530",
-	"cpeLastModified": "2024-11-19T17:00:02.530",
+	"lastModified": "2024-11-20T16:13:18.530",
+	"cpeLastModified": "2024-11-20T16:13:18.530",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:supsystic:popup:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E0D8E579-60C8-4F58-801C-91A5C1414932"
+		},
 		{
 			"cpeName": "cpe:2.3:a:supsystic:popup:1.0.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "F2DD7028-5048-4335-9EAA-86C795CE8EE3"
@@ -646,6 +650,46 @@
 		{
 			"cpeName": "cpe:2.3:a:supsystic:popup:1.10.19:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "36116DC8-DA65-404C-837D-33D9CECCA5AF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:supsystic:popup:1.10.20:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5BB9D357-994C-40D9-A1D2-63BB31302CE7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:supsystic:popup:1.10.21:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "35842E94-7D69-44D2-86AF-8D097B4D79AB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:supsystic:popup:1.10.22:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5F499936-9FA3-4081-B3C0-F7397374CACB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:supsystic:popup:1.10.23:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "33033808-64D7-4727-AEF8-FDABC149E462"
+		},
+		{
+			"cpeName": "cpe:2.3:a:supsystic:popup:1.10.24:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "98542C51-B2EB-41DB-9A9F-EF15FAA5EB1A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:supsystic:popup:1.10.25:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3FBAAF7B-F722-42F2-BEB5-7E1C2BDDD252"
+		},
+		{
+			"cpeName": "cpe:2.3:a:supsystic:popup:1.10.26:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EDF48864-9E66-46A5-AC10-C2DD33784D9C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:supsystic:popup:1.10.27:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0DF3E7E5-A624-497B-9D78-D43DD5B6B65A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:supsystic:popup:1.10.28:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "540D8AF5-3685-4057-8481-EA14411D5ECE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:supsystic:popup:1.10.29:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "87864820-CFBF-4ACE-A401-45C83B58F6EF"
 		}
 	]
 }

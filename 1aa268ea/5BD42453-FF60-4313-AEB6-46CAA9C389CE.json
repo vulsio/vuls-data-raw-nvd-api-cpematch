@@ -4,9 +4,13 @@
 	"versionEndExcluding": "1.7.9",
 	"created": "2019-08-21T18:10:51.873",
 	"lastModified": "2019-08-21T18:10:51.873",
-	"cpeLastModified": "2019-08-21T18:37:04.873",
+	"cpeLastModified": "2024-11-20T16:13:18.530",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:supsystic:popup:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E0D8E579-60C8-4F58-801C-91A5C1414932"
+		},
 		{
 			"cpeName": "cpe:2.3:a:supsystic:popup:1.0.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "F2DD7028-5048-4335-9EAA-86C795CE8EE3"
