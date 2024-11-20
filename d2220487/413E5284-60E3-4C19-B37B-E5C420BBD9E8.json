@@ -4,7 +4,7 @@
 	"versionEndIncluding": "1.75.0",
 	"created": "2024-01-05T15:36:23.093",
 	"lastModified": "2024-02-03T01:39:22.613",
-	"cpeLastModified": "2024-09-04T19:22:29.390",
+	"cpeLastModified": "2024-11-20T12:43:11.353",
 	"status": "Active",
 	"matches": [
 		{
@@ -542,6 +542,26 @@
 		{
 			"cpeName": "cpe:2.3:a:advancedformintegration:advanced_form_integration:1.65.7:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "18750674-DD78-41F4-8E2A-358DEEAC6263"
+		},
+		{
+			"cpeName": "cpe:2.3:a:advancedformintegration:advanced_form_integration:1.70.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7DADAC48-68FB-4D18-A1D2-FCF011B66A60"
+		},
+		{
+			"cpeName": "cpe:2.3:a:advancedformintegration:advanced_form_integration:1.71.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "93B9F30D-25B6-4231-9D8B-C2CD9B009733"
+		},
+		{
+			"cpeName": "cpe:2.3:a:advancedformintegration:advanced_form_integration:1.72.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2EE8A4C2-8476-40A2-99CB-8589ED6EE231"
+		},
+		{
+			"cpeName": "cpe:2.3:a:advancedformintegration:advanced_form_integration:1.73.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "53DF868C-13B0-497E-9284-48F817036E24"
+		},
+		{
+			"cpeName": "cpe:2.3:a:advancedformintegration:advanced_form_integration:1.74.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B99EEFE0-AD45-4364-A3D0-EE2E93C175C8"
 		},
 		{
 			"cpeName": "cpe:2.3:a:advancedformintegration:advanced_form_integration:1.75.0:*:*:*:*:wordpress:*:*",
