@@ -4,8 +4,8 @@
 	"versionStartIncluding": "5.8.0",
 	"versionEndIncluding": "5.8.7",
 	"created": "2021-12-08T19:43:29.727",
-	"lastModified": "2021-12-08T19:43:29.727",
-	"cpeLastModified": "2021-12-10T22:35:37.800",
+	"lastModified": "2024-11-20T20:01:46.860",
+	"cpeLastModified": "2024-11-20T20:01:46.860",
 	"status": "Active",
 	"matches": [
 		{
@@ -35,6 +35,10 @@
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiweb:5.8.6:*:*:*:*:*:*:*",
 			"cpeNameId": "EAF9C43E-BAE9-45F1-8869-BEB1DF49F72A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiweb:5.8.7:*:*:*:*:*:*:*",
+			"cpeNameId": "F2AC0A20-C534-4BE5-80FE-E61276793FF7"
 		}
 	]
 }

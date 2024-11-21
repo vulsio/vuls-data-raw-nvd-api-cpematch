@@ -4,8 +4,8 @@
 	"versionStartIncluding": "7.2.0",
 	"versionEndExcluding": "7.2.5",
 	"created": "2024-11-14T17:06:35.837",
-	"lastModified": "2024-11-14T17:06:35.837",
-	"cpeLastModified": "2024-11-14T17:06:35.837",
+	"lastModified": "2024-11-20T20:00:05.793",
+	"cpeLastModified": "2024-11-20T20:00:05.793",
 	"status": "Active",
 	"matches": [
 		{
@@ -23,6 +23,10 @@
 		{
 			"cpeName": "cpe:2.3:a:fortinet:forticlient:7.2.3:*:*:*:*:windows:*:*",
 			"cpeNameId": "994718C6-8974-4EC9-AE0A-5ADB50F9374D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:forticlient:7.2.4:*:*:*:*:windows:*:*",
+			"cpeNameId": "28F466E1-8C9E-4BCB-A0A0-F11628002C1C"
 		}
 	]
 }

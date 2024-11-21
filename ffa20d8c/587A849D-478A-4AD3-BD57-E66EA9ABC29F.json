@@ -5,7 +5,7 @@
 	"versionEndIncluding": "6.4.1",
 	"created": "2021-12-08T16:16:36.597",
 	"lastModified": "2021-12-08T16:16:36.597",
-	"cpeLastModified": "2024-02-26T19:22:41.387",
+	"cpeLastModified": "2024-11-20T20:01:46.860",
 	"status": "Active",
 	"matches": [
 		{
@@ -153,6 +153,10 @@
 			"cpeNameId": "CDD5BC7C-2C20-44F3-A9C1-9F584162384B"
 		},
 		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiweb:5.6.2:*:*:*:*:*:*:*",
+			"cpeNameId": "3822F33F-262C-473D-98CC-F274CC116B38"
+		},
+		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiweb:5.7.0:*:*:*:*:*:*:*",
 			"cpeNameId": "F116EDFA-C654-44D1-8208-C38848485ACC"
 		},
@@ -163,6 +167,10 @@
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiweb:5.7.2:*:*:*:*:*:*:*",
 			"cpeNameId": "BE46A42F-3944-43B7-96D7-279577F5F8BF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiweb:5.7.3:*:*:*:*:*:*:*",
+			"cpeNameId": "9B419238-D43D-4946-AC11-473A9220CF05"
 		},
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiweb:5.8.0:*:*:*:*:*:*:*",
@@ -191,6 +199,10 @@
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiweb:5.8.6:*:*:*:*:*:*:*",
 			"cpeNameId": "EAF9C43E-BAE9-45F1-8869-BEB1DF49F72A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiweb:5.8.7:*:*:*:*:*:*:*",
+			"cpeNameId": "F2AC0A20-C534-4BE5-80FE-E61276793FF7"
 		},
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiweb:5.9.0:*:*:*:*:*:*:*",
@@ -257,6 +269,10 @@
 			"cpeNameId": "377E75BD-1583-4FB3-A5B1-FDC13A11D159"
 		},
 		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiweb:6.1.4:*:*:*:*:*:*:*",
+			"cpeNameId": "E36BF062-AE7C-43C3-BC74-B3DCA386CE97"
+		},
+		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiweb:6.2.0:*:*:*:*:*:*:*",
 			"cpeNameId": "D1A1EA6E-038A-492F-96B2-FB7CCAEABEBE"
 		},
@@ -287,6 +303,10 @@
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiweb:6.2.7:*:*:*:*:*:*:*",
 			"cpeNameId": "C19AC763-D9E6-4658-B196-6EA68613E39D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiweb:6.2.8:*:*:*:*:*:*:*",
+			"cpeNameId": "FDD5187B-F1CC-4D89-A3FF-C1894C331691"
 		},
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiweb:6.3.0:*:*:*:*:*:*:*",

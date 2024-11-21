@@ -3,8 +3,8 @@
 	"matchCriteriaId": "D899757D-1EEB-4A7C-9842-F3BF6F3B1D09",
 	"versionEndExcluding": "24.1.0",
 	"created": "2024-10-21T15:49:08.363",
-	"lastModified": "2024-10-21T15:49:08.363",
-	"cpeLastModified": "2024-10-21T15:49:08.363",
+	"lastModified": "2024-11-20T20:26:56.167",
+	"cpeLastModified": "2024-11-20T20:26:56.167",
 	"status": "Active",
 	"matches": [
 		{
@@ -126,6 +126,66 @@
 		{
 			"cpeName": "cpe:2.3:a:microfocus:application_automation_tools:6.7:*:*:*:*:jenkins:*:*",
 			"cpeNameId": "A0D4127C-D143-4D60-AB01-2B20AF0F94D0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microfocus:application_automation_tools:6.8:*:*:*:*:jenkins:*:*",
+			"cpeNameId": "B18E2F1F-45D8-4E24-A6E4-A6A9FAB86676"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microfocus:application_automation_tools:6.9:*:*:*:*:jenkins:*:*",
+			"cpeNameId": "A2139C45-1B9C-46F4-A6FD-5CF16FE78D6A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microfocus:application_automation_tools:7.0:*:*:*:*:jenkins:*:*",
+			"cpeNameId": "9796E86E-68C4-468A-B0F0-42219A737ACD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microfocus:application_automation_tools:7.1:*:*:*:*:jenkins:*:*",
+			"cpeNameId": "7CB15416-C0D7-4858-985C-251C4DAAE0E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microfocus:application_automation_tools:7.2:*:*:*:*:jenkins:*:*",
+			"cpeNameId": "7B5F22AF-29F1-4042-A9CF-147E259E1DB0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microfocus:application_automation_tools:7.3:*:*:*:*:jenkins:*:*",
+			"cpeNameId": "289898EA-F91C-47E8-9D8F-D2A164E0715E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microfocus:application_automation_tools:7.4:*:*:*:*:jenkins:*:*",
+			"cpeNameId": "D419C01C-0BB1-4B78-91FB-73100E3799A7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microfocus:application_automation_tools:7.4.3:*:*:*:*:jenkins:*:*",
+			"cpeNameId": "4DA0CD86-815E-4343-9776-51539211BB41"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microfocus:application_automation_tools:7.5:*:*:*:*:jenkins:*:*",
+			"cpeNameId": "5874C9B2-2E25-4532-B97A-E908E188083E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microfocus:application_automation_tools:7.6:*:*:*:*:jenkins:*:*",
+			"cpeNameId": "88A895BD-CE53-421D-A38B-CA2C3534CE68"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microfocus:application_automation_tools:7.7:*:*:*:*:jenkins:*:*",
+			"cpeNameId": "E5C97D25-48DD-459E-85D0-6BFF6ADD4D3E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microfocus:application_automation_tools:7.8:*:*:*:*:jenkins:*:*",
+			"cpeNameId": "113262F7-2B3F-4291-9FA7-DCA21C4E6757"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microfocus:application_automation_tools:8.0:*:*:*:*:jenkins:*:*",
+			"cpeNameId": "3705DB31-D83C-4B13-8610-69E0A918E2FD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microfocus:application_automation_tools:23.3.0:*:*:*:*:jenkins:*:*",
+			"cpeNameId": "D54B3839-5711-4CB0-B861-BC69ACB27073"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microfocus:application_automation_tools:23.4:*:*:*:*:jenkins:*:*",
+			"cpeNameId": "D7915827-5AE7-45B3-94DC-A3764F83846A"
 		}
 	]
 }
