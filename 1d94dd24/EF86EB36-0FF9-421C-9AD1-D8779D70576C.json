@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:o:dell:precision_3440_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "EF86EB36-0FF9-421C-9AD1-D8779D70576C",
+	"versionEndExcluding": "1.23.0",
+	"created": "2024-11-22T14:45:31.810",
+	"lastModified": "2024-11-22T14:45:31.810",
+	"cpeLastModified": "2024-11-22T14:45:31.810",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_3440_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "03EE6436-36BD-41DB-8B0E-11A4DA3AE8EF"
+		}
+	]
+}

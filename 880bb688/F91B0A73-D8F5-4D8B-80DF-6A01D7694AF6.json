@@ -3,10 +3,14 @@
 	"matchCriteriaId": "F91B0A73-D8F5-4D8B-80DF-6A01D7694AF6",
 	"versionEndExcluding": "1.7.73",
 	"created": "2024-11-08T13:44:00.377",
-	"lastModified": "2024-11-08T13:44:00.377",
-	"cpeLastModified": "2024-11-08T13:44:00.377",
+	"lastModified": "2024-11-21T19:49:29.137",
+	"cpeLastModified": "2024-11-21T19:49:29.137",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:magazine3:pwa_for_wp_\\&_amp:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "989FCE91-D701-427F-A789-1C9FE832DB96"
+		},
 		{
 			"cpeName": "cpe:2.3:a:magazine3:pwa_for_wp_\\&_amp:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "A0CB82E6-3AAA-4026-AE38-7D08646140F0"
@@ -410,6 +414,54 @@
 		{
 			"cpeName": "cpe:2.3:a:magazine3:pwa_for_wp_\\&_amp:1.7.60:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "EE2D897B-9055-47C1-86BF-AADCDD7B425D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:magazine3:pwa_for_wp_\\&_amp:1.7.61:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "23F8FA02-8C1D-4EB6-99DA-BA7C9D5ACF31"
+		},
+		{
+			"cpeName": "cpe:2.3:a:magazine3:pwa_for_wp_\\&_amp:1.7.62:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "23571D5E-27D2-4969-A22C-04092B4775B3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:magazine3:pwa_for_wp_\\&_amp:1.7.63:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E77908DC-A2B7-4751-9A2E-3421D3480324"
+		},
+		{
+			"cpeName": "cpe:2.3:a:magazine3:pwa_for_wp_\\&_amp:1.7.64:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "073E58E3-EB4C-40D7-98D6-874C846163CA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:magazine3:pwa_for_wp_\\&_amp:1.7.65:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "26EE627C-63DB-4210-8C17-FDB463A60C22"
+		},
+		{
+			"cpeName": "cpe:2.3:a:magazine3:pwa_for_wp_\\&_amp:1.7.66:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6D247355-71AD-4725-8BDF-CB1135C1A61E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:magazine3:pwa_for_wp_\\&_amp:1.7.67:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8A01A838-0684-4053-9A71-63EA8DF1D292"
+		},
+		{
+			"cpeName": "cpe:2.3:a:magazine3:pwa_for_wp_\\&_amp:1.7.68:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "195FB231-914B-47C0-93BD-3936B3D33338"
+		},
+		{
+			"cpeName": "cpe:2.3:a:magazine3:pwa_for_wp_\\&_amp:1.7.69:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "69872C57-7FC3-485B-8B2A-C55F06E93C2D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:magazine3:pwa_for_wp_\\&_amp:1.7.70:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "59B82CF6-BEF6-48BA-9B5F-2F2DD31AC26E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:magazine3:pwa_for_wp_\\&_amp:1.7.71:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CDF30332-3695-44B3-A3A4-BEC11F87C3B1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:magazine3:pwa_for_wp_\\&_amp:1.7.72:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0685FD7D-CD98-44C0-8A9A-F44441CA0118"
 		}
 	]
 }

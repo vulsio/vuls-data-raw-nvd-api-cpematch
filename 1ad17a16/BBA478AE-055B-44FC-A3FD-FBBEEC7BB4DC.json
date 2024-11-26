@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:o:dell:vostro_16_5630_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "BBA478AE-055B-44FC-A3FD-FBBEEC7BB4DC",
+	"versionEndExcluding": "1.11.0",
+	"created": "2024-11-22T14:45:31.810",
+	"lastModified": "2024-11-22T14:45:31.810",
+	"cpeLastModified": "2024-11-22T14:45:31.810",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:vostro_16_5630_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8F7872D4-E907-448F-8DCF-D2B6A6D768E8"
+		}
+	]
+}

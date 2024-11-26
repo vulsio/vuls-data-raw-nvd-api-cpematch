@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:o:dell:precision_3550_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "E2080E39-7745-48DF-B8F6-B01EE48AE60E",
+	"versionEndExcluding": "1.24.0",
+	"created": "2024-11-22T14:45:31.810",
+	"lastModified": "2024-11-22T14:45:31.810",
+	"cpeLastModified": "2024-11-22T14:45:31.810",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_3550_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2DCB4D77-028D-434A-9D4C-E2BA36C31EE5"
+		}
+	]
+}

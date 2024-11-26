@@ -4,8 +4,8 @@
 	"versionStartIncluding": "11.0.0",
 	"versionEndExcluding": "11.0.18",
 	"created": "2024-11-07T18:41:25.217",
-	"lastModified": "2024-11-07T18:41:25.217",
-	"cpeLastModified": "2024-11-07T18:41:25.217",
+	"lastModified": "2024-11-25T19:05:52.703",
+	"cpeLastModified": "2024-11-25T19:05:52.703",
 	"status": "Active",
 	"matches": [
 		{
@@ -57,6 +57,30 @@
 			"cpeNameId": "1690262F-38EB-405D-94AF-BD02BAA4F4CD"
 		},
 		{
+			"cpeName": "cpe:2.3:a:eclipse:jetty:11.0.7:*:*:*:*:*:*:*",
+			"cpeNameId": "3752B331-13DD-4D11-9042-118A71ECEF08"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eclipse:jetty:11.0.8:*:*:*:*:*:*:*",
+			"cpeNameId": "67F05248-95EE-4C3B-8456-93E1D6DFE5DD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eclipse:jetty:11.0.9:*:*:*:*:*:*:*",
+			"cpeNameId": "1871D978-5A4F-43DA-95E4-C258D1F541A8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eclipse:jetty:11.0.10:*:*:*:*:*:*:*",
+			"cpeNameId": "B01D20EE-BB3A-4F3A-BD4B-7950C5449CBB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eclipse:jetty:11.0.11:*:*:*:*:*:*:*",
+			"cpeNameId": "3FA2C45F-71B3-42B2-AF61-C0A8215EBB40"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eclipse:jetty:11.0.12:*:*:*:*:*:*:*",
+			"cpeNameId": "D8F7669E-D95C-428C-A1C7-8C2F73C15A8B"
+		},
+		{
 			"cpeName": "cpe:2.3:a:eclipse:jetty:11.0.13:*:*:*:*:*:*:*",
 			"cpeNameId": "7CBC5F3E-5B1D-4BA5-9771-DBCB88E3AC51"
 		},
@@ -71,6 +95,10 @@
 		{
 			"cpeName": "cpe:2.3:a:eclipse:jetty:11.0.16:*:*:*:*:*:*:*",
 			"cpeNameId": "3CC75EF5-C083-456A-9DAA-D859F8420F34"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eclipse:jetty:11.0.17:*:*:*:*:*:*:*",
+			"cpeNameId": "C5C9C1AE-8513-4D75-BA28-667F9E4B2037"
 		}
 	]
 }

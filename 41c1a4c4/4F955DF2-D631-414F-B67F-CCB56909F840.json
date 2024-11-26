@@ -3,8 +3,8 @@
 	"matchCriteriaId": "4F955DF2-D631-414F-B67F-CCB56909F840",
 	"versionEndExcluding": "7.11.9",
 	"created": "2024-09-26T12:49:04.673",
-	"lastModified": "2024-09-26T12:49:04.673",
-	"cpeLastModified": "2024-09-26T12:49:04.673",
+	"lastModified": "2024-11-21T20:34:19.777",
+	"cpeLastModified": "2024-11-21T20:34:19.777",
 	"status": "Active",
 	"matches": [
 		{
@@ -570,6 +570,62 @@
 		{
 			"cpeName": "cpe:2.3:a:theme-fusion:avada:7.8.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "B432AE7B-C0DD-4130-B792-3F06443E555A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:theme-fusion:avada:7.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BD9D0831-8BFC-43D6-A2A5-51B7F15A892F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:theme-fusion:avada:7.9.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "02BEFA6A-CD93-40AE-8438-055BB7ADC75B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:theme-fusion:avada:7.9.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B04A979C-82FA-4727-8964-707067186992"
+		},
+		{
+			"cpeName": "cpe:2.3:a:theme-fusion:avada:7.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2558B7CD-33E7-4374-989B-5AE30613EF92"
+		},
+		{
+			"cpeName": "cpe:2.3:a:theme-fusion:avada:7.10.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "18B8906C-088C-47C5-BD75-0263293D4EE1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:theme-fusion:avada:7.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7F80D693-FEE0-4D46-A192-1EF3581994B8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:theme-fusion:avada:7.11.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D96E5F4E-876F-434C-952E-D5EC6511D47E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:theme-fusion:avada:7.11.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "68E2A262-E7BF-4D1E-AFE8-15F08BBFDBEB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:theme-fusion:avada:7.11.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "57FF56CC-BDA6-45C6-88E4-344F0B7DEA9C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:theme-fusion:avada:7.11.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "344FC45E-1089-432A-AC31-A6BC271389C8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:theme-fusion:avada:7.11.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AC392041-0E12-47CB-B130-567EC2FED1C2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:theme-fusion:avada:7.11.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A4E38243-383B-481C-9D1E-0D275D8E88CA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:theme-fusion:avada:7.11.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "650212EF-8EC9-4CEB-AF4C-C7B644F311E0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:theme-fusion:avada:7.11.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "96BFB39C-3714-4C65-B050-F82E466F30D6"
 		}
 	]
 }

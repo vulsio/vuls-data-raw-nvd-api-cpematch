@@ -3,10 +3,14 @@
 	"matchCriteriaId": "915A0AA9-29EE-4A8F-8BD0-3B6CEBBA8D20",
 	"versionEndExcluding": "4.15.4",
 	"created": "2024-09-18T13:55:44.430",
-	"lastModified": "2024-09-18T13:55:44.430",
-	"cpeLastModified": "2024-09-18T13:55:44.430",
+	"lastModified": "2024-11-25T19:19:32.050",
+	"cpeLastModified": "2024-11-25T19:19:32.050",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FA011605-FD19-4A1F-ADEE-40BDC8C2F453"
+		},
 		{
 			"cpeName": "cpe:2.3:a:inspireui:mstore_api:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "A02877CA-D2F6-4507-860E-A172809BE576"
@@ -526,6 +530,170 @@
 		{
 			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.10.9:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "B7BB4139-6446-4572-831B-7BD30CBC7493"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.10.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F6891260-5117-4E74-8AF1-7A262F09E7EC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.11.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "44986F95-670A-4ADE-A580-A6DED41C614B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.11.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4324A3AA-075A-4BB7-B5CB-58B589638BA0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.11.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "21D145B4-0EBA-4F45-B4AB-6C006DBDFD98"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.11.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B7FF7C0C-3268-4FB2-BB67-F854832934C1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.11.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "75B98E26-C7C9-4813-B505-FFF3453E587A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.11.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "98B52F1E-7738-49EA-874D-2A4A8DAD8FE0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.11.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "68523C7E-EEA4-491F-8CD2-D53D9128EC0D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.11.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A6E3C088-81D1-4072-B92C-04126E36C00D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.11.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E5F8EB8F-F50C-485E-BC60-DAEC6BFB9377"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.11.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D19CBF79-6777-4BF7-904E-5449DDA521A7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.12.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "22E14B75-459D-439C-B7D4-06FE87F74D4B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.12.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E110976B-8DE0-461E-A1EC-ABBC6E4EEA8B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.12.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "754DC85A-7F84-47C6-9956-7920679B9BCD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.12.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "59D361D6-9C8A-46D3-B5DF-87C23C79F926"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.12.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "718F30E9-31AB-46EE-8312-C461C4F26486"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.12.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C6AD6386-82FA-40F6-A05E-6454496C3510"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.12.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "508479CA-1FF6-48C4-9DB8-A60F2EB506B6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.12.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "76CB6E16-2DBB-44BC-86D0-34D1F41777B9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.12.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F9DEBFA9-0C8F-423E-8F5A-0F4F28815216"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.12.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "79D34035-4B48-41A6-B5B3-60073FEAD58C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.13.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "90FCEC6C-21DA-492E-BF40-A3BA7ACCB294"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.13.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6C197D14-D138-45B9-B011-12C0D51B13F6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.13.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "16AA6C12-665C-417E-BE63-54B5FD3482BC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.13.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "589FA890-F673-460C-9D74-F06BACCA75B1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.13.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C920C87C-7CA2-4679-A44B-54C3E5FC152F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.13.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D57BDB24-4713-4F87-B963-52E3B43CF994"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.13.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1A20A3E9-87AB-4EEE-9F02-30E7BCBF6C3C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.13.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D9234C3F-B128-48D4-8C91-668D892573BB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.14.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "897AEC22-7A7A-4573-84F9-50B736C48ECE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.14.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "393F86D8-9075-4C0F-B11C-1A3055A87AFF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.14.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3C4B0ADB-6F60-406D-9F13-84AB8159190C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.14.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "80D62906-AF28-4A30-B24E-8010C5FA157D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.14.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A0566C8B-5CB9-443E-A475-BA5DE0CBF8AB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.14.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0FDA3986-2AC3-41D7-9C44-89AB37F23092"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.14.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8C1FC185-C3E5-4546-BC50-0B7DE5D680EA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.14.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4E280CC2-FD0A-415E-B5E0-E0EF4C354041"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.15.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A951FC06-19CA-448D-9B6D-AC76DE6DA314"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.15.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "068CC65F-4108-4429-915F-C6AF60AC0CFB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.15.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "ECDEFD87-B47E-45C4-9905-A1727399F090"
+		},
+		{
+			"cpeName": "cpe:2.3:a:inspireui:mstore_api:4.15.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "635F2539-FF90-4106-8ADA-9B4AD251FA15"
 		}
 	]
 }

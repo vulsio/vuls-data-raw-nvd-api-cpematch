@@ -5,7 +5,7 @@
 	"versionEndExcluding": "9.4.56",
 	"created": "2024-11-08T21:00:03.250",
 	"lastModified": "2024-11-08T21:00:03.250",
-	"cpeLastModified": "2024-11-08T21:00:03.250",
+	"cpeLastModified": "2024-11-25T19:05:52.703",
 	"status": "Active",
 	"matches": [
 		{
@@ -559,6 +559,10 @@
 		{
 			"cpeName": "cpe:2.3:a:eclipse:jetty:9.4.53:20231009:*:*:*:*:*:*",
 			"cpeNameId": "BCB93960-468C-408C-8491-F733706C89FF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eclipse:jetty:9.4.55:*:*:*:*:*:*:*",
+			"cpeNameId": "DA7517A2-269F-4981-9E58-9825C37FA0FF"
 		}
 	]
 }
