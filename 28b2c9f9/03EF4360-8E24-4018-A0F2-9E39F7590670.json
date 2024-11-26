@@ -3,7 +3,7 @@
 	"matchCriteriaId": "03EF4360-8E24-4018-A0F2-9E39F7590670",
 	"created": "2022-05-23T16:45:56.380",
 	"lastModified": "2024-01-03T13:48:06.797",
-	"cpeLastModified": "2024-05-15T12:00:53.030",
+	"cpeLastModified": "2024-11-26T19:27:39.953",
 	"status": "Active",
 	"matches": [
 		{
@@ -787,6 +787,14 @@
 			"cpeNameId": "B2F5E255-E893-4465-8D53-6489E806A52D"
 		},
 		{
+			"cpeName": "cpe:2.3:h:amd:epyc_embedded_7313:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B24335BB-DC2B-444A-AB4A-92A4F0A15F38"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_embedded_7313p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D6D74DC1-218A-49A0-B2D6-18D1373AD0ED"
+		},
+		{
 			"cpeName": "cpe:2.3:h:amd:epyc_embedded_7351:-:*:*:*:*:*:*:*",
 			"cpeNameId": "5B0645CB-8334-4B32-B46E-5E340B856DE9"
 		},
@@ -819,6 +827,18 @@
 			"cpeNameId": "BF17958B-E328-48C3-BD0C-2E52541DB65F"
 		},
 		{
+			"cpeName": "cpe:2.3:h:amd:epyc_embedded_7413:-:*:*:*:*:*:*:*",
+			"cpeNameId": "25B10F96-8864-42FA-84D6-41A1BAB1CA79"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_embedded_7443:-:*:*:*:*:*:*:*",
+			"cpeNameId": "93BF7D4E-5545-40F0-9CE9-0DDC60520EF4"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_embedded_7443p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1855D862-1A60-4F3C-B347-0E2BA3B8331C"
+		},
+		{
 			"cpeName": "cpe:2.3:h:amd:epyc_embedded_7451:-:*:*:*:*:*:*:*",
 			"cpeNameId": "11FFFE06-64D4-4356-8DE8-F0999E7201AE"
 		},
@@ -847,6 +867,14 @@
 			"cpeNameId": "B9E46B71-8D64-40E6-A89C-F98400BDB329"
 		},
 		{
+			"cpeName": "cpe:2.3:h:amd:epyc_embedded_7543:-:*:*:*:*:*:*:*",
+			"cpeNameId": "82C3F921-1E9A-48C4-9D23-B94053F8C843"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_embedded_7543p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D6AF1CFC-904C-43F3-BAE4-3019AE196B00"
+		},
+		{
 			"cpeName": "cpe:2.3:h:amd:epyc_embedded_7551:-:*:*:*:*:*:*:*",
 			"cpeNameId": "8767A558-45D9-40D0-9460-682BD3633F94"
 		},
@@ -867,6 +895,10 @@
 			"cpeNameId": "C742E29E-0BEF-4982-BC13-2C8DF8ACCB8D"
 		},
 		{
+			"cpeName": "cpe:2.3:h:amd:epyc_embedded_7643:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9663E41A-0CA1-4EF5-8C0A-22336A30AE20"
+		},
+		{
 			"cpeName": "cpe:2.3:h:amd:epyc_embedded_7662:-:*:*:*:*:*:*:*",
 			"cpeNameId": "8A83A9DB-C26A-4056-8A11-360297AC5DC7"
 		},
@@ -877,6 +909,14 @@
 		{
 			"cpeName": "cpe:2.3:h:amd:epyc_embedded_7702p:-:*:*:*:*:*:*:*",
 			"cpeNameId": "CFDF1FA7-76A5-4AEB-8E8C-A4031A5A37E3"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_embedded_7713:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D3661237-1A70-47F6-8DC5-20C607397071"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_embedded_7713p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DBE0F32C-057E-4624-9ECB-3F1FA5F0995D"
 		},
 		{
 			"cpeName": "cpe:2.3:h:amd:epyc_embedded_7742:-:*:*:*:*:*:*:*",
@@ -897,6 +937,46 @@
 		{
 			"cpeName": "cpe:2.3:h:amd:epyc_embedded_7h12:-:*:*:*:*:*:*:*",
 			"cpeNameId": "84B4C2C6-1591-4DBF-B85F-971D5D7CBA89"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_embedded_9124:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F60F341C-6450-41C1-80E2-08DCDDFAD609"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_embedded_9254:-:*:*:*:*:*:*:*",
+			"cpeNameId": "ECF851A1-CE79-499D-8FF7-D260DDF20887"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_embedded_9354:-:*:*:*:*:*:*:*",
+			"cpeNameId": "AA6D41E8-4EEA-4646-BE2D-6E85BA3CA2C2"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_embedded_9354p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "74429AD6-8BD7-49F7-8FF1-428BB2F3B53B"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_embedded_9454:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E6DB668B-506A-4A55-8B19-6624DF46AC0A"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_embedded_9454p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5B6A70F8-8984-467D-88BE-08CB51B50863"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_embedded_9534:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F0EBBC4B-F369-43CB-A257-CD5210A7EAE4"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_embedded_9554:-:*:*:*:*:*:*:*",
+			"cpeNameId": "21990FA4-3765-4A5F-B699-ED4FF8CCBEE4"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_embedded_9554p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8DA5F57A-EFC6-41D3-BE75-E0F105CBAC87"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:epyc_embedded_9654:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9961E1DD-49C6-4C0C-BF13-E01509BA3C97"
 		},
 		{
 			"cpeName": "cpe:2.3:h:amd:epyc_server:-:*:*:*:*:*:*:*",

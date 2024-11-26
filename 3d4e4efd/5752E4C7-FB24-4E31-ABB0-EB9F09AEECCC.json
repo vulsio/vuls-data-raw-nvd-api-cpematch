@@ -1,0 +1,15 @@
+{
+	"criteria": "cpe:2.3:o:amd:athlon_gold_3150u_firmware:*:*:*:*:*:*:*:*",
+	"matchCriteriaId": "5752E4C7-FB24-4E31-ABB0-EB9F09AEECCC",
+	"versionEndExcluding": "picassopi-fp5_1.0.0.e",
+	"created": "2024-11-26T20:50:41.370",
+	"lastModified": "2024-11-26T20:50:41.370",
+	"cpeLastModified": "2024-11-26T20:50:41.370",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:athlon_gold_3150u_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2488275F-B3E1-421F-A5BF-3E72ACEF143C"
+		}
+	]
+}
