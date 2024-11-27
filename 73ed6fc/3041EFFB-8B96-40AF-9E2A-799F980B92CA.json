@@ -4,9 +4,13 @@
 	"versionEndIncluding": "2.33.0",
 	"created": "2024-01-10T15:45:54.880",
 	"lastModified": "2024-01-10T15:45:54.880",
-	"cpeLastModified": "2024-01-10T15:45:54.880",
+	"cpeLastModified": "2024-11-27T13:47:33.660",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ajexperience:404_solution:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "27B54B36-8ED2-47F2-962F-B5DFED48F5D3"
+		},
 		{
 			"cpeName": "cpe:2.3:a:ajexperience:404_solution:1.5.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "3E3F8B09-536C-4AAE-BFFC-CB3B3FE322B1"

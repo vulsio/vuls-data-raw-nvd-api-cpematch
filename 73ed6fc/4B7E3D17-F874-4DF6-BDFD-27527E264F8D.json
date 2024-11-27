@@ -3,10 +3,14 @@
 	"matchCriteriaId": "4B7E3D17-F874-4DF6-BDFD-27527E264F8D",
 	"versionEndExcluding": "2.35.20",
 	"created": "2024-11-26T20:30:37.573",
-	"lastModified": "2024-11-26T20:30:37.573",
-	"cpeLastModified": "2024-11-26T20:30:37.573",
+	"lastModified": "2024-11-27T13:47:33.660",
+	"cpeLastModified": "2024-11-27T13:47:33.660",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ajexperience:404_solution:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "27B54B36-8ED2-47F2-962F-B5DFED48F5D3"
+		},
 		{
 			"cpeName": "cpe:2.3:a:ajexperience:404_solution:1.5.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "3E3F8B09-536C-4AAE-BFFC-CB3B3FE322B1"
@@ -930,6 +934,58 @@
 		{
 			"cpeName": "cpe:2.3:a:ajexperience:404_solution:2.35.6:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "86074FC0-A158-4F9E-B446-6EC77E045114"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ajexperience:404_solution:2.35.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D784FE1D-CED3-423B-9AD5-5A39FF3E31E0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ajexperience:404_solution:2.35.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8C80144A-A022-4577-9870-E73A2870C666"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ajexperience:404_solution:2.35.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3C001C4C-55F8-44D0-8471-468A8E0CD79B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ajexperience:404_solution:2.35.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EB2A21C9-9E45-426D-A1FD-2C2960B96F71"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ajexperience:404_solution:2.35.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9C5C7AA5-739C-4869-ABF4-5A2A03020C2B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ajexperience:404_solution:2.35.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B4C6E48C-7A35-4BDF-8934-A31D67AA2F7F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ajexperience:404_solution:2.35.13:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "882F6424-44DD-4DCB-BD37-316F461F1746"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ajexperience:404_solution:2.35.14:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BF64793B-49A6-4115-B431-FCE71D7823B6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ajexperience:404_solution:2.35.15:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0D0F4A20-CAAB-4956-87D7-F8581432A542"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ajexperience:404_solution:2.35.16:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "45424215-5F85-4145-B30D-4FCEE1B90E9C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ajexperience:404_solution:2.35.17:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BBCB89A9-240E-4CCE-8ED5-713F1E713773"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ajexperience:404_solution:2.35.18:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A200B020-D0F7-40B3-B5CE-C81579EEBCFC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ajexperience:404_solution:2.35.19:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6B83A4D7-7524-4E1B-96F0-622A03CBBC7A"
 		}
 	]
 }
