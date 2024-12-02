@@ -3,10 +3,14 @@
 	"matchCriteriaId": "4AD52BB9-72D2-4369-9301-456090AC4CAA",
 	"versionEndExcluding": "20.0.2",
 	"created": "2024-11-15T16:44:50.950",
-	"lastModified": "2024-11-15T16:44:50.950",
-	"cpeLastModified": "2024-11-15T16:44:50.950",
+	"lastModified": "2024-12-02T19:24:51.277",
+	"cpeLastModified": "2024-12-02T19:24:51.277",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:dolibarr:dolibarr_erp\\/crm:-:*:*:*:*:*:*:*",
+			"cpeNameId": "02CE7A40-E499-400B-835D-8CBAE52F514F"
+		},
 		{
 			"cpeName": "cpe:2.3:a:dolibarr:dolibarr_erp\\/crm:2.5.0:*:*:*:*:*:*:*",
 			"cpeNameId": "E9206FDF-EFB0-4FC3-AD82-C85AA1AEC9F6"
@@ -686,6 +690,42 @@
 		{
 			"cpeName": "cpe:2.3:a:dolibarr:dolibarr_erp\\/crm:18.0.4:*:*:*:*:*:*:*",
 			"cpeNameId": "A3CCFB22-593A-413C-B9DE-77868D8DF9A4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dolibarr:dolibarr_erp\\/crm:18.0.5:*:*:*:*:*:*:*",
+			"cpeNameId": "F72479DB-E0D2-41A9-87C4-CA5A62687E5F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dolibarr:dolibarr_erp\\/crm:18.0.6:*:*:*:*:*:*:*",
+			"cpeNameId": "BDC394E7-D664-46CE-8D14-E5CADB82437C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dolibarr:dolibarr_erp\\/crm:19.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "2CD2C959-3B4D-4892-8A4B-B7A65BA8C12B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dolibarr:dolibarr_erp\\/crm:19.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "716780ED-94BD-4FB0-A0D3-07C483B1EBC5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dolibarr:dolibarr_erp\\/crm:19.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "5078AF14-332A-4051-A1B5-54A140E7BA2F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dolibarr:dolibarr_erp\\/crm:19.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "27BA2BA5-D1B6-4C4D-AFCB-808A3B61509A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dolibarr:dolibarr_erp\\/crm:19.0.4:*:*:*:*:*:*:*",
+			"cpeNameId": "D8C541FE-A84B-4D06-85A8-49E6E2DBECD2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dolibarr:dolibarr_erp\\/crm:20.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5B1A5DEE-6F8A-4A5E-8A1E-18AE9D7E42D5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dolibarr:dolibarr_erp\\/crm:20.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "0D3654A5-503C-43BA-B8D6-C4F8D68AB97A"
 		}
 	]
 }

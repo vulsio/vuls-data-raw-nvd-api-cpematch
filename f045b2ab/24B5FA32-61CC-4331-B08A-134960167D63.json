@@ -5,7 +5,7 @@
 	"versionEndIncluding": "2.0.11",
 	"created": "2021-12-02T19:20:27.717",
 	"lastModified": "2021-12-02T19:20:27.717",
-	"cpeLastModified": "2021-12-03T15:58:38.083",
+	"cpeLastModified": "2024-12-02T15:08:39.387",
 	"status": "Active",
 	"matches": [
 		{
@@ -75,6 +75,10 @@
 		{
 			"cpeName": "cpe:2.3:a:eclipse:mosquitto:2.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "883F5553-7DE1-4860-BFB8-3AB3CA20E6CD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eclipse:mosquitto:2.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "29DF0878-6C9F-4F59-A28D-1B330065CE01"
 		},
 		{
 			"cpeName": "cpe:2.3:a:eclipse:mosquitto:2.0.2:*:*:*:*:*:*:*",

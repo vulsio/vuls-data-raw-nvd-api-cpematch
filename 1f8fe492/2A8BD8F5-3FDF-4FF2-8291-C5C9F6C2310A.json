@@ -4,9 +4,13 @@
 	"versionEndExcluding": "16.0.0",
 	"created": "2022-11-17T17:27:12.910",
 	"lastModified": "2022-11-17T17:27:12.910",
-	"cpeLastModified": "2022-11-17T17:27:12.910",
+	"cpeLastModified": "2024-12-02T19:24:51.277",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:dolibarr:dolibarr_erp\\/crm:-:*:*:*:*:*:*:*",
+			"cpeNameId": "02CE7A40-E499-400B-835D-8CBAE52F514F"
+		},
 		{
 			"cpeName": "cpe:2.3:a:dolibarr:dolibarr_erp\\/crm:2.5.0:*:*:*:*:*:*:*",
 			"cpeNameId": "E9206FDF-EFB0-4FC3-AD82-C85AA1AEC9F6"

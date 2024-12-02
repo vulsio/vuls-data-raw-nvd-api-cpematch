@@ -5,12 +5,16 @@
 	"versionEndIncluding": "2.0.9",
 	"created": "2021-04-10T01:55:47.160",
 	"lastModified": "2021-04-10T01:55:47.160",
-	"cpeLastModified": "2021-07-14T15:42:13.547",
+	"cpeLastModified": "2024-12-02T15:08:39.387",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:eclipse:mosquitto:2.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "883F5553-7DE1-4860-BFB8-3AB3CA20E6CD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:eclipse:mosquitto:2.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "29DF0878-6C9F-4F59-A28D-1B330065CE01"
 		},
 		{
 			"cpeName": "cpe:2.3:a:eclipse:mosquitto:2.0.2:*:*:*:*:*:*:*",
