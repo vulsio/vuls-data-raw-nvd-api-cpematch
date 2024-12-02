@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2.3.0",
 	"created": "2024-09-04T14:39:09.400",
 	"lastModified": "2024-09-04T14:39:09.400",
-	"cpeLastModified": "2024-10-17T13:01:58.320",
+	"cpeLastModified": "2024-12-02T14:50:54.497",
 	"status": "Active",
 	"matches": [
 		{
@@ -926,6 +926,10 @@
 		{
 			"cpeName": "cpe:2.3:a:checkmk:checkmk:2.2.0:p32:*:*:*:*:*:*",
 			"cpeNameId": "E0CEBAD0-D5CC-43EE-B023-0CB69FE1CBBF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:checkmk:checkmk:2.2.0:p33:*:*:*:*:*:*",
+			"cpeNameId": "D8BC2830-A908-4E4C-BDE4-DA3081D8F6C5"
 		},
 		{
 			"cpeName": "cpe:2.3:a:checkmk:checkmk:2.2.0:p34:*:*:*:*:*:*",
