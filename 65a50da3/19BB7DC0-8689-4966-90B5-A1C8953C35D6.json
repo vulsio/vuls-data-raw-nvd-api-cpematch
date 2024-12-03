@@ -3,8 +3,8 @@
 	"matchCriteriaId": "19BB7DC0-8689-4966-90B5-A1C8953C35D6",
 	"versionEndExcluding": "3.2.1",
 	"created": "2022-07-02T03:12:35.303",
-	"lastModified": "2022-07-02T03:12:35.303",
-	"cpeLastModified": "2022-03-09T15:46:22.563",
+	"lastModified": "2024-12-03T15:51:10.717",
+	"cpeLastModified": "2024-12-03T15:51:10.717",
 	"status": "Active",
 	"matches": [
 		{
@@ -318,6 +318,10 @@
 		{
 			"cpeName": "cpe:2.3:a:fatcatapps:easy_pricing_tables:3.1.6:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "362B15B1-BFF1-4999-8463-B7B43CFF4828"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fatcatapps:easy_pricing_tables:3.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C7A9AFA5-95E9-4B5D-B072-F844ED8E081E"
 		}
 	]
 }

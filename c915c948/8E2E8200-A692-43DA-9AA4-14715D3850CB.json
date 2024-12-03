@@ -3,10 +3,14 @@
 	"matchCriteriaId": "8E2E8200-A692-43DA-9AA4-14715D3850CB",
 	"versionEndExcluding": "5.4.3",
 	"created": "2024-10-08T11:53:43.617",
-	"lastModified": "2024-10-08T11:53:43.617",
-	"cpeLastModified": "2024-10-08T11:53:43.617",
+	"lastModified": "2024-12-03T15:57:37.390",
+	"cpeLastModified": "2024-12-03T15:57:37.390",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:michaeluno:auto_amazon_links:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FB907543-1ABB-44D1-89A8-CBCEE274EAE2"
+		},
 		{
 			"cpeName": "cpe:2.3:a:michaeluno:auto_amazon_links:2.1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "5E9CD966-C957-421A-A621-7864412A1E3D"
@@ -826,6 +830,42 @@
 		{
 			"cpeName": "cpe:2.3:a:michaeluno:auto_amazon_links:5.3.4:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "5595731F-C5CF-4FE2-806D-1423B38FB301"
+		},
+		{
+			"cpeName": "cpe:2.3:a:michaeluno:auto_amazon_links:5.3.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F76045D3-F287-429D-8B3E-53BD6FC21239"
+		},
+		{
+			"cpeName": "cpe:2.3:a:michaeluno:auto_amazon_links:5.3.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "153F89C9-9BA5-4DC9-B9E2-5C11E77119DB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:michaeluno:auto_amazon_links:5.3.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9656B5A5-A1C1-484F-A866-AD08C47EC01E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:michaeluno:auto_amazon_links:5.3.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4461C250-8BF2-4853-B8C7-EA19070A0EB1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:michaeluno:auto_amazon_links:5.3.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F6625BEE-2DEC-4B60-80BB-39F416D0396D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:michaeluno:auto_amazon_links:5.3.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A3FC6990-1632-4C5A-B93A-C14B3B10D677"
+		},
+		{
+			"cpeName": "cpe:2.3:a:michaeluno:auto_amazon_links:5.4.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "939A1E4E-620E-49A6-94A4-4A4B1A9E0C21"
+		},
+		{
+			"cpeName": "cpe:2.3:a:michaeluno:auto_amazon_links:5.4.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B692C7DC-722E-42C5-907F-77F0B1A5E48E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:michaeluno:auto_amazon_links:5.4.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9EBBEAB3-76EE-4B97-B9CA-D70D7D472792"
 		}
 	]
 }
