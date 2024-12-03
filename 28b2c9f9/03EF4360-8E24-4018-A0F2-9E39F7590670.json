@@ -3,7 +3,7 @@
 	"matchCriteriaId": "03EF4360-8E24-4018-A0F2-9E39F7590670",
 	"created": "2022-05-23T16:45:56.380",
 	"lastModified": "2024-01-03T13:48:06.797",
-	"cpeLastModified": "2024-11-26T19:27:39.953",
+	"cpeLastModified": "2024-12-03T14:19:05.500",
 	"status": "Active",
 	"matches": [
 		{
@@ -63,6 +63,22 @@
 			"cpeNameId": "8747F409-2ED7-4320-9845-146E02ABCA0F"
 		},
 		{
+			"cpeName": "cpe:2.3:h:amd:alveo_u200:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6861B4FE-13AB-4995-8DB9-10DD4AC3FE26"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:alveo_u250:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8C75014B-6198-4CF9-8774-1AEABC35E4F2"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:alveo_u280:-:*:*:*:*:*:*:*",
+			"cpeNameId": "26044792-471C-4FA0-8D65-A7B7EBC75C28"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:alveo_u50:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EE2B2A5C-4136-4C02-A9C6-2BF97CA9759E"
+		},
+		{
 			"cpeName": "cpe:2.3:h:amd:amd_3015ce:-:*:*:*:*:*:*:*",
 			"cpeNameId": "788EA4F2-FB4A-458D-8932-D270490EBB76"
 		},
@@ -77,6 +93,26 @@
 		{
 			"cpeName": "cpe:2.3:h:amd:amd64:-:*:*:*:*:*:*:*",
 			"cpeNameId": "7621510A-2A8C-4403-BC39-0DDC767783DC"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:artix_ultrascale\\+_au10p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5DC801E5-AB99-4415-9756-F88395CE7118"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:artix_ultrascale\\+_au15p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "637A4E44-E289-488B-A20A-748F3C805855"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:artix_ultrascale\\+_au20p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "63EA9ADE-F3A6-43FD-9978-A2578A332992"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:artix_ultrascale\\+_au25p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6BD98AA5-80BD-49EF-ADBE-D1002F371F26"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:artix_ultrascale\\+_au7p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "495B588E-7267-48F2-BF45-1770FFC4BBE1"
 		},
 		{
 			"cpeName": "cpe:2.3:h:amd:athlon:-:*:*:*:*:*:*:*",
@@ -1033,6 +1069,62 @@
 		{
 			"cpeName": "cpe:2.3:h:amd:instinct_mi300x:-:*:*:*:*:*:*:*",
 			"cpeNameId": "C205C6B9-5E11-4AB3-A140-CAAA41B7A5D0"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:kintex_ultrascale_ku025:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FAA92C96-21EE-4B46-95BD-41F2214387A3"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:kintex_ultrascale_ku035:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A7A7537F-0AA8-4980-999F-BD83B44DC10A"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:kintex_ultrascale_ku040:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F97551E0-0CF7-41D7-8F08-84E5D33A97C1"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:kintex_ultrascale_ku060:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A9007D8A-6A64-4D7D-A89F-4AB5802A5382"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:kintex_ultrascale_ku085:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C470E3C4-7043-451B-8F7D-49F73D3D5123"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:kintex_ultrascale_ku095:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6DB5DF22-3223-448F-B5CD-AEF22F05834D"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:kintex_ultrascale_ku115:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D5E7AC32-1804-410C-A081-B6E0B7DF9AE4"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:kintex_ultrascale\\+_ku11p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "640FA6CE-1481-4FE7-8C87-9B23923FFDE9"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:kintex_ultrascale\\+_ku13p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "254A5343-6A6E-413F-B2DF-01BAFFEEDE10"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:kintex_ultrascale\\+_ku15p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "38EC3F4A-1402-43EE-BB09-7794A76E03A2"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:kintex_ultrascale\\+_ku19p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B0C22FC6-1156-4D89-A81B-5BCE2E62677E"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:kintex_ultrascale\\+_ku3p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "830D0DF5-343B-4E79-92FE-C1D2A310D80C"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:kintex_ultrascale\\+_ku5p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CC6B81C7-BD89-45C2-825F-BB767705C4F4"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:kintex_ultrascale\\+_ku9p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "82245248-7875-4A2D-8A59-294D7612719A"
 		},
 		{
 			"cpeName": "cpe:2.3:h:amd:milan:-:*:*:*:*:*:*:*",
@@ -2951,6 +3043,102 @@
 			"cpeNameId": "14CB7BCE-FF3A-4C8F-97CF-CA4329A6D462"
 		},
 		{
+			"cpeName": "cpe:2.3:h:amd:virtex_ultrascale_xcvu065:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6CF45D67-262D-4503-A8CB-007D289176AA"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:virtex_ultrascale_xcvu080:-:*:*:*:*:*:*:*",
+			"cpeNameId": "955E1339-9432-4A7A-9226-CC8800EB4AB7"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:virtex_ultrascale_xcvu095:-:*:*:*:*:*:*:*",
+			"cpeNameId": "40A5406C-98F5-40C7-A06E-F4C3642C19B1"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:virtex_ultrascale_xcvu125:-:*:*:*:*:*:*:*",
+			"cpeNameId": "AC4CD441-5715-4FBA-939C-8A6AD6007A33"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:virtex_ultrascale_xcvu160:-:*:*:*:*:*:*:*",
+			"cpeNameId": "AE0E2A0A-454F-477E-A096-AD07A330CDFE"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:virtex_ultrascale_xcvu190:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A0C834B7-299B-48FB-93FB-F5A889E99029"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:virtex_ultrascale_xcvu440:-:*:*:*:*:*:*:*",
+			"cpeNameId": "24B5EFAA-A49E-41C4-8798-2E16E3B6FDDE"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:virtex_ultrascale\\+_vu11p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "25D174A4-4751-468F-86D5-D7B51E9D89FB"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:virtex_ultrascale\\+_vu13p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EBAAC536-C086-45C3-8A81-F703823763F7"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:virtex_ultrascale\\+_vu19p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4F8DEC84-28B1-40F1-97C3-D3A33C6638FA"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:virtex_ultrascale\\+_vu23p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0BADA292-7F60-420C-8C29-F44845D20CA8"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:virtex_ultrascale\\+_vu27p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D0C32974-3308-40E8-A087-2105035FC5F6"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:virtex_ultrascale\\+_vu29p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3407605C-EAC5-4C82-B51A-42FD6A9D12A0"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:virtex_ultrascale\\+_vu31p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "35EC7AA8-FC9E-42B6-98D6-6F35B0F65DEA"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:virtex_ultrascale\\+_vu33p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CFD263D0-311C-4ABD-9C7C-B9992A7F5558"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:virtex_ultrascale\\+_vu35p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "87BFE0D7-10FE-4A13-B543-236150BB4DFA"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:virtex_ultrascale\\+_vu37p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "061C6D43-1C73-4CE8-82C7-9B3B4EFFF68D"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:virtex_ultrascale\\+_vu3p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "828F8238-403C-4C58-AD15-9FA3E7C95300"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:virtex_ultrascale\\+_vu45p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3FAD5BF9-3CF6-464C-AC44-3A0F5A0973B5"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:virtex_ultrascale\\+_vu47p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1BF2DC50-7EA6-4C42-A453-185E2C87153B"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:virtex_ultrascale\\+_vu57p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FE51F322-8CF0-485B-859D-EDF2DC2D49C9"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:virtex_ultrascale\\+_vu5p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2A68A0BE-40CE-4CDE-9F3E-C6C3C083F332"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:virtex_ultrascale\\+_vu7p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7F1723CE-409D-40A8-809F-2B15928DE001"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:virtex_ultrascale\\+_vu9p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EFE10026-87DE-4EF3-B8AC-EF41553E7551"
+		},
+		{
 			"cpeName": "cpe:2.3:h:amd:xilinx_z-7007s:-:*:*:*:*:*:*:*",
 			"cpeNameId": "14AFD6B4-A551-442A-86EA-46A22A18681A"
 		},
@@ -2989,6 +3177,170 @@
 		{
 			"cpeName": "cpe:2.3:h:amd:xilinx_z-7100:-:*:*:*:*:*:*:*",
 			"cpeNameId": "A1AF1DA5-F098-43F4-B77D-6270D87D993A"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu11eg:-:*:*:*:*:*:*:*",
+			"cpeNameId": "32D0B1A6-4264-4CC1-AE61-25CFFCB55F38"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu15eg:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EAD1D0A5-BCA4-493B-8A20-714075F0A12A"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu17eg:-:*:*:*:*:*:*:*",
+			"cpeNameId": "211F807B-4B36-42B3-BC98-2554384D2D09"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu19eg:-:*:*:*:*:*:*:*",
+			"cpeNameId": "661AA2A9-301F-443B-ADAF-6C8AF6122126"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu1cg:-:*:*:*:*:*:*:*",
+			"cpeNameId": "81EA696B-0971-453C-A5B9-DB264877A88F"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu1eg:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A8ED7587-D136-489C-AC0B-C625A727FEB8"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu21dr:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DED65AF5-C78B-4834-B5B6-DC98CF24CD09"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu25dr:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5D6434B8-392D-4C9E-847C-F41966ABE265"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu27dr:-:*:*:*:*:*:*:*",
+			"cpeNameId": "670B87AF-C84B-4782-A7A6-6CD44208B977"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu28dr:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D16D466E-5D8C-4CCE-B7A3-5861D63B3F3F"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu29dr:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1D709354-8861-4D7A-BC07-6FEBC8793139"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu2cg:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9BA36EA8-A2B1-4E48-8CD5-87665F631607"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu2eg:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6C254850-3274-4C2C-BAB8-11ABA8C26FA3"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu39dr:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F67E5852-5131-47FD-8CA3-E39FC0F9ED2B"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu3cg:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7B2D5CF3-AAEB-43F5-871D-9CCDE9D370E5"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu3eg:-:*:*:*:*:*:*:*",
+			"cpeNameId": "27F220DD-1643-499E-9029-67CE89CED1A0"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu3tcg:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9676A8B6-7AF6-462D-B70D-18FB649654B5"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu3teg:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E6336D5F-5E7D-4C7D-AEA3-D31424640A43"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu42dr:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EF5D143E-5D6E-40D4-A25C-B8FEA3CE7F78"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu43dr:-:*:*:*:*:*:*:*",
+			"cpeNameId": "16517CF9-DF61-4301-B6EA-FBB59FBD428E"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu46dr:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BD9B9373-181D-424A-A356-B72CFC506CD8"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu47dr:-:*:*:*:*:*:*:*",
+			"cpeNameId": "17CFFE59-46D6-48EB-8FF4-D9456AAB1AE9"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu48dr:-:*:*:*:*:*:*:*",
+			"cpeNameId": "61BB1D36-B8D5-4E53-8FE8-852CE4022446"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu49dr:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9FAE3AA4-B29D-4834-A4BC-A4724FFC710B"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu4cg:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9E730199-081B-4A5A-AE24-8B818A1AB9D6"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu4eg:-:*:*:*:*:*:*:*",
+			"cpeNameId": "428AD7A8-8517-4D0D-BD62-004729A6AE2A"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu4ev:-:*:*:*:*:*:*:*",
+			"cpeNameId": "498D377A-BA00-43D5-9793-3D8DDABB24C6"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu5cg:-:*:*:*:*:*:*:*",
+			"cpeNameId": "63B920AB-116F-41D7-BAC2-2F0E911B6EA7"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu5eg:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B8FBB497-A550-4749-B622-FE552E40D9C3"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu5ev:-:*:*:*:*:*:*:*",
+			"cpeNameId": "306FCC8B-0E35-4CD9-B320-CB3AB5F806B3"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu63dr:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D225F70A-8260-433D-AF17-55D2067D0026"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu64dr:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F2F51E7D-4D50-4B8D-A0F3-EEE01AD9AFCF"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu65dr:-:*:*:*:*:*:*:*",
+			"cpeNameId": "58927AC7-36A9-4E2D-A5FC-9C6B83F63335"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu67dr:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5B0DB81F-4072-4D02-902C-EDA105104B99"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu6cg:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A9E81A08-3483-4003-B7BF-5A80DE50321F"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu6eg:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B630A5A6-8178-4821-8768-630BAF005DD2"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu7cg:-:*:*:*:*:*:*:*",
+			"cpeNameId": "99E90721-0D4C-4E2B-9EF5-5B928EAAD1A9"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu7eg:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5D7F7BF9-4281-427A-875C-60BC3EB2376C"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu7ev:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5735F5E0-8C9D-402E-896F-021F2BE55918"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu9cg:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DFDC6551-DD61-4F4B-B31A-E33986956458"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:zu9eg:-:*:*:*:*:*:*:*",
+			"cpeNameId": "681AD36B-7995-439A-8A81-DB4FE727B7E3"
 		}
 	]
 }

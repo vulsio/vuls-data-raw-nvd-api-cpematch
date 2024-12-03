@@ -3,8 +3,8 @@
 	"matchCriteriaId": "E9CAD42C-E15C-4F36-8E80-1BE80F39B3FE",
 	"versionEndExcluding": "1.15.31",
 	"created": "2024-11-12T18:01:46.800",
-	"lastModified": "2024-11-12T18:01:46.800",
-	"cpeLastModified": "2024-11-12T18:01:46.800",
+	"lastModified": "2024-12-03T14:57:40.720",
+	"cpeLastModified": "2024-12-03T14:57:40.720",
 	"status": "Active",
 	"matches": [
 		{
@@ -1306,6 +1306,10 @@
 		{
 			"cpeName": "cpe:2.3:a:10web:form_maker:1.15.28:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "D455B9CE-9BBF-4124-A1A1-60E118EBEC2B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:10web:form_maker:1.15.30:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DBAEB1DC-C918-4E3F-BB07-49F5F0F46572"
 		}
 	]
 }
