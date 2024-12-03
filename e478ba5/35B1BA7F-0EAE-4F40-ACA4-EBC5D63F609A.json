@@ -4,8 +4,8 @@
 	"versionStartIncluding": "8.3.0",
 	"versionEndExcluding": "8.3.14",
 	"created": "2024-11-26T14:52:46.207",
-	"lastModified": "2024-11-26T14:52:46.207",
-	"cpeLastModified": "2024-11-26T14:57:12.783",
+	"lastModified": "2024-12-02T20:59:09.693",
+	"cpeLastModified": "2024-12-02T20:59:09.693",
 	"status": "Active",
 	"matches": [
 		{
@@ -119,6 +119,46 @@
 		{
 			"cpeName": "cpe:2.3:a:php:php:8.3.8:rc1:*:*:*:*:*:*",
 			"cpeNameId": "556DE677-948E-4CE7-A2A6-28E2316AEBA6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:php:php:8.3.9:-:*:*:*:*:*:*",
+			"cpeNameId": "DAFA3D01-283D-4901-84E8-CF2DD6467B55"
+		},
+		{
+			"cpeName": "cpe:2.3:a:php:php:8.3.9:rc1:*:*:*:*:*:*",
+			"cpeNameId": "33E05B86-6FE6-461D-9B78-2DE0315806E7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:php:php:8.3.10:-:*:*:*:*:*:*",
+			"cpeNameId": "0BD3D273-BA46-498E-9AD6-15DA235DA1EA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:php:php:8.3.10:rc1:*:*:*:*:*:*",
+			"cpeNameId": "E8F1F106-A912-415A-A0B8-C88150D8BFC4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:php:php:8.3.11:-:*:*:*:*:*:*",
+			"cpeNameId": "27913C1C-2727-48B5-9916-674E5F8C66CE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:php:php:8.3.11:rc1:*:*:*:*:*:*",
+			"cpeNameId": "8768EF09-6FCF-4DDF-9555-DFFAF1C5DC67"
+		},
+		{
+			"cpeName": "cpe:2.3:a:php:php:8.3.12:-:*:*:*:*:*:*",
+			"cpeNameId": "590DBE69-0CD5-49A0-AC19-866AA92AB599"
+		},
+		{
+			"cpeName": "cpe:2.3:a:php:php:8.3.12:rc1:*:*:*:*:*:*",
+			"cpeNameId": "5E9DFF3B-D2C7-45A7-B3EE-F031E37C43D5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:php:php:8.3.13:-:*:*:*:*:*:*",
+			"cpeNameId": "485F5967-34DB-4BD1-8504-8366D310EBE7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:php:php:8.3.13:rc1:*:*:*:*:*:*",
+			"cpeNameId": "AA9855B8-41D2-4540-9916-5F300C034158"
 		}
 	]
 }

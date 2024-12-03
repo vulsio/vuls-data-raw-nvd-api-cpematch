@@ -5,7 +5,7 @@
 	"versionEndExcluding": "4.1.10",
 	"created": "2024-07-18T15:43:13.080",
 	"lastModified": "2024-07-18T15:43:13.080",
-	"cpeLastModified": "2024-07-18T15:43:13.080",
+	"cpeLastModified": "2024-12-02T19:47:00.590",
 	"status": "Active",
 	"matches": [
 		{
@@ -47,6 +47,14 @@
 		{
 			"cpeName": "cpe:2.3:a:moodle:moodle:4.1.6:*:*:*:*:*:*:*",
 			"cpeNameId": "4B5A87FE-8803-43B5-AC63-13889D30628B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:moodle:moodle:4.1.8:*:*:*:*:*:*:*",
+			"cpeNameId": "262EA33A-5C6E-4885-8272-ED8DC36BB705"
+		},
+		{
+			"cpeName": "cpe:2.3:a:moodle:moodle:4.1.9:*:*:*:*:*:*:*",
+			"cpeNameId": "02BA4146-5F80-4E49-9C1D-96E4003490DE"
 		}
 	]
 }
