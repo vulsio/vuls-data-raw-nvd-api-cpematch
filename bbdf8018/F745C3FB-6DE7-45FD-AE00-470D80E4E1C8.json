@@ -5,7 +5,7 @@
 	"versionEndIncluding": "18.011.20038",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2024-12-02T21:32:19.087",
+	"cpeLastModified": "2024-12-04T13:44:42.843",
 	"status": "Active",
 	"matches": [
 		{
@@ -119,6 +119,10 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:18.011.20035:*:*:*:continuous:*:*:*",
 			"cpeNameId": "499A6186-6F88-4C1A-80A8-DEBE5BC6B6DD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:18.011.20036:*:*:*:continuous:*:*:*",
+			"cpeNameId": "A939E777-B22B-447C-A03D-1576CCB47AA1"
 		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:18.011.20038:*:*:*:continuous:*:*:*",

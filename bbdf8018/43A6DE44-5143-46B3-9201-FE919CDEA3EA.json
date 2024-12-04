@@ -4,8 +4,8 @@
 	"versionStartIncluding": "15.008.20082",
 	"versionEndIncluding": "21.007.20096",
 	"created": "2021-10-18T01:19:08.010",
-	"lastModified": "2021-10-18T01:19:08.010",
-	"cpeLastModified": "2024-12-02T21:32:19.087",
+	"lastModified": "2024-12-04T13:44:42.843",
+	"cpeLastModified": "2024-12-04T13:44:42.843",
 	"status": "Active",
 	"matches": [
 		{
@@ -121,6 +121,10 @@
 			"cpeNameId": "499A6186-6F88-4C1A-80A8-DEBE5BC6B6DD"
 		},
 		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:18.011.20036:*:*:*:continuous:*:*:*",
+			"cpeNameId": "A939E777-B22B-447C-A03D-1576CCB47AA1"
+		},
+		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:18.011.20038:*:*:*:continuous:*:*:*",
 			"cpeNameId": "2A7E7122-9750-4C79-81AB-3E6BFD2399A1"
 		},
@@ -131,6 +135,10 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:18.011.20055:*:*:*:continuous:*:*:*",
 			"cpeNameId": "ADF588A7-127A-424B-A7D2-CB452EAFAFCE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:18.011.20058:*:*:*:continuous:*:*:*",
+			"cpeNameId": "F4EC6D98-597F-439E-A97B-4EC37EE395D6"
 		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:18.011.20063:*:*:*:continuous:*:*:*",
@@ -189,8 +197,20 @@
 			"cpeNameId": "4695E69C-56BB-40BF-83CC-F59EC42257B4"
 		},
 		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:19.012.20040:*:*:*:continuous:*:*:*",
+			"cpeNameId": "13875C19-F855-4148-906E-00F9A47F452B"
+		},
+		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:19.021.20047:*:*:*:continuous:*:*:*",
 			"cpeNameId": "CA1F137E-3E2C-4036-884A-19C4C8C891F2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:19.021.20048:*:*:*:continuous:*:*:*",
+			"cpeNameId": "99690F99-1931-4E28-92BF-D5C2A74B9758"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:19.021.20049:*:*:*:continuous:*:*:*",
+			"cpeNameId": "124273E8-4674-4D4B-8092-A2C611B05A7A"
 		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:19.021.20056:*:*:*:continuous:*:*:*",
@@ -205,16 +225,44 @@
 			"cpeNameId": "6F5DB35D-226A-41B4-9919-AB7D99B9B0A7"
 		},
 		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:20.006.20034:*:*:*:continuous:*:*:*",
+			"cpeNameId": "6DA51661-FC1E-439C-A0CA-5F456DE452CA"
+		},
+		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:20.006.20042:*:*:*:continuous:*:*:*",
 			"cpeNameId": "0F5FCA14-F8CC-402C-8A5E-A02066F83BC6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:20.009.20063:*:*:*:continuous:*:*:*",
+			"cpeNameId": "4FCA818A-C08D-46BB-94BB-5130523CD357"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:20.009.20065:*:*:*:continuous:*:*:*",
+			"cpeNameId": "5D7E8B36-1F83-40D6-8E5C-F8FA03FAE4D4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:20.009.20067:*:*:*:continuous:*:*:*",
+			"cpeNameId": "2F6AA9D7-CE74-44E0-8374-5936C20D8EA2"
 		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:20.009.20074:*:*:*:continuous:*:*:*",
 			"cpeNameId": "E8300DE6-37B6-48FD-ABCB-A01D7100A430"
 		},
 		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:20.012.20041:*:*:*:continuous:*:*:*",
+			"cpeNameId": "036A8DBD-B49C-4CD6-91F4-EF1EB50EF816"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:20.012.20043:*:*:*:continuous:*:*:*",
+			"cpeNameId": "DF8BDF43-255B-49FA-A592-A864F9C7236F"
+		},
+		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:20.012.20048:*:*:*:continuous:*:*:*",
 			"cpeNameId": "E11A3D0A-FE24-4AAB-B20B-AFD55BBCCD4C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:20.013.20064:*:*:*:continuous:*:*:*",
+			"cpeNameId": "DDCCE675-E5A9-4EA4-BF0C-200FBADDA268"
 		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:20.013.20066:*:*:*:continuous:*:*:*",
@@ -229,6 +277,22 @@
 			"cpeNameId": "A97C8177-3407-4AF7-8F65-F9A300CFA005"
 		},
 		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:21.001.20138:*:*:*:continuous:*:*:*",
+			"cpeNameId": "0880F387-A1FD-4704-AD5D-1EB9423FC43C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:21.001.20140:*:*:*:continuous:*:*:*",
+			"cpeNameId": "4C954481-B9FB-495F-84BB-CD5D1C18B16F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:21.001.20142:*:*:*:continuous:*:*:*",
+			"cpeNameId": "8EE68717-924D-4748-A2E3-9E02C4FB397D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:21.001.20145:*:*:*:continuous:*:*:*",
+			"cpeNameId": "71C5DFF5-CD36-4D5F-B78B-6FE50369D1A3"
+		},
+		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:21.001.20149:*:*:*:continuous:*:*:*",
 			"cpeNameId": "510B7347-2877-414F-8559-05504B1598B3"
 		},
@@ -241,12 +305,32 @@
 			"cpeNameId": "FA170E7D-668F-4C65-BCA0-6AEE7EF5988F"
 		},
 		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:21.005.20048:*:*:*:continuous:*:*:*",
+			"cpeNameId": "82CD034B-C07E-441A-99EE-CF569082216B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:21.005.20054:*:*:*:continuous:*:*:*",
+			"cpeNameId": "68539AF8-E816-41EC-A35F-F3BCDA7B5F26"
+		},
+		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:21.005.20058:*:*:*:continuous:*:*:*",
 			"cpeNameId": "3AA9AC77-1672-41AC-ABF6-CFC22F58F67B"
 		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:21.005.20060:*:*:*:continuous:*:*:*",
 			"cpeNameId": "DE74B922-D58B-40CA-B386-41771A4AEF59"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:21.007.20091:*:*:*:continuous:*:*:*",
+			"cpeNameId": "A7DC9EC1-2F4A-4B84-94E7-D6AF779C624B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:21.007.20095:*:*:*:continuous:*:*:*",
+			"cpeNameId": "6BF8AF07-C374-47A9-B902-75B2A48A9FF0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:21.007.20096:*:*:*:continuous:*:*:*",
+			"cpeNameId": "4AC6A059-221F-4B16-A19C-2FD869B9B00C"
 		}
 	]
 }

@@ -4,7 +4,7 @@
 	"versionEndIncluding": "20.001.30005",
 	"created": "2020-11-05T23:03:06.940",
 	"lastModified": "2020-11-05T23:03:06.940",
-	"cpeLastModified": "2023-09-16T02:30:47.320",
+	"cpeLastModified": "2024-12-04T13:44:42.843",
 	"status": "Active",
 	"matches": [
 		{
@@ -150,6 +150,10 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat:20.001.3005:*:*:*:classic:*:*:*",
 			"cpeNameId": "7C495986-8E24-4795-917A-243C9E93AAE3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat:20.001.30002:*:*:*:classic:*:*:*",
+			"cpeNameId": "8853C7B7-45C3-42BF-8F88-6D0B690B8D03"
 		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat:20.001.30005:*:*:*:classic:*:*:*",

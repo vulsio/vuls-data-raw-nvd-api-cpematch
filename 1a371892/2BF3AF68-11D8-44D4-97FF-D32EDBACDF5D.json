@@ -5,6 +5,12 @@
 	"versionEndExcluding": "24.003.20112",
 	"created": "2024-09-19T14:56:36.010",
 	"lastModified": "2024-09-19T14:56:36.010",
-	"cpeLastModified": "2024-09-19T14:56:36.010",
-	"status": "Active"
+	"cpeLastModified": "2024-12-04T13:44:42.843",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_dc:24.003.20054:*:*:*:continuous:*:*:*",
+			"cpeNameId": "F7CC9938-7AB6-4BDC-8DED-E5E0D0362972"
+		}
+	]
 }

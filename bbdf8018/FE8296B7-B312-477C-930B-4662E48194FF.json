@@ -5,7 +5,7 @@
 	"versionEndExcluding": "19.010.20091",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2024-12-02T21:32:19.087",
+	"cpeLastModified": "2024-12-04T13:44:42.843",
 	"status": "Active",
 	"matches": [
 		{
@@ -121,6 +121,10 @@
 			"cpeNameId": "499A6186-6F88-4C1A-80A8-DEBE5BC6B6DD"
 		},
 		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:18.011.20036:*:*:*:continuous:*:*:*",
+			"cpeNameId": "A939E777-B22B-447C-A03D-1576CCB47AA1"
+		},
+		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:18.011.20038:*:*:*:continuous:*:*:*",
 			"cpeNameId": "2A7E7122-9750-4C79-81AB-3E6BFD2399A1"
 		},
@@ -131,6 +135,10 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:18.011.20055:*:*:*:continuous:*:*:*",
 			"cpeNameId": "ADF588A7-127A-424B-A7D2-CB452EAFAFCE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:18.011.20058:*:*:*:continuous:*:*:*",
+			"cpeNameId": "F4EC6D98-597F-439E-A97B-4EC37EE395D6"
 		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat_reader_dc:18.011.20063:*:*:*:continuous:*:*:*",

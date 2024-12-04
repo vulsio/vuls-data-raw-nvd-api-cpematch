@@ -5,12 +5,16 @@
 	"versionEndExcluding": "20.005.30524",
 	"created": "2023-09-15T11:06:38.230",
 	"lastModified": "2023-09-16T02:30:47.320",
-	"cpeLastModified": "2024-12-02T21:29:14.053",
+	"cpeLastModified": "2024-12-04T13:44:42.843",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat:20.001.3005:*:*:*:classic:*:*:*",
 			"cpeNameId": "7C495986-8E24-4795-917A-243C9E93AAE3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat:20.001.30002:*:*:*:classic:*:*:*",
+			"cpeNameId": "8853C7B7-45C3-42BF-8F88-6D0B690B8D03"
 		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat:20.001.30005:*:*:*:classic:*:*:*",
@@ -33,12 +37,24 @@
 			"cpeNameId": "A949BABC-3158-4294-8766-67684F3FB475"
 		},
 		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat:20.004.30005:*:*:*:classic:*:*:*",
+			"cpeNameId": "8ABB7124-2700-4923-BE11-0FD590AB1C19"
+		},
+		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat:20.004.30006:*:*:*:classic:*:*:*",
 			"cpeNameId": "B9096772-3EBF-41BC-85DE-5564AD5B5475"
 		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat:20.004.30015:*:*:*:classic:*:*:*",
 			"cpeNameId": "6011B07E-204E-434F-9F72-29676E0E2201"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat:20.004.30017:*:*:*:classic:*:*:*",
+			"cpeNameId": "F6999702-5C21-4011-94D8-D4489738B377"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat:20.004.30020:*:*:*:classic:*:*:*",
+			"cpeNameId": "F2DD2AB8-10D1-482A-87FB-946CB9242841"
 		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat:20.005.30311:*:*:*:classic:*:*:*",
@@ -69,6 +85,10 @@
 			"cpeNameId": "3610DB68-76EB-4AAB-A139-B6FBA867A6E0"
 		},
 		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat:20.005.30418:*:*:*:classic:*:*:*",
+			"cpeNameId": "7E7B11F9-32DD-4606-A048-373824A43373"
+		},
+		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat:20.005.30436:*:*:*:classic:*:*:*",
 			"cpeNameId": "73A9787E-B2B6-4F3A-9190-2152ABAD3E56"
 		},
@@ -79,6 +99,14 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:acrobat:20.005.30467:*:*:*:classic:*:*:*",
 			"cpeNameId": "13CCA654-1386-4B17-87BC-A053EB588584"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat:20.005.30514:*:*:*:classic:*:*:*",
+			"cpeNameId": "31852CAA-4AEB-4F0E-ABD5-5D7DA4BA9F3E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:acrobat:20.005.30516:*:*:*:classic:*:*:*",
+			"cpeNameId": "61206169-3148-4A3D-87B6-C950C516F558"
 		}
 	]
 }
