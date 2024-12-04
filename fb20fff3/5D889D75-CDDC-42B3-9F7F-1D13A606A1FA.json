@@ -3,8 +3,8 @@
 	"matchCriteriaId": "5D889D75-CDDC-42B3-9F7F-1D13A606A1FA",
 	"versionEndExcluding": "2.5.31",
 	"created": "2024-11-08T17:33:05.440",
-	"lastModified": "2024-11-08T17:33:05.440",
-	"cpeLastModified": "2024-11-08T17:33:05.440",
+	"lastModified": "2024-12-04T16:14:13.310",
+	"cpeLastModified": "2024-12-04T16:14:13.310",
 	"status": "Active",
 	"matches": [
 		{
@@ -146,6 +146,14 @@
 		{
 			"cpeName": "cpe:2.3:a:bplugins:html5_video_player:2.5.27:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "856773AD-36CD-4AA2-A593-725777EC4863"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bplugins:html5_video_player:2.5.28:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "055AA667-A042-4A78-AA32-FFAC56D9CA4D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bplugins:html5_video_player:2.5.30:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "20910856-940A-49C2-933B-CE8D666C13D2"
 		}
 	]
 }

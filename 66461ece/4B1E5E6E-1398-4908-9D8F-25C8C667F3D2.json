@@ -3,10 +3,14 @@
 	"matchCriteriaId": "4B1E5E6E-1398-4908-9D8F-25C8C667F3D2",
 	"versionEndExcluding": "3.1.2",
 	"created": "2024-11-05T19:15:14.970",
-	"lastModified": "2024-11-05T19:15:14.970",
-	"cpeLastModified": "2024-11-05T19:15:14.970",
+	"lastModified": "2024-12-04T16:20:56.213",
+	"cpeLastModified": "2024-12-04T16:20:56.213",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:combodo:itop:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F4DE50FE-7507-4354-9D9C-BB0C2924C28A"
+		},
 		{
 			"cpeName": "cpe:2.3:a:combodo:itop:0.7.1:*:*:*:*:*:*:*",
 			"cpeNameId": "454056E1-F06C-4EA6-96BF-9811D830A6FF"
@@ -376,6 +380,18 @@
 			"cpeNameId": "04F7FBD4-E943-4D64-AD44-B2A6F1FDA086"
 		},
 		{
+			"cpeName": "cpe:2.3:a:combodo:itop:2.7.9:*:*:*:*:*:*:*",
+			"cpeNameId": "B3C474D1-DDBC-4925-84D8-A4B038A6B672"
+		},
+		{
+			"cpeName": "cpe:2.3:a:combodo:itop:2.7.10:*:*:*:*:*:*:*",
+			"cpeNameId": "972406F8-4B83-4D5C-87FA-DA68EE760648"
+		},
+		{
+			"cpeName": "cpe:2.3:a:combodo:itop:2.7.11:*:*:*:*:*:*:*",
+			"cpeNameId": "63F5014A-39F9-4715-9746-7D6BB85B6024"
+		},
+		{
 			"cpeName": "cpe:2.3:a:combodo:itop:3.0.0:-:*:*:*:*:*:*",
 			"cpeNameId": "48EA93A6-0E05-454E-B38A-BD4213CAF0DA"
 		},
@@ -448,6 +464,10 @@
 			"cpeNameId": "DFCB7B39-BBD0-4EBE-AD6B-6220F20BCEF4"
 		},
 		{
+			"cpeName": "cpe:2.3:a:combodo:itop:3.0.5:*:*:*:*:*:*:*",
+			"cpeNameId": "CD67723E-D423-459C-9C38-B983D2FC7914"
+		},
+		{
 			"cpeName": "cpe:2.3:a:combodo:itop:3.1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "1194284F-35D2-498E-8122-B99B90BCAD6A"
 		},
@@ -458,6 +478,10 @@
 		{
 			"cpeName": "cpe:2.3:a:combodo:itop:3.1.0-2-11973:*:*:*:*:*:*:*",
 			"cpeNameId": "C7C5BE50-EC57-4C21-922F-40AC4F2E3985"
+		},
+		{
+			"cpeName": "cpe:2.3:a:combodo:itop:3.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "8C80E9F9-203E-4603-895B-A6E3C109004A"
 		}
 	]
 }

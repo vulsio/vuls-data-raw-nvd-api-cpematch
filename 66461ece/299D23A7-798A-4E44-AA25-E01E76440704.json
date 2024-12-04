@@ -4,9 +4,13 @@
 	"versionEndExcluding": "2.7.4",
 	"created": "2021-07-26T19:17:51.240",
 	"lastModified": "2021-07-26T19:17:51.240",
-	"cpeLastModified": "2021-07-27T12:37:24.600",
+	"cpeLastModified": "2024-12-04T16:20:56.213",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:combodo:itop:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F4DE50FE-7507-4354-9D9C-BB0C2924C28A"
+		},
 		{
 			"cpeName": "cpe:2.3:a:combodo:itop:0.7.1:*:*:*:*:*:*:*",
 			"cpeNameId": "454056E1-F06C-4EA6-96BF-9811D830A6FF"

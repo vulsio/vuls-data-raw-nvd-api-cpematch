@@ -3,10 +3,14 @@
 	"matchCriteriaId": "FA0F67ED-5CDF-43B4-80A2-44BBB56A9624",
 	"versionEndExcluding": "2.7.9",
 	"created": "2024-11-06T14:24:08.303",
-	"lastModified": "2024-11-06T14:24:08.303",
-	"cpeLastModified": "2024-11-06T14:24:08.303",
+	"lastModified": "2024-12-04T16:20:56.213",
+	"cpeLastModified": "2024-12-04T16:20:56.213",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:combodo:itop:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F4DE50FE-7507-4354-9D9C-BB0C2924C28A"
+		},
 		{
 			"cpeName": "cpe:2.3:a:combodo:itop:0.7.1:*:*:*:*:*:*:*",
 			"cpeNameId": "454056E1-F06C-4EA6-96BF-9811D830A6FF"

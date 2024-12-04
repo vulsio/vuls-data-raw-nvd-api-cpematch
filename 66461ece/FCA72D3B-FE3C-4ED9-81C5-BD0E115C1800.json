@@ -4,9 +4,13 @@
 	"versionEndIncluding": "2.6.0",
 	"created": "2020-02-19T13:44:13.250",
 	"lastModified": "2020-02-19T13:44:13.250",
-	"cpeLastModified": "2020-02-20T19:49:01.490",
+	"cpeLastModified": "2024-12-04T16:20:56.213",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:combodo:itop:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F4DE50FE-7507-4354-9D9C-BB0C2924C28A"
+		},
 		{
 			"cpeName": "cpe:2.3:a:combodo:itop:0.7.1:*:*:*:*:*:*:*",
 			"cpeNameId": "454056E1-F06C-4EA6-96BF-9811D830A6FF"
