@@ -4,9 +4,13 @@
 	"versionEndIncluding": "1.4",
 	"created": "2022-08-24T18:47:12.800",
 	"lastModified": "2022-08-24T18:47:12.800",
-	"cpeLastModified": "2022-08-25T12:53:21.497",
+	"cpeLastModified": "2024-12-05T12:57:48.650",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:amcharts:amcharts\\:_charts_and_maps:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9909238B-030A-4ECF-9D4B-40F0EDDCB03F"
+		},
 		{
 			"cpeName": "cpe:2.3:a:amcharts:amcharts\\:_charts_and_maps:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "B4A5E73D-B4E0-4B66-B281-CC2980BC8444"

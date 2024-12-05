@@ -3,8 +3,8 @@
 	"matchCriteriaId": "1E676EDD-A336-42BE-B662-29D43DD8B5D2",
 	"versionEndExcluding": "4.0.0",
 	"created": "2024-10-28T18:54:58.157",
-	"lastModified": "2024-10-28T18:54:58.157",
-	"cpeLastModified": "2024-10-28T18:54:58.157",
+	"lastModified": "2024-12-05T12:20:03.590",
+	"cpeLastModified": "2024-12-05T12:20:03.590",
 	"status": "Active",
 	"matches": [
 		{
@@ -170,6 +170,26 @@
 		{
 			"cpeName": "cpe:2.3:a:logichunt:logo_slider:3.6.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "744ACD3F-AD64-4AEE-BED9-628C4C695B0B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:logichunt:logo_slider:3.7.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "03590EF2-A9AE-41D1-AC7C-88D20D967830"
+		},
+		{
+			"cpeName": "cpe:2.3:a:logichunt:logo_slider:3.8.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "595CD1D1-9595-400C-ADF7-09ACAC9E5D98"
+		},
+		{
+			"cpeName": "cpe:2.3:a:logichunt:logo_slider:3.9.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6BC46BC4-5156-4A71-A577-B2DFDE3E69ED"
+		},
+		{
+			"cpeName": "cpe:2.3:a:logichunt:logo_slider:3.9.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6C28EBA1-FD23-4EB7-9C5D-82A00BF90A2D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:logichunt:logo_slider:3.9.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "91B0ACA3-711A-43D8-AB76-C732A8CD212D"
 		}
 	]
 }

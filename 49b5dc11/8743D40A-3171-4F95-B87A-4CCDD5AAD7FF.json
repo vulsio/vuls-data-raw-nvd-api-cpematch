@@ -3,10 +3,14 @@
 	"matchCriteriaId": "8743D40A-3171-4F95-B87A-4CCDD5AAD7FF",
 	"versionEndExcluding": "1.4.5",
 	"created": "2024-09-26T12:16:40.710",
-	"lastModified": "2024-09-26T12:16:40.710",
-	"cpeLastModified": "2024-09-26T12:16:40.710",
+	"lastModified": "2024-12-05T12:57:48.650",
+	"cpeLastModified": "2024-12-05T12:57:48.650",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:amcharts:amcharts\\:_charts_and_maps:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9909238B-030A-4ECF-9D4B-40F0EDDCB03F"
+		},
 		{
 			"cpeName": "cpe:2.3:a:amcharts:amcharts\\:_charts_and_maps:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "B4A5E73D-B4E0-4B66-B281-CC2980BC8444"
@@ -142,6 +146,18 @@
 		{
 			"cpeName": "cpe:2.3:a:amcharts:amcharts\\:_charts_and_maps:1.4.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "B12364ED-2381-4245-B7B9-AAFBD171D034"
+		},
+		{
+			"cpeName": "cpe:2.3:a:amcharts:amcharts\\:_charts_and_maps:1.4.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C0EA9489-369C-421D-AE64-5381A1972F5A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:amcharts:amcharts\\:_charts_and_maps:1.4.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B7772ACF-32D1-4518-9ED5-83BA5E72EDF3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:amcharts:amcharts\\:_charts_and_maps:1.4.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DA9B504D-9FE6-44FB-9981-DE1EF0D26276"
 		}
 	]
 }
