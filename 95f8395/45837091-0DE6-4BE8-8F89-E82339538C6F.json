@@ -3,10 +3,14 @@
 	"matchCriteriaId": "45837091-0DE6-4BE8-8F89-E82339538C6F",
 	"versionEndIncluding": "3.6.11",
 	"created": "2024-09-24T17:26:05.083",
-	"lastModified": "2024-09-24T17:26:05.083",
-	"cpeLastModified": "2024-09-24T17:26:05.083",
+	"lastModified": "2024-12-06T18:12:40.977",
+	"cpeLastModified": "2024-12-06T18:12:40.977",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wclovers:wcfm_marketplace:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0AF3CF87-A9DE-4A66-8027-4C0BC48AC28B"
+		},
 		{
 			"cpeName": "cpe:2.3:a:wclovers:wcfm_marketplace:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "97A65F97-E942-4FD5-818C-F65C78633DFA"
@@ -472,8 +476,48 @@
 			"cpeNameId": "C4516B67-A771-426B-B83E-37A65B84660D"
 		},
 		{
+			"cpeName": "cpe:2.3:a:wclovers:wcfm_marketplace:3.6.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "62FC8916-6D5B-4252-873E-76A086074CD7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wclovers:wcfm_marketplace:3.6.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "572B6491-A2ED-46F8-9C81-EB122834EDDB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wclovers:wcfm_marketplace:3.6.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C31334F7-4F59-4848-98C4-4AA143A5A1E6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wclovers:wcfm_marketplace:3.6.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3DDD620D-0DB9-4DD6-8062-3F8A45A0E150"
+		},
+		{
 			"cpeName": "cpe:2.3:a:wclovers:wcfm_marketplace:3.6.5:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "EEE720C9-BF67-4D99-B5A3-24D2A3087E22"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wclovers:wcfm_marketplace:3.6.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7F2A445A-197B-44D0-86C7-6DDE77BB0050"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wclovers:wcfm_marketplace:3.6.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "31C7D96F-DE5B-4AA2-9F44-8606E6019AB7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wclovers:wcfm_marketplace:3.6.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "743FAC56-2C51-41DF-9422-A8C9CD426340"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wclovers:wcfm_marketplace:3.6.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CF941D9D-C133-47DB-B1B8-6AA0C1DA306A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wclovers:wcfm_marketplace:3.6.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5F5802FA-0517-4D21-9739-5FB2B2BE77CD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wclovers:wcfm_marketplace:3.6.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "95DA93B8-352B-4010-8B57-81F3466D6B42"
 		}
 	]
 }

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "CC737808-DA37-4897-8B47-AD18AB6462F6",
 	"versionEndExcluding": "4.0.9",
 	"created": "2024-08-30T17:20:24.737",
-	"lastModified": "2024-08-30T17:20:24.737",
-	"cpeLastModified": "2024-08-30T17:20:24.737",
+	"lastModified": "2024-12-06T18:14:07.823",
+	"cpeLastModified": "2024-12-06T18:14:07.823",
 	"status": "Active",
 	"matches": [
 		{
@@ -522,6 +522,30 @@
 		{
 			"cpeName": "cpe:2.3:a:wpdeveloper:embedpress:4.0.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "1EA4EC84-0930-452A-B40D-4E7E994F8FE8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:embedpress:4.0.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "30F7CEB6-5B24-4AD6-BCD2-88F4F256CAC5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:embedpress:4.0.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "52BD12CD-BDAF-45B8-801B-54F043F8CA28"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:embedpress:4.0.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DE03856F-2EDD-4380-80E8-0C36B1E8D3D3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:embedpress:4.0.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CE24E411-4906-4B03-A47F-DFAE8BE712BB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:embedpress:4.0.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5973DF81-BD61-47C0-9E46-24723DBB0562"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:embedpress:4.0.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "98B1B19F-5113-46FC-87E1-1AC5A43507C8"
 		}
 	]
 }

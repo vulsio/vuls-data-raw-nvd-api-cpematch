@@ -3,8 +3,8 @@
 	"matchCriteriaId": "6A4F9612-AB74-443E-97DE-3EED0D4261C3",
 	"versionEndExcluding": "6.7.13",
 	"created": "2024-10-02T18:01:54.100",
-	"lastModified": "2024-10-02T18:01:54.100",
-	"cpeLastModified": "2024-10-02T18:01:54.100",
+	"lastModified": "2024-12-06T18:11:21.903",
+	"cpeLastModified": "2024-12-06T18:11:21.903",
 	"status": "Active",
 	"matches": [
 		{
@@ -990,6 +990,54 @@
 		{
 			"cpeName": "cpe:2.3:a:wclovers:frontend_manager_for_woocommerce_along_with_bookings_subscription_listings_compatible:6.7.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "357311A0-EB20-4CB8-BDEA-21FD55EFC979"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wclovers:frontend_manager_for_woocommerce_along_with_bookings_subscription_listings_compatible:6.7.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "43365BEC-5333-428B-8CAE-9F39C5954DDC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wclovers:frontend_manager_for_woocommerce_along_with_bookings_subscription_listings_compatible:6.7.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "569E4C38-7274-4392-8148-F5A021EA86D4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wclovers:frontend_manager_for_woocommerce_along_with_bookings_subscription_listings_compatible:6.7.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "ECAD013D-E93C-4A53-B6B3-E58984CF1900"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wclovers:frontend_manager_for_woocommerce_along_with_bookings_subscription_listings_compatible:6.7.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B130AC02-2CFF-486E-8BC1-8E572FA7DCE9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wclovers:frontend_manager_for_woocommerce_along_with_bookings_subscription_listings_compatible:6.7.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3474A7F2-66EA-4A2B-ACFD-F7D3C1559DE3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wclovers:frontend_manager_for_woocommerce_along_with_bookings_subscription_listings_compatible:6.7.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "377AB6EE-286C-4B2B-9A6E-6B54A95E0A7D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wclovers:frontend_manager_for_woocommerce_along_with_bookings_subscription_listings_compatible:6.7.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3B1CEDDA-E54A-45CC-8BE4-1E018043CAC5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wclovers:frontend_manager_for_woocommerce_along_with_bookings_subscription_listings_compatible:6.7.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0C52C032-5722-4CEE-922F-1FE2EFA95A70"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wclovers:frontend_manager_for_woocommerce_along_with_bookings_subscription_listings_compatible:6.7.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BB2419C7-CC29-42D2-87F7-CC848E26AC92"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wclovers:frontend_manager_for_woocommerce_along_with_bookings_subscription_listings_compatible:6.7.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0BFE00A8-42CC-4B3A-87B3-8E5E03757234"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wclovers:frontend_manager_for_woocommerce_along_with_bookings_subscription_listings_compatible:6.7.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "43E5A9E8-8B6D-4C91-B758-68672525D2FE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wclovers:frontend_manager_for_woocommerce_along_with_bookings_subscription_listings_compatible:6.7.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5E9C084C-CC3B-43BA-AD40-112C1C28E616"
 		}
 	]
 }

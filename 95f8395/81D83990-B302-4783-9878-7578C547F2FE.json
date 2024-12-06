@@ -3,10 +3,14 @@
 	"matchCriteriaId": "81D83990-B302-4783-9878-7578C547F2FE",
 	"versionEndIncluding": "3.6.2",
 	"created": "2024-01-13T02:08:59.143",
-	"lastModified": "2024-01-13T02:08:59.143",
-	"cpeLastModified": "2024-01-13T02:08:59.143",
+	"lastModified": "2024-12-06T18:12:40.977",
+	"cpeLastModified": "2024-12-06T18:12:40.977",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wclovers:wcfm_marketplace:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0AF3CF87-A9DE-4A66-8027-4C0BC48AC28B"
+		},
 		{
 			"cpeName": "cpe:2.3:a:wclovers:wcfm_marketplace:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "97A65F97-E942-4FD5-818C-F65C78633DFA"
@@ -470,6 +474,14 @@
 		{
 			"cpeName": "cpe:2.3:a:wclovers:wcfm_marketplace:3.6.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "C4516B67-A771-426B-B83E-37A65B84660D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wclovers:wcfm_marketplace:3.6.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "62FC8916-6D5B-4252-873E-76A086074CD7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wclovers:wcfm_marketplace:3.6.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "572B6491-A2ED-46F8-9C81-EB122834EDDB"
 		}
 	]
 }

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "BF952E20-9C82-4EE1-BEB0-1DB675F1F895",
 	"versionEndExcluding": "2.3.12",
 	"created": "2024-11-19T15:27:31.157",
-	"lastModified": "2024-11-19T15:27:31.157",
-	"cpeLastModified": "2024-11-19T15:27:31.157",
+	"lastModified": "2024-12-06T18:09:31.107",
+	"cpeLastModified": "2024-12-06T18:09:31.107",
 	"status": "Active",
 	"matches": [
 		{
@@ -66,6 +66,34 @@
 		{
 			"cpeName": "cpe:2.3:a:vollstart:event_tickets_with_ticket_scanner:2.3.4:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "88C0C1F3-5CB1-470A-BD96-FCEE0D61EABB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vollstart:event_tickets_with_ticket_scanner:2.3.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "534A2A2D-C719-438D-B9C4-B685215E2302"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vollstart:event_tickets_with_ticket_scanner:2.3.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C168F329-58E8-412F-B844-F524B2DC9E98"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vollstart:event_tickets_with_ticket_scanner:2.3.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5B37444C-42CE-42E5-BE3F-AD10344362C0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vollstart:event_tickets_with_ticket_scanner:2.3.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6443EF94-93E8-43B9-9EEA-9FC0FD7B3151"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vollstart:event_tickets_with_ticket_scanner:2.3.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2D0272F4-E470-4445-848C-35E4B87DC5A6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vollstart:event_tickets_with_ticket_scanner:2.3.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6C42A4BA-43BB-471B-9F82-D22435E0924B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vollstart:event_tickets_with_ticket_scanner:2.3.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7A194CB1-72B4-4214-922C-D0AFC2B75BDC"
 		}
 	]
 }
