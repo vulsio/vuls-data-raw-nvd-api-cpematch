@@ -3,7 +3,7 @@
 	"matchCriteriaId": "7DEC9117-FD67-4AC1-AECC-A264B79F403E",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2024-05-29T15:54:31.030",
+	"cpeLastModified": "2024-12-09T16:40:32.753",
 	"status": "Active",
 	"matches": [
 		{
@@ -943,12 +943,32 @@
 			"cpeNameId": "E2A20B46-CEE2-4BA9-8993-B04EFACC8920"
 		},
 		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.3:-:*:*:*:*:*:*",
+			"cpeNameId": "598B087A-DCD8-4903-A3D0-45AB65587300"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.3:h2:*:*:*:*:*:*",
+			"cpeNameId": "684FAEBC-9C0A-4560-81FA-42931A3BDA72"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.3:h3:*:*:*:*:*:*",
+			"cpeNameId": "D3CE4BFA-E0CA-4F56-B414-8E72EF2C70B5"
+		},
+		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.4:*:*:*:*:*:*:*",
 			"cpeNameId": "60A1265A-20A0-4413-B519-25FF29F38D57"
 		},
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.5:*:*:*:*:*:*:*",
 			"cpeNameId": "8B12B8BD-2B51-4735-AF22-D5A5787C5FA4"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.5:-:*:*:*:*:*:*",
+			"cpeNameId": "F070EAFD-7667-4C5E-946D-42658C6D6AF0"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.5:h3:*:*:*:*:*:*",
+			"cpeNameId": "00430B7D-9069-47AB-8EAA-DE7347751BF1"
 		},
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.6:*:*:*:*:*:*:*",
@@ -965,6 +985,14 @@
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.9:*:*:*:*:*:*:*",
 			"cpeNameId": "FB817871-361E-4416-9EFD-3B66BB4BBA25"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.9:-:*:*:*:*:*:*",
+			"cpeNameId": "FEACBB38-BC97-4996-A0E4-53A044FB72EA"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.9:h1:*:*:*:*:*:*",
+			"cpeNameId": "59BC4E70-10B5-41C2-B949-968C7BDDB5E9"
 		},
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.10:*:*:*:*:*:*:*",
@@ -987,6 +1015,18 @@
 			"cpeNameId": "DCB4793D-8C3F-4365-8D60-EC80B8F108D2"
 		},
 		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.14:-:*:*:*:*:*:*",
+			"cpeNameId": "23AB8918-C058-4AAB-B147-AFB1DA5C47C8"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.14:h3:*:*:*:*:*:*",
+			"cpeNameId": "8452D4BF-BB75-48E7-BF1B-AA2E4B3FE5C9"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.14:h4:*:*:*:*:*:*",
+			"cpeNameId": "E514A421-327D-4031-B448-B55D31279B9A"
+		},
+		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.15:*:*:*:*:*:*:*",
 			"cpeNameId": "4D78D791-84AC-41FF-BDCF-08925E5F27EC"
 		},
@@ -995,8 +1035,48 @@
 			"cpeNameId": "FAF0381B-19AE-4FCC-ACA0-F7E286356C4C"
 		},
 		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.16:-:*:*:*:*:*:*",
+			"cpeNameId": "239736E3-04BF-40DC-A7B7-D8B04154A843"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.16:h2:*:*:*:*:*:*",
+			"cpeNameId": "1211CB0A-0E84-4E58-9FB2-6FA5EA256648"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.16:h3:*:*:*:*:*:*",
+			"cpeNameId": "F9A124AD-0AA8-409D-BB5F-E875C669B34B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.16:h5:*:*:*:*:*:*",
+			"cpeNameId": "18A38665-46C7-401D-AAA2-BF3673333182"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.16:h6:*:*:*:*:*:*",
+			"cpeNameId": "73024C4B-4DA6-4A5C-B03B-194600AF66A2"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.16:h7:*:*:*:*:*:*",
+			"cpeNameId": "D9AD7DF3-FBE0-40AA-8CB5-5A6AB68BF26C"
+		},
+		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.17:*:*:*:*:*:*:*",
 			"cpeNameId": "2CAAED42-8A1C-4968-BFDD-463772C4587B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.17:-:*:*:*:*:*:*",
+			"cpeNameId": "8D980756-CAE3-45B0-B935-EF4ED201D406"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.17:h1:*:*:*:*:*:*",
+			"cpeNameId": "BE9F8B0D-69C9-4721-B872-573303966143"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.17:h4:*:*:*:*:*:*",
+			"cpeNameId": "137E454C-945A-441C-BABC-71C54D87677C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.17:h5:*:*:*:*:*:*",
+			"cpeNameId": "9E96CAAB-88E2-46CD-9A9F-74A1F53CDC1A"
 		},
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.0:*:*:*:*:*:*:*",
@@ -1011,8 +1091,24 @@
 			"cpeNameId": "CF9D334C-4E74-46BC-8C91-E1E20AAE74B1"
 		},
 		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.2:-:*:*:*:*:*:*",
+			"cpeNameId": "CF4DDCDD-509B-4E32-9C4D-3F74AF48441D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.2:h1:*:*:*:*:*:*",
+			"cpeNameId": "00D936E7-0F42-4762-80A6-93CF8280A9A7"
+		},
+		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.3:*:*:*:*:*:*:*",
 			"cpeNameId": "F32341ED-E41A-4805-B086-A9A83490F650"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.3:-:*:*:*:*:*:*",
+			"cpeNameId": "1F666EA2-38B2-4424-9416-E34832FC9550"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.3:h1:*:*:*:*:*:*",
+			"cpeNameId": "466DDB7A-575E-4100-9B94-D7E55F94D74C"
 		},
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.4:*:*:*:*:*:*:*",
@@ -1039,28 +1135,132 @@
 			"cpeNameId": "BF62AECA-F46D-4E43-B6AC-46346268E8FE"
 		},
 		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.11:-:*:*:*:*:*:*",
+			"cpeNameId": "A941A9FC-4310-4EB9-807B-8840B40AE3D3"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.11:h2:*:*:*:*:*:*",
+			"cpeNameId": "4544CCA8-1D68-47C0-9400-694ED426A247"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.11:h3:*:*:*:*:*:*",
+			"cpeNameId": "9D5CD25C-BB78-405F-BCEB-A3B6EE1CD421"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.11:h5:*:*:*:*:*:*",
+			"cpeNameId": "8BC0B0AC-B416-4047-B0E6-07CE9D448EFF"
+		},
+		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.12:*:*:*:*:*:*:*",
 			"cpeNameId": "B0214E1B-49C3-43FA-8590-7C2C3633620E"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.12:-:*:*:*:*:*:*",
+			"cpeNameId": "0006B066-79E2-4E0E-96C8-93B70056161B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.12:h3:*:*:*:*:*:*",
+			"cpeNameId": "3458A195-C6AD-45DE-8DEB-CE0D526A5F00"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.12:h4:*:*:*:*:*:*",
+			"cpeNameId": "305A8015-407E-4C87-B045-84915C56B267"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.12:h7:*:*:*:*:*:*",
+			"cpeNameId": "E81BB24A-6418-4232-B961-403ABF99A1D2"
 		},
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.13:*:*:*:*:*:*:*",
 			"cpeNameId": "3DD8D135-2959-4EDB-8E2A-B7C41B05B0EA"
 		},
 		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.13:-:*:*:*:*:*:*",
+			"cpeNameId": "CFBE8192-77D1-4871-9B07-0B97FD8CA977"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.13:h1:*:*:*:*:*:*",
+			"cpeNameId": "9CBE2B7F-CA4C-4309-B722-D5DC4178E287"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.13:h3:*:*:*:*:*:*",
+			"cpeNameId": "4D600994-5EBC-4875-822E-8553D8D29A10"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.13:h5:*:*:*:*:*:*",
+			"cpeNameId": "B7E0C17C-8908-4306-8418-459399C26FBE"
+		},
+		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.14:*:*:*:*:*:*:*",
 			"cpeNameId": "FCD145FC-4FA8-4F20-AF5C-D94229F532CB"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.14:-:*:*:*:*:*:*",
+			"cpeNameId": "BF9C3A51-B398-42B0-A63F-A17760CC1CD6"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.14:h1:*:*:*:*:*:*",
+			"cpeNameId": "7AB80C00-A1DE-4C80-A942-AF7CB676E583"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.14:h4:*:*:*:*:*:*",
+			"cpeNameId": "02F89170-53CD-46C6-8774-1227EBB0043C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.14:h8:*:*:*:*:*:*",
+			"cpeNameId": "DCAF4E00-5755-42C4-8294-C85696E3EE6F"
 		},
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.15:*:*:*:*:*:*:*",
 			"cpeNameId": "AD0ECF5E-0AF7-4E96-87BB-9BBD343998D3"
 		},
 		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.15:-:*:*:*:*:*:*",
+			"cpeNameId": "817D8935-1E93-43C5-9339-759049118875"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.15:h1:*:*:*:*:*:*",
+			"cpeNameId": "69F2AD6E-FDF4-4F2F-B20C-BD867E1E53BE"
+		},
+		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.16:*:*:*:*:*:*:*",
 			"cpeNameId": "5B9700AE-0D66-464D-A14C-908DC7ADE79E"
 		},
 		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.16:-:*:*:*:*:*:*",
+			"cpeNameId": "40CD7469-ADB7-4552-A7F8-DA63DCF1818D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.16:h3:*:*:*:*:*:*",
+			"cpeNameId": "BC24416C-5CF2-48CF-8FA8-9B574F775F62"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.16:h4:*:*:*:*:*:*",
+			"cpeNameId": "AD27749A-FE29-4972-A1FE-DC19EC6E5C2F"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.16:h5:*:*:*:*:*:*",
+			"cpeNameId": "161F427D-9D05-4BD6-84BD-9EB7E0AB53AF"
+		},
+		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.17:*:*:*:*:*:*:*",
 			"cpeNameId": "24B42C9B-7B70-4D29-980A-C92D70F141C2"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.17:-:*:*:*:*:*:*",
+			"cpeNameId": "20F8F9EA-914E-4E18-ABC0-5EC7AA34B2F6"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.17:h1:*:*:*:*:*:*",
+			"cpeNameId": "9E87B512-B369-42BD-B333-A999BC82F9FD"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.18:-:*:*:*:*:*:*",
+			"cpeNameId": "99DC709E-77B6-48A8-8EE9-F3D81CC5ACEA"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.19:-:*:*:*:*:*:*",
+			"cpeNameId": "2FD250F4-6FDF-4FAC-A6D9-D9E6F74E2E60"
 		},
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:10.0.0:*:*:*:*:*:*:*",
@@ -1355,6 +1555,10 @@
 			"cpeNameId": "E038318F-6C2E-4F9F-98D3-71E2A1986A48"
 		},
 		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.0:h4:*:*:*:*:*:*",
+			"cpeNameId": "F4F6292C-F337-4A6A-9C7B-C8DC0E504DF2"
+		},
+		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.1:-:*:*:*:*:*:*",
 			"cpeNameId": "F9E124C6-B9C1-4B63-AA89-868CFD6D2F23"
 		},
@@ -1369,6 +1573,10 @@
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.1:h4:*:*:*:*:*:*",
 			"cpeNameId": "1A0E98C3-EC6B-4EB5-ADC8-F9346EFDDB7C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.1:h5:*:*:*:*:*:*",
+			"cpeNameId": "896BBF5F-C6DB-4423-B5F4-94F76670A16A"
 		},
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.2:*:*:*:*:*:*:*",
@@ -1395,6 +1603,10 @@
 			"cpeNameId": "7A7DCF1A-440B-4F44-8F7D-4DF0E4C4B33C"
 		},
 		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.2:h5:*:*:*:*:*:*",
+			"cpeNameId": "5C62527E-8A0E-4922-A193-11D2E073D3DC"
+		},
+		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.3:-:*:*:*:*:*:*",
 			"cpeNameId": "63349613-1FAB-4786-87C7-1B590141FDEF"
 		},
@@ -1405,6 +1617,14 @@
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.3:h10:*:*:*:*:*:*",
 			"cpeNameId": "78CF7FE9-7673-4DD6-B97B-2D8648080581"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.3:h12:*:*:*:*:*:*",
+			"cpeNameId": "3377F8C1-F5D2-48E9-B04A-B2D1DE0B479F"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.3:h13:*:*:*:*:*:*",
+			"cpeNameId": "3FE75E34-93D6-4B4F-8CC5-982AC481B5E7"
 		},
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.3:h3:*:*:*:*:*:*",
@@ -1423,6 +1643,38 @@
 			"cpeNameId": "C615487D-D6D0-4A39-A1A7-EB711A8A442C"
 		},
 		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.4:h2:*:*:*:*:*:*",
+			"cpeNameId": "EE999E2B-CC75-42A9-8788-A310AEF6B075"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.4:h5:*:*:*:*:*:*",
+			"cpeNameId": "E874FA88-24F7-4EA1-AC54-9B87736E9A0B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.4:h6:*:*:*:*:*:*",
+			"cpeNameId": "4FD7EB84-F966-4880-B828-92E6397D11AF"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.5:-:*:*:*:*:*:*",
+			"cpeNameId": "EB7C9A4A-3932-42A9-B96E-A2322FCE5B40"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.5:h1:*:*:*:*:*:*",
+			"cpeNameId": "ED7D0D29-4BBF-4274-9862-BE65C0F821D7"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.5:h2:*:*:*:*:*:*",
+			"cpeNameId": "9EC08495-E308-41DA-BCD6-EA53FA2542BA"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.6:-:*:*:*:*:*:*",
+			"cpeNameId": "DE761207-A78F-4F89-97BD-6ECD56549146"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.6:h1:*:*:*:*:*:*",
+			"cpeNameId": "0F1043D0-9281-4C7F-9FF2-2E56F14199BD"
+		},
+		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.0:-:*:*:*:*:*:*",
 			"cpeNameId": "B08C750E-D867-4999-A3E0-07264DCC3D77"
 		},
@@ -1439,12 +1691,20 @@
 			"cpeNameId": "DE1A965E-9C4E-4C3C-82E9-890922034676"
 		},
 		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.0:h4:*:*:*:*:*:*",
+			"cpeNameId": "F8D7141D-48D4-48E6-AC4A-9DF018501DDB"
+		},
+		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.1:-:*:*:*:*:*:*",
 			"cpeNameId": "47A2B429-9467-41B6-80D5-C009CC705B52"
 		},
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.1:h1:*:*:*:*:*:*",
 			"cpeNameId": "E7D96E6A-B53D-4709-BFC9-EB8B97BDAAD0"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.1:h2:*:*:*:*:*:*",
+			"cpeNameId": "B4690852-95F8-4D94-B096-E2D590688E04"
 		},
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.2:-:*:*:*:*:*:*",
@@ -1455,8 +1715,136 @@
 			"cpeNameId": "A04816E6-FB58-4968-B0D7-B28BA260DA5C"
 		},
 		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.2:h12:*:*:*:*:*:*",
+			"cpeNameId": "E00D62BF-2356-4F47-8220-2A5605500214"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.2:h14:*:*:*:*:*:*",
+			"cpeNameId": "C4FD6E4F-880D-4E5F-B68D-EE98124CDBFC"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.2:h15:*:*:*:*:*:*",
+			"cpeNameId": "3B1F4FEA-3D97-47CE-9C40-A0D825AD2BA2"
+		},
+		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.2:h3:*:*:*:*:*:*",
 			"cpeNameId": "05A63A3A-1278-45BB-9B2C-B4E2B986ECFA"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.2:h4:*:*:*:*:*:*",
+			"cpeNameId": "AA819967-7284-4D2E-A8DE-966235827DBB"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.2:h9:*:*:*:*:*:*",
+			"cpeNameId": "E872CD07-ED9A-4830-96EC-316006010F16"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.3:-:*:*:*:*:*:*",
+			"cpeNameId": "B5AD0E55-8583-4FC1-9B06-E0F577950F3D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.3:h1:*:*:*:*:*:*",
+			"cpeNameId": "E24E00ED-2763-4F44-BD48-21A899192C01"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.3:h10:*:*:*:*:*:*",
+			"cpeNameId": "3A0A8B39-0625-4BB1-ADD8-7DF63F1B147B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.3:h11:*:*:*:*:*:*",
+			"cpeNameId": "C0936F24-DD5C-4FBA-8E8C-CC509E2428E1"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.3:h2:*:*:*:*:*:*",
+			"cpeNameId": "5145D71E-344C-45D9-B84F-338F906A49AB"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.3:h4:*:*:*:*:*:*",
+			"cpeNameId": "BB6697BD-7B4B-492F-AED5-414A995154E8"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.3:h6:*:*:*:*:*:*",
+			"cpeNameId": "F7717C82-D8DD-43B8-945E-3210CFD961BE"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.4:-:*:*:*:*:*:*",
+			"cpeNameId": "34DF5EDC-CC34-4BCE-9C4B-7029FE07492C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.4:h1:*:*:*:*:*:*",
+			"cpeNameId": "06F82A7C-25DB-4B01-A0B7-9F5751E70943"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.4:h4:*:*:*:*:*:*",
+			"cpeNameId": "7BC0D466-891B-4464-B1EC-84C6288A1674"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.4:h7:*:*:*:*:*:*",
+			"cpeNameId": "139C8DC0-B223-4B76-B94E-AF280DA7216C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.5:-:*:*:*:*:*:*",
+			"cpeNameId": "F3DBF6D4-539D-4759-BFDA-245A1E22F177"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.5:h1:*:*:*:*:*:*",
+			"cpeNameId": "BF9E952D-F816-4892-B832-794378CC6F67"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.1.6:-:*:*:*:*:*:*",
+			"cpeNameId": "1AC81AE5-8E16-4480-9A58-8A88CF9FAAE6"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.2.0:-:*:*:*:*:*:*",
+			"cpeNameId": "4CD80A78-E894-4DD8-943E-C9545E21B434"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.2.0:h1:*:*:*:*:*:*",
+			"cpeNameId": "CF232C0C-426B-449F-9CAE-2EF8AF31DA85"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.2.1:-:*:*:*:*:*:*",
+			"cpeNameId": "F64F7F2A-5104-46EC-B8A1-F7CD21D5171A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.2.1:h1:*:*:*:*:*:*",
+			"cpeNameId": "54C8670E-EC73-4C8F-B892-1930043432B6"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.2.2:-:*:*:*:*:*:*",
+			"cpeNameId": "BD6E36E0-D381-469E-A004-17BAADFC97C4"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.2.2:h1:*:*:*:*:*:*",
+			"cpeNameId": "ACC7EE0E-194B-41E4-9264-828127D77A25"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.2.2:h2:*:*:*:*:*:*",
+			"cpeNameId": "C0E9E98A-D533-43F4-9C34-F1CD161A3060"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.2.3:-:*:*:*:*:*:*",
+			"cpeNameId": "0BED7622-73A4-4643-83F1-5E43828C711D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.2.3:h3:*:*:*:*:*:*",
+			"cpeNameId": "33AAC8DA-1347-499D-899E-E2A0A025463E"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.2.3:h5:*:*:*:*:*:*",
+			"cpeNameId": "609DDAB4-6AFA-4572-89C8-A23D16544CC2"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.2.4:-:*:*:*:*:*:*",
+			"cpeNameId": "782F3B2E-3DD8-48C2-B756-E4D9E7918E20"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.2.4:h1:*:*:*:*:*:*",
+			"cpeNameId": "758A7189-3DD6-4C51-AEB9-343782CCAE8D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.2.4:h2:*:*:*:*:*:*",
+			"cpeNameId": "33BA7035-5CEE-4448-AF75-44F9750E0F35"
 		}
 	]
 }

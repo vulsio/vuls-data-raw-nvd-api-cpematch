@@ -3,7 +3,7 @@
 	"matchCriteriaId": "6F3693A5-182E-4723-BE2A-062D0C9E736C",
 	"created": "2023-05-17T16:21:13.643",
 	"lastModified": "2023-08-19T02:57:00.647",
-	"cpeLastModified": "2024-05-29T15:54:31.030",
+	"cpeLastModified": "2024-12-09T16:11:18.920",
 	"status": "Active",
 	"matches": [
 		{
@@ -25,6 +25,10 @@
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.0:h3:*:*:*:*:*:*",
 			"cpeNameId": "E038318F-6C2E-4F9F-98D3-71E2A1986A48"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.0:h4:*:*:*:*:*:*",
+			"cpeNameId": "F4F6292C-F337-4A6A-9C7B-C8DC0E504DF2"
 		}
 	]
 }

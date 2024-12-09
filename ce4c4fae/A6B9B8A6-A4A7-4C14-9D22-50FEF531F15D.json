@@ -5,7 +5,7 @@
 	"versionEndExcluding": "11.0.3",
 	"created": "2024-10-10T18:00:11.130",
 	"lastModified": "2024-10-10T18:00:11.130",
-	"cpeLastModified": "2024-10-10T18:00:11.130",
+	"cpeLastModified": "2024-12-09T16:11:18.920",
 	"status": "Active",
 	"matches": [
 		{
@@ -29,6 +29,10 @@
 			"cpeNameId": "E038318F-6C2E-4F9F-98D3-71E2A1986A48"
 		},
 		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.0:h4:*:*:*:*:*:*",
+			"cpeNameId": "F4F6292C-F337-4A6A-9C7B-C8DC0E504DF2"
+		},
+		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.1:-:*:*:*:*:*:*",
 			"cpeNameId": "F9E124C6-B9C1-4B63-AA89-868CFD6D2F23"
 		},
@@ -43,6 +47,10 @@
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.1:h4:*:*:*:*:*:*",
 			"cpeNameId": "1A0E98C3-EC6B-4EB5-ADC8-F9346EFDDB7C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.1:h5:*:*:*:*:*:*",
+			"cpeNameId": "896BBF5F-C6DB-4423-B5F4-94F76670A16A"
 		},
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.2:*:*:*:*:*:*:*",
@@ -67,6 +75,10 @@
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.2:h4:*:*:*:*:*:*",
 			"cpeNameId": "7A7DCF1A-440B-4F44-8F7D-4DF0E4C4B33C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.2:h5:*:*:*:*:*:*",
+			"cpeNameId": "5C62527E-8A0E-4922-A193-11D2E073D3DC"
 		}
 	]
 }
