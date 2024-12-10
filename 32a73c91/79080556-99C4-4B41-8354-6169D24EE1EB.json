@@ -1,9 +1,9 @@
 {
 	"criteria": "cpe:2.3:a:dfir-iris:iris:*:*:*:*:*:*:*:*",
-	"matchCriteriaId": "E00F6634-1F40-4A43-A74E-AEA5E8DB2041",
-	"versionEndExcluding": "2.2.1",
-	"created": "2023-05-31T16:15:44.073",
-	"lastModified": "2023-06-06T15:23:28.050",
+	"matchCriteriaId": "79080556-99C4-4B41-8354-6169D24EE1EB",
+	"versionEndExcluding": "2.4.6",
+	"created": "2024-12-10T15:06:16.950",
+	"lastModified": "2024-12-10T15:11:17.500",
 	"cpeLastModified": "2024-12-10T15:11:17.500",
 	"status": "Active",
 	"matches": [
@@ -86,6 +86,74 @@
 		{
 			"cpeName": "cpe:2.3:a:dfir-iris:iris:2.2.0:*:*:*:*:*:*:*",
 			"cpeNameId": "CB6D7DCB-24F5-4F72-BD17-4841A1F4490D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dfir-iris:iris:2.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "39CD1A5A-9D10-43EC-BAD8-A18ECE0C61CA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dfir-iris:iris:2.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "DE26AD74-EEF2-4600-9E63-A1E2B6ACD2BC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dfir-iris:iris:2.2.3:*:*:*:*:*:*:*",
+			"cpeNameId": "C135D998-A5F5-4258-A30F-8B067E736C90"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dfir-iris:iris:2.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "8AD38B25-F795-42C2-94B6-B4EDC58F133F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dfir-iris:iris:2.3.1:*:*:*:*:*:*:*",
+			"cpeNameId": "CA6807FE-98B5-47A5-A894-5A3F04045AC6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dfir-iris:iris:2.3.2:*:*:*:*:*:*:*",
+			"cpeNameId": "ADDD89B5-95FA-424D-8163-7CC8C2999B54"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dfir-iris:iris:2.3.3:*:*:*:*:*:*:*",
+			"cpeNameId": "45DF2C09-EEEF-4C79-86A6-BAD41D1639F2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dfir-iris:iris:2.3.4:*:*:*:*:*:*:*",
+			"cpeNameId": "C6E74BAD-64CB-4B31-B599-4D8CF0BA5398"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dfir-iris:iris:2.3.5:*:*:*:*:*:*:*",
+			"cpeNameId": "243B3983-7C82-4D7E-B5F2-BFB60A642FCD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dfir-iris:iris:2.3.6:*:*:*:*:*:*:*",
+			"cpeNameId": "E7030728-27C3-42D3-A53C-C0978AE7090C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dfir-iris:iris:2.3.7:*:*:*:*:*:*:*",
+			"cpeNameId": "67CB447F-117E-4B1A-9BA6-CA6205B8E318"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dfir-iris:iris:2.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "4FA719E7-820C-4A08-A943-44A82D239393"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dfir-iris:iris:2.4.1:*:*:*:*:*:*:*",
+			"cpeNameId": "4927CD49-F74E-4037-ABDE-04255EA3D896"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dfir-iris:iris:2.4.2:*:*:*:*:*:*:*",
+			"cpeNameId": "5AC67AF5-B206-408B-9076-9267CC0C9AF1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dfir-iris:iris:2.4.3:*:*:*:*:*:*:*",
+			"cpeNameId": "A2F96C24-3373-402C-93AE-45CAE2254827"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dfir-iris:iris:2.4.4:*:*:*:*:*:*:*",
+			"cpeNameId": "D44743FE-E209-4E9D-BC19-DE7C2304571A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dfir-iris:iris:2.4.5:*:*:*:*:*:*:*",
+			"cpeNameId": "CE98895D-0C31-4330-B92F-C879746BAE3B"
 		}
 	]
 }

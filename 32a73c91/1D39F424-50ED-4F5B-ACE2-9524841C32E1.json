@@ -4,9 +4,13 @@
 	"versionEndExcluding": "2.3.7",
 	"created": "2024-01-02T17:59:22.653",
 	"lastModified": "2024-01-02T19:43:29.770",
-	"cpeLastModified": "2024-01-02T19:43:29.770",
+	"cpeLastModified": "2024-12-10T15:11:17.500",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:dfir-iris:iris:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3190F25B-2FD0-4FF9-94DF-9A88F98EDF2E"
+		},
 		{
 			"cpeName": "cpe:2.3:a:dfir-iris:iris:1.2.1:*:*:*:*:*:*:*",
 			"cpeNameId": "F3DC6B3F-8238-4A74-BFA5-58CC051877F2"
