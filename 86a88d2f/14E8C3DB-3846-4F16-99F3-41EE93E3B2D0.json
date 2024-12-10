@@ -3,8 +3,8 @@
 	"matchCriteriaId": "14E8C3DB-3846-4F16-99F3-41EE93E3B2D0",
 	"versionEndExcluding": "2024.18.2",
 	"created": "2024-11-15T15:59:22.730",
-	"lastModified": "2024-11-15T15:59:22.730",
-	"cpeLastModified": "2024-11-15T15:59:22.730",
+	"lastModified": "2024-12-10T18:36:18.077",
+	"cpeLastModified": "2024-12-10T18:36:18.077",
 	"status": "Active",
 	"matches": [
 		{
@@ -798,6 +798,202 @@
 		{
 			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.8.0:*:*:*:*:visual_studio_code:*:*",
 			"cpeNameId": "AC9ADFC7-F386-461D-AA42-823BEFC1E5C8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.9.11461009:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "3CE6B216-4157-412D-86A0-E941BC7C698A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.9.11491011:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "BDC1DB02-EC13-4755-AE37-3FF203C6F2A4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.9.11521013:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "03224F09-B561-475B-942F-9F9B4562409A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.9.11561008:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "E6178575-5BB8-4920-B5FE-67910A02C7D3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.9.11571010:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "E3188490-117F-47C5-B8E5-F89CA34C370A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.10.0:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "B26A6721-CD86-41FE-A169-86F172CD2F75"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.10.1:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "9A3FEF3D-1BB5-440C-8FA3-03A9D0A1EAA8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.11.11581008:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "B7C9D21F-F14F-4D23-B97C-D7BB370EA1D5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.11.11651007:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "D937D35B-B9A2-416E-9A15-35EE747EAD25"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.11.11661013:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "7B0B2DD8-8CE6-4653-8720-751F9BCD0C3D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.11.11671008:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "50BBB55E-9964-461F-AB84-8AE87F1424B0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.11.11721014:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "DD6EAFD4-E70B-4369-8F6E-628428ACA33C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.11.11731012:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "EA71E6DD-0A0B-401A-A08D-D879DE6B2BD2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.11.11741005:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "F15F43B4-9636-48D1-8875-A4B0E6A218B8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.11.11771009:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "A69B4BA9-D31E-41A1-B362-3604CDE97871"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.11.11781018:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "D52AD034-1063-414E-85CC-AA67D35CA7F8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.11.11791005:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "B45C9747-9A19-48F2-924A-839917EE120E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.11.11801006:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "C271F7E0-2BE1-47CB-B27F-5069CBFA7110"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.11.11802201:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "78FA9197-F725-4A62-9F2C-648CD7266C86"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.11.11811010:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "5E3550D2-501C-444E-AD6C-03F7974E937F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.11.11841013:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "AFF38A40-970E-43DC-9640-B0001B678C89"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.12.0:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "17E567DC-F2A1-4F59-A49F-C03A29765251"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.13.11862047:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "A70D20F9-9998-4862-B8D8-F796BEBCAD7D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.14.0:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "50710C42-6794-4076-8BD4-FF2E309F975E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.16.0:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "A77C0E00-C52E-49E2-BDC1-F4070A23CC6A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.18.0:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "8EF323D4-5831-46F5-806A-1AD542ECFC38"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.20.0:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "EE30608F-4D12-4E9D-BBDE-46E70534DBBD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.22.0:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "4AABA583-9CF5-42EB-9354-F49A4D1EC1BE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2023.22.1:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "4DDE051A-3FA9-4270-A204-E42B6F52E58C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2024.0.0:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "F585B987-2000-4F59-A4AA-F03B1E6F6973"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2024.0.1:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "E20B20B6-255E-46BA-8D22-58D7B6890913"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2024.2.0:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "49166BF6-C463-432E-A749-4F9F8A0533DE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2024.2.1:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "5FA410F6-4938-498D-8E01-9B88F88353A5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2024.4.0:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "19BCD9CD-8073-443D-9BAA-E4E1612385CE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2024.4.1:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "CFCA378C-50F6-452F-892E-91695D4B4933"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2024.6.0:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "9EF895B3-2638-43D0-B86E-8E762ED2CEFF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2024.8.0:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "D7A8745A-CE84-435E-884B-8370D1B91A44"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2024.8.1:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "D935108C-6E7B-4075-B609-F2FC3EB579BC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2024.10.0:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "46A70D6B-0E1A-4904-B88F-3941800A98A7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2024.12.0:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "E49124D9-019F-41FA-96C5-897322835C94"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2024.12.1:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "890CCF6C-C753-45C9-B1D5-EB5AA41492D5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2024.12.2:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "3EE007CF-510F-40D1-8C2F-691D59B98BC6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2024.12.3:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "99242E06-8534-47E2-9695-35D6FB6E9307"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2024.14.0:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "AEE50D98-E743-44DD-8FE6-EAD178431525"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2024.14.1:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "831BC9B9-096B-4129-B183-8A90624C6DE9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2024.16.0:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "89EE1329-1127-4145-9240-9890DB1FE391"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2024.16.1:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "567B200B-1C2B-4629-ADC9-6E1FF8DBE818"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2024.18.0:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "8343C7D8-E6FD-4AC0-AF71-87B4C46831AC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:python_extension:2024.18.1:*:*:*:*:visual_studio_code:*:*",
+			"cpeNameId": "6760141D-5806-48EE-9C94-87331DACAAE5"
 		}
 	]
 }
