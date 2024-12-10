@@ -3,8 +3,8 @@
 	"matchCriteriaId": "B3D78571-45F8-4E22-80CB-67190F74AEDA",
 	"versionEndExcluding": "3.5.17",
 	"created": "2024-02-09T14:44:33.330",
-	"lastModified": "2024-02-09T14:44:33.330",
-	"cpeLastModified": "2024-02-09T14:44:33.330",
+	"lastModified": "2024-12-09T19:44:06.480",
+	"cpeLastModified": "2024-12-09T19:44:06.480",
 	"status": "Active",
 	"matches": [
 		{
@@ -782,6 +782,14 @@
 		{
 			"cpeName": "cpe:2.3:a:joinmastodon:mastodon:3.5.14:*:*:*:*:*:*:*",
 			"cpeNameId": "CD964056-AD7B-4E02-AF99-EBB64104A0EF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:joinmastodon:mastodon:3.5.15:*:*:*:*:*:*:*",
+			"cpeNameId": "2EF5BFF4-9C1D-47EA-87AC-8920FBF71A41"
+		},
+		{
+			"cpeName": "cpe:2.3:a:joinmastodon:mastodon:3.5.16:*:*:*:*:*:*:*",
+			"cpeNameId": "AE4938B8-B226-4A2E-BDF1-C11C054549CC"
 		}
 	]
 }

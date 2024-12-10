@@ -4,7 +4,7 @@
 	"versionEndIncluding": "4.0.2",
 	"created": "2022-12-05T19:26:39.837",
 	"lastModified": "2022-12-05T19:26:39.837",
-	"cpeLastModified": "2023-09-21T19:35:28.817",
+	"cpeLastModified": "2024-12-09T19:44:06.480",
 	"status": "Active",
 	"matches": [
 		{
@@ -782,6 +782,26 @@
 		{
 			"cpeName": "cpe:2.3:a:joinmastodon:mastodon:3.5.14:*:*:*:*:*:*:*",
 			"cpeNameId": "CD964056-AD7B-4E02-AF99-EBB64104A0EF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:joinmastodon:mastodon:3.5.15:*:*:*:*:*:*:*",
+			"cpeNameId": "2EF5BFF4-9C1D-47EA-87AC-8920FBF71A41"
+		},
+		{
+			"cpeName": "cpe:2.3:a:joinmastodon:mastodon:3.5.16:*:*:*:*:*:*:*",
+			"cpeNameId": "AE4938B8-B226-4A2E-BDF1-C11C054549CC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:joinmastodon:mastodon:3.5.17:*:*:*:*:*:*:*",
+			"cpeNameId": "323B5C3B-3773-4CD0-AB42-BC9F09B90C80"
+		},
+		{
+			"cpeName": "cpe:2.3:a:joinmastodon:mastodon:3.5.18:*:*:*:*:*:*:*",
+			"cpeNameId": "53161169-5A75-4338-B951-2C1B4012704A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:joinmastodon:mastodon:3.5.19:*:*:*:*:*:*:*",
+			"cpeNameId": "DF47C0D7-D96B-43C4-BB42-B2CDECAE92AB"
 		},
 		{
 			"cpeName": "cpe:2.3:a:joinmastodon:mastodon:4.0.0:-:*:*:*:*:*:*",
