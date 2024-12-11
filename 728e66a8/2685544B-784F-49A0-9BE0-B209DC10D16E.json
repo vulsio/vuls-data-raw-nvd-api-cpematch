@@ -3,10 +3,14 @@
 	"matchCriteriaId": "2685544B-784F-49A0-9BE0-B209DC10D16E",
 	"versionEndExcluding": "10.1.1",
 	"created": "2024-11-13T18:09:54.210",
-	"lastModified": "2024-11-13T18:09:54.210",
-	"cpeLastModified": "2024-11-13T18:09:54.210",
+	"lastModified": "2024-12-11T15:11:24.283",
+	"cpeLastModified": "2024-12-11T15:11:24.283",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:adobe:substance_3d_painter:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3D318508-8C1D-4E39-927A-E0C3A87A57CC"
+		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:substance_3d_painter:0.1.0:beta:*:*:*:*:*:*",
 			"cpeNameId": "955D1EE4-59B3-44F3-8ECD-D2856D9A7653"
@@ -506,6 +510,18 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:substance_3d_painter:9.1.2:*:*:*:*:*:*:*",
 			"cpeNameId": "0C52BBC9-80C8-40F8-876C-E24507169D5D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:substance_3d_painter:10.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "973F8C88-B781-405F-B1A3-6E58AAF2F5DA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:substance_3d_painter:10.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "AAF11B3C-F054-4B8C-A46F-BA12EDD70FDC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:substance_3d_painter:10.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "652FD94F-B508-4AA1-8019-84909438AB4B"
 		}
 	]
 }

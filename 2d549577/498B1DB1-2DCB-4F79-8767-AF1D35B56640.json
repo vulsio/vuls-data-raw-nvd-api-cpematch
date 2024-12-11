@@ -3,8 +3,8 @@
 	"matchCriteriaId": "498B1DB1-2DCB-4F79-8767-AF1D35B56640",
 	"versionEndExcluding": "1.2.1",
 	"created": "2024-10-30T16:16:39.997",
-	"lastModified": "2024-10-30T16:16:39.997",
-	"cpeLastModified": "2024-10-30T16:16:39.997",
+	"lastModified": "2024-12-11T16:52:08.530",
+	"cpeLastModified": "2024-12-11T16:52:08.530",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,22 @@
 		{
 			"cpeName": "cpe:2.3:a:mintplexlabs:anythingllm:0.1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "0823E296-8A9A-4382-A6DB-2A4965E17302"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mintplexlabs:anythingllm:1.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "365AC8BE-842E-4A35-8E86-2435FD058021"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mintplexlabs:anythingllm:1.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "642894F2-FA6F-43C9-A782-4F613561819A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mintplexlabs:anythingllm:1.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "062349C5-295F-42C1-BA15-9EB9CC0CAF16"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mintplexlabs:anythingllm:1.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "110813FE-BE66-4BBA-BAA1-8FE1B9D3EF52"
 		}
 	]
 }

@@ -4,8 +4,8 @@
 	"versionStartIncluding": "23.0.0",
 	"versionEndExcluding": "23.0.6",
 	"created": "2024-12-02T17:45:01.593",
-	"lastModified": "2024-12-02T17:45:01.593",
-	"cpeLastModified": "2024-12-02T17:45:01.593",
+	"lastModified": "2024-12-11T15:07:05.280",
+	"cpeLastModified": "2024-12-11T15:07:05.280",
 	"status": "Active",
 	"matches": [
 		{
@@ -19,6 +19,14 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:animate:23.0.2:*:*:*:*:*:*:*",
 			"cpeNameId": "E5A2E5AB-D9F9-4A07-B93E-52191BAD52BB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:animate:23.0.4:*:*:*:*:*:*:*",
+			"cpeNameId": "6A49E2D1-FF96-466D-A46D-EBD15105FDBF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:animate:23.0.5:*:*:*:*:*:*:*",
+			"cpeNameId": "FA14DE95-2A5A-44DA-85B6-10077C2EE0F3"
 		}
 	]
 }

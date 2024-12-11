@@ -4,9 +4,13 @@
 	"versionEndExcluding": "27.9.6",
 	"created": "2024-09-13T16:46:05.193",
 	"lastModified": "2024-11-07T12:39:19.870",
-	"cpeLastModified": "2024-09-13T16:46:05.193",
+	"cpeLastModified": "2024-12-11T15:08:45.607",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:adobe:illustrator:-:*:*:*:*:*:*:*",
+			"cpeNameId": "51158084-8F1B-45FF-9291-49C985F76996"
+		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:illustrator:7.0:*:*:*:*:*:*:*",
 			"cpeNameId": "93B326D1-07C1-421B-BCED-E2E673823257"

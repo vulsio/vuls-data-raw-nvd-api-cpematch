@@ -5,12 +5,16 @@
 	"versionEndExcluding": "5.7.0",
 	"created": "2023-04-17T16:59:27.920",
 	"lastModified": "2023-05-11T17:45:35.293",
-	"cpeLastModified": "2024-08-27T17:45:12.037",
+	"cpeLastModified": "2024-12-11T16:20:53.773",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiddos:4.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "6E281DC6-B984-49BF-BCA9-BE173303942B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiddos:4.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "4486F86A-0E96-4FFB-BF74-C5CD44C5BD65"
 		},
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiddos:5.1.0:*:*:*:*:*:*:*",

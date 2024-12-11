@@ -4,7 +4,7 @@
 	"versionEndExcluding": "3.2",
 	"created": "2023-04-11T13:09:52.400",
 	"lastModified": "2023-04-11T13:09:52.400",
-	"cpeLastModified": "2023-12-29T18:02:38.650",
+	"cpeLastModified": "2024-12-11T15:46:09.363",
 	"status": "Active",
 	"matches": [
 		{
@@ -724,6 +724,10 @@
 			"cpeNameId": "054A24BA-555B-492B-A9D7-DE55EE35244E"
 		},
 		{
+			"cpeName": "cpe:2.3:a:cisco:identity_services_engine:2.7.0:patch10:*:*:*:*:*:*",
+			"cpeNameId": "0F8ADB97-DD6D-4592-AFC3-F606E4964930"
+		},
+		{
 			"cpeName": "cpe:2.3:a:cisco:identity_services_engine:2.7.0:patch2:*:*:*:*:*:*",
 			"cpeNameId": "F3B4AB44-D96D-4B6E-8AE5-EA04EB580E6F"
 		},
@@ -800,6 +804,10 @@
 			"cpeNameId": "D65FA95D-7859-4B24-8497-8DCA2B3D9323"
 		},
 		{
+			"cpeName": "cpe:2.3:a:cisco:identity_services_engine:3.0.0:patch8:*:*:*:*:*:*",
+			"cpeNameId": "4A972430-1D09-4024-A8AD-1DBA75459572"
+		},
+		{
 			"cpeName": "cpe:2.3:a:cisco:identity_services_engine:3.1:*:*:*:*:*:*:*",
 			"cpeNameId": "4F5E68B3-4377-4DE9-B0AF-EAC0F27441AE"
 		},
@@ -846,6 +854,46 @@
 		{
 			"cpeName": "cpe:2.3:a:cisco:identity_services_engine:003.001\\(000.518\\):-:*:*:*:*:*:*",
 			"cpeNameId": "028EBAD3-A3A4-4A58-9E8A-4FBBBE1CB4EB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:identity_services_engine:3.1.0:-:*:*:*:*:*:*",
+			"cpeNameId": "70D1DAB0-566A-4F0A-B973-7188029583B8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:identity_services_engine:3.1.0:patch1:*:*:*:*:*:*",
+			"cpeNameId": "22B3C85E-7356-4960-939A-4B28D98DE309"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:identity_services_engine:3.1.0:patch2:*:*:*:*:*:*",
+			"cpeNameId": "13CE201C-D73C-4D05-A8C8-F52D3ABA8394"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:identity_services_engine:3.1.0:patch3:*:*:*:*:*:*",
+			"cpeNameId": "58162529-4086-49BF-85B6-396E8A502DC7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:identity_services_engine:3.1.0:patch4:*:*:*:*:*:*",
+			"cpeNameId": "150AF30F-9B1C-43C3-865B-2C38CD35E788"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:identity_services_engine:3.1.0:patch5:*:*:*:*:*:*",
+			"cpeNameId": "0496A7CA-6400-4A05-A604-E72767962A64"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:identity_services_engine:3.1.0:patch6:*:*:*:*:*:*",
+			"cpeNameId": "749D7E3A-C19D-44CE-A6C0-01F58A37611B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:identity_services_engine:3.1.0:patch7:*:*:*:*:*:*",
+			"cpeNameId": "FF34CE98-D99A-4E38-9564-CE60195FD8AF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:identity_services_engine:3.1.0:patch8:*:*:*:*:*:*",
+			"cpeNameId": "7D6DD5CF-94AF-4E9A-8CC9-0ED19823BBD6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:identity_services_engine:3.1.0:patch9:*:*:*:*:*:*",
+			"cpeNameId": "E21C3177-9CC6-4A03-9A76-93D231520D6F"
 		}
 	]
 }

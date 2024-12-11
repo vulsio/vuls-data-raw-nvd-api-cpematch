@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:cisco:identity_services_engine:3.4.0:-:*:*:*:*:*:*",
 	"matchCriteriaId": "D23905E0-E525-49B1-8E5F-4EB42D186768",
 	"created": "2024-10-04T15:54:08.400",
-	"lastModified": "2024-10-04T15:54:08.400",
-	"cpeLastModified": "2024-10-04T15:54:08.400",
-	"status": "Active"
+	"lastModified": "2024-12-11T15:46:09.363",
+	"cpeLastModified": "2024-12-11T15:46:09.363",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:identity_services_engine:3.4.0:-:*:*:*:*:*:*",
+			"cpeNameId": "BE81532D-8C9E-4FBA-8B8E-47477C3847E8"
+		}
+	]
 }

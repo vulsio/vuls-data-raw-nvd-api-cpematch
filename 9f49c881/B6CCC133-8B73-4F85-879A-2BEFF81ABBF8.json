@@ -3,8 +3,8 @@
 	"matchCriteriaId": "B6CCC133-8B73-4F85-879A-2BEFF81ABBF8",
 	"versionEndExcluding": "23.0.5",
 	"created": "2024-12-03T21:22:49.283",
-	"lastModified": "2024-12-03T21:22:49.283",
-	"cpeLastModified": "2024-12-03T21:22:49.283",
+	"lastModified": "2024-12-11T15:07:05.280",
+	"cpeLastModified": "2024-12-11T15:07:05.280",
 	"status": "Active",
 	"matches": [
 		{
@@ -70,6 +70,10 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:animate:23.0.2:*:*:*:*:*:*:*",
 			"cpeNameId": "E5A2E5AB-D9F9-4A07-B93E-52191BAD52BB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:animate:23.0.4:*:*:*:*:*:*:*",
+			"cpeNameId": "6A49E2D1-FF96-466D-A46D-EBD15105FDBF"
 		}
 	]
 }

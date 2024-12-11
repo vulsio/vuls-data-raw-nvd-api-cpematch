@@ -4,7 +4,7 @@
 	"versionEndIncluding": "54.0.2840.87",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2024-07-02T14:47:17.327",
+	"cpeLastModified": "2024-12-11T16:39:51.503",
 	"status": "Active",
 	"matches": [
 		{
@@ -13386,6 +13386,10 @@
 		{
 			"cpeName": "cpe:2.3:a:google:chrome:32.0.1700.103:*:*:*:*:*:*:*",
 			"cpeNameId": "C9803696-6C20-49EE-8BC1-BC48A2821E2A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:google:chrome:32.0.1700.107:*:*:*:*:*:*:*",
+			"cpeNameId": "CA0BFB6F-253D-4719-980E-33AA2D5F5A2B"
 		},
 		{
 			"cpeName": "cpe:2.3:a:google:chrome:33.0.1750:*:*:*:*:*:*:*",

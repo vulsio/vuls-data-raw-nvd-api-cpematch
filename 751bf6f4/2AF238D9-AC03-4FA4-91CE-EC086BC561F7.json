@@ -3,8 +3,8 @@
 	"matchCriteriaId": "2AF238D9-AC03-4FA4-91CE-EC086BC561F7",
 	"versionEndExcluding": "1.9.245",
 	"created": "2024-11-08T21:20:49.723",
-	"lastModified": "2024-11-08T21:20:49.723",
-	"cpeLastModified": "2024-11-08T21:20:49.723",
+	"lastModified": "2024-12-11T17:04:15.840",
+	"cpeLastModified": "2024-12-11T17:04:15.840",
 	"status": "Active",
 	"matches": [
 		{
@@ -1206,6 +1206,22 @@
 		{
 			"cpeName": "cpe:2.3:a:westguardsolutions:ws_form:1.9.218:*:*:*:lite:wordpress:*:*",
 			"cpeNameId": "9D796A5D-5274-4346-9711-2C48E5D91B74"
+		},
+		{
+			"cpeName": "cpe:2.3:a:westguardsolutions:ws_form:1.9.219:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "9B9C0524-F39B-4D04-871D-C0EA86CF2CA1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:westguardsolutions:ws_form:1.9.226:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "BA04F1FB-23E1-4E95-A733-9BA866101AAF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:westguardsolutions:ws_form:1.9.238:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "0456E80F-9E16-456A-820B-030CE04B95CB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:westguardsolutions:ws_form:1.9.244:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "74F86B32-BAB7-4F59-9BC2-A41990E7A056"
 		}
 	]
 }

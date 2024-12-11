@@ -4,9 +4,13 @@
 	"versionEndIncluding": "9.1.1",
 	"created": "2024-02-16T18:56:02.800",
 	"lastModified": "2024-02-16T18:56:02.800",
-	"cpeLastModified": "2024-02-16T18:56:02.800",
+	"cpeLastModified": "2024-12-11T15:11:24.283",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:adobe:substance_3d_painter:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3D318508-8C1D-4E39-927A-E0C3A87A57CC"
+		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:substance_3d_painter:0.1.0:beta:*:*:*:*:*:*",
 			"cpeNameId": "955D1EE4-59B3-44F3-8ECD-D2856D9A7653"

@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:fortinet:fortigate_7000:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "E0CBA773-10C1-410D-BB01-771F454ABEBA",
 	"created": "2024-06-27T19:12:41.820",
-	"lastModified": "2024-06-27T19:12:41.820",
-	"cpeLastModified": "2024-06-27T19:12:41.820",
-	"status": "Active"
+	"lastModified": "2024-12-11T16:20:53.773",
+	"cpeLastModified": "2024-12-11T16:20:53.773",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:fortinet:fortigate_7000:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9D23E0DC-8233-4C98-ABC0-040BDF7533CC"
+		}
+	]
 }

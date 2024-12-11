@@ -4,8 +4,8 @@
 	"versionStartIncluding": "7.0.0",
 	"versionEndExcluding": "7.0.3",
 	"created": "2024-05-23T16:17:07.853",
-	"lastModified": "2024-05-23T16:17:07.853",
-	"cpeLastModified": "2024-05-23T16:17:07.853",
+	"lastModified": "2024-12-11T16:20:53.773",
+	"cpeLastModified": "2024-12-11T16:20:53.773",
 	"status": "Active",
 	"matches": [
 		{
@@ -15,6 +15,10 @@
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiswitchmanager:7.0.1:*:*:*:*:*:*:*",
 			"cpeNameId": "511D8348-9466-4A99-8661-3834B5DBA5F3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiswitchmanager:7.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "28BE9C11-ED08-45EA-9BFE-774DA2950890"
 		}
 	]
 }

@@ -4,8 +4,8 @@
 	"versionStartIncluding": "4.4.0",
 	"versionEndExcluding": "4.4.5",
 	"created": "2024-09-20T12:08:27.037",
-	"lastModified": "2024-09-20T12:08:27.037",
-	"cpeLastModified": "2024-09-20T12:08:27.037",
+	"lastModified": "2024-12-11T16:20:53.773",
+	"cpeLastModified": "2024-12-11T16:20:53.773",
 	"status": "Active",
 	"matches": [
 		{
@@ -19,6 +19,10 @@
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortisandbox:4.4.2:*:*:*:*:*:*:*",
 			"cpeNameId": "5CCBF208-3C30-455C-BA68-A75BD6C346CF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortisandbox:4.4.4:*:*:*:*:*:*:*",
+			"cpeNameId": "87DA7E8F-A4AA-4AB8-8F4E-20CD7043A0DD"
 		}
 	]
 }

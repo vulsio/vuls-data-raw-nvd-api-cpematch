@@ -3,8 +3,8 @@
 	"matchCriteriaId": "367C0D69-5346-4A2B-8BB2-38C50C0EB07F",
 	"versionEndExcluding": "125.0.6422.112",
 	"created": "2024-05-28T17:46:57.163",
-	"lastModified": "2024-05-28T17:46:57.163",
-	"cpeLastModified": "2024-08-20T12:12:36.263",
+	"lastModified": "2024-12-11T16:39:51.503",
+	"cpeLastModified": "2024-12-11T16:39:51.503",
 	"status": "Active",
 	"matches": [
 		{
@@ -13386,6 +13386,10 @@
 		{
 			"cpeName": "cpe:2.3:a:google:chrome:32.0.1700.103:*:*:*:*:*:*:*",
 			"cpeNameId": "C9803696-6C20-49EE-8BC1-BC48A2821E2A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:google:chrome:32.0.1700.107:*:*:*:*:*:*:*",
+			"cpeNameId": "CA0BFB6F-253D-4719-980E-33AA2D5F5A2B"
 		},
 		{
 			"cpeName": "cpe:2.3:a:google:chrome:33.0.1750:*:*:*:*:*:*:*",
@@ -36424,8 +36428,20 @@
 			"cpeNameId": "56AA9EB4-E580-4E94-83E6-F92C5DAA974C"
 		},
 		{
+			"cpeName": "cpe:2.3:a:google:chrome:116.0.5845.179:*:*:*:*:*:*:*",
+			"cpeNameId": "C629624A-F681-4639-961A-C7C70F5A2E40"
+		},
+		{
+			"cpeName": "cpe:2.3:a:google:chrome:116.0.5845.187:*:*:*:*:*:*:*",
+			"cpeNameId": "61F427A6-5F29-4D57-BF57-91F33E3BEB8A"
+		},
+		{
 			"cpeName": "cpe:2.3:a:google:chrome:117.0.5938.62:*:*:*:*:*:*:*",
 			"cpeNameId": "C53C8180-66C2-4B4F-AAB4-94E69FE3DAE8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:google:chrome:117.0.5938.132:*:*:*:*:*:*:*",
+			"cpeNameId": "6755D75A-3BCF-4306-A7C4-291566D0209A"
 		},
 		{
 			"cpeName": "cpe:2.3:a:google:chrome:117.0.5938.149:*:*:*:*:*:*:*",
@@ -36494,6 +36510,18 @@
 		{
 			"cpeName": "cpe:2.3:a:google:chrome:124.0.6367.78:*:*:*:*:*:*:*",
 			"cpeNameId": "6E582761-9B81-4001-9021-122B90D3053F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:google:chrome:124.0.6367.201:*:*:*:*:*:*:*",
+			"cpeNameId": "1800EA65-9F6B-44E8-8B4A-5A3BC2380E57"
+		},
+		{
+			"cpeName": "cpe:2.3:a:google:chrome:124.0.6367.207:*:*:*:*:*:*:*",
+			"cpeNameId": "2DDEF50E-0C79-4B0C-8064-6915B29A0970"
+		},
+		{
+			"cpeName": "cpe:2.3:a:google:chrome:125.0.6422.60:*:*:*:*:*:*:*",
+			"cpeNameId": "BEB3815B-A0BF-4D96-9950-61FDC23DBF05"
 		}
 	]
 }

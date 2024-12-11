@@ -3,8 +3,8 @@
 	"matchCriteriaId": "39DD7E91-43A7-4104-81A0-DC4F0E2F2005",
 	"versionEndExcluding": "18.5.4",
 	"created": "2024-10-11T18:21:44.450",
-	"lastModified": "2024-10-11T18:21:44.450",
-	"cpeLastModified": "2024-10-11T18:21:44.450",
+	"lastModified": "2024-12-11T15:08:45.607",
+	"cpeLastModified": "2024-12-11T15:08:45.607",
 	"status": "Active",
 	"matches": [
 		{
@@ -200,8 +200,20 @@
 			"cpeNameId": "B289A701-0CB8-4FB8-96D8-9B991D815798"
 		},
 		{
+			"cpeName": "cpe:2.3:a:adobe:indesign:18.5:*:*:*:*:*:*:*",
+			"cpeNameId": "EB92EE54-1B81-4747-A6D1-0EE333E0D4DB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:indesign:18.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "31112A3B-A0E5-493E-922D-CB9DFA4D11EE"
+		},
+		{
 			"cpeName": "cpe:2.3:a:adobe:indesign:18.5.2:*:*:*:*:*:*:*",
 			"cpeNameId": "77114A95-8C5B-4B7A-9803-325DA550DF11"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:indesign:18.5.3:*:*:*:*:*:*:*",
+			"cpeNameId": "3FCDC485-C8FD-4D1B-9FCF-3D8C98DD6BEE"
 		}
 	]
 }

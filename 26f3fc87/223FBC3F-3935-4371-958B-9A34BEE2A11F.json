@@ -3,8 +3,8 @@
 	"matchCriteriaId": "223FBC3F-3935-4371-958B-9A34BEE2A11F",
 	"versionEndExcluding": "3.0.4",
 	"created": "2024-10-10T18:19:50.010",
-	"lastModified": "2024-10-10T18:19:50.010",
-	"cpeLastModified": "2024-10-10T18:19:50.010",
+	"lastModified": "2024-12-11T15:11:24.283",
+	"cpeLastModified": "2024-12-11T15:11:24.283",
 	"status": "Active",
 	"matches": [
 		{
@@ -22,6 +22,10 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:substance_3d_stager:3.0.2:*:*:*:*:*:*:*",
 			"cpeNameId": "C1EC764F-D1AC-4051-BA62-DCA69FD14D3F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:substance_3d_stager:3.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "6991471F-4F02-4EE6-BF49-AB8235BDD49A"
 		}
 	]
 }

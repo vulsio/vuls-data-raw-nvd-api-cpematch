@@ -3,8 +3,8 @@
 	"matchCriteriaId": "8DA933DC-9C49-43BA-B462-A3DBFF8387F2",
 	"versionEndExcluding": "116.0.5845.179",
 	"created": "2023-09-08T14:12:07.807",
-	"lastModified": "2023-09-08T14:12:07.807",
-	"cpeLastModified": "2024-08-20T12:12:36.263",
+	"lastModified": "2024-12-11T16:39:51.503",
+	"cpeLastModified": "2024-12-11T16:39:51.503",
 	"status": "Active",
 	"matches": [
 		{
@@ -13386,6 +13386,10 @@
 		{
 			"cpeName": "cpe:2.3:a:google:chrome:32.0.1700.103:*:*:*:*:*:*:*",
 			"cpeNameId": "C9803696-6C20-49EE-8BC1-BC48A2821E2A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:google:chrome:32.0.1700.107:*:*:*:*:*:*:*",
+			"cpeNameId": "CA0BFB6F-253D-4719-980E-33AA2D5F5A2B"
 		},
 		{
 			"cpeName": "cpe:2.3:a:google:chrome:33.0.1750:*:*:*:*:*:*:*",

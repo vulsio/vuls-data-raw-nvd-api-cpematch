@@ -4,8 +4,8 @@
 	"versionStartIncluding": "18.0",
 	"versionEndExcluding": "18.5.1",
 	"created": "2024-12-02T17:42:33.670",
-	"lastModified": "2024-12-02T17:42:33.670",
-	"cpeLastModified": "2024-12-02T17:42:33.670",
+	"lastModified": "2024-12-11T15:08:45.607",
+	"cpeLastModified": "2024-12-11T15:08:45.607",
 	"status": "Active",
 	"matches": [
 		{
@@ -19,6 +19,10 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:indesign:18.3:*:*:*:*:*:*:*",
 			"cpeNameId": "B289A701-0CB8-4FB8-96D8-9B991D815798"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:indesign:18.5:*:*:*:*:*:*:*",
+			"cpeNameId": "EB92EE54-1B81-4747-A6D1-0EE333E0D4DB"
 		}
 	]
 }

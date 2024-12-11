@@ -4,13 +4,17 @@
 	"versionStartIncluding": "19.0",
 	"versionEndExcluding": "19.5",
 	"created": "2024-08-16T18:19:47.103",
-	"lastModified": "2024-08-16T18:19:47.103",
-	"cpeLastModified": "2024-08-27T17:12:38.710",
+	"lastModified": "2024-12-11T15:08:45.607",
+	"cpeLastModified": "2024-12-11T15:08:45.607",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:adobe:indesign:19.0:*:*:*:*:*:*:*",
 			"cpeNameId": "E6C1B689-EB2C-426A-A4BA-91C905818649"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:indesign:19.3:*:*:*:*:*:*:*",
+			"cpeNameId": "9E134AA6-54F2-43EF-B6DD-1F9D044FB257"
 		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:indesign:19.4:*:*:*:*:*:*:*",

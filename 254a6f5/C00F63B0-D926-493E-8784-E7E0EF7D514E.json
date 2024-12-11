@@ -3,8 +3,8 @@
 	"matchCriteriaId": "C00F63B0-D926-493E-8784-E7E0EF7D514E",
 	"versionEndIncluding": "23.6.9",
 	"created": "2024-11-14T17:19:02.710",
-	"lastModified": "2024-11-14T17:19:02.710",
-	"cpeLastModified": "2024-11-14T17:19:02.710",
+	"lastModified": "2024-12-11T15:07:05.280",
+	"cpeLastModified": "2024-12-11T15:07:05.280",
 	"status": "Active",
 	"matches": [
 		{
@@ -114,6 +114,10 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:after_effects:22.2.1:*:*:*:*:*:*:*",
 			"cpeNameId": "61011F1A-CDF2-42FD-B629-E22669FEC35B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:after_effects:23.6.9:*:*:*:*:*:*:*",
+			"cpeNameId": "485B9E75-B6DF-4803-BC50-E4ADC9C27D1B"
 		}
 	]
 }

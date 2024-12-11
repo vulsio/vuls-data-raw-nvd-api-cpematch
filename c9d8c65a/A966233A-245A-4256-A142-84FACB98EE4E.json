@@ -5,7 +5,7 @@
 	"versionEndExcluding": "7.0.14",
 	"created": "2024-12-10T16:36:21.997",
 	"lastModified": "2024-12-10T16:36:21.997",
-	"cpeLastModified": "2024-12-10T16:36:21.997",
+	"cpeLastModified": "2024-12-11T16:20:53.773",
 	"status": "Active",
 	"matches": [
 		{
@@ -169,8 +169,20 @@
 			"cpeNameId": "6E76BBC6-46E0-4E36-B375-202A26CBD4A8"
 		},
 		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiproxy:2.0.11:*:*:*:*:*:*:*",
+			"cpeNameId": "389F064C-C975-42A7-87F0-9C42DC11D072"
+		},
+		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiproxy:2.0.12:*:*:*:*:*:*:*",
 			"cpeNameId": "7429844F-51C6-4464-900B-75F81EED74C7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiproxy:2.0.13:*:*:*:*:*:*:*",
+			"cpeNameId": "24A31EA2-1BF9-4AAF-A988-84A8B30FA2FA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiproxy:2.0.14:*:*:*:*:*:*:*",
+			"cpeNameId": "EFC319F7-BFE1-4282-AA56-7E3D15180403"
 		},
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiproxy:7.0.0:*:*:*:*:*:*:*",
@@ -219,6 +231,14 @@
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortiproxy:7.0.11:*:*:*:*:*:*:*",
 			"cpeNameId": "C250DBBF-8CA0-4CFC-8A67-C008D45A508C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiproxy:7.0.12:*:*:*:*:*:*:*",
+			"cpeNameId": "FB23269F-DC1D-4E9C-A324-5154DC95216E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortiproxy:7.0.13:*:*:*:*:*:*:*",
+			"cpeNameId": "7FAF5A8E-4ED0-42E9-93E6-DDA0D055A264"
 		}
 	]
 }

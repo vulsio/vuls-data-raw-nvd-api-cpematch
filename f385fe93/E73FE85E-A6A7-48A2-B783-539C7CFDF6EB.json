@@ -5,7 +5,7 @@
 	"versionEndExcluding": "7.2.5",
 	"created": "2024-09-25T20:17:21.203",
 	"lastModified": "2024-09-25T20:17:21.203",
-	"cpeLastModified": "2024-09-25T20:17:21.203",
+	"cpeLastModified": "2024-12-11T16:20:53.773",
 	"status": "Active",
 	"matches": [
 		{
@@ -65,6 +65,10 @@
 			"cpeNameId": "5883B885-D48D-45B9-B93C-BDC001E54DB5"
 		},
 		{
+			"cpeName": "cpe:2.3:a:fortinet:fortimanager:6.2.13:*:*:*:*:*:*:*",
+			"cpeNameId": "41C49984-9670-4845-BCC1-FCB07D0A0551"
+		},
+		{
 			"cpeName": "cpe:2.3:a:fortinet:fortimanager:6.4.0:*:*:*:*:*:*:*",
 			"cpeNameId": "7A99CE80-5584-4214-8045-36541608F835"
 		},
@@ -121,6 +125,10 @@
 			"cpeNameId": "C662D97D-7630-40C8-B642-6241E271EB24"
 		},
 		{
+			"cpeName": "cpe:2.3:a:fortinet:fortimanager:6.4.15:*:*:*:*:*:*:*",
+			"cpeNameId": "62F679EA-2496-44B1-A65C-1D4FC2B3B9BB"
+		},
+		{
 			"cpeName": "cpe:2.3:a:fortinet:fortimanager:7.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "FBDF4010-3DF0-463C-8476-16E85B33EE09"
 		},
@@ -167,6 +175,14 @@
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortimanager:7.0.11:*:*:*:*:*:*:*",
 			"cpeNameId": "E050F16F-CB86-4405-A37A-6123010DFC34"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortimanager:7.0.12:*:*:*:*:*:*:*",
+			"cpeNameId": "4A12CA33-1823-458F-B838-391D5E28CA6B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fortinet:fortimanager:7.0.13:*:*:*:*:*:*:*",
+			"cpeNameId": "4A6172BD-8DBB-42F0-8A5D-CE08CEC79063"
 		},
 		{
 			"cpeName": "cpe:2.3:a:fortinet:fortimanager:7.2.0:*:*:*:*:*:*:*",

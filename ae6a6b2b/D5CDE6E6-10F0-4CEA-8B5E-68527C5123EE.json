@@ -4,13 +4,17 @@
 	"versionStartIncluding": "14.0.0",
 	"versionEndExcluding": "14.1.3",
 	"created": "2024-11-14T13:56:44.410",
-	"lastModified": "2024-11-14T13:56:44.410",
-	"cpeLastModified": "2024-11-14T13:56:44.410",
+	"lastModified": "2024-12-11T15:09:09.540",
+	"cpeLastModified": "2024-12-11T15:09:09.540",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:adobe:bridge:14.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "A2D4D8E8-5447-42E5-83A8-8CEBAC1E9497"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:bridge:14.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "F12F3E14-FD1B-497D-8077-FB3D806AF1D3"
 		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:bridge:14.0.4:*:*:*:*:*:*:*",
