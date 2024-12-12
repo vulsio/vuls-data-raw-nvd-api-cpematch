@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:fabianros:online_notice_board:1.0:*:*:*:*:*:*:*",
 	"matchCriteriaId": "F3CCB274-6AA2-45A3-BA71-B63D91134DED",
 	"created": "2024-12-10T18:46:04.767",
-	"lastModified": "2024-12-10T18:46:04.767",
-	"cpeLastModified": "2024-12-10T18:46:04.767",
-	"status": "Active"
+	"lastModified": "2024-12-11T19:28:59.880",
+	"cpeLastModified": "2024-12-11T19:28:59.880",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:fabianros:online_notice_board:1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "47E5D23D-969C-407F-80DB-D221585740E1"
+		}
+	]
 }
