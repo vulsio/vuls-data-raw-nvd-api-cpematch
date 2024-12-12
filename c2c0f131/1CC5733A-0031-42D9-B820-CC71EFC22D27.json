@@ -3,8 +3,8 @@
 	"matchCriteriaId": "1CC5733A-0031-42D9-B820-CC71EFC22D27",
 	"versionEndExcluding": "1.8.1",
 	"created": "2024-11-08T12:17:28.093",
-	"lastModified": "2024-11-08T12:17:28.093",
-	"cpeLastModified": "2024-11-08T12:17:28.093",
+	"lastModified": "2024-12-12T18:10:53.967",
+	"cpeLastModified": "2024-12-12T18:10:53.967",
 	"status": "Active",
 	"matches": [
 		{
@@ -118,6 +118,22 @@
 		{
 			"cpeName": "cpe:2.3:a:wpmanageninja:fluent_support:1.7.7:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "533E1689-04DD-4D7F-A6E3-6CD061DFB031"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpmanageninja:fluent_support:1.7.72:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B265DFFD-000A-4BD3-AC02-231237ADEB34"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpmanageninja:fluent_support:1.7.80:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8F01EDE2-FFE3-4A2D-ABFE-C18761D671C8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpmanageninja:fluent_support:1.7.90:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0EF92814-80C3-46B4-9A08-DAC25C5BA87B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpmanageninja:fluent_support:1.8.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F48F060C-57AE-4AE3-BDC7-20E9D4989094"
 		}
 	]
 }

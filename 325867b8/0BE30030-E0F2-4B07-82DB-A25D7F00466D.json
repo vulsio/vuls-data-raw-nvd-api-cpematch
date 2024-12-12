@@ -3,10 +3,14 @@
 	"matchCriteriaId": "0BE30030-E0F2-4B07-82DB-A25D7F00466D",
 	"versionEndIncluding": "5.9.3",
 	"created": "2024-11-19T17:09:50.180",
-	"lastModified": "2024-11-19T17:09:50.180",
-	"cpeLastModified": "2024-11-19T17:09:50.180",
+	"lastModified": "2024-12-12T18:13:50.740",
+	"cpeLastModified": "2024-12-12T18:13:50.740",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wpdownloadmanager:premium_packages_-_sell_digital_products_securely:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C8DE138E-989C-48CB-8879-71657A502810"
+		},
 		{
 			"cpeName": "cpe:2.3:a:wpdownloadmanager:premium_packages_-_sell_digital_products_securely:3.2.13:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "83AEB346-2249-427F-B80B-774697B83C90"
@@ -650,6 +654,78 @@
 		{
 			"cpeName": "cpe:2.3:a:wpdownloadmanager:premium_packages_-_sell_digital_products_securely:5.7.5:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "475B1881-715A-495C-8415-D4999F451FD8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdownloadmanager:premium_packages_-_sell_digital_products_securely:5.7.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "254862DB-80B4-4407-A168-4A4647F3D527"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdownloadmanager:premium_packages_-_sell_digital_products_securely:5.7.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F9EC0BA8-7DA2-41A8-A5D8-BA648713C908"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdownloadmanager:premium_packages_-_sell_digital_products_securely:5.7.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C4A6330D-E723-485B-A793-F6C0B554606B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdownloadmanager:premium_packages_-_sell_digital_products_securely:5.7.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "95D05D86-C4D7-43B8-A441-125F8B065796"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdownloadmanager:premium_packages_-_sell_digital_products_securely:5.8.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8299DAFE-62C9-4216-A158-EFB5291D0DD7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdownloadmanager:premium_packages_-_sell_digital_products_securely:5.8.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0D03C0FC-2772-4DD5-A2C7-F375B05B48E8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdownloadmanager:premium_packages_-_sell_digital_products_securely:5.8.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3ACD9EAA-35D6-4FBA-9103-C6CA81743564"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdownloadmanager:premium_packages_-_sell_digital_products_securely:5.8.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3A48BA18-6141-4CEA-8664-EB3556440A46"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdownloadmanager:premium_packages_-_sell_digital_products_securely:5.8.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "785D64E0-C3C5-466D-9226-655CAA16EDDC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdownloadmanager:premium_packages_-_sell_digital_products_securely:5.8.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9981B358-D303-4FD4-8873-87D1DC363C40"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdownloadmanager:premium_packages_-_sell_digital_products_securely:5.8.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "77AE425C-51AA-4220-803C-7AD2ABB228D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdownloadmanager:premium_packages_-_sell_digital_products_securely:5.8.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2AE40EB4-826D-467E-85F7-9EAC464F57CA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdownloadmanager:premium_packages_-_sell_digital_products_securely:5.8.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B99B6E19-F849-4B0E-ACEE-C9EEF236C510"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdownloadmanager:premium_packages_-_sell_digital_products_securely:5.8.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "33D0B5CE-1B70-44A5-BAB1-CFB32B62DBFD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdownloadmanager:premium_packages_-_sell_digital_products_securely:5.9.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AF235FFA-14F6-4ED7-B251-2401444533D4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdownloadmanager:premium_packages_-_sell_digital_products_securely:5.9.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BF600537-7211-4276-AB5F-555E9E2489A7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdownloadmanager:premium_packages_-_sell_digital_products_securely:5.9.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D519E899-5CD4-40AF-8CC1-95BA412FE8D9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdownloadmanager:premium_packages_-_sell_digital_products_securely:5.9.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "722D4856-4CC5-46C6-A5C7-D3A8DCF207D4"
 		}
 	]
 }

@@ -5,7 +5,7 @@
 	"versionEndExcluding": "17.4",
 	"created": "2024-03-07T14:42:39.027",
 	"lastModified": "2024-03-07T14:42:39.027",
-	"cpeLastModified": "2024-03-07T14:42:39.027",
+	"cpeLastModified": "2024-12-12T14:32:58.757",
 	"status": "Active",
 	"matches": [
 		{
@@ -19,6 +19,10 @@
 		{
 			"cpeName": "cpe:2.3:o:apple:ipad_os:17.2:*:*:*:*:*:*:*",
 			"cpeNameId": "369B803E-D888-4CAF-ACBE-378AD2CA50C8"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:ipad_os:17.3:*:*:*:*:*:*:*",
+			"cpeNameId": "F4A01B0A-C1BA-4EA4-90E2-88F6F42A0151"
 		}
 	]
 }

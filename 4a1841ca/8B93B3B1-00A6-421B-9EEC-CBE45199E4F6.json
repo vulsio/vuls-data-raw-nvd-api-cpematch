@@ -4,9 +4,13 @@
 	"versionEndExcluding": "2.0.6",
 	"created": "2021-09-16T19:23:33.903",
 	"lastModified": "2021-09-16T19:23:33.903",
-	"cpeLastModified": "2021-09-17T15:20:12.820",
+	"cpeLastModified": "2024-12-12T18:20:53.360",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wpsimplebookingcalendar:wp_simple_booking_calendar:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C0267B16-6CAE-4D2F-AD4A-8B530B550F22"
+		},
 		{
 			"cpeName": "cpe:2.3:a:wpsimplebookingcalendar:wp_simple_booking_calendar:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "A7FCD35C-56D2-4757-A300-0D27121AF61A"

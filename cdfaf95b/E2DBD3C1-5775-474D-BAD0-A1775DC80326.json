@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:vw:id.charger_pro:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "E2DBD3C1-5775-474D-BAD0-A1775DC80326",
 	"created": "2024-06-07T15:52:28.800",
-	"lastModified": "2024-06-07T15:52:28.800",
-	"cpeLastModified": "2024-06-07T15:52:28.800",
-	"status": "Active"
+	"lastModified": "2024-12-12T17:27:09.213",
+	"cpeLastModified": "2024-12-12T17:27:09.213",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:vw:id.charger_pro:-:*:*:*:*:*:*:*",
+			"cpeNameId": "761FE248-2A85-4CFA-9D8B-835B771F3B4B"
+		}
+	]
 }

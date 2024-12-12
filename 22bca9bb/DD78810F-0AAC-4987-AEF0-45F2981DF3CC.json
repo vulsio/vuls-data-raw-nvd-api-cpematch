@@ -3,8 +3,8 @@
 	"matchCriteriaId": "DD78810F-0AAC-4987-AEF0-45F2981DF3CC",
 	"versionEndExcluding": "2.6.6",
 	"created": "2024-09-27T12:48:28.107",
-	"lastModified": "2024-09-27T12:48:28.107",
-	"cpeLastModified": "2024-09-27T12:48:28.107",
+	"lastModified": "2024-12-12T18:10:53.967",
+	"cpeLastModified": "2024-12-12T18:10:53.967",
 	"status": "Active",
 	"matches": [
 		{
@@ -714,6 +714,22 @@
 		{
 			"cpeName": "cpe:2.3:a:wpgogo:custom_field_template:2.6.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "2F2B928E-E486-490C-B003-1189E40F88AC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpgogo:custom_field_template:2.6.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "59AD07BA-617A-4E86-9378-7E5DAF8F27B9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpgogo:custom_field_template:2.6.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BDAA17E0-81EC-42DB-A26A-4A48A4EEA52F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpgogo:custom_field_template:2.6.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "314AE4FE-9F44-4493-83E9-4960F17DC55D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpgogo:custom_field_template:2.6.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D713F414-B965-445A-9279-40682285E054"
 		}
 	]
 }

@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:wavlink:wn531p3:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "2049DBB6-8443-447E-A537-B8F44F533324",
 	"created": "2022-08-11T17:39:10.667",
-	"lastModified": "2022-08-11T17:51:18.633",
-	"cpeLastModified": "2022-08-11T17:50:18.820",
-	"status": "Active"
+	"lastModified": "2024-12-12T17:24:36.270",
+	"cpeLastModified": "2024-12-12T17:24:36.270",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:wavlink:wn531p3:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A3433E84-F162-45C8-B38E-4353DBFA3CE0"
+		}
+	]
 }

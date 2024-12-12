@@ -3,8 +3,8 @@
 	"matchCriteriaId": "93A0FBA9-3FF2-483E-8669-E2C196B3A444",
 	"versionEndExcluding": "17.3",
 	"created": "2024-01-27T03:47:56.723",
-	"lastModified": "2024-01-27T03:47:56.723",
-	"cpeLastModified": "2024-07-03T12:21:27.453",
+	"lastModified": "2024-12-12T14:33:00.640",
+	"cpeLastModified": "2024-12-12T14:32:58.757",
 	"status": "Active",
 	"matches": [
 		{
@@ -200,6 +200,10 @@
 			"cpeNameId": "D209182F-CEFB-4D70-9D42-C624D7731BA7"
 		},
 		{
+			"cpeName": "cpe:2.3:o:apple:ipados:15.7.7:*:*:*:*:*:*:*",
+			"cpeNameId": "E3506F79-B0AC-4929-B7C7-FCC085CE2497"
+		},
+		{
 			"cpeName": "cpe:2.3:o:apple:ipados:15.7.8:*:*:*:*:*:*:*",
 			"cpeNameId": "2DFBE270-6CC2-49B8-9142-1CA2E11A9658"
 		},
@@ -248,12 +252,20 @@
 			"cpeNameId": "EE4EF244-34D2-4D62-9805-BBD8D203DB09"
 		},
 		{
+			"cpeName": "cpe:2.3:o:apple:ipados:16.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "214E98BC-0DFF-4272-B41E-BC1A3FF6A189"
+		},
+		{
 			"cpeName": "cpe:2.3:o:apple:ipados:16.6:*:*:*:*:*:*:*",
 			"cpeNameId": "B03F1238-9C33-43BB-96D2-C012BE565B0C"
 		},
 		{
 			"cpeName": "cpe:2.3:o:apple:ipados:16.7:*:*:*:*:*:*:*",
 			"cpeNameId": "4CBB916B-4D8E-4610-85AC-5BFA868360BF"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:ipados:16.7.2:*:*:*:*:*:*:*",
+			"cpeNameId": "7BBC27EC-0623-463F-800B-D8139A0E35E8"
 		},
 		{
 			"cpeName": "cpe:2.3:o:apple:ipados:16.7.3:*:*:*:*:*:*:*",
@@ -264,8 +276,32 @@
 			"cpeNameId": "69108FEE-2189-4D14-90D2-C9170E697FC0"
 		},
 		{
+			"cpeName": "cpe:2.3:o:apple:ipados:16.7.6:*:*:*:*:*:*:*",
+			"cpeNameId": "9F2990E6-0507-48FD-B543-A880B6CF8527"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:ipados:16.7.7:*:*:*:*:*:*:*",
+			"cpeNameId": "8124F953-95AF-4526-AD3E-6EDE6360177A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:ipados:16.7.8:*:*:*:*:*:*:*",
+			"cpeNameId": "D05947D3-A757-4140-93BF-42B3BACA0818"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:ipados:16.7.9:*:*:*:*:*:*:*",
+			"cpeNameId": "FAD466B3-4ABF-4DAB-9380-C5246CF0EF4D"
+		},
+		{
 			"cpeName": "cpe:2.3:o:apple:ipados:17.0:*:*:*:*:*:*:*",
 			"cpeNameId": "680714AB-A44D-4A51-85EF-069B0F8B4BAE"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:ipados:17.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "986A6531-62BB-4F00-B6A0-B051689B13AA"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:ipados:17.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "4D0F9317-9589-4972-AA55-A723D3CD6226"
 		},
 		{
 			"cpeName": "cpe:2.3:o:apple:ipados:17.1:*:*:*:*:*:*:*",

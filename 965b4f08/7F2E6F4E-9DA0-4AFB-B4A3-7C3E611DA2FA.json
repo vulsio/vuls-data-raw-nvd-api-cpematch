@@ -3,8 +3,8 @@
 	"matchCriteriaId": "7F2E6F4E-9DA0-4AFB-B4A3-7C3E611DA2FA",
 	"versionEndExcluding": "2.80\\(aahn.1\\)c0",
 	"created": "2024-09-16T19:05:42.837",
-	"lastModified": "2024-09-16T19:05:42.837",
-	"cpeLastModified": "2024-09-16T19:05:42.837",
+	"lastModified": "2024-12-12T14:55:40.020",
+	"cpeLastModified": "2024-12-12T14:55:40.020",
 	"status": "Active",
 	"matches": [
 		{
@@ -42,6 +42,10 @@
 		{
 			"cpeName": "cpe:2.3:o:zyxel:gs1900-48_firmware:2.80\\(aahn.0\\):*:*:*:*:*:*:*",
 			"cpeNameId": "5A7CFE6A-2A12-47C3-8DE9-3B46AE69C3FA"
+		},
+		{
+			"cpeName": "cpe:2.3:o:zyxel:gs1900-48_firmware:2.80\\(aahn.0\\)c0:*:*:*:*:*:*:*",
+			"cpeNameId": "0EF94ED6-EB85-446B-95D2-ECFC4D8F54A6"
 		}
 	]
 }

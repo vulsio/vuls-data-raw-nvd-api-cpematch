@@ -5,12 +5,16 @@
 	"versionEndIncluding": "5.37",
 	"created": "2023-12-01T19:01:32.393",
 	"lastModified": "2023-12-05T16:33:41.673",
-	"cpeLastModified": "2023-12-05T16:33:41.673",
+	"cpeLastModified": "2024-12-12T16:23:24.480",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:o:zyxel:zld:4.16:*:*:*:*:*:*:*",
 			"cpeNameId": "8B9285DD-718D-4968-9673-2FBEC92C92DB"
+		},
+		{
+			"cpeName": "cpe:2.3:o:zyxel:zld:4.20:*:*:*:*:*:*:*",
+			"cpeNameId": "CEC42B42-A53C-4277-94D6-1A5277DF7AE1"
 		},
 		{
 			"cpeName": "cpe:2.3:o:zyxel:zld:4.30:*:*:*:*:*:*:*",
@@ -31,6 +35,10 @@
 		{
 			"cpeName": "cpe:2.3:o:zyxel:zld:4.55:*:*:*:*:*:*:*",
 			"cpeNameId": "831B8777-5FB3-4106-8810-D9B51E689709"
+		},
+		{
+			"cpeName": "cpe:2.3:o:zyxel:zld:4.60:*:*:*:*:*:*:*",
+			"cpeNameId": "8C07B79D-DC59-439D-B36C-F5ED6319CCA6"
 		},
 		{
 			"cpeName": "cpe:2.3:o:zyxel:zld:5.00:*:*:*:*:*:*:*",

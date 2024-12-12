@@ -4,6 +4,20 @@
 	"versionEndIncluding": "5.0.18",
 	"created": "2023-05-11T16:20:40.403",
 	"lastModified": "2023-05-11T16:20:40.403",
-	"cpeLastModified": "2023-05-11T16:20:40.403",
-	"status": "Active"
+	"cpeLastModified": "2024-12-12T18:16:47.087",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wpplugins:hide_my_wp_ghost:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E958FD2C-04F3-4776-B2B9-4A211907CFD9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpplugins:hide_my_wp_ghost:4.0.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E43DE90C-FC1D-4610-9AE6-FFAA43842798"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpplugins:hide_my_wp_ghost:4.1.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "08D07A7D-F74F-44D5-95B1-FB91959989C2"
+		}
+	]
 }

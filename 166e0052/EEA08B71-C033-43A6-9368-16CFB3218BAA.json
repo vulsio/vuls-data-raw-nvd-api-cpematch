@@ -4,9 +4,13 @@
 	"versionEndExcluding": "1.2.2",
 	"created": "2021-06-24T15:13:52.777",
 	"lastModified": "2021-06-24T15:13:52.777",
-	"cpeLastModified": "2021-07-30T20:29:30.450",
+	"cpeLastModified": "2024-12-12T18:01:27.843",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:getastra:wp_hardening:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0B4D1494-7660-40B2-8BC7-ECE20BF7FBB9"
+		},
 		{
 			"cpeName": "cpe:2.3:a:getastra:wp_hardening:1.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "1E8B5301-053C-4C3B-B8C3-4DF5B2B819C9"

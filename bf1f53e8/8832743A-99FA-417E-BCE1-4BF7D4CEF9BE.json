@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:zyxel:usg_flex_700h:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "8832743A-99FA-417E-BCE1-4BF7D4CEF9BE",
 	"created": "2024-11-25T16:54:51.870",
-	"lastModified": "2024-11-25T16:54:51.870",
-	"cpeLastModified": "2024-11-25T16:54:51.870",
-	"status": "Active"
+	"lastModified": "2024-12-12T14:59:31.637",
+	"cpeLastModified": "2024-12-12T14:59:31.637",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:zyxel:usg_flex_700h:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E7F80764-3224-43DD-A324-E7396E324C1A"
+		}
+	]
 }

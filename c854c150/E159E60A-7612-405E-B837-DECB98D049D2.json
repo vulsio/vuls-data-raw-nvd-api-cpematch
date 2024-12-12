@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:zte:mf296r:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "E159E60A-7612-405E-B837-DECB98D049D2",
 	"created": "2024-09-27T19:16:06.677",
-	"lastModified": "2024-09-27T19:16:06.677",
-	"cpeLastModified": "2024-09-27T19:16:06.677",
-	"status": "Active"
+	"lastModified": "2024-12-12T15:14:52.250",
+	"cpeLastModified": "2024-12-12T15:14:52.250",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:zte:mf296r:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2B276B1F-1754-44D3-803C-BAA073E7AD96"
+		}
+	]
 }

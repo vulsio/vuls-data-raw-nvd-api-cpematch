@@ -3,8 +3,8 @@
 	"matchCriteriaId": "B3539C1D-6C16-4DFB-A601-F5346071F4D7",
 	"versionEndExcluding": "2.80\\(abtp.1\\)c0",
 	"created": "2024-09-16T19:05:42.837",
-	"lastModified": "2024-09-16T19:05:42.837",
-	"cpeLastModified": "2024-09-16T19:05:42.837",
+	"lastModified": "2024-12-12T14:55:40.020",
+	"cpeLastModified": "2024-12-12T14:55:40.020",
 	"status": "Active",
 	"matches": [
 		{
@@ -30,6 +30,10 @@
 		{
 			"cpeName": "cpe:2.3:o:zyxel:gs1900-24hpv2_firmware:2.80\\(abtp.0\\):*:*:*:*:*:*:*",
 			"cpeNameId": "E08A4A93-3616-44B1-9518-6171F3571E1A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:zyxel:gs1900-24hpv2_firmware:2.80\\(abtp.0\\)c0:*:*:*:*:*:*:*",
+			"cpeNameId": "8D0208B5-E66F-4B60-8809-9982CEEE36A6"
 		}
 	]
 }

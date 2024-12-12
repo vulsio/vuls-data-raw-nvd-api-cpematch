@@ -3,8 +3,8 @@
 	"matchCriteriaId": "B64F27E9-49AB-4A68-A617-9D88A28AD5F6",
 	"versionEndExcluding": "16.7.8",
 	"created": "2024-08-13T17:38:21.467",
-	"lastModified": "2024-08-13T17:38:21.467",
-	"cpeLastModified": "2024-08-13T17:38:21.467",
+	"lastModified": "2024-12-12T14:26:17.950",
+	"cpeLastModified": "2024-12-12T14:32:58.757",
 	"status": "Active",
 	"matches": [
 		{
@@ -166,6 +166,10 @@
 		{
 			"cpeName": "cpe:2.3:o:apple:ipad_os:16.7:*:*:*:*:*:*:*",
 			"cpeNameId": "322D7DF0-A223-4DD2-9418-AA6066A304DB"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:ipad_os:16.7.5:*:*:*:*:*:*:*",
+			"cpeNameId": "B724B338-A580-4DBD-A2F9-B75010EE7BB0"
 		}
 	]
 }

@@ -4,7 +4,7 @@
 	"versionEndExcluding": "5.50\\(abom.8.4\\)c0",
 	"created": "2024-09-04T20:31:20.790",
 	"lastModified": "2024-09-10T14:20:31.860",
-	"cpeLastModified": "2024-09-04T20:31:20.790",
+	"cpeLastModified": "2024-12-12T14:54:03.517",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:zyxel:vmg8825-t50k_firmware:5.50\\(abom.7\\)c0:*:*:*:*:*:*:*",
 			"cpeNameId": "616E98C9-0C3E-450F-9A77-7DB378DA78FF"
+		},
+		{
+			"cpeName": "cpe:2.3:o:zyxel:vmg8825-t50k_firmware:5.50\\(abom.8\\)c0:*:*:*:*:*:*:*",
+			"cpeNameId": "F03AAC29-17EF-4B64-B18E-A9077AC5C994"
 		}
 	]
 }
