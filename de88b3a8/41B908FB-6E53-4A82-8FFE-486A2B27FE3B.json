@@ -3,10 +3,14 @@
 	"matchCriteriaId": "41B908FB-6E53-4A82-8FFE-486A2B27FE3B",
 	"versionEndExcluding": "8.4.59",
 	"created": "2024-09-20T14:40:20.143",
-	"lastModified": "2024-09-20T14:40:20.143",
-	"cpeLastModified": "2024-09-20T14:40:20.143",
+	"lastModified": "2024-12-12T19:06:52.560",
+	"cpeLastModified": "2024-12-12T19:06:52.560",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ui:unifi_network_application:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5F9E280A-BD0C-4765-93EF-3A9C1B011042"
+		},
 		{
 			"cpeName": "cpe:2.3:a:ui:unifi_network_application:6.2.23:*:*:*:*:*:*:*",
 			"cpeNameId": "606EEC8C-1FF5-4416-A8C0-F20382F87E86"
@@ -142,6 +146,38 @@
 		{
 			"cpeName": "cpe:2.3:a:ui:unifi_network_application:7.5.187:*:*:*:*:*:*:*",
 			"cpeNameId": "BB173E69-5FE3-4952-915A-8F3BAFADC7A1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ui:unifi_network_application:8.0.7:*:*:*:*:*:*:*",
+			"cpeNameId": "024D8BC9-5B99-48C2-81E4-17A4B6B6B09E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ui:unifi_network_application:8.0.24:*:*:*:*:*:*:*",
+			"cpeNameId": "9659E842-7BE0-457C-A2D3-626C77B009E9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ui:unifi_network_application:8.0.26:*:*:*:*:*:*:*",
+			"cpeNameId": "5E24F552-18DA-4E63-861B-F70573A7AC9D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ui:unifi_network_application:8.0.28:*:*:*:*:*:*:*",
+			"cpeNameId": "44789D69-5826-456B-B73A-A852F2B0D0B6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ui:unifi_network_application:8.1.113:*:*:*:*:*:*:*",
+			"cpeNameId": "9B849821-0449-4C24-B3DB-64A900A4B795"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ui:unifi_network_application:8.1.127:*:*:*:*:*:*:*",
+			"cpeNameId": "21CC683D-EA93-4F13-A8EB-5711EDBEAB50"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ui:unifi_network_application:8.2.93:*:*:*:*:*:*:*",
+			"cpeNameId": "BA1925A9-7A05-465F-A8B3-AAFDA874CF36"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ui:unifi_network_application:8.3.32:*:*:*:*:*:*:*",
+			"cpeNameId": "46DC4D45-DFE4-44F4-BDAD-DF371AD69304"
 		}
 	]
 }

@@ -3,12 +3,16 @@
 	"matchCriteriaId": "AA3F9EC7-CE4E-4F01-A589-4DEC906B75EB",
 	"created": "2022-12-07T14:21:01.673",
 	"lastModified": "2023-07-27T13:47:19.607",
-	"cpeLastModified": "2023-08-29T16:24:10.060",
+	"cpeLastModified": "2024-12-12T18:37:58.053",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:o:ui:edgemax_edgerouter_firmware:2.0.9:*:*:*:*:*:*:*",
 			"cpeNameId": "85DC0B62-7AD7-4077-AA1A-E1924EFBB985"
+		},
+		{
+			"cpeName": "cpe:2.3:o:ui:edgemax_edgerouter_firmware:2.0.9:-:*:*:*:*:*:*",
+			"cpeNameId": "E23EFF93-8246-4B9A-9061-B16D6BCB8568"
 		},
 		{
 			"cpeName": "cpe:2.3:o:ui:edgemax_edgerouter_firmware:2.0.9:hotfix1:*:*:*:*:*:*",

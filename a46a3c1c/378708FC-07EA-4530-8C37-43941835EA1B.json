@@ -3,10 +3,14 @@
 	"matchCriteriaId": "378708FC-07EA-4530-8C37-43941835EA1B",
 	"versionEndExcluding": "1.6.29",
 	"created": "2024-11-08T18:57:22.050",
-	"lastModified": "2024-11-08T18:57:22.050",
-	"cpeLastModified": "2024-11-08T18:57:22.050",
+	"lastModified": "2024-12-12T19:00:22.807",
+	"cpeLastModified": "2024-12-12T19:00:22.807",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:reviewx:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1837144B-4FA8-4E3A-BCEC-D2241A274E73"
+		},
 		{
 			"cpeName": "cpe:2.3:a:wpdeveloper:reviewx:1.0.0:-:*:*:*:wordpress:*:*",
 			"cpeNameId": "7F31502B-CCBC-4743-88A1-7CC9514E4D35"
@@ -314,6 +318,62 @@
 		{
 			"cpeName": "cpe:2.3:a:wpdeveloper:reviewx:1.6.14:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "5B23B131-B43A-4073-B1D5-F695F2D812DF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:reviewx:1.6.15:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4D58D223-BB81-4225-B0D9-C3BF0C2D9882"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:reviewx:1.6.16:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "58CA7ACB-14A9-44CA-8B7F-4D74D9E8C723"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:reviewx:1.6.17:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2E9F1DEA-7EB7-4D17-A308-45EED7E54A4E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:reviewx:1.6.18:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "ADAA7F78-4265-4108-9282-6E3B02C81E51"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:reviewx:1.6.19:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B9426C1D-AE31-41F8-A24B-6F4C721EFF0C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:reviewx:1.6.20:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F5B06C77-FF54-4A33-9383-561AC6475AFC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:reviewx:1.6.21:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "08B7498F-8A52-4E00-A643-2EF748F34A8D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:reviewx:1.6.22:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "82728976-F5AE-4CD0-BDC1-8941A59EEE12"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:reviewx:1.6.23:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C720FE6A-DE7D-4444-828D-313C03195B64"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:reviewx:1.6.24:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AAD7F6CA-EADC-4FE6-9C1E-96D1E54B62C7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:reviewx:1.6.25:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A48073C1-4CDE-49CB-91DD-A2A589D78B3A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:reviewx:1.6.26:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A4A5A8C4-EBEA-4DBB-B21A-B76CA2854B48"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:reviewx:1.6.27:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9E18EF87-C93F-4AAE-B45E-FD4DC5B0FC9F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:reviewx:1.6.28:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FC355489-1470-48EC-B3B7-2E52577B53D5"
 		}
 	]
 }
