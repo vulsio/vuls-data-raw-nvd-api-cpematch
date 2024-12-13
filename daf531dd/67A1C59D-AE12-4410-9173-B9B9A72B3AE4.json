@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:tenda:fh1201:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "67A1C59D-AE12-4410-9173-B9B9A72B3AE4",
 	"created": "2024-08-15T18:45:41.877",
-	"lastModified": "2024-08-15T18:45:41.877",
-	"cpeLastModified": "2024-08-15T18:45:41.877",
-	"status": "Active"
+	"lastModified": "2024-12-13T14:47:45.837",
+	"cpeLastModified": "2024-12-13T14:47:45.837",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:tenda:fh1201:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4D8669A4-289A-4438-8067-83F916D61343"
+		}
+	]
 }

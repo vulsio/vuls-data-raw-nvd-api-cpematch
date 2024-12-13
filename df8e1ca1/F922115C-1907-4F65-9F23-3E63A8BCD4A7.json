@@ -3,7 +3,7 @@
 	"matchCriteriaId": "F922115C-1907-4F65-9F23-3E63A8BCD4A7",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2022-06-27T14:26:18.407",
-	"cpeLastModified": "2023-09-28T21:32:04.600",
+	"cpeLastModified": "2024-12-13T17:02:05.460",
 	"status": "Active",
 	"matches": [
 		{
@@ -105,6 +105,18 @@
 		{
 			"cpeName": "cpe:2.3:o:suse:linux_enterprise_server:12:sp5:*:*:*:sap:*:*",
 			"cpeNameId": "3664BF92-8B40-461F-8302-3D9BB35EA337"
+		},
+		{
+			"cpeName": "cpe:2.3:o:suse:linux_enterprise_server:12:sp5:*:*:-:*:*:*",
+			"cpeNameId": "25D13B36-5D16-46A5-9E49-3D68B09A68A7"
+		},
+		{
+			"cpeName": "cpe:2.3:o:suse:linux_enterprise_server:12:sp5:*:*:ltss:*:*:*",
+			"cpeNameId": "8C11FC7C-67F5-4B98-A32E-7D655B07AB7C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:suse:linux_enterprise_server:12:sp5:*:*:ltss_extended_security:*:*:*",
+			"cpeNameId": "A50C5CE9-0932-40D2-B487-64604025AB2E"
 		}
 	]
 }

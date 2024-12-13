@@ -3,10 +3,14 @@
 	"matchCriteriaId": "2F35C242-2632-4217-9C94-2ADFDFDF099B",
 	"versionEndExcluding": "1.2.8",
 	"created": "2024-09-18T19:17:25.367",
-	"lastModified": "2024-09-18T19:17:25.367",
-	"cpeLastModified": "2024-09-18T19:17:25.367",
+	"lastModified": "2024-12-13T13:24:39.433",
+	"cpeLastModified": "2024-12-13T13:24:39.433",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:brainstormforce:astra:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "21FBBFE8-52CF-4714-9803-860DC1DA6525"
+		},
 		{
 			"cpeName": "cpe:2.3:a:brainstormforce:astra:1.0.0:-:*:*:pro:wordpress:*:*",
 			"cpeNameId": "36AD0FFA-8BF7-4ACF-B530-8BC0BA0C7FE1"

@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:tendacn:g3_firmware:15.11.0.20:*:*:*:*:*:*:*",
 	"matchCriteriaId": "6227E635-0924-479C-8CED-9B225CB4D4A7",
 	"created": "2024-11-13T19:35:40.840",
-	"lastModified": "2024-11-13T19:35:40.840",
-	"cpeLastModified": "2024-11-13T19:35:40.840",
-	"status": "Active"
+	"lastModified": "2024-12-13T14:47:45.837",
+	"cpeLastModified": "2024-12-13T14:47:45.837",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:tendacn:g3_firmware:15.11.0.20:*:*:*:*:*:*:*",
+			"cpeNameId": "A9C26BFE-3979-48E2-B237-B5662502263A"
+		}
+	]
 }

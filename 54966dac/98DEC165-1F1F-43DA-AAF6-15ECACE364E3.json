@@ -3,8 +3,8 @@
 	"matchCriteriaId": "98DEC165-1F1F-43DA-AAF6-15ECACE364E3",
 	"versionEndExcluding": "7.1-42661",
 	"created": "2022-10-25T19:07:39.680",
-	"lastModified": "2022-10-25T19:07:39.680",
-	"cpeLastModified": "2022-10-25T19:07:39.680",
+	"lastModified": "2024-12-13T15:58:08.140",
+	"cpeLastModified": "2024-12-13T15:58:08.140",
 	"status": "Active",
 	"matches": [
 		{
@@ -456,12 +456,60 @@
 			"cpeNameId": "D280879E-BE36-4672-87A2-2CB1AB4135A0"
 		},
 		{
+			"cpeName": "cpe:2.3:a:synology:diskstation_manager:6.2.4-25556-5:*:*:*:*:*:*:*",
+			"cpeNameId": "6F780AD6-6433-47A4-8D9F-D019504042D9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:synology:diskstation_manager:6.2.4-25556-6:*:*:*:*:*:*:*",
+			"cpeNameId": "214417EB-68AB-4011-B66A-EB5558EBD04D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:synology:diskstation_manager:6.2.4-25556-7:*:*:*:*:*:*:*",
+			"cpeNameId": "D7CE0ECB-A527-4C21-9E03-E8A2E37C2CC8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:synology:diskstation_manager:6.2.4-25556-8:*:*:*:*:*:*:*",
+			"cpeNameId": "D1E48030-E61D-40D9-9CB9-C893C9E198F1"
+		},
+		{
 			"cpeName": "cpe:2.3:a:synology:diskstation_manager:7.0:*:*:*:*:*:*:*",
 			"cpeNameId": "E265ECB8-78C9-4CF8-B508-0081CD2C4A8A"
 		},
 		{
+			"cpeName": "cpe:2.3:a:synology:diskstation_manager:7.0-41890:*:*:*:*:*:*:*",
+			"cpeNameId": "4048B957-4493-4D0A-9487-8C8CD6727BD3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:synology:diskstation_manager:7.0.1-42218:*:*:*:*:*:*:*",
+			"cpeNameId": "29EAFE7E-4461-431F-9AB6-B8B36DC39FF9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:synology:diskstation_manager:7.0.1-42218-1:*:*:*:*:*:*:*",
+			"cpeNameId": "AE5DE55D-A370-4D5B-A4B8-4C1E44F7A6F5"
+		},
+		{
 			"cpeName": "cpe:2.3:a:synology:diskstation_manager:7.0.1-42218-2:*:*:*:*:*:*:*",
 			"cpeNameId": "36123CEC-4581-41B3-986C-EDA2F44DA32B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:synology:diskstation_manager:7.0.1-42218-3:*:*:*:*:*:*:*",
+			"cpeNameId": "050258F6-7E0F-49D5-AABC-A7850DBE2986"
+		},
+		{
+			"cpeName": "cpe:2.3:a:synology:diskstation_manager:7.0.1-42218-4:*:*:*:*:*:*:*",
+			"cpeNameId": "6994A8BC-582D-4BE2-AE30-CD2015EBC2E0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:synology:diskstation_manager:7.0.1-42218-5:*:*:*:*:*:*:*",
+			"cpeNameId": "3DF5EE86-CB27-4A59-B610-264F90AFF16C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:synology:diskstation_manager:7.0.1-42218-6:*:*:*:*:*:*:*",
+			"cpeNameId": "53647044-935A-4447-BAA2-3384ECF49AC3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:synology:diskstation_manager:7.0.1-42218-7:*:*:*:*:*:*:*",
+			"cpeNameId": "BF9D7CA9-F04C-4E0D-AF7B-74DD6C5EE243"
 		},
 		{
 			"cpeName": "cpe:2.3:a:synology:diskstation_manager:7.1:*:*:*:*:*:*:*",

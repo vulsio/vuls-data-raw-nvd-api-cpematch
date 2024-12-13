@@ -5,6 +5,12 @@
 	"versionEndExcluding": "1.52.1",
 	"created": "2024-08-28T18:28:15.717",
 	"lastModified": "2024-08-28T18:28:15.717",
-	"cpeLastModified": "2024-08-28T18:28:15.717",
-	"status": "Active"
+	"cpeLastModified": "2024-12-13T13:00:15.423",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apollographql:apollo-router:1.7.0:*:*:*:*:rust:*:*",
+			"cpeNameId": "C938FD30-2629-4D34-9AB2-E49DCA0EA00A"
+		}
+	]
 }

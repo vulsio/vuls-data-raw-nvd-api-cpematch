@@ -3,7 +3,7 @@
 	"matchCriteriaId": "B2F3699A-38E4-4E9D-9414-411F71D9E371",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2021-06-30T15:41:03.590",
+	"cpeLastModified": "2024-12-13T17:02:05.460",
 	"status": "Active",
 	"matches": [
 		{
@@ -29,6 +29,10 @@
 		{
 			"cpeName": "cpe:2.3:o:suse:linux_enterprise_server:12:sp4:*:*:ltss:*:*:*",
 			"cpeNameId": "F3F50A0E-679D-445B-B727-F61B6DF247DD"
+		},
+		{
+			"cpeName": "cpe:2.3:o:suse:linux_enterprise_server:12:sp5:*:*:ltss:*:*:*",
+			"cpeNameId": "8C11FC7C-67F5-4B98-A32E-7D655B07AB7C"
 		}
 	]
 }

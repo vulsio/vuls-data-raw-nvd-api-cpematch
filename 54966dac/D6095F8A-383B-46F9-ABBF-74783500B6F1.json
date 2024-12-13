@@ -5,7 +5,7 @@
 	"versionEndExcluding": "6.2.4-25556.4",
 	"created": "2022-02-22T15:00:32.510",
 	"lastModified": "2022-02-22T15:00:32.510",
-	"cpeLastModified": "2022-10-04T17:18:21.007",
+	"cpeLastModified": "2024-12-13T15:58:08.140",
 	"status": "Active",
 	"matches": [
 		{
@@ -87,6 +87,22 @@
 		{
 			"cpeName": "cpe:2.3:a:synology:diskstation_manager:6.2.4-25556-4:*:*:*:*:*:*:*",
 			"cpeNameId": "D280879E-BE36-4672-87A2-2CB1AB4135A0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:synology:diskstation_manager:6.2.4-25556-5:*:*:*:*:*:*:*",
+			"cpeNameId": "6F780AD6-6433-47A4-8D9F-D019504042D9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:synology:diskstation_manager:6.2.4-25556-6:*:*:*:*:*:*:*",
+			"cpeNameId": "214417EB-68AB-4011-B66A-EB5558EBD04D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:synology:diskstation_manager:6.2.4-25556-7:*:*:*:*:*:*:*",
+			"cpeNameId": "D7CE0ECB-A527-4C21-9E03-E8A2E37C2CC8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:synology:diskstation_manager:6.2.4-25556-8:*:*:*:*:*:*:*",
+			"cpeNameId": "D1E48030-E61D-40D9-9CB9-C893C9E198F1"
 		}
 	]
 }

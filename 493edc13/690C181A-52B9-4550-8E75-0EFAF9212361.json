@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:totolink:cp450:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "690C181A-52B9-4550-8E75-0EFAF9212361",
 	"created": "2024-08-01T15:54:02.497",
-	"lastModified": "2024-08-01T15:54:02.497",
-	"cpeLastModified": "2024-08-01T15:54:02.497",
-	"status": "Active"
+	"lastModified": "2024-12-13T14:27:00.710",
+	"cpeLastModified": "2024-12-13T14:27:00.710",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:totolink:cp450:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B58214DA-C820-46C9-ADAC-61FD2C0E6B52"
+		}
+	]
 }

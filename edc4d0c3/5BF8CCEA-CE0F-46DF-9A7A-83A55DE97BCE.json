@@ -3,8 +3,8 @@
 	"matchCriteriaId": "5BF8CCEA-CE0F-46DF-9A7A-83A55DE97BCE",
 	"versionEndExcluding": "18.1.1",
 	"created": "2024-11-27T12:51:34.950",
-	"lastModified": "2024-11-27T12:51:34.950",
-	"cpeLastModified": "2024-11-27T12:51:34.950",
+	"lastModified": "2024-12-13T13:08:33.843",
+	"cpeLastModified": "2024-12-13T13:08:33.843",
 	"status": "Active",
 	"matches": [
 		{
@@ -788,6 +788,10 @@
 			"cpeNameId": "18C70CBE-02AB-409E-9252-622192138C6B"
 		},
 		{
+			"cpeName": "cpe:2.3:a:apple:safari:16.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "CFB45990-44DC-4C08-9E10-20B00DC0EBC5"
+		},
+		{
 			"cpeName": "cpe:2.3:a:apple:safari:16.5.2:*:*:*:*:*:*:*",
 			"cpeNameId": "CCC8720C-FFC2-44F1-9F7F-FAD1B2C4D75F"
 		},
@@ -820,8 +824,28 @@
 			"cpeNameId": "0C4C96EA-3489-4842-83FE-45827F0B4B4A"
 		},
 		{
+			"cpeName": "cpe:2.3:a:apple:safari:17.4:*:*:*:*:*:*:*",
+			"cpeNameId": "DEF2EDC1-E568-41EA-A1BA-0A81FAF3A7FF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apple:safari:17.5:*:*:*:*:*:*:*",
+			"cpeNameId": "7215CF69-013E-4E91-A033-BB6606FA2F54"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apple:safari:17.6:*:*:*:*:*:*:*",
+			"cpeNameId": "C6E4C6F9-D9C5-4B98-855D-E2497B470F08"
+		},
+		{
 			"cpeName": "cpe:2.3:a:apple:safari:18:*:*:*:technology_preview:*:*:*",
 			"cpeNameId": "2C845F6B-FFFF-4029-AE42-BB04A0A81205"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apple:safari:18.0:*:*:*:*:*:*:*",
+			"cpeNameId": "18B5E988-9315-41E6-B783-4826E6FF60F7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apple:safari:18.1:*:*:*:*:*:*:*",
+			"cpeNameId": "F5DD311D-B738-474A-8824-89EE2A4FBF03"
 		}
 	]
 }

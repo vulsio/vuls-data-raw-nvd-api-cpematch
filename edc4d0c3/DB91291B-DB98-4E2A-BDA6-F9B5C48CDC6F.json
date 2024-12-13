@@ -4,7 +4,7 @@
 	"versionEndExcluding": "16.6",
 	"created": "2023-08-01T13:55:04.653",
 	"lastModified": "2023-08-28T13:28:22.813",
-	"cpeLastModified": "2024-07-02T14:42:34.553",
+	"cpeLastModified": "2024-12-13T13:08:33.843",
 	"status": "Active",
 	"matches": [
 		{
@@ -786,6 +786,10 @@
 		{
 			"cpeName": "cpe:2.3:a:apple:safari:16.5:*:*:*:*:*:*:*",
 			"cpeNameId": "18C70CBE-02AB-409E-9252-622192138C6B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apple:safari:16.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "CFB45990-44DC-4C08-9E10-20B00DC0EBC5"
 		},
 		{
 			"cpeName": "cpe:2.3:a:apple:safari:16.5.2:*:*:*:*:*:*:*",
