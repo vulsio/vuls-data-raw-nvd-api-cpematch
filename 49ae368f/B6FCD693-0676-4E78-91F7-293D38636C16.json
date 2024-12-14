@@ -4,7 +4,7 @@
 	"versionEndExcluding": "comboam4v2pi_1.2.0.c",
 	"created": "2024-10-18T18:05:08.423",
 	"lastModified": "2024-10-18T18:05:08.423",
-	"cpeLastModified": "2024-10-18T18:05:08.423",
+	"cpeLastModified": "2024-12-13T18:36:42.410",
 	"status": "Active",
 	"matches": [
 		{
@@ -22,6 +22,10 @@
 		{
 			"cpeName": "cpe:2.3:o:amd:ryzen_5_5600ge_firmware:comboam4v2_1.2.0.b:*:*:*:*:*:*:*",
 			"cpeNameId": "DCDF03C5-585E-4F7C-8363-1F06D988CF61"
+		},
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_5_5600ge_firmware:comboam4v2_pi_1.2.0.5:*:*:*:*:*:*:*",
+			"cpeNameId": "DBA6D833-CFBB-4182-A56F-530B05EF0C59"
 		},
 		{
 			"cpeName": "cpe:2.3:o:amd:ryzen_5_5600ge_firmware:comboam4v2_pi_1.2.0.8:*:*:*:*:*:*:*",

@@ -4,8 +4,8 @@
 	"versionStartIncluding": "2.0.0",
 	"versionEndExcluding": "3.0.1",
 	"created": "2024-11-06T17:29:43.113",
-	"lastModified": "2024-11-06T17:29:43.113",
-	"cpeLastModified": "2024-11-06T17:29:43.113",
+	"lastModified": "2024-12-13T20:11:45.963",
+	"cpeLastModified": "2024-12-13T20:11:45.963",
 	"status": "Active",
 	"matches": [
 		{
@@ -35,6 +35,10 @@
 		{
 			"cpeName": "cpe:2.3:a:agendaless:waitress:2.1.2:*:*:*:*:*:*:*",
 			"cpeNameId": "7C0C36E8-3E9A-4D1E-80A0-0EB27F6FC67E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:agendaless:waitress:3.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D91734CB-7A37-4E30-9AB2-4498A1179E8B"
 		}
 	]
 }

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "C6B2E370-5198-4DAD-BC70-69627CCD4919",
 	"versionEndExcluding": "11.7.0.8",
 	"created": "2024-12-12T14:27:16.667",
-	"lastModified": "2024-12-12T14:27:16.667",
-	"cpeLastModified": "2024-12-12T14:27:16.667",
+	"lastModified": "2024-12-13T19:57:13.493",
+	"cpeLastModified": "2024-12-13T19:57:13.493",
 	"status": "Active",
 	"matches": [
 		{
@@ -182,6 +182,26 @@
 		{
 			"cpeName": "cpe:2.3:a:netapp:storagegrid:11.6.0.13:*:*:*:*:*:*:*",
 			"cpeNameId": "5D42B816-B6ED-4F88-9888-77B2169B9826"
+		},
+		{
+			"cpeName": "cpe:2.3:a:netapp:storagegrid:11.7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "3D010930-C7F9-4A64-976B-1EAFC894D76B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:netapp:storagegrid:11.7.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "0DA55F80-2F30-4404-9FE6-DFC85945231E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:netapp:storagegrid:11.7.0.4:*:*:*:*:*:*:*",
+			"cpeNameId": "279EF670-36B0-475E-9D0A-42EF4A0CFBEA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:netapp:storagegrid:11.7.0.5:*:*:*:*:*:*:*",
+			"cpeNameId": "4EB1F550-A59B-4C16-86AE-E874AD470B73"
+		},
+		{
+			"cpeName": "cpe:2.3:a:netapp:storagegrid:11.7.0.6:*:*:*:*:*:*:*",
+			"cpeNameId": "0A27EDB4-B934-4A72-90DF-AD835B4F9BB7"
 		}
 	]
 }

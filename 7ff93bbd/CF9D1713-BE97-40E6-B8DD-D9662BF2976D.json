@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:amd:zu29dr_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "CF9D1713-BE97-40E6-B8DD-D9662BF2976D",
 	"created": "2024-11-27T16:05:11.163",
-	"lastModified": "2024-11-27T16:05:11.163",
-	"cpeLastModified": "2024-11-27T16:05:11.163",
-	"status": "Active"
+	"lastModified": "2024-12-13T18:36:42.410",
+	"cpeLastModified": "2024-12-13T18:36:42.410",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:amd:zu29dr_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D29C5843-13D9-417C-BDC4-AD54CCC4988E"
+		}
+	]
 }

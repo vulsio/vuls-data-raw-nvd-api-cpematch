@@ -4,7 +4,7 @@
 	"versionEndExcluding": "comboam4v2pi_1.2.0.c",
 	"created": "2024-10-18T18:05:08.423",
 	"lastModified": "2024-10-18T18:05:08.423",
-	"cpeLastModified": "2024-10-18T18:05:08.423",
+	"cpeLastModified": "2024-12-13T18:36:42.410",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:o:amd:ryzen_3_5300ge_firmware:comboam4v2_1.2.0.b:*:*:*:*:*:*:*",
 			"cpeNameId": "40AD164C-28DC-49D8-86DC-A7D429A598D5"
+		},
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_3_5300ge_firmware:comboam4v2_pi_1.2.0.5:*:*:*:*:*:*:*",
+			"cpeNameId": "631C6341-B7CE-4D84-B323-1F4F00E9809E"
 		},
 		{
 			"cpeName": "cpe:2.3:o:amd:ryzen_3_5300ge_firmware:comboam4v2_pi_1.2.0.8:*:*:*:*:*:*:*",

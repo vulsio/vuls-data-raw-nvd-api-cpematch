@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:redhat:enterprise_linux_server_aus:9.4:*:*:*:*:*:*:*",
 	"matchCriteriaId": "39D345D3-108A-4551-A112-5EE51991411A",
 	"created": "2024-07-05T14:07:32.203",
-	"lastModified": "2024-07-05T14:07:32.203",
-	"cpeLastModified": "2024-07-05T14:07:32.203",
-	"status": "Active"
+	"lastModified": "2024-12-13T18:47:18.183",
+	"cpeLastModified": "2024-12-13T18:47:18.183",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:redhat:enterprise_linux_server_aus:9.4:*:*:*:*:*:*:*",
+			"cpeNameId": "EC7BE1D4-DC3B-4911-82A8-3613BE87D466"
+		}
+	]
 }

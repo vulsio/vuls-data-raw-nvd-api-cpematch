@@ -3,7 +3,7 @@
 	"matchCriteriaId": "03EF4360-8E24-4018-A0F2-9E39F7590670",
 	"created": "2022-05-23T16:45:56.380",
 	"lastModified": "2024-01-03T13:48:06.797",
-	"cpeLastModified": "2024-12-03T14:19:05.500",
+	"cpeLastModified": "2024-12-13T18:36:42.410",
 	"status": "Active",
 	"matches": [
 		{
@@ -1397,6 +1397,10 @@
 		{
 			"cpeName": "cpe:2.3:h:amd:radeon_rx_6700s:-:*:*:*:*:*:*:*",
 			"cpeNameId": "EC86ED87-964C-4B53-8ED2-1E7D3B4EA9A2"
+		},
+		{
+			"cpeName": "cpe:2.3:h:amd:radeon_rx_6750_gre:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E151DB99-8B7B-424B-818F-051838B71585"
 		},
 		{
 			"cpeName": "cpe:2.3:h:amd:radeon_rx_6750_gre_10gb:-:*:*:*:*:*:*:*",

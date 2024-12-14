@@ -4,12 +4,16 @@
 	"versionEndExcluding": "cezannepi-fp6_1.0.1.0",
 	"created": "2024-10-18T18:26:48.560",
 	"lastModified": "2024-10-18T18:26:48.560",
-	"cpeLastModified": "2024-10-18T18:26:48.560",
+	"cpeLastModified": "2024-12-13T18:36:42.410",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:o:amd:ryzen_3_5425u_firmware:-:*:*:*:*:*:*:*",
 			"cpeNameId": "371B025A-BA0E-4CD5-BF82-DF7E09ECD2E7"
+		},
+		{
+			"cpeName": "cpe:2.3:o:amd:ryzen_3_5425u_firmware:cezannepi-fp6_1.0.0.6:*:*:*:*:*:*:*",
+			"cpeNameId": "3C760C56-8AE6-41C5-9CCD-65591136F3BA"
 		},
 		{
 			"cpeName": "cpe:2.3:o:amd:ryzen_3_5425u_firmware:cezannepi-fp6_1.0.0.9:*:*:*:*:*:*:*",

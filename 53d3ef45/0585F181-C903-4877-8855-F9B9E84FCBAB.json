@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:advantech:adam-5630:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "0585F181-C903-4877-8855-F9B9E84FCBAB",
 	"created": "2024-10-03T17:27:39.413",
-	"lastModified": "2024-10-03T17:27:39.413",
-	"cpeLastModified": "2024-10-03T17:27:39.413",
-	"status": "Active"
+	"lastModified": "2024-12-13T18:49:07.163",
+	"cpeLastModified": "2024-12-13T18:49:07.163",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:advantech:adam-5630:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CB7ADA98-9552-43BC-982A-EFCD62F167B0"
+		}
+	]
 }

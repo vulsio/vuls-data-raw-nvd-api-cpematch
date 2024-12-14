@@ -3,10 +3,14 @@
 	"matchCriteriaId": "BEED9ACE-30D9-4684-B15C-FABCE120401F",
 	"versionEndExcluding": "3.0.1",
 	"created": "2024-11-06T17:18:03.043",
-	"lastModified": "2024-11-06T17:18:03.043",
-	"cpeLastModified": "2024-11-06T17:18:03.043",
+	"lastModified": "2024-12-13T20:11:45.963",
+	"cpeLastModified": "2024-12-13T20:11:45.963",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:agendaless:waitress:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5BB9B7CC-C427-46EB-8899-8A08BDB5D257"
+		},
 		{
 			"cpeName": "cpe:2.3:a:agendaless:waitress:0.1:*:*:*:*:*:*:*",
 			"cpeNameId": "35AE460F-166F-4327-A25E-6A8B1A37AC12"
@@ -170,6 +174,10 @@
 		{
 			"cpeName": "cpe:2.3:a:agendaless:waitress:2.1.2:*:*:*:*:*:*:*",
 			"cpeNameId": "7C0C36E8-3E9A-4D1E-80A0-0EB27F6FC67E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:agendaless:waitress:3.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D91734CB-7A37-4E30-9AB2-4498A1179E8B"
 		}
 	]
 }

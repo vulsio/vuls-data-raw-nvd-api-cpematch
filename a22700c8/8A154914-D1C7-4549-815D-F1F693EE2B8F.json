@@ -3,8 +3,8 @@
 	"matchCriteriaId": "8A154914-D1C7-4549-815D-F1F693EE2B8F",
 	"versionEndExcluding": "genoapi_1.0.0.c",
 	"created": "2024-11-26T15:01:35.750",
-	"lastModified": "2024-11-26T15:01:35.750",
-	"cpeLastModified": "2024-11-26T15:01:35.750",
+	"lastModified": "2024-12-13T18:41:27.067",
+	"cpeLastModified": "2024-12-13T18:41:27.067",
 	"status": "Active",
 	"matches": [
 		{
@@ -38,6 +38,10 @@
 		{
 			"cpeName": "cpe:2.3:o:amd:epyc_9334_firmware:genoapi_1.0.0.9:*:*:*:*:*:*:*",
 			"cpeNameId": "FA8A667D-B5BA-4E24-897D-528D1E159BCA"
+		},
+		{
+			"cpeName": "cpe:2.3:o:amd:epyc_9334_firmware:genoapi_1.0.0.b:*:*:*:*:*:*:*",
+			"cpeNameId": "0471DC70-A852-40AA-96C0-FDDE755E4547"
 		}
 	]
 }
