@@ -3,8 +3,8 @@
 	"matchCriteriaId": "9ECBECF4-D49F-4F6C-B48E-62F8CE0C1CC7",
 	"versionEndExcluding": "1.13.51",
 	"created": "2024-09-27T12:53:50.550",
-	"lastModified": "2024-09-27T12:53:50.550",
-	"cpeLastModified": "2024-09-27T12:53:50.550",
+	"lastModified": "2024-12-16T14:51:57.280",
+	"cpeLastModified": "2024-12-16T14:51:57.280",
 	"status": "Active",
 	"matches": [
 		{
@@ -354,6 +354,14 @@
 		{
 			"cpeName": "cpe:2.3:a:pickplugins:product_slider_for_woocommerce:1.13.48:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "F41711B1-4834-422A-BB3D-AFF55F0031F4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pickplugins:product_slider_for_woocommerce:1.13.49:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CD18290B-C04A-46F3-A3DD-A5F383ACF4EE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pickplugins:product_slider_for_woocommerce:1.13.50:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "17FADDCA-14C1-4664-A40A-CE78C46ADD6A"
 		}
 	]
 }

@@ -5,6 +5,12 @@
 	"versionEndExcluding": "9.0.0.10-28sv",
 	"created": "2024-08-14T10:48:18.163",
 	"lastModified": "2024-08-14T10:48:18.163",
-	"cpeLastModified": "2024-08-14T10:48:18.163",
-	"status": "Active"
+	"cpeLastModified": "2024-12-16T14:14:53.740",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:sonicwall:sra_1600_firmware:8.0.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "DB5AF996-29EC-43A4-8249-2988073C9365"
+		}
+	]
 }

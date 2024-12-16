@@ -4,9 +4,13 @@
 	"versionEndExcluding": "1.22.16",
 	"created": "2021-01-07T14:50:22.850",
 	"lastModified": "2021-01-07T14:50:22.850",
-	"cpeLastModified": "2021-07-23T14:19:55.277",
+	"cpeLastModified": "2024-12-16T14:52:50.063",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:pickplugins:team_showcase:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3392EB7E-6E92-4FBF-BD39-FF27033D7A65"
+		},
 		{
 			"cpeName": "cpe:2.3:a:pickplugins:team_showcase:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "868DD46F-CBCB-4D31-84E2-005F57A66972"

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "872A881A-22F6-47E0-99ED-A83D9F77DB02",
 	"versionEndIncluding": "18",
 	"created": "2024-10-15T16:00:56.980",
-	"lastModified": "2024-10-15T16:00:56.980",
-	"cpeLastModified": "2024-10-15T16:00:56.980",
+	"lastModified": "2024-12-16T15:22:59.320",
+	"cpeLastModified": "2024-12-16T15:22:59.320",
 	"status": "Active",
 	"matches": [
 		{
@@ -50,6 +50,10 @@
 		{
 			"cpeName": "cpe:2.3:a:siemens:simatic_wincc_runtime_professional:17:*:*:*:*:*:*:*",
 			"cpeNameId": "5D6CF6D4-9B67-4B35-B4EC-6610795B3BEA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:siemens:simatic_wincc_runtime_professional:18:*:*:*:*:*:*:*",
+			"cpeNameId": "910AEB5A-B3F9-4E25-A16D-81421CCA185D"
 		}
 	]
 }

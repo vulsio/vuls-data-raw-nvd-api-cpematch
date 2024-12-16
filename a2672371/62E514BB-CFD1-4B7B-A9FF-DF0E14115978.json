@@ -3,8 +3,8 @@
 	"matchCriteriaId": "62E514BB-CFD1-4B7B-A9FF-DF0E14115978",
 	"versionEndExcluding": "8.71",
 	"created": "2024-10-22T15:19:47.903",
-	"lastModified": "2024-10-22T15:19:47.903",
-	"cpeLastModified": "2024-10-22T15:19:47.903",
+	"lastModified": "2024-12-16T14:43:50.110",
+	"cpeLastModified": "2024-12-16T14:43:50.110",
 	"status": "Active",
 	"matches": [
 		{
@@ -346,6 +346,22 @@
 		{
 			"cpeName": "cpe:2.3:a:northernbeacheswebsites:ideapush:8.66:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "2ADC9303-E97B-4BA4-B279-7BC1D524B500"
+		},
+		{
+			"cpeName": "cpe:2.3:a:northernbeacheswebsites:ideapush:8.67:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7E1DD9C6-6C10-4E58-86C5-F96F7AF8216F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:northernbeacheswebsites:ideapush:8.68:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "ABD05B1A-D906-424D-BE68-CC79CB2A4E49"
+		},
+		{
+			"cpeName": "cpe:2.3:a:northernbeacheswebsites:ideapush:8.69:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4594595A-2F39-4D72-B774-C4F691C67E63"
+		},
+		{
+			"cpeName": "cpe:2.3:a:northernbeacheswebsites:ideapush:8.70:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5D2F072F-3819-46B7-8063-DCFB744FE456"
 		}
 	]
 }

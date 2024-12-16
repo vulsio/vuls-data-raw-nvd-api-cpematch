@@ -4,7 +4,7 @@
 	"versionEndIncluding": "7.0.1-5023-1349",
 	"created": "2022-01-18T21:15:17.113",
 	"lastModified": "2022-01-18T21:15:17.113",
-	"cpeLastModified": "2024-08-05T11:08:33.423",
+	"cpeLastModified": "2024-12-16T14:14:53.740",
 	"status": "Active",
 	"matches": [
 		{
@@ -70,6 +70,14 @@
 		{
 			"cpeName": "cpe:2.3:o:sonicwall:sonicos:5.9.1.13:*:*:*:*:*:*:*",
 			"cpeNameId": "03381DAE-B2E0-4C71-A08D-E52FBBA5C06B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:sonicwall:sonicos:5.9.2.14-12o:*:*:*:*:*:*:*",
+			"cpeNameId": "71E67B87-E341-4AE7-9AA4-8E525655A53A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:sonicwall:sonicos:5.9.2.14-13o:*:*:*:*:*:*:*",
+			"cpeNameId": "42E163B7-FE53-49AB-97CA-2C280248DB68"
 		},
 		{
 			"cpeName": "cpe:2.3:o:sonicwall:sonicos:6.0.0.0:*:*:*:*:*:*:*",
@@ -256,6 +264,10 @@
 			"cpeNameId": "E6E3D47C-8C81-4C75-9A01-3B5C458554F9"
 		},
 		{
+			"cpeName": "cpe:2.3:o:sonicwall:sonicos:6.5.2.8-2n:*:*:*:*:*:*:*",
+			"cpeNameId": "3E44DC57-33D8-473A-95B3-DCA585393D6E"
+		},
+		{
 			"cpeName": "cpe:2.3:o:sonicwall:sonicos:6.5.3.0:*:*:*:*:*:*:*",
 			"cpeNameId": "CB2B2613-FDF9-4EA5-B24D-082AC0E78825"
 		},
@@ -322,6 +334,18 @@
 		{
 			"cpeName": "cpe:2.3:o:sonicwall:sonicos:6.5.4.13-105n:*:*:*:*:*:*:*",
 			"cpeNameId": "06EBB13C-3879-4A35-B379-32A30BE047E8"
+		},
+		{
+			"cpeName": "cpe:2.3:o:sonicwall:sonicos:6.5.4.14-109n:*:*:*:*:*:*:*",
+			"cpeNameId": "ABA94AE2-A2B3-45AE-A97C-7E73F20BA304"
+		},
+		{
+			"cpeName": "cpe:2.3:o:sonicwall:sonicos:6.5.4.15.116n:*:*:*:*:*:*:*",
+			"cpeNameId": "BFC042B3-A7F2-410C-AB1D-C1FBC94E60F7"
+		},
+		{
+			"cpeName": "cpe:2.3:o:sonicwall:sonicos:6.5.4.v-21s-rc2457:*:*:*:*:*:*:*",
+			"cpeNameId": "40D276B6-6BCE-450F-9B85-60EEBDF430BF"
 		},
 		{
 			"cpeName": "cpe:2.3:o:sonicwall:sonicos:7.0.0.0:*:*:*:*:*:*:*",

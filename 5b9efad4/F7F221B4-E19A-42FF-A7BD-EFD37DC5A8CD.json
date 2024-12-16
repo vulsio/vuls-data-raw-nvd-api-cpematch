@@ -3,8 +3,8 @@
 	"matchCriteriaId": "F7F221B4-E19A-42FF-A7BD-EFD37DC5A8CD",
 	"versionEndExcluding": "1.8.1",
 	"created": "2024-10-24T17:22:34.137",
-	"lastModified": "2024-10-24T17:22:34.137",
-	"cpeLastModified": "2024-10-24T17:22:34.137",
+	"lastModified": "2024-12-16T15:09:26.360",
+	"cpeLastModified": "2024-12-16T15:09:26.360",
 	"status": "Active",
 	"matches": [
 		{
@@ -118,6 +118,30 @@
 		{
 			"cpeName": "cpe:2.3:a:qodeinteractive:qi_addons_for_elementor:1.7.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "3516085B-E343-4FDA-BA5B-5629618FB942"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qodeinteractive:qi_addons_for_elementor:1.7.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "388C9FA1-B7E0-488C-A4B8-ACC253D1877B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qodeinteractive:qi_addons_for_elementor:1.7.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "562DCCFA-7E16-4771-9A5C-9E28F256B717"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qodeinteractive:qi_addons_for_elementor:1.7.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1612FC0D-3E62-41E0-9FAD-C85156F15F8E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qodeinteractive:qi_addons_for_elementor:1.7.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D140BDFE-0115-46EF-94CB-C3DDD40C9C46"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qodeinteractive:qi_addons_for_elementor:1.7.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DF220963-A7E2-43A5-9472-999887B1ADDB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qodeinteractive:qi_addons_for_elementor:1.8.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0BAECCD4-65AC-44E6-B457-6448A832227D"
 		}
 	]
 }

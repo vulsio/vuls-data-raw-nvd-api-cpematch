@@ -4,9 +4,13 @@
 	"versionEndExcluding": "2.0.5",
 	"created": "2023-06-01T16:15:48.187",
 	"lastModified": "2023-06-01T16:15:48.187",
-	"cpeLastModified": "2023-06-01T16:15:48.187",
+	"cpeLastModified": "2024-12-16T14:28:19.057",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:metagauss:download_plugin:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B1AA04C5-B8FD-45FB-BD63-337DD377FAD0"
+		},
 		{
 			"cpeName": "cpe:2.3:a:metagauss:download_plugin:1.6.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "617A315B-B3A0-49FD-B139-084A61EB107D"

@@ -3,10 +3,14 @@
 	"matchCriteriaId": "21D66738-AC6C-48EF-BABC-129F4EFD5DDF",
 	"versionEndIncluding": "1.22.25",
 	"created": "2024-09-25T14:49:30.357",
-	"lastModified": "2024-09-25T14:49:30.357",
-	"cpeLastModified": "2024-09-25T14:49:30.357",
+	"lastModified": "2024-12-16T14:52:50.063",
+	"cpeLastModified": "2024-12-16T14:52:50.063",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:pickplugins:team_showcase:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3392EB7E-6E92-4FBF-BD39-FF27033D7A65"
+		},
 		{
 			"cpeName": "cpe:2.3:a:pickplugins:team_showcase:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "868DD46F-CBCB-4D31-84E2-005F57A66972"
@@ -194,6 +198,26 @@
 		{
 			"cpeName": "cpe:2.3:a:pickplugins:team_showcase:1.22.20:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "2545AB69-3C8B-49C7-BD20-B0DD61EA14D0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pickplugins:team_showcase:1.22.21:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "74E50F34-AF68-4251-9938-E0F572A0F74E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pickplugins:team_showcase:1.22.22:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A6A13D7B-1EBA-4150-8458-141826C8C75E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pickplugins:team_showcase:1.22.23:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2544A9D9-1AD3-4B65-8796-8D1145658C6B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pickplugins:team_showcase:1.22.24:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0FDB26F5-FD93-43E2-8E72-11C119ADC348"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pickplugins:team_showcase:1.22.25:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E3A963FA-37FE-4284-B7ED-42B94D0C1CCD"
 		}
 	]
 }

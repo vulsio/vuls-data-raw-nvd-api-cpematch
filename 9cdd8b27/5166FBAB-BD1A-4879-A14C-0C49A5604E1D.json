@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:silabs:gecko_os:1.0.46:*:*:*:*:*:*:*",
 	"matchCriteriaId": "5166FBAB-BD1A-4879-A14C-0C49A5604E1D",
 	"created": "2024-10-01T13:14:43.950",
-	"lastModified": "2024-10-01T13:14:43.950",
-	"cpeLastModified": "2024-10-01T13:14:43.950",
-	"status": "Active"
+	"lastModified": "2024-12-16T14:29:12.467",
+	"cpeLastModified": "2024-12-16T14:29:12.467",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:silabs:gecko_os:1.0.46:*:*:*:*:*:*:*",
+			"cpeNameId": "D9D3C6FD-906D-44BE-A0D5-606C6FF0FCA5"
+		}
+	]
 }

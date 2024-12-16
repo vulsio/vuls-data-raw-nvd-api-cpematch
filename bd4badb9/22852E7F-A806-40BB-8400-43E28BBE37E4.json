@@ -3,10 +3,14 @@
 	"matchCriteriaId": "22852E7F-A806-40BB-8400-43E28BBE37E4",
 	"versionEndExcluding": "2.2.1",
 	"created": "2024-10-24T16:57:21.153",
-	"lastModified": "2024-10-24T16:57:21.153",
-	"cpeLastModified": "2024-10-24T16:57:21.153",
+	"lastModified": "2024-12-16T14:28:19.057",
+	"cpeLastModified": "2024-12-16T14:28:19.057",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:metagauss:download_plugin:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B1AA04C5-B8FD-45FB-BD63-337DD377FAD0"
+		},
 		{
 			"cpeName": "cpe:2.3:a:metagauss:download_plugin:1.6.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "617A315B-B3A0-49FD-B139-084A61EB107D"
@@ -38,6 +42,30 @@
 		{
 			"cpeName": "cpe:2.3:a:metagauss:download_plugin:2.0.5:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "50DAAE32-8CA2-491D-B45D-68C5E153E902"
+		},
+		{
+			"cpeName": "cpe:2.3:a:metagauss:download_plugin:2.0.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8413697C-843F-4E75-AED7-5B339F0C97BC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:metagauss:download_plugin:2.0.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F4C05FA7-A0A8-4B67-B92C-7EE952A72EB8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:metagauss:download_plugin:2.0.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F5DED052-8722-4166-AF65-1219B508FE65"
+		},
+		{
+			"cpeName": "cpe:2.3:a:metagauss:download_plugin:2.0.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6F212338-2B64-4C6B-954F-3732A111B92D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:metagauss:download_plugin:2.1.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CEEE5C8F-8D1D-41CE-B694-A6B04E133BF4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:metagauss:download_plugin:2.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3246C12A-BFA7-4834-9974-E2E4FB7FA131"
 		}
 	]
 }

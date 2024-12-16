@@ -3,8 +3,8 @@
 	"matchCriteriaId": "D48A31D7-5066-405F-8F27-C52613E36306",
 	"versionEndExcluding": "10.2.1.11-65sv",
 	"created": "2024-12-04T18:32:01.650",
-	"lastModified": "2024-12-04T18:32:01.650",
-	"cpeLastModified": "2024-12-04T18:32:01.650",
+	"lastModified": "2024-12-16T14:14:53.740",
+	"cpeLastModified": "2024-12-16T14:14:53.740",
 	"status": "Active",
 	"matches": [
 		{
@@ -66,6 +66,10 @@
 		{
 			"cpeName": "cpe:2.3:o:sonicwall:sma_410_firmware:10.2.1.9-57sv:*:*:*:*:*:*:*",
 			"cpeNameId": "267B4612-007D-4013-964C-B09863626018"
+		},
+		{
+			"cpeName": "cpe:2.3:o:sonicwall:sma_410_firmware:10.2.1.10-62sv:*:*:*:*:*:*:*",
+			"cpeNameId": "7F7AD26F-D934-42C5-80A0-70E70D722A2B"
 		}
 	]
 }

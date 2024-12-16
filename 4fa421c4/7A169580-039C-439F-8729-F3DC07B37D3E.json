@@ -4,9 +4,13 @@
 	"versionEndExcluding": "1.3.7",
 	"created": "2024-01-23T17:18:06.670",
 	"lastModified": "2024-01-23T17:18:06.670",
-	"cpeLastModified": "2024-01-23T17:18:06.670",
+	"cpeLastModified": "2024-12-16T15:02:20.603",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:pluginus:fox_-_currency_switcher_professional_for_woocommerce:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "718E9075-049F-4F32-9380-F757FCFA1D29"
+		},
 		{
 			"cpeName": "cpe:2.3:a:pluginus:fox_-_currency_switcher_professional_for_woocommerce:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "25A7DA3C-525A-4BA0-A838-AAFDE834AEAD"

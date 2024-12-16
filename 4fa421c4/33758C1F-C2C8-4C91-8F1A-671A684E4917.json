@@ -3,10 +3,14 @@
 	"matchCriteriaId": "33758C1F-C2C8-4C91-8F1A-671A684E4917",
 	"versionEndExcluding": "1.4.2.2",
 	"created": "2024-09-27T11:42:06.483",
-	"lastModified": "2024-09-27T11:42:06.483",
-	"cpeLastModified": "2024-09-27T11:42:06.483",
+	"lastModified": "2024-12-16T15:02:20.603",
+	"cpeLastModified": "2024-12-16T15:02:20.603",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:pluginus:fox_-_currency_switcher_professional_for_woocommerce:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "718E9075-049F-4F32-9380-F757FCFA1D29"
+		},
 		{
 			"cpeName": "cpe:2.3:a:pluginus:fox_-_currency_switcher_professional_for_woocommerce:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "25A7DA3C-525A-4BA0-A838-AAFDE834AEAD"
@@ -274,6 +278,26 @@
 		{
 			"cpeName": "cpe:2.3:a:pluginus:fox_-_currency_switcher_professional_for_woocommerce:1.4.1.6:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "426B37E8-24DE-4BEE-8B0C-D18400990335"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pluginus:fox_-_currency_switcher_professional_for_woocommerce:1.4.1.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E1787436-CF3B-4AAD-BD1C-4A6A26AD28C3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pluginus:fox_-_currency_switcher_professional_for_woocommerce:1.4.1.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9AA6D778-BF95-4457-BFB9-8E7E71DDF8FA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pluginus:fox_-_currency_switcher_professional_for_woocommerce:1.4.1.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E1143948-0AEA-41D1-A489-E0B9B8FC622A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pluginus:fox_-_currency_switcher_professional_for_woocommerce:1.4.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8C3F685A-1D4E-4CA9-ABEF-74EFC766186C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:pluginus:fox_-_currency_switcher_professional_for_woocommerce:1.4.2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "210BCAED-2AA3-4A73-A23D-7EFD61BB0014"
 		}
 	]
 }
