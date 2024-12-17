@@ -4,9 +4,17 @@
 	"versionEndIncluding": "c3414-500-s02k5_p8",
 	"created": "2024-08-14T14:08:14.320",
 	"lastModified": "2024-09-04T20:37:40.453",
-	"cpeLastModified": "2024-09-04T20:37:40.453",
+	"cpeLastModified": "2024-12-17T16:17:20.050",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:schneider-electric:sage_rtu_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "96F17A76-1042-4145-8664-776752717AF3"
+		},
+		{
+			"cpeName": "cpe:2.3:o:schneider-electric:sage_rtu_firmware:c3413-500-001f0_pb:*:*:*:*:*:*:*",
+			"cpeNameId": "73B6E714-BCCD-4D8A-9172-BF1E8CC34441"
+		},
 		{
 			"cpeName": "cpe:2.3:o:schneider-electric:sage_rtu_firmware:c3413-500-001f0_pc:*:*:*:*:*:*:*",
 			"cpeNameId": "0A86AD55-A516-4486-BEE1-D119218214B7"

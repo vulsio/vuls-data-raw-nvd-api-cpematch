@@ -5,7 +5,7 @@
 	"versionEndIncluding": "2.8",
 	"created": "2024-11-27T20:03:20.203",
 	"lastModified": "2024-11-27T20:03:20.203",
-	"cpeLastModified": "2024-11-27T20:03:20.203",
+	"cpeLastModified": "2024-12-17T13:59:55.807",
 	"status": "Active",
 	"matches": [
 		{
@@ -141,8 +141,48 @@
 			"cpeNameId": "C4A0E502-6C79-4753-B039-8D300349440D"
 		},
 		{
+			"cpeName": "cpe:2.3:o:arm:trusted_firmware-a:2.5:-:*:*:-:*:*:*",
+			"cpeNameId": "4C58B087-C3A7-4E0A-87FE-3C46726F591E"
+		},
+		{
+			"cpeName": "cpe:2.3:o:arm:trusted_firmware-a:2.5:rc0:*:*:-:*:*:*",
+			"cpeNameId": "BCDD5FD2-9361-4290-B502-0EB3A9BE6A32"
+		},
+		{
+			"cpeName": "cpe:2.3:o:arm:trusted_firmware-a:2.5:rc1:*:*:-:*:*:*",
+			"cpeNameId": "77471677-8047-4140-8BF2-27BBFB2BAEED"
+		},
+		{
+			"cpeName": "cpe:2.3:o:arm:trusted_firmware-a:2.6:-:*:*:-:*:*:*",
+			"cpeNameId": "949EFF1D-57DC-42E4-B92E-1728628A7212"
+		},
+		{
+			"cpeName": "cpe:2.3:o:arm:trusted_firmware-a:2.6:rc0:*:*:-:*:*:*",
+			"cpeNameId": "8CD70F0B-9C54-4895-B18A-A25204D0646F"
+		},
+		{
+			"cpeName": "cpe:2.3:o:arm:trusted_firmware-a:2.6:rc1:*:*:-:*:*:*",
+			"cpeNameId": "895E54A8-3407-468D-B3F5-FAB9C94EEA43"
+		},
+		{
+			"cpeName": "cpe:2.3:o:arm:trusted_firmware-a:2.7:-:*:*:-:*:*:*",
+			"cpeNameId": "37432220-055A-4975-BA73-B62A60814E5B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:arm:trusted_firmware-a:2.7:rc0:*:*:-:*:*:*",
+			"cpeNameId": "AF837698-BC7E-483B-B8F3-E49A34AFD847"
+		},
+		{
+			"cpeName": "cpe:2.3:o:arm:trusted_firmware-a:2.7:rc1:*:*:-:*:*:*",
+			"cpeNameId": "F7C80456-6DCA-4161-ACA0-E5D4571308D0"
+		},
+		{
 			"cpeName": "cpe:2.3:o:arm:trusted_firmware-a:2.8:-:*:*:-:*:*:*",
 			"cpeNameId": "AAAB98A7-63C3-4CBF-9BEC-2E901914700A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:arm:trusted_firmware-a:2.8:rc0:*:*:-:*:*:*",
+			"cpeNameId": "446BA387-2B0D-4B6C-BA9F-7A7FD961CD46"
 		}
 	]
 }

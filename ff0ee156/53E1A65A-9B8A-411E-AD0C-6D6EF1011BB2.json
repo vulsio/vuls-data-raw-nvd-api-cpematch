@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.23.0",
 	"created": "2024-07-03T12:49:03.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
+	"cpeLastModified": "2024-12-17T16:22:54.960",
 	"status": "Active",
 	"matches": [
 		{
@@ -22,6 +22,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:g15_5520_firmware:1.18.0:*:*:*:*:*:*:*",
 			"cpeNameId": "79BBC2CF-057A-466F-BE0A-C0F485583165"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:g15_5520_firmware:1.22.0:*:*:*:*:*:*:*",
+			"cpeNameId": "DA923CD6-FD2E-4975-A826-49F44BB271FB"
 		}
 	]
 }

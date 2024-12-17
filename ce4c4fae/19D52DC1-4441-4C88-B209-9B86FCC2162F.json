@@ -4,8 +4,8 @@
 	"versionStartIncluding": "10.1.0",
 	"versionEndExcluding": "10.1.14",
 	"created": "2024-11-19T12:26:47.847",
-	"lastModified": "2024-11-19T12:26:47.847",
-	"cpeLastModified": "2024-11-19T12:26:47.847",
+	"lastModified": "2024-12-17T15:35:08.717",
+	"cpeLastModified": "2024-12-17T15:35:08.717",
 	"status": "Active",
 	"matches": [
 		{
@@ -45,8 +45,16 @@
 			"cpeNameId": "8A1F0913-5A95-42EA-B2A0-118AFD4D8EC4"
 		},
 		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:10.1.10:-:*:*:*:*:*:*",
+			"cpeNameId": "33942D7E-0199-4EBC-AFA8-C4882020F991"
+		},
+		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:10.1.11:*:*:*:*:*:*:*",
 			"cpeNameId": "D5E626CB-4955-4AE7-989B-EA4DD018791A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:10.1.11:-:*:*:*:*:*:*",
+			"cpeNameId": "ED2E64A6-2A1D-4E7A-8A50-4CA91CBDEFE8"
 		}
 	]
 }

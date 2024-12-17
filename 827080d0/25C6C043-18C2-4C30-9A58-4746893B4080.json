@@ -4,9 +4,13 @@
 	"versionEndIncluding": "15.10.00",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2019-11-04T19:39:44.113",
+	"cpeLastModified": "2024-12-17T15:56:11.587",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:rockwellautomation:arena:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2618AB2A-BA49-4400-B279-193B0E4CF508"
+		},
 		{
 			"cpeName": "cpe:2.3:a:rockwellautomation:arena:2.00.00:*:*:*:*:*:*:*",
 			"cpeNameId": "0564A130-5F4D-4774-8FF7-C4CC55958BC5"

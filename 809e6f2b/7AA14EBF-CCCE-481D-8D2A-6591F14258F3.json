@@ -3,8 +3,8 @@
 	"matchCriteriaId": "7AA14EBF-CCCE-481D-8D2A-6591F14258F3",
 	"versionEndIncluding": "8.0.37",
 	"created": "2024-07-18T11:26:40.977",
-	"lastModified": "2024-07-18T11:26:40.977",
-	"cpeLastModified": "2024-07-18T11:26:40.977",
+	"lastModified": "2024-12-17T13:51:25.753",
+	"cpeLastModified": "2024-12-17T13:51:25.753",
 	"status": "Active",
 	"matches": [
 		{
@@ -124,8 +124,20 @@
 			"cpeNameId": "5BC1BF5A-2C4C-4A5A-875D-057D905F7FA3"
 		},
 		{
+			"cpeName": "cpe:2.3:a:oracle:mysql_server:8.0.34:*:*:*:*:*:*:*",
+			"cpeNameId": "6306D64A-4A78-4F54-8AC7-92DCE0FD4249"
+		},
+		{
 			"cpeName": "cpe:2.3:a:oracle:mysql_server:8.0.35:*:*:*:*:*:*:*",
 			"cpeNameId": "0776D560-F506-4E77-9D7C-9D85E770C94F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:mysql_server:8.0.36:*:*:*:*:*:*:*",
+			"cpeNameId": "D2EEEACF-FEF7-41C3-9AD9-81F4D99B6003"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:mysql_server:8.0.37:*:*:*:*:*:*:*",
+			"cpeNameId": "A46533DD-0C4A-4BB7-86EC-90B3CEDFACF6"
 		}
 	]
 }

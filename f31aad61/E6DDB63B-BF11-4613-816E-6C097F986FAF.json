@@ -3,8 +3,8 @@
 	"matchCriteriaId": "E6DDB63B-BF11-4613-816E-6C097F986FAF",
 	"versionEndExcluding": "1.30.0",
 	"created": "2024-09-17T19:43:52.270",
-	"lastModified": "2024-09-17T19:43:52.270",
-	"cpeLastModified": "2024-09-17T19:43:52.270",
+	"lastModified": "2024-12-17T16:22:54.960",
+	"cpeLastModified": "2024-12-17T16:22:54.960",
 	"status": "Active",
 	"matches": [
 		{
@@ -22,6 +22,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:g3_3500_firmware:1.26.0:*:*:*:*:*:*:*",
 			"cpeNameId": "52411477-FEF0-4817-999B-85FD6317CE85"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:g3_3500_firmware:1.28.0:*:*:*:*:*:*:*",
+			"cpeNameId": "0D160344-BE29-45FA-BE95-93B8AF60C7E2"
 		},
 		{
 			"cpeName": "cpe:2.3:o:dell:g3_3500_firmware:1.29.0:*:*:*:*:*:*:*",

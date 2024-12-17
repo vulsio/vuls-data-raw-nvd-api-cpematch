@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.31.0",
 	"created": "2024-07-03T12:49:03.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
+	"cpeLastModified": "2024-12-17T16:22:54.960",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:g7_7500_firmware:1.11.1:*:*:*:*:*:*:*",
 			"cpeNameId": "399496EE-45A6-4874-A177-EB907CDA805C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:g7_7500_firmware:1.30.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5B44028E-51E5-43BC-8336-3455E98368B1"
 		}
 	]
 }

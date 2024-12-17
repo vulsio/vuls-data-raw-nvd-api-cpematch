@@ -4,7 +4,7 @@
 	"versionEndExcluding": "18.0.1",
 	"created": "2024-10-04T17:05:18.820",
 	"lastModified": "2024-12-12T14:27:44.640",
-	"cpeLastModified": "2024-12-12T14:32:58.757",
+	"cpeLastModified": "2024-12-17T13:44:36.427",
 	"status": "Active",
 	"matches": [
 		{
@@ -342,6 +342,10 @@
 		{
 			"cpeName": "cpe:2.3:o:apple:ipados:17.7.1:*:*:*:*:*:*:*",
 			"cpeNameId": "9F3DD8B7-3B0C-4418-A1EB-38CFDBCB9F87"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:ipados:17.7.3:*:*:*:*:*:*:*",
+			"cpeNameId": "E883FD8D-732F-41AA-B7F3-B030CCC6A523"
 		},
 		{
 			"cpeName": "cpe:2.3:o:apple:ipados:18.0:*:*:*:*:*:*:*",

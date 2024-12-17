@@ -5,6 +5,12 @@
 	"versionEndExcluding": "4.2.2",
 	"created": "2024-11-12T13:48:47.790",
 	"lastModified": "2024-11-12T13:48:47.790",
-	"cpeLastModified": "2024-11-12T13:48:47.790",
-	"status": "Active"
+	"cpeLastModified": "2024-12-17T16:22:54.960",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:enterprise_sonic_distribution:4.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "883749FB-17A6-42D5-A934-3689E73C2A33"
+		}
+	]
 }

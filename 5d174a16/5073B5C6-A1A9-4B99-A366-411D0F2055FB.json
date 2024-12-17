@@ -5,7 +5,7 @@
 	"versionEndIncluding": "11.0",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2023-12-29T10:15:30.570",
-	"cpeLastModified": "2023-12-29T10:15:30.570",
+	"cpeLastModified": "2024-12-17T16:15:17.577",
 	"status": "Active",
 	"matches": [
 		{
@@ -139,6 +139,10 @@
 		{
 			"cpeName": "cpe:2.3:a:progress:sitefinity:10.0:*:*:*:*:*:*:*",
 			"cpeNameId": "29EF1BFB-068F-48E3-A63F-702AD2BC9852"
+		},
+		{
+			"cpeName": "cpe:2.3:a:progress:sitefinity:10.0.6412.0:*:*:*:*:*:*:*",
+			"cpeNameId": "600B121D-C984-428D-AE73-A39BF6E094CD"
 		},
 		{
 			"cpeName": "cpe:2.3:a:progress:sitefinity:10.0.6429:*:*:*:*:*:*:*",

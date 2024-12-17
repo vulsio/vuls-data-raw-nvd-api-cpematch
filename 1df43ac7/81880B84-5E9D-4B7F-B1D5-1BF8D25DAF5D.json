@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:servicenow:servicenow:vancouver:patch_5:*:*:*:*:*:*",
 	"matchCriteriaId": "81880B84-5E9D-4B7F-B1D5-1BF8D25DAF5D",
 	"created": "2024-07-30T10:30:22.937",
-	"lastModified": "2024-07-30T10:30:22.937",
-	"cpeLastModified": "2024-07-30T10:30:22.937",
-	"status": "Active"
+	"lastModified": "2024-12-17T13:58:10.210",
+	"cpeLastModified": "2024-12-17T13:58:10.210",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:servicenow:servicenow:vancouver:patch_5:*:*:*:*:*:*",
+			"cpeNameId": "61D26543-2F33-48A8-9387-66FFC9B67008"
+		}
+	]
 }

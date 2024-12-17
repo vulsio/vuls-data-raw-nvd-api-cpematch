@@ -4,7 +4,7 @@
 	"versionEndExcluding": "17.4",
 	"created": "2024-03-07T14:17:27.153",
 	"lastModified": "2024-09-13T17:56:06.883",
-	"cpeLastModified": "2024-09-13T17:56:06.883",
+	"cpeLastModified": "2024-12-17T13:44:36.427",
 	"status": "Active",
 	"matches": [
 		{
@@ -976,6 +976,10 @@
 			"cpeNameId": "8D3BA77D-868D-4472-8E97-CF1E70AEBCFE"
 		},
 		{
+			"cpeName": "cpe:2.3:o:apple:iphone_os:15.7.7:*:*:*:*:*:*:*",
+			"cpeNameId": "6DB88CE1-507A-4EC9-9118-0C156FDDC1A5"
+		},
+		{
 			"cpeName": "cpe:2.3:o:apple:iphone_os:15.7.8:*:*:*:*:*:*:*",
 			"cpeNameId": "0F3B539C-DB15-407F-888D-71D9FC96E8AA"
 		},
@@ -1036,6 +1040,10 @@
 			"cpeNameId": "79C7EC82-4351-490F-BC26-ADC980FB7155"
 		},
 		{
+			"cpeName": "cpe:2.3:o:apple:iphone_os:16.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "9C4E90AA-A35D-4E8B-8FCE-A93BA56DE1C0"
+		},
+		{
 			"cpeName": "cpe:2.3:o:apple:iphone_os:16.6:*:*:*:*:*:*:*",
 			"cpeNameId": "5EA8F02D-C109-484A-AF2F-6540D34AC730"
 		},
@@ -1044,12 +1052,20 @@
 			"cpeNameId": "5D0625E1-0009-47CB-B65B-C524BEC3C8FE"
 		},
 		{
+			"cpeName": "cpe:2.3:o:apple:iphone_os:16.7.2:*:*:*:*:*:*:*",
+			"cpeNameId": "2677F0A7-036E-497E-9BE2-4C5756FCEE63"
+		},
+		{
 			"cpeName": "cpe:2.3:o:apple:iphone_os:16.7.3:*:*:*:*:*:*:*",
 			"cpeNameId": "C124D674-0B70-4FED-BF73-D7D0967E73EF"
 		},
 		{
 			"cpeName": "cpe:2.3:o:apple:iphone_os:16.7.5:*:*:*:*:*:*:*",
 			"cpeNameId": "8FB2500E-B127-4859-9E8A-E7BE6D1EA6A4"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:iphone_os:16.7.6:*:*:*:*:*:*:*",
+			"cpeNameId": "2EFD5AA3-F09E-4528-8352-6D750FDC49ED"
 		},
 		{
 			"cpeName": "cpe:2.3:o:apple:iphone_os:16.7.8:*:*:*:*:*:*:*",

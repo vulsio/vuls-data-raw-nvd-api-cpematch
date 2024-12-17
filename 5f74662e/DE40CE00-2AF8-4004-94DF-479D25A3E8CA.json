@@ -4,7 +4,7 @@
 	"versionEndIncluding": "2.05.b10",
 	"created": "2019-09-16T18:38:32.930",
 	"lastModified": "2019-09-16T18:38:32.930",
-	"cpeLastModified": "2020-02-28T18:09:08.893",
+	"cpeLastModified": "2024-12-17T15:02:29.170",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dlink:dns-320_firmware:2.02:*:*:*:*:*:*:*",
 			"cpeNameId": "E9CF5982-F172-4044-AFA3-BA2DBC29E8B3"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dlink:dns-320_firmware:2.02b01:*:*:*:*:*:*:*",
+			"cpeNameId": "20BAB350-5FD2-4CCB-A4B4-4832A7D41B8B"
 		},
 		{
 			"cpeName": "cpe:2.3:o:dlink:dns-320_firmware:2.03:*:*:*:*:*:*:*",

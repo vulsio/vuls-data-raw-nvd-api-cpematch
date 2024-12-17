@@ -5,6 +5,16 @@
 	"versionEndIncluding": "8.4.2",
 	"created": "2024-10-16T17:59:24.203",
 	"lastModified": "2024-10-16T17:59:24.203",
-	"cpeLastModified": "2024-10-16T17:59:24.203",
-	"status": "Active"
+	"cpeLastModified": "2024-12-17T13:51:25.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:mysql:8.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "1447A225-AA93-4637-9204-8571EF4DE28B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:mysql:8.4.2:*:*:*:*:*:*:*",
+			"cpeNameId": "5F5817C4-1380-4E83-9141-8AAB79CC772B"
+		}
+	]
 }

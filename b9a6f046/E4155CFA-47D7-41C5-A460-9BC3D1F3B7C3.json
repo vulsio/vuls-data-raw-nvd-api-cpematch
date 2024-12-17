@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.19.0",
 	"created": "2024-07-03T12:49:03.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
+	"cpeLastModified": "2024-12-17T16:22:54.960",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:g5_5000_firmware:1.4.0:*:*:*:*:*:*:*",
 			"cpeNameId": "94146B27-8C1C-45C1-887B-EFC217D153CF"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:g5_5000_firmware:1.17.0:*:*:*:*:*:*:*",
+			"cpeNameId": "75747998-75D5-4D38-AE31-F698600E7495"
 		}
 	]
 }

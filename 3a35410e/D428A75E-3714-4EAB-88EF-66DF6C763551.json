@@ -4,7 +4,7 @@
 	"versionEndExcluding": "15.2",
 	"created": "2021-12-27T15:12:52.313",
 	"lastModified": "2021-12-27T15:12:52.313",
-	"cpeLastModified": "2024-07-03T12:24:00.607",
+	"cpeLastModified": "2024-12-17T13:44:36.427",
 	"status": "Active",
 	"matches": [
 		{
@@ -276,6 +276,10 @@
 			"cpeNameId": "589F81AD-7A81-4B48-AF9D-DF86E31FFAC4"
 		},
 		{
+			"cpeName": "cpe:2.3:o:apple:watchos:8.8.1:*:*:*:*:*:*:*",
+			"cpeNameId": "807A1011-A70A-48D1-9D6D-AD519FFDE333"
+		},
+		{
 			"cpeName": "cpe:2.3:o:apple:watchos:9.0:*:*:*:*:*:*:*",
 			"cpeNameId": "950830B9-1FFE-48F5-BBA6-8097B5F7A84E"
 		},
@@ -298,6 +302,10 @@
 		{
 			"cpeName": "cpe:2.3:o:apple:watchos:9.5:*:*:*:*:*:*:*",
 			"cpeNameId": "1E4E3309-5FFD-4044-A1F9-B83F77230AFC"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:watchos:9.5.2:*:*:*:*:*:*:*",
+			"cpeNameId": "1DD906AD-1A38-409A-B30E-DD93062F919B"
 		},
 		{
 			"cpeName": "cpe:2.3:o:apple:watchos:9.6:*:*:*:*:*:*:*",
@@ -350,6 +358,18 @@
 		{
 			"cpeName": "cpe:2.3:o:apple:watchos:10.5:*:*:*:*:*:*:*",
 			"cpeNameId": "B33F598B-13C0-43FF-90A4-C5E394BDFECE"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:watchos:10.6:*:*:*:*:*:*:*",
+			"cpeNameId": "4FC0E7C7-00A3-461A-BAAC-C8F5495B9F19"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:watchos:11.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A7544F38-8D1A-4E43-8A0F-6F24EE9AA0D4"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:watchos:11.2:*:*:*:*:*:*:*",
+			"cpeNameId": "B24A537B-6EBF-4393-9A40-AEEF55F86D35"
 		}
 	]
 }

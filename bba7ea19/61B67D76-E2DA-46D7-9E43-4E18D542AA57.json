@@ -3,8 +3,8 @@
 	"matchCriteriaId": "61B67D76-E2DA-46D7-9E43-4E18D542AA57",
 	"versionEndExcluding": "18.2",
 	"created": "2024-12-12T17:06:41.107",
-	"lastModified": "2024-12-13T18:10:51.683",
-	"cpeLastModified": "2024-12-12T17:06:41.107",
+	"lastModified": "2024-12-17T13:44:36.427",
+	"cpeLastModified": "2024-12-17T13:44:36.427",
 	"status": "Active",
 	"matches": [
 		{
@@ -342,6 +342,10 @@
 		{
 			"cpeName": "cpe:2.3:o:apple:ipados:17.7.1:*:*:*:*:*:*:*",
 			"cpeNameId": "9F3DD8B7-3B0C-4418-A1EB-38CFDBCB9F87"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:ipados:17.7.3:*:*:*:*:*:*:*",
+			"cpeNameId": "E883FD8D-732F-41AA-B7F3-B030CCC6A523"
 		},
 		{
 			"cpeName": "cpe:2.3:o:apple:ipados:18.0:*:*:*:*:*:*:*",

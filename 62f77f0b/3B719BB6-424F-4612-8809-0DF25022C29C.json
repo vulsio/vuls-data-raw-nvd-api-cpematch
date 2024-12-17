@@ -3,8 +3,8 @@
 	"matchCriteriaId": "3B719BB6-424F-4612-8809-0DF25022C29C",
 	"versionEndExcluding": "18.2",
 	"created": "2024-12-12T17:06:41.107",
-	"lastModified": "2024-12-13T18:42:52.320",
-	"cpeLastModified": "2024-12-12T17:06:41.107",
+	"lastModified": "2024-12-17T13:44:36.427",
+	"cpeLastModified": "2024-12-17T13:44:36.427",
 	"status": "Active",
 	"matches": [
 		{
@@ -428,12 +428,32 @@
 			"cpeNameId": "FB1714CC-BF14-4B78-B763-F1EEC925BF6D"
 		},
 		{
+			"cpeName": "cpe:2.3:o:apple:tvos:17.1:*:*:*:*:*:*:*",
+			"cpeNameId": "BA95004A-378A-449C-A3C0-18149B3B6295"
+		},
+		{
 			"cpeName": "cpe:2.3:o:apple:tvos:17.2:*:*:*:*:*:*:*",
 			"cpeNameId": "9A49D3AB-B413-40CD-9D94-B0C09375F4B3"
 		},
 		{
 			"cpeName": "cpe:2.3:o:apple:tvos:17.3:*:*:*:*:*:*:*",
 			"cpeNameId": "29A6C6DB-E8DE-4729-9F00-93A6979D3525"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:tvos:17.4:*:*:*:*:*:*:*",
+			"cpeNameId": "B2E3EBB2-9A2A-43E3-B9DE-305C07BC08BC"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:tvos:17.5:*:*:*:*:*:*:*",
+			"cpeNameId": "07AD0343-6728-43A7-A9A7-4A77492A67A8"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:tvos:17.6:*:*:*:*:*:*:*",
+			"cpeNameId": "7ECEF496-7463-4C56-A4F9-6CE742977B37"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:tvos:18.0:*:*:*:*:*:*:*",
+			"cpeNameId": "61509869-735F-4E30-B562-6EFF79934874"
 		}
 	]
 }

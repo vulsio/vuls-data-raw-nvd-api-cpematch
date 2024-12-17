@@ -5,7 +5,7 @@
 	"versionEndExcluding": "9.0.2",
 	"created": "2019-07-17T11:26:57.993",
 	"lastModified": "2019-07-17T11:26:57.993",
-	"cpeLastModified": "2023-12-29T10:10:56.433",
+	"cpeLastModified": "2024-12-17T15:35:08.717",
 	"status": "Active",
 	"matches": [
 		{
@@ -115,6 +115,10 @@
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.24:*:*:*:*:*:*:*",
 			"cpeNameId": "CB1DB26B-9922-42B3-B06F-5DD4A2C034B9"
+		},
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.24:-:*:*:*:*:*:*",
+			"cpeNameId": "829EC610-37E4-4D75-BEA5-A68B6A806CE7"
 		},
 		{
 			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.25:*:*:*:*:*:*:*",

@@ -3,10 +3,14 @@
 	"matchCriteriaId": "619C7451-B210-48E9-B265-4DCCCF753917",
 	"versionEndIncluding": "14.1.2",
 	"created": "2021-12-07T01:36:46.147",
-	"lastModified": "2021-12-07T01:36:46.147",
-	"cpeLastModified": "2021-12-07T14:05:28.393",
+	"lastModified": "2024-12-17T16:40:05.523",
+	"cpeLastModified": "2024-12-17T16:40:35.357",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:veritas:enterprise_vault:-:*:*:*:*:*:*:*",
+			"cpeNameId": "10E072BD-073D-4866-A24F-C2D4E3083D74"
+		},
 		{
 			"cpeName": "cpe:2.3:a:veritas:enterprise_vault:12.0:*:*:*:*:*:*:*",
 			"cpeNameId": "FAD90B7E-A549-44A1-90CF-15AAEAF7E457"
@@ -98,6 +102,22 @@
 		{
 			"cpeName": "cpe:2.3:a:veritas:enterprise_vault:14.0:*:*:*:*:*:*:*",
 			"cpeNameId": "56AE7979-CB0C-46D4-80EC-F67CB51D3910"
+		},
+		{
+			"cpeName": "cpe:2.3:a:veritas:enterprise_vault:14.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "42BC6B3C-9FDF-41EA-AEC9-4161E365470B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:veritas:enterprise_vault:14.1:*:*:*:*:*:*:*",
+			"cpeNameId": "1DFF75CC-E195-45E1-AF94-0EB83D55FCC4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:veritas:enterprise_vault:14.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "7D161CB6-14BA-41DE-B2D1-DC6B614D60A9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:veritas:enterprise_vault:14.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "D3F585CB-F4A1-4BB1-9B69-0802BBFD4893"
 		}
 	]
 }

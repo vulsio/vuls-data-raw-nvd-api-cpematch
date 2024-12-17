@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:oracle:graalvm:20.3.14:*:*:*:enterprise:*:*:*",
 	"matchCriteriaId": "AA5074F2-F35B-499E-A181-E272449B044D",
 	"created": "2024-08-26T20:58:30.423",
-	"lastModified": "2024-08-26T20:58:30.423",
-	"cpeLastModified": "2024-08-26T20:58:30.423",
-	"status": "Active"
+	"lastModified": "2024-12-17T13:51:25.753",
+	"cpeLastModified": "2024-12-17T13:51:25.753",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:graalvm:20.3.14:*:*:*:enterprise:*:*:*",
+			"cpeNameId": "28F7CD0E-6F2E-495E-9539-4862EFEE06CF"
+		}
+	]
 }

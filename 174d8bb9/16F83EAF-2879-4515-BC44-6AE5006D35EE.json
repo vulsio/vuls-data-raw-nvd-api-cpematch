@@ -3,8 +3,8 @@
 	"matchCriteriaId": "16F83EAF-2879-4515-BC44-6AE5006D35EE",
 	"versionEndExcluding": "2.2",
 	"created": "2024-12-12T17:06:41.107",
-	"lastModified": "2024-12-13T18:09:18.143",
-	"cpeLastModified": "2024-12-12T17:06:41.107",
+	"lastModified": "2024-12-17T13:44:36.427",
+	"cpeLastModified": "2024-12-17T13:44:36.427",
 	"status": "Active",
 	"matches": [
 		{
@@ -38,6 +38,14 @@
 		{
 			"cpeName": "cpe:2.3:o:apple:visionos:2.0:beta:*:*:*:*:*:*",
 			"cpeNameId": "9BDAC270-997D-48E2-B96C-6EF49C020B31"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:visionos:2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "09434613-1F9F-4C5F-A990-16A8FEE622AD"
+		},
+		{
+			"cpeName": "cpe:2.3:o:apple:visionos:2.1.1:*:*:*:*:*:*:*",
+			"cpeNameId": "D1B90B8C-2EC3-45DB-BF5A-1046B802972E"
 		}
 	]
 }
