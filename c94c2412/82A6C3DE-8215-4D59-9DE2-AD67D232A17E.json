@@ -4,9 +4,13 @@
 	"versionEndIncluding": "1.5.1",
 	"created": "2023-11-15T21:54:40.237",
 	"lastModified": "2023-11-16T11:58:20.933",
-	"cpeLastModified": "2023-11-16T13:33:03.230",
+	"cpeLastModified": "2024-12-16T19:10:29.687",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ifeelweb:affiliate_super_assistent:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4F69D804-0BD4-4B1E-9CAD-8AA92E2AE21F"
+		},
 		{
 			"cpeName": "cpe:2.3:a:ifeelweb:affiliate_super_assistent:0.9.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "3ED376B7-EDF6-408D-AE8F-692FAEB5D119"

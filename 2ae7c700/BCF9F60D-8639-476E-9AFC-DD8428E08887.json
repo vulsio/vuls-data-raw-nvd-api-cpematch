@@ -4,7 +4,7 @@
 	"versionStartIncluding": "1.8.0_181",
 	"created": "2022-10-25T13:59:44.510",
 	"lastModified": "2023-11-21T18:36:34.667",
-	"cpeLastModified": "2024-02-03T01:39:22.613",
+	"cpeLastModified": "2024-12-16T20:17:07.057",
 	"status": "Active",
 	"matches": [
 		{
@@ -176,6 +176,18 @@
 			"cpeNameId": "7ADF5AD6-297E-44FB-8D01-3315F671B478"
 		},
 		{
+			"cpeName": "cpe:2.3:a:oracle:jdk:11.0.22:*:*:*:*:*:*:*",
+			"cpeNameId": "96BCB026-8EDE-4294-8967-9DD3228FF70E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:jdk:11.0.23:*:*:*:*:*:*:*",
+			"cpeNameId": "2C6C392C-84DC-4CB0-AAA2-46195CA69C61"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:jdk:11.0.24:*:*:*:*:*:*:*",
+			"cpeNameId": "E75ADC23-84B2-49D4-8144-7BBEEC642FC7"
+		},
+		{
 			"cpeName": "cpe:2.3:a:oracle:jdk:12:*:*:*:*:*:*:*",
 			"cpeNameId": "7CD1F45B-FF84-462D-B76C-AFAAA5C64070"
 		},
@@ -296,6 +308,18 @@
 			"cpeNameId": "3C54305D-6864-4879-A1FA-2C301158B89C"
 		},
 		{
+			"cpeName": "cpe:2.3:a:oracle:jdk:17.0.10:*:*:*:*:*:*:*",
+			"cpeNameId": "3D3974AA-1E43-483E-A9D0-B82C18E097EB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:jdk:17.0.11:*:*:*:*:*:*:*",
+			"cpeNameId": "F385B755-8BA2-4A7B-84E2-1F271D1284E3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:jdk:17.0.12:*:*:*:*:*:*:*",
+			"cpeNameId": "21BD2503-5C26-4C9A-9A8B-09B4C002A746"
+		},
+		{
 			"cpeName": "cpe:2.3:a:oracle:jdk:18:*:*:*:*:*:*:*",
 			"cpeNameId": "92C52F15-BFAB-4C35-BBF7-2424F863050D"
 		},
@@ -330,6 +354,22 @@
 		{
 			"cpeName": "cpe:2.3:a:oracle:jdk:21.0.1:*:*:*:*:*:*:*",
 			"cpeNameId": "2CC740CE-2BE8-4DDF-928D-E1E9E1679F19"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:jdk:21.0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "69207EBE-19DD-4B88-A56F-9AD66ACFADB5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:jdk:21.0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "1ABEE271-F460-4E98-B6D8-6BDFC25E2AA2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:jdk:21.0.4:*:*:*:*:*:*:*",
+			"cpeNameId": "E7B04A87-6AAB-43EC-A28C-91785919C7A7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:jdk:22.0.1:*:*:*:*:*:*:*",
+			"cpeNameId": "1E7CE057-1141-4A5B-8716-3D2039DA6071"
 		}
 	]
 }

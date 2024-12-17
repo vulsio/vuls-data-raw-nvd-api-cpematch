@@ -3,7 +3,7 @@
 	"matchCriteriaId": "91B0D09B-CFBA-48DA-B642-43BF5EB814F8",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2024-10-18T18:24:22.060",
+	"cpeLastModified": "2024-12-16T20:17:34.603",
 	"status": "Active",
 	"matches": [
 		{
@@ -413,6 +413,26 @@
 		{
 			"cpeName": "cpe:2.3:a:oracle:jdk:1.8.0:update40:*:*:*:*:*:*",
 			"cpeNameId": "A130DA41-A9A3-4205-8AB4-FBC46C8DC166"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:jdk:1.8.0:update401:*:*:-:*:*:*",
+			"cpeNameId": "BF8C3415-484E-4FBE-ADDD-3D5D9232F196"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:jdk:1.8.0:update401:*:*:enterprise_performance_pack:*:*:*",
+			"cpeNameId": "E8A3DC0B-2CC6-4BC3-8BB1-CB18A5873019"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:jdk:1.8.0:update411:*:*:-:*:*:*",
+			"cpeNameId": "55607FCC-0D8E-492A-A240-EC8DE40D7C0A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:jdk:1.8.0:update421:*:*:-:*:*:*",
+			"cpeNameId": "5A10A5F0-2CCA-4434-B5BF-40DDE2BFFCCB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:oracle:jdk:1.8.0:update421:*:*:enterprise_performance_pack:*:*:*",
+			"cpeNameId": "0A6FA965-2893-46E2-9A45-9FD3935D931A"
 		},
 		{
 			"cpeName": "cpe:2.3:a:oracle:jdk:1.8.0:update45:*:*:*:*:*:*",

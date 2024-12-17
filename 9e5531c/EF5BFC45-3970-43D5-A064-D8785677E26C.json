@@ -4,12 +4,16 @@
 	"versionEndExcluding": "7.3",
 	"created": "2022-04-19T14:43:49.450",
 	"lastModified": "2022-04-19T14:43:49.450",
-	"cpeLastModified": "2022-04-27T17:44:33.060",
+	"cpeLastModified": "2024-12-16T19:49:20.777",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:liferay:digital_experience_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "97590715-71E4-46A8-BD03-45F0152CD091"
+		},
+		{
+			"cpeName": "cpe:2.3:a:liferay:digital_experience_platform:6.2:-:*:*:*:*:*:*",
+			"cpeNameId": "796BBB62-0487-4EFD-8AA0-A76F49B36F6C"
 		},
 		{
 			"cpeName": "cpe:2.3:a:liferay:digital_experience_platform:7.0:-:*:*:*:*:*:*",
@@ -564,8 +568,24 @@
 			"cpeNameId": "70504792-1C35-478A-A455-D0A326873C48"
 		},
 		{
+			"cpeName": "cpe:2.3:a:liferay:digital_experience_platform:7.2:fix_pack_17:*:*:*:*:*:*",
+			"cpeNameId": "0E75633D-D996-4601-81A4-84AD49E7A94F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:liferay:digital_experience_platform:7.2:fix_pack_18:*:*:*:*:*:*",
+			"cpeNameId": "00CD69C2-AAB4-47D5-A62B-488FE90F9B8A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:liferay:digital_experience_platform:7.2:fix_pack_19:*:*:*:*:*:*",
+			"cpeNameId": "B58886F8-598E-498E-B41E-AA248842FCE6"
+		},
+		{
 			"cpeName": "cpe:2.3:a:liferay:digital_experience_platform:7.2:fix_pack_2:*:*:*:*:*:*",
 			"cpeNameId": "553DFD3F-B396-4BF8-AE54-A355F6B306D4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:liferay:digital_experience_platform:7.2:fix_pack_20:*:*:*:*:*:*",
+			"cpeNameId": "3E932D5A-6500-4DAD-8CD3-FC107F5753F0"
 		},
 		{
 			"cpeName": "cpe:2.3:a:liferay:digital_experience_platform:7.2:fix_pack_3:*:*:*:*:*:*",
@@ -594,6 +614,38 @@
 		{
 			"cpeName": "cpe:2.3:a:liferay:digital_experience_platform:7.2:fix_pack_9:*:*:*:*:*:*",
 			"cpeNameId": "CFA66315-01B4-4F4A-AD2A-A6B759FEF257"
+		},
+		{
+			"cpeName": "cpe:2.3:a:liferay:digital_experience_platform:7.2:service_pack_1:*:*:*:*:*:*",
+			"cpeNameId": "DC0F2A6C-EBA7-4962-926B-9127EF540A11"
+		},
+		{
+			"cpeName": "cpe:2.3:a:liferay:digital_experience_platform:7.2:service_pack_2:*:*:*:*:*:*",
+			"cpeNameId": "D476F6DD-1437-4849-B292-C5F829A1C45B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:liferay:digital_experience_platform:7.2:service_pack_3:*:*:*:*:*:*",
+			"cpeNameId": "694345F0-4464-4E69-A250-E76A96A5C004"
+		},
+		{
+			"cpeName": "cpe:2.3:a:liferay:digital_experience_platform:7.2:service_pack_4:*:*:*:*:*:*",
+			"cpeNameId": "984D7ED0-01DB-4437-9A71-218853B05F14"
+		},
+		{
+			"cpeName": "cpe:2.3:a:liferay:digital_experience_platform:7.2:service_pack_5:*:*:*:*:*:*",
+			"cpeNameId": "4C0A5873-429F-4196-B09D-18AC7DA1F098"
+		},
+		{
+			"cpeName": "cpe:2.3:a:liferay:digital_experience_platform:7.2:service_pack_6:*:*:*:*:*:*",
+			"cpeNameId": "45E6A9FB-B99B-4DD1-AC5C-5058FA20B815"
+		},
+		{
+			"cpeName": "cpe:2.3:a:liferay:digital_experience_platform:7.2:service_pack_7:*:*:*:*:*:*",
+			"cpeNameId": "550C252F-117B-47E9-828B-4D680A644D89"
+		},
+		{
+			"cpeName": "cpe:2.3:a:liferay:digital_experience_platform:7.2:service_pack_8:*:*:*:*:*:*",
+			"cpeNameId": "41FCEA0D-66D2-481B-8C86-F57488D0B6FB"
 		}
 	]
 }

@@ -4,8 +4,8 @@
 	"versionStartIncluding": "2022.10",
 	"versionEndExcluding": "2022.10.6",
 	"created": "2024-12-13T20:15:33.783",
-	"lastModified": "2024-12-13T20:15:33.783",
-	"cpeLastModified": "2024-12-13T20:15:33.783",
+	"lastModified": "2024-12-16T19:13:51.150",
+	"cpeLastModified": "2024-12-16T19:13:51.150",
 	"status": "Active",
 	"matches": [
 		{
@@ -27,6 +27,10 @@
 		{
 			"cpeName": "cpe:2.3:a:jetbrains:teamcity:2022.10.4:*:*:*:*:*:*:*",
 			"cpeNameId": "F9B786BD-3DC6-4EA0-A8EC-4009A37590F3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:teamcity:2022.10.5:*:*:*:*:*:*:*",
+			"cpeNameId": "22715F17-40C4-495E-A4CF-1B6750A5A8BE"
 		}
 	]
 }

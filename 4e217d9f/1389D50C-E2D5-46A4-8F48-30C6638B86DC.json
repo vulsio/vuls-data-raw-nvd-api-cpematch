@@ -3,8 +3,8 @@
 	"matchCriteriaId": "1389D50C-E2D5-46A4-8F48-30C6638B86DC",
 	"versionEndExcluding": "2022.04.7",
 	"created": "2024-12-13T20:15:33.783",
-	"lastModified": "2024-12-13T20:15:33.783",
-	"cpeLastModified": "2024-12-13T20:15:33.783",
+	"lastModified": "2024-12-16T19:13:51.150",
+	"cpeLastModified": "2024-12-16T19:13:51.150",
 	"status": "Active",
 	"matches": [
 		{
@@ -414,6 +414,10 @@
 		{
 			"cpeName": "cpe:2.3:a:jetbrains:teamcity:2022.04.5:*:*:*:*:*:*:*",
 			"cpeNameId": "BE3493C4-ED4E-47B6-9223-736C7C1FA824"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:teamcity:2022.04.6:*:*:*:*:*:*:*",
+			"cpeNameId": "4675A637-1463-4270-8C8B-0F94732EEFDB"
 		}
 	]
 }

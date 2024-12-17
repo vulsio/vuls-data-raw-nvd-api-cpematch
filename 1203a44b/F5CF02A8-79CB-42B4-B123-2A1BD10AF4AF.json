@@ -4,9 +4,13 @@
 	"versionEndExcluding": "2020.1.659",
 	"created": "2020-04-23T18:03:02.200",
 	"lastModified": "2020-04-23T18:03:02.200",
-	"cpeLastModified": "2020-12-03T15:08:02.370",
+	"cpeLastModified": "2024-12-16T19:36:32.370",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:youtrack:-:*:*:*:*:*:*:*",
+			"cpeNameId": "323E6C72-5409-4F81-980C-88BB13E4EDC1"
+		},
 		{
 			"cpeName": "cpe:2.3:a:jetbrains:youtrack:2.2.1:*:*:*:*:*:*:*",
 			"cpeNameId": "A72D3E1E-396F-4303-9D97-377B91AD744A"

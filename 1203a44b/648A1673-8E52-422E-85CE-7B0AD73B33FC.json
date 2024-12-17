@@ -3,10 +3,14 @@
 	"matchCriteriaId": "648A1673-8E52-422E-85CE-7B0AD73B33FC",
 	"versionEndExcluding": "2021.1.11111",
 	"created": "2021-08-06T15:47:00.770",
-	"lastModified": "2021-08-06T15:47:00.770",
-	"cpeLastModified": "2021-08-06T15:47:00.770",
+	"lastModified": "2024-12-16T19:36:32.370",
+	"cpeLastModified": "2024-12-16T19:36:32.370",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:youtrack:-:*:*:*:*:*:*:*",
+			"cpeNameId": "323E6C72-5409-4F81-980C-88BB13E4EDC1"
+		},
 		{
 			"cpeName": "cpe:2.3:a:jetbrains:youtrack:2.2.1:*:*:*:*:*:*:*",
 			"cpeNameId": "A72D3E1E-396F-4303-9D97-377B91AD744A"
@@ -582,6 +586,14 @@
 		{
 			"cpeName": "cpe:2.3:a:jetbrains:youtrack:2020.10643:*:*:*:*:*:*:*",
 			"cpeNameId": "C7E2B03A-22CE-4915-9DE7-90E1D62946D7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:youtrack:2021.1.9819:*:*:*:*:*:*:*",
+			"cpeNameId": "3E1A9BA5-191E-4E50-B06E-EEE2FB57C89D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:jetbrains:youtrack:2021.1.10244:*:*:*:*:*:*:*",
+			"cpeNameId": "1FFDDCDD-F073-4E4A-A86E-16B7716D2066"
 		}
 	]
 }

@@ -4,12 +4,16 @@
 	"versionEndExcluding": "7.2",
 	"created": "2024-10-03T18:10:39.260",
 	"lastModified": "2024-10-03T18:10:39.260",
-	"cpeLastModified": "2024-10-03T18:10:39.260",
+	"cpeLastModified": "2024-12-16T19:49:20.777",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:liferay:digital_experience_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "97590715-71E4-46A8-BD03-45F0152CD091"
+		},
+		{
+			"cpeName": "cpe:2.3:a:liferay:digital_experience_platform:6.2:-:*:*:*:*:*:*",
+			"cpeNameId": "796BBB62-0487-4EFD-8AA0-A76F49B36F6C"
 		},
 		{
 			"cpeName": "cpe:2.3:a:liferay:digital_experience_platform:7.0:-:*:*:*:*:*:*",
