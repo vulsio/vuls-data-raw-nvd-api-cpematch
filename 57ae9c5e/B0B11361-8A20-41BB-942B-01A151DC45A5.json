@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.29.0",
 	"created": "2024-07-03T13:28:30.193",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:28:30.193",
+	"cpeLastModified": "2024-12-17T18:48:23.847",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:vostro_5502_firmware:1.18.0:*:*:*:*:*:*:*",
 			"cpeNameId": "BF19A7B8-0BB1-4243-9FAE-209742F596FF"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:vostro_5502_firmware:1.28.0:*:*:*:*:*:*:*",
+			"cpeNameId": "3DBC7DBC-2645-4F44-842B-3FF8C82D0870"
 		}
 	]
 }

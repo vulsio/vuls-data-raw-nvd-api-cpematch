@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.29.0",
 	"created": "2024-07-03T13:28:30.193",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:28:30.193",
+	"cpeLastModified": "2024-12-17T18:48:23.847",
 	"status": "Active",
 	"matches": [
 		{
@@ -30,6 +30,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:vostro_3583_firmware:1.25.0:*:*:*:*:*:*:*",
 			"cpeNameId": "32939F3F-8D56-4049-8393-46A1230A2FD6"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:vostro_3583_firmware:1.27.0:*:*:*:*:*:*:*",
+			"cpeNameId": "4541F11B-9FA3-4E43-BC5C-D70352AB4AD3"
 		}
 	]
 }

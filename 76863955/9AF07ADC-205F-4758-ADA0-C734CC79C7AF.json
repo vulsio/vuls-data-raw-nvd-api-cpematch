@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.29.0",
 	"created": "2024-07-03T13:28:30.193",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:28:30.193",
+	"cpeLastModified": "2024-12-17T18:48:23.847",
 	"status": "Active",
 	"matches": [
 		{
@@ -30,6 +30,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:vostro_3480_firmware:1.25.0:*:*:*:*:*:*:*",
 			"cpeNameId": "0D229395-CF04-4439-8953-36CCBF63B038"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:vostro_3480_firmware:1.27.0:*:*:*:*:*:*:*",
+			"cpeNameId": "383E3407-07F5-4602-9C9C-9C4891FB6676"
 		}
 	]
 }

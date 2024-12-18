@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.29.0",
 	"created": "2024-07-03T13:28:30.193",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:28:30.193",
+	"cpeLastModified": "2024-12-17T18:48:23.847",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:vostro_3500_firmware:1.19.0:*:*:*:*:*:*:*",
 			"cpeNameId": "9FBAD282-06CA-418E-B853-88FA52A7DF1F"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:vostro_3500_firmware:1.28.0:*:*:*:*:*:*:*",
+			"cpeNameId": "308332E0-F43A-4E52-AB1E-ED7374099B11"
 		}
 	]
 }

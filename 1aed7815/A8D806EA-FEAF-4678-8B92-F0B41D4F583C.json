@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.20.0",
 	"created": "2024-07-03T13:28:30.193",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:28:30.193",
+	"cpeLastModified": "2024-12-17T18:48:23.847",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:vostro_3710_firmware:1.15.0:*:*:*:*:*:*:*",
 			"cpeNameId": "FEDD6130-6630-4A6A-941E-E14D6C6DD37A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:vostro_3710_firmware:1.19.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F7861310-32FC-4145-9BEA-5C8E3CD90EAB"
 		}
 	]
 }

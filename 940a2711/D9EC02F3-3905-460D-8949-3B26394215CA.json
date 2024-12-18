@@ -3,7 +3,7 @@
 	"matchCriteriaId": "D9EC02F3-3905-460D-8949-3B26394215CA",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2023-02-16T14:40:57.227",
-	"cpeLastModified": "2024-08-12T11:48:40.760",
+	"cpeLastModified": "2024-12-17T18:58:39.850",
 	"status": "Active",
 	"matches": [
 		{
@@ -3891,6 +3891,18 @@
 			"cpeNameId": "D8AF9830-07AA-4A26-82A4-B28B6BE404EB"
 		},
 		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:13.3:p4:*:*:*:*:*:*",
+			"cpeNameId": "047AAFE6-8404-482B-8590-398185B771E1"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:13.3:p5:*:*:*:*:*:*",
+			"cpeNameId": "4C438D61-5C14-46C4-8024-E4166427AC05"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:13.4:beta3:*:*:*:*:*:*",
+			"cpeNameId": "F23B21DC-E4EA-42A2-AFAF-E73A8D34A2F1"
+		},
+		{
 			"cpeName": "cpe:2.3:o:freebsd:freebsd:14.0:-:*:*:*:*:*:*",
 			"cpeNameId": "82330AAF-50A4-479B-805B-471298D9E6C4"
 		},
@@ -3927,12 +3939,36 @@
 			"cpeNameId": "3D73762A-7E46-45F9-8642-304B13CCC6BF"
 		},
 		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:14.0:p8:*:*:*:*:*:*",
+			"cpeNameId": "2EC9D45A-0BC1-4756-B863-D4471AAEBEDF"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:14.0:p9:*:*:*:*:*:*",
+			"cpeNameId": "2AF1F001-F1C1-4A9C-A89A-B6207ABAB416"
+		},
+		{
 			"cpeName": "cpe:2.3:o:freebsd:freebsd:14.0:rc3:*:*:*:*:*:*",
 			"cpeNameId": "080AEC37-7545-47AC-941C-7E4E0D5CC044"
 		},
 		{
 			"cpeName": "cpe:2.3:o:freebsd:freebsd:14.0:rc4-p1:*:*:*:*:*:*",
 			"cpeNameId": "B100B917-945C-412D-A610-7BBBDCE30E07"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:14.1:-:*:*:*:*:*:*",
+			"cpeNameId": "1545C9B8-6637-4DAB-82D3-5A9986B0829A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:14.1:p1:*:*:*:*:*:*",
+			"cpeNameId": "FA3CEF0B-9695-4494-B8AC-F6108CF0B289"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:14.1:p2:*:*:*:*:*:*",
+			"cpeNameId": "55A816BB-E13C-4248-A6A3-FDF502E6912F"
+		},
+		{
+			"cpeName": "cpe:2.3:o:freebsd:freebsd:14.1:p3:*:*:*:*:*:*",
+			"cpeNameId": "401379AB-F93C-4DE2-889A-417480A72D39"
 		},
 		{
 			"cpeName": "cpe:2.3:o:freebsd:freebsd:525916_2020-02-12:*:*:*:*:*:*:*",

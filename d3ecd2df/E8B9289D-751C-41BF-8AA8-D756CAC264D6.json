@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.27.0",
 	"created": "2024-07-03T13:28:30.193",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:28:30.193",
+	"cpeLastModified": "2024-12-17T18:48:23.847",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:vostro_3590_firmware:1.21.0:*:*:*:*:*:*:*",
 			"cpeNameId": "14CD0170-A4B3-49EB-94C9-E1618710009C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:vostro_3590_firmware:1.26.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A07E360A-EE92-4FA1-B51B-A0AD7F518705"
 		}
 	]
 }

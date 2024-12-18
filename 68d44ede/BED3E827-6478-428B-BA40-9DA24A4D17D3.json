@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.25.0",
 	"created": "2024-07-03T13:28:30.193",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:28:30.193",
+	"cpeLastModified": "2024-12-17T18:48:23.847",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:vostro_5090_firmware:1.17.0:*:*:*:*:*:*:*",
 			"cpeNameId": "58F4DA3E-4915-4A86-8612-C6B886783137"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:vostro_5090_firmware:1.24.0:*:*:*:*:*:*:*",
+			"cpeNameId": "CD5C9B9D-C4C9-40A6-A3B3-09CC446447D0"
 		}
 	]
 }
