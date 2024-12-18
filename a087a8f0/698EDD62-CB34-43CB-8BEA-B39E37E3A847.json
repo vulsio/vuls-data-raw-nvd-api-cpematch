@@ -4,9 +4,13 @@
 	"versionEndExcluding": "12.4.1",
 	"created": "2021-09-16T15:05:21.703",
 	"lastModified": "2021-09-16T15:05:21.703",
-	"cpeLastModified": "2021-09-21T18:37:09.350",
+	"cpeLastModified": "2024-12-18T15:22:19.653",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:matrix:javascript_sdk:-:*:*:*:*:*:*:*",
+			"cpeNameId": "33D38F17-A6E6-48C6-8DF0-3B0069D596E1"
+		},
 		{
 			"cpeName": "cpe:2.3:a:matrix:javascript_sdk:0.1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "B22E0117-DAE9-4CA0-B7FF-3386FA3D7BE8"

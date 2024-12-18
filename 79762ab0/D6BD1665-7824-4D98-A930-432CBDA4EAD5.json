@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:cisco:secure_firewall_management_center:7.4.0:*:*:*:*:*:*:*",
 	"matchCriteriaId": "D6BD1665-7824-4D98-A930-432CBDA4EAD5",
 	"created": "2024-10-31T18:06:32.073",
-	"lastModified": "2024-10-31T18:06:32.073",
-	"cpeLastModified": "2024-10-31T18:06:32.073",
-	"status": "Active"
+	"lastModified": "2024-12-18T14:32:19.803",
+	"cpeLastModified": "2024-12-18T14:32:19.803",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:secure_firewall_management_center:7.4.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C0FDFB48-114D-428E-B5F8-20FC888B91E1"
+		}
+	]
 }

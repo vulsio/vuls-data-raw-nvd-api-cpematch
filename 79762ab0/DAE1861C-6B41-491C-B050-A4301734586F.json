@@ -5,7 +5,7 @@
 	"versionEndIncluding": "7.3.1.2",
 	"created": "2024-11-26T16:09:02.407",
 	"lastModified": "2024-11-26T16:09:02.407",
-	"cpeLastModified": "2024-11-26T16:09:02.407",
+	"cpeLastModified": "2024-12-18T14:32:19.803",
 	"status": "Active",
 	"matches": [
 		{
@@ -47,6 +47,18 @@
 		{
 			"cpeName": "cpe:2.3:a:cisco:secure_firewall_management_center:7.0.6:*:*:*:*:*:*:*",
 			"cpeNameId": "6E65B9B6-9FDF-44B7-BCE0-5CC4D30392F8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:secure_firewall_management_center:7.0.6.1:*:*:*:*:*:*:*",
+			"cpeNameId": "042B779F-989E-476C-A983-48E8806B6618"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:secure_firewall_management_center:7.0.6.2:*:*:*:*:*:*:*",
+			"cpeNameId": "D6982C98-04E0-40BE-81B0-57132F8DFD1F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:secure_firewall_management_center:7.0.6.3:*:*:*:*:*:*:*",
+			"cpeNameId": "644A28BF-2369-4837-8446-3D255975CB6C"
 		},
 		{
 			"cpeName": "cpe:2.3:a:cisco:secure_firewall_management_center:7.1.0:*:*:*:*:*:*:*",
@@ -99,6 +111,30 @@
 		{
 			"cpeName": "cpe:2.3:a:cisco:secure_firewall_management_center:7.2.5:*:*:*:*:*:*:*",
 			"cpeNameId": "3910B3A5-6F9B-4C77-B397-4FBC8C463424"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:secure_firewall_management_center:7.2.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "24A65A2C-3BC0-4F13-B8C9-B7677B4888D8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:secure_firewall_management_center:7.2.5.2:*:*:*:*:*:*:*",
+			"cpeNameId": "96F1B34A-7165-42DF-812C-200C283CD0D2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:secure_firewall_management_center:7.2.6:*:*:*:*:*:*:*",
+			"cpeNameId": "0164E97B-837A-4D12-B455-122A6C7E82F4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:secure_firewall_management_center:7.2.7:*:*:*:*:*:*:*",
+			"cpeNameId": "D350AF8D-AF03-43CA-B67B-8BD50594BBA3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:secure_firewall_management_center:7.2.8:*:*:*:*:*:*:*",
+			"cpeNameId": "3A2B6303-21DE-4B71-98BE-C0477FCCB975"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:secure_firewall_management_center:7.2.8.1:*:*:*:*:*:*:*",
+			"cpeNameId": "B52DAB04-8FFA-4887-B817-E4B85537B643"
 		},
 		{
 			"cpeName": "cpe:2.3:a:cisco:secure_firewall_management_center:7.3.0:*:*:*:*:*:*:*",

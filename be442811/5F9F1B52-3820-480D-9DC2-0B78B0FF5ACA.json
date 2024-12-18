@@ -4,9 +4,13 @@
 	"versionEndIncluding": "6.13",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2020-10-27T14:48:02.450",
+	"cpeLastModified": "2024-12-18T13:27:31.790",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cesanta:mongoose:-:*:*:*:*:*:*:*",
+			"cpeNameId": "51B5F720-4DB3-499A-A657-89172D2C55B0"
+		},
 		{
 			"cpeName": "cpe:2.3:a:cesanta:mongoose:3.2:*:*:*:*:*:*:*",
 			"cpeNameId": "3CA03C21-4826-4FBF-B322-2D2D5C89BFC8"

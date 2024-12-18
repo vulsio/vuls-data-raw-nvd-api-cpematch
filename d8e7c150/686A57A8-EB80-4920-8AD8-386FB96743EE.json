@@ -3,9 +3,13 @@
 	"matchCriteriaId": "686A57A8-EB80-4920-8AD8-386FB96743EE",
 	"created": "2023-05-05T13:06:48.150",
 	"lastModified": "2023-05-05T13:06:48.150",
-	"cpeLastModified": "2023-05-05T13:06:48.150",
+	"cpeLastModified": "2024-12-18T15:21:18.970",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F0160FF7-656F-4264-BFC3-D80552740AD0"
+		},
 		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:4.0:*:*:*:*:*:*:*",
 			"cpeNameId": "4E929084-373E-486A-99FF-AE8FE5EDDDA6"
@@ -165,6 +169,150 @@
 		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:5.8:build5801:*:*:*:*:*:*",
 			"cpeNameId": "06F8833B-F964-4264-B56B-9C2FAF1AD4F9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:5.8:build5810:*:*:*:*:*:*",
+			"cpeNameId": "E54AFCC1-1E41-4E28-9F08-17F9688378DA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:5.9:build5900:*:*:*:*:*:*",
+			"cpeNameId": "70B14590-CD97-4DB9-B80D-64071C923F73"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:5.9:build5950:*:*:*:*:*:*",
+			"cpeNameId": "6FD72CAD-0806-4FE4-8A4F-039F0EF0AE09"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:5.9:build5951:*:*:*:*:*:*",
+			"cpeNameId": "D83999FA-7E62-486E-B12F-640471A14D78"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:6.0:build6000:*:*:*:*:*:*",
+			"cpeNameId": "BE5D61AA-062C-4BB0-9910-0BBF1D757F8F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:6.0:build6010:*:*:*:*:*:*",
+			"cpeNameId": "F28F65D7-C906-4946-BC0E-0E2DFA2012DE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:6.0:build6011:*:*:*:*:*:*",
+			"cpeNameId": "F9FA6D42-18C4-4487-815E-17C048387546"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:6.1:build6100:*:*:*:*:*:*",
+			"cpeNameId": "68087ABE-41DE-4F9D-B68D-CDD4DC38901A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:6.2:build6200:*:*:*:*:*:*",
+			"cpeNameId": "F4ABCAF4-12B2-4E57-B0A6-4A2EA8F24660"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:6.2:build6210:*:*:*:*:*:*",
+			"cpeNameId": "50D1F735-D157-409A-94C2-70899B46C60C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:6.3:build6300:*:*:*:*:*:*",
+			"cpeNameId": "27E19E8D-656B-4C25-8E3C-D34FC0FCD934"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:6.3:build6310:*:*:*:*:*:*",
+			"cpeNameId": "58F81F2C-36DA-45E5-9A5E-6CAA2B7F8192"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:6.3:build6320:*:*:*:*:*:*",
+			"cpeNameId": "EE33E2D5-4151-4B98-9B3C-C2CE777A1340"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:6.4:build6400:*:*:*:*:*:*",
+			"cpeNameId": "48B5CF14-49DD-4ABC-A927-E738E3B38846"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:6.5:build6500:*:*:*:*:*:*",
+			"cpeNameId": "1168749C-9B94-4230-957A-C266574F679C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:6.5:build6501:*:*:*:*:*:*",
+			"cpeNameId": "AA8BDB09-72AA-4BFF-858F-F8C6378BDF8B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:6.5:build6510:*:*:*:*:*:*",
+			"cpeNameId": "68D34EB5-0599-4562-92E4-3F5D1CC6C739"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:6.5:build6520:*:*:*:*:*:*",
+			"cpeNameId": "81C9AC00-211E-4DA5-A7C3-AE80F3634F1E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:6.5:build6530:*:*:*:*:*:*",
+			"cpeNameId": "48CB6BF1-EEDE-4485-8A79-7070D18E8C41"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:6.5:build6540:*:*:*:*:*:*",
+			"cpeNameId": "87E8AB25-5C6E-41BC-97B6-C6EC87CC90BF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:6.5:build6541:*:*:*:*:*:*",
+			"cpeNameId": "6E9ECEF3-350C-44AB-8E8D-C9E7A5461CFE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:6.6:-:*:*:*:*:*:*",
+			"cpeNameId": "DFEE884D-90D0-467B-AC91-2B4885D9DB2F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:6.6:build6600:*:*:*:*:*:*",
+			"cpeNameId": "34D71726-42A8-4C1A-AD92-E192ECEA0B01"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:6.6:build6601:*:*:*:*:*:*",
+			"cpeNameId": "AFEF9DDF-2A8A-4D45-BBB6-1A6E949098B5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:6.6:build6610:*:*:*:*:*:*",
+			"cpeNameId": "A33284DA-4303-4BD7-A687-2F753C845DBD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:6.6:build6611:*:*:*:*:*:*",
+			"cpeNameId": "79F106BF-6C8D-4EC0-A7F8-74150B6CB2BD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:6.7:build6700:*:*:*:*:*:*",
+			"cpeNameId": "375FA00B-3044-4BAC-9425-E1C8A397210D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:6.7:build6710:*:*:*:*:*:*",
+			"cpeNameId": "63612CEC-5336-4599-AD83-AFD9A01E618C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:7.0:build7000:*:*:*:*:*:*",
+			"cpeNameId": "4BDC6E35-3656-432F-AC6A-C0BD14D2909A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:7.0:build7001:*:*:*:*:*:*",
+			"cpeNameId": "E8D5F923-D7CA-4DAB-AACA-1DEBBC00BC0A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:7.0:build7002:*:*:*:*:*:*",
+			"cpeNameId": "802579A3-94F9-41E4-BF4F-301CD8A11AD0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:7.1:build7100:*:*:*:*:*:*",
+			"cpeNameId": "97D6F754-B236-45F6-999F-3040A17830F0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:7.2:build7200:*:*:*:*:*:*",
+			"cpeNameId": "0FA64DD7-7652-42F8-9830-574E614CEF9C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:7.2:build7201:*:*:*:*:*:*",
+			"cpeNameId": "C51069A8-425D-4BC2-9DCE-DD3F11E22997"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:7.3:build7300:*:*:*:*:*:*",
+			"cpeNameId": "E5EE6856-61EB-4080-BAD9-C399C661C676"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:7.3:build7301:*:*:*:*:*:*",
+			"cpeNameId": "E8C18355-C8F6-4EFE-8CC9-E2D93A3598AC"
 		}
 	]
 }

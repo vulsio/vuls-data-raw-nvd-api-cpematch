@@ -4,9 +4,13 @@
 	"versionEndExcluding": "5.8",
 	"created": "2023-01-10T14:55:44.883",
 	"lastModified": "2023-01-20T15:16:16.700",
-	"cpeLastModified": "2023-01-20T15:16:16.700",
+	"cpeLastModified": "2024-12-18T15:21:18.970",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F0160FF7-656F-4264-BFC3-D80552740AD0"
+		},
 		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_pam360:4.0:*:*:*:*:*:*:*",
 			"cpeNameId": "4E929084-373E-486A-99FF-AE8FE5EDDDA6"

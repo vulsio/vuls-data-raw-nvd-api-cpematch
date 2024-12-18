@@ -4,12 +4,16 @@
 	"versionEndIncluding": "10.1.2119.7",
 	"created": "2021-09-16T15:16:20.840",
 	"lastModified": "2021-09-16T15:16:20.840",
-	"cpeLastModified": "2022-12-22T18:17:02.743",
+	"cpeLastModified": "2024-12-18T14:44:35.967",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_desktop_central:-:*:*:*:*:*:*:*",
 			"cpeNameId": "8C162D7B-D178-4E33-B25A-212490E30B7A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_desktop_central:-:*:*:*:-:*:*:*",
+			"cpeNameId": "46E2DA90-D2C6-48E2-9C3F-D1637D47BE08"
 		},
 		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_desktop_central:7.0:*:*:*:*:*:*:*",

@@ -4,7 +4,7 @@
 	"versionEndExcluding": "11.2.2328.01",
 	"created": "2023-11-27T15:10:05.817",
 	"lastModified": "2023-11-27T15:10:05.817",
-	"cpeLastModified": "2023-12-13T19:26:58.320",
+	"cpeLastModified": "2024-12-18T16:48:58.893",
 	"status": "Active",
 	"matches": [
 		{
@@ -382,6 +382,10 @@
 		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_vulnerability_manager_plus:10.1.2220.17:*:*:*:*:*:*:*",
 			"cpeNameId": "D7276674-D3BA-423A-8CE8-22B90F582B18"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_vulnerability_manager_plus:10.1.2220.18:*:*:*:*:*:*:*",
+			"cpeNameId": "6602BC24-E0B4-47A3-83D2-CC7F928A1AA5"
 		},
 		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_vulnerability_manager_plus:10.1.2221.1:*:*:*:*:*:*:*",

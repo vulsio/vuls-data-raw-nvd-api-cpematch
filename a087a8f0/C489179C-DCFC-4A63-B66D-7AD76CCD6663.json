@@ -3,10 +3,14 @@
 	"matchCriteriaId": "C489179C-DCFC-4A63-B66D-7AD76CCD6663",
 	"versionEndExcluding": "34.3.1",
 	"created": "2024-08-21T15:31:36.520",
-	"lastModified": "2024-08-21T15:31:36.520",
-	"cpeLastModified": "2024-08-21T15:32:42.380",
+	"lastModified": "2024-12-18T15:22:19.653",
+	"cpeLastModified": "2024-12-18T15:22:19.653",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:matrix:javascript_sdk:-:*:*:*:*:*:*:*",
+			"cpeNameId": "33D38F17-A6E6-48C6-8DF0-3B0069D596E1"
+		},
 		{
 			"cpeName": "cpe:2.3:a:matrix:javascript_sdk:0.1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "B22E0117-DAE9-4CA0-B7FF-3386FA3D7BE8"
@@ -1162,6 +1166,42 @@
 		{
 			"cpeName": "cpe:2.3:a:matrix:javascript_sdk:24.1.0:rc1:*:*:*:node.js:*:*",
 			"cpeNameId": "10158B33-E50D-48F7-9855-DAD5375385D7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:matrix:javascript_sdk:34.1.0:-:*:*:*:*:*:*",
+			"cpeNameId": "D9DAB641-01C8-46AC-ADE2-3ABFCB93F345"
+		},
+		{
+			"cpeName": "cpe:2.3:a:matrix:javascript_sdk:34.1.0:rc0:*:*:*:*:*:*",
+			"cpeNameId": "9E2F9C56-D5C5-41DE-A10A-5611C44A4017"
+		},
+		{
+			"cpeName": "cpe:2.3:a:matrix:javascript_sdk:34.1.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "0476B593-AACB-4E15-B890-0C2542EDC8B0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:matrix:javascript_sdk:34.1.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "B5A0B4CD-359E-4712-8357-0B3DBF38C9B5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:matrix:javascript_sdk:34.1.0:rc3:*:*:*:*:*:*",
+			"cpeNameId": "424FBE93-B8DD-490D-93F9-CB3F753AC97D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:matrix:javascript_sdk:34.2.0:rc0:*:*:*:*:*:*",
+			"cpeNameId": "96C2FA60-0E78-4154-BB3E-753E281CBAB7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:matrix:javascript_sdk:34.3.0:-:*:*:*:*:*:*",
+			"cpeNameId": "5459D3B2-1E3E-48A9-B496-0CFED461D9BE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:matrix:javascript_sdk:34.3.0:rc0:*:*:*:*:*:*",
+			"cpeNameId": "9C935A53-5EEE-4793-B93D-1A1D2FE95963"
+		},
+		{
+			"cpeName": "cpe:2.3:a:matrix:javascript_sdk:34.3.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "09BFE5B2-7EF6-488B-A68E-C578F02D3B25"
 		}
 	]
 }

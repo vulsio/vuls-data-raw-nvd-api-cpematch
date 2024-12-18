@@ -4,7 +4,7 @@
 	"versionEndExcluding": "14.2",
 	"created": "2023-07-12T16:04:01.893",
 	"lastModified": "2023-07-12T16:04:01.893",
-	"cpeLastModified": "2023-07-12T16:04:01.893",
+	"cpeLastModified": "2024-12-18T16:15:43.033",
 	"status": "Active",
 	"matches": [
 		{
@@ -578,6 +578,10 @@
 		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_servicedesk_plus_msp:10.6:10611:*:*:*:*:*:*",
 			"cpeNameId": "3EFA3733-F412-4053-8FA1-9151D56EEA6C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_servicedesk_plus_msp:13.0:-:*:*:*:*:*:*",
+			"cpeNameId": "F34002BB-1B1A-4AE8-A7AC-CCF2675F75DF"
 		},
 		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_servicedesk_plus_msp:13.0:13000:*:*:*:*:*:*",

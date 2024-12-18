@@ -4,12 +4,16 @@
 	"versionEndExcluding": "2020-03-27",
 	"created": "2020-03-30T20:54:30.857",
 	"lastModified": "2020-03-30T20:54:30.857",
-	"cpeLastModified": "2022-12-22T18:17:02.743",
+	"cpeLastModified": "2024-12-18T14:44:35.967",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_desktop_central:-:*:*:*:*:*:*:*",
 			"cpeNameId": "8C162D7B-D178-4E33-B25A-212490E30B7A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_desktop_central:-:*:*:*:-:*:*:*",
+			"cpeNameId": "46E2DA90-D2C6-48E2-9C3F-D1637D47BE08"
 		},
 		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_desktop_central:7.0:*:*:*:*:*:*:*",
@@ -170,6 +174,14 @@
 		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_desktop_central:10.1.2137.9:*:*:*:*:*:*:*",
 			"cpeNameId": "82CDDB7A-3DA8-4DF6-A7A7-B8B749F7C272"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_desktop_central:10.1.2228.10:*:*:*:-:*:*:*",
+			"cpeNameId": "9DDCFB48-F335-4D07-99A1-94A4ED82D978"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_desktop_central:10.1.2228.10:*:*:*:managed_service_providers:*:*:*",
+			"cpeNameId": "3746AC52-8B88-48FC-B536-68407D58BAE8"
 		},
 		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_desktop_central:2020-03-07:*:*:*:*:*:*:*",

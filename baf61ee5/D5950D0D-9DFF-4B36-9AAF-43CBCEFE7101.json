@@ -5,7 +5,7 @@
 	"versionEndIncluding": "5.0.42",
 	"created": "2024-11-25T18:46:54.940",
 	"lastModified": "2024-11-25T18:46:54.940",
-	"cpeLastModified": "2024-11-25T18:46:54.940",
+	"cpeLastModified": "2024-12-18T14:08:41.300",
 	"status": "Active",
 	"matches": [
 		{
@@ -395,6 +395,10 @@
 		{
 			"cpeName": "cpe:2.3:a:zabbix:zabbix:5.0.41:rc1:*:*:*:*:*:*",
 			"cpeNameId": "FBD18AE6-B781-4195-AE39-A16138B505A7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zabbix:zabbix:5.0.42:*:*:*:*:*:*:*",
+			"cpeNameId": "EBA2F49B-2B24-4D0B-B080-862281632C70"
 		},
 		{
 			"cpeName": "cpe:2.3:a:zabbix:zabbix:5.0.42:rc1:*:*:*:*:*:*",

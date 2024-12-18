@@ -4,7 +4,7 @@
 	"versionEndExcluding": "10.4",
 	"created": "2020-03-18T16:50:34.703",
 	"lastModified": "2020-03-18T16:50:34.703",
-	"cpeLastModified": "2021-04-05T12:55:34.323",
+	"cpeLastModified": "2024-12-18T15:24:08.747",
 	"status": "Active",
 	"matches": [
 		{
@@ -992,20 +992,40 @@
 			"cpeNameId": "253514C4-C389-478F-9F77-4D69E1D1FDA1"
 		},
 		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_password_manager_pro:10.1:build10104:*:*:-:*:*:*",
+			"cpeNameId": "61764C3B-193A-4D4E-88D2-6DBFD3E11B28"
+		},
+		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_password_manager_pro:10.2:build10200:*:*:*:*:*:*",
 			"cpeNameId": "9CB72708-34CF-4C70-8AF1-BC38B9A13BE2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_password_manager_pro:10.2:build10200:*:*:-:*:*:*",
+			"cpeNameId": "7B359E42-ABD1-453E-90F2-66E473F26F99"
 		},
 		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_password_manager_pro:10.3:build10300:*:*:*:*:*:*",
 			"cpeNameId": "F51D9117-C85B-4480-A273-439918DEDA0A"
 		},
 		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_password_manager_pro:10.3:build10300:*:*:-:*:*:*",
+			"cpeNameId": "48EF6906-4140-4427-A20F-35113825C979"
+		},
+		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_password_manager_pro:10.3:build10301:*:*:*:*:*:*",
 			"cpeNameId": "F8143014-C5D3-4EC3-86B1-8D6A1E10CDE2"
 		},
 		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_password_manager_pro:10.3:build10301:*:*:-:*:*:*",
+			"cpeNameId": "DF092176-C748-4C9A-91CC-EE4B6DD5B5A4"
+		},
+		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_password_manager_pro:10.3:build10302:*:*:*:*:*:*",
 			"cpeNameId": "6F8E7167-1320-4767-ACEC-C9B85C1E1808"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_password_manager_pro:10.3:build10302:*:*:-:*:*:*",
+			"cpeNameId": "FF10C72B-7317-4F3E-A49D-D601E94E23B8"
 		}
 	]
 }

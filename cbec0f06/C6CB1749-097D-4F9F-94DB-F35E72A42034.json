@@ -4,7 +4,7 @@
 	"versionEndExcluding": "11.2.2328.01",
 	"created": "2023-11-27T15:18:00.070",
 	"lastModified": "2023-11-27T15:18:00.070",
-	"cpeLastModified": "2023-11-27T15:18:00.070",
+	"cpeLastModified": "2024-12-18T14:48:32.073",
 	"status": "Active",
 	"matches": [
 		{
@@ -384,6 +384,14 @@
 			"cpeNameId": "702A14B3-84C4-4051-BF26-F27F56C0691D"
 		},
 		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_device_control_plus:10.1.2220.17:*:*:*:*:*:*:*",
+			"cpeNameId": "174DEFA9-2C90-4954-A721-1DF232A0825C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_device_control_plus:10.1.2220.18:*:*:*:*:*:*:*",
+			"cpeNameId": "251BDD80-8BA5-49AF-B4E3-7EEB6F82A965"
+		},
+		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_device_control_plus:10.1.2221.1:*:*:*:*:*:*:*",
 			"cpeNameId": "8829BC00-EF75-44E4-BC39-4F0692EBAD04"
 		},
@@ -454,6 +462,74 @@
 		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_device_control_plus:10.1.2228.15:*:*:*:*:*:*:*",
 			"cpeNameId": "426C3D50-2757-46F4-9455-0788D843B543"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_device_control_plus:10.1.2228.16:*:*:*:*:*:*:*",
+			"cpeNameId": "018423DC-8EFC-4CF3-A46F-A0E2EAA42DB3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_device_control_plus:10.1.2228.19:*:*:*:*:*:*:*",
+			"cpeNameId": "6896F72A-1811-402B-8EA7-B185CD61FAAD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_device_control_plus:10.1.2228.20:*:*:*:*:*:*:*",
+			"cpeNameId": "894757D7-D200-4980-986D-3C895E02C12D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_device_control_plus:11.2.2300.05:*:*:*:*:*:*:*",
+			"cpeNameId": "0785084C-EB15-4E59-9D7C-4F816951B927"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_device_control_plus:11.2.2300.06:*:*:*:*:*:*:*",
+			"cpeNameId": "29403F32-E704-4548-BBAC-C749F1E3E5F4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_device_control_plus:11.2.2300.07:*:*:*:*:*:*:*",
+			"cpeNameId": "FFB97128-9B3C-4937-AE87-37FF23654812"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_device_control_plus:11.2.2300.08:*:*:*:*:*:*:*",
+			"cpeNameId": "D0B424EC-ED55-4610-8862-DB00C340E92E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_device_control_plus:11.2.2300.09:*:*:*:*:*:*:*",
+			"cpeNameId": "6D35D931-FB82-49E9-B001-79F31193D6CE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_device_control_plus:11.2.2300.11:*:*:*:*:*:*:*",
+			"cpeNameId": "5377F897-E0BF-4AC1-BB8A-872889BD81AC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_device_control_plus:11.2.2300.16:*:*:*:*:*:*:*",
+			"cpeNameId": "EBAD4E42-103B-42BF-95FF-484D38EC77B0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_device_control_plus:11.2.2315.09:*:*:*:*:*:*:*",
+			"cpeNameId": "06A9E2A0-A990-4D16-897B-BC6A506C0722"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_device_control_plus:11.2.2315.13:*:*:*:*:*:*:*",
+			"cpeNameId": "3FD5B3A8-5F7C-4CF1-B609-2CC984D59A9D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_device_control_plus:11.2.2325.04:*:*:*:*:*:*:*",
+			"cpeNameId": "05F6A73A-240A-4125-96DF-A2B90D55D506"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_device_control_plus:11.2.2325.07:*:*:*:*:*:*:*",
+			"cpeNameId": "F3DB3396-7401-4F61-A2B7-2C138718F34A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_device_control_plus:11.2.2325.08:*:*:*:*:*:*:*",
+			"cpeNameId": "8BA3AD71-C942-485F-8799-82207E4C7E98"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_device_control_plus:11.2.2325.09:*:*:*:*:*:*:*",
+			"cpeNameId": "4F09C617-116B-4D78-8825-E75A0E934E41"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_device_control_plus:11.2.2325.10:*:*:*:*:*:*:*",
+			"cpeNameId": "BE6C7415-ECAD-4A75-8D99-AD9FA60931F8"
 		}
 	]
 }
