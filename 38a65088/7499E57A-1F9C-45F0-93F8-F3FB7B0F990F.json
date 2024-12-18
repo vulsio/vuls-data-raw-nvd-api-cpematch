@@ -3,7 +3,7 @@
 	"matchCriteriaId": "7499E57A-1F9C-45F0-93F8-F3FB7B0F990F",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2021-08-24T10:59:05.697",
+	"cpeLastModified": "2024-12-18T12:09:14.957",
 	"status": "Active",
 	"matches": [
 		{
@@ -77,6 +77,10 @@
 		{
 			"cpeName": "cpe:2.3:a:vmware:vcenter_server:6.0:u2m:*:*:*:*:*:*",
 			"cpeNameId": "FAE8409F-BC97-4B1A-A59A-7116CAB8F62D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vmware:vcenter_server:6.0:u3:*:*:*:*:*:*",
+			"cpeNameId": "F46A8E7B-451E-49CB-BCDF-86259F3915F3"
 		},
 		{
 			"cpeName": "cpe:2.3:a:vmware:vcenter_server:6.0:u3a:*:*:*:*:*:*",

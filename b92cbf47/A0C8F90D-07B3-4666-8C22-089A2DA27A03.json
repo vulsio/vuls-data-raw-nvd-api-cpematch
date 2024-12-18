@@ -5,6 +5,12 @@
 	"versionEndExcluding": "1.15.8",
 	"created": "2024-09-25T18:45:39.917",
 	"lastModified": "2024-09-25T18:45:39.917",
-	"cpeLastModified": "2024-09-25T18:45:39.917",
-	"status": "Active"
+	"cpeLastModified": "2024-12-18T13:31:04.537",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cilium:cilium:1.15.0:*:*:*:*:*:*:*",
+			"cpeNameId": "32F463CC-B38D-43C2-BAFA-65C944F2D08B"
+		}
+	]
 }

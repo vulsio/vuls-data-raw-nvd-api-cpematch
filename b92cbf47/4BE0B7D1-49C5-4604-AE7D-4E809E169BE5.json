@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.14.14",
 	"created": "2024-09-25T18:44:54.380",
 	"lastModified": "2024-09-25T18:44:54.380",
-	"cpeLastModified": "2024-09-25T18:44:54.380",
+	"cpeLastModified": "2024-12-18T13:31:04.537",
 	"status": "Active",
 	"matches": [
 		{
@@ -1258,6 +1258,10 @@
 		{
 			"cpeName": "cpe:2.3:a:cilium:cilium:1.14.2:*:*:*:*:*:*:*",
 			"cpeNameId": "067F4063-F6AC-4070-A177-1E81A55620FF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cilium:cilium:1.14.7:*:*:*:*:*:*:*",
+			"cpeNameId": "41BFC499-3C3D-4C33-B8BF-DDE7D337B681"
 		}
 	]
 }

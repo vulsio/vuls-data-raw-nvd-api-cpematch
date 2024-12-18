@@ -3,10 +3,14 @@
 	"matchCriteriaId": "F73D607F-2879-4E92-BD95-E3ADBA7EFB25",
 	"versionEndIncluding": "7.14",
 	"created": "2024-11-19T16:23:00.487",
-	"lastModified": "2024-11-19T16:23:00.487",
-	"cpeLastModified": "2024-11-19T16:23:00.487",
+	"lastModified": "2024-12-18T13:27:31.790",
+	"cpeLastModified": "2024-12-18T13:27:31.790",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cesanta:mongoose:-:*:*:*:*:*:*:*",
+			"cpeNameId": "51B5F720-4DB3-499A-A657-89172D2C55B0"
+		},
 		{
 			"cpeName": "cpe:2.3:a:cesanta:mongoose:3.2:*:*:*:*:*:*:*",
 			"cpeNameId": "3CA03C21-4826-4FBF-B322-2D2D5C89BFC8"
@@ -198,6 +202,18 @@
 		{
 			"cpeName": "cpe:2.3:a:cesanta:mongoose:7.11:*:*:*:*:*:*:*",
 			"cpeNameId": "7015D504-A719-448C-952C-975F1F788CFC"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cesanta:mongoose:7.12:*:*:*:*:*:*:*",
+			"cpeNameId": "8B7F39A1-F6E4-4422-9319-9F16C709F6F3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cesanta:mongoose:7.13:*:*:*:*:*:*:*",
+			"cpeNameId": "41D305E8-0549-4397-86D0-C80280A59F1C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cesanta:mongoose:7.14:*:*:*:*:*:*:*",
+			"cpeNameId": "4301C9E6-5EE7-417D-AB1C-A44866F74FAE"
 		}
 	]
 }

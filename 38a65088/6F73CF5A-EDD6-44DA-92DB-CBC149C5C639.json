@@ -5,7 +5,7 @@
 	"versionEndExcluding": "7.0",
 	"created": "2023-06-28T15:17:05.340",
 	"lastModified": "2023-06-28T15:17:05.340",
-	"cpeLastModified": "2023-06-28T15:17:05.340",
+	"cpeLastModified": "2024-12-18T12:09:14.957",
 	"status": "Active",
 	"matches": [
 		{
@@ -235,6 +235,10 @@
 		{
 			"cpeName": "cpe:2.3:a:vmware:vcenter_server:6.0:u2m:*:*:*:*:*:*",
 			"cpeNameId": "FAE8409F-BC97-4B1A-A59A-7116CAB8F62D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vmware:vcenter_server:6.0:u3:*:*:*:*:*:*",
+			"cpeNameId": "F46A8E7B-451E-49CB-BCDF-86259F3915F3"
 		},
 		{
 			"cpeName": "cpe:2.3:a:vmware:vcenter_server:6.0:u3a:*:*:*:*:*:*",
