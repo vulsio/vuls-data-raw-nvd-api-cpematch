@@ -4,13 +4,17 @@
 	"versionStartIncluding": "11.9.0",
 	"versionEndExcluding": "11.9.1.1",
 	"created": "2024-12-02T16:29:13.937",
-	"lastModified": "2024-12-02T16:29:13.937",
-	"cpeLastModified": "2024-12-02T16:29:13.937",
+	"lastModified": "2024-12-18T18:40:58.467",
+	"cpeLastModified": "2024-12-18T18:40:58.467",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:ivanti:endpoint_manager_mobile:11.9.0:*:*:*:*:*:*:*",
 			"cpeNameId": "04E896B0-A72B-4F4E-9AA4-BEB4EF2B5DAF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ivanti:endpoint_manager_mobile:11.9.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "3EB64182-D478-4E3A-A3ED-9CCF85959A5B"
 		},
 		{
 			"cpeName": "cpe:2.3:a:ivanti:endpoint_manager_mobile:11.9.0.1:*:*:*:*:*:*:*",
