@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.30.0",
 	"created": "2024-07-03T13:33:43.663",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:33:43.663",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:xps_13_7390_2-in-1_firmware:1.26.0:*:*:*:*:*:*:*",
 			"cpeNameId": "9174D3D7-BFCB-43F9-9598-89AF17FEB568"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:xps_13_7390_2-in-1_firmware:1.29.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B9821B67-963C-4044-A119-826D5E4E4FB8"
 		}
 	]
 }

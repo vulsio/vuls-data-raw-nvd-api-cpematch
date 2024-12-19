@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.29.0",
 	"created": "2024-07-03T13:12:08.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:12:08.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -22,6 +22,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:optiplex_5060_firmware:1.23.0:*:*:*:*:*:*:*",
 			"cpeNameId": "15FDE9AE-0917-4D44-9EE8-3EBB1EDF6863"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:optiplex_5060_firmware:1.28.0:*:*:*:*:*:*:*",
+			"cpeNameId": "01A3BE66-22DD-4BF6-A18E-51C9D4D40F01"
 		}
 	]
 }

@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.29.0",
 	"created": "2024-07-03T13:22:32.850",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:22:32.850",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:precision_7760_firmware:1.18.0:*:*:*:*:*:*:*",
 			"cpeNameId": "4456F41C-C41D-4588-A7B9-878FCF10BB96"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_7760_firmware:1.27.0:*:*:*:*:*:*:*",
+			"cpeNameId": "7B7B02D0-A44B-421F-8929-7C241775596A"
 		}
 	]
 }

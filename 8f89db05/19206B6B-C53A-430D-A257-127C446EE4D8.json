@@ -4,6 +4,16 @@
 	"versionEndExcluding": "1.17.0",
 	"created": "2022-03-17T15:39:29.943",
 	"lastModified": "2022-03-17T15:39:29.943",
-	"cpeLastModified": "2022-03-18T20:21:07.293",
-	"status": "Active"
+	"cpeLastModified": "2024-12-19T14:55:11.860",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:edge_gateway_5100_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9EC1E3FD-8AC8-4D32-A9AF-EDB681F79722"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:edge_gateway_5100_firmware:0.1.19.0:*:*:*:*:*:*:*",
+			"cpeNameId": "485B09C1-03A6-4F69-BC3F-F8DB6671B930"
+		}
+	]
 }

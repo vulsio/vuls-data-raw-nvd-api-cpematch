@@ -3,8 +3,8 @@
 	"matchCriteriaId": "C3862880-0166-4972-B3AC-BAD0528CD252",
 	"versionEndExcluding": "1.28.0",
 	"created": "2024-09-17T19:43:52.270",
-	"lastModified": "2024-09-17T19:43:52.270",
-	"cpeLastModified": "2024-09-17T19:43:52.270",
+	"lastModified": "2024-12-19T14:33:42.000",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:inspiron_7500_firmware:1.24.0:*:*:*:*:*:*:*",
 			"cpeNameId": "1656E5B5-2D1A-4A72-BCB4-25B8AE18A314"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_7500_firmware:1.26.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B5D572FB-54E5-4A82-B93D-56D75E3DE046"
 		},
 		{
 			"cpeName": "cpe:2.3:o:dell:inspiron_7500_firmware:1.27.0:*:*:*:*:*:*:*",

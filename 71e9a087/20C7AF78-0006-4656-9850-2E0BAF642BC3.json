@@ -4,6 +4,12 @@
 	"versionEndExcluding": "1.18.0",
 	"created": "2023-06-27T14:13:41.980",
 	"lastModified": "2023-06-27T14:13:41.980",
-	"cpeLastModified": "2023-06-27T14:13:41.980",
-	"status": "Active"
+	"cpeLastModified": "2024-12-19T14:33:42.000",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:alienware_x15_r1_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A9927462-21EA-4008-978C-DF63A1E47091"
+		}
+	]
 }

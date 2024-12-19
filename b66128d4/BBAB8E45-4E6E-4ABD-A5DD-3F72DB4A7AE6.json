@@ -3,7 +3,7 @@
 	"matchCriteriaId": "BBAB8E45-4E6E-4ABD-A5DD-3F72DB4A7AE6",
 	"created": "2023-02-21T15:21:25.223",
 	"lastModified": "2023-02-24T12:01:06.277",
-	"cpeLastModified": "2024-01-12T18:55:24.630",
+	"cpeLastModified": "2024-12-19T15:49:46.363",
 	"status": "Active",
 	"matches": [
 		{
@@ -1465,6 +1465,50 @@
 		{
 			"cpeName": "cpe:2.3:o:microsoft:windows_10_1507:10.0.10240.20402:*:*:*:*:*:x86:*",
 			"cpeNameId": "C5E3D526-6249-4B11-9652-B9F08F6FD549"
+		},
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_10_1507:10.0.10240.20526:*:*:*:*:*:x64:*",
+			"cpeNameId": "53F60FCD-24AC-46F8-8BB8-CC625CABB63A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_10_1507:10.0.10240.20526:*:*:*:*:*:x86:*",
+			"cpeNameId": "67EE21CA-F8E2-4DBF-AEF6-BFE254B5565A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_10_1507:10.0.10240.20651:*:*:*:*:*:x64:*",
+			"cpeNameId": "58650873-F214-4BA4-B4F5-5D3D3679A42F"
+		},
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_10_1507:10.0.10240.20651:*:*:*:*:*:x86:*",
+			"cpeNameId": "8CE8BA80-250A-4729-870D-77C2DDD48EB9"
+		},
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_10_1507:10.0.10240.20710:*:*:*:*:*:x64:*",
+			"cpeNameId": "57C71280-EC7C-44CD-A3E3-D404AC0418C6"
+		},
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_10_1507:10.0.10240.20710:*:*:*:*:*:x86:*",
+			"cpeNameId": "75521924-8191-4D0C-97E0-38B87AC1DDDE"
+		},
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_10_1507:10.0.10240.20751:*:*:*:*:*:x64:*",
+			"cpeNameId": "DF36A2EC-FCD2-43FD-9635-8CBE329E4C8E"
+		},
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_10_1507:10.0.10240.20766:*:*:*:*:*:x64:*",
+			"cpeNameId": "3CC87C7D-DA85-4BBA-B9D7-B69E9CA2FA8D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_10_1507:10.0.10240.20766:*:*:*:*:*:x86:*",
+			"cpeNameId": "ED740579-1244-4E9D-886E-5E0BC05D324B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_10_1507:10.0.10240.20826:*:*:*:*:*:x64:*",
+			"cpeNameId": "7BF7DF86-906E-4956-95EE-248FE80F09D4"
+		},
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_10_1507:10.0.10240.20826:*:*:*:*:*:x86:*",
+			"cpeNameId": "E5C231B7-BFF7-4718-A80D-0ACBA76E5309"
 		}
 	]
 }

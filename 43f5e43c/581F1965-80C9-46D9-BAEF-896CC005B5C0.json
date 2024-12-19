@@ -4,6 +4,12 @@
 	"versionEndExcluding": "1.15.0",
 	"created": "2023-06-27T14:44:40.767",
 	"lastModified": "2023-06-27T14:44:40.767",
-	"cpeLastModified": "2023-06-27T14:44:40.767",
-	"status": "Active"
+	"cpeLastModified": "2024-12-19T14:33:42.000",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_3671_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B0C23CE1-0837-483A-8E8C-FE410C6F82AC"
+		}
+	]
 }

@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.21.0",
 	"created": "2024-07-03T13:12:08.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:12:08.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:latitude_5430_firmware:1.15.0:*:*:*:*:*:*:*",
 			"cpeNameId": "4B883475-88A2-4C58-96F2-531ABD474193"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_5430_firmware:1.19.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E5124F89-E5B8-4AF5-94B9-0D969DFB681F"
 		}
 	]
 }

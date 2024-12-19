@@ -3,8 +3,8 @@
 	"matchCriteriaId": "4BAADFD0-157C-48E5-813B-C83310301ECF",
 	"versionEndExcluding": "2.0.6.5",
 	"created": "2024-09-25T21:26:59.327",
-	"lastModified": "2024-09-25T21:26:59.327",
-	"cpeLastModified": "2024-09-25T21:26:59.327",
+	"lastModified": "2024-12-19T15:26:29.030",
+	"cpeLastModified": "2024-12-19T15:26:29.030",
 	"status": "Active",
 	"matches": [
 		{
@@ -438,6 +438,14 @@
 		{
 			"cpeName": "cpe:2.3:a:master-addons:master_addons:2.0.6.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "5F18DC52-CE07-41BD-88B4-B1E544F8C0C0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:master-addons:master_addons:2.0.6.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BD03BE3C-D928-4823-82E2-9061F3192A24"
+		},
+		{
+			"cpeName": "cpe:2.3:a:master-addons:master_addons:2.0.6.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4E6D734A-A0A4-4DA9-A5DA-23C7ABCD7802"
 		}
 	]
 }

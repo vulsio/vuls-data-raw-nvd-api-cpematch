@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.30.0",
 	"created": "2024-07-03T13:12:08.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:12:08.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -22,6 +22,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:latitude_5501_firmware:1.8.4:*:*:*:*:*:*:*",
 			"cpeNameId": "42793FA0-6CD7-4A64-A0AE-74D5536154DC"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_5501_firmware:1.28.0:*:*:*:*:*:*:*",
+			"cpeNameId": "25AA158B-8669-40DF-9D10-C026BC2FD43B"
 		}
 	]
 }

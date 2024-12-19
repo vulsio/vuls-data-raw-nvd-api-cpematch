@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.28.0",
 	"created": "2024-07-03T13:12:08.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:12:08.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:latitude_7410_firmware:1.24.0:*:*:*:*:*:*:*",
 			"cpeNameId": "22540E10-C372-4114-9D66-746D8F16B425"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_7410_firmware:1.26.0:*:*:*:*:*:*:*",
+			"cpeNameId": "BAB010A6-2740-4F83-8293-17B3B1547798"
 		}
 	]
 }

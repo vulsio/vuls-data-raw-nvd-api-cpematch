@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.21.0",
 	"created": "2024-07-03T12:49:03.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -22,6 +22,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:inspiron_16_plus_7620_firmware:1.13.0:*:*:*:*:*:*:*",
 			"cpeNameId": "54D298D0-BD6C-4D32-AA52-AA252A42C343"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_16_plus_7620_firmware:1.20.0:*:*:*:*:*:*:*",
+			"cpeNameId": "14D8F0C5-032D-48A7-BDCE-59E43C0F4E1A"
 		}
 	]
 }

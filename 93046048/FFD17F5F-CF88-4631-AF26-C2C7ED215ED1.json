@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.30.0",
 	"created": "2024-07-03T13:12:08.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:12:08.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:latitude_5300_2-in-1_firmware:1.27.0:*:*:*:*:*:*:*",
 			"cpeNameId": "3548F71F-1D8B-4B6A-9C04-AC82410174E1"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_5300_2-in-1_firmware:1.29.0:*:*:*:*:*:*:*",
+			"cpeNameId": "34AB0863-D54F-4291-BF3F-69633E9ABC49"
 		}
 	]
 }

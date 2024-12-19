@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.31.0",
 	"created": "2024-07-03T13:22:32.850",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:22:32.850",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -30,6 +30,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:precision_7540_firmware:1.27.0:*:*:*:*:*:*:*",
 			"cpeNameId": "A6DCB3B7-8791-455A-8E4A-D8F0FCC5A9F6"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_7540_firmware:1.29.0:*:*:*:*:*:*:*",
+			"cpeNameId": "59F2B313-FD70-40FF-85D9-F91D21099370"
 		}
 	]
 }

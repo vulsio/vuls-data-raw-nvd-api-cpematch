@@ -3,8 +3,8 @@
 	"matchCriteriaId": "7C3239B3-6008-42A0-AB57-3EE79375E485",
 	"versionEndExcluding": "11.6.0.1021",
 	"created": "2024-09-19T16:17:42.167",
-	"lastModified": "2024-09-19T16:17:42.167",
-	"cpeLastModified": "2024-09-19T16:17:42.167",
+	"lastModified": "2024-12-19T15:36:43.220",
+	"cpeLastModified": "2024-12-19T15:36:43.220",
 	"status": "Active",
 	"matches": [
 		{
@@ -1462,6 +1462,10 @@
 		{
 			"cpeName": "cpe:2.3:a:mezz:justenoughitems:11.6.0:*:*:*:*:minecraft:*:*",
 			"cpeNameId": "314AC606-239B-4565-B72A-8594003DA6D9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mezz:justenoughitems:11.6.0.1020:*:*:*:*:minecraft:*:*",
+			"cpeNameId": "B491F9F3-0B10-4180-A485-DBB5E87310DF"
 		}
 	]
 }

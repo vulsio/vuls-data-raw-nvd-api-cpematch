@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.29.0",
 	"created": "2024-07-03T12:49:03.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -26,6 +26,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:inspiron_3580_firmware:1.25.0:*:*:*:*:*:*:*",
 			"cpeNameId": "8298ED15-CBA7-4016-81E9-5C26B54AB123"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_3580_firmware:1.27.0:*:*:*:*:*:*:*",
+			"cpeNameId": "33FE2398-2DC9-414A-908E-A4775CBB8056"
 		}
 	]
 }

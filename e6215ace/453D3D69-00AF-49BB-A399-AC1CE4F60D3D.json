@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.33.0",
 	"created": "2024-07-03T12:49:03.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:latitude_3190_firmware:1.28.0:*:*:*:*:*:*:*",
 			"cpeNameId": "7FA8EAFD-D6E3-4FFB-BA42-28FC3808BEDC"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_3190_firmware:1.31.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C631B32F-C106-445E-B084-899BF2F29A32"
 		}
 	]
 }

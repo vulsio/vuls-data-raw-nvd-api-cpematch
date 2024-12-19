@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.37.0",
 	"created": "2024-07-03T13:12:08.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:12:08.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -30,6 +30,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:latitude_7290_firmware:1.33.0:*:*:*:*:*:*:*",
 			"cpeNameId": "3B921F25-BE5D-4506-9081-4B9C97A5E313"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_7290_firmware:1.35.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C4CBB67B-CFFA-4233-BE15-7B9C35FACDE1"
 		}
 	]
 }

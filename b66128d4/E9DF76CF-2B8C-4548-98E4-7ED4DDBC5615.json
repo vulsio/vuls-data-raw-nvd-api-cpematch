@@ -3,7 +3,7 @@
 	"matchCriteriaId": "E9DF76CF-2B8C-4548-98E4-7ED4DDBC5615",
 	"created": "2023-02-24T12:19:49.373",
 	"lastModified": "2023-02-24T12:19:49.373",
-	"cpeLastModified": "2024-01-12T12:36:19.517",
+	"cpeLastModified": "2024-12-19T15:49:46.363",
 	"status": "Active",
 	"matches": [
 		{
@@ -501,6 +501,26 @@
 		{
 			"cpeName": "cpe:2.3:o:microsoft:windows_10_1507:10.0.10240.20402:*:*:*:*:*:x86:*",
 			"cpeNameId": "C5E3D526-6249-4B11-9652-B9F08F6FD549"
+		},
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_10_1507:10.0.10240.20526:*:*:*:*:*:x86:*",
+			"cpeNameId": "67EE21CA-F8E2-4DBF-AEF6-BFE254B5565A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_10_1507:10.0.10240.20651:*:*:*:*:*:x86:*",
+			"cpeNameId": "8CE8BA80-250A-4729-870D-77C2DDD48EB9"
+		},
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_10_1507:10.0.10240.20710:*:*:*:*:*:x86:*",
+			"cpeNameId": "75521924-8191-4D0C-97E0-38B87AC1DDDE"
+		},
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_10_1507:10.0.10240.20766:*:*:*:*:*:x86:*",
+			"cpeNameId": "ED740579-1244-4E9D-886E-5E0BC05D324B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows_10_1507:10.0.10240.20826:*:*:*:*:*:x86:*",
+			"cpeNameId": "E5C231B7-BFF7-4718-A80D-0ACBA76E5309"
 		}
 	]
 }

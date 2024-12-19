@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.29.0",
 	"created": "2024-07-03T13:22:32.850",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:22:32.850",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:precision_3561_firmware:1.18.0:*:*:*:*:*:*:*",
 			"cpeNameId": "2EBBD1F3-CA9B-4EEB-80B5-B9067E65EEAF"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_3561_firmware:1.27.0:*:*:*:*:*:*:*",
+			"cpeNameId": "7EBEA041-61CA-4DB3-8819-74515BF0698D"
 		}
 	]
 }

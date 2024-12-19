@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:juniper:junos:23.1:-:*:*:*:*:*:*",
 	"matchCriteriaId": "A6B764F3-EE2A-4CA1-8A7E-ED1D86037B8B",
 	"created": "2024-01-19T17:47:13.707",
-	"lastModified": "2024-01-19T17:47:13.707",
-	"cpeLastModified": "2024-01-19T17:47:13.707",
-	"status": "Active"
+	"lastModified": "2024-12-19T15:00:11.670",
+	"cpeLastModified": "2024-12-19T15:00:11.670",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos:23.1:-:*:*:*:*:*:*",
+			"cpeNameId": "BFE89982-41BC-41D2-A4DE-0A3C6CEE6BB0"
+		}
+	]
 }

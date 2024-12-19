@@ -4,7 +4,7 @@
 	"versionEndIncluding": "23.4",
 	"created": "2023-09-06T00:28:54.993",
 	"lastModified": "2024-01-18T20:08:46.603",
-	"cpeLastModified": "2024-01-31T19:19:40.597",
+	"cpeLastModified": "2024-12-19T15:00:11.670",
 	"status": "Active",
 	"matches": [
 		{
@@ -4008,6 +4008,10 @@
 			"cpeNameId": "A6131A78-F8A1-49C1-8C40-322C5DBED468"
 		},
 		{
+			"cpeName": "cpe:2.3:o:juniper:junos:21.2:r3-s8:*:*:*:*:*:*",
+			"cpeNameId": "E70E6FF9-1238-44C4-B5B5-0544632F0D53"
+		},
+		{
 			"cpeName": "cpe:2.3:o:juniper:junos:21.3:-:*:*:*:*:*:*",
 			"cpeNameId": "C5AD6988-8634-477C-9DB9-81202509A3F1"
 		},
@@ -4112,6 +4116,18 @@
 			"cpeNameId": "185DE264-D651-496B-A8EA-F2F8E38662C5"
 		},
 		{
+			"cpeName": "cpe:2.3:o:juniper:junos:21.4:r3-s6:*:*:*:*:*:*",
+			"cpeNameId": "27291ABF-CB52-478A-9B2F-B13ABA0F8655"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos:21.4:r3-s7:*:*:*:*:*:*",
+			"cpeNameId": "06EB9B40-D023-4A95-8D1D-28BF931F5B39"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos:21.4:r3-s8:*:*:*:*:*:*",
+			"cpeNameId": "DD3628A7-0C5C-44B8-9F1A-FE3202DC7DFF"
+		},
+		{
 			"cpeName": "cpe:2.3:o:juniper:junos:22.1:-:*:*:*:*:*:*",
 			"cpeNameId": "93B6FF94-C623-4D94-8B6B-7429BD9BCDC3"
 		},
@@ -4204,6 +4220,14 @@
 			"cpeNameId": "15DB47ED-D3F8-4E2C-A057-AB56CC3AC34F"
 		},
 		{
+			"cpeName": "cpe:2.3:o:juniper:junos:22.2:r3-s3:*:*:*:*:*:*",
+			"cpeNameId": "4E5DE10E-B98C-4B3A-9AF4-55CF6CCD5D70"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos:22.2:r3-s4:*:*:*:*:*:*",
+			"cpeNameId": "ECC6539C-8A7E-4A6E-8337-73DEA6AA5AA0"
+		},
+		{
 			"cpeName": "cpe:2.3:o:juniper:junos:22.3:-:*:*:*:*:*:*",
 			"cpeNameId": "8ADF9432-83BC-4DBF-8478-62DD8707488A"
 		},
@@ -4238,6 +4262,14 @@
 		{
 			"cpeName": "cpe:2.3:o:juniper:junos:22.3:r3-s1:*:*:*:*:*:*",
 			"cpeNameId": "37067508-A640-4A67-8403-F08273968225"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos:22.3:r3-s2:*:*:*:*:*:*",
+			"cpeNameId": "DE13FD2C-D681-46D2-B69D-B19E9EB0F2EB"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos:22.3:r3-s3:*:*:*:*:*:*",
+			"cpeNameId": "4070D642-B5D8-4CF3-83BC-1673751DE6EC"
 		},
 		{
 			"cpeName": "cpe:2.3:o:juniper:junos:22.4:-:*:*:*:*:*:*",
@@ -4276,8 +4308,28 @@
 			"cpeNameId": "75386336-0B8F-4C11-962E-303900DF0DF0"
 		},
 		{
+			"cpeName": "cpe:2.3:o:juniper:junos:22.4:r3-s1:*:*:*:*:*:*",
+			"cpeNameId": "8209FA1A-F23F-4196-B89C-AD499BB4CEE0"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos:22.4:r3-s2:*:*:*:*:*:*",
+			"cpeNameId": "002071BA-1B6A-4196-8A5E-2E52267C83F2"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos:22.4:r3-s3:*:*:*:*:*:*",
+			"cpeNameId": "085B25F0-578F-4381-BED3-B60F4ABF218A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos:23.1:-:*:*:*:*:*:*",
+			"cpeNameId": "BFE89982-41BC-41D2-A4DE-0A3C6CEE6BB0"
+		},
+		{
 			"cpeName": "cpe:2.3:o:juniper:junos:23.1:r1:*:*:*:*:*:*",
 			"cpeNameId": "92812CA8-5675-495D-A1DE-B8BB623BBA13"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos:23.2:-:*:*:*:*:*:*",
+			"cpeNameId": "7D775BBC-495B-4EFE-9C1F-AE1557362351"
 		},
 		{
 			"cpeName": "cpe:2.3:o:juniper:junos:23.2:r1:*:*:*:*:*:*",
@@ -4292,8 +4344,32 @@
 			"cpeNameId": "7D34E623-4F83-4A5B-A0D9-66044FBE7CAD"
 		},
 		{
+			"cpeName": "cpe:2.3:o:juniper:junos:23.2:r2:*:*:*:*:*:*",
+			"cpeNameId": "214A7872-BE6C-4D17-9182-A4A5BB1421A5"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos:23.2:r2-s1:*:*:*:*:*:*",
+			"cpeNameId": "8F9BC3F7-844B-4FF1-92F7-7F248D7547D4"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos:23.4:-:*:*:*:*:*:*",
+			"cpeNameId": "7D328AA9-F9F4-45B6-96FD-BB263219D032"
+		},
+		{
 			"cpeName": "cpe:2.3:o:juniper:junos:23.4:r1:*:*:*:*:*:*",
 			"cpeNameId": "A419C24E-4F26-44F1-8812-80B984854290"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos:23.4:r1-s1:*:*:*:*:*:*",
+			"cpeNameId": "93BA9A88-C0AC-499F-8EB4-76C002B4DE2E"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos:23.4:r1-s2:*:*:*:*:*:*",
+			"cpeNameId": "4A163D21-B01D-42FD-8D42-18B2B5C38F22"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos:23.4:r2:*:*:*:*:*:*",
+			"cpeNameId": "26F19390-55C6-40B6-AAAD-40CF97A514C7"
 		}
 	]
 }

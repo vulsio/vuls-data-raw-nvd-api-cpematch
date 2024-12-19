@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.1.16",
 	"created": "2024-07-03T13:22:32.850",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:22:32.850",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:precision_7960_tower_firmware:1.0.9:*:*:*:*:*:*:*",
 			"cpeNameId": "B774C2FC-DF11-45F8-9056-35B98483C322"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_7960_tower_firmware:1.1.15:*:*:*:*:*:*:*",
+			"cpeNameId": "B7947003-14A7-4128-99A2-AEAC0359350E"
 		}
 	]
 }

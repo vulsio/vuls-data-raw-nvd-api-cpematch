@@ -4,12 +4,16 @@
 	"versionEndExcluding": "3.8.4",
 	"created": "2022-06-07T12:25:46.310",
 	"lastModified": "2022-06-07T12:25:46.310",
-	"cpeLastModified": "2022-07-30T03:52:15.603",
+	"cpeLastModified": "2024-12-19T14:56:05.700",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:a:dell:openmanage_enterprise:-:*:*:*:*:*:*:*",
 			"cpeNameId": "21A27D24-C049-43E8-A31E-6E0F1AE30C26"
+		},
+		{
+			"cpeName": "cpe:2.3:a:dell:openmanage_enterprise:3.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F7D33523-B007-40CE-B740-1EA458B4CEF7"
 		},
 		{
 			"cpeName": "cpe:2.3:a:dell:openmanage_enterprise:3.5:*:*:*:*:*:*:*",

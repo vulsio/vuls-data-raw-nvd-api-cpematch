@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.12.0",
 	"created": "2024-07-03T12:49:03.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:chengming_3910_firmware:1.6.0:*:*:*:*:*:*:*",
 			"cpeNameId": "29CFA510-8BA6-476A-8F43-9C664084020C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:chengming_3910_firmware:1.11.0:*:*:*:*:*:*:*",
+			"cpeNameId": "940302A3-EC3B-42BC-B848-596FF9F66923"
 		}
 	]
 }

@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.25.0",
 	"created": "2024-07-03T13:22:32.850",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:22:32.850",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:precision_3240_compact_firmware:1.20.0:*:*:*:*:*:*:*",
 			"cpeNameId": "C0243BAF-B71D-49AF-B302-94CCD0D3BFB4"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_3240_compact_firmware:1.23.0:*:*:*:*:*:*:*",
+			"cpeNameId": "85A417AB-3AB5-431F-8E87-95A14E81EE93"
 		}
 	]
 }

@@ -4,6 +4,12 @@
 	"versionEndExcluding": "1.03.10",
 	"created": "2022-09-06T13:27:08.837",
 	"lastModified": "2022-09-06T13:27:08.837",
-	"cpeLastModified": "2022-09-06T13:27:08.837",
-	"status": "Active"
+	"cpeLastModified": "2024-12-19T14:33:42.000",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:edge_gateway_5200_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D6B7B730-93C8-4B3C-971C-B57BF1A9C507"
+		}
+	]
 }

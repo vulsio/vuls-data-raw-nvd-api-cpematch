@@ -3,8 +3,8 @@
 	"matchCriteriaId": "F671D387-D3D8-405D-8C52-2DFCE9E92A62",
 	"versionEndExcluding": "9.8.0",
 	"created": "2024-09-26T18:00:26.043",
-	"lastModified": "2024-09-26T18:00:26.043",
-	"cpeLastModified": "2024-09-26T18:00:26.043",
+	"lastModified": "2024-12-19T15:35:14.280",
+	"cpeLastModified": "2024-12-19T15:35:14.280",
 	"status": "Active",
 	"matches": [
 		{
@@ -606,6 +606,14 @@
 		{
 			"cpeName": "cpe:2.3:a:maxfoundry:maxbuttons:9.7.6:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "81DED3B4-66C0-45AE-9E90-FCAE173FEFF4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:maxfoundry:maxbuttons:9.7.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0F56C7C2-036E-4B40-8D3F-4F48FB29E46B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:maxfoundry:maxbuttons:9.7.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A34EAC56-5231-4947-89BD-9C7529A50A22"
 		}
 	]
 }

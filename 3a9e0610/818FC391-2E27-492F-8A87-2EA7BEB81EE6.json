@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.29.0",
 	"created": "2024-07-03T13:12:08.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:12:08.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:optiplex_xe3_firmware:1.4.2:*:*:*:*:*:*:*",
 			"cpeNameId": "1A902F5D-F48B-4DFB-AB69-8300E4C526E6"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:optiplex_xe3_firmware:1.28.0:*:*:*:*:*:*:*",
+			"cpeNameId": "BEB88D97-8B34-42EC-A239-35A57B05FA65"
 		}
 	]
 }

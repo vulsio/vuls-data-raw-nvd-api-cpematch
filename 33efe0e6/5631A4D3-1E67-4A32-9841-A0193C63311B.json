@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.27.0",
 	"created": "2024-07-03T12:49:03.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -22,6 +22,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:inspiron_15_3511_firmware:1.23.0:*:*:*:*:*:*:*",
 			"cpeNameId": "D951E8CA-78EF-4163-A8F1-FF2E830ADC51"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_15_3511_firmware:1.26.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F8CA3A45-89A9-453A-BCF8-D41A6DB44039"
 		}
 	]
 }

@@ -4,6 +4,12 @@
 	"versionEndExcluding": "1.11.0",
 	"created": "2022-10-13T18:49:52.637",
 	"lastModified": "2022-10-13T18:49:52.637",
-	"cpeLastModified": "2022-10-13T18:49:52.637",
-	"status": "Active"
+	"cpeLastModified": "2024-12-19T14:33:42.000",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:alienware_x17_r1_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "392E10EF-6BEA-4D7A-8817-1080D0DD71BA"
+		}
+	]
 }

@@ -4,8 +4,8 @@
 	"versionStartIncluding": "16.0.0",
 	"versionEndExcluding": "19.5.0.34",
 	"created": "2024-09-19T16:17:42.167",
-	"lastModified": "2024-09-19T16:17:42.167",
-	"cpeLastModified": "2024-09-19T16:17:42.167",
+	"lastModified": "2024-12-19T15:36:43.220",
+	"cpeLastModified": "2024-12-19T15:36:43.220",
 	"status": "Active",
 	"matches": [
 		{
@@ -67,6 +67,10 @@
 		{
 			"cpeName": "cpe:2.3:a:mezz:justenoughitems:19.5.0:*:*:*:*:minecraft:*:*",
 			"cpeNameId": "247B3C6C-6ADD-45E4-B7F9-F4D272C5805E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:mezz:justenoughitems:19.5.0.33:*:*:*:*:minecraft:*:*",
+			"cpeNameId": "3CC20279-C7E5-49CD-A088-CD1946337169"
 		}
 	]
 }

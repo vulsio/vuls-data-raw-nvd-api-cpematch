@@ -3,8 +3,8 @@
 	"matchCriteriaId": "27550A7C-DC53-4371-A31D-531FB459F1DB",
 	"versionEndExcluding": "1.28.0",
 	"created": "2024-09-17T19:43:52.270",
-	"lastModified": "2024-09-17T19:43:52.270",
-	"cpeLastModified": "2024-09-17T19:43:52.270",
+	"lastModified": "2024-12-19T14:33:42.000",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:inspiron_7501_firmware:1.24.0:*:*:*:*:*:*:*",
 			"cpeNameId": "5C019F32-A46B-4B88-9771-7448D590854F"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_7501_firmware:1.26.0:*:*:*:*:*:*:*",
+			"cpeNameId": "3C6CEEE8-90CE-430C-985D-D5B1CD612C88"
 		},
 		{
 			"cpeName": "cpe:2.3:o:dell:inspiron_7501_firmware:1.27.0:*:*:*:*:*:*:*",

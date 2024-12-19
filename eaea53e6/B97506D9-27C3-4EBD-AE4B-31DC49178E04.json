@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.1.38",
 	"created": "2024-07-03T13:12:08.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:12:08.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:optiplex_5400_all-in-one_firmware:1.1.30:*:*:*:*:*:*:*",
 			"cpeNameId": "63261760-9BC5-4223-A0A2-D2F0EA0E04D0"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:optiplex_5400_all-in-one_firmware:1.1.37:*:*:*:*:*:*:*",
+			"cpeNameId": "B3A857A6-7767-48B6-83B1-0341BA93998C"
 		}
 	]
 }

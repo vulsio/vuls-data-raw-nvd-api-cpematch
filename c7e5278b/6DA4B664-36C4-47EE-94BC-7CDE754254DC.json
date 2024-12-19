@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.21.0",
 	"created": "2024-07-03T12:49:03.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -22,6 +22,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:inspiron_14_plus_7420_firmware:1.13.0:*:*:*:*:*:*:*",
 			"cpeNameId": "4F3643FA-6084-49EE-B56C-7A816BD21133"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_14_plus_7420_firmware:1.20.0:*:*:*:*:*:*:*",
+			"cpeNameId": "ACA81B9A-0D6F-46FA-881C-2288ED10B1ED"
 		}
 	]
 }

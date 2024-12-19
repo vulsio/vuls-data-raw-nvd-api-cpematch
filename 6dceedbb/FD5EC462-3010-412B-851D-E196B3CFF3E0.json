@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.29.0",
 	"created": "2024-07-03T13:12:08.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:12:08.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:latitude_7320_detachable_firmware:1.18.0:*:*:*:*:*:*:*",
 			"cpeNameId": "980CA1CA-ECC8-40CD-B394-165CD6AC2796"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_7320_detachable_firmware:1.28.0:*:*:*:*:*:*:*",
+			"cpeNameId": "522E6266-61D1-4042-A672-9663596212DF"
 		}
 	]
 }

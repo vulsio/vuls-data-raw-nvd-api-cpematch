@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.23.0",
 	"created": "2024-07-03T13:33:43.663",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:33:43.663",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -22,6 +22,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:xps_17_9720_firmware:1.17.1:*:*:*:*:*:*:*",
 			"cpeNameId": "B94181A5-308D-4620-8F48-286B6DC8FA6E"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:xps_17_9720_firmware:1.22.0:*:*:*:*:*:*:*",
+			"cpeNameId": "99DB41BC-44B3-467E-9DFD-391A44F210A8"
 		}
 	]
 }

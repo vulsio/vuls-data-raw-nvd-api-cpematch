@@ -4,12 +4,16 @@
 	"versionEndExcluding": "1.12.1",
 	"created": "2024-07-03T12:49:03.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-08-05T15:34:40.643",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:o:dell:alienware_x16_r1_firmware:-:*:*:*:*:*:*:*",
 			"cpeNameId": "C1040A54-B80A-4664-A837-2F37A540A2F2"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:alienware_x16_r1_firmware:1.11.0:*:*:*:*:*:*:*",
+			"cpeNameId": "2F82FBE2-4196-4BDF-B779-00189119757E"
 		}
 	]
 }

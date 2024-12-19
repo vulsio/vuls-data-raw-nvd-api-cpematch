@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.35.0",
 	"created": "2024-07-03T13:12:08.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:12:08.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:latitude_rugged_7220ex_firmware:1.30.0:*:*:*:*:*:*:*",
 			"cpeNameId": "03958F04-34B0-4392-AB97-286DF8BEA311"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_rugged_7220ex_firmware:1.33.0:*:*:*:*:*:*:*",
+			"cpeNameId": "8954C976-12D7-406D-8405-8EDEE76C8C33"
 		}
 	]
 }

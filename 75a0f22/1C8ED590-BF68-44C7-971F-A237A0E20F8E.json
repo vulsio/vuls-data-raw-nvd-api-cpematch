@@ -5,7 +5,7 @@
 	"versionEndExcluding": "22.4",
 	"created": "2024-09-23T14:15:47.870",
 	"lastModified": "2024-09-23T14:15:47.870",
-	"cpeLastModified": "2024-09-23T14:15:47.870",
+	"cpeLastModified": "2024-12-19T15:01:09.723",
 	"status": "Active",
 	"matches": [
 		{
@@ -19,6 +19,10 @@
 		{
 			"cpeName": "cpe:2.3:o:juniper:junos_os_evolved:22.2:r1-s1:*:*:*:*:*:*",
 			"cpeNameId": "86E7A978-0DCC-4DB0-8508-008CBDFCB707"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos_os_evolved:22.2:r1-s2:*:*:*:*:*:*",
+			"cpeNameId": "593FDACD-D896-49BE-91CA-0645469498C7"
 		},
 		{
 			"cpeName": "cpe:2.3:o:juniper:junos_os_evolved:22.2:r2:*:*:*:*:*:*",
@@ -43,6 +47,14 @@
 		{
 			"cpeName": "cpe:2.3:o:juniper:junos_os_evolved:22.2:r3-s2:*:*:*:*:*:*",
 			"cpeNameId": "2962EAD5-7777-41B3-917E-E07E4A8B2B88"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos_os_evolved:22.2:r3-s3:*:*:*:*:*:*",
+			"cpeNameId": "630AA954-7A59-4669-B3E0-738120CCB355"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos_os_evolved:22.2:r3-s4:*:*:*:*:*:*",
+			"cpeNameId": "A7A8DB37-528B-4E17-99A8-FEE4C26776DA"
 		},
 		{
 			"cpeName": "cpe:2.3:o:juniper:junos_os_evolved:22.3:-:*:*:*:*:*:*",
@@ -83,6 +95,10 @@
 		{
 			"cpeName": "cpe:2.3:o:juniper:junos_os_evolved:22.3:r3-s2:*:*:*:*:*:*",
 			"cpeNameId": "3E8EB4B0-2216-48E8-AEAF-F6A7426094DF"
+		},
+		{
+			"cpeName": "cpe:2.3:o:juniper:junos_os_evolved:22.3:r3-s3:*:*:*:*:*:*",
+			"cpeNameId": "41338ED4-04FC-4608-89BE-42F06D695574"
 		}
 	]
 }

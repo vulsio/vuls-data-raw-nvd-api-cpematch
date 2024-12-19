@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.26.0",
 	"created": "2024-07-03T12:49:03.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -22,6 +22,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:chengming_3990_firmware:1.21.0:*:*:*:*:*:*:*",
 			"cpeNameId": "6E859E06-7370-4D64-A1A2-7F98AC1313A8"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:chengming_3990_firmware:1.24.0:*:*:*:*:*:*:*",
+			"cpeNameId": "1AC61D7D-0ECC-4CCB-A6BB-5920198C1459"
 		}
 	]
 }

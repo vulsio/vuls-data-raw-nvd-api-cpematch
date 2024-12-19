@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2.25.0",
 	"created": "2024-07-03T12:49:03.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -22,6 +22,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:inspiron_14_5410_firmware:2.20.0:*:*:*:*:*:*:*",
 			"cpeNameId": "4A5FB56C-BB23-4570-8482-CA6D4ECA2009"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_14_5410_firmware:2.24.0:*:*:*:*:*:*:*",
+			"cpeNameId": "BE041881-9928-49BC-8335-90C04E55CB8E"
 		}
 	]
 }

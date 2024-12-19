@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.28.0",
 	"created": "2024-07-03T13:12:08.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:12:08.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:latitude_7200_2-in-1_firmware:1.23.0:*:*:*:*:*:*:*",
 			"cpeNameId": "2C41A378-7B18-4E75-B1CD-9C5AF24A0721"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_7200_2-in-1_firmware:1.26.0:*:*:*:*:*:*:*",
+			"cpeNameId": "1355E676-F24B-4B65-871E-3D906F40ED2B"
 		}
 	]
 }

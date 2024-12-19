@@ -3,7 +3,13 @@
 	"matchCriteriaId": "F084A15D-0C77-4AC7-A2E8-CCE5B638C968",
 	"versionEndExcluding": "2.7.0",
 	"created": "2024-08-14T17:49:49.567",
-	"lastModified": "2024-08-14T17:49:49.567",
-	"cpeLastModified": "2024-08-14T17:49:49.567",
-	"status": "Active"
+	"lastModified": "2024-12-19T14:33:42.000",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:aurora_r16_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F83452CB-908C-4A59-8282-62DEA19B5FCE"
+		}
+	]
 }

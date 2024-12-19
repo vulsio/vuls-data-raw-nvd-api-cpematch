@@ -3,8 +3,8 @@
 	"matchCriteriaId": "D35312EA-BE2C-45E1-B86D-676F64AAF4F0",
 	"versionEndExcluding": "1.24.0",
 	"created": "2024-11-22T16:25:26.533",
-	"lastModified": "2024-11-22T16:25:26.533",
-	"cpeLastModified": "2024-11-22T16:25:26.533",
+	"lastModified": "2024-12-19T14:33:42.000",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:alienware_m15_r4_firmware:1.6.2:*:*:*:*:*:*:*",
 			"cpeNameId": "1EDD2361-3C24-4526-BB47-EF62D42FAF25"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:alienware_m15_r4_firmware:1.21.0:*:*:*:*:*:*:*",
+			"cpeNameId": "58A316B2-B03C-40A3-8ADF-92D86D5A9AF6"
 		}
 	]
 }

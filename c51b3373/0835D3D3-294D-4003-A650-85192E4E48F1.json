@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.26.0",
 	"created": "2024-07-03T12:49:03.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:inspiron_5401_firmware:1.18.0:*:*:*:*:*:*:*",
 			"cpeNameId": "81F6503F-1024-4E21-91E4-03019E854DFC"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_5401_firmware:1.24.0:*:*:*:*:*:*:*",
+			"cpeNameId": "6A3D79A9-CB7C-4128-9EFC-5F38F23259B5"
 		}
 	]
 }

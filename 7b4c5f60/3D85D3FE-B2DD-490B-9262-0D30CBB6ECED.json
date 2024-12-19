@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.12.0",
 	"created": "2024-07-03T13:12:08.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:12:08.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:optiplex_small_form_factor_plus_7010_firmware:1.6.0:*:*:*:*:*:*:*",
 			"cpeNameId": "B750BC97-0D52-492D-803E-860E2FDF0FEA"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:optiplex_small_form_factor_plus_7010_firmware:1.11.0:*:*:*:*:*:*:*",
+			"cpeNameId": "3C3FCBB0-792B-4C15-8CF1-E3FD12B0DB1F"
 		}
 	]
 }

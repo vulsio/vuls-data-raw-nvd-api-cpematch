@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.30.0",
 	"created": "2024-07-03T12:49:03.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -22,6 +22,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:inspiron_5593_firmware:1.27.0:*:*:*:*:*:*:*",
 			"cpeNameId": "9248D6BC-0A52-4350-A05E-B7CE8725AE4A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_5593_firmware:1.29.0:*:*:*:*:*:*:*",
+			"cpeNameId": "AA989E47-AEB3-4A35-B97F-17DAA0AE48DF"
 		}
 	]
 }

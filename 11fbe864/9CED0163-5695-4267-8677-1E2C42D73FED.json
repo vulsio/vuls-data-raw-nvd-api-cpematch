@@ -4,7 +4,7 @@
 	"versionEndExcluding": "7.0.12",
 	"created": "2021-02-05T13:03:44.237",
 	"lastModified": "2021-02-05T13:03:44.237",
-	"cpeLastModified": "2024-10-17T14:10:07.187",
+	"cpeLastModified": "2024-12-19T13:52:27.227",
 	"status": "Active",
 	"matches": [
 		{
@@ -920,8 +920,48 @@
 			"cpeNameId": "8667F6E8-459A-46CB-A91C-9942335212DE"
 		},
 		{
+			"cpeName": "cpe:2.3:o:cisco:ios_xr:6.5.15:*:*:*:*:*:x64:*",
+			"cpeNameId": "F469010C-36BF-4F11-9253-0A6ACD6F5E53"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios_xr:6.5.25:*:*:*:*:*:*:*",
+			"cpeNameId": "BA0080B7-94DA-4BD0-971B-E3E557EE86B6"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios_xr:6.5.26:*:*:*:*:*:*:*",
+			"cpeNameId": "037A014D-1CD0-4113-B6B1-33C540C3F1E4"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios_xr:6.5.28:*:*:*:*:*:*:*",
+			"cpeNameId": "4691BCEF-693A-4531-B2DF-9880F53710BC"
+		},
+		{
 			"cpeName": "cpe:2.3:o:cisco:ios_xr:6.5.29:*:*:*:*:*:*:*",
 			"cpeNameId": "A6F386D0-E457-442F-BC93-E06B7F9DE649"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios_xr:6.5.31:*:*:*:*:*:*:*",
+			"cpeNameId": "67052193-F91A-4D86-8336-1C0AC15F5814"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios_xr:6.5.32:*:*:*:*:*:*:*",
+			"cpeNameId": "EC36A3D3-6C44-4C7E-B23D-C0FF1EE55537"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios_xr:6.5.33:*:*:*:*:*:*:*",
+			"cpeNameId": "9D27C5C9-A9ED-4DF5-A396-DF5BEB270BFE"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios_xr:6.5.90:*:*:*:*:*:*:*",
+			"cpeNameId": "41CB996B-266F-468A-B107-7593DDC15B70"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios_xr:6.5.92:*:*:*:*:*:x64:*",
+			"cpeNameId": "89E35954-59E9-4158-A33B-CA05FDE18C12"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios_xr:6.5.93:*:*:*:*:*:x64:*",
+			"cpeNameId": "D3E979EC-C363-4080-82AB-D9FD69842516"
 		},
 		{
 			"cpeName": "cpe:2.3:o:cisco:ios_xr:6.6.0:*:*:*:*:*:*:*",
@@ -960,6 +1000,10 @@
 			"cpeNameId": "66CA7455-3D3B-4F2C-A46D-17DB09A81C5E"
 		},
 		{
+			"cpeName": "cpe:2.3:o:cisco:ios_xr:6.6.11:*:*:*:*:*:x64:*",
+			"cpeNameId": "FB0DA1E3-7ECA-42D2-8334-EACE15C7D335"
+		},
+		{
 			"cpeName": "cpe:2.3:o:cisco:ios_xr:6.6.12:*:*:*:*:*:*:*",
 			"cpeNameId": "4002E211-B051-454C-80C7-CC2D0C2A5E1A"
 		},
@@ -986,6 +1030,30 @@
 		{
 			"cpeName": "cpe:2.3:o:cisco:ios_xr:6.7.3:*:*:*:*:*:*:*",
 			"cpeNameId": "77C89D5D-AE16-4F91-B115-984A081F419B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios_xr:6.7.4:*:*:*:*:*:*:*",
+			"cpeNameId": "BBDB3E68-B443-4522-B6BC-D98CD959E302"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios_xr:6.7.35:*:*:*:*:*:*:*",
+			"cpeNameId": "6BF6F680-4C0F-4B88-814D-511C180DDE48"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios_xr:6.8.1:*:*:*:*:*:*:*",
+			"cpeNameId": "47169100-0BA5-4FB0-A203-CEDAD2AF18D8"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios_xr:6.8.2:*:*:*:*:*:*:*",
+			"cpeNameId": "305E0F71-6ACA-4385-9EB3-6237DDE3633A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios_xr:6.9.1:*:*:*:*:*:*:*",
+			"cpeNameId": "33F442AC-010A-48E2-902E-693EE63D66DD"
+		},
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios_xr:6.9.2:*:*:*:*:*:*:*",
+			"cpeNameId": "36C7B1A1-C6AD-49C5-BAD5-B841CE2E48BD"
 		},
 		{
 			"cpeName": "cpe:2.3:o:cisco:ios_xr:7.0.0:*:*:*:*:*:*:*",

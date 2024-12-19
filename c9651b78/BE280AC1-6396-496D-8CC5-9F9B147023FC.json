@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.30.0",
 	"created": "2024-07-03T13:12:08.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:12:08.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -26,6 +26,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:latitude_7400_firmware:1.26.0:*:*:*:*:*:*:*",
 			"cpeNameId": "2A0E08C5-CBC4-4A71-A16B-EEA99E5098A9"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_7400_firmware:1.28.0:*:*:*:*:*:*:*",
+			"cpeNameId": "4526A30C-1D10-4402-8EAB-0FF61082F1DC"
 		}
 	]
 }

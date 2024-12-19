@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.28.0",
 	"created": "2024-07-03T13:12:08.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:12:08.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:optiplex_5490_all-in-one_firmware:1.23.0:*:*:*:*:*:*:*",
 			"cpeNameId": "79ABFC6D-F714-4BA4-9E2F-F0B9D7FE20B0"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:optiplex_5490_all-in-one_firmware:1.27.1:*:*:*:*:*:*:*",
+			"cpeNameId": "DFD21D81-53F8-40C1-A330-0FE0B9883AA8"
 		}
 	]
 }

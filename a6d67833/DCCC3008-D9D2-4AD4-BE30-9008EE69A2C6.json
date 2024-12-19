@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.25.0",
 	"created": "2024-07-03T13:12:08.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:12:08.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:optiplex_7080_firmware:1.21.0:*:*:*:*:*:*:*",
 			"cpeNameId": "20EAF3C0-1126-4A56-A8D4-659C6B8753E6"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:optiplex_7080_firmware:1.23.0:*:*:*:*:*:*:*",
+			"cpeNameId": "FCB5BADF-9A51-4540-A1EB-19BA34FD1680"
 		}
 	]
 }

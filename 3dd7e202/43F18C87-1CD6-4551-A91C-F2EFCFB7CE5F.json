@@ -3,8 +3,8 @@
 	"matchCriteriaId": "43F18C87-1CD6-4551-A91C-F2EFCFB7CE5F",
 	"versionEndExcluding": "1.36.0",
 	"created": "2024-09-17T19:43:52.270",
-	"lastModified": "2024-09-17T19:43:52.270",
-	"cpeLastModified": "2024-09-17T19:43:52.270",
+	"lastModified": "2024-12-19T14:33:42.000",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -22,6 +22,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:latitude_3420_firmware:1.29.0:*:*:*:*:*:*:*",
 			"cpeNameId": "38F2FEF8-E321-409C-9FA9-24769DF9645B"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_3420_firmware:1.34.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E4541581-F72C-408B-BE39-FC150C4836FD"
 		},
 		{
 			"cpeName": "cpe:2.3:o:dell:latitude_3420_firmware:1.35.0:*:*:*:*:*:*:*",

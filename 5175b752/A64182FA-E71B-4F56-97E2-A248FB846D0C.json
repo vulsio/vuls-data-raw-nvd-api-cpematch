@@ -3,8 +3,8 @@
 	"matchCriteriaId": "A64182FA-E71B-4F56-97E2-A248FB846D0C",
 	"versionEndExcluding": "1.29.0",
 	"created": "2024-09-17T19:43:52.270",
-	"lastModified": "2024-09-17T19:43:52.270",
-	"cpeLastModified": "2024-09-17T19:43:52.270",
+	"lastModified": "2024-12-19T14:33:42.000",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:latitude_3510_firmware:1.20.2:*:*:*:*:*:*:*",
 			"cpeNameId": "8DE77505-A6F3-4F7D-9F16-1B4CE782B6FA"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_3510_firmware:1.27.0:*:*:*:*:*:*:*",
+			"cpeNameId": "4BF9644D-51CA-46C2-8AEF-0DCA065E5094"
 		},
 		{
 			"cpeName": "cpe:2.3:o:dell:latitude_3510_firmware:1.28.0:*:*:*:*:*:*:*",

@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.12.0",
 	"created": "2024-07-03T12:49:03.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:inspiron_3020_desktop_firmware:1.6.0:*:*:*:*:*:*:*",
 			"cpeNameId": "7E368ACF-2B66-474F-ADE9-544086CDC95F"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_3020_desktop_firmware:1.11.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E39AF946-AC9D-4622-A898-2486FD4FBD4D"
 		}
 	]
 }

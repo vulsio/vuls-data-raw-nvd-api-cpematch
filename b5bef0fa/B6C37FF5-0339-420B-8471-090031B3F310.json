@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.29.0",
 	"created": "2024-07-03T12:49:03.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -30,6 +30,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:inspiron_3480_firmware:1.25.0:*:*:*:*:*:*:*",
 			"cpeNameId": "FCF1174C-DD2C-4DB0-9F10-F7EAA0C67D48"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_3480_firmware:1.27.0:*:*:*:*:*:*:*",
+			"cpeNameId": "DF96D450-D38B-4C0A-91E7-BC878201AEDA"
 		}
 	]
 }

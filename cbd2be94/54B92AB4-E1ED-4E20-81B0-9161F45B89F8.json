@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.29.0",
 	"created": "2024-07-03T13:12:08.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:12:08.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:latitude_5521_firmware:1.18.0:*:*:*:*:*:*:*",
 			"cpeNameId": "DB8954E7-500F-4F76-B1FE-308BF1C5A13C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_5521_firmware:1.27.0:*:*:*:*:*:*:*",
+			"cpeNameId": "090AA586-7B34-48C9-9CB9-A7F30B484381"
 		}
 	]
 }

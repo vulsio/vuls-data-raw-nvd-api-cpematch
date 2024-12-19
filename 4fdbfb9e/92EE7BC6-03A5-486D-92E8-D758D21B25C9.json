@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.25.0",
 	"created": "2024-07-03T13:33:43.663",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:33:43.663",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:wyse_5470_all-in-one_firmware:1.21.0:*:*:*:*:*:*:*",
 			"cpeNameId": "C6909A5A-9D3C-42D9-AAB1-B859EA6C7150"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:wyse_5470_all-in-one_firmware:1.23.0:*:*:*:*:*:*:*",
+			"cpeNameId": "1A5E10AF-B365-4D42-B68F-ED789A168AE8"
 		}
 	]
 }

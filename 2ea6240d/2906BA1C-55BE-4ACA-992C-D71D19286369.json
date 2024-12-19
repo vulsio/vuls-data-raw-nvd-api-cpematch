@@ -3,8 +3,8 @@
 	"matchCriteriaId": "2906BA1C-55BE-4ACA-992C-D71D19286369",
 	"versionEndExcluding": "1.30.0",
 	"created": "2024-09-17T19:52:43.637",
-	"lastModified": "2024-09-17T19:52:43.637",
-	"cpeLastModified": "2024-09-17T19:52:43.637",
+	"lastModified": "2024-12-19T14:33:42.000",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:inspiron_5502_firmware:1.18.0:*:*:*:*:*:*:*",
 			"cpeNameId": "76C6B9BE-99B9-48A1-BD5C-F0E53047E21D"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_5502_firmware:1.28.0:*:*:*:*:*:*:*",
+			"cpeNameId": "0E905848-9D2A-440F-9509-B2EC028F2CA8"
 		},
 		{
 			"cpeName": "cpe:2.3:o:dell:inspiron_5502_firmware:1.29.0:*:*:*:*:*:*:*",

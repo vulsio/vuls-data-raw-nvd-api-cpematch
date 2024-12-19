@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.26.0",
 	"created": "2024-07-03T12:49:03.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:inspiron_5400_firmware:1.21.0:*:*:*:*:*:*:*",
 			"cpeNameId": "B3CA46FE-4E78-4B44-8163-4AEA263560DF"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_5400_firmware:1.24.0:*:*:*:*:*:*:*",
+			"cpeNameId": "3B39E91D-5578-4BF3-A286-2F015C9CD788"
 		}
 	]
 }

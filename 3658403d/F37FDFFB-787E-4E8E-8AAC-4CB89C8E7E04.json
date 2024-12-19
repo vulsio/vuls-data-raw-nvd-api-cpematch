@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.29.0",
 	"created": "2024-07-03T13:22:32.850",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:22:32.850",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:precision_3650_tower_firmware:1.24.0:*:*:*:*:*:*:*",
 			"cpeNameId": "336DD52C-0CC3-4125-9291-C01B5F4C6D7C"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_3650_tower_firmware:1.28.1:*:*:*:*:*:*:*",
+			"cpeNameId": "6C8F8733-467A-4994-A08E-6A2EBFBA9E9C"
 		}
 	]
 }

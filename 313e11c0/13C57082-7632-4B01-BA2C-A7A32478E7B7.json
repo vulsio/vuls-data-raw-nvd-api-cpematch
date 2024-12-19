@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.29.0",
 	"created": "2024-07-03T12:49:03.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:inspiron_7506_2-in-1_firmware:1.18.0:*:*:*:*:*:*:*",
 			"cpeNameId": "EC825C5F-47E7-4F3D-B1DB-0B775629AFF9"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_7506_2-in-1_firmware:1.28.0:*:*:*:*:*:*:*",
+			"cpeNameId": "49E40486-6F4C-4278-8003-A8A36DFEE228"
 		}
 	]
 }

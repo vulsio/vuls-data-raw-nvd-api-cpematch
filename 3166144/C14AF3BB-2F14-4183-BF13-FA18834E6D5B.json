@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.33.0",
 	"created": "2024-07-03T13:22:32.850",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:22:32.850",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -26,6 +26,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:precision_7530_firmware:1.26.0:*:*:*:*:*:*:*",
 			"cpeNameId": "65CDD545-4479-4A96-8809-B22A072FF310"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_7530_firmware:1.31.0:*:*:*:*:*:*:*",
+			"cpeNameId": "2CACCCA3-306E-4DFB-8248-7746BBB23E7B"
 		}
 	]
 }

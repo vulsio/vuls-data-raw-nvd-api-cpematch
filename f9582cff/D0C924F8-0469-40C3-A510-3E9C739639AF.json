@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.26.0",
 	"created": "2024-07-03T12:49:03.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:inspiron_5401_aio_firmware:1.21.0:*:*:*:*:*:*:*",
 			"cpeNameId": "8B815390-2B1C-4CA0-9634-BB6C4A0B1185"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_5401_aio_firmware:1.24.0:*:*:*:*:*:*:*",
+			"cpeNameId": "7B8CBF03-AF9F-45CC-8799-C7DE200D6C62"
 		}
 	]
 }

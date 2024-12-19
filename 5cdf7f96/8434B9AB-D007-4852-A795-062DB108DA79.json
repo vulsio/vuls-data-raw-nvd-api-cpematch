@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.32.0",
 	"created": "2024-09-18T19:19:10.200",
 	"lastModified": "2024-10-17T14:18:24.217",
-	"cpeLastModified": "2024-09-18T19:19:10.200",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -26,6 +26,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:latitude_5400_firmware:1.25.0:*:*:*:*:*:*:*",
 			"cpeNameId": "9C1B65A7-BAD7-43E1-B223-0FFD7E343882"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_5400_firmware:1.27.0:*:*:*:*:*:*:*",
+			"cpeNameId": "89D89093-DF70-4778-B291-745956CF1DBB"
 		},
 		{
 			"cpeName": "cpe:2.3:o:dell:latitude_5400_firmware:1.29.0:*:*:*:*:*:*:*",

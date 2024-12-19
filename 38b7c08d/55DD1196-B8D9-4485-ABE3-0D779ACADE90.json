@@ -4,6 +4,12 @@
 	"versionEndExcluding": "1.4.3",
 	"created": "2023-02-07T19:25:55.127",
 	"lastModified": "2023-02-07T19:25:55.127",
-	"cpeLastModified": "2023-02-07T19:25:55.127",
-	"status": "Active"
+	"cpeLastModified": "2024-12-19T14:33:42.000",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:alienware_m17_r5_amd_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F7743ECD-F17C-471A-8509-6CC1AB636ADA"
+		}
+	]
 }

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "5FFFE6D4-B453-4D27-8A3F-9CE9A2B5B1AD",
 	"versionEndExcluding": "1.29.0",
 	"created": "2024-11-22T16:25:26.533",
-	"lastModified": "2024-11-22T16:25:26.533",
-	"cpeLastModified": "2024-11-22T16:25:26.533",
+	"lastModified": "2024-12-19T14:33:42.000",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:alienware_m17_r3_firmware:1.12.0:*:*:*:*:*:*:*",
 			"cpeNameId": "837E2E83-8DEF-427A-A766-61D153940195"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:alienware_m17_r3_firmware:1.27.0:*:*:*:*:*:*:*",
+			"cpeNameId": "3563AA27-942B-4134-B55E-B28385F28CB7"
 		}
 	]
 }

@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.11.0",
 	"created": "2024-07-03T12:49:03.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:latitude_3440_firmware:1.6.0:*:*:*:*:*:*:*",
 			"cpeNameId": "5F2D24CC-1C60-458D-89E3-8B6BD2127525"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_3440_firmware:1.10.0:*:*:*:*:*:*:*",
+			"cpeNameId": "D8986B7D-E866-4170-8173-571431056575"
 		}
 	]
 }

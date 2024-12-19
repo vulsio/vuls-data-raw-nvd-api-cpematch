@@ -4,6 +4,12 @@
 	"versionEndExcluding": "1.0.9",
 	"created": "2021-11-19T18:18:40.820",
 	"lastModified": "2021-11-19T18:18:40.820",
-	"cpeLastModified": "2021-11-19T21:45:56.643",
-	"status": "Active"
+	"cpeLastModified": "2024-12-19T14:33:42.000",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:dell:alienware_aurora_r11_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F205AD94-118A-48FF-A528-FD41B63F9D3F"
+		}
+	]
 }

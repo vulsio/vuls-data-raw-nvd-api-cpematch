@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.25.0",
 	"created": "2024-07-03T12:49:03.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -22,6 +22,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:inspiron_7490_firmware:1.22.0:*:*:*:*:*:*:*",
 			"cpeNameId": "78BC93D0-4B7E-4311-91DC-1FB9A4CB6C84"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:inspiron_7490_firmware:1.24.0:*:*:*:*:*:*:*",
+			"cpeNameId": "0C5130B3-869D-4FC1-97E5-C0E5D56C0117"
 		}
 	]
 }

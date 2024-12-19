@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:cisco:ios_xr:7.0.90:*:*:*:*:*:x64:*",
 	"matchCriteriaId": "70D78739-857C-432A-8B5B-BA703D657E7E",
 	"created": "2024-10-07T17:35:12.463",
-	"lastModified": "2024-10-07T17:35:12.463",
-	"cpeLastModified": "2024-10-07T17:35:12.463",
-	"status": "Active"
+	"lastModified": "2024-12-19T13:52:27.227",
+	"cpeLastModified": "2024-12-19T13:52:27.227",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:ios_xr:7.0.90:*:*:*:*:*:x64:*",
+			"cpeNameId": "1FAD0B7B-1FA2-4B21-9E3F-56351E55D4F1"
+		}
+	]
 }

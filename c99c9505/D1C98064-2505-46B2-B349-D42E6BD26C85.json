@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.39.0",
 	"created": "2024-09-18T19:17:31.273",
 	"lastModified": "2024-10-17T14:18:24.217",
-	"cpeLastModified": "2024-09-18T19:17:31.273",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -26,6 +26,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:latitude_7490_firmware:1.33.0:*:*:*:*:*:*:*",
 			"cpeNameId": "7B09749B-58F2-4EBB-8677-621E8857E4B7"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_7490_firmware:1.35.0:*:*:*:*:*:*:*",
+			"cpeNameId": "3512B30A-FAAD-47A3-90EA-23A1ADD1BD41"
 		},
 		{
 			"cpeName": "cpe:2.3:o:dell:latitude_7490_firmware:1.37.0:*:*:*:*:*:*:*",

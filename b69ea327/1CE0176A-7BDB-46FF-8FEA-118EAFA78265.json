@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.32.0",
 	"created": "2024-07-03T12:49:03.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -22,6 +22,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:latitude_3500_firmware:1.29.0:*:*:*:*:*:*:*",
 			"cpeNameId": "4B7DED3A-AE8C-4478-BE13-F772E98051B7"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_3500_firmware:1.31.0:*:*:*:*:*:*:*",
+			"cpeNameId": "48572803-88B0-4F77-BCF9-31E599A5247C"
 		}
 	]
 }

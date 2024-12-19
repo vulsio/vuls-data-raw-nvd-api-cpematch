@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.24.0",
 	"created": "2024-07-03T12:49:03.580",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T12:49:03.580",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:latitude_3310_firmware:1.21.0:*:*:*:*:*:*:*",
 			"cpeNameId": "F4FFE26D-205B-43FC-A412-D250CF07E8C7"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:latitude_3310_firmware:1.23.0:*:*:*:*:*:*:*",
+			"cpeNameId": "9A75C885-BF36-4817-8E21-6F093F6A25CA"
 		}
 	]
 }

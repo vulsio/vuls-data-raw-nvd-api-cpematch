@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.7.0",
 	"created": "2024-07-03T13:22:32.850",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:22:32.850",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:precision_7865_tower_firmware:1.5.0:*:*:*:*:*:*:*",
 			"cpeNameId": "A9A9D216-43AF-4CAE-9778-23ECAB202831"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:precision_7865_tower_firmware:1.6.1:*:*:*:*:*:*:*",
+			"cpeNameId": "D9E9EB65-EFDB-4527-906E-7DCBC583938E"
 		}
 	]
 }

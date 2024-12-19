@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.29.0",
 	"created": "2024-07-03T13:33:43.663",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:33:43.663",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -26,6 +26,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:wyse_5070_firmware:1.19.1:*:*:*:*:*:*:*",
 			"cpeNameId": "A134D6F4-A1C2-4F63-92DB-B7877F06A335"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:wyse_5070_firmware:1.27.0:*:*:*:*:*:*:*",
+			"cpeNameId": "8F88D816-32E3-4958-8015-76CF689D5F95"
 		}
 	]
 }

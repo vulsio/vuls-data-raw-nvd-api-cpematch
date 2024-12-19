@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:cisco:rv345_dual_wan_gigabit_vpn_router_firmware:1.0.03.15:*:*:*:*:*:*:*",
 	"matchCriteriaId": "5659BD61-EE0C-49BF-8484-034A58BA32E2",
 	"created": "2024-10-04T17:53:42.900",
-	"lastModified": "2024-10-04T17:53:42.900",
-	"cpeLastModified": "2024-10-04T17:53:42.900",
-	"status": "Active"
+	"lastModified": "2024-12-19T13:53:26.907",
+	"cpeLastModified": "2024-12-19T13:53:26.907",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:cisco:rv345_dual_wan_gigabit_vpn_router_firmware:1.0.03.15:*:*:*:*:*:*:*",
+			"cpeNameId": "A29CDE38-F0D5-461E-AD6E-F0B6199F51A9"
+		}
+	]
 }

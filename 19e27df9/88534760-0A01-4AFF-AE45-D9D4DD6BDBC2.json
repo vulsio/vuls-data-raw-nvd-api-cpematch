@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.29.0",
 	"created": "2024-07-03T13:33:43.663",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:33:43.663",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:xps_17_9700_firmware:1.20.0:*:*:*:*:*:*:*",
 			"cpeNameId": "87F7A2EF-BBFE-4AAE-8F2B-164FEF317710"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:xps_17_9700_firmware:1.28.0:*:*:*:*:*:*:*",
+			"cpeNameId": "467ED6F4-A7E1-448A-9DC3-5FF9BC380731"
 		}
 	]
 }

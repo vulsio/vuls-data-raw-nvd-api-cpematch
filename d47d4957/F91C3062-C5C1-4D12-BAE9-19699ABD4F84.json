@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2.18.1",
 	"created": "2024-07-03T13:33:43.663",
 	"lastModified": "2024-08-05T15:34:40.643",
-	"cpeLastModified": "2024-07-03T13:33:43.663",
+	"cpeLastModified": "2024-12-19T14:33:42.000",
 	"status": "Active",
 	"matches": [
 		{
@@ -14,6 +14,10 @@
 		{
 			"cpeName": "cpe:2.3:o:dell:xps_8940_firmware:2.10.0:*:*:*:*:*:*:*",
 			"cpeNameId": "A885BCC5-0422-4D97-A7ED-584FCB767B01"
+		},
+		{
+			"cpeName": "cpe:2.3:o:dell:xps_8940_firmware:2.16.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5EB41E5D-0D49-4FFF-9201-C351429E792F"
 		}
 	]
 }
