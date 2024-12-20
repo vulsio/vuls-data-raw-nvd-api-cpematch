@@ -3,7 +3,7 @@
 	"matchCriteriaId": "4E690B68-8EC2-4898-9722-79AF3BB9C74C",
 	"created": "2022-06-18T03:47:56.983",
 	"lastModified": "2024-01-03T13:48:06.797",
-	"cpeLastModified": "2024-10-09T14:56:52.977",
+	"cpeLastModified": "2024-12-20T15:08:31.627",
 	"status": "Active",
 	"matches": [
 		{
@@ -15,8 +15,24 @@
 			"cpeNameId": "BF244FC6-437E-430D-B55C-A7269CFDED00"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:205_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A4279538-8793-4C31-86BD-B0B18F93DCD1"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:205_mobile_platform:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1E0EF8C0-550B-44F3-BAB5-6E7E9DB8584A"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:215:-:*:*:*:*:*:*:*",
 			"cpeNameId": "5D9DACA8-3F3C-4A3F-BE0A-1864BB3B8341"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:215_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C8B484D4-433F-4C8D-9E6A-7225D45344A2"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:215_mobile_platform:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1D752F5D-FBC2-415F-9E89-C58CA73270EB"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:315_5g:-:*:*:*:*:*:*:*",
@@ -455,8 +471,16 @@
 			"cpeNameId": "46F64695-4645-4287-8A98-47FD040F0C51"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:immersive_home_3210:-:*:*:*:*:*:*:*",
+			"cpeNameId": "AC625B96-742D-47D1-93A2-A9E26D00142D"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:immersive_home_3210_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "B743356D-FE2A-42AD-815E-9F073491AD87"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:immersive_home_326:-:*:*:*:*:*:*:*",
+			"cpeNameId": "03E2286B-AA50-4240-859B-8D30F4BF2D4D"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:immersive_home_326_platform:-:*:*:*:*:*:*:*",
@@ -1707,6 +1731,14 @@
 			"cpeNameId": "81CD9B1D-9666-439C-B529-2527CFD95750"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:qca6777aq:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3938CFCB-3AC9-4F2C-A89D-0E2602B9DD92"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:qca6787aq:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D18B0EA6-0D60-49F1-AFD6-2AF115950B06"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:qca6797aq:-:*:*:*:*:*:*:*",
 			"cpeNameId": "35E96BE5-0C54-4837-A638-34BB206EFA40"
 		},
@@ -2147,6 +2179,10 @@
 			"cpeNameId": "A077C2DC-B089-4D6C-AF9A-147A8094E471"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:qcn9160:-:*:*:*:*:*:*:*",
+			"cpeNameId": "91910327-7F7D-47C7-83AB-934AB0CDC74D"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:qcn9274:-:*:*:*:*:*:*:*",
 			"cpeNameId": "8760C16D-2868-4526-A042-1F6A64EB55AC"
 		},
@@ -2233,6 +2269,10 @@
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:qcs8550:-:*:*:*:*:*:*:*",
 			"cpeNameId": "DD321E99-D34B-40A0-8064-87321C2EE7CC"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:qcs9100:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F7489176-2353-4080-B0C2-4EFA00A3C63D"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:qcx315:-:*:*:*:*:*:*:*",
@@ -2879,8 +2919,16 @@
 			"cpeNameId": "00A620A3-BFD6-484C-AC01-24844D2C73E4"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:qualcomm_205:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5CA961C7-F88E-42DF-9D98-F9EF52A9B8E1"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:qualcomm_205_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "6C64BC5A-63E2-4212-A608-3D56584A1CDD"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:qualcomm_215:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E2F58FB7-FF4B-4444-A92C-D69B9F3046ED"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:qualcomm_215_mobile_platform:-:*:*:*:*:*:*:*",
@@ -2895,12 +2943,24 @@
 			"cpeNameId": "B1C01592-EFBC-48CD-A4AC-BE52D7784B4E"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:qualcomm_video_collaboration_vc1:-:*:*:*:*:*:*:*",
+			"cpeNameId": "66B792D6-2A44-40AF-AE20-19D438E8ADCD"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:qualcomm_video_collaboration_vc1_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "AC91DB46-CA8D-4B3F-93DD-C46A8909B1A8"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:qualcomm_video_collaboration_vc3:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2F7AD599-7E87-49E9-9121-6E8A32E25105"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:qualcomm_video_collaboration_vc3_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "B5242F53-BEC8-4736-BF7A-1C235D2F97AB"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:qualcomm_video_collaboration_vc5:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4F4D1F7F-CFC2-47C4-8A26-78A2DEA5CC1E"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:qualcomm_video_collaboration_vc5_platform:-:*:*:*:*:*:*:*",
@@ -2909,6 +2969,10 @@
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:qualcomm215:-:*:*:*:*:*:*:*",
 			"cpeNameId": "47EA641C-DF38-493F-8FC0-D6A438956CD6"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:qxm8083:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4EA67F49-5387-4A96-91FB-6E922EF00017"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:rennell:-:*:*:*:*:*:*:*",
@@ -3847,6 +3911,10 @@
 			"cpeNameId": "E3656A2D-CFE6-4698-B665-79A1DACED86B"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:sdx61:-:*:*:*:*:*:*:*",
+			"cpeNameId": "00C452F9-3752-4BDD-B865-34915C1F8669"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:sdx65:-:*:*:*:*:*:*:*",
 			"cpeNameId": "7D733EEF-5FD0-4A35-8663-BE64B4A9B2BE"
 		},
@@ -3921,6 +3989,10 @@
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:sm4450:-:*:*:*:*:*:*:*",
 			"cpeNameId": "EEC0CD4A-1EFC-4A73-B8E1-040327FEA3DE"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:sm4635:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5C620CCF-5554-4F99-AC7D-16A44C86324B"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:sm6115:-:*:*:*:*:*:*:*",
@@ -4051,8 +4123,20 @@
 			"cpeNameId": "3440A4D3-EF4A-417E-BC7B-2BDA2E96F0A9"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:sm7435:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6B3814A5-B534-4FF6-92AA-851EB9E25841"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:sm7450:-:*:*:*:*:*:*:*",
 			"cpeNameId": "F1D40C9D-B6DF-48D4-8F28-31E90DD114ED"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:sm7525:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7F4D3EE7-B7AC-46C7-B73B-C97462E23831"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:sm7550:-:*:*:*:*:*:*:*",
+			"cpeNameId": "80B52285-674B-40FC-A8B6-50B0C7D4D189"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:sm8150:-:*:*:*:*:*:*:*",
@@ -4119,6 +4203,18 @@
 			"cpeNameId": "339FB410-E215-43EA-84CF-C584DDE425DF"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:sm8635:-:*:*:*:*:*:*:*",
+			"cpeNameId": "13941DC7-82CB-4F59-A97A-12850F5CF478"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:sm8750:-:*:*:*:*:*:*:*",
+			"cpeNameId": "424399B0-6E9C-4B84-B300-44332DD6112D"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:sm8750p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8950DA58-ACEE-48B6-8FB7-83B155C58009"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:smart_audio_100_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "23A0185D-A75D-4C1C-98A6-A9F5753D380F"
 		},
@@ -4143,8 +4239,16 @@
 			"cpeNameId": "742B1510-E4B0-4499-B554-021D881782EA"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:smart_display_200_apq5053-aa:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F5A7AEF2-5106-4AF5-865D-03CF33016C75"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:smart_display_200_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "5F058AE7-9C4F-442D-B397-097C7364FDBF"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:smart_display_200_platform_\\(apq5053-aa\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "AB522051-5B64-4C43-BA81-3603C57613DB"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:smb1350:-:*:*:*:*:*:*:*",
@@ -4235,12 +4339,20 @@
 			"cpeNameId": "30179638-F2E8-480E-BDDA-8EBBEC29CE87"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_1100_wearable:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A1BA5667-3B79-4D47-9E17-8B63D1F24ACF"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_1100_wearable_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "0A67A883-2CCB-4448-897D-DD209FCE8D76"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_1200:-:*:*:*:*:*:*:*",
 			"cpeNameId": "D744008E-F773-40DF-BC4A-78D17288B7F1"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_1200_wearable:-:*:*:*:*:*:*:*",
+			"cpeNameId": "42AFB087-C3A2-4F65-A78F-BFA25BA35BBB"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_1200_wearable_platform:-:*:*:*:*:*:*:*",
@@ -4267,12 +4379,20 @@
 			"cpeNameId": "A6F1376C-B132-4A06-8562-9F1D4F08D0C0"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_212_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5C2FF563-C1B4-4EF1-841B-96E2771E45A2"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_212_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "880E0C16-7A3D-4047-868B-1356DCCD07D1"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_4_gen_1:-:*:*:*:*:*:*:*",
 			"cpeNameId": "17F1CB98-66B8-4C36-B7EF-07A8FFF9832B"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_4_gen_1_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F5E40719-380F-43A3-9D72-B4C9322A48EA"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_4_gen_1_mobile_platform:-:*:*:*:*:*:*:*",
@@ -4283,12 +4403,20 @@
 			"cpeNameId": "92F80059-254F-4AC9-B76D-34F202CAF745"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_4_gen_2_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2DE91984-0CFF-45D4-8B00-7893A399E373"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_4_gen_2_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "36B8C608-EFA3-4083-AF03-5272E625DF90"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_425:-:*:*:*:*:*:*:*",
 			"cpeNameId": "44E2F9C3-ADD1-4D9D-A797-1642B4E066F2"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_425_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "596D0888-383A-4F3E-9C50-B4F35B952C83"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_425_mobile_platform:-:*:*:*:*:*:*:*",
@@ -4305,6 +4433,10 @@
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_429:-:*:*:*:*:*:*:*",
 			"cpeNameId": "D16E0B9E-E448-4AD2-A993-C6FB1FBEF66F"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_429_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "78518774-173F-403D-8252-3CB409277AFF"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_429_mobile_platform:-:*:*:*:*:*:*:*",
@@ -4331,6 +4463,10 @@
 			"cpeNameId": "B7FF28E9-92DD-4670-B6A5-1D674970FB19"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_439_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F51BEC2C-4530-495F-88A7-E0F7C02C9633"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_439_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "E2C955BD-4520-4BB9-BC46-9AE7FC399016"
 		},
@@ -4347,6 +4483,10 @@
 			"cpeNameId": "D3885E8F-3C00-48D2-AEE6-3D103EC657B2"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_460_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F56547AB-2C7C-4B32-B043-5D885565EAEB"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_460_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "23016F8F-9DB8-42D6-874E-3A5E820BA9A0"
 		},
@@ -4355,16 +4495,44 @@
 			"cpeNameId": "9FD0022A-87A8-465A-B8B0-8F369A9168EC"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_480_5g_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8073DE8A-49F7-4F3B-B78F-FF68A5F19809"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_480_5g_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "59241E91-627C-4971-B2F2-6FEC50E24AD1"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_480_5g_sm4350-ac:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3C5BB26A-6F10-41B4-AE8E-8E88CC5BD9B5"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_480\\+_5g:-:*:*:*:*:*:*:*",
 			"cpeNameId": "DE54B123-7436-4887-A1E8-D78BC344ED24"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_480\\+_5g_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5DCB9E1F-79A5-4FA7-9F86-D12860CAF9BA"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_480\\+_5g_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "11A32164-841F-4D12-9C65-28A47DAEFBE5"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_480\\+_5g_mobile_platform_\\(sm4350-ac\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "4C4ECEEE-8F85-4BB7-95E9-F2265EBC88BF"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_6_gen_1:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6962F362-72B3-4239-A871-02CB2B19C4D6"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_6_gen_1_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F4D838B9-58EC-4F7C-9226-5F7334EA5AB1"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_6_gen_1_mobile_platform:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5273FB5A-657A-4B93-B47E-AC46DF059308"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_617:-:*:*:*:*:*:*:*",
@@ -4379,12 +4547,20 @@
 			"cpeNameId": "252CC019-DBD7-4CA1-A80C-1F72BED849DC"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_625_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A6BA5627-5A19-4F28-8A33-58EC5F34197F"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_625_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "9B22DC76-E2BA-41F3-B3FF-C4C2BD5ACE99"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_626:-:*:*:*:*:*:*:*",
 			"cpeNameId": "10591150-FBFC-4A16-B7D8-09D395FD10EA"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_626_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "78BA6A45-9EA1-4CDF-BFDE-C16AA21850B7"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_626_mobile_platform:-:*:*:*:*:*:*:*",
@@ -4395,6 +4571,10 @@
 			"cpeNameId": "F933EC1B-889E-4640-A445-21BBCEFF7918"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_630_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "43D4C134-B02E-42D3-ABEC-50632D5ECBA6"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_630_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "07E780A2-162E-48CB-A2B8-099B7F184057"
 		},
@@ -4403,12 +4583,20 @@
 			"cpeNameId": "4D3BA685-2DBC-4A02-842D-3E4648812B35"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_632_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3C864844-4FC2-40F7-99B1-6E123F4F3A1D"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_632_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "10385039-6498-4DD0-A7D1-29C0D2A1064E"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_636:-:*:*:*:*:*:*:*",
 			"cpeNameId": "9036290C-6033-47F9-B35B-D657C0F52303"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_636_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E904DFDC-33DD-4503-BB94-61ED2D50A7B0"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_636_mobile_platform:-:*:*:*:*:*:*:*",
@@ -4443,12 +4631,20 @@
 			"cpeNameId": "3D5C32B2-BA64-42F3-992D-32323A828588"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_660_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "49E38BF6-60BB-444A-8913-C7F71B9CF43B"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_660_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "96FBF469-8C22-4749-B9C8-6EDFB03788D6"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_662:-:*:*:*:*:*:*:*",
 			"cpeNameId": "5B64ECA7-8B32-4369-9E27-7A708ED021E2"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_662_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E20A3755-637B-422E-8360-45EE7143FCE8"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_662_mobile_platform:-:*:*:*:*:*:*:*",
@@ -4467,12 +4663,20 @@
 			"cpeNameId": "77DDB655-4A4A-46E0-A092-E614E72201D7"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_670_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "306368BE-BDAB-420F-BC44-7BA0CC47C300"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_670_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "3B843BEC-9E96-4289-A9FB-457A7DBD53C8"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_675:-:*:*:*:*:*:*:*",
 			"cpeNameId": "65816D47-EC55-487A-A44B-A3F8CCA970AD"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_675_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9BC60CC3-BC00-461B-BA2D-6B2418BB7099"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_675_mobile_platform:-:*:*:*:*:*:*:*",
@@ -4483,12 +4687,28 @@
 			"cpeNameId": "01F71A36-FE87-401F-BE88-AA5D49D6B77A"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_678_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "05F6620D-75FD-4DA9-8792-1BD95EAF6C5D"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_678_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "0019C1D8-73DF-4F40-A0DC-2F0C76D6F74B"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_678_mobile_platform_\\(sm6150-ac\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "BDEE5256-7D92-4D57-A5AD-88DDCFF7068F"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_678_sm6150-ac:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FAAF8ED6-2071-4042-9E62-9D23EE6DEF4B"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_680_4g:-:*:*:*:*:*:*:*",
 			"cpeNameId": "8182C33D-64A4-459F-9023-9262CAAAA1D0"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_680_4g_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "10703F8D-8717-4CE1-9B72-91DE530777DE"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_680_4g_mobile_platform:-:*:*:*:*:*:*:*",
@@ -4499,12 +4719,28 @@
 			"cpeNameId": "22FFCB94-91A4-4F49-856F-E38E5CE3DCF9"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_685_4g_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9611AA69-5902-46F8-8CD6-EC681272394B"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_685_4g_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "7052B6A3-6695-4F64-9593-194AFAA8F917"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_685_4g_mobile_platform_\\(sm6225-ad\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "CB56A3F5-5F60-4F63-8494-A5CFF8AE5EE6"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_685_4g_sm6225-ad:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3F40BB94-63AF-4714-96AF-36497E3FE988"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_690_5g:-:*:*:*:*:*:*:*",
 			"cpeNameId": "5645108A-6FC2-4D6E-B141-209D9D2A60A0"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_690_5g_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "881981B8-666F-4278-8A2C-2858042646FE"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_690_5g_mobile_platform:-:*:*:*:*:*:*:*",
@@ -4515,12 +4751,44 @@
 			"cpeNameId": "55A17987-EB3F-4147-ADD3-F8375E7226C7"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_695_5g_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "282FBB9B-A993-41A0-B1CA-AEACD90C6AF9"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_695_5g_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "998418D6-C356-4A53-B282-3B7B8F963F51"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_7_gen_1:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F2B0E6C1-F1D9-49C5-A423-2124661B27A4"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_7_gen_1_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "78181746-E4A1-4CA6-90F2-C0E7367A36F6"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_7_gen_1_mobile_platform:-:*:*:*:*:*:*:*",
+			"cpeNameId": "ACE58452-B1D5-4F09-BF91-BFD1D0FE339B"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_7\\+_gen_2:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EB177B1A-DE63-44F1-BDD5-7B9EF45488DA"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_7\\+_gen_2_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4BEE38F7-8BAC-443E-99D8-869F71696257"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_7\\+_gen_2_mobile_platform:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4E3C183B-D573-48ED-B6F7-743E9616BEB1"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_710:-:*:*:*:*:*:*:*",
 			"cpeNameId": "D930309D-F028-402A-B1CD-25225135F329"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_710_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4D93F651-782E-455F-8F17-B852DB0D46FE"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_710_mobile_platform:-:*:*:*:*:*:*:*",
@@ -4539,12 +4807,20 @@
 			"cpeNameId": "221C7A9F-BDFE-41E4-8FD7-1FE1EE807545"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_720g_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "ECDF9DBA-21A6-457F-B30B-ED71D17E9F5C"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_720g_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "8E2957D4-BC88-4771-B75D-6AFB1D085EBA"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_730:-:*:*:*:*:*:*:*",
 			"cpeNameId": "79CD98DD-2120-457D-A66F-B4D7A1014E32"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_730_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BD526E8F-90E4-4F6F-8A72-09D703FAAD19"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_730_mobile_platform:-:*:*:*:*:*:*:*",
@@ -4555,24 +4831,60 @@
 			"cpeNameId": "775A1EE6-0588-4E79-82D7-C9135E8E19B1"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_730_mobile_platform_\\(sm7150-aa\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "2E753B35-0AB2-47B4-862E-4833F0A9EDC3"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_730_sm7150-aa:-:*:*:*:*:*:*:*",
+			"cpeNameId": "43B02B70-7FCB-4DF9-9FE0-27FC3A492753"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_730g:-:*:*:*:*:*:*:*",
 			"cpeNameId": "8DE994D4-0641-4BD5-9499-A3690940CE82"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_730g_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "79BA0C99-F896-4CF8-83A8-530642B0ECF8"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_730g_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "96870149-157E-44EA-8A4A-0B6F6DE63C3D"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_730g_mobile_platform_\\(sm7150-ab\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "A9E25795-D1AA-4EE9-970F-935729C26F79"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_730g_sm7150-ab:-:*:*:*:*:*:*:*",
+			"cpeNameId": "6422AB8E-1CCB-45F8-B5F3-3EA17D268368"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_732g:-:*:*:*:*:*:*:*",
 			"cpeNameId": "051FAF38-8063-4EB0-B8EA-4A711361E592"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_732g_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CB5F1BB7-20DA-4F61-89FC-7ED2A78990BC"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_732g_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "2D7EBEFC-A1B6-4142-874B-08BE1C028304"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_732g_mobile_platform_\\(sm7150-ac\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "406A3BB8-6CBC-442F-9A5E-47B32DA6317E"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_732g_sm7150-ac:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EB8708A2-43CD-4577-AA37-73ADFF78E7AF"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_750g_5g:-:*:*:*:*:*:*:*",
 			"cpeNameId": "DD735F69-DB33-41BB-8697-C797D9903B33"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_750g_5g_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4AC41336-5C09-4D76-B6BA-01BA65C573EB"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_750g_5g_mobile_platform:-:*:*:*:*:*:*:*",
@@ -4583,6 +4895,10 @@
 			"cpeNameId": "03109438-8307-462A-BF3C-6A44E2E0A1EF"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_765_5g_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "24E81861-B90F-49E8-AE44-4A304874835C"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_765_5g_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "4976DF68-E7C3-49C6-8286-6408C5EB8778"
 		},
@@ -4591,28 +4907,68 @@
 			"cpeNameId": "7CA92420-505D-4382-9715-35A8FC6F0014"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_765_5g_mobile_platform_\\(sm7250-aa\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "E49598CB-979C-4236-9E3D-67AC42C0623C"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_765_5g_sm7250-aa:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8E6D796F-5B20-466F-8BBE-E7572E3422F2"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_765g_5g:-:*:*:*:*:*:*:*",
 			"cpeNameId": "5187B32E-7D5A-4DFE-B5AE-8B78BA115983"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_765g_5g_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CE1BB069-FEAB-425A-8157-7DFF0FCFE755"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_765g_5g_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "DF863F15-ADF2-4FE8-8E9D-834775F9DEAF"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_765g_5g_mobile_platform_\\(sm7250-ab\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "DC78836E-C1AB-4D71-974F-93CE3F751BA4"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_765g_5g_sm7250-ab:-:*:*:*:*:*:*:*",
+			"cpeNameId": "592084E4-6B09-47F7-99B0-CB68CDECF790"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_768g_5g:-:*:*:*:*:*:*:*",
 			"cpeNameId": "43142B98-C94D-42A4-94F0-0A5756DF16FC"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_768g_5g_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "4ED49A06-8089-4654-9926-C538FFDBAC62"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_768g_5g_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "12338CAF-06DF-4E9E-A07E-D82CAD5E900D"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_768g_5g_mobile_platform_\\(sm7250-ac\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "846F4E65-925F-4C82-B315-4CCAF33B14DB"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_768g_5g_sm7250-ac:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C264BD76-9ED0-42F3-9CC4-BED3BADF789B"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_778g_5g:-:*:*:*:*:*:*:*",
 			"cpeNameId": "F456F550-6C0B-4FFB-AAD3-CFC2CD0B356E"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_778g_5g_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "184A0A17-B9C5-4FE1-BFB0-019662AEBF3F"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_778g_5g_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "9D8E6EA3-83EB-4385-87CF-6E009E3198CA"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_778g_5g_sm7325-ae:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C6A00443-071E-433C-8AD2-6002E9BBB518"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_778g\\+:-:*:*:*:*:*:*:*",
@@ -4623,8 +4979,16 @@
 			"cpeNameId": "0F94A611-A374-4107-9E56-AFDD66E7F495"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_778g\\+_5g_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7373A6DE-9C6A-4EAD-A43C-D6EF9A0FDE08"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_778g\\+_5g_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "594F3548-A157-4628-BA3C-3080119C8DDB"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_778g\\+_5g_mobile_platform_\\(sm7325-ae\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "4FE052B8-55DB-4329-AE4A-F2C526B38ECA"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_780g:-:*:*:*:*:*:*:*",
@@ -4635,6 +4999,10 @@
 			"cpeNameId": "36FEC6AE-0DDB-4CE2-9EAB-A9AD135C2170"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_780g_5g_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A4E2DDF6-F389-4C99-A262-4D277D8E39B7"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_780g_5g_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "3351318C-6E53-48DE-BEAD-35FD8016863A"
 		},
@@ -4643,8 +5011,20 @@
 			"cpeNameId": "DCA4AE56-4CB2-4B26-8C60-CB51256AA8B3"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_782g_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "76AAFFF5-E391-4C13-A4E6-96FA58C20D57"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_782g_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "FD81C6A8-BE55-440C-9651-5AC3E90B41F7"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_782g_mobile_platform_\\(sm7325-af\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "BBB2F8C8-A4B7-4022-961F-2D0242DC454C"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_782g_sm7325-af:-:*:*:*:*:*:*:*",
+			"cpeNameId": "44B489C8-B718-452D-9DCF-FF1CBBCA6A6C"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_7c:-:*:*:*:*:*:*:*",
@@ -4663,8 +5043,20 @@
 			"cpeNameId": "5322F581-B892-4374-806D-D6B38AB5CB42"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_7c_compute_platform_\\(sc7180-ac\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "59A6C856-3F2B-424A-B721-A2114DB5C56F"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_7c_compute_sc7180-ac:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D330E2DD-8685-4E4C-BABD-E280C66372EA"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_7c_gen_2:-:*:*:*:*:*:*:*",
 			"cpeNameId": "A6BEE768-64E8-436C-9AC3-B7AED71405E1"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_7c_gen_2_compute:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BE609834-6538-4CF8-8815-3219E72C2981"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_7c_gen_2_compute_platform:-:*:*:*:*:*:*:*",
@@ -4673,6 +5065,18 @@
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_7c_gen_2_compute_platform_:-:*:*:*:*:*:*:*",
 			"cpeNameId": "347F7093-AD8E-4F80-B072-A7396AF52C2D"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_7c_gen_2_compute_platform_\\(sc7180-ad\\)_\\\"rennell_pro\\\":-:*:*:*:*:*:*:*",
+			"cpeNameId": "7D04BCBB-6E69-403A-8BE3-79B5BE02AD92"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_7c_gen_2_compute_sc7180-ad_rennell_pro:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F2EEB875-88E6-45AA-B74B-2F60B91AB63C"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_7c_gen_3_compute:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B03BF344-14D8-4433-8705-4728A92A5AA2"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_7c\\+_gen_3:-:*:*:*:*:*:*:*",
@@ -4691,12 +5095,32 @@
 			"cpeNameId": "76A15AD6-621E-4EFD-9502-A7384C029466"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8_gen_1_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9A0AE3B4-B4C1-4A17-AE25-19E42A246885"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8_gen_1_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "1442F98E-2407-46E5-A8CE-A4B65C9F2036"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8_gen_2:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1A9DFC6B-9D03-41A7-A8AD-41B117E3E67C"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8_gen_2_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CF0A626E-29A7-4345-BF99-81842EC1B40C"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8_gen_2_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "692AECDD-F71D-4DBB-B15A-15E5548F0BD5"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8_gen_3:-:*:*:*:*:*:*:*",
+			"cpeNameId": "73ADFDF4-372B-414D-B3D0-E97DC0F9674A"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8_gen_3_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "AA7391A6-30FC-41B1-A607-2D730774F72F"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8_gen_3_mobile_platform:-:*:*:*:*:*:*:*",
@@ -4711,8 +5135,16 @@
 			"cpeNameId": "81E6BFA4-FE84-4AFE-97EE-8EFCBCF333FD"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8\\+_gen_1_mobile:-:*:*:*:*:*:*:*",
+			"cpeNameId": "16382B93-46BB-43A5-A35E-48119E017904"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8\\+_gen_1_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "9AA1DC11-D262-4A6E-ABFE-53ABCE9670F9"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8\\+_gen_2:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E2D564E5-FBC8-484E-B001-8702A6E1168F"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8\\+_gen_2_mobile:-:*:*:*:*:*:*:*",
@@ -4747,6 +5179,10 @@
 			"cpeNameId": "96145E9D-8FFB-4857-8BBB-1276EA67B962"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_820_automotive:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DE591A4C-E71D-4C26-93C2-A29F92AEA8FD"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_820_automotive_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "3486EE05-5ACA-4B13-B3CA-1D3425C47121"
 		},
@@ -4779,6 +5215,10 @@
 			"cpeNameId": "4308790D-9F87-4CAF-8140-556B6D904B01"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_835_pc:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CDB0034A-A62D-4F0A-98E5-233D9FD3C939"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_845:-:*:*:*:*:*:*:*",
 			"cpeNameId": "63989D42-8FA2-43AA-9BC2-4E6910BE8CD9"
 		},
@@ -4793,6 +5233,10 @@
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_850:-:*:*:*:*:*:*:*",
 			"cpeNameId": "8B57F801-528C-49AB-854E-C636B10B5E7A"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_850_compute:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D4473858-6522-4BF0-91EF-90C7884989FC"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_850_mobile_compute_platform:-:*:*:*:*:*:*:*",
@@ -4823,12 +5267,24 @@
 			"cpeNameId": "C729FC25-D4F5-4F4E-B475-E2D06B073034"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_855\\+\\/860_mobile_platform_\\(sm8150-ac\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "A05EC813-788F-4F01-8685-9E1EADA28A8B"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_855\\+__mobile_platform_\\(sm8150-ac\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "86DE916D-C88D-4411-ABCF-ED3D441E747A"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_855\\+_mobile:-:*:*:*:*:*:*:*",
 			"cpeNameId": "2AF18DFA-B56C-408F-B349-5DF65AB3F549"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_855\\+_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "D5D71A66-2E8E-4959-9CE3-571D1ACBB251"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_855\\+_mobile_platform_\\(sm8150-ac\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "17B7633D-F80C-4DC2-B887-17D4A0C06C4F"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_855\\+860_mobile_platform:-:*:*:*:*:*:*:*",
@@ -4847,6 +5303,10 @@
 			"cpeNameId": "482A154B-2D0D-439E-B694-71FAFDCD7A45"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_860_mobile_platform_\\(sm8150-ac\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "6FEAC939-3E49-4819-83ED-EF0CD613EB3B"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_865:-:*:*:*:*:*:*:*",
 			"cpeNameId": "1B5FF97A-879D-474F-87A0-98EB391D8039"
 		},
@@ -4863,6 +5323,10 @@
 			"cpeNameId": "5656CD5F-D7F7-4E72-8C65-B3F6B1F6BEBA"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_865_5g_sm8250-ab:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FF4D2D2E-88D5-46CC-956E-3C63146D64A4"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_865\\+:-:*:*:*:*:*:*:*",
 			"cpeNameId": "EAA308E7-345A-48F4-A7A9-A95240A4B3F2"
 		},
@@ -4877,6 +5341,10 @@
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_865\\+_5g_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "612941EC-E948-41A4-A6FA-5BC3B2A11798"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_865\\+_5g_mobile_platform_\\(sm8250-ab\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "53C9DDF5-7F79-4D50-AD53-808543313B73"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_870:-:*:*:*:*:*:*:*",
@@ -4903,6 +5371,14 @@
 			"cpeNameId": "99C3A534-6285-4614-8EF7-1B610A4F3EEB"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_870_5g_mobile_platform_\\(sm8250-ac\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "5DD7FBF8-482E-474A-913D-379B6B93FFDA"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_870_5g_sm8250-ac:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2B01D0CE-4F7A-46BC-944E-CBDD130405FF"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_888:-:*:*:*:*:*:*:*",
 			"cpeNameId": "64C8D3A4-35B3-4930-A736-8E435E524AC4"
 		},
@@ -4917,6 +5393,10 @@
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_888_5g_mobile_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "17BADDD3-7E14-4FD2-8865-CCA1B6C8BCCA"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_888_5g_sm8350-ac:-:*:*:*:*:*:*:*",
+			"cpeNameId": "35070A7B-9EAF-40C3-BA28-4E63CD181E8C"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_888\\+:-:*:*:*:*:*:*:*",
@@ -4939,12 +5419,32 @@
 			"cpeNameId": "CBA9900D-E2AA-4DCE-9BAC-26CD0F666092"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_888\\+_5g_mobile_platform_\\(sm8350-ac\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "2815C3AD-EC36-4995-823D-9599C2F90CC7"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8c_compute:-:*:*:*:*:*:*:*",
 			"cpeNameId": "660E1960-81C3-4870-9F66-9AFBCBCF74A8"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8c_compute_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "5ED49E21-D8F2-41ED-AE95-284738C33678"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8c_compute_platform_\\(sc8180x-ad\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "8B6BDF28-EA3C-421F-9861-655C909A81C5"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8c_compute_platform_\\(sc8180xp-ad\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "BD077543-34B7-45A2-A897-D9857F769D8F"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8c_compute_sc8180x-ad_poipu_lite:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B21651FB-6DD6-4296-9E0B-3A6F15948F66"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8c_compute_sc8180xp-ad_poipu_lite:-:*:*:*:*:*:*:*",
+			"cpeNameId": "751B2379-A81D-43AB-BA62-252CCA0C272F"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8cx_compute:-:*:*:*:*:*:*:*",
@@ -4955,12 +5455,72 @@
 			"cpeNameId": "6F26B64A-3BFA-4D91-BFE8-AB2348C38672"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8cx_compute_platform_\\(sc8180x-aa\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "79A36FA2-3EE0-489E-AF23-7B83F1F3E81A"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8cx_compute_platform_\\(sc8180x-aa\\,_ab\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "EC218870-6421-4748-A4B7-82A3499B3449"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8cx_compute_platform_\\(sc8180x-ab\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "FFDF6576-613A-44FA-83EC-3CEF4B8C6A3E"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8cx_compute_platform_\\(sc8180xp-ac\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "A9B72876-1747-43D4-A0D1-F257E235E2B2"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8cx_compute_platform_\\(sc8180xp-ac\\,_af\\)_\\\"poipu_pro\\\":-:*:*:*:*:*:*:*",
+			"cpeNameId": "4FE8D069-F2F3-4B01-9034-70A336D72F56"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8cx_compute_platform_\\(sc8180xpaf\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "CB2DB9C5-4F2B-4575-8D7F-8516C0364375"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8cx_compute_platform_\\(sc8180xp-af\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "158C39A7-A11F-40FD-BDDD-18973D204947"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8cx_compute_sc8180x-aa:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D2464709-5673-4634-AF8C-69ED05253909"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8cx_compute_sc8180xp-ac:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1CD164B6-056D-4AEE-B7BC-65EA2ECAA1D8"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8cx_gen_2_5g_compute:-:*:*:*:*:*:*:*",
 			"cpeNameId": "3FA8EC69-A615-4A47-B1EE-F7C594493FFA"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8cx_gen_2_5g_compute_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "8F68A6C5-DCD8-46F0-A4BE-CD1693A97239"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8cx_gen_2_5g_compute_platform_\\(sc8180x-ac\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "6104DE58-083C-4F58-B065-BB3BF31662DF"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8cx_gen_2_5g_compute_platform_\\(sc8180x-af\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "2DBCD7A8-8DC3-41C6-AF86-C9CE020A4CA3"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8cx_gen_2_5g_compute_platform_\\(sc8180xp-aa\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "D722F39B-2F21-43DF-830C-7CDA62612240"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8cx_gen_2_5g_compute_platform_\\(sc8180xp-ab\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "D4F61D4F-8587-4C6E-A175-9487FA70C3A4"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8cx_gen_2_5g_compute_sc8180x-ac:-:*:*:*:*:*:*:*",
+			"cpeNameId": "A152A65A-2CF8-4E18-95B1-613A913630AF"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8cx_gen_2_5g_compute_sc8180xp-aa:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D5801A9D-5425-4960-9150-DAA9088479F0"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8cx_gen_3:-:*:*:*:*:*:*:*",
@@ -4977,6 +5537,18 @@
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8cx_gen_3_compute_platform_:-:*:*:*:*:*:*:*",
 			"cpeNameId": "6E483FEE-9FD1-46B2-BC1C-6FF1EF060823"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8cx_gen_3_compute_platform_\\(sc8280xp-ab\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "517C2388-3644-4997-932C-EF8839272BBE"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8cx_gen_3_compute_platform_\\(sc8280xp-bb\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "B68383F2-181E-49EC-837F-AA248F8F7CEB"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_8cx_gen_3_compute_sc8280xp-ab:-:*:*:*:*:*:*:*",
+			"cpeNameId": "805912BB-6883-4CE5-86F5-944628CEBDE1"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_ar2_gen_1:-:*:*:*:*:*:*:*",
@@ -5055,6 +5627,10 @@
 			"cpeNameId": "36B8BBFD-1A26-4DEF-820D-1B9FE6B65D67"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_w5_gen_1_wearable:-:*:*:*:*:*:*:*",
+			"cpeNameId": "37F79513-A28B-42B3-B378-BACAA918E1D1"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_w5\\+_gen_1:-:*:*:*:*:*:*:*",
 			"cpeNameId": "07E9FB98-1466-4398-99CF-00882B532BD4"
 		},
@@ -5109,6 +5685,10 @@
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_wear_3100_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "E432E36F-874E-4857-AF91-B4C0AC4739F2"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_wear_4100:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CE37D85E-7CBD-4C86-A9BE-E68509F1274F"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_wear_4100\\+:-:*:*:*:*:*:*:*",
@@ -5291,6 +5871,10 @@
 			"cpeNameId": "EA4F604C-91AA-431E-B75D-F9D99DDB82C6"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_xr2_gen_1:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C3A7FFD8-CA7C-4F23-8A75-30216704AB04"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_xr2\\+_gen_1:-:*:*:*:*:*:*:*",
 			"cpeNameId": "E94E6D72-C9AF-43DA-B568-4685A9E74611"
 		},
@@ -5309,6 +5893,10 @@
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:srv1h:-:*:*:*:*:*:*:*",
 			"cpeNameId": "16DAF28D-5195-4567-ACC5-E86BF3670DF0"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:srv1l:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E6B7695A-8199-40AC-BD19-E771A775A0FA"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:srv1m:-:*:*:*:*:*:*:*",
@@ -5363,32 +5951,68 @@
 			"cpeNameId": "862B06F2-E0C4-4AA7-822D-F92975561053"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:sxr2250p:-:*:*:*:*:*:*:*",
+			"cpeNameId": "21AE39F1-7DCE-4FAA-9975-A03DD4B65392"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:talynplus:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D3ECE200-8387-480C-8F10-6D291EE3E913"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:video_collaboration_vc1:-:*:*:*:*:*:*:*",
 			"cpeNameId": "668742F7-A5A6-4BE6-A915-862DF7CD9359"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:video_collaboration_vc1_platform:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7AA3687A-ACF1-4F5F-AC7D-4B185CE1BCB3"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:video_collaboration_vc3:-:*:*:*:*:*:*:*",
 			"cpeNameId": "57CF0D12-A227-4587-A9D0-42D19BEE6C0F"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:video_collaboration_vc3_platform:-:*:*:*:*:*:*:*",
+			"cpeNameId": "F18736DF-23C6-402A-86E0-A2DD04F19CEE"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:video_collaboration_vc5:-:*:*:*:*:*:*:*",
 			"cpeNameId": "682A6F62-63A7-4285-B363-5EBE61ACFF18"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:video_collaboration_vc5_platform:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C6C63718-C977-47E1-8C8C-288A394B4329"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:vision_intelligence_100:-:*:*:*:*:*:*:*",
 			"cpeNameId": "FCBB08D4-5A40-4CB2-AE46-D0D0FA7BD987"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:vision_intelligence_100_apq8053-aa:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3AB517CD-96B0-4355-9DA2-BB589F219B93"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:vision_intelligence_100_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "E63D5172-2F4E-40EB-8A57-A7A123D01619"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:vision_intelligence_100_platform_\\(apq8053-aa\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "150922CF-A541-422E-8D4F-44CF35D13199"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:vision_intelligence_200:-:*:*:*:*:*:*:*",
 			"cpeNameId": "40B71E9C-3A9E-411A-B4BB-379349D07B6C"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:vision_intelligence_200_apq8053-ac:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D7015770-E4BA-4556-A65D-0B79B80E0951"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:vision_intelligence_200_platform:-:*:*:*:*:*:*:*",
 			"cpeNameId": "26B63A86-9003-495B-B337-4826F4F97C76"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:vision_intelligence_200_platform_\\(apq8053-ac\\):-:*:*:*:*:*:*:*",
+			"cpeNameId": "8AC61473-37D7-4E0F-AF45-07919147877B"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:vision_intelligence_300:-:*:*:*:*:*:*:*",
@@ -5473,6 +6097,10 @@
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:wcd9375:-:*:*:*:*:*:*:*",
 			"cpeNameId": "C1D18342-1306-4222-AF1C-D43A091ED891"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:wcd9378:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B0B0B9C0-395C-4C11-BF20-9274BF516D70"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:wcd938:-:*:*:*:*:*:*:*",
@@ -5567,6 +6195,10 @@
 			"cpeNameId": "0A1C4DBC-7803-48D4-BEDF-AA02E1537B01"
 		},
 		{
+			"cpeName": "cpe:2.3:h:qualcomm:wcn6650:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E171DB77-A801-4BA3-8C8C-99F120D66E26"
+		},
+		{
 			"cpeName": "cpe:2.3:h:qualcomm:wcn6740:-:*:*:*:*:*:*:*",
 			"cpeNameId": "525DA3CC-0E12-4219-97B7-D51A7B9FA905"
 		},
@@ -5577,6 +6209,10 @@
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:wcn6750:-:*:*:*:*:*:*:*",
 			"cpeNameId": "5151C5CF-DAD3-4664-B2EF-C0829C06876C"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:wcn6755:-:*:*:*:*:*:*:*",
+			"cpeNameId": "8E5558A8-F31D-4F98-8F27-4EFA36013000"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:wcn6850:-:*:*:*:*:*:*:*",
@@ -5617,6 +6253,22 @@
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:wcn785x-5:-:*:*:*:*:*:*:*",
 			"cpeNameId": "057AD8A6-D595-4A7C-AFF3-4AF94F7CCD26"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:wcn7860:-:*:*:*:*:*:*:*",
+			"cpeNameId": "2C00E413-79CF-4268-A98D-2A14736E29A3"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:wcn7861:-:*:*:*:*:*:*:*",
+			"cpeNameId": "260EE1CC-F04F-41A0-A85D-F4043891336B"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:wcn7880:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EE75EBF0-CDA9-4F6B-AEB8-CC8BF53D1A1C"
+		},
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:wcn7881:-:*:*:*:*:*:*:*",
+			"cpeNameId": "583528DA-171D-4D7A-98C7-590ED56D6240"
 		},
 		{
 			"cpeName": "cpe:2.3:h:qualcomm:wfr1620:-:*:*:*:*:*:*:*",

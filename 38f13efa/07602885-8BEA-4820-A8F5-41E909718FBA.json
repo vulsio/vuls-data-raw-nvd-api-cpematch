@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:qualcomm:srv1l:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "07602885-8BEA-4820-A8F5-41E909718FBA",
 	"created": "2024-07-02T11:18:57.867",
-	"lastModified": "2024-07-02T11:18:57.867",
-	"cpeLastModified": "2024-07-02T11:18:57.867",
-	"status": "Active"
+	"lastModified": "2024-12-20T15:08:31.627",
+	"cpeLastModified": "2024-12-20T15:08:31.627",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:srv1l:-:*:*:*:*:*:*:*",
+			"cpeNameId": "E6B7695A-8199-40AC-BD19-E771A775A0FA"
+		}
+	]
 }

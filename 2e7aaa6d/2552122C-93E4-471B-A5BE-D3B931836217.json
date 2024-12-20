@@ -4,8 +4,8 @@
 	"versionStartIncluding": "5.0.0",
 	"versionEndExcluding": "5.8.2",
 	"created": "2024-09-28T23:44:45.727",
-	"lastModified": "2024-09-28T23:44:45.727",
-	"cpeLastModified": "2024-09-28T23:44:45.727",
+	"lastModified": "2024-12-20T15:50:23.047",
+	"cpeLastModified": "2024-12-20T15:50:23.047",
 	"status": "Active",
 	"matches": [
 		{
@@ -199,6 +199,14 @@
 		{
 			"cpeName": "cpe:2.3:a:qnap:video_station:5.7.2:*:*:*:*:*:*:*",
 			"cpeNameId": "7CB46AF9-0384-494B-8226-932AB67B7DE4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qnap:video_station:5.8.0:*:*:*:*:*:*:*",
+			"cpeNameId": "8167E319-2BC3-442A-9EE3-B1AA465FA329"
+		},
+		{
+			"cpeName": "cpe:2.3:a:qnap:video_station:5.8.1:*:*:*:*:*:*:*",
+			"cpeNameId": "49AD5CAB-993E-4ECC-936A-4A2CFEE64741"
 		}
 	]
 }

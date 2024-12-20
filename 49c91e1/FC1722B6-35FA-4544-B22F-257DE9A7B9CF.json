@@ -4,7 +4,7 @@
 	"versionEndExcluding": "h5.1.1.2488",
 	"created": "2023-11-08T15:28:25.320",
 	"lastModified": "2023-11-16T21:09:03.457",
-	"cpeLastModified": "2024-03-20T13:57:27.073",
+	"cpeLastModified": "2024-12-20T15:29:28.797",
 	"status": "Active",
 	"matches": [
 		{
@@ -242,6 +242,14 @@
 		{
 			"cpeName": "cpe:2.3:o:qnap:quts_hero:h4.5.4.2626:-:*:*:*:*:*:*",
 			"cpeNameId": "E0A47777-92DB-4D50-8E70-E7B700CB3237"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:quts_hero:h4.5.4.2626:build_20231225:*:*:*:*:*:*",
+			"cpeNameId": "A2452BFC-11CA-4CEE-8A58-8D361FDE2E15"
+		},
+		{
+			"cpeName": "cpe:2.3:o:qnap:quts_hero:h4.5.4.2790:build_20240606:*:*:*:*:*:*",
+			"cpeNameId": "5F576A3F-8525-400E-B0F5-674E62C988C3"
 		},
 		{
 			"cpeName": "cpe:2.3:o:qnap:quts_hero:h5.0.0:*:*:*:*:*:*:*",

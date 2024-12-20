@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:qualcomm:snapdragon_835_pc:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "9ABD7146-6573-489D-B735-33E0DF79A0AD",
 	"created": "2023-07-10T16:01:56.277",
-	"lastModified": "2024-09-04T15:15:22.970",
-	"cpeLastModified": "2024-09-04T15:15:22.970",
-	"status": "Active"
+	"lastModified": "2024-12-20T15:08:31.627",
+	"cpeLastModified": "2024-12-20T15:08:31.627",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:qualcomm:snapdragon_835_pc:-:*:*:*:*:*:*:*",
+			"cpeNameId": "CDB0034A-A62D-4F0A-98E5-233D9FD3C939"
+		}
+	]
 }

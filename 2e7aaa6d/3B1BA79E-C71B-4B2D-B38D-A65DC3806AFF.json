@@ -4,9 +4,13 @@
 	"versionEndExcluding": "5.1.8",
 	"created": "2022-05-13T13:45:08.843",
 	"lastModified": "2022-05-13T13:48:40.180",
-	"cpeLastModified": "2024-01-09T19:39:38.390",
+	"cpeLastModified": "2024-12-20T15:50:23.047",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:qnap:video_station:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1CB4E215-C9B1-4B1F-B497-10CBD60F6775"
+		},
 		{
 			"cpeName": "cpe:2.3:a:qnap:video_station:2.1.4:*:*:*:*:*:*:*",
 			"cpeNameId": "2CB92D8B-3ADD-4327-8E66-CD00F680B6A1"

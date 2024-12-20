@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:qualcomm:sxr2250p_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "68A93ED1-F509-439E-AE7B-F0EC87AE759F",
 	"created": "2024-07-02T11:18:57.867",
-	"lastModified": "2024-07-02T11:18:57.867",
-	"cpeLastModified": "2024-07-02T11:18:57.867",
-	"status": "Active"
+	"lastModified": "2024-12-20T15:08:31.627",
+	"cpeLastModified": "2024-12-20T15:08:31.627",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:qualcomm:sxr2250p_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FD6930A2-4443-4A41-AC22-7682BB88CF46"
+		}
+	]
 }
