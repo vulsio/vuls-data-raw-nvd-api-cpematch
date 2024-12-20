@@ -3,7 +3,13 @@
 	"matchCriteriaId": "504996AD-D6AD-4C58-8FBC-293B72E567FC",
 	"versionEndExcluding": "3.4.9",
 	"created": "2024-08-13T20:48:42.670",
-	"lastModified": "2024-08-13T20:48:42.670",
-	"cpeLastModified": "2024-08-13T20:48:42.670",
-	"status": "Active"
+	"lastModified": "2024-12-19T19:43:52.057",
+	"cpeLastModified": "2024-12-19T19:43:52.057",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:pepperl-fuchs:profinet_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "9603323E-0ABA-4B9F-8792-246F5C667285"
+		}
+	]
 }
