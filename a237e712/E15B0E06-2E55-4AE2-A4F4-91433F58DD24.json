@@ -4,8 +4,8 @@
 	"versionStartIncluding": "8.10.0.0",
 	"versionEndExcluding": "8.10.0.13",
 	"created": "2024-08-09T17:44:25.377",
-	"lastModified": "2024-08-09T17:44:25.377",
-	"cpeLastModified": "2024-08-09T17:44:25.377",
+	"lastModified": "2024-12-20T18:41:56.887",
+	"cpeLastModified": "2024-12-20T18:41:56.887",
 	"status": "Active",
 	"matches": [
 		{
@@ -47,6 +47,18 @@
 		{
 			"cpeName": "cpe:2.3:o:hp:instantos:8.10.0.9:*:*:*:*:*:*:*",
 			"cpeNameId": "0D1DAF2E-8119-447F-9B21-EE34471136CD"
+		},
+		{
+			"cpeName": "cpe:2.3:o:hp:instantos:8.10.0.10:*:*:*:*:*:*:*",
+			"cpeNameId": "7169DEEB-912A-4660-A185-8043788CD269"
+		},
+		{
+			"cpeName": "cpe:2.3:o:hp:instantos:8.10.0.11:*:*:*:*:*:*:*",
+			"cpeNameId": "D8FAC34D-AA0F-4505-AC40-4D015540F903"
+		},
+		{
+			"cpeName": "cpe:2.3:o:hp:instantos:8.10.0.12:*:*:*:*:*:*:*",
+			"cpeNameId": "AACE33B7-E4C8-4B60-9FD0-EEE71F440EE6"
 		}
 	]
 }
