@@ -3,7 +3,7 @@
 	"matchCriteriaId": "E131E5AC-E25C-47DE-B8A3-CCF08AAA495F",
 	"created": "2022-12-08T13:33:05.297",
 	"lastModified": "2022-12-08T13:33:05.297",
-	"cpeLastModified": "2024-01-30T01:23:59.770",
+	"cpeLastModified": "2024-12-23T16:37:42.867",
 	"status": "Active",
 	"matches": [
 		{
@@ -131,8 +131,20 @@
 			"cpeNameId": "FB1E7708-21E1-4045-B2F0-5BDCC2820D0F"
 		},
 		{
+			"cpeName": "cpe:2.3:a:zimbra:collaboration:8.8.15:p36:*:*:*:*:*:*",
+			"cpeNameId": "3ECF95B6-A8CF-4AB4-9D29-03DE2833BA3F"
+		},
+		{
 			"cpeName": "cpe:2.3:a:zimbra:collaboration:8.8.15:p37:*:*:*:*:*:*",
 			"cpeNameId": "32E440F6-BDD5-406F-ACDF-32F404ACD9A5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zimbra:collaboration:8.8.15:p38:*:*:*:*:*:*",
+			"cpeNameId": "26390FA2-2C11-46CF-8A57-D3806EF418FA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zimbra:collaboration:8.8.15:p39:*:*:*:*:*:*",
+			"cpeNameId": "0CD954A6-B639-406C-BFF3-F1D04E2A6E1A"
 		},
 		{
 			"cpeName": "cpe:2.3:a:zimbra:collaboration:8.8.15:p4:*:*:*:*:*:*",
@@ -149,6 +161,18 @@
 		{
 			"cpeName": "cpe:2.3:a:zimbra:collaboration:8.8.15:p42:*:*:*:*:*:*",
 			"cpeNameId": "B1FE7383-83E3-476F-9465-EA5E939FE007"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zimbra:collaboration:8.8.15:p43:*:*:*:*:*:*",
+			"cpeNameId": "A3F4F358-844D-4485-ACC9-4180C1BDABD8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zimbra:collaboration:8.8.15:p44:*:*:*:*:*:*",
+			"cpeNameId": "430136C4-5FD8-4134-8287-13EEDF825BCD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zimbra:collaboration:8.8.15:p45:*:*:*:*:*:*",
+			"cpeNameId": "9F81D3E5-B760-4724-A7B6-5245E83E1A04"
 		},
 		{
 			"cpeName": "cpe:2.3:a:zimbra:collaboration:8.8.15:p5:*:*:*:*:*:*",

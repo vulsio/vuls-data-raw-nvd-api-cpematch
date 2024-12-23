@@ -3,10 +3,14 @@
 	"matchCriteriaId": "5634A605-49DE-459E-ADE6-2E65D89321BD",
 	"versionEndIncluding": "0.13.0",
 	"created": "2024-11-19T19:50:28.680",
-	"lastModified": "2024-11-19T19:50:28.680",
-	"cpeLastModified": "2024-11-19T19:51:45.773",
+	"lastModified": "2024-12-23T17:50:41.757",
+	"cpeLastModified": "2024-12-23T17:50:41.757",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:gogs:gogs:-:*:*:*:*:*:*:*",
+			"cpeNameId": "ADF4B0AF-4C71-4F85-A6F2-D6FC8DE391CA"
+		},
 		{
 			"cpeName": "cpe:2.3:a:gogs:gogs:0.2.0:*:*:*:*:*:*:*",
 			"cpeNameId": "3879DF08-63B0-466A-995E-A827F06DA18E"
@@ -298,6 +302,14 @@
 		{
 			"cpeName": "cpe:2.3:a:gogs:gogs:0.12.13:*:*:*:*:*:*:*",
 			"cpeNameId": "774CA2D7-7DD8-43A1-88D6-6161E6AB42E5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gogs:gogs:0.13.0:-:*:*:*:*:*:*",
+			"cpeNameId": "3DC5A919-76AB-4915-AD84-339FCBE7FD1C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:gogs:gogs:0.13.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "41871572-7123-43FA-AA1E-58E7FACC74BF"
 		}
 	]
 }

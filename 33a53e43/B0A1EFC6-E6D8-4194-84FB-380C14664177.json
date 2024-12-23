@@ -3,8 +3,8 @@
 	"matchCriteriaId": "B0A1EFC6-E6D8-4194-84FB-380C14664177",
 	"versionEndExcluding": "1.2.9.1",
 	"created": "2024-09-26T17:16:02.900",
-	"lastModified": "2024-09-26T17:16:02.900",
-	"cpeLastModified": "2024-09-26T17:16:02.900",
+	"lastModified": "2024-12-23T18:03:54.160",
+	"cpeLastModified": "2024-12-23T18:03:54.160",
 	"status": "Active",
 	"matches": [
 		{
@@ -102,6 +102,10 @@
 		{
 			"cpeName": "cpe:2.3:a:benjaminrojas:wp_editor:1.2.8:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "2ECFAA2D-1E51-4B6F-ACC7-B9B3541888AB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:benjaminrojas:wp_editor:1.2.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D944830E-9604-476C-9320-770C4EFA7131"
 		}
 	]
 }

@@ -4,8 +4,8 @@
 	"versionStartIncluding": "10.0.0",
 	"versionEndExcluding": "10.0.6",
 	"created": "2024-10-10T16:58:07.307",
-	"lastModified": "2024-10-10T16:58:07.307",
-	"cpeLastModified": "2024-10-10T16:58:07.307",
+	"lastModified": "2024-12-23T16:37:42.867",
+	"cpeLastModified": "2024-12-23T16:37:42.867",
 	"status": "Active",
 	"matches": [
 		{
@@ -27,6 +27,10 @@
 		{
 			"cpeName": "cpe:2.3:a:zimbra:collaboration:10.0.4:*:*:*:*:*:*:*",
 			"cpeNameId": "13CDDA37-39F9-45AE-AF45-8D4B38703484"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zimbra:collaboration:10.0.5:*:*:*:*:*:*:*",
+			"cpeNameId": "7257A26A-7390-4B6A-BEC6-D529C0D76AE1"
 		}
 	]
 }

@@ -4,7 +4,7 @@
 	"versionEndExcluding": "8.0",
 	"created": "2024-08-16T20:19:15.130",
 	"lastModified": "2024-09-04T20:07:07.460",
-	"cpeLastModified": "2024-09-04T20:07:07.460",
+	"cpeLastModified": "2024-12-23T15:10:10.603",
 	"status": "Active",
 	"matches": [
 		{
@@ -306,6 +306,10 @@
 		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.1.1:*:*:*:*:*:*:*",
 			"cpeNameId": "A220C030-9982-4A8E-B4FF-C32000431BD8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.2:-:*:*:*:*:*:*",
+			"cpeNameId": "CDC67D28-6ECC-4A9F-9D3E-F51BDB9B7CF5"
 		},
 		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.2:7200:*:*:*:*:*:*",

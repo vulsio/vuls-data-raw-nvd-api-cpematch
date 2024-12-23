@@ -4,7 +4,7 @@
 	"versionEndExcluding": "5.1.1",
 	"created": "2024-10-28T18:45:55.990",
 	"lastModified": "2024-10-28T18:45:55.990",
-	"cpeLastModified": "2024-10-28T18:45:55.990",
+	"cpeLastModified": "2024-12-23T17:50:41.757",
 	"status": "Active",
 	"matches": [
 		{
@@ -426,6 +426,26 @@
 		{
 			"cpeName": "cpe:2.3:a:hikashop:hikashop:4.7.5:*:*:*:*:joomla\\!:*:*",
 			"cpeNameId": "E1C15F9D-A569-48DB-B2CC-B71802429D4B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hikashop:hikashop:5.0.1:*:*:*:*:joomla\\!:*:*",
+			"cpeNameId": "ABDFC32B-2577-4F69-8898-070A13AD7F3F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hikashop:hikashop:5.0.2:*:*:*:*:joomla\\!:*:*",
+			"cpeNameId": "0D124835-EC2F-4993-A604-E2C76DCFEE27"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hikashop:hikashop:5.0.3:*:*:*:*:joomla\\!:*:*",
+			"cpeNameId": "524DC68C-F1C2-4A4C-9921-E6016029D207"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hikashop:hikashop:5.0.4:*:*:*:*:joomla\\!:*:*",
+			"cpeNameId": "E15E5FF2-66D4-4D82-9E14-0D55C1AE9803"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hikashop:hikashop:5.1.0:*:*:*:*:joomla\\!:*:*",
+			"cpeNameId": "DCAE4F48-1274-4020-9E96-4D93F645DF4D"
 		}
 	]
 }

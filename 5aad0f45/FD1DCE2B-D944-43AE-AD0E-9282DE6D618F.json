@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:a:zimbra:collaboration:9.0.0:p30:*:*:*:*:*:*",
 	"matchCriteriaId": "FD1DCE2B-D944-43AE-AD0E-9282DE6D618F",
 	"created": "2024-08-13T17:25:18.060",
-	"lastModified": "2024-08-13T17:25:18.060",
-	"cpeLastModified": "2024-08-13T17:25:18.060",
-	"status": "Active"
+	"lastModified": "2024-12-23T16:37:42.867",
+	"cpeLastModified": "2024-12-23T16:37:42.867",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:zimbra:collaboration:9.0.0:p30:*:*:*:*:*:*",
+			"cpeNameId": "33457D47-0E4A-49C9-9667-71C2EF56F892"
+		}
+	]
 }

@@ -4,9 +4,13 @@
 	"versionEndExcluding": "0.12.9",
 	"created": "2022-06-11T02:41:34.660",
 	"lastModified": "2022-06-11T02:41:34.660",
-	"cpeLastModified": "2022-06-14T13:22:24.920",
+	"cpeLastModified": "2024-12-23T17:50:41.757",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:gogs:gogs:-:*:*:*:*:*:*:*",
+			"cpeNameId": "ADF4B0AF-4C71-4F85-A6F2-D6FC8DE391CA"
+		},
 		{
 			"cpeName": "cpe:2.3:a:gogs:gogs:0.2.0:*:*:*:*:*:*:*",
 			"cpeNameId": "3879DF08-63B0-466A-995E-A827F06DA18E"

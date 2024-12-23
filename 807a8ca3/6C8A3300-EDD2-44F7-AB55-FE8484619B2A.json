@@ -4,9 +4,13 @@
 	"versionEndIncluding": "1.7.1",
 	"created": "2023-11-06T18:26:35.993",
 	"lastModified": "2023-11-06T18:30:50.850",
-	"cpeLastModified": "2023-11-06T18:30:50.850",
+	"cpeLastModified": "2024-12-23T18:04:34.480",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:bestwebsoft:contact_form_to_db:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F86D6F1E-45C2-424D-BB6B-53C7F8203550"
+		},
 		{
 			"cpeName": "cpe:2.3:a:bestwebsoft:contact_form_to_db:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "8A2E208F-7572-4478-BAE8-3BEDDC11A6B1"

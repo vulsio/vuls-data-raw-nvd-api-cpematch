@@ -3,7 +3,7 @@
 	"matchCriteriaId": "F8C474D6-05B6-4F7D-94EA-E414FABDB098",
 	"created": "2022-12-08T13:33:05.297",
 	"lastModified": "2022-12-08T13:33:05.297",
-	"cpeLastModified": "2024-01-30T01:23:59.770",
+	"cpeLastModified": "2024-12-23T16:37:42.867",
 	"status": "Active",
 	"matches": [
 		{
@@ -87,8 +87,28 @@
 			"cpeNameId": "D2F47291-8B67-46CB-AC24-53004141FE8E"
 		},
 		{
+			"cpeName": "cpe:2.3:a:zimbra:collaboration:9.0.0:p28:*:*:*:*:*:*",
+			"cpeNameId": "6767B76D-9E3C-4282-AC52-E698DE14D66F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zimbra:collaboration:9.0.0:p29:*:*:*:*:*:*",
+			"cpeNameId": "D41DC3B1-88FF-49AB-BDA7-EF9623C6CE19"
+		},
+		{
 			"cpeName": "cpe:2.3:a:zimbra:collaboration:9.0.0:p3:*:*:*:*:*:*",
 			"cpeNameId": "5CC37DA7-D59E-48E7-BE0D-399944C90CAA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zimbra:collaboration:9.0.0:p30:*:*:*:*:*:*",
+			"cpeNameId": "33457D47-0E4A-49C9-9667-71C2EF56F892"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zimbra:collaboration:9.0.0:p31:*:*:*:*:*:*",
+			"cpeNameId": "BF465AC1-AB46-417B-BB52-C33792AD48A6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zimbra:collaboration:9.0.0:p32:*:*:*:*:*:*",
+			"cpeNameId": "A5B0F6B5-377D-48F9-9433-69563D637443"
 		},
 		{
 			"cpeName": "cpe:2.3:a:zimbra:collaboration:9.0.0:p33:*:*:*:*:*:*",
@@ -103,8 +123,28 @@
 			"cpeNameId": "455F41F2-C97F-4733-A522-47462EEAA499"
 		},
 		{
+			"cpeName": "cpe:2.3:a:zimbra:collaboration:9.0.0:p36:*:*:*:*:*:*",
+			"cpeNameId": "8B98C859-508D-476B-89C3-E88C5723C11E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zimbra:collaboration:9.0.0:p37:*:*:*:*:*:*",
+			"cpeNameId": "32C8360F-A789-42E4-8BD8-038EF8AECB5C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zimbra:collaboration:9.0.0:p38:*:*:*:*:*:*",
+			"cpeNameId": "82E799BC-C8CE-40A9-A70C-C75D1CB40633"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zimbra:collaboration:9.0.0:p39:*:*:*:*:*:*",
+			"cpeNameId": "78DF9660-4685-4995-BB95-1829C5724366"
+		},
+		{
 			"cpeName": "cpe:2.3:a:zimbra:collaboration:9.0.0:p4:*:*:*:*:*:*",
 			"cpeNameId": "A50C0FB5-A80A-4941-83E3-D038BE4D55F4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zimbra:collaboration:9.0.0:p40:*:*:*:*:*:*",
+			"cpeNameId": "E5DD97F1-9CF9-4090-BA3A-63589212FC90"
 		},
 		{
 			"cpeName": "cpe:2.3:a:zimbra:collaboration:9.0.0:p5:*:*:*:*:*:*",

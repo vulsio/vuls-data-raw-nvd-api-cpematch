@@ -3,10 +3,14 @@
 	"matchCriteriaId": "372BA04F-5190-49C1-BF35-E3EF5F00AEC4",
 	"versionEndExcluding": "1.4.11",
 	"created": "2024-07-05T11:54:55.613",
-	"lastModified": "2024-07-05T11:54:55.613",
-	"cpeLastModified": "2024-07-05T11:54:55.613",
+	"lastModified": "2024-12-23T15:10:10.603",
+	"cpeLastModified": "2024-12-23T15:10:10.603",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:stylemixthemes:motors_-_car_dealer\\,_classifieds_\\&_listing:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6686C26B-0C07-4421-848D-2E9C0B158033"
+		},
 		{
 			"cpeName": "cpe:2.3:a:stylemixthemes:motors_-_car_dealer\\,_classifieds_\\&_listing:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "8ADA6146-87EB-40BD-A965-E04A2AF4D51D"
@@ -74,6 +78,22 @@
 		{
 			"cpeName": "cpe:2.3:a:stylemixthemes:motors_-_car_dealer\\,_classifieds_\\&_listing:1.4.6:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "B7A64044-8B92-4FDB-B9BA-7904CE6A0756"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stylemixthemes:motors_-_car_dealer\\,_classifieds_\\&_listing:1.4.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "299CDA55-3958-4F11-9F37-C584DBE33003"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stylemixthemes:motors_-_car_dealer\\,_classifieds_\\&_listing:1.4.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B25FEF80-34B2-47C5-B2E1-4540A80F6034"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stylemixthemes:motors_-_car_dealer\\,_classifieds_\\&_listing:1.4.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "00C82EE3-736A-4127-9B2B-84F01A8E29D1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:stylemixthemes:motors_-_car_dealer\\,_classifieds_\\&_listing:1.4.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "83F57AC3-E3F0-4C19-8037-A933C66F2A32"
 		}
 	]
 }

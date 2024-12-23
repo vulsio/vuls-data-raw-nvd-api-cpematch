@@ -3,10 +3,14 @@
 	"matchCriteriaId": "C2E40656-8056-4056-8175-F159EEEFA6C0",
 	"versionEndExcluding": "1.7.3",
 	"created": "2024-11-25T21:39:54.253",
-	"lastModified": "2024-11-25T21:39:54.253",
-	"cpeLastModified": "2024-11-25T21:39:54.253",
+	"lastModified": "2024-12-23T18:04:34.480",
+	"cpeLastModified": "2024-12-23T18:04:34.480",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:bestwebsoft:contact_form_to_db:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F86D6F1E-45C2-424D-BB6B-53C7F8203550"
+		},
 		{
 			"cpeName": "cpe:2.3:a:bestwebsoft:contact_form_to_db:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "8A2E208F-7572-4478-BAE8-3BEDDC11A6B1"
