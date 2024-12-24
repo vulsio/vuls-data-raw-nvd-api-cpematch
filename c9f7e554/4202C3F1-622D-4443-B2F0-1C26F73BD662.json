@@ -3,8 +3,8 @@
 	"matchCriteriaId": "4202C3F1-622D-4443-B2F0-1C26F73BD662",
 	"versionEndExcluding": "10.04.0",
 	"created": "2024-11-12T16:53:31.000",
-	"lastModified": "2024-11-12T16:53:31.000",
-	"cpeLastModified": "2024-11-12T16:53:31.000",
+	"lastModified": "2024-12-23T18:45:26.893",
+	"cpeLastModified": "2024-12-23T18:46:29.670",
 	"status": "Active",
 	"matches": [
 		{
@@ -1084,8 +1084,16 @@
 			"cpeNameId": "201C678A-D762-4AC4-8548-2DFDA76D5C30"
 		},
 		{
+			"cpeName": "cpe:2.3:a:artifex:ghostscript:10.02.1:*:*:*:*:*:*:*",
+			"cpeNameId": "691A5399-D172-459D-9468-6C6034D07BFE"
+		},
+		{
 			"cpeName": "cpe:2.3:a:artifex:ghostscript:10.03.0:*:*:*:*:*:*:*",
 			"cpeNameId": "B4F51BD6-6BA0-431F-8BE5-9FE59570F0D8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:artifex:ghostscript:10.03.1:*:*:*:*:*:*:*",
+			"cpeNameId": "0FEE9463-730D-4D34-8C3D-9C86985508F8"
 		}
 	]
 }

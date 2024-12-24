@@ -3,8 +3,8 @@
 	"matchCriteriaId": "86465B12-A320-4DC4-B46B-EB4539B1B4F8",
 	"versionEndExcluding": "2.1.7",
 	"created": "2024-10-04T15:36:09.850",
-	"lastModified": "2024-10-04T15:36:09.850",
-	"cpeLastModified": "2024-10-04T15:36:09.850",
+	"lastModified": "2024-12-23T20:28:31.617",
+	"cpeLastModified": "2024-12-23T20:28:31.617",
 	"status": "Active",
 	"matches": [
 		{
@@ -154,6 +154,10 @@
 		{
 			"cpeName": "cpe:2.3:a:wpjobportal:wp_job_portal:2.1.5:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "47506AC0-76C2-46BE-8041-6536DB007E40"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpjobportal:wp_job_portal:2.1.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C620C25E-5582-4994-929F-8905FA94CCEA"
 		}
 	]
 }

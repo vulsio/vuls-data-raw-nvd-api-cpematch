@@ -3,10 +3,14 @@
 	"matchCriteriaId": "0D7D471C-B15C-4B06-B247-025BA5FB9194",
 	"versionEndExcluding": "1.2.3",
 	"created": "2024-11-05T17:24:28.337",
-	"lastModified": "2024-11-05T17:24:28.337",
-	"cpeLastModified": "2024-11-05T17:24:28.337",
+	"lastModified": "2024-12-23T20:28:31.617",
+	"cpeLastModified": "2024-12-23T20:28:31.617",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wpthemespace:magical_addons_for_elementor:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "12733689-5580-481B-B827-25E72324003E"
+		},
 		{
 			"cpeName": "cpe:2.3:a:wpthemespace:magical_addons_for_elementor:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "87E7BB0E-81B8-461E-8385-C78CA7A9F78C"
@@ -182,6 +186,18 @@
 		{
 			"cpeName": "cpe:2.3:a:wpthemespace:magical_addons_for_elementor:1.1.42:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "667A3F24-AFE7-4090-970E-D150F45F4388"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpthemespace:magical_addons_for_elementor:1.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0B6AF5CA-F961-4598-ABCA-B9404E02804F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpthemespace:magical_addons_for_elementor:1.2.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C5BA8FB8-974F-4AA7-824D-E23CFE994440"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpthemespace:magical_addons_for_elementor:1.2.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B1BC1E8B-4294-47E2-8678-E9EDE2BDB71C"
 		}
 	]
 }

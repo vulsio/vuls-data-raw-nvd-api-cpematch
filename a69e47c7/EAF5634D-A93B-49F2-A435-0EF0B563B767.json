@@ -3,10 +3,14 @@
 	"matchCriteriaId": "EAF5634D-A93B-49F2-A435-0EF0B563B767",
 	"versionEndExcluding": "2.0.19.9",
 	"created": "2024-09-27T12:29:04.800",
-	"lastModified": "2024-09-27T12:29:04.800",
-	"cpeLastModified": "2024-09-27T12:29:04.800",
+	"lastModified": "2024-12-23T20:28:31.617",
+	"cpeLastModified": "2024-12-23T20:28:31.617",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wpbookingsystem:wp_booking_system:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "789A098D-936E-4149-BA4D-898B32A9A9F5"
+		},
 		{
 			"cpeName": "cpe:2.3:a:wpbookingsystem:wp_booking_system:0.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "8D85AE06-12E3-47CC-81FC-35FDC81DBF4D"
@@ -178,6 +182,38 @@
 		{
 			"cpeName": "cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.18.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "C7A6A0D8-7BB2-4B8E-B57F-56F0F6730448"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.19:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0A672984-16EE-4881-9222-BFD6F5B1CBC0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.19.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B89A58E4-E0A5-4015-A2C3-38B45E21E2A2"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.19.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "87DFD7C4-B4ED-4808-902F-B4EC5E79D0A8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.19.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5F5DB456-1DAA-48A7-ADFD-768B8FDE6084"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.19.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4CC998E3-0FA6-415D-9FC8-B336951048E4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.19.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5B961EAE-138F-42F5-8F18-D57E80DD7B27"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.19.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0D7767F5-96E1-45EB-A2CD-FAB9F8DA58D8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.19.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "17AAF47C-C992-42DD-B949-DC1393446821"
 		}
 	]
 }

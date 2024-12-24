@@ -4,9 +4,13 @@
 	"versionEndExcluding": "1.1.40",
 	"created": "2024-07-24T17:54:37.160",
 	"lastModified": "2024-07-24T17:54:37.160",
-	"cpeLastModified": "2024-07-24T17:54:37.160",
+	"cpeLastModified": "2024-12-23T20:28:31.617",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wpthemespace:magical_addons_for_elementor:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "12733689-5580-481B-B827-25E72324003E"
+		},
 		{
 			"cpeName": "cpe:2.3:a:wpthemespace:magical_addons_for_elementor:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "87E7BB0E-81B8-461E-8385-C78CA7A9F78C"

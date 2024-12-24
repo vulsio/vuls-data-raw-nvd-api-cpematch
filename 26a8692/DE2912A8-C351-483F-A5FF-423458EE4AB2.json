@@ -3,10 +3,14 @@
 	"matchCriteriaId": "DE2912A8-C351-483F-A5FF-423458EE4AB2",
 	"versionEndIncluding": "2.4.5",
 	"created": "2023-08-31T20:07:01.050",
-	"lastModified": "2024-12-23T18:01:56.877",
-	"cpeLastModified": "2024-12-23T18:02:33.203",
+	"lastModified": "2024-12-23T19:34:23.513",
+	"cpeLastModified": "2024-12-23T19:34:23.513",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:bbsetheme:bbs_e-popup:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "28373947-9318-45C6-A989-D28749E00956"
+		},
 		{
 			"cpeName": "cpe:2.3:a:bbsetheme:bbs_e-popup:1.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "AEF09782-614F-4D34-9C13-BE562E35DF16"
@@ -42,6 +46,10 @@
 		{
 			"cpeName": "cpe:2.3:a:bbsetheme:bbs_e-popup:2.4.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "5A935470-5710-4B40-906B-4B32B5B51A74"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bbsetheme:bbs_e-popup:2.4.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B14804B2-7396-42F3-807C-5A4C579F9FD2"
 		}
 	]
 }

@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.13.7",
 	"created": "2024-11-12T20:22:39.460",
 	"lastModified": "2024-11-12T20:22:39.460",
-	"cpeLastModified": "2024-11-12T20:22:39.460",
+	"cpeLastModified": "2024-12-23T20:28:31.617",
 	"status": "Active",
 	"matches": [
 		{
@@ -238,6 +238,10 @@
 		{
 			"cpeName": "cpe:2.3:a:webtechstreet:elementor_addon_elements:1.13.5:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "29D743EA-8A4A-4332-8082-7E73FDB1F0A3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:webtechstreet:elementor_addon_elements:1.13.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CDD43C6C-041C-4F23-A18F-145B7F6B616F"
 		}
 	]
 }

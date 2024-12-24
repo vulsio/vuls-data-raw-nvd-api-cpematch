@@ -3,10 +3,14 @@
 	"matchCriteriaId": "44D7DAF6-97EF-40F9-A6FE-257A649D2D70",
 	"versionEndExcluding": "6.5.6",
 	"created": "2024-09-10T20:44:42.363",
-	"lastModified": "2024-09-25T21:24:59.680",
-	"cpeLastModified": "2024-09-25T21:24:59.680",
+	"lastModified": "2024-12-23T19:06:43.510",
+	"cpeLastModified": "2024-12-23T19:06:43.510",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:bitapps:file_manager:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "89330013-5AC3-41E5-8CEA-5D63332AAA01"
+		},
 		{
 			"cpeName": "cpe:2.3:a:bitapps:file_manager:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "FB2492D7-AA62-4175-AF96-6662C4F97B66"

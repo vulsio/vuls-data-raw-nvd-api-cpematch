@@ -4,9 +4,13 @@
 	"versionEndExcluding": "1.5.2",
 	"created": "2022-12-29T14:56:43.200",
 	"lastModified": "2022-12-29T14:56:43.200",
-	"cpeLastModified": "2022-12-29T14:56:43.200",
+	"cpeLastModified": "2024-12-23T20:28:31.617",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wpbookingsystem:wp_booking_system:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "789A098D-936E-4149-BA4D-898B32A9A9F5"
+		},
 		{
 			"cpeName": "cpe:2.3:a:wpbookingsystem:wp_booking_system:0.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "8D85AE06-12E3-47CC-81FC-35FDC81DBF4D"

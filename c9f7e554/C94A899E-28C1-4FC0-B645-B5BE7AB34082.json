@@ -4,7 +4,7 @@
 	"versionEndExcluding": "10.03.0",
 	"created": "2024-07-18T18:10:33.107",
 	"lastModified": "2024-07-18T18:10:33.107",
-	"cpeLastModified": "2024-07-18T18:10:33.107",
+	"cpeLastModified": "2024-12-23T18:46:29.670",
 	"status": "Active",
 	"matches": [
 		{
@@ -1082,6 +1082,10 @@
 		{
 			"cpeName": "cpe:2.3:a:artifex:ghostscript:10.02.0:*:*:*:*:*:*:*",
 			"cpeNameId": "201C678A-D762-4AC4-8548-2DFDA76D5C30"
+		},
+		{
+			"cpeName": "cpe:2.3:a:artifex:ghostscript:10.02.1:*:*:*:*:*:*:*",
+			"cpeNameId": "691A5399-D172-459D-9468-6C6034D07BFE"
 		}
 	]
 }

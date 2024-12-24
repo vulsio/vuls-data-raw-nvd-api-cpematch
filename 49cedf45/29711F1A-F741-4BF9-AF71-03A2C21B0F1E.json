@@ -4,7 +4,7 @@
 	"versionEndIncluding": "1.16.2",
 	"created": "2022-09-27T13:26:10.520",
 	"lastModified": "2022-11-09T15:10:25.737",
-	"cpeLastModified": "2022-11-09T15:10:25.737",
+	"cpeLastModified": "2024-12-23T19:00:11.677",
 	"status": "Active",
 	"matches": [
 		{
@@ -636,8 +636,60 @@
 			"cpeNameId": "D550E7E2-E157-40F8-848B-3FBA17C53D42"
 		},
 		{
+			"cpeName": "cpe:2.3:a:nlnetlabs:unbound:1.13.1:-:*:*:*:*:*:*",
+			"cpeNameId": "444B42A8-FFC3-4528-8325-2FE4C67EE6A5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nlnetlabs:unbound:1.13.1:rc1:*:*:*:*:*:*",
+			"cpeNameId": "9697B1CA-61D0-439F-9006-408727D3F4AD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nlnetlabs:unbound:1.13.1:rc2:*:*:*:*:*:*",
+			"cpeNameId": "18F53799-F4AD-4575-B631-CECAE3C8F0D7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nlnetlabs:unbound:1.13.2:-:*:*:*:*:*:*",
+			"cpeNameId": "2EC636C4-659B-4EAA-B9A8-600722A1540E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nlnetlabs:unbound:1.13.2:rc1:*:*:*:*:*:*",
+			"cpeNameId": "A0DB160E-A2E9-4BF2-8241-3EC6391E8A7D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nlnetlabs:unbound:1.14.0:-:*:*:*:*:*:*",
+			"cpeNameId": "2313318A-B5A8-471C-B42C-711026B60DE0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nlnetlabs:unbound:1.14.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "8DC9618B-E543-42E3-8292-FBF86B4D4B9F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nlnetlabs:unbound:1.15.0:-:*:*:*:*:*:*",
+			"cpeNameId": "96A3D0AC-D600-4AA9-A34B-F71D190E7F1C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nlnetlabs:unbound:1.15.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "BA7102F5-95C4-4ECF-A845-3BA2EB1A488A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nlnetlabs:unbound:1.16.0:-:*:*:*:*:*:*",
+			"cpeNameId": "DCBBAC23-E44F-43E5-A49F-8F94709E3B2F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nlnetlabs:unbound:1.16.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "53281F2A-2AF9-42DE-A1DF-33C034456AAA"
+		},
+		{
 			"cpeName": "cpe:2.3:a:nlnetlabs:unbound:1.16.1:*:*:*:*:*:*:*",
 			"cpeNameId": "B86DC83F-4631-446D-A33F-FE17669C8208"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nlnetlabs:unbound:1.16.1:-:*:*:*:*:*:*",
+			"cpeNameId": "BA3F74A1-31A5-4451-BA0A-9B698CA3FEB8"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nlnetlabs:unbound:1.16.1:rc1:*:*:*:*:*:*",
+			"cpeNameId": "2BD9CF04-24FD-468C-A86D-7931DD74D494"
 		},
 		{
 			"cpeName": "cpe:2.3:a:nlnetlabs:unbound:1.16.2:*:*:*:*:*:*:*",

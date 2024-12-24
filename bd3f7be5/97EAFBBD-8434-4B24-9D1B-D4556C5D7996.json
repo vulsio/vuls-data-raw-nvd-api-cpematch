@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.10.3",
 	"created": "2024-12-17T16:05:22.337",
 	"lastModified": "2024-12-17T16:05:22.337",
-	"cpeLastModified": "2024-12-17T16:05:22.337",
+	"cpeLastModified": "2024-12-23T18:56:29.557",
 	"status": "Active",
 	"matches": [
 		{
@@ -422,6 +422,34 @@
 		{
 			"cpeName": "cpe:2.3:a:octoprint:octoprint:1.9.3:*:*:*:*:*:*:*",
 			"cpeNameId": "E9270EA8-0627-4CD0-A7F0-1F015D580968"
+		},
+		{
+			"cpeName": "cpe:2.3:a:octoprint:octoprint:1.10.0:-:*:*:*:*:*:*",
+			"cpeNameId": "2BE9B14B-E675-4E12-BE0A-1BC1A6734169"
+		},
+		{
+			"cpeName": "cpe:2.3:a:octoprint:octoprint:1.10.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "37645FD8-9B2D-4ABA-B9B8-78CEAC19210B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:octoprint:octoprint:1.10.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "767918D2-2B6A-478A-8474-F4FBDDD1A923"
+		},
+		{
+			"cpeName": "cpe:2.3:a:octoprint:octoprint:1.10.0:rc3:*:*:*:*:*:*",
+			"cpeNameId": "2B637C12-8BD2-4E68-8881-085F6752FDE7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:octoprint:octoprint:1.10.0:rc4:*:*:*:*:*:*",
+			"cpeNameId": "C168A959-C8A1-4C7F-956C-1DF523CAB900"
+		},
+		{
+			"cpeName": "cpe:2.3:a:octoprint:octoprint:1.10.1:*:*:*:*:*:*:*",
+			"cpeNameId": "6258C307-C333-4E28-9BAC-50700F46B8AD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:octoprint:octoprint:1.10.2:*:*:*:*:*:*:*",
+			"cpeNameId": "C63B5789-E25E-458A-832F-0BD03444B01C"
 		}
 	]
 }

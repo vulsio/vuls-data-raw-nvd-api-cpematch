@@ -3,10 +3,14 @@
 	"matchCriteriaId": "45F9DC2F-3C65-443B-9FDD-688E7790C860",
 	"versionEndExcluding": "1.0.7",
 	"created": "2024-11-13T15:09:40.637",
-	"lastModified": "2024-11-13T15:09:40.637",
-	"cpeLastModified": "2024-11-13T15:09:40.637",
+	"lastModified": "2024-12-23T20:28:31.617",
+	"cpeLastModified": "2024-12-23T20:28:31.617",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:wpplugin:contact_form_7_redirect_\\&_thank_you_page:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DA52349D-B45B-4BF0-921C-20AD385FA243"
+		},
 		{
 			"cpeName": "cpe:2.3:a:wpplugin:contact_form_7_redirect_\\&_thank_you_page:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "B3CAB06E-8C8E-4152-AB91-72489BA27E57"
@@ -26,6 +30,14 @@
 		{
 			"cpeName": "cpe:2.3:a:wpplugin:contact_form_7_redirect_\\&_thank_you_page:1.0.4:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "BA02CA74-3070-4712-98F6-99F5C86A8A3C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpplugin:contact_form_7_redirect_\\&_thank_you_page:1.0.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "895F9DFD-7E3D-4500-B17C-F7BE2580FDC6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpplugin:contact_form_7_redirect_\\&_thank_you_page:1.0.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "656EE2E8-A7BA-4FBD-B794-5AC173B410A5"
 		}
 	]
 }
