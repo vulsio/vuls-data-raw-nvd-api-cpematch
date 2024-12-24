@@ -5,7 +5,7 @@
 	"versionEndExcluding": "6.5.6",
 	"created": "2024-09-11T16:31:20.387",
 	"lastModified": "2024-12-23T19:06:43.510",
-	"cpeLastModified": "2024-09-11T16:31:20.387",
+	"cpeLastModified": "2024-12-24T16:29:46.617",
 	"status": "Active",
 	"matches": [
 		{
@@ -31,6 +31,22 @@
 		{
 			"cpeName": "cpe:2.3:a:bitapps:file_manager:6.3.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "EF7A6211-5EF7-45C6-9A4D-BCDEB0924B0C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitapps:file_manager:6.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "549C8BCF-C52C-448F-A66C-96C45F045560"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitapps:file_manager:6.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3FEDB068-7EC7-430B-AEFE-5259C3CE2844"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitapps:file_manager:6.5.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2F463466-76CE-432B-B2C4-48621F162D0E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:bitapps:file_manager:6.5.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5F0132E1-71CC-4EE3-A00C-8A2E8726C91B"
 		}
 	]
 }
