@@ -4,7 +4,7 @@
 	"versionEndIncluding": "2022.3",
 	"created": "2022-12-06T18:22:32.550",
 	"lastModified": "2022-12-06T18:22:32.550",
-	"cpeLastModified": "2024-01-12T18:55:24.630",
+	"cpeLastModified": "2024-12-24T19:02:42.040",
 	"status": "Active",
 	"matches": [
 		{
@@ -82,6 +82,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ivanti:endpoint_manager:2022:su4:*:*:*:*:*:*",
 			"cpeNameId": "5B74BB11-0E54-4631-B75D-361E64DA37AF"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ivanti:endpoint_manager:2022:su5:*:*:*:*:*:*",
+			"cpeNameId": "1C0E5A13-2D63-45D9-8142-B785AB77CEC1"
 		}
 	]
 }

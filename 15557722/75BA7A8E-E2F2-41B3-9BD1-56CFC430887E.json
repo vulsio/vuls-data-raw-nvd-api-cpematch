@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2023.4",
 	"created": "2024-04-01T14:04:18.227",
 	"lastModified": "2024-04-17T14:10:50.087",
-	"cpeLastModified": "2024-04-17T14:13:32.747",
+	"cpeLastModified": "2024-12-24T19:01:24.453",
 	"status": "Active",
 	"matches": [
 		{
@@ -34,6 +34,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ivanti:neurons_for_itsm:2023.2:*:*:*:*:*:*:*",
 			"cpeNameId": "EAD5E29F-95A2-4BE6-A41D-064E4EA5E7D5"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ivanti:neurons_for_itsm:2023.3:*:*:*:*:*:*:*",
+			"cpeNameId": "E4048A6E-8E1A-4C19-8347-7403FDCEB0BE"
 		}
 	]
 }

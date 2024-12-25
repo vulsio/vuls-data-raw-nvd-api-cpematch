@@ -3,10 +3,14 @@
 	"matchCriteriaId": "FF9CC31D-062B-48B8-B544-7683E4556686",
 	"versionEndExcluding": "2024.4.0.1",
 	"created": "2024-12-13T17:16:34.260",
-	"lastModified": "2024-12-13T17:16:34.260",
-	"cpeLastModified": "2024-12-13T17:16:34.260",
+	"lastModified": "2024-12-24T18:38:58.640",
+	"cpeLastModified": "2024-12-24T18:38:58.640",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:ivanti:automation:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EC06D9F4-0417-44AD-A09D-A663BBDC7019"
+		},
 		{
 			"cpeName": "cpe:2.3:a:ivanti:automation:2020.0:*:*:*:*:*:*:*",
 			"cpeNameId": "78EF1573-A985-4E4A-B80D-B8AD2161547F"
@@ -98,6 +102,10 @@
 		{
 			"cpeName": "cpe:2.3:a:ivanti:automation:2023.4:*:*:*:*:*:*:*",
 			"cpeNameId": "B38CEDFC-6A15-451A-8611-83CA398DC19B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ivanti:automation:2024.4:*:*:*:*:*:*:*",
+			"cpeNameId": "9E120674-1991-482D-AD77-20342C6CB78B"
 		}
 	]
 }
