@@ -3,10 +3,14 @@
 	"matchCriteriaId": "070D8CF3-3C6D-4436-A8CB-74C206F80FCD",
 	"versionEndExcluding": "3.2.3",
 	"created": "2024-11-07T16:43:22.527",
-	"lastModified": "2024-11-07T16:43:22.527",
-	"cpeLastModified": "2024-11-07T16:43:22.527",
+	"lastModified": "2024-12-26T15:08:26.720",
+	"cpeLastModified": "2024-12-26T15:08:26.720",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microfocus:imanager:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0CB8A3E4-B9AF-4B3C-9C27-D2A876FA3A66"
+		},
 		{
 			"cpeName": "cpe:2.3:a:microfocus:imanager:2.7:*:*:*:*:*:*:*",
 			"cpeNameId": "39943AD5-7E1D-4620-B859-08F6FD10E0E5"

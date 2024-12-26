@@ -4,9 +4,13 @@
 	"versionEndIncluding": "3.2.1",
 	"created": "2024-09-09T12:21:53.383",
 	"lastModified": "2024-09-09T12:21:53.383",
-	"cpeLastModified": "2024-10-04T16:56:10.227",
+	"cpeLastModified": "2024-12-26T16:46:23.160",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:openatom:openharmony:-:*:*:*:-:*:*:*",
+			"cpeNameId": "08090487-5D94-4965-9513-FDC4F92023F0"
+		},
 		{
 			"cpeName": "cpe:2.3:o:openatom:openharmony:1.0:*:*:*:-:*:*:*",
 			"cpeNameId": "4E124F7E-6301-4FB2-817D-F4A1E91E1F05"

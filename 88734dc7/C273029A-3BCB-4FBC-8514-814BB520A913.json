@@ -4,9 +4,13 @@
 	"versionEndExcluding": "3.1.2",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2021-04-13T15:35:54.560",
+	"cpeLastModified": "2024-12-26T15:08:26.720",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:microfocus:imanager:-:*:*:*:*:*:*:*",
+			"cpeNameId": "0CB8A3E4-B9AF-4B3C-9C27-D2A876FA3A66"
+		},
 		{
 			"cpeName": "cpe:2.3:a:microfocus:imanager:2.7:*:*:*:*:*:*:*",
 			"cpeNameId": "39943AD5-7E1D-4620-B859-08F6FD10E0E5"

@@ -4,9 +4,13 @@
 	"versionEndIncluding": "4.1.1",
 	"created": "2024-12-10T20:18:09.507",
 	"lastModified": "2024-12-10T20:18:09.507",
-	"cpeLastModified": "2024-12-10T20:18:09.507",
+	"cpeLastModified": "2024-12-26T16:46:23.160",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:openatom:openharmony:-:*:*:*:-:*:*:*",
+			"cpeNameId": "08090487-5D94-4965-9513-FDC4F92023F0"
+		},
 		{
 			"cpeName": "cpe:2.3:o:openatom:openharmony:1.0:*:*:*:-:*:*:*",
 			"cpeNameId": "4E124F7E-6301-4FB2-817D-F4A1E91E1F05"
@@ -178,6 +182,10 @@
 		{
 			"cpeName": "cpe:2.3:o:openatom:openharmony:4.1:beta1:*:*:-:*:*:*",
 			"cpeNameId": "99014723-5A91-4CFA-BB37-D2ED78888E9F"
+		},
+		{
+			"cpeName": "cpe:2.3:o:openatom:openharmony:4.1.0:*:*:*:-:*:*:*",
+			"cpeNameId": "C4ACC400-2D8D-4740-AD8B-9CDEA154DA6E"
 		},
 		{
 			"cpeName": "cpe:2.3:o:openatom:openharmony:4.1.1:*:*:*:-:*:*:*",

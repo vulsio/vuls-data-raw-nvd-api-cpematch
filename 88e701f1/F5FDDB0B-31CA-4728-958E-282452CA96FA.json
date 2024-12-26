@@ -3,7 +3,13 @@
 	"matchCriteriaId": "F5FDDB0B-31CA-4728-958E-282452CA96FA",
 	"versionEndExcluding": "6.2.9.4",
 	"created": "2024-07-02T14:59:10.707",
-	"lastModified": "2024-07-02T14:59:10.707",
-	"cpeLastModified": "2024-07-02T14:59:10.707",
-	"status": "Active"
+	"lastModified": "2024-12-26T15:53:28.397",
+	"cpeLastModified": "2024-12-26T15:53:28.397",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:samsung:tips:-:*:*:*:*:*:*:*",
+			"cpeNameId": "EDB1193B-A638-4669-95F4-5185D297010A"
+		}
+	]
 }

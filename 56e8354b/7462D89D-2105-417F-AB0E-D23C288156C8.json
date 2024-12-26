@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:ptzoptics:pt30x-sdi:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "7462D89D-2105-417F-AB0E-D23C288156C8",
 	"created": "2024-09-30T21:00:50.050",
-	"lastModified": "2024-09-30T21:00:50.050",
-	"cpeLastModified": "2024-09-30T21:00:50.050",
-	"status": "Active"
+	"lastModified": "2024-12-26T16:18:57.803",
+	"cpeLastModified": "2024-12-26T16:18:57.803",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:ptzoptics:pt30x-sdi:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5F97337B-511C-4513-B3C0-20528870844A"
+		}
+	]
 }

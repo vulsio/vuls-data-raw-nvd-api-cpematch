@@ -5,7 +5,7 @@
 	"versionEndExcluding": "14.0",
 	"created": "2023-12-07T14:55:12.650",
 	"lastModified": "2023-12-07T14:55:12.650",
-	"cpeLastModified": "2024-08-12T11:46:23.573",
+	"cpeLastModified": "2024-12-26T15:53:58.123",
 	"status": "Active",
 	"matches": [
 		{
@@ -31,6 +31,10 @@
 		{
 			"cpeName": "cpe:2.3:o:samsung:android:13.0:smr-aug-2023-r1:*:*:*:*:*:*",
 			"cpeNameId": "9B005A48-F9AF-4203-BD56-45F9B43A2079"
+		},
+		{
+			"cpeName": "cpe:2.3:o:samsung:android:13.0:smr-aug-2024-r1:*:*:*:*:*:*",
+			"cpeNameId": "5E429AAA-9248-4B84-9A6D-FC95E46C9F16"
 		},
 		{
 			"cpeName": "cpe:2.3:o:samsung:android:13.0:smr-dec-2021-r1:*:*:*:*:*:*",
@@ -137,12 +141,20 @@
 			"cpeNameId": "30ACB82C-6C19-4974-B790-800AE49228A4"
 		},
 		{
+			"cpeName": "cpe:2.3:o:samsung:android:13.0:smr-oct-2024-r1:*:*:*:*:*:*",
+			"cpeNameId": "3C385707-0B03-4A7B-A252-9739520EE0B6"
+		},
+		{
 			"cpeName": "cpe:2.3:o:samsung:android:13.0:smr-sep-2022-r1:*:*:*:*:*:*",
 			"cpeNameId": "D4D03B00-A040-4035-A2F0-7D39893E1861"
 		},
 		{
 			"cpeName": "cpe:2.3:o:samsung:android:13.0:smr-sep-2023-r1:*:*:*:*:*:*",
 			"cpeNameId": "DFDEE43A-E481-4614-9939-03E0338D0453"
+		},
+		{
+			"cpeName": "cpe:2.3:o:samsung:android:13.0:smr-sep-2024-r1:*:*:*:*:*:*",
+			"cpeNameId": "725B4AC6-1F4B-45DD-8E04-499DEB1A0EFD"
 		}
 	]
 }

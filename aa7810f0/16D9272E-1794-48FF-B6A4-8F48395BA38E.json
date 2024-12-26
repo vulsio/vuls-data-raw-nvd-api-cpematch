@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:o:samsung:exynos_2400_firmware:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "16D9272E-1794-48FF-B6A4-8F48395BA38E",
 	"created": "2024-06-06T20:20:24.220",
-	"lastModified": "2024-06-06T20:20:24.220",
-	"cpeLastModified": "2024-06-06T20:20:24.220",
-	"status": "Active"
+	"lastModified": "2024-12-26T15:55:16.983",
+	"cpeLastModified": "2024-12-26T15:55:16.983",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:samsung:exynos_2400_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "41511BDC-E733-4EEA-BB30-81098BF2BC0E"
+		}
+	]
 }
