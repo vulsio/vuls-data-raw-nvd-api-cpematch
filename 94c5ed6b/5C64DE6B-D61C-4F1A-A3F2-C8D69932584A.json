@@ -4,9 +4,13 @@
 	"versionEndIncluding": "3.74",
 	"created": "2024-11-20T14:34:41.430",
 	"lastModified": "2024-11-20T14:34:41.430",
-	"cpeLastModified": "2024-11-20T14:34:41.430",
+	"cpeLastModified": "2024-12-27T15:40:28.523",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:target-info:mycurator_content_curation:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2AE481E0-95EC-494C-B66C-69DA9E8BC2F1"
+		},
 		{
 			"cpeName": "cpe:2.3:a:target-info:mycurator_content_curation:1.0.5:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "C85AC82A-BB43-47F6-9915-E53454881BBD"

@@ -4,6 +4,12 @@
 	"versionEndExcluding": "4.4",
 	"created": "2024-08-13T14:10:34.813",
 	"lastModified": "2024-08-13T14:10:34.813",
-	"cpeLastModified": "2024-08-13T14:10:34.813",
-	"status": "Active"
+	"cpeLastModified": "2024-12-27T15:55:33.670",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:siemens:location_intelligence:4.3:*:*:*:*:*:*:*",
+			"cpeNameId": "59D19E02-B3D2-4D7C-81E1-9DBD3E0E7184"
+		}
+	]
 }

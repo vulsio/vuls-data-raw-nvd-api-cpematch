@@ -3,10 +3,14 @@
 	"matchCriteriaId": "17C02E41-0ACE-4D3E-A187-7B0B7AB5DB3B",
 	"versionEndExcluding": "1.9.0",
 	"created": "2024-12-10T19:59:07.347",
-	"lastModified": "2024-12-10T19:59:07.347",
-	"cpeLastModified": "2024-12-10T19:59:07.347",
+	"lastModified": "2024-12-27T16:59:09.690",
+	"cpeLastModified": "2024-12-27T16:59:09.690",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apache:fineract:-:*:*:*:*:*:*:*",
+			"cpeNameId": "AF4A4395-0638-4CF8-BECC-E9B56BA89544"
+		},
 		{
 			"cpeName": "cpe:2.3:a:apache:fineract:0.1.2:*:*:*:*:*:*:*",
 			"cpeNameId": "17B39155-B1B5-4553-859D-4CF66356D3C0"

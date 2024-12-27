@@ -4,9 +4,13 @@
 	"versionEndExcluding": "2.12.0",
 	"created": "2023-05-31T16:16:05.070",
 	"lastModified": "2023-05-31T16:16:05.070",
-	"cpeLastModified": "2023-05-31T16:16:05.070",
+	"cpeLastModified": "2024-12-27T16:59:09.690",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apache:jspwiki:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5A348AD9-BE63-47DF-AFC4-D02008B2A5FC"
+		},
 		{
 			"cpeName": "cpe:2.3:a:apache:jspwiki:1.4.0:*:*:*:*:*:*:*",
 			"cpeNameId": "7FAD1202-D77D-4CC0-A725-494D9C6D3A6E"

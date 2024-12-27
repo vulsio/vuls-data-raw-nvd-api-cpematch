@@ -3,10 +3,14 @@
 	"matchCriteriaId": "4FF7A52D-F6D4-4D76-89B4-A2DEF52B4012",
 	"versionEndExcluding": "2.12.2",
 	"created": "2024-10-16T20:19:57.143",
-	"lastModified": "2024-10-16T20:19:57.143",
-	"cpeLastModified": "2024-10-16T20:19:57.143",
+	"lastModified": "2024-12-27T16:59:09.690",
+	"cpeLastModified": "2024-12-27T16:59:09.690",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apache:jspwiki:-:*:*:*:*:*:*:*",
+			"cpeNameId": "5A348AD9-BE63-47DF-AFC4-D02008B2A5FC"
+		},
 		{
 			"cpeName": "cpe:2.3:a:apache:jspwiki:1.4.0:*:*:*:*:*:*:*",
 			"cpeNameId": "7FAD1202-D77D-4CC0-A725-494D9C6D3A6E"

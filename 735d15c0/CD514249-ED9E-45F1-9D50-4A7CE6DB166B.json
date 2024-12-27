@@ -4,9 +4,13 @@
 	"versionEndIncluding": "1.5.2",
 	"created": "2023-01-20T19:38:23.920",
 	"lastModified": "2023-01-20T19:38:23.920",
-	"cpeLastModified": "2023-05-22T11:36:10.597",
+	"cpeLastModified": "2024-12-27T16:59:09.690",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apache:superset:-:*:*:*:*:*:*:*",
+			"cpeNameId": "1B9C8B35-A455-46F1-A9AD-1ABDA0E45C28"
+		},
 		{
 			"cpeName": "cpe:2.3:a:apache:superset:0.2.0:*:*:*:*:*:*:*",
 			"cpeNameId": "E7E9F5DE-DD55-4F0D-90DE-A9E3F7D78524"

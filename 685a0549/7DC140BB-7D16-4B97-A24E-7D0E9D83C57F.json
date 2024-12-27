@@ -3,8 +3,8 @@
 	"matchCriteriaId": "7DC140BB-7D16-4B97-A24E-7D0E9D83C57F",
 	"versionEndExcluding": "7.0.1",
 	"created": "2024-11-13T17:29:28.850",
-	"lastModified": "2024-11-13T17:29:28.850",
-	"cpeLastModified": "2024-11-13T17:29:28.850",
+	"lastModified": "2024-12-27T16:59:09.690",
+	"cpeLastModified": "2024-12-27T16:59:09.690",
 	"status": "Active",
 	"matches": [
 		{
@@ -366,6 +366,14 @@
 		{
 			"cpeName": "cpe:2.3:a:ampache:ampache:6.6.3:*:*:*:*:*:*:*",
 			"cpeNameId": "4307E5FF-154F-4860-95F2-B16713E435E7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ampache:ampache:6.6.4:*:*:*:*:*:*:*",
+			"cpeNameId": "8512610F-91CA-43D0-B19E-FBF52200883A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:ampache:ampache:7.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F05550C8-F91F-4D52-BEF4-B8CC028944D2"
 		}
 	]
 }

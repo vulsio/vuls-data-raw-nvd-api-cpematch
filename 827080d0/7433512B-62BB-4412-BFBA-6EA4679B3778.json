@@ -5,7 +5,7 @@
 	"versionEndExcluding": "16.20.03",
 	"created": "2024-12-17T16:08:16.360",
 	"lastModified": "2024-12-17T16:08:31.410",
-	"cpeLastModified": "2024-12-17T16:08:16.360",
+	"cpeLastModified": "2024-12-27T15:55:33.670",
 	"status": "Active",
 	"matches": [
 		{
@@ -27,6 +27,10 @@
 		{
 			"cpeName": "cpe:2.3:a:rockwellautomation:arena:16.20.01:*:*:*:*:*:*:*",
 			"cpeNameId": "7ACEABFF-87BF-4683-BDCD-4AEECC130116"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rockwellautomation:arena:16.20.02:*:*:*:*:*:*:*",
+			"cpeNameId": "B565D769-D780-422E-93B1-550D6BFE8949"
 		}
 	]
 }

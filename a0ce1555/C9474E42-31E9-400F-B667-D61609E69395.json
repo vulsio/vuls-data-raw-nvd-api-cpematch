@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.6.5",
 	"created": "2024-11-21T19:04:50.903",
 	"lastModified": "2024-11-21T19:04:50.903",
-	"cpeLastModified": "2024-11-27T20:19:35.883",
+	"cpeLastModified": "2024-12-27T15:55:33.670",
 	"status": "Active",
 	"matches": [
 		{
@@ -154,6 +154,22 @@
 		{
 			"cpeName": "cpe:2.3:a:vivwebsolutions:dynamic_widgets:1.5.15:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "29722BBD-3BB0-4347-9EEA-B9126FC928A6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vivwebsolutions:dynamic_widgets:1.5.16:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "76F07D29-885C-44BD-B4A8-81943AB5722F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vivwebsolutions:dynamic_widgets:1.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6CC2B55A-934B-4B95-B912-019BB2501E59"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vivwebsolutions:dynamic_widgets:1.6.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "961AF745-42C4-43CF-A59E-6D1E7B750044"
+		},
+		{
+			"cpeName": "cpe:2.3:a:vivwebsolutions:dynamic_widgets:1.6.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0B7BBC35-8E8A-4983-86CC-A0F62E19F51E"
 		}
 	]
 }
