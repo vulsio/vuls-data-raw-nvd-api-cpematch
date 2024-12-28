@@ -3,8 +3,8 @@
 	"matchCriteriaId": "877F46D3-B275-4BB3-8E80-5D1B0A486A46",
 	"versionEndIncluding": "4.4.1",
 	"created": "2024-02-13T16:20:31.413",
-	"lastModified": "2024-02-13T16:20:31.413",
-	"cpeLastModified": "2024-02-13T16:20:31.413",
+	"lastModified": "2024-12-27T19:10:39.933",
+	"cpeLastModified": "2024-12-27T19:10:39.933",
 	"status": "Active",
 	"matches": [
 		{
@@ -546,6 +546,18 @@
 		{
 			"cpeName": "cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.3.4:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "24D7E7F0-4E02-4F5C-A020-E08480BF2711"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.3.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2A826233-D521-4062-AEB9-3E24BA88A348"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "C02784EB-AC22-4CF6-AD89-5CA6A9369F8B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2F0C1D1E-8D2E-43A1-BAA3-E746D40914CD"
 		}
 	]
 }

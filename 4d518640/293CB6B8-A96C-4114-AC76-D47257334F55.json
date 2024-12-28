@@ -3,10 +3,14 @@
 	"matchCriteriaId": "293CB6B8-A96C-4114-AC76-D47257334F55",
 	"versionEndExcluding": "2.9",
 	"created": "2024-11-25T14:40:51.263",
-	"lastModified": "2024-11-25T14:40:51.263",
-	"cpeLastModified": "2024-11-25T14:40:51.263",
+	"lastModified": "2024-12-27T18:38:56.150",
+	"cpeLastModified": "2024-12-27T18:38:56.150",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:rescuethemes:rescue_shortcodes:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D84B102F-8838-4854-B935-E65696207781"
+		},
 		{
 			"cpeName": "cpe:2.3:a:rescuethemes:rescue_shortcodes:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "4E8C2240-8C4B-427A-AB2E-801F84FBD8AD"
@@ -78,6 +82,18 @@
 		{
 			"cpeName": "cpe:2.3:a:rescuethemes:rescue_shortcodes:2.5:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "BD36FA05-36D0-4893-8062-F80A7713DAEE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rescuethemes:rescue_shortcodes:2.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "7CA1EDC1-8B51-45F1-B9C8-6C06C1056E55"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rescuethemes:rescue_shortcodes:2.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "516A4CA3-869C-470C-8D4E-B281B3D00A79"
+		},
+		{
+			"cpeName": "cpe:2.3:a:rescuethemes:rescue_shortcodes:2.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "60AA46ED-2A05-4D94-9CDC-8BEDE120CD87"
 		}
 	]
 }

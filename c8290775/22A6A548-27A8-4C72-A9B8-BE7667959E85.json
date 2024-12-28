@@ -3,8 +3,8 @@
 	"matchCriteriaId": "22A6A548-27A8-4C72-A9B8-BE7667959E85",
 	"versionEndExcluding": "2.8.12",
 	"created": "2024-09-25T21:55:28.213",
-	"lastModified": "2024-09-25T21:55:28.213",
-	"cpeLastModified": "2024-09-25T21:55:28.213",
+	"lastModified": "2024-12-27T19:10:39.933",
+	"cpeLastModified": "2024-12-27T19:10:39.933",
 	"status": "Active",
 	"matches": [
 		{
@@ -542,6 +542,14 @@
 		{
 			"cpeName": "cpe:2.3:a:themekraft:buddyforms:2.8.9:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "6EA68F1D-27F1-4639-BBC3-B0510A11221F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themekraft:buddyforms:2.8.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6AEE70C5-605F-44C6-8AAF-214B7FBEA71E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themekraft:buddyforms:2.8.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5EFE4585-A5D8-4C7A-B36C-800E049F2686"
 		}
 	]
 }

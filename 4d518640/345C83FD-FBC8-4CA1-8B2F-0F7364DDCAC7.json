@@ -4,9 +4,13 @@
 	"versionEndIncluding": "2.5",
 	"created": "2023-10-03T14:38:04.000",
 	"lastModified": "2023-10-03T15:20:03.103",
-	"cpeLastModified": "2023-10-03T15:20:03.103",
+	"cpeLastModified": "2024-12-27T18:38:56.150",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:rescuethemes:rescue_shortcodes:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D84B102F-8838-4854-B935-E65696207781"
+		},
 		{
 			"cpeName": "cpe:2.3:a:rescuethemes:rescue_shortcodes:1.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "4E8C2240-8C4B-427A-AB2E-801F84FBD8AD"
