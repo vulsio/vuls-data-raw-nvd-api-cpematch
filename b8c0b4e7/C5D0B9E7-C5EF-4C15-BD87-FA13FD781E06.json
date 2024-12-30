@@ -4,12 +4,16 @@
 	"versionEndExcluding": "3.13.4",
 	"created": "2020-08-24T18:57:47.600",
 	"lastModified": "2020-08-24T18:57:47.600",
-	"cpeLastModified": "2024-09-23T13:45:03.520",
+	"cpeLastModified": "2024-12-30T18:00:49.943",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:o:linux:linux_kernel:-:*:*:*:*:*:*:*",
 			"cpeNameId": "0BA1AF04-98FA-4EBA-893B-700905C43151"
+		},
+		{
+			"cpeName": "cpe:2.3:o:linux:linux_kernel:-:*:*:*:*:*:arm32:*",
+			"cpeNameId": "0EE3D2E5-A1B7-4DD3-9B6A-9CD7014FF769"
 		},
 		{
 			"cpeName": "cpe:2.3:o:linux:linux_kernel:-:*:*:*:*:*:x64:*",

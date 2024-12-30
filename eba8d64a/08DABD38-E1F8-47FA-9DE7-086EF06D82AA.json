@@ -4,12 +4,16 @@
 	"versionEndExcluding": "31",
 	"created": "2021-02-08T16:32:51.577",
 	"lastModified": "2021-02-08T16:32:51.577",
-	"cpeLastModified": "2021-02-08T16:32:51.623",
+	"cpeLastModified": "2024-12-30T18:00:49.943",
 	"status": "Active",
 	"matches": [
 		{
 			"cpeName": "cpe:2.3:o:fedoraproject:fedora:-:*:*:*:*:*:*:*",
 			"cpeNameId": "C3D52372-0060-4F4E-8E4C-3F1829C929DF"
+		},
+		{
+			"cpeName": "cpe:2.3:o:fedoraproject:fedora:6:*:*:*:*:*:*:*",
+			"cpeNameId": "0088BCF2-4AAE-411B-80C2-193FD7B8E22A"
 		},
 		{
 			"cpeName": "cpe:2.3:o:fedoraproject:fedora:7:*:*:*:*:*:*:*",

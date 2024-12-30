@@ -3,7 +3,17 @@
 	"matchCriteriaId": "B8E75285-453D-4AE7-9D03-B57A73B1CF7F",
 	"versionEndIncluding": "6.0.10",
 	"created": "2024-11-15T14:37:01.863",
-	"lastModified": "2024-11-15T14:37:01.863",
-	"cpeLastModified": "2024-11-15T14:37:01.863",
-	"status": "Active"
+	"lastModified": "2024-12-30T18:00:49.943",
+	"cpeLastModified": "2024-12-30T18:00:49.943",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:genoo:genoo:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BCDA656B-59B1-4285-BD60-C64A7C2623D3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:genoo:genoo:6.0.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AFA71BAC-835E-4520-8B24-792CBE4CBB62"
+		}
+	]
 }

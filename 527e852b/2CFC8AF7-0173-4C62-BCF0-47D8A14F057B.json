@@ -2,7 +2,13 @@
 	"criteria": "cpe:2.3:h:nvidia:tq8200-hs2f:-:*:*:*:*:*:*:*",
 	"matchCriteriaId": "2CFC8AF7-0173-4C62-BCF0-47D8A14F057B",
 	"created": "2024-12-26T19:08:37.247",
-	"lastModified": "2024-12-26T19:08:37.247",
-	"cpeLastModified": "2024-12-26T19:08:37.247",
-	"status": "Active"
+	"lastModified": "2024-12-30T18:00:49.943",
+	"cpeLastModified": "2024-12-30T18:00:49.943",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:h:nvidia:tq8200-hs2f:-:*:*:*:*:*:*:*",
+			"cpeNameId": "DE110FE0-3247-48D8-ABC3-73FD6E037192"
+		}
+	]
 }
