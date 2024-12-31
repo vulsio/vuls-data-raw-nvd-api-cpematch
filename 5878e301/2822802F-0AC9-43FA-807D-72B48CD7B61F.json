@@ -5,6 +5,16 @@
 	"versionEndIncluding": "fw1020.60",
 	"created": "2024-08-13T16:53:18.760",
 	"lastModified": "2024-08-13T16:53:18.760",
-	"cpeLastModified": "2024-08-13T16:53:18.760",
-	"status": "Active"
+	"cpeLastModified": "2024-12-30T18:24:37.537",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:ibm:openbmc:fw1020.00:*:*:*:*:*:*:*",
+			"cpeNameId": "F8BFF969-0490-4EBF-8316-1C3D8160C55A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:ibm:openbmc:fw1020.60:*:*:*:*:*:*:*",
+			"cpeNameId": "7D282624-A6B8-4937-84CC-F8A1864EBF82"
+		}
+	]
 }
