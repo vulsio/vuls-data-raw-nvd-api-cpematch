@@ -5,7 +5,7 @@
 	"versionEndExcluding": "25.9",
 	"created": "2024-07-22T18:15:17.573",
 	"lastModified": "2024-07-22T18:15:17.573",
-	"cpeLastModified": "2024-07-26T17:30:18.127",
+	"cpeLastModified": "2024-12-31T22:20:03.587",
 	"status": "Active",
 	"matches": [
 		{
@@ -15,6 +15,10 @@
 		{
 			"cpeName": "cpe:2.3:a:adobe:photoshop:25.1:*:*:*:*:*:*:*",
 			"cpeNameId": "52C9635B-37F2-4F2A-95F1-A63B4DE9FEB3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:adobe:photoshop:25.4:*:*:*:*:*:*:*",
+			"cpeNameId": "758A15A9-24BB-42D4-86BF-D24F916AFB7C"
 		},
 		{
 			"cpeName": "cpe:2.3:a:adobe:photoshop:25.7:*:*:*:*:*:*:*",

@@ -4,8 +4,8 @@
 	"versionStartIncluding": "1.8.3",
 	"versionEndExcluding": "1.9.4",
 	"created": "2024-05-23T20:01:24.083",
-	"lastModified": "2024-05-23T20:01:24.083",
-	"cpeLastModified": "2024-05-23T20:01:24.083",
+	"lastModified": "2024-12-31T18:41:16.167",
+	"cpeLastModified": "2024-12-31T18:41:16.167",
 	"status": "Active",
 	"matches": [
 		{
@@ -23,6 +23,10 @@
 		{
 			"cpeName": "cpe:2.3:a:lz4_project:lz4:1.9.2:*:*:*:*:*:*:*",
 			"cpeNameId": "3814A346-6D16-4DD2-840E-86BC5D92A6C9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:lz4_project:lz4:1.9.3:*:*:*:*:*:*:*",
+			"cpeNameId": "28A01D9D-57FB-4CFD-99CB-24DF22E9C416"
 		}
 	]
 }

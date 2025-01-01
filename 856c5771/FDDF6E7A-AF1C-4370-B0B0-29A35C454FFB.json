@@ -3,8 +3,8 @@
 	"matchCriteriaId": "FDDF6E7A-AF1C-4370-B0B0-29A35C454FFB",
 	"versionEndExcluding": "2.6.3",
 	"created": "2024-08-30T22:34:40.097",
-	"lastModified": "2024-08-30T22:34:40.097",
-	"cpeLastModified": "2024-08-30T22:34:40.097",
+	"lastModified": "2024-12-31T18:27:15.093",
+	"cpeLastModified": "2024-12-31T18:27:15.093",
 	"status": "Active",
 	"matches": [
 		{
@@ -150,6 +150,18 @@
 		{
 			"cpeName": "cpe:2.3:a:libexpat_project:libexpat:2.5.0:*:*:*:*:*:*:*",
 			"cpeNameId": "9A855080-03DA-450F-9FF7-0FFB63ABAE8A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:libexpat_project:libexpat:2.6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "106B75F1-98FE-43DB-B9F8-C06F5EC1772A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:libexpat_project:libexpat:2.6.1:*:*:*:*:*:*:*",
+			"cpeNameId": "7CF7E2C4-6711-42B4-94C6-9898B21891D6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:libexpat_project:libexpat:2.6.2:*:*:*:*:*:*:*",
+			"cpeNameId": "2D19B6A7-6A78-48CD-B0E0-F6D4651BC069"
 		}
 	]
 }

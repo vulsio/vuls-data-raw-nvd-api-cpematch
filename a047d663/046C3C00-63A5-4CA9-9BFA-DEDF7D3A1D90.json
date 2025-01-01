@@ -4,9 +4,13 @@
 	"versionEndExcluding": "10.0.0.178\\(c00e178r1p4\\)",
 	"created": "2024-07-23T11:59:07.740",
 	"lastModified": "2024-08-12T17:57:43.273",
-	"cpeLastModified": "2024-07-23T11:59:07.740",
+	"cpeLastModified": "2024-12-31T21:42:46.183",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:huawei:columbia-al10b_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "C8F20DD5-1F22-4297-A64C-7EA016AE8077"
+		},
 		{
 			"cpeName": "cpe:2.3:o:huawei:columbia-al10b_firmware:8.1.0.163\\(c00\\):*:*:*:*:*:*:*",
 			"cpeNameId": "79B00908-40BD-45B5-AB75-0C112FB214B5"

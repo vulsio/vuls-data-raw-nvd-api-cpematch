@@ -5,7 +5,7 @@
 	"versionEndExcluding": "4.4.13",
 	"created": "2024-09-27T15:17:54.803",
 	"lastModified": "2024-09-27T15:17:54.803",
-	"cpeLastModified": "2024-09-27T15:17:54.803",
+	"cpeLastModified": "2024-12-31T22:07:26.107",
 	"status": "Active",
 	"matches": [
 		{
@@ -359,6 +359,10 @@
 		{
 			"cpeName": "cpe:2.3:a:acquia:mautic:4.0.0:rc:*:*:*:*:*:*",
 			"cpeNameId": "A6965D1D-971E-48AD-8C75-4B0F1C052E3B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:acquia:mautic:4.4.12:*:*:*:*:*:*:*",
+			"cpeNameId": "0FCC48D9-9459-49F3-9A67-F476A3318FD6"
 		}
 	]
 }

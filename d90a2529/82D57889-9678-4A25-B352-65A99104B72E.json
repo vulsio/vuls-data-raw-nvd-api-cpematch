@@ -4,9 +4,13 @@
 	"versionEndExcluding": "9.1.0.332\\(c432e5r1p13t8\\)",
 	"created": "2021-10-22T16:36:29.343",
 	"lastModified": "2021-10-22T16:36:29.343",
-	"cpeLastModified": "2021-11-04T15:58:24.717",
+	"cpeLastModified": "2024-12-31T21:42:46.183",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:huawei:berkeley-l09_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "D3DB370E-FF64-43BC-9655-D9B1B06AC223"
+		},
 		{
 			"cpeName": "cpe:2.3:o:huawei:berkeley-l09_firmware:8.0.0.163\\(c10\\):*:*:*:*:*:*:*",
 			"cpeNameId": "091065F9-A97F-475D-BB7D-FF3F3310489D"

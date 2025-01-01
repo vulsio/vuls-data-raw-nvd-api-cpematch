@@ -3,8 +3,8 @@
 	"matchCriteriaId": "5DFED2FC-61BD-4776-84F2-E3CA78EE5F40",
 	"versionEndExcluding": "2.16",
 	"created": "2024-09-30T15:07:53.630",
-	"lastModified": "2024-09-30T15:07:53.630",
-	"cpeLastModified": "2024-09-30T15:07:53.630",
+	"lastModified": "2024-12-31T18:43:22.473",
+	"cpeLastModified": "2024-12-31T18:43:22.473",
 	"status": "Active",
 	"matches": [
 		{
@@ -42,6 +42,18 @@
 		{
 			"cpeName": "cpe:2.3:a:madfishdigital:bulk_noindex_\\&_nofollow_toolkit:1.51:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "0ACB8345-117E-4A26-84EF-41B4FA0BB36F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:madfishdigital:bulk_noindex_\\&_nofollow_toolkit:2.01:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5935C853-1255-4A4F-890F-BBF3A5BF9F77"
+		},
+		{
+			"cpeName": "cpe:2.3:a:madfishdigital:bulk_noindex_\\&_nofollow_toolkit:2.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "0E76A1FF-6737-4E62-9F87-9D76783D735F"
+		},
+		{
+			"cpeName": "cpe:2.3:a:madfishdigital:bulk_noindex_\\&_nofollow_toolkit:2.15:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "72AD74FC-7F42-4EA6-BBB1-BFD3186342B8"
 		}
 	]
 }

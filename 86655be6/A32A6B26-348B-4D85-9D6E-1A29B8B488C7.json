@@ -3,8 +3,8 @@
 	"matchCriteriaId": "A32A6B26-348B-4D85-9D6E-1A29B8B488C7",
 	"versionEndExcluding": "6.5.0.1",
 	"created": "2024-10-23T01:39:18.680",
-	"lastModified": "2024-10-23T01:39:18.680",
-	"cpeLastModified": "2024-10-23T01:39:18.680",
+	"lastModified": "2024-12-31T18:31:54.150",
+	"cpeLastModified": "2024-12-31T18:31:54.150",
 	"status": "Active",
 	"matches": [
 		{
@@ -802,6 +802,22 @@
 		{
 			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:6.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "72B133A2-E2FB-4CF0-97BE-17FAD520FFAE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:6.3.0.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "657983FA-2267-499D-9BD6-513BE6608CA0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:6.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B82C4550-A905-4181-8C73-E9CEC413D907"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:6.4.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D7A8F229-14EB-472A-8543-D77CD235FB50"
+		},
+		{
+			"cpeName": "cpe:2.3:a:litespeedtech:litespeed_cache:6.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "78FA4CCB-3A0D-434B-91E1-F5C19D1330AF"
 		}
 	]
 }

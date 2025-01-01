@@ -3,8 +3,8 @@
 	"matchCriteriaId": "C0992771-F022-4195-A4DF-4323FF07B04F",
 	"versionEndIncluding": "9.2",
 	"created": "2022-01-10T12:55:37.177",
-	"lastModified": "2022-01-10T12:55:37.177",
-	"cpeLastModified": "2022-01-10T19:33:24.307",
+	"lastModified": "2024-12-31T19:40:30.177",
+	"cpeLastModified": "2024-12-31T19:40:30.177",
 	"status": "Active",
 	"matches": [
 		{
@@ -250,6 +250,18 @@
 		{
 			"cpeName": "cpe:2.3:o:netbsd:netbsd:7.1:*:*:*:*:*:*:*",
 			"cpeNameId": "AE50DBE9-3B59-4CA0-9B15-7CFEF2041C87"
+		},
+		{
+			"cpeName": "cpe:2.3:o:netbsd:netbsd:9.0:*:*:*:*:*:*:*",
+			"cpeNameId": "EFA00780-88E1-436D-8E70-987831B8AAFC"
+		},
+		{
+			"cpeName": "cpe:2.3:o:netbsd:netbsd:9.1:*:*:*:*:*:*:*",
+			"cpeNameId": "A3016DD2-E80A-46DD-B2C8-2FFADDE43A9A"
+		},
+		{
+			"cpeName": "cpe:2.3:o:netbsd:netbsd:9.2:*:*:*:*:*:*:*",
+			"cpeNameId": "0F44D857-CFA4-45BD-AF9E-200616B0E32F"
 		}
 	]
 }
