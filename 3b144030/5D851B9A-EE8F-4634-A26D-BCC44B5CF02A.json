@@ -4,9 +4,13 @@
 	"versionEndExcluding": "10.1.41",
 	"created": "2024-09-14T12:41:06.397",
 	"lastModified": "2024-12-18T16:13:10.963",
-	"cpeLastModified": "2024-12-18T16:13:10.963",
+	"cpeLastModified": "2025-01-02T16:04:18.037",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_remote_monitoring_and_management_central:-:*:*:*:*:*:*:*",
+			"cpeNameId": "04D0FE24-1462-4E57-8DFC-4313EC7689F2"
+		},
 		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_remote_monitoring_and_management_central:10.1.5:*:*:*:*:*:*:*",
 			"cpeNameId": "55224AD4-6E20-49F3-B2C0-EB7C5243DEF1"

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "BB8FD5AF-A4AB-4D07-892C-07F3DF1D68F5",
 	"versionEndIncluding": "14.7",
 	"created": "2024-08-26T16:33:54.443",
-	"lastModified": "2024-08-26T16:33:54.443",
-	"cpeLastModified": "2024-12-18T16:15:43.033",
+	"lastModified": "2025-01-02T16:04:18.037",
+	"cpeLastModified": "2025-01-02T16:04:18.037",
 	"status": "Active",
 	"matches": [
 		{
@@ -686,6 +686,26 @@
 		{
 			"cpeName": "cpe:2.3:a:zohocorp:manageengine_servicedesk_plus_msp:14.6:14610:*:*:*:*:*:*",
 			"cpeNameId": "03DD7AE2-5F20-4938-91B0-9F73E6B2DE34"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_servicedesk_plus_msp:14.6:14620:*:*:*:*:*:*",
+			"cpeNameId": "2F008BA0-D953-41CA-83D5-D1303BA1EE47"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_servicedesk_plus_msp:14.7:14700:*:*:*:*:*:*",
+			"cpeNameId": "7D9ECAD6-B504-4023-A34D-8988CEE9BCA7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_servicedesk_plus_msp:14.7:14710:*:*:*:*:*:*",
+			"cpeNameId": "DFE3A5B9-F306-4584-9D48-087F553BE3DB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_servicedesk_plus_msp:14.7:14720:*:*:*:*:*:*",
+			"cpeNameId": "5113D52F-4A45-4B2B-BF74-1829C0143249"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_servicedesk_plus_msp:14.7:14730:*:*:*:*:*:*",
+			"cpeNameId": "465F8840-26F5-4C51-AD34-3DF007A4BFE0"
 		}
 	]
 }

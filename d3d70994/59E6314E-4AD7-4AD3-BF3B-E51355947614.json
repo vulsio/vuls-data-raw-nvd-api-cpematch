@@ -3,8 +3,8 @@
 	"matchCriteriaId": "59E6314E-4AD7-4AD3-BF3B-E51355947614",
 	"versionEndExcluding": "2.8.5.3",
 	"created": "2024-12-26T16:12:52.980",
-	"lastModified": "2024-12-26T16:12:52.980",
-	"cpeLastModified": "2024-12-26T16:12:52.980",
+	"lastModified": "2025-01-02T17:23:58.243",
+	"cpeLastModified": "2025-01-02T17:23:58.243",
 	"status": "Active",
 	"matches": [
 		{
@@ -500,6 +500,10 @@
 			"cpeNameId": "8AA66252-CFED-42CC-96D2-A925E5E81D28"
 		},
 		{
+			"cpeName": "cpe:2.3:a:fastlinemedia:beaver_builder:2.7.4.3:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "F5F6D5C4-3008-4B76-B1B9-B0ED4EB7BF9F"
+		},
+		{
 			"cpeName": "cpe:2.3:a:fastlinemedia:beaver_builder:2.7.4.5:*:*:*:lite:wordpress:*:*",
 			"cpeNameId": "86763AEA-920E-4311-A9F3-C11184DE7322"
 		},
@@ -646,6 +650,10 @@
 		{
 			"cpeName": "cpe:2.3:a:fastlinemedia:beaver_builder:2.8.4.3:*:*:*:lite:wordpress:*:*",
 			"cpeNameId": "E5DD5544-3565-4DCD-82FB-949516C42066"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fastlinemedia:beaver_builder:2.8.4.4:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "755F11D4-90A5-42DB-ACA2-207E1414824B"
 		}
 	]
 }

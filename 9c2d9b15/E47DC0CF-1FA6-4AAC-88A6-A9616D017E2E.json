@@ -3,8 +3,8 @@
 	"matchCriteriaId": "E47DC0CF-1FA6-4AAC-88A6-A9616D017E2E",
 	"versionEndExcluding": "4.13.49",
 	"created": "2024-09-25T15:41:11.770",
-	"lastModified": "2024-09-25T15:41:11.770",
-	"cpeLastModified": "2024-09-25T15:41:11.770",
+	"lastModified": "2025-01-02T18:15:51.120",
+	"cpeLastModified": "2025-01-02T18:15:51.120",
 	"status": "Active",
 	"matches": [
 		{
@@ -1990,6 +1990,10 @@
 		{
 			"cpeName": "cpe:2.3:a:contao:contao:4.13.28:*:*:*:*:*:*:*",
 			"cpeNameId": "43FBDBC5-5115-4EBD-B83A-FDF4F96ABD46"
+		},
+		{
+			"cpeName": "cpe:2.3:a:contao:contao:4.13.40:*:*:*:*:*:*:*",
+			"cpeNameId": "3A359F80-97E3-47D7-B682-D46FD60C4E58"
 		}
 	]
 }

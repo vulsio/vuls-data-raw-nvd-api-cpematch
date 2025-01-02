@@ -4,10 +4,14 @@
 	"versionStartIncluding": "5.4.0",
 	"versionEndExcluding": "5.4.3",
 	"created": "2024-09-23T18:38:45.257",
-	"lastModified": "2024-09-23T18:38:45.257",
-	"cpeLastModified": "2024-09-25T20:26:59.960",
+	"lastModified": "2025-01-02T18:15:51.120",
+	"cpeLastModified": "2025-01-02T18:15:51.120",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:contao:contao:5.4.0:-:*:*:*:*:*:*",
+			"cpeNameId": "7EF43F88-D434-4E89-BAFC-9AF359C018D9"
+		},
 		{
 			"cpeName": "cpe:2.3:a:contao:contao:5.4.1:*:*:*:*:*:*:*",
 			"cpeNameId": "35279561-6ED1-4B81-9149-11362D7B16E9"

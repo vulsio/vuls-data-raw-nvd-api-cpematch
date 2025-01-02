@@ -5,7 +5,7 @@
 	"versionEndExcluding": "8.6.1",
 	"created": "2024-06-11T10:43:41.910",
 	"lastModified": "2024-06-12T17:19:46.263",
-	"cpeLastModified": "2024-06-12T17:19:46.263",
+	"cpeLastModified": "2025-01-02T16:09:18.033",
 	"status": "Active",
 	"matches": [
 		{
@@ -93,8 +93,20 @@
 			"cpeNameId": "D273ECB6-E2CE-4CAF-83A4-3639442804B5"
 		},
 		{
+			"cpeName": "cpe:2.3:a:salesagility:suitecrm:8.4.2:*:*:*:*:*:*:*",
+			"cpeNameId": "A5859363-9820-453D-A7EB-FAF27784BB3D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salesagility:suitecrm:8.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "102E128F-7803-467C-A2DE-BC9D4467E221"
+		},
+		{
 			"cpeName": "cpe:2.3:a:salesagility:suitecrm:8.5.1:*:*:*:*:*:*:*",
 			"cpeNameId": "4C1D0F18-0F42-4DD5-A080-457EBD2B922A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salesagility:suitecrm:8.6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A16FFC60-6A1A-4C72-B724-59501004580D"
 		}
 	]
 }

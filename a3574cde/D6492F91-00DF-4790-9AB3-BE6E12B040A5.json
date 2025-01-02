@@ -4,7 +4,7 @@
 	"versionEndExcluding": "8.6.1",
 	"created": "2024-09-19T15:08:55.293",
 	"lastModified": "2024-09-19T15:08:55.293",
-	"cpeLastModified": "2024-09-19T15:08:55.293",
+	"cpeLastModified": "2025-01-02T16:09:18.033",
 	"status": "Active",
 	"matches": [
 		{
@@ -864,6 +864,14 @@
 			"cpeNameId": "51DAE4A4-18B2-4E66-82CC-FD20D73AF947"
 		},
 		{
+			"cpeName": "cpe:2.3:a:salesagility:suitecrm:7.14.5:*:*:*:*:*:*:*",
+			"cpeNameId": "CA8ED4EC-C2F2-4A8B-A244-3D80678F1AE7"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salesagility:suitecrm:7.14.6:*:*:*:*:*:*:*",
+			"cpeNameId": "AA46B507-4C70-4198-B073-945CD5704AC4"
+		},
+		{
 			"cpeName": "cpe:2.3:a:salesagility:suitecrm:8.0:beta:*:*:*:*:*:*",
 			"cpeNameId": "E766DC79-0F6B-4C06-BC97-D29AD25DF22B"
 		},
@@ -964,8 +972,20 @@
 			"cpeNameId": "D273ECB6-E2CE-4CAF-83A4-3639442804B5"
 		},
 		{
+			"cpeName": "cpe:2.3:a:salesagility:suitecrm:8.4.2:*:*:*:*:*:*:*",
+			"cpeNameId": "A5859363-9820-453D-A7EB-FAF27784BB3D"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salesagility:suitecrm:8.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "102E128F-7803-467C-A2DE-BC9D4467E221"
+		},
+		{
 			"cpeName": "cpe:2.3:a:salesagility:suitecrm:8.5.1:*:*:*:*:*:*:*",
 			"cpeNameId": "4C1D0F18-0F42-4DD5-A080-457EBD2B922A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:salesagility:suitecrm:8.6.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A16FFC60-6A1A-4C72-B724-59501004580D"
 		}
 	]
 }

@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2.8.4.3",
 	"created": "2024-10-31T11:57:10.073",
 	"lastModified": "2024-11-04T18:35:04.363",
-	"cpeLastModified": "2024-11-04T18:35:04.363",
+	"cpeLastModified": "2025-01-02T17:23:58.243",
 	"status": "Active",
 	"matches": [
 		{
@@ -498,6 +498,10 @@
 		{
 			"cpeName": "cpe:2.3:a:fastlinemedia:beaver_builder:2.7.4.2:*:*:*:lite:wordpress:*:*",
 			"cpeNameId": "8AA66252-CFED-42CC-96D2-A925E5E81D28"
+		},
+		{
+			"cpeName": "cpe:2.3:a:fastlinemedia:beaver_builder:2.7.4.3:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "F5F6D5C4-3008-4B76-B1B9-B0ED4EB7BF9F"
 		},
 		{
 			"cpeName": "cpe:2.3:a:fastlinemedia:beaver_builder:2.7.4.5:*:*:*:lite:wordpress:*:*",
