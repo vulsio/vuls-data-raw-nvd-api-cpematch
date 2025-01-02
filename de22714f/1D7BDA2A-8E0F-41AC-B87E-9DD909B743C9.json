@@ -4,8 +4,8 @@
 	"versionStartIncluding": "0.84",
 	"versionEndExcluding": "10.0.17",
 	"created": "2024-11-19T17:10:32.503",
-	"lastModified": "2024-11-19T17:10:32.503",
-	"cpeLastModified": "2024-11-19T17:10:32.503",
+	"lastModified": "2025-01-02T12:09:40.410",
+	"cpeLastModified": "2025-01-02T12:09:40.410",
 	"status": "Active",
 	"matches": [
 		{
@@ -381,6 +381,10 @@
 			"cpeNameId": "26EC06A9-EF4D-4C4A-A46A-E79F5AFD7210"
 		},
 		{
+			"cpeName": "cpe:2.3:a:glpi-project:glpi:10.0.8:*:*:*:*:*:*:*",
+			"cpeNameId": "D6B175A5-C791-439C-96B1-2E66D389E887"
+		},
+		{
 			"cpeName": "cpe:2.3:a:glpi-project:glpi:10.0.9:*:*:*:*:*:*:*",
 			"cpeNameId": "2AFDE88B-B810-433B-9873-E59CD2D7AECF"
 		},
@@ -395,6 +399,22 @@
 		{
 			"cpeName": "cpe:2.3:a:glpi-project:glpi:10.0.12:*:*:*:*:*:*:*",
 			"cpeNameId": "CA87C401-111C-4832-9BBF-755C950823C1"
+		},
+		{
+			"cpeName": "cpe:2.3:a:glpi-project:glpi:10.0.13:*:*:*:*:*:*:*",
+			"cpeNameId": "3D8AA077-1BE1-46AA-BD99-96024BBF1EB6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:glpi-project:glpi:10.0.14:*:*:*:*:*:*:*",
+			"cpeNameId": "24B2D6AF-1018-4625-8D7D-9FC7F2833BBB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:glpi-project:glpi:10.0.15:*:*:*:*:*:*:*",
+			"cpeNameId": "6FAB37C4-47FD-416C-B6DB-BFCCF0AA62A6"
+		},
+		{
+			"cpeName": "cpe:2.3:a:glpi-project:glpi:10.0.16:*:*:*:*:*:*:*",
+			"cpeNameId": "BB2DE3A3-B87A-4475-A5BC-ED876C08D1F8"
 		}
 	]
 }

@@ -5,7 +5,7 @@
 	"versionEndExcluding": "10.0.10",
 	"created": "2023-09-29T11:35:52.303",
 	"lastModified": "2023-12-09T00:30:32.643",
-	"cpeLastModified": "2023-09-29T11:35:52.303",
+	"cpeLastModified": "2025-01-02T12:09:40.410",
 	"status": "Active",
 	"matches": [
 		{
@@ -255,6 +255,10 @@
 		{
 			"cpeName": "cpe:2.3:a:glpi-project:glpi:10.0.7:*:*:*:*:*:*:*",
 			"cpeNameId": "26EC06A9-EF4D-4C4A-A46A-E79F5AFD7210"
+		},
+		{
+			"cpeName": "cpe:2.3:a:glpi-project:glpi:10.0.8:*:*:*:*:*:*:*",
+			"cpeNameId": "D6B175A5-C791-439C-96B1-2E66D389E887"
 		},
 		{
 			"cpeName": "cpe:2.3:a:glpi-project:glpi:10.0.9:*:*:*:*:*:*:*",
