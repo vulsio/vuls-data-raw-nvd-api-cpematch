@@ -4,9 +4,13 @@
 	"versionEndExcluding": "1.9.2",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2021-03-30T15:04:21.730",
+	"cpeLastModified": "2025-01-03T17:06:40.267",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:buddypress:buddypress:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "ECC4E768-791E-4F10-9505-837C320A7D45"
+		},
 		{
 			"cpeName": "cpe:2.3:a:buddypress:buddypress:0.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "C08884C5-71E3-423F-B41C-C92D541835FB"

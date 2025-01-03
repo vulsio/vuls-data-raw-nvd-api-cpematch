@@ -4,8 +4,8 @@
 	"versionStartIncluding": "6.5.1",
 	"versionEndIncluding": "6.5.10",
 	"created": "2024-10-15T20:01:18.650",
-	"lastModified": "2024-10-15T20:01:18.650",
-	"cpeLastModified": "2024-10-15T20:01:18.650",
+	"lastModified": "2025-01-03T18:15:23.340",
+	"cpeLastModified": "2025-01-03T18:15:23.340",
 	"status": "Active",
 	"matches": [
 		{
@@ -39,6 +39,14 @@
 		{
 			"cpeName": "cpe:2.3:a:znuny:znuny:6.5.8:*:*:*:lts:*:*:*",
 			"cpeNameId": "99A06EE5-7218-4267-89FD-52D64E0C2D92"
+		},
+		{
+			"cpeName": "cpe:2.3:a:znuny:znuny:6.5.9:*:*:*:lts:*:*:*",
+			"cpeNameId": "49553053-E419-49FF-A5E6-AC22E12932A0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:znuny:znuny:6.5.10:*:*:*:lts:*:*:*",
+			"cpeNameId": "AA4A880E-E17F-4E8D-8112-4DD65574FB39"
 		}
 	]
 }

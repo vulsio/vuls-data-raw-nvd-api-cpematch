@@ -3,10 +3,14 @@
 	"matchCriteriaId": "BF260165-FC6C-43A6-A034-EBAF26131A40",
 	"versionEndExcluding": "5.9.2",
 	"created": "2024-09-19T19:10:55.413",
-	"lastModified": "2024-09-19T19:10:55.413",
-	"cpeLastModified": "2024-09-19T19:10:55.413",
+	"lastModified": "2025-01-03T15:01:08.833",
+	"cpeLastModified": "2025-01-03T15:01:08.833",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:churchcrm:churchcrm:-:*:*:*:*:*:*:*",
+			"cpeNameId": "3393B75F-9E42-4FDB-86D5-4044D95654B9"
+		},
 		{
 			"cpeName": "cpe:2.3:a:churchcrm:churchcrm:2.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "AB94FAED-C741-458C-BC4A-7D8602ABCAF6"

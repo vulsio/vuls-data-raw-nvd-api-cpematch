@@ -3,8 +3,8 @@
 	"matchCriteriaId": "FEB2A533-9EA8-413F-9116-4E13CF868719",
 	"versionEndExcluding": "2.6.3",
 	"created": "2024-11-06T19:17:00.193",
-	"lastModified": "2024-11-06T19:17:00.193",
-	"cpeLastModified": "2024-11-06T19:17:00.193",
+	"lastModified": "2025-01-03T15:21:22.490",
+	"cpeLastModified": "2025-01-03T15:21:22.490",
 	"status": "Active",
 	"matches": [
 		{
@@ -114,6 +114,10 @@
 		{
 			"cpeName": "cpe:2.3:a:kibokolabs:namaste\\!_lms:2.6.1.2:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "9B784713-2E0C-424B-B206-C0479F3CB671"
+		},
+		{
+			"cpeName": "cpe:2.3:a:kibokolabs:namaste\\!_lms:2.6.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CFB51CC5-318A-4F05-A63A-D762F1463563"
 		}
 	]
 }
