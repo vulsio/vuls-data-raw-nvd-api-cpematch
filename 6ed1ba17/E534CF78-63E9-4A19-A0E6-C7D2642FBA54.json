@@ -3,8 +3,8 @@
 	"matchCriteriaId": "E534CF78-63E9-4A19-A0E6-C7D2642FBA54",
 	"versionEndExcluding": "1.36.34",
 	"created": "2024-08-23T17:21:56.340",
-	"lastModified": "2024-08-23T17:21:56.340",
-	"cpeLastModified": "2024-08-23T17:21:56.340",
+	"lastModified": "2025-01-02T19:57:20.697",
+	"cpeLastModified": "2025-01-02T19:57:20.697",
 	"status": "Active",
 	"matches": [
 		{
@@ -398,6 +398,10 @@
 		{
 			"cpeName": "cpe:2.3:a:zoneminder:zoneminder:1.36.32:*:*:*:*:*:*:*",
 			"cpeNameId": "F1837F8A-1B52-4CA9-B7C7-BFFE16EA75DA"
+		},
+		{
+			"cpeName": "cpe:2.3:a:zoneminder:zoneminder:1.36.33:*:*:*:*:*:*:*",
+			"cpeNameId": "0A030AAD-44F9-4883-A24C-7342A24A789C"
 		}
 	]
 }

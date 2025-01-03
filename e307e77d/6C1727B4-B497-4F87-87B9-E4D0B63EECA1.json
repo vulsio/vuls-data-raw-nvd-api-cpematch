@@ -3,10 +3,14 @@
 	"matchCriteriaId": "6C1727B4-B497-4F87-87B9-E4D0B63EECA1",
 	"versionEndExcluding": "5.8.0.24",
 	"created": "2024-12-20T11:37:49.723",
-	"lastModified": "2024-12-20T11:37:49.723",
-	"cpeLastModified": "2024-12-20T11:37:49.723",
+	"lastModified": "2025-01-02T18:33:23.807",
+	"cpeLastModified": "2025-01-02T18:33:23.807",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:cleo:lexicom:-:*:*:*:*:*:*:*",
+			"cpeNameId": "787BBDC2-DB8E-431F-B8C3-978861AD44C8"
+		},
 		{
 			"cpeName": "cpe:2.3:a:cleo:lexicom:5.5.0.0:*:*:*:*:*:*:*",
 			"cpeNameId": "D5D00DBD-C135-430D-84E3-1BC6B48E31DA"
@@ -26,6 +30,14 @@
 		{
 			"cpeName": "cpe:2.3:a:cleo:lexicom:5.7:*:*:*:*:*:*:*",
 			"cpeNameId": "72F63F73-9A25-41B2-85DD-D9945002058E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleo:lexicom:5.8:*:*:*:*:*:*:*",
+			"cpeNameId": "A77D277A-2210-4AFF-8A72-27D7CD2A9CCE"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cleo:lexicom:5.8.0.21:*:*:*:*:*:*:*",
+			"cpeNameId": "CB9020CF-9609-4578-85A1-662C535F21D6"
 		}
 	]
 }

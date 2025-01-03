@@ -3,8 +3,8 @@
 	"matchCriteriaId": "92264385-0A90-4FD4-8D0C-2D622225F2C9",
 	"versionEndExcluding": "2.7.5",
 	"created": "2024-09-25T21:51:27.260",
-	"lastModified": "2024-09-25T21:51:27.260",
-	"cpeLastModified": "2024-09-25T21:51:27.260",
+	"lastModified": "2025-01-02T20:02:43.157",
+	"cpeLastModified": "2025-01-02T20:02:43.157",
 	"status": "Active",
 	"matches": [
 		{
@@ -546,6 +546,10 @@
 		{
 			"cpeName": "cpe:2.3:a:themeum:tutor_lms:2.7.3:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "0661C3CF-DC8C-429E-BC70-6C69B290B7C3"
+		},
+		{
+			"cpeName": "cpe:2.3:a:themeum:tutor_lms:2.7.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6D497647-344A-471B-A798-85A54F4A9262"
 		}
 	]
 }

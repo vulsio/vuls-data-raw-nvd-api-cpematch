@@ -4,9 +4,13 @@
 	"versionEndExcluding": "3.5.0",
 	"created": "2024-02-14T12:20:41.990",
 	"lastModified": "2024-02-14T12:20:41.990",
-	"cpeLastModified": "2024-02-14T12:20:41.990",
+	"cpeLastModified": "2025-01-02T20:11:48.913",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:squirrly:starbox:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9BFCB805-E354-4BF1-AE4E-A28C98C65F1A"
+		},
 		{
 			"cpeName": "cpe:2.3:a:squirrly:starbox:2.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "BDE4CA81-0A24-4B72-A9C6-777026CA497C"

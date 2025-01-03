@@ -4,7 +4,7 @@
 	"versionEndExcluding": "2024-10-05",
 	"created": "2024-10-26T00:15:19.760",
 	"lastModified": "2024-10-26T00:15:19.760",
-	"cpeLastModified": "2024-10-26T00:15:19.760",
+	"cpeLastModified": "2025-01-02T20:24:25.397",
 	"status": "Active",
 	"matches": [
 		{
@@ -322,6 +322,10 @@
 		{
 			"cpeName": "cpe:2.3:o:google:android:14.0:*:*:*:*:*:*:*",
 			"cpeNameId": "0E01D460-A5E7-46B6-8D76-3F97B6BEF1B4"
+		},
+		{
+			"cpeName": "cpe:2.3:o:google:android:15.0:*:*:*:*:*:*:*",
+			"cpeNameId": "595C79EF-D85B-4872-A614-ECA610D843F9"
 		},
 		{
 			"cpeName": "cpe:2.3:o:google:android:2020-06-01:*:*:*:*:*:*:*",

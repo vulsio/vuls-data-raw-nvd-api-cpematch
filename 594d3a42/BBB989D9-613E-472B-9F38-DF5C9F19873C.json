@@ -5,6 +5,12 @@
 	"versionEndExcluding": "10.1.0.0",
 	"created": "2024-09-18T14:35:41.183",
 	"lastModified": "2024-09-18T14:35:41.183",
-	"cpeLastModified": "2024-09-18T14:35:41.183",
-	"status": "Active"
+	"cpeLastModified": "2025-01-02T20:08:53.563",
+	"status": "Active",
+	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:hitachi:pentaho_business_analytics_server:9.3.1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "F4F7D72C-7D7D-49ED-A0BD-D1547AA9CA57"
+		}
+	]
 }

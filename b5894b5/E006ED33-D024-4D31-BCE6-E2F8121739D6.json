@@ -3,10 +3,14 @@
 	"matchCriteriaId": "E006ED33-D024-4D31-BCE6-E2F8121739D6",
 	"versionEndExcluding": "2.3.0",
 	"created": "2024-08-21T16:28:06.767",
-	"lastModified": "2024-08-21T16:28:06.767",
-	"cpeLastModified": "2024-08-21T16:28:06.767",
+	"lastModified": "2025-01-02T20:31:28.223",
+	"cpeLastModified": "2025-01-02T20:31:28.223",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apolloconfig:apollo:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BF79DCB4-19E9-4295-BD70-B16987778175"
+		},
 		{
 			"cpeName": "cpe:2.3:a:apolloconfig:apollo:0.4.0:*:*:*:*:*:*:*",
 			"cpeNameId": "048C4B88-29C0-45A6-9D5A-E63FE261B9CC"
@@ -158,6 +162,10 @@
 		{
 			"cpeName": "cpe:2.3:a:apolloconfig:apollo:2.1.0:*:*:*:*:*:*:*",
 			"cpeNameId": "EEB06744-4112-445A-B9B5-FAD4B952E826"
+		},
+		{
+			"cpeName": "cpe:2.3:a:apolloconfig:apollo:2.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "923779FD-B2F6-4D21-AA13-238B879ED3F7"
 		}
 	]
 }

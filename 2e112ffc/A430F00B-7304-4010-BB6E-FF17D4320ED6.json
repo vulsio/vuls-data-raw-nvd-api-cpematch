@@ -4,10 +4,14 @@
 	"versionStartIncluding": "8.6.3",
 	"versionEndExcluding": "8.14.0",
 	"created": "2024-10-02T20:24:19.193",
-	"lastModified": "2024-10-02T20:24:19.193",
-	"cpeLastModified": "2024-10-02T20:24:19.193",
+	"lastModified": "2025-01-02T20:18:14.717",
+	"cpeLastModified": "2025-01-02T20:18:14.717",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:elastic:kibana:8.6.3:*:*:*:*:*:*:*",
+			"cpeNameId": "6C8CF20C-683E-4FC7-855E-4619B20546FC"
+		},
 		{
 			"cpeName": "cpe:2.3:a:elastic:kibana:8.7.0:*:*:*:*:*:*:*",
 			"cpeNameId": "492ADBB6-9143-4834-A6EF-15F988F5EAB5"

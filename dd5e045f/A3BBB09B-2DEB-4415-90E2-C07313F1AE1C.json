@@ -4,7 +4,7 @@
 	"versionEndIncluding": "11.5\\(3\\)pb3",
 	"created": "2019-07-10T18:08:53.507",
 	"lastModified": "2019-07-10T18:08:53.507",
-	"cpeLastModified": "2020-06-23T20:35:52.643",
+	"cpeLastModified": "2025-01-02T19:43:21.963",
 	"status": "Active",
 	"matches": [
 		{
@@ -76,6 +76,10 @@
 			"cpeNameId": "1302559D-0418-4B51-8AE9-A6159A28A116"
 		},
 		{
+			"cpeName": "cpe:2.3:a:cisco:hosted_collaboration_solution:10.5\\(1\\):*:*:*:*:*:*:*",
+			"cpeNameId": "2EFAABC6-AE3B-46A6-8175-658472995F23"
+		},
+		{
 			"cpeName": "cpe:2.3:a:cisco:hosted_collaboration_solution:10.5\\(1\\)_base:*:*:*:*:*:*:*",
 			"cpeNameId": "D8F1FD2E-C403-4F42-8B48-9D67EC22E3DB"
 		},
@@ -90,6 +94,10 @@
 		{
 			"cpeName": "cpe:2.3:a:cisco:hosted_collaboration_solution:10.6_base:*:*:*:*:*:*:*",
 			"cpeNameId": "843BD3F5-E4B5-4D60-AD15-70E2ED8EB6DD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cisco:hosted_collaboration_solution:11.0\\(1\\):*:*:*:*:*:*:*",
+			"cpeNameId": "2B640487-F31C-4221-A886-F2A7F75EBE67"
 		},
 		{
 			"cpeName": "cpe:2.3:a:cisco:hosted_collaboration_solution:11.5\\(1\\):*:*:*:*:*:*:*",

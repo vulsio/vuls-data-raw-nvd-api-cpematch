@@ -3,10 +3,14 @@
 	"matchCriteriaId": "331DF1C2-6300-4A43-A415-41A7B8B0E97D",
 	"versionEndExcluding": "2.1.13",
 	"created": "2024-10-21T18:14:49.417",
-	"lastModified": "2024-10-21T18:14:49.417",
-	"cpeLastModified": "2024-10-21T18:14:49.417",
+	"lastModified": "2025-01-02T20:08:24.403",
+	"cpeLastModified": "2025-01-02T20:08:24.403",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:tychesoftwares:arconix_shortcodes:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "EDF2EEB7-C12D-4F51-AFF5-E35F52A1D0B7"
+		},
 		{
 			"cpeName": "cpe:2.3:a:tychesoftwares:arconix_shortcodes:0.9.1:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "076CB1BA-4CED-4EA4-B233-F3DF88E6A3EA"
@@ -110,6 +114,26 @@
 		{
 			"cpeName": "cpe:2.3:a:tychesoftwares:arconix_shortcodes:2.1.7:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "848865E4-3D5F-4C1B-BF4F-286569B6E74B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tychesoftwares:arconix_shortcodes:2.1.8:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9C9B6286-3499-45B4-A9A3-9A0AEDDAFBAD"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tychesoftwares:arconix_shortcodes:2.1.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "295C80FF-F47F-4870-B153-D3D2974D006C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tychesoftwares:arconix_shortcodes:2.1.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AE47AD54-DACD-4303-B193-6D82A17C2F4C"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tychesoftwares:arconix_shortcodes:2.1.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "796B7F62-9566-4600-B1F2-69700E027960"
+		},
+		{
+			"cpeName": "cpe:2.3:a:tychesoftwares:arconix_shortcodes:2.1.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9C8EE837-5ED5-47CB-8C9F-E1F57BFCBB14"
 		}
 	]
 }

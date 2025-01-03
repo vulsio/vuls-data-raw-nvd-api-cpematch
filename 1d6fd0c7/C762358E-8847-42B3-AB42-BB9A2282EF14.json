@@ -3,10 +3,14 @@
 	"matchCriteriaId": "C762358E-8847-42B3-AB42-BB9A2282EF14",
 	"versionEndExcluding": "3.5.3",
 	"created": "2024-10-03T16:53:21.140",
-	"lastModified": "2024-10-03T16:53:21.140",
-	"cpeLastModified": "2024-10-03T16:53:21.140",
+	"lastModified": "2025-01-02T20:11:48.913",
+	"cpeLastModified": "2025-01-02T20:11:48.913",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:squirrly:starbox:-:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9BFCB805-E354-4BF1-AE4E-A28C98C65F1A"
+		},
 		{
 			"cpeName": "cpe:2.3:a:squirrly:starbox:2.0.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "BDE4CA81-0A24-4B72-A9C6-777026CA497C"
@@ -210,6 +214,14 @@
 		{
 			"cpeName": "cpe:2.3:a:squirrly:starbox:3.5.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "9758C163-0A39-436E-B078-B55411D0D668"
+		},
+		{
+			"cpeName": "cpe:2.3:a:squirrly:starbox:3.5.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D5FDC712-1A4A-4DF2-881A-81A400EBF8B4"
+		},
+		{
+			"cpeName": "cpe:2.3:a:squirrly:starbox:3.5.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "9362BE55-8FE6-4323-84FF-02880AE6F2AA"
 		}
 	]
 }

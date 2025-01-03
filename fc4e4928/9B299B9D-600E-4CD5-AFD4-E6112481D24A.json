@@ -3,8 +3,8 @@
 	"matchCriteriaId": "9B299B9D-600E-4CD5-AFD4-E6112481D24A",
 	"versionEndExcluding": "1.7.3",
 	"created": "2024-09-25T17:18:26.000",
-	"lastModified": "2024-09-25T17:18:26.000",
-	"cpeLastModified": "2024-09-25T17:18:26.000",
+	"lastModified": "2025-01-02T20:33:07.747",
+	"cpeLastModified": "2025-01-02T20:33:07.747",
 	"status": "Active",
 	"matches": [
 		{
@@ -66,6 +66,14 @@
 		{
 			"cpeName": "cpe:2.3:a:cminds:cm_popup:1.7.0:*:*:*:*:wordpress:*:*",
 			"cpeNameId": "0B729918-A668-4853-AC87-583A0F0BCDAB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cminds:cm_popup:1.7.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "817A16BF-DD90-43AF-ACAB-F66040168E45"
+		},
+		{
+			"cpeName": "cpe:2.3:a:cminds:cm_popup:1.7.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FE9C9886-59C0-490A-A648-0AE59D5F6567"
 		}
 	]
 }

@@ -3,8 +3,8 @@
 	"matchCriteriaId": "F56BD836-38D0-4D43-9151-787E4EB0C16E",
 	"versionEndExcluding": "2.2.4",
 	"created": "2024-12-31T14:31:06.813",
-	"lastModified": "2024-12-31T14:31:06.813",
-	"cpeLastModified": "2024-12-31T14:31:06.813",
+	"lastModified": "2025-01-02T18:30:29.757",
+	"cpeLastModified": "2025-01-02T18:30:29.757",
 	"status": "Active",
 	"matches": [
 		{
@@ -190,6 +190,14 @@
 		{
 			"cpeName": "cpe:2.3:a:sigstore:cosign:2.2.1:*:*:*:*:*:*:*",
 			"cpeNameId": "05C008B4-7D04-4A85-BE5F-8E54ED6B9052"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sigstore:cosign:2.2.2:*:*:*:*:*:*:*",
+			"cpeNameId": "B99D5627-1F74-4F71-AA00-CDFF5EC1591A"
+		},
+		{
+			"cpeName": "cpe:2.3:a:sigstore:cosign:2.2.3:*:*:*:*:*:*:*",
+			"cpeNameId": "4871ED47-D01D-4FE8-AFDE-870CEADCC74C"
 		}
 	]
 }

@@ -4,7 +4,7 @@
 	"versionStartIncluding": "4.2.0",
 	"created": "2019-06-17T09:16:33.960",
 	"lastModified": "2019-06-17T09:16:33.960",
-	"cpeLastModified": "2024-01-16T19:04:18.707",
+	"cpeLastModified": "2025-01-02T20:19:39.113",
 	"status": "Active",
 	"matches": [
 		{
@@ -318,6 +318,22 @@
 		{
 			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.11.1:*:*:*:*:*:*:*",
 			"cpeNameId": "EBD0FCEC-C652-4B76-BA37-E383979AD1C0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.11.2:*:*:*:*:*:*:*",
+			"cpeNameId": "EF37AC72-DB39-4BFC-8391-221231D79DC0"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.12.0:*:*:*:*:*:*:*",
+			"cpeNameId": "094642D5-0206-4B1E-85C1-494835BAF842"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.12.1:*:*:*:*:*:*:*",
+			"cpeNameId": "3017BF7F-BF95-4DA7-ACBA-8DFE31FE2C53"
+		},
+		{
+			"cpeName": "cpe:2.3:a:freeipa:freeipa:4.12.2:*:*:*:*:*:*:*",
+			"cpeNameId": "39022698-E57F-4660-BD67-4BFE22F874B3"
 		}
 	]
 }

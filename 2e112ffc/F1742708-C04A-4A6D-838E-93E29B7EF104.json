@@ -5,7 +5,7 @@
 	"versionEndExcluding": "8.12.1",
 	"created": "2024-02-13T19:22:25.430",
 	"lastModified": "2024-04-02T12:15:25.780",
-	"cpeLastModified": "2024-02-13T19:22:25.430",
+	"cpeLastModified": "2025-01-02T20:18:14.717",
 	"status": "Active",
 	"matches": [
 		{
@@ -131,6 +131,10 @@
 		{
 			"cpeName": "cpe:2.3:a:elastic:kibana:8.6.2:*:*:*:*:*:*:*",
 			"cpeNameId": "4C5E3083-B536-49B2-96F2-E35D561C26CB"
+		},
+		{
+			"cpeName": "cpe:2.3:a:elastic:kibana:8.6.3:*:*:*:*:*:*:*",
+			"cpeNameId": "6C8CF20C-683E-4FC7-855E-4619B20546FC"
 		},
 		{
 			"cpeName": "cpe:2.3:a:elastic:kibana:8.7.0:*:*:*:*:*:*:*",

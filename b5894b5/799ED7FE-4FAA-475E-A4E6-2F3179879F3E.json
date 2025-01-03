@@ -4,9 +4,13 @@
 	"versionEndExcluding": "2.1.0",
 	"created": "2023-02-27T20:34:01.087",
 	"lastModified": "2023-02-28T17:57:19.410",
-	"cpeLastModified": "2023-02-28T17:57:19.410",
+	"cpeLastModified": "2025-01-02T20:31:28.223",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:a:apolloconfig:apollo:-:*:*:*:*:*:*:*",
+			"cpeNameId": "BF79DCB4-19E9-4295-BD70-B16987778175"
+		},
 		{
 			"cpeName": "cpe:2.3:a:apolloconfig:apollo:0.4.0:*:*:*:*:*:*:*",
 			"cpeNameId": "048C4B88-29C0-45A6-9D5A-E63FE261B9CC"
