@@ -4,9 +4,13 @@
 	"versionEndExcluding": "2017-01-06",
 	"created": "2020-05-01T18:05:17.400",
 	"lastModified": "2020-05-01T18:05:17.400",
-	"cpeLastModified": "2020-05-01T18:05:17.417",
+	"cpeLastModified": "2025-01-03T18:13:32.277",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netgear:wnr618_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "966ECEF1-047A-4878-878A-4AEF54958758"
+		},
 		{
 			"cpeName": "cpe:2.3:o:netgear:wnr618_firmware:1.1.0.40:*:*:*:*:*:*:*",
 			"cpeNameId": "550E639E-233B-48C8-B024-19EC30367F7C"

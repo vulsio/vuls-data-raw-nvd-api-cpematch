@@ -4,7 +4,7 @@
 	"versionEndExcluding": "1.0.0.74",
 	"created": "2022-01-07T19:35:13.043",
 	"lastModified": "2022-01-07T19:35:13.043",
-	"cpeLastModified": "2022-01-10T16:06:34.857",
+	"cpeLastModified": "2025-01-03T18:13:32.277",
 	"status": "Active",
 	"matches": [
 		{
@@ -18,6 +18,10 @@
 		{
 			"cpeName": "cpe:2.3:o:netgear:wnr2000v5_firmware:1.0.0.41:*:*:*:*:*:*:*",
 			"cpeNameId": "E7A2428C-B8EA-4CEB-B90C-3B6D522B2EDB"
+		},
+		{
+			"cpeName": "cpe:2.3:o:netgear:wnr2000v5_firmware:1.0.0.42:*:*:*:*:*:*:*",
+			"cpeNameId": "B7FBA4A9-9D2C-499B-9308-CE3E893DBD7E"
 		},
 		{
 			"cpeName": "cpe:2.3:o:netgear:wnr2000v5_firmware:1.0.0.66:*:*:*:*:*:*:*",

@@ -4,9 +4,13 @@
 	"versionEndExcluding": "1.1.0.62",
 	"created": "2020-12-31T17:55:59.493",
 	"lastModified": "2020-12-31T17:55:59.493",
-	"cpeLastModified": "2020-12-31T17:55:59.510",
+	"cpeLastModified": "2025-01-03T18:13:32.277",
 	"status": "Active",
 	"matches": [
+		{
+			"cpeName": "cpe:2.3:o:netgear:wnr2050_firmware:-:*:*:*:*:*:*:*",
+			"cpeNameId": "78630E01-1332-4164-9173-0BE8E3B489EC"
+		},
 		{
 			"cpeName": "cpe:2.3:o:netgear:wnr2050_firmware:1.1.0.40:*:*:*:*:*:*:*",
 			"cpeNameId": "7881EEF1-54C6-40DC-9390-35486DCB317B"
